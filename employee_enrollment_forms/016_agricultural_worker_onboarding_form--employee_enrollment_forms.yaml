@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Worker Onboarding Form
+    pages:
+    - id: 1
+      name: employee_details_header
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: As it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ssn_id
+      label: Social Security or ID Number
+      hint: For tax and employment verification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: Name and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_details_header
+      label: -- Job Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_title
+      label: Position Title
+      hint: e.g. Field Hand, Tractor Operator
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: First day of work
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: Select one
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Seasonal / Temporary
+      required: true
+    - id: 11
+      name: payroll_header
+      label: -- Direct Deposit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: routing_number
+      label: Routing Number
+      hint: 9 digit number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: account_number
+      label: Account Number
+      hint: Double check for accuracy
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: documents_header
+      label: -- Required Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tax_forms_note
+      label: Tax Forms Upload
+      hint: Please scan and email W-4 and I-9 to hr@farm.com
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: safety_training
+      label: Safety Training Acknowledgement
+      hint: I agree to attend mandatory safety training
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: uniform_size
+      label: Uniform Shirt Size
+      hint: For work shirts
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 19
+      name: signature
+      label: Employee Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true

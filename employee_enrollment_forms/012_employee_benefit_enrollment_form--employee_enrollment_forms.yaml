@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefit Enrollment Form
+    pages:
+    - id: 1
+      name: employee_benefit_enrollment_form
+      label: Employee Benefit Enrollment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_category
+      label: Employee Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Full-time'', ''value'': ''full-time''}'
+      - '{''name'': ''Part-time'', ''value'': ''part-time''}'
+      - '{''name'': ''Contractor'', ''value'': ''contractor''}'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth_earlier
+      label: Earlier Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Aetna'', ''value'': ''aetna''}'
+      - '{''name'': ''Blue Cross Blue Shield'', ''value'': ''blue-cross-blue-shield''}'
+      - '{''name'': ''Cigna'', ''value'': ''cigna''}'
+      required: false
+    - id: 6
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 7
+      name: benefits_earlier
+      label: Earlier Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 8
+      name: benefits_later
+      label: Later Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 9
+      name: benefits_earlier_2
+      label: Earlier Benefits 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 10
+      name: benefits_later_2
+      label: Later Benefits 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 11
+      name: benefits_earlier_3
+      label: Earlier Benefits 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 12
+      name: benefits_later_3
+      label: Later Benefits 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Active'', ''value'': ''active''}'
+      - '{''name'': ''Inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''HR'', ''value'': ''hr''}'
+      - '{''name'': ''IT'', ''value'': ''it''}'
+      - '{''name'': ''Accounting'', ''value'': ''accounting''}'
+      required: false
+    - id: 17
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''John Smith'', ''value'': ''john-smith''}'
+      - '{''name'': ''Jane Doe'', ''value'': ''jane-doe''}'
+      required: false
+    - id: 19
+      name: job_level
+      label: Job Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_level_2
+      label: Job Level 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_2
+      label: Manager 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''John Smith'', ''value'': ''john-smith''}'
+      - '{''name'': ''Jane Doe'', ''value'': ''jane-doe''}'
+      required: false
+    - id: 22
+      name: benefits_earlier_4
+      label: Earlier Benefits 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 23
+      name: benefits_later_4
+      label: Later Benefits 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 24
+      name: benefits_earlier_5
+      label: Earlier Benefits 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false
+    - id: 25
+      name: benefits_later_5
+      label: Later Benefits 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
+      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
+      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      required: false

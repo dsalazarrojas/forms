@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Advertisement Requisition Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      required: false
+    - id: 4
+      name: job_category
+      label: job category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 5
+      name: required_skills
+      label: required skills
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      - Skill 3
+      - Skill 4
+      required: false
+    - id: 6
+      name: working_hours
+      label: Working Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pay_rate
+      label: pay rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: false
+    - id: 9
+      name: required_travel
+      label: Required Travel
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      required: false
+    - id: 11
+      name: shift_details
+      label: Shift Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Pending
+      required: false
+    - id: 13
+      name: job_posting_end_date
+      label: Job Posting End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: job_posting_start_date
+      label: Job Posting Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: job_posting_status
+      label: Job Posting Status
+      hint: null
+      type: select_one
+      options:
+      - Published
+      - Draft
+      - In Review
+      required: false
+    - id: 16
+      name: job_posting_type
+      label: Job Posting Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 17
+      name: job_posting_url
+      label: Job Posting URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_type_of_contract
+      label: Job Type of Contract
+      hint: null
+      type: select_one
+      options:
+      - Full time
+      - Part time
+      - Temporary
+      required: false
+    - id: 19
+      name: job_category_of_contract
+      label: Job Category of Contract
+      hint: null
+      type: select_one
+      options:
+      - Permanent
+      - Temporary
+      - Contract
+      required: false
+    - id: 20
+      name: job_category_of_employment
+      label: Job Category of Employment
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Temporary
+      - Contract
+      required: false
+    - id: 21
+      name: job_posting_description
+      label: Job Posting Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: required_documents
+      label: Required Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 23
+      name: job_posting_notes
+      label: Job Posting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: job_posting_tags
+      label: Job Posting Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 25
+      name: job_posting_source
+      label: Job Posting Source
+      hint: null
+      type: select_one
+      options:
+      - Source 1
+      - Source 2
+      required: false

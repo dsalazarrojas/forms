@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time And Attendance Acknowledgment Form
+    pages:
+    - id: 1
+      name: time_and_attendance_acknowledgment_form
+      label: Time And Attendance Acknowledgment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: time_and_attendance_acknowledgment_form_employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: time_and_attendance_acknowledgment_form_employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: time_and_attendance_acknowledgment_form_department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: time_and_attendance_acknowledgment_form_location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: time_and_attendance_acknowledgment_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_and_attendance_acknowledgment_form_time_in
+      label: time_in
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: time_and_attendance_acknowledgment_form_time_out
+      label: time_out
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: time_and_attendance_acknowledgment_form_amendment
+      label: amendment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: time_and_attendance_acknowledgment_form_amendment_reason
+      label: amendment_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: time_and_attendance_acknowledgment_form_submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: time_and_attendance_acknowledgment_form_submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_and_attendance_acknowledgment_form_note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false

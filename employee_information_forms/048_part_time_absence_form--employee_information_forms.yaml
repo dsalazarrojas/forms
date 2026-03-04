@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Part Time Absence Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: absence_start_date
+      label: absence_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: absence_end_date
+      label: absence_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: days_absence
+      label: days_absence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - pending
+      - denied
+      required: true
+    - id: 10
+      name: submission_note
+      label: submission_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

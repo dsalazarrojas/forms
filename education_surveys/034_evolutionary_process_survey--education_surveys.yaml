@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evolutionary Process Survey
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evolutionary_process
+      label: How would you rate your level of knowledge about evolutionary processes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evolutionary_process_2
+      label: How would you rate your understanding about how evolutionary processes
+        influence public outreach?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: course_instructor
+      label: Course Instructor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: evolutionary_process_3
+      label: How would you rate your confidence in using evolutionary processes in
+        your teaching?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: course_students
+      label: Number of Students in the Course
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evolutionary_process_4
+      label: How would you rate the level of evolutionary processes in the curriculum?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 9
+      name: evolutionary_process_5
+      label: How would you rate the effectiveness of the evolution survey?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evolutionary_process_6
+      label: Evolutionary Process Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: evolutionary_process_7
+      label: Evolutionary Process Survey Email
+      hint: null
+      type: email
+      options: []
+      required: false

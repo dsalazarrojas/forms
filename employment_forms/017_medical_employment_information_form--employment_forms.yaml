@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Employment Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: Enter contact person's first name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: Enter contact person's last name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: Enter contact information (e.g. phone, address, email)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Enter insurance provider name or name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Enter policy number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_insurance_type
+      label: Medical Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_insurance_group
+      label: Medical Insurance Group
+      hint: Enter insurance group name or number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter contact person's phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Enter contact person's address
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Medications
+      hint: List of medications
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_notes
+      label: Medical Notes
+      hint: Any medical notes
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_employment_info
+      label: Medical Employment Info
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: medical_clearance_other
+      label: Other Medical Clearance
+      hint: Enter other medical clearance
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_clearance_details
+      label: Medical Clearance Details
+      hint: Enter medical clearance details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition
+      label: Medical Condition
+      hint: Enter medical condition
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: Enter medical condition details
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_other
+      label: Other Medical History
+      hint: Enter other medical history
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_employment_history
+      label: Medical Employment History
+      hint: Enter medical employment history
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_emergency_contact
+      label: Medical Emergency Contact
+      hint: Emergency contact person's information
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

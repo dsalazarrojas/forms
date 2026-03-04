@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Rotation Participation Form
+    pages:
+    - id: 1
+      name: employee_surveys_form
+      label: Employee Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_rotation_form
+      label: Job Rotation Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_rotation_program
+      label: Job Rotation Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_rotation_participation_rules
+      label: Job Rotation Participation Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_rotation_participation_benefits
+      label: Job Rotation Participation Benefits
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Visualization Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Research Visualization Request Form --
+      hint: Submit your request for visualization support for your research project.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department or research group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_title
+      label: Research project title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Brief description of the research project
+      hint: Provide enough detail to help the visualization team understand your data
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: visualization_type
+      label: Type of visualization needed (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Charts and graphs
+      - Infographics
+      - Interactive dashboards
+      - Geographic maps
+      - Network diagrams
+      - 3D models
+      - Data animations
+      required: true
+    - id: 9
+      name: data_format
+      label: What format is your data currently in
+      hint: null
+      type: select_one
+      options:
+      - Spreadsheet (Excel or CSV)
+      - Database
+      - Statistical software output (SPSS, R, SAS)
+      - Raw text or survey responses
+      - Other
+      required: true
+    - id: 10
+      name: data_size
+      label: Approximate size of your dataset
+      hint: null
+      type: select_one
+      options:
+      - Small (under 100 records)
+      - Medium (100-1000 records)
+      - Large (1000-10000 records)
+      - Very large (over 10000 records)
+      required: true
+    - id: 11
+      name: intended_audience
+      label: Who is the intended audience for the visualization
+      hint: null
+      type: select_one
+      options:
+      - Academic publication
+      - Conference presentation
+      - Grant proposal
+      - Internal review
+      - Public outreach
+      - Classroom instruction
+      required: true
+    - id: 12
+      name: deadline
+      label: Requested completion date
+      hint: Please allow at least two weeks for standard requests
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: urgency_level
+      label: Priority level
+      hint: null
+      type: select_one
+      options:
+      - Low - flexible timeline
+      - Medium - within requested date
+      - High - urgent, time-sensitive
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Any special requirements or design preferences
+      hint: e.g. color schemes, branding guidelines, accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional notes or instructions
+      hint: null
+      type: text
+      options: []
+      required: false

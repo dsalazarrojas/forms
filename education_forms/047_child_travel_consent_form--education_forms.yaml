@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Travel Consent Form
+    pages:
+    - id: 1
+      name: section_school_trip_info
+      label: -- School Trip Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trip_name
+      label: Name of Trip or Excursion
+      hint: As listed in the trip flyer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trip_date
+      label: Date of Trip
+      hint: Single day or start date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_student_details
+      label: -- Student Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: Student Full Name
+      hint: As registered in school
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teacher_class_info
+      label: Teacher and Class Information
+      hint: e.g., Mr. Smith - Grade 4
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_parental_consent
+      label: -- Parental Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participation_consent
+      label: Do you consent to your child participation in this trip?
+      hint: Approval for student to attend
+      type: select_one
+      options:
+      - label: Yes - My child may attend
+        value: true
+      - label: No - My child will not attend
+        value: false
+      required: true
+    - id: 9
+      name: transport_consent
+      label: Transport Consent
+      hint: Select all approved modes
+      type: select_multiple
+      options:
+      - label: Provided School Bus
+        value: bus
+      - label: Public Transit or Rail
+        value: public
+      - label: Walking to local site
+        value: walking
+      required: true
+    - id: 10
+      name: section_medical_emergency
+      label: -- Medical and Emergency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Number
+      hint: Primary mobile for the day of the trip
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: trip_medications
+      label: List any medications needed during the trip
+      hint: To be handed to the lead teacher
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: food_allergies_text
+      label: Food allergies or dietary restrictions
+      hint: For meal planning if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_treatment_auth
+      label: I authorize emergency medical treatment if required
+      hint: In case of urgent need during the trip
+      type: select_one
+      options:
+      - label: I Authorize
+        value: true
+      - label: I Do Not Authorize
+        value: false
+      required: true
+    - id: 15
+      name: today_date
+      label: Today Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Learning Motivation Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: motivation
+      label: motivation
+      hint: null
+      type: select_multiple
+      options:
+      - Social interaction
+      - Academic challenge
+      - Learning new things
+      - Other
+      required: false
+    - id: 9
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - Language Arts
+      - Other
+      required: false

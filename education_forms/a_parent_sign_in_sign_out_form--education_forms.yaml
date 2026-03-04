@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A2P 10DLC Business Registration Support Request
+    pages:
+    - id: 1
+      name: section_header_registration
+      label: "--- Registration Request ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business legal name
+      hint: Must match official registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ein_or_tax_id
+      label: EIN / Tax ID
+      hint: Enter numeric identifier (no dashes if preferred)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary contact person
+      hint: Name of person handling registration
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: For registration updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile or office number
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: company_website
+      label: Company website or domain
+      hint: "Include https:// if available"
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: messaging_use_case
+      label: Messaging use case
+      hint: Select the primary use case for A2P traffic
+      type: select_one
+      options:
+        - Marketing promotions
+        - Transactional alerts
+        - Two-factor authentication (OTP)
+        - Customer care / support
+        - Appointment reminders
+      required: true
+    - id: 9
+      name: estimated_monthly_volume
+      label: Estimated monthly message volume
+      hint: Approximate number of messages per month
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: message_types
+      label: Message types (select all that apply)
+      hint: Choose all that apply to your program
+      type: select_multiple
+      options:
+        - SMS
+        - MMS
+        - Short codes
+        - Toll-free messaging
+        - Rich messaging (RCS)
+      required: false
+    - id: 11
+      name: compliance_concerns
+      label: Known compliance or regulatory concerns
+      hint: Describe any opt-in/opt-out or consent issues
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_priority
+      label: Support priority
+      hint: Select desired response speed
+      type: select_one
+      options:
+        - Standard (3-5 business days)
+        - Expedited (1-2 business days)
+        - Urgent (same day)
+      required: false
+    - id: 13
+      name: platform_access_needed
+      label: Platform access or configuration required
+      hint: e.g., API keys, sender registration assistance
+      type: select_multiple
+      options:
+        - API integration
+        - Sender registration
+        - Compliance documentation
+        - Monitoring & alerts
+        - Message routing
+      required: false
+    - id: 14
+      name: support_notes
+      label: Additional information for support team
+      hint: Include attachment references or internal ticket IDs
+      type: text
+      options: []
+      required: false

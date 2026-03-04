@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Organization Structure Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: library_organization_structure_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: library_type
+      label: library_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: library_department
+      label: library_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff
+      label: library_staff
+      hint: How many staff members are working in your library? Please enter a number.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: roles
+      label: library_roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: role_manager
+      label: role_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: role_manager_role
+      label: role_manager_role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: management_structure
+      label: library_management_structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_role
+      label: manager_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: library_administrative_structure
+      label: library_administrative_structure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: library_administrative_structure_other
+      label: library_administrative_structure_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: library_administrative_structure_other_notes
+      label: library_administrative_structure_other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: library_collection
+      label: library_collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: library_collection_other
+      label: library_collection_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: library_collection_other_notes
+      label: library_collection_other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: library_technology
+      label: library_technology
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: library_technology_other
+      label: library_technology_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: library_technology_other_notes
+      label: library_technology_other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: library_services
+      label: library_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: library_services_other
+      label: library_services_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: library_services_other_notes
+      label: library_services_other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: library_hours
+      label: library_hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: library_hours_notes
+      label: library_hours_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: library_funding
+      label: library_funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: survey_footer
+      label: library_survey_footer
+      hint: null
+      type: note
+      options: []
+      required: false

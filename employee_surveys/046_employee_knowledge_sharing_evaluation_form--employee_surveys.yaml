@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_knowledge_sharing_evaluation_form
+    pages:
+    - id: 1
+      name: knowledge_areas
+      label: knowledge_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rating
+      label: rate_the_knowledge_sharing_initiative
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: any_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_knowledge_sharing
+      label: how_often_do_you_participate_in_knowledge_sharing
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Never''}'
+      - '{''value'': 2, ''label'': ''Less than monthly''}'
+      - '{''value'': 3, ''label'': ''Monthly''}'
+      - '{''value'': 4, ''label'': ''Every 2-3 months''}'
+      - '{''value'': 5, ''label'': ''Quarterly''}'
+      - '{''value'': 6, ''label'': ''More than once a month''}'
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

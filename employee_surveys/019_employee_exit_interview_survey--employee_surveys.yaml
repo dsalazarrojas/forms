@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Exit Interview Survey
+    pages:
+    - id: 1
+      name: why_employer
+      label: Why did you leave the company
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_employer
+      label: reason for leaving
+      hint: null
+      type: select_one
+      options:
+      - New job opportunity
+      - Better pay/compensation
+      - Unsatisfactory work environment
+      - Lack of challenge
+      - Lack of opportunities for advancement
+      - Lack of fit for role
+      - Lack of communication
+      - Lack of support
+      - Lack of recognition
+      - Lack of autonomy
+      required: false
+    - id: 3
+      name: when_employed
+      label: When did you start and end employment with the company
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: how_long_employed
+      label: how long were you employed with the company
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: last_date_of_employment
+      label: what was the last date of employment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leaving
+      label: reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_employer
+      label: what is your next employment opportunity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: any comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: next_step
+      label: next step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_name
+      label: assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_date
+      label: created date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_date
+      label: updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false

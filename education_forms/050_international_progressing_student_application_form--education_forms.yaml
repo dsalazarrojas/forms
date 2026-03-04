@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Progressing Student Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: Enter your student ID
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: nationality
+      label: Nationality
+      hint: Enter your nationality
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Enter your country
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''USA'', ''label'': ''United States''}'
+      - '{''id'': 2, ''name'': ''UK'', ''label'': ''United Kingdom''}'
+      - '{''id'': 3, ''name'': ''Australia'', ''label'': ''Australia''}'
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State/Province
+      hint: Enter your state or province
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

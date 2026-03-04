@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voluntary Health Insurance Overview
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5, ''label'': ''Broker''}'
+      - '{''id'': 6, ''label'': ''Insurance Company''}'
+      - '{''id'': 7, ''label'': ''HR Team''}'
+      required: false
+    - id: 10
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_age
+      label: Employee Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employee_salary
+      label: Employee Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: employee_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: company_job_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Part-Time''}'
+      - '{''id'': 2, ''label'': ''Full-Time''}'
+      - '{''id'': 3, ''label'': ''Temporary''}'
+      required: false
+    - id: 18
+      name: employee_job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: company_job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: employee_education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: company_education
+      label: Company Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: employee_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: company_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: employee_dod
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: company_dod
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: false

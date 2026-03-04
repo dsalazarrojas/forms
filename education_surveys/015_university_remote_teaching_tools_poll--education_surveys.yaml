@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Remote Teaching Tools Poll
+    pages:
+    - id: 1
+      name: remote_teaching_platforms
+      label: What remote teaching platforms are you using or considering using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: usage_patterns
+      label: On which remote teaching platforms are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: improvement_priorities
+      label: What improvement priorities do you have for remote teaching platforms?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: jisc_survey_tools
+      label: Jisc survey tools?
+      hint: null
+      type: select_one
+      options:
+      - Jisc Survey
+      - Google Forms
+      - Microsoft Forms
+      required: false
+    - id: 5
+      name: feedback_on_platforms
+      label: What do you think about the current remote teaching platforms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_on_patterns
+      label: On what platforms do you think we should improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Internal Branding Program Application Form
+    pages:
+    - id: 1
+      name: employee_internal_branding_program_application_form
+      label: Employee Internal Branding Program Application Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Employee Surveys
+      - Employee Training
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - ChatJimmy
+      - Other
+      required: true
+    - id: 5
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

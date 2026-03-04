@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 30 60 90 Day Review Form
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Employee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: e.g., Sales, Engineering, HR
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: Your official title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hire_date
+      label: Date of hire
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: years_at_organization
+      label: Years at organization
+      hint: Number of full years
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: review_milestone
+      label: Review milestone
+      hint: Select the current review point
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      required: true
+    - id: 9
+      name: review_date
+      label: Review date
+      hint: Date the review is conducted
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: manager_name
+      label: Manager name
+      hint: Full name of supervising manager
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: performance_score
+      label: Performance score (0-100)
+      hint: Score out of 100
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: performance_rating
+      label: Performance rating
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 13
+      name: strengths
+      label: Key strengths
+      hint: List your main strengths
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: areas_for_improvement
+      label: Areas for improvement
+      hint: Identify areas to develop
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_completed
+      label: Training completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Onboarding
+      - Technical
+      - Soft Skills
+      - Compliance
+      - Leadership
+      - None
+      required: false
+    - id: 16
+      name: growth_opportunities
+      label: Growth opportunities support
+      hint: How supported do you feel?
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: false
+    - id: 17
+      name: work_life_balance
+      label: Work-life balance (1-10)
+      hint: 1 = very poor, 10 = excellent
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: satisfaction
+      label: Satisfaction with the review process
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: management_rating
+      label: Communication from management
+      hint: Rate the communication quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: Any ideas to improve the process
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upcoming_goals
+      label: Upcoming goals for next 30 days
+      hint: Set targets for the next month
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_feedback
+      label: Overall feedback
+      hint: General comments about your experience
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other remarks
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_footer
+      label: '--- End of Review ---'
+      hint: null
+      type: note
+      options: []
+      required: false

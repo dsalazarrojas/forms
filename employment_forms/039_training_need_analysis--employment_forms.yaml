@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Need Analysis
+    pages:
+    - id: 1
+      name: employer_info
+      label: Employeer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_needs
+      label: What are the training needs?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_needs_date
+      label: Training needs date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_needs_time
+      label: Training needs time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: training_needs_note
+      label: Training needs note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employer_id
+      label: Employer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_needs_employees
+      label: Training needs employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_needs_manager
+      label: Training needs manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: training_needs_manager_note
+      label: Training needs manager note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: training_needs_manager_date
+      label: Training needs manager date
+      hint: null
+      type: date
+      options: []
+      required: false

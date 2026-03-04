@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Location Request Form
+    pages:
+    - id: 1
+      name: emergency_location_request
+      label: emergency_location_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_type
+      label: location_type
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - House
+      - Apartment
+      - Other
+      required: false
+    - id: 4
+      name: street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: region
+      label: region
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 7
+      name: location_note
+      label: location_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_note
+      label: emergency_contact_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

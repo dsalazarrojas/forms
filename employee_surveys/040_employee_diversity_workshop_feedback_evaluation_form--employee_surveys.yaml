@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Diversity Workshop Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_effectiveness
+      label: How effective was the workshop?
+      hint: Scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workshop_content
+      label: What did you think of the workshop content?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 4
+      name: workshop_organization
+      label: How well was the workshop organized?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: overall_rating
+      label: Overall rating
+      hint: Scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: text
+      options: []
+      required: false

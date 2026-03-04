@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Information Form
+    pages:
+    - id: 1
+      name: new_hire_info_form
+      label: New Hire Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title_other
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: Briefly describe the job and its responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: The company the employee will be working for
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: The name of the manager the employee will be reporting to
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: The email of the manager the employee will be reporting to
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: manager_phone
+      label: Manager Phone
+      hint: The phone number of the manager the employee will be reporting to
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: The date the employee will start
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: The date the employee will end
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: salary
+      label: Salary
+      hint: The salary of the employee
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: benefits
+      label: Benefits
+      hint: The benefits of the employee
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: The location of the employee
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_status
+      label: Job Status
+      hint: The status of the job
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: job_type
+      label: Job Type
+      hint: The type of job
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Development
+      - Finance
+      - IT
+      required: false
+    - id: 16
+      name: job_category
+      label: Job Category
+      hint: The category of the job
+      type: select_multiple
+      options:
+      - Executive
+      - Management
+      - Non-Executive
+      - Non-Management
+      required: false
+    - id: 17
+      name: job_title_category
+      label: Job Title Category
+      hint: The category of the job title
+      type: select_one
+      options:
+      - Executive
+      - Manager
+      - Non-Executive
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: The department of the job
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_level
+      label: Job Level
+      hint: The job level
+      type: select_multiple
+      options:
+      - Entry Level
+      - Mid-level
+      - Senior
+      required: false
+    - id: 20
+      name: job_family
+      label: Job Family
+      hint: The job family
+      type: select_one
+      options:
+      - Corporate
+      - Business
+      - Operations
+      required: false
+    - id: 21
+      name: job_function
+      label: Job Function
+      hint: The function of the job
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_function_category
+      label: Job Function Category
+      hint: The category of the job function
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_grade
+      label: Job Grade
+      hint: The grade of the job
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_grade_category
+      label: Job Grade Category
+      hint: The category of the job grade
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: text
+      options: []
+      required: false

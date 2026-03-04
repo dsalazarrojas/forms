@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Award Nomination Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Start Of Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_nominated
+      label: Select Employee To Nominate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: nominating_manager
+      label: Select Nominating Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 5
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_recognized
+      label: Select Employee To Recognize
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: recognition_date
+      label: Recognition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recognition_reason
+      label: Recognition Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_end
+      label: End Of Form
+      hint: null
+      type: note
+      options: []
+      required: false

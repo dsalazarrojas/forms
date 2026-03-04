@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_exit_form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_departure
+      label: reason_for_departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_day_of_work
+      label: last_day_of_work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: exit_date
+      label: exit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_departure_other
+      label: reason_for_departure_other
+      hint: null
+      type: text
+      options: []
+      required: false

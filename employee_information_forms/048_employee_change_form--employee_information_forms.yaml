@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Change Form
+    pages:
+    - id: 1
+      name: employee_change_form_data
+      label: Employee Change Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: old_status
+      label: Old Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Fired''}'
+      required: false
+    - id: 4
+      name: new_status
+      label: New Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Fired''}'
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

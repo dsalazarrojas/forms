@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Program Feedback Form
+    pages:
+    - id: 1
+      name: student_program_name
+      label: student_program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_text
+      label: feedback_text
+      hint: Please provide any feedback or comments you may have about your experience
+        in the program.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_rating
+      label: program_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfying
+      - Somewhat Satisfying
+      - Somewhat Unsatisfying
+      - Very Unsatisfying
+      required: false
+    - id: 8
+      name: would_recommend
+      label: would_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false

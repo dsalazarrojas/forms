@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: incident_summary
+      label: incident_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: injury_description
+      label: injury_description
+      hint: Describe the incident, including injuries and details
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: witness_details
+      label: witness_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_contact
+      label: witness_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_present
+      label: staff_present
+      hint: Check any staff members present during the incident
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: witness_list
+      label: witness_list
+      hint: Check any witnesses of the incident
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_location
+      label: incident_location
+      hint: Location of the incident
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: action_status
+      label: action_status
+      hint: Status of action taken
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: action_comments
+      label: action_comments
+      hint: null
+      type: text
+      options: []
+      required: false

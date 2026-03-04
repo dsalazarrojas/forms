@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Installation Periodic Inspection Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_details
+      label: Site Details
+      hint: null
+      type: select_one
+      options:
+      - Electrical Site
+      - Construction Site
+      - Manufacturing Site
+      - Other
+      - None
+      required: false
+    - id: 3
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical Distribution
+      - Electrical Panel Board
+      - Transformers
+      - Generator
+      - None
+      required: false
+    - id: 4
+      name: circuit_breakers
+      label: Circuit Breakers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: circuit_breaker_capacity
+      label: Circuit Breaker Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: circuit_breaker_status
+      label: Circuit Breaker Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - 'False'
+      - None
+      required: false
+    - id: 7
+      name: electrical_panel_boards
+      label: Electrical Panel Boards
+      hint: null
+      type: select_multiple
+      options:
+      - Main Panel
+      - Sub-Panel
+      - None
+      required: false
+    - id: 8
+      name: transformer_details
+      label: Transformer Details
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 9
+      name: generator_status
+      label: Generator Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 10
+      name: generator_capacity
+      label: Generator Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: other_equipment
+      label: Other Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Generator
+      - Pump
+      - None
+      required: false
+    - id: 12
+      name: fire_alarm_systems
+      label: Fire Alarm Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 13
+      name: sprinkler_systems
+      label: Sprinkler Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 14
+      name: fire_suppression_systems
+      label: Fire Suppression Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 15
+      name: fire_hydrant_systems
+      label: Fire Hydrant Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 16
+      name: fire_extinguishing_systems
+      label: Fire Extinguishing Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 17
+      name: fire_alarm_systems_status
+      label: Fire Alarm Systems Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Disabled
+      - None
+      required: false
+    - id: 18
+      name: fire_suppression_systems_status
+      label: Fire Suppression Systems Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Disabled
+      - None
+      required: false
+    - id: 19
+      name: fire_hydrant_systems_status
+      label: Fire Hydrant Systems Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Disabled
+      - None
+      required: false
+    - id: 20
+      name: fire_extinguishing_systems_status
+      label: Fire Extinguishing Systems Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Disabled
+      - None
+      required: false
+    - id: 21
+      name: site_elevators
+      label: Site Elevators
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 22
+      name: site_crane
+      label: Site Crane
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 23
+      name: fire_stretch
+      label: Fire Extinguishing Stretch
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 24
+      name: fire_stretch_location
+      label: Fire Extinguishing Stretch Location
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 25
+      name: emergency_exit_path
+      label: Emergency Exit Path
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false

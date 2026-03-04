@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: benefits_questions
+      label: Benefits
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Health Insurance''}'
+      - '{''id'': 2, ''label'': ''Retirement Plan''}'
+      - '{''id'': 3, ''label'': ''Life Insurance''}'
+      - '{''id'': 4, ''label'': ''Disability Insurance''}'
+      required: true
+    - id: 3
+      name: demographics_page
+      label: Employee Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: benefits_questions_2
+      label: Benefits 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Health Savings Plan''}'
+      - '{''id'': 2, ''label'': ''Flexible Spending Account''}'
+      - '{''id'': 3, ''label'': ''Dependent Care Assistance''}'
+      - '{''id'': 4, ''label'': ''Home and Auto''}'
+      required: false
+    - id: 5
+      name: benefits_questions_3
+      label: Benefits 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Long-Term Care Insurance''}'
+      - '{''id'': 2, ''label'': ''Short-Term Care Insurance''}'
+      - '{''id'': 3, ''label'': ''Disability Insurance''}'
+      - '{''id'': 4, ''label'': ''Life Insurance''}'
+      required: false
+    - id: 6
+      name: time_page
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_page
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

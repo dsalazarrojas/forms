@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotion Justification Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: promotion_date
+      label: Promotion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: justification
+      label: Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: evidence
+      label: Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: promotion_reason
+      label: Promotion Reason
+      hint: Enter promotion reason
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: promotion_type
+      label: Promotion Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: promotion_effective_date
+      label: Promotion Effective Date
+      hint: Enter promotion effective date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: promotion_status
+      label: Promotion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

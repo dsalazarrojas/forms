@@ -1,0 +1,330 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Program Preferences Questionnaire
+    pages:
+    - id: 1
+      name: family_information_section
+      label: Family Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_email
+      label: Email Address
+      hint: Email for program updates and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_phone
+      label: Phone Number
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: household_income_bracket
+      label: Household Income Bracket
+      hint: What is your approximate household income bracket?
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000-$49,999
+      - $50,000-$74,999
+      - $75,000-$99,999
+      - $100,000-$149,999
+      - $150,000 or more
+      required: false
+    - id: 6
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_name
+      label: Student Name
+      hint: Enter the student's full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_grade_level
+      label: Student Grade Level
+      hint: What grade is the student currently in?
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 9
+      name: student_school
+      label: School Attended
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_interests_section
+      label: Student Interests and Abilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: academic_interests
+      label: Academic Interests
+      hint: What academic subjects does your child enjoy most?
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - Reading/Language Arts
+      - Social Studies
+      - Foreign Languages
+      - History
+      - None of these
+      required: true
+    - id: 12
+      name: creative_interests
+      label: Creative Interests
+      hint: What creative activities does your child enjoy?
+      type: select_multiple
+      options:
+      - Art
+      - Music
+      - Drama/Theater
+      - Creative Writing
+      - Dance
+      - Photography
+      - None of these
+      required: true
+    - id: 13
+      name: physical_activities_interest
+      label: Physical Activities Interest
+      hint: What physical activities does your child enjoy?
+      type: select_multiple
+      options:
+      - Team Sports
+      - Individual Sports
+      - Martial Arts
+      - Dance
+      - Swimming
+      - Outdoor Activities
+      - None of these
+      required: true
+    - id: 14
+      name: technology_interests
+      label: Technology Interests
+      hint: What technology-related activities interest your child?
+      type: select_multiple
+      options:
+      - Video Production
+      - Game Design
+      - Programming/Coding
+      - Digital Art
+      - Robotics
+      - Web Design
+      - None of these
+      required: true
+    - id: 15
+      name: program_preferences_section
+      label: Program Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_program_type
+      label: Preferred Program Type
+      hint: What type of after-school program interests you most?
+      type: select_one
+      options:
+      - Academic Support
+      - Creative Arts
+      - STEM Activities
+      - Sports and Recreation
+      - Leadership Development
+      - Community Service
+      - Mixed Activities
+      required: true
+    - id: 17
+      name: preferred_schedule_days
+      label: Preferred Schedule Days
+      hint: Which days would work best for your family?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 18
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: What time slot works best for your schedule?
+      type: select_one
+      options:
+      - 3:00 PM - 4:00 PM
+      - 3:00 PM - 5:00 PM
+      - 3:30 PM - 5:30 PM
+      - 4:00 PM - 6:00 PM
+      - 4:30 PM - 6:30 PM
+      - Flexible schedule
+      required: true
+    - id: 19
+      name: program_duration_preference
+      label: Program Duration Preference
+      hint: How long would you prefer the program to run?
+      type: select_one
+      options:
+      - 8 weeks
+      - 12 weeks
+      - 16 weeks
+      - Semester-long
+      - Year-round
+      required: true
+    - id: 20
+      name: transportation_availability
+      label: Transportation Availability
+      hint: How will your child get to and from the program?
+      type: select_one
+      options:
+      - School bus
+      - Parent/guardian pickup
+      - Walk
+      - Public transportation
+      - Other arrangement
+      required: true
+    - id: 21
+      name: budget_considerations_section
+      label: Budget Considerations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: maximum_program_cost
+      label: Maximum Program Cost
+      hint: What is the maximum you would pay for a 12-week program?
+      type: select_one
+      options:
+      - Free (need scholarship)
+      - Under $50
+      - $50-$100
+      - $100-$200
+      - $200-$300
+      - Over $300
+      required: true
+    - id: 23
+      name: financial_assistance_need
+      label: Financial Assistance Need
+      hint: Would you need financial assistance to participate?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 24
+      name: program_importance_section
+      label: Program Importance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: importance_academic_support
+      label: Importance of Academic Support
+      hint: How important is academic support/enrichment to you?
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: importance_creative_development
+      label: Importance of Creative Development
+      hint: How important is creative development to you?
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: importance_physical_activity
+      label: Importance of Physical Activity
+      hint: How important is physical activity to you?
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: importance_social_development
+      label: Importance of Social Development
+      hint: How important is social development to you?
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: special_needs_accommodations
+      label: Special Needs or Accommodations
+      hint: Does your child have any special needs that should be considered?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_preferences_section
+      label: Additional Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: ideal_program_size
+      label: Ideal Program Size
+      hint: What size program would work best for your child?
+      type: select_one
+      options:
+      - Small (under 10 students)
+      - Medium (10-20 students)
+      - Large (over 20 students)
+      - No preference
+      required: true
+    - id: 32
+      name: preferred_location
+      label: Preferred Program Location
+      hint: Where would you prefer the program to be held?
+      type: select_one
+      options:
+      - At school campus
+      - Community center
+      - Library
+      - Local park/recreation center
+      - Online/virtual
+      - No preference
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your preferences for an after-school program
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Program Feedback
+    pages:
+      - id: 1
+        name: respondent_type
+        label: Are you a
+        hint: Select your role
+        type: select_one
+        options:
+          - Student
+          - Staff member
+          - Parent
+          - Community member
+          - Other
+        required: true
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 10
+          - 10-15
+          - 16-20
+          - 21-30
+          - 31-40
+          - 41-50
+          - 50+
+        required: false
+      - id: 3
+        name: program_participation
+        label: How often do you participate in the breakfast program
+        hint: Frequency of participation
+        type: select_one
+        options:
+          - Daily
+          - 3-4 times per week
+          - 1-2 times per week
+          - Occasionally
+          - Never
+        required: true
+      - id: 4
+        name: food_quality
+        label: How would you rate the quality of breakfast food
+        hint: Rate from 1 (Poor) to 5 (Excellent)
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 5
+        name: food_variety
+        label: Is there enough variety in breakfast options
+        hint: Rate the variety
+        type: select_one
+        options:
+          - 1 - Not enough variety
+          - 2 - Limited variety
+          - 3 - Adequate variety
+          - 4 - Good variety
+          - 5 - Excellent variety
+        required: true
+      - id: 6
+        name: food_taste
+        label: How does the food taste
+        hint: Rate the taste
+        type: select_one
+        options:
+          - Very unappetizing
+          - Unappetizing
+          - Neutral
+          - Good
+          - Very delicious
+        required: true
+      - id: 7
+        name: portion_size
+        label: Are portion sizes adequate
+        hint: Rate portion sizes
+        type: select_one
+        options:
+          - Too small
+          - Slightly small
+          - Just right
+          - Slightly large
+          - Too large
+        required: true
+      - id: 8
+        name: meal_presentation
+        label: How is the meal presented
+        hint: Rate presentation
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: false
+      - id: 9
+        name: dietary_accommodations
+        label: Are dietary needs accommodated
+        hint: Rate accommodation of dietary needs
+        type: select_one
+        options:
+          - 1 - Not accommodated
+          - 2 - Poorly accommodated
+          - 3 - Adequately accommodated
+          - 4 - Well accommodated
+          - 5 - Excellently accommodated
+        required: false
+      - id: 10
+        name: favorite_items
+        label: What are your favorite breakfast items
+        hint: List your preferred foods
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: least_favorite_items
+        label: What items would you like to see less of
+        hint: Foods you do not enjoy
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: new_items_suggestions
+        label: What new breakfast items would you like to see
+        hint: Your suggestions for new foods
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: service_speed
+        label: How long does it take to get breakfast
+        hint: Rate the service speed
+        type: select_one
+        options:
+          - Too long (20+ minutes)
+          - Long (15-20 minutes)
+          - Reasonable (10-15 minutes)
+          - Quick (5-10 minutes)
+          - Very quick (under 5 minutes)
+        required: true
+      - id: 14
+        name: staff_friendliness
+        label: How friendly is the breakfast program staff
+        hint: Rate staff friendliness
+        type: select_one
+        options:
+          - 1 - Very unfriendly
+          - 2 - Unfriendly
+          - 3 - Neutral
+          - 4 - Friendly
+          - 5 - Very friendly
+        required: true
+      - id: 15
+        name: location_convenience
+        label: Is the breakfast location convenient for you
+        hint: Rate location convenience
+        type: select_one
+        options:
+          - Very inconvenient
+          - Somewhat inconvenient
+          - Neutral
+          - Convenient
+          - Very convenient
+        required: false
+      - id: 16
+        name: overall_satisfaction
+        label: Overall satisfaction with the breakfast program
+        hint: Rate overall satisfaction
+        type: select_one
+        options:
+          - 1 - Very dissatisfied
+          - 2 - Dissatisfied
+          - 3 - Neutral
+          - 4 - Satisfied
+          - 5 - Very satisfied
+        required: true
+      - id: 17
+        name: improvements
+        label: What improvements could be made
+        hint: Your suggestions for improvements
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Any additional comments or feedback
+        hint: Share any other thoughts
+        type: text
+        options: []
+        required: false

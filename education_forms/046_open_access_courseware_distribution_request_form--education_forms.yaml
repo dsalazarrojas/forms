@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Access Courseware Distribution Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: select_one_what_career
+      label: What are you in?
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''name'': ''Student''}, ''Student'', ''Student'', ''Student'']}'
+      - '{''options'': [{''name'': ''Faculty''}, ''Faculty'', ''Faculty'', ''Faculty'']}'
+      - '{''options'': [{''name'': ''Staff''}, ''Staff'', ''Staff'', ''Staff'']}'
+      required: true
+    - id: 12
+      name: select_multiple_what_career
+      label: What department or office do you belong to?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [{''name'': ''Department 1''}, ''Department 1'', ''Department
+        1'', ''Department 1'', ''Department 1'']}'
+      - '{''options'': [{''name'': ''Department 2''}, ''Department 2'', ''Department
+        2'', ''Department 2'', ''Department 2'']}'
+      required: false
+    - id: 13
+      name: date_of_birth_day
+      label: Day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: date_of_birth_month
+      label: Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: date_of_birth_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: date_of_request_day
+      label: Day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: date_of_request_month
+      label: Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: date_of_request_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: time_of_request
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: select_one_request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''name'': ''Course Material''}, ''Course Material'', ''Course
+        Material'', ''Course Material'']}'
+      - '{''options'': [{''name'': ''Courseware''}, ''Courseware'', ''Courseware'',
+        ''Courseware'']}'
+      - '{''options'': [{''name'': ''Other''}, ''Other'', ''Other'', ''Other'']}'
+      required: true
+    - id: 21
+      name: select_multiple_request_what_for
+      label: What are you requesting for?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [{''name'': ''Self Use''}, ''Self Use'', ''Self Use'', ''Self
+        Use'', ''Self Use'']}'
+      - '{''options'': [{''name'': ''Teaching and Learning''}, ''Teaching and Learning'',
+        ''Teaching and Learning'', ''Teaching and Learning'', ''Teaching and Learning'']}'
+      required: false
+    - id: 22
+      name: date_range_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_range_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: date_range_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: date_range_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

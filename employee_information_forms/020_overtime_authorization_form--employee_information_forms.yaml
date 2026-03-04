@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overtime Authorization Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: Form Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_section_2
+      label: Prophets Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: form_section_3
+      label: Overtime Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_section_4
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_section_5
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_section_6
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_section_7
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_section_8
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_section_9
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: job_type_options
+      label: Job Type Options
+      hint: null
+      type: text
+      options: []
+      required: false

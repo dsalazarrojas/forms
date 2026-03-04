@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chickenpox Case Investigation Form
+    pages:
+    - id: 1
+      name: investigation_intro
+      label: -- Chickenpox Case Investigation Form --
+      hint: Report and document chickenpox case details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reporting_agency
+      label: Reporting agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: investigator_name
+      label: Investigator name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_first_name
+      label: Patient first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_last_name
+      label: Patient last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 10
+      name: address
+      label: Residential address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State or province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: symptom_onset_date
+      label: Date of symptom onset
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: rash_appearance_date
+      label: Date of rash appearance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: fever_present
+      label: Fever present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 19
+      name: fever_temperature
+      label: Highest temperature recorded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: symptoms_experienced
+      label: Symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Fatigue
+      - Headache
+      - Loss of appetite
+      - Muscle aches
+      - Malaise
+      - Chickenpox rash
+      required: true
+    - id: 21
+      name: vaccination_status
+      label: Varicella vaccination status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - 1 dose only
+      - 2 doses
+      - Status unknown
+      required: true
+    - id: 22
+      name: prior_varicella
+      label: Prior varicella infection
+      hint: null
+      type: select_one
+      options:
+      - Yes, confirmed
+      - Yes, suspected
+      - false
+      - Unknown
+      required: true
+    - id: 23
+      name: exposure_source
+      label: Known exposure source or contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_or_work_status
+      label: School or work attendance status
+      hint: null
+      type: select_one
+      options:
+      - Currently attending
+      - Absent
+      - Not applicable
+      required: true
+    - id: 25
+      name: hospitalization_required
+      label: Was hospitalization required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: complications
+      label: Any complications?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Bacterial infection
+      - Encephalitis
+      - Pneumonia
+      - Other
+      required: true
+    - id: 27
+      name: household_contacts
+      label: Number of household contacts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: follow_up_needed
+      label: Follow-up action needed
+      hint: null
+      type: select_one
+      options:
+      - No follow-up
+      - Household contact monitoring
+      - Workplace notification
+      - School notification
+      - Other
+      required: true

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Fairness Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fairness_scale
+      label: Fairness scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: leadership
+      label: leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: diversity_and_inclusion
+      label: diversity-and-inclusion
+      hint: null
+      type: select_one
+      options:
+      - Diversity and Inclusion
+      - Diversity and Inclusion
+      - Diversity and Inclusion
+      required: false
+    - id: 5
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Internal communication
+      - External communication
+      - Communication with leadership
+      required: false
+    - id: 6
+      name: work_life
+      label: work-life
+      hint: null
+      type: select_one
+      options:
+      - Work-life balance
+      - Family life
+      - Wellness
+      required: false
+    - id: 7
+      name: fair_compens
+      label: fair-compensation
+      hint: null
+      type: select_multiple
+      options:
+      - Salary and wages
+      - Bennies
+      - Stock options
+      required: false
+    - id: 8
+      name: promotion_opportunities
+      label: promotion-opportunities
+      hint: null
+      type: select_one
+      options:
+      - Opportunities for advancement
+      - Opportunities for growth
+      - Opportunities for development
+      required: false

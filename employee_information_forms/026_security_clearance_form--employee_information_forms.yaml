@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Security Clearance Form
+    pages:
+    - id: 1
+      name: background_check
+      label: Background Check
+      hint: null
+      type: select_multiple
+      options:
+      - Criminal record
+      - Background check not performed
+      required: false
+    - id: 2
+      name: clearance_level
+      label: Clearance Level
+      hint: null
+      type: select_one
+      options:
+      - Security Clearance Level 1
+      - Security Clearance Level 2
+      - Security Clearance Level 3
+      required: false
+    - id: 3
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: clearance_type
+      label: Clearance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Level 1'': ''Secret''}'
+      - '{''Level 2'': ''Top Secret''}'
+      - '{''Level 3'': ''Secret/Top Secret''}'
+      required: false
+    - id: 7
+      name: security_clearance_issuing_agency
+      label: Security Clearance Issuing Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: clearance_level_expiration_date
+      label: Clearance Level Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: security_clearance_status
+      label: Security Clearance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

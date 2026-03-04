@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coding Workshop Intro To Coding
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      - Adult
+      required: true
+    - id: 6
+      name: section_parent_guardian
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent or Guardian Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_workshop_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workshop_name
+      label: Workshop Name
+      hint: Intro to Coding
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: workshop_session
+      label: Preferred Workshop Session
+      hint: null
+      type: select_one
+      options:
+      - Morning session
+      - Afternoon session
+      - Evening session
+      - Weekend session
+      required: true
+    - id: 13
+      name: start_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: duration
+      label: Workshop Duration
+      hint: null
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - 16 weeks
+      required: true
+    - id: 15
+      name: section_programming_experience
+      label: -- Programming Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: prior_experience
+      label: Prior Programming Experience
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Moderate experience
+      - Advanced experience
+      required: true
+    - id: 17
+      name: programming_languages
+      label: Programming Languages Familiar With
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: learning_goals
+      label: Learning Goals and Interests
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_technical_setup
+      label: -- Technical Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: computer_access
+      label: Student Has Computer Access
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide
+      required: true
+    - id: 22
+      name: internet_access
+      label: Internet Access Available
+      hint: null
+      type: select_one
+      options:
+      - Yes, high speed
+      - Yes, adequate
+      - Limited
+      - false
+      required: true
+    - id: 23
+      name: section_agreement
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: parent_consent
+      label: I consent to my child participating in this workshop
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 25
+      name: photo_permission
+      label: Permission to use photos or recordings
+      hint: null
+      type: select_one
+      options:
+      - I Allow
+      - I Do Not Allow
+      required: false
+    - id: 26
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

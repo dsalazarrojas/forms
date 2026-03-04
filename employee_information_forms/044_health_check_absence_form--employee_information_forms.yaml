@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Check Absence Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: absence_status
+      label: Absence Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Present''}'
+      - '{''value'': ''Sick''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: illness_details
+      label: Illness Details
+      hint: Provide a short description of your illness
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: absence_duration
+      label: Absence Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 123456}'
+      - '{''value'': 654321}'
+      - '{''value'': 987654}'
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: absence_details
+      label: Absence Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Required''}'
+      - '{''value'': ''Required''}'
+      - '{''value'': ''Recommended''}'
+      required: false
+    - id: 12
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_manager_phone
+      label: Reporting Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

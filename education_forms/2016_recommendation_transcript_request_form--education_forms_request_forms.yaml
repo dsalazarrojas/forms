@@ -1,0 +1,179 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2016 Recommendation Transcript Request Form
+    pages:
+    - id: 1
+      name: section_header_applicant_info
+      label: '--- Applicant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name as shown on academic records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID or campus number
+      hint: Optional if unknown; include leading zeros if any
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: We'll send confirmation and delivery updates to this address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the country (e.g., +1-555-555-5555)
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: current_address
+      label: Current mailing address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: degree_program
+      label: Degree or program
+      hint: Select the degree awarded or program completed
+      type: select_one
+      options:
+      - Bachelor's
+      - Master's
+      - Doctorate
+      - Certificate
+      - Other
+      required: true
+    - id: 9
+      name: graduation_year
+      label: Year of graduation
+      hint: Enter four-digit year (e.g., 2016)
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: recipient_name
+      label: Recipient institution or individual name
+      hint: Name of organization, school, employer, or person to receive the transcript
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recipient_address
+      label: Recipient address or delivery email
+      hint: Provide full mailing address or secure recipient email for electronic
+        delivery
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_of_copies
+      label: Number of official copies requested
+      hint: Enter whole number (e.g., 1, 2). Additional fees may apply.
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose how the transcript should be delivered
+      type: select_one
+      options:
+      - Secure electronic (PDF)
+      - Standard mail
+      - Expedited mail (overnight)
+      - Hold for pickup (ID required)
+      required: true
+    - id: 14
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Leave blank for standard processing time
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_reference
+      label: Payment confirmation or transaction ID
+      hint: Enter the payment reference provided at time of payment
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorization
+      label: Authorization to release transcripts
+      hint: Required to process official transcript requests
+      type: select_one
+      options:
+      - I authorize release of my transcript and certify the information above is
+        accurate
+      - I do not authorize release at this time
+      required: true
+    - id: 17
+      name: nps_score
+      label: How likely are you to recommend this transcript request service? (0-10)
+      hint: 0 = not at all likely, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: primary_reason
+      label: What is the primary reason for your score?
+      hint: Briefly describe why you gave that rating
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: important_features
+      label: Most important features to you (select all)
+      hint: Pick up to six features
+      type: select_multiple
+      options:
+      - Ease of use
+      - Price
+      - Reliability
+      - Feature set
+      - Customer support
+      - Speed
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or special instructions
+      hint: Include any special processing notes or delivery instructions
+      type: text
+      options: []
+      required: false

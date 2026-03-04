@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Absence Reporting Form"
+    pages:
+    - id: 1
+      name: section_header_employee_details
+      label: "-- Employee Details --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: "Employee full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: "Employee email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: "Employee ID"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: "Department"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: "Direct manager or supervisor"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_absence_info
+      label: "-- Absence Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: report_date
+      label: "Date this report is being submitted"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: absence_start_date
+      label: "First day of absence"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: absence_end_date
+      label: "Expected return date"
+      hint: "Leave blank if unknown"
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: absence_category
+      label: "Category of absence"
+      hint: null
+      type: select_one
+      options:
+        - "Illness or injury"
+        - "Family emergency"
+        - "Personal matter"
+        - "Bereavement"
+        - "Workplace incident"
+        - "Other"
+      required: true
+    - id: 12
+      name: absence_description
+      label: "Brief description of the absence reason"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: is_work_related
+      label: "Is this absence related to a work incident"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+      required: true
+    - id: 14
+      name: medical_attention_required
+      label: "Was medical attention required"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+      required: true
+    - id: 15
+      name: section_header_coverage
+      label: "-- Work Coverage --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: coverage_arranged
+      label: "Has work coverage been arranged"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Not applicable"
+      required: true
+    - id: 17
+      name: coverage_person_name
+      label: "Name of person covering duties (if applicable)"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pending_deadlines
+      label: "Are there any pending deadlines affected by this absence"
+      hint: "Describe any urgent work items"
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_notes
+      label: "Additional notes"
+      hint: null
+      type: text
+      options: []
+      required: false

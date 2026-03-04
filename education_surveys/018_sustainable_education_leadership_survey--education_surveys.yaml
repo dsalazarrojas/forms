@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Education Leadership Survey
+    pages:
+    - id: 1
+      name: ratings_and_challenges
+      label: ratings and challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leadership_perspectives
+      label: leadership perspectives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: school_and_university
+      label: school and university
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: sustainability_focus
+      label: sustainability focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ratings
+      label: ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: leadership_rating
+      label: leadership rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: leadership_perspective
+      label: leadership perspective
+      hint: null
+      type: text
+      options: []
+      required: false

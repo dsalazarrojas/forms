@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Research Grant Application Form
+    pages:
+    - id: 1
+      name: research_grant_application
+      label: Research Grant Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: faculty_member_details
+      label: Faculty Member Details
+      hint: null
+      type: select_one
+      options:
+      - Faculty Member
+      - Non-Faculty Member
+      required: false
+    - id: 3
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: research_project_details
+      label: Research Project Details
+      hint: Describe the research project in 50 words or less.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institutional_support
+      label: Institutional Support
+      hint: Describe any institutional support.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: Enter your budget in USD.
+      type: select_multiple
+      options:
+      - '10000'
+      - '20000'
+      - '30000'
+      required: false
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Upload files
+      - Link
+      required: true
+    - id: 9
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 10
+      name: grant_type
+      label: Grant Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Publication
+      - Research Equipment
+      required: false
+    - id: 11
+      name: faculty_member
+      label: Faculty Member
+      hint: Select all applicable faculty members.
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      - Dr. Jane Smith
+      required: false
+    - id: 12
+      name: institutional_review
+      label: Institutional Review
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Optional
+      - Not Applicable
+      required: false
+    - id: 13
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grant_application_form
+      label: Grant Application Form
+      hint: null
+      type: select_one
+      options:
+      - Form 1
+      - Form 2
+      - Form 3
+      required: false
+    - id: 15
+      name: grant_application_date
+      label: Grant Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: grant_application_deadline
+      label: Grant Application Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: grant_application_time
+      label: Grant Application Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: faculty_research_grant_application
+      label: Faculty Research Grant Application
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: research_grant_application_form
+      label: Research Grant Application Form
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: grant_application_fee
+      label: Grant Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: grant_type_fee
+      label: Grant Type Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: research_grant_funding
+      label: Research Grant Funding
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: research_grant_funding_status
+      label: Research Grant Funding Status
+      hint: Select all applicable.
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 25
+      name: research_grant_funding_source
+      label: Research Grant Funding Source
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - External
+      - Internal
+      required: false

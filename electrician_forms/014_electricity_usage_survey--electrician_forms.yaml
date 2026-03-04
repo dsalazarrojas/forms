@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: electricity_usage_survey
+    pages:
+    - id: 1
+      name: usage_period
+      label: usage_period
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 2
+      name: usage_type
+      label: usage_type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Building
+      required: false
+    - id: 3
+      name: building_sqft
+      label: building_sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: electricity_consumed
+      label: electricity_consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: electricity_billed
+      label: electricity_billed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: billing_period
+      label: billing_period
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: false
+    - id: 7
+      name: electricity_cost
+      label: electricity_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_energy_consumed
+      label: total_energy_consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: peak_demand
+      label: peak_demand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: off_peak_demand
+      label: off_peak_demand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: energy_efficiency
+      label: energy_efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

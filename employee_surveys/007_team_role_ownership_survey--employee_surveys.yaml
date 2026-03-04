@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Role Ownership Survey
+    pages:
+    - id: 1
+      name: team_role_ownership_survey_form
+      label: Team Role Ownership Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Team Lead''}'
+      - '{''value'': ''Supervisor''}'
+      - '{''value'': ''Team Member''}'
+      required: false
+    - id: 3
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Team Member''}'
+      - '{''value'': ''Team Lead''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Supervisor''}'
+      required: false
+    - id: 4
+      name: team_ownership
+      label: Team Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 5
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 6
+      name: interest_level
+      label: Interest Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 7
+      name: support_level
+      label: Support Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: new_roles
+      label: New Roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: other_roles
+      label: Other Roles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hr_comments
+      label: HR Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: completion_time
+      label: Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Team Member''}'
+      required: false
+    - id: 18
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Not Started''}'
+      required: false

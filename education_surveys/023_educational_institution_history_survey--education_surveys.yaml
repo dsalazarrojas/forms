@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Institution History Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_degree
+      label: Degree Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 4
+      name: staff_info
+      label: Staff Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_degree
+      label: Degree Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 6
+      name: alumni_info
+      label: Alumni Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: staff_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: staff_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: institution_info
+      label: Institution Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: staff_attendance
+      label: Staff Attendance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: alumni_attendance
+      label: Alumni Attendance
+      hint: null
+      type: date
+      options: []
+      required: true

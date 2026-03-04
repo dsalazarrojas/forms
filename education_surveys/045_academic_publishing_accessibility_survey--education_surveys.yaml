@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Publishing Accessibility Survey
+    pages:
+      - id: 1
+        name: section_background
+        label: -- Respondent Background --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: role
+        label: Your role
+        hint: Select your primary role in publishing
+        type: select_one
+        options:
+          - Author
+          - Editor
+          - Reviewer
+          - Librarian
+          - Publisher
+        required: true
+      - id: 3
+        name: familiarity_with_accessibility
+        label: Familiarity with accessibility standards
+        hint: Rate your familiarity with accessibility practices
+        type: select_one
+        options:
+          - Very familiar
+          - Somewhat familiar
+          - Not familiar
+        required: true
+      - id: 4
+        name: barriers_to_accessibility
+        label: Barriers to accessible publishing
+        hint: Select barriers that apply
+        type: select_multiple
+        options:
+          - Lack of training
+          - Costs and resources
+          - Technical limitations
+          - Publisher policies
+          - Lack of awareness
+        required: false
+      - id: 5
+        name: tools_used_for_accessibility
+        label: Tools used to improve accessibility
+        hint: Select tools or methods used
+        type: select_multiple
+        options:
+          - PDF remediation tools
+          - HTML publishing
+          - Alt text for images
+          - Accessible templates
+          - No tools used
+        required: false
+      - id: 6
+        name: institutional_support
+        label: Institutional support for accessibility
+        hint: Rate level of support available
+        type: select_one
+        options:
+          - Strong
+          - Moderate
+          - Weak
+          - None
+        required: false
+      - id: 7
+        name: training_needs
+        label: Training needs to improve accessibility
+        hint: Areas where training is most needed
+        type: select_multiple
+        options:
+          - Authoring accessible manuscripts
+          - Producing accessible figures
+          - Using remediation tools
+          - Understanding standards
+        required: false
+      - id: 8
+        name: success_examples
+        label: Examples of successful accessibility practices
+        hint: Describe any positive examples or case studies
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: willingness_to_adopt_practices
+        label: Willingness to adopt accessibility practices
+        hint: Rate your willingness to change workflows
+        type: select_one
+        options:
+          - Very willing
+          - Somewhat willing
+          - Neutral
+          - Unwilling
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other thoughts on publishing accessibility
+        type: text
+        options: []
+        required: false

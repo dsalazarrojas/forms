@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Development Program Request Form
+    pages:
+    - id: 1
+      name: employee_enrollment_form
+      label: Employee Enrollment Form
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Data Science
+      - Finance
+      - HR
+      - IT
+      - Marketing
+      - Product Development
+      - Sales
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: training_proposals
+      label: Training Proposals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Classroom
+      - On the Job Training
+      - E-learning
+      - Online Training
+      - Instructor Led Training
+      required: true
+    - id: 6
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annualy
+      required: true
+    - id: 7
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Cancelled
+      required: false
+    - id: 13
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

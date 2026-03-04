@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Graduation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: curriculum_evaluation
+      label: curriculum_evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: outcomes
+      label: outcomes
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      - option9
+      - option10
+      required: false
+    - id: 5
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_evaluation
+      label: program_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: graduate_name
+      label: graduate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: graduate_contact
+      label: graduate_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file_name
+      label: output_file_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Violence Prevention Awareness Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question1
+      label: Have you ever experienced violence or abuse?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: question2
+      label: Have you ever known someone who has experienced violence or abuse?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: question3
+      label: When did you first experience violence or abuse?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question4
+      label: Was there a police report made?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: question5
+      label: How often have you experienced violence or abuse?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: question6
+      label: How often have you known someone who has experienced violence or abuse?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: how_many_times
+      label: How many times have you experienced violence or abuse?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: how_many_know
+      label: How many people have you known who have experienced violence or abuse?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: question7
+      label: Have you experienced more than one type of violence or abuse?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: question8
+      label: How long did the abuse or violence last?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: question9
+      label: How old were you when it happened?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: question10
+      label: How often have you known someone who experienced violence or abuse?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 23
+      name: question11
+      label: How many people have experienced more than one type of violence or abuse?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 24
+      name: question12
+      label: How many times has someone else have known more than one type of violence
+        or abuse?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: consent2
+      label: Second Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

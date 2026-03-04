@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Daily Wellness Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: name_of_student
+      label: Name of Student
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 6
+      name: current_grade_level
+      label: Current Grade Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_mood
+      label: Overall Mood
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Fearful
+      - Anxious
+      - Confused
+      - Bored
+      required: true
+    - id: 8
+      name: physical_activity_level
+      label: Physical Activity Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: hunger_level
+      label: Hunger Level
+      hint: null
+      type: select_multiple
+      options:
+      - Hungry
+      - Satisfied
+      - A little hungry
+      - Not Hungry
+      required: false
+    - id: 11
+      name: hydration_level
+      label: Hydration Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: overall_wellness_status
+      label: Overall Wellness Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Please provide any comments or concerns you have about this student
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: electrical_panel_inspection_checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: electrical_panel_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_panel_inspection_1
+      label: panel_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''residential''}'
+      - '{''id'': 2, ''label'': ''commercial''}'
+      - '{''id'': 3, ''label'': ''industrial''}'
+      required: false
+    - id: 3
+      name: electrical_panel_inspection_2
+      label: panel_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: electrical_panel_inspection_3
+      label: panel_rating_system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1-Phase''}'
+      - '{''id'': 2, ''label'': ''3-Phase''}'
+      - '{''id'': 3, ''label'': ''4-Phase''}'
+      required: false
+    - id: 5
+      name: electrical_panel_inspection_4
+      label: panel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: electrical_panel_inspection_5
+      label: panel_accessories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: electrical_panel_inspection_6
+      label: panel_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: electrical_panel_inspection_7
+      label: panel_rating_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: electrical_panel_inspection_8
+      label: panel_rating_rating_system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''NEMA''}'
+      - '{''id'': 2, ''label'': ''IEC''}'
+      - '{''id'': 3, ''label'': ''UL''}'
+      required: false
+    - id: 10
+      name: electrical_panel_inspection_9
+      label: panel_rating_rating_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: electrical_panel_inspection_10
+      label: panel_inspection_notes
+      hint: Notes to panel inspection
+      type: text
+      options: []
+      required: false

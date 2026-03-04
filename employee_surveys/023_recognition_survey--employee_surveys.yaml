@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: recognition_survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Enter Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recognition_nominator
+      label: Who nominated you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recognition_nominator_department
+      label: Nomination Department
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: recognition_nominator_level
+      label: Nomination Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 5
+      name: recognition_nominator_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recognition_nominator_time
+      label: Nomination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: recognition_nominator_details
+      label: Nomination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recognition_program_rating
+      label: Recognition Program Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recognition_program_impact
+      label: Recognition Program Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recognition_stories
+      label: Recognition Stories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recognition_program_experience
+      label: Recognition Program Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: recognition_program_comments
+      label: Recognition Program Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Form Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

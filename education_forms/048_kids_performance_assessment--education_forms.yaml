@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kids Performance Assessment
+    pages:
+    - id: 1
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: academic_performance
+      label: Academic Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: behavior
+      label: Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: social_skills
+      label: Social Skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_last_updated
+      label: Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_last_updated
+      label: Time Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments_from_parents
+      label: Comments From Parents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: parent_comments
+      label: Parent Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: academic_performance_score
+      label: Academic Performance Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: comments_from_teacher
+      label: Comments From Teacher
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: behavior_level
+      label: Behavior Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: social_skills_level
+      label: Social Skills Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: comments_from_tutor
+      label: Comments From Tutor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: comments_from_admin
+      label: Comments From Admin
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: comments_from_child
+      label: Comments From Child
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: comments_from_parent
+      label: Comments From Parent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

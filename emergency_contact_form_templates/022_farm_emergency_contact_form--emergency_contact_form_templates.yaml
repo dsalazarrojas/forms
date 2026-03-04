@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Emergency Contact Form
+    pages:
+    - id: 1
+      name: emergency_contact_form_farm
+      label: Emergency Contact Form for Farmers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: List of emergency contacts to be used in the case of an emergency
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Enter the contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter the email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: relationship
+      label: Relationship
+      hint: Enter the relationship
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_address
+      label: Emergency Address
+      hint: Enter the emergency address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_notes
+      label: Emergency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_type
+      label: Contact Type
+      hint: Select an option
+      type: select_one
+      options:
+      - Farm Owner
+      - Farm Manager
+      - Farm Worker
+      required: false
+    - id: 10
+      name: farm_location
+      label: Farm Location
+      hint: Enter the farm location
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: Enter the emergency contact person
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Pool Registration Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Marketing
+      - Sales
+      required: false
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: false
+    - id: 8
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Entry-level
+      - Mid-level
+      - Senior-level
+      required: false
+    - id: 11
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - HR
+      - Finance
+      required: false

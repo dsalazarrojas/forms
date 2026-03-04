@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: CFISD Horizons Parent Survey
+    pages:
+    - id: 1
+      name: horizons_survey_intro
+      label: -- Horizons Program - Parent Feedback Survey --
+      hint: Help our elementary counselors evaluate and improve the Horizons program.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      required: true
+    - id: 3
+      name: elementary_counselor_name
+      label: Elementary Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: horizons_frequency_knowledge
+      label: How often does your child participate in Horizons activities?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 5
+      name: student_interest_level
+      label: Rate your child's interest in the Horizons program topics
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Interested
+      - 2 - Slightly Interested
+      - 3 - Interested
+      - 4 - Very Interested
+      required: true
+    - id: 6
+      name: growth_in_social_skills
+      label: Have you observed growth in your child's social skills due to Horizons?
+      hint: null
+      type: select_one
+      options:
+      - No Growth Observed
+      - Minimal Growth
+      - Significant Growth
+      required: true
+    - id: 7
+      name: growth_in_problem_solving
+      label: Have you observed growth in your child's problem-solving skills?
+      hint: null
+      type: select_one
+      options:
+      - No Growth Observed
+      - Minimal Growth
+      - Significant Growth
+      required: true
+    - id: 8
+      name: program_communication_rating
+      label: How satisfied are you with the communication from the counseling department?
+      hint: null
+      type: select_one
+      options:
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 9
+      name: most_valuable_topic
+      label: Which Horizons topic was most valuable for your child?
+      hint: null
+      type: select_one
+      options:
+      - Friendships
+      - Emotional Regulation
+      - Growth Mindset
+      - Conflict Resolution
+      - Career Exploration
+      required: true
+    - id: 10
+      name: suggest_new_topics
+      label: Are there topics you would like to see covered in the future?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_program_effectiveness
+      label: Overall effectiveness of the Horizons program for your child
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: parental_involvement_interest
+      label: Would you be interested in parent workshops on similar topics?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: horizons_feedback_text
+      label: Please share any additional comments or success stories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_completion_consent
+      label: I consent to my feedback being used for program evaluation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 15
+      name: horizons_survey_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

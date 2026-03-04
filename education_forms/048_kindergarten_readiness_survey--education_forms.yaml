@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Kindergarten Readiness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_details
+      label: Child Information
+      hint: Please fill in the child's details
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: parent_details
+      label: Parent Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Parent''}'
+      - '{''label'': ''Married Couple''}'
+      required: false
+    - id: 4
+      name: readiness_level
+      label: Readiness Level
+      hint: How is the child ready for kindergarten?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: social_skills
+      label: Social Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: emotional_readiness
+      label: Emotional Readiness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: educational_readiness
+      label: Educational Readiness
+      hint: null
+      type: number
+      options: []
+      required: false

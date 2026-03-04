@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Optional - responses can be anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor or Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: semester
+      label: Semester or Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_content_header
+      label: -- Course Content and Instruction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: content_clarity
+      label: The course content was clear and well-organized - scale 1-5
+      hint: 1 = strongly disagree, 5 = strongly agree
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: instructor_clarity
+      label: The instructor explained concepts clearly - scale 1-5
+      hint: 1 = strongly disagree, 5 = strongly agree
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: course_relevance
+      label: The course content was relevant and useful - scale 1-5
+      hint: 1 = strongly disagree, 5 = strongly agree
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pacing
+      label: The pace of the course was appropriate - scale 1-5
+      hint: 1 = too slow, 5 = too fast
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: instruction_header
+      label: -- Instruction and Teaching Methods --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: engaging_instruction
+      label: The instructor used engaging teaching methods - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: student_participation
+      label: The instructor encouraged student participation - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: feedback_provided
+      label: The instructor provided helpful feedback - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: accessibility_header
+      label: -- Course Materials and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: materials_quality
+      label: The quality of course materials was adequate - scale 1-5
+      hint: Textbooks, readings, videos, etc.
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: technology_access
+      label: Technology and resources were accessible - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: assignments_header
+      label: -- Assignments and Assessments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: assignments_clarity
+      label: Assignments were clear and had clear expectations - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: assessment_fairness
+      label: Grading and assessment methods were fair - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: workload
+      label: The workload was manageable - scale 1-5
+      hint: 1 = too much work, 5 = too little
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: overall_header
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: learning_achievement
+      label: I achieved the learning objectives for this course - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: overall_satisfaction
+      label: Overall, I was satisfied with this class - scale 1-5
+      hint: 1 = very dissatisfied, 5 = very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: recommend_class
+      label: I would recommend this class to other students - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: strengths
+      label: What were the strongest aspects of this class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: improvements
+      label: What could be improved about this class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: instructor_feedback
+      label: Additional feedback for the instructor
+      hint: null
+      type: text
+      options: []
+      required: false

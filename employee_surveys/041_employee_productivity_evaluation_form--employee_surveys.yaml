@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Productivity Evaluation Form
+    pages:
+    - id: 1
+      name: employee_performance
+      label: employee_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: true
+    - id: 2
+      name: quality_of_work
+      label: quality_of_work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: collaboration_skills
+      label: collaboration_skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Strong''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor''}'
+      required: true
+    - id: 4
+      name: feedback_and_comments
+      label: feedback_and_comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: employee_feedback_1
+      label: how_do_you_like_your_job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_quality_scale
+      label: how_would_you_rate_the_quality_of_work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: collaboration_skills_scale
+      label: how_would_you_rate_your_collaboration_skills
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: performance_score
+      label: how_would_you_rate_your_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: feedback_and_comments_1
+      label: what_do_you_think_can_be_improved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_quality_score
+      label: what_do_you_think_is_your_strongest_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Quality of work''}'
+      - '{''id'': 2, ''name'': ''Time management''}'
+      - '{''id'': 3, ''name'': ''Collaboration skills''}'
+      - '{''id'': 4, ''name'': ''Adaptability''}'
+      - '{''id'': 5, ''name'': ''Communication skills''}'
+      required: true
+    - id: 11
+      name: collaboration_skills_1
+      label: what_skills_do_you_use_to_collaborate_with_your_teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: collaboration_scale_1
+      label: how_do_you_rated_yourself_on_collaboration_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: performance_score_1
+      label: what_do_you_expect_to_improve_in_your_performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Adaptability''}'
+      - '{''id'': 3, ''name'': ''Time management''}'
+      - '{''id'': 4, ''name'': ''Quality of work''}'
+      required: false
+    - id: 14
+      name: collaboration_scale_1
+      label: how_do_you_rated_yourself_on_your_collaboration_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: feedback_and_comments_2
+      label: what_would_you_do_if_your_supervisor_tell_you_to_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: time_management_scale
+      label: how_much_time_do_you_spend_on_your_task
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: work_hours_scale
+      label: how_many_hours_do_you_spend_on_your_task
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: time_management_1
+      label: how_do_you_rated_yourself_on_time_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: feedback_and_comments_3
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_hours_1
+      label: how_many_hours_do_you_spend_on_your_task
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: performance_scale_1
+      label: how_do_you_rated_yourself_on_your_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: employee_feedback_2
+      label: what_do_you_expect_from_your_colleagues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: feedback_and_comments_4
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_feedback_3
+      label: how_do_you_feel_about_your_job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: collaboration_scale_2
+      label: how_do_you_rate_your_collaboration_skills
+      hint: null
+      type: number
+      options: []
+      required: false

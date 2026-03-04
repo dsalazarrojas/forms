@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Ride Malfunction Incident Report
+    pages:
+    - id: 1
+      name: theme_park_ride_malfunction_incident_report
+      label: Theme Park Ride Malfunction Incident Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Emergency Report Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category_id
+      label: Category ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description_id
+      label: Description ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_assigned_tool
+      label: Form Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: theme_park_ride_malfunction_incident_report_form
+      label: Theme Park Ride Malfunction Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Deployment And Wellbeing Survey
+    pages:
+    - id: 1
+      name: staff_deployment_status
+      label: What is your current deployment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: overall_wellbeing_level
+      label: Overall wellbeing level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 3
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: job_satisfaction_note
+      label: job_satisfaction_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deployment_wellbeing_issues
+      label: Deployment wellbeing issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: deployment_status
+      label: Deployment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: overall_wellbeing_issues
+      label: Overall wellbeing issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: wellbeing_focus_area
+      label: Wellbeing focus area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: wellbeing_support
+      label: Wellbeing support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: deployment_status_note
+      label: deployment_status_note
+      hint: null
+      type: text
+      options: []
+      required: false

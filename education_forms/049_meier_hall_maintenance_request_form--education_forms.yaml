@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: meier-hall-maintenance-request-form
+    pages:
+    - id: 1
+      name: main_page
+      label: MeierHallMaintenanceRequestForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: MaintenanceType
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Maintenance Request''}'
+      - '{''label'': ''Maintenance Issue''}'
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: MaintenanceDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_time
+      label: MaintenanceTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_issue
+      label: MaintenanceIssue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Meier Hall''}'
+      - '{''label'': ''other-location''}'
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select''}'
+      - '{''label'': ''Select one''}'
+      required: false
+    - id: 10
+      name: submitted_by
+      label: SubmittedBy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_date
+      label: SubmitDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit_time
+      label: SubmitTime
+      hint: null
+      type: time
+      options: []
+      required: false

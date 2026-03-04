@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screening Checklist For Visitors And Employees
+    pages:
+    - id: 1
+      name: visitor_details
+      label: Visitor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: screening_results
+      label: Screening Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

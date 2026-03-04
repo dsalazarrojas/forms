@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_course_idea_submission_form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_info
+      label: course_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_description
+      label: course_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Online Courses
+      - Other
+      required: false

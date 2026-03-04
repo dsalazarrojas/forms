@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Equity Advisory Support Request Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_district
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: support_type
+      label: Support Type
+      hint: What type of support are you seeking?
+      type: select_one
+      options:
+      - Equity Guidance
+      - Coaching
+      - Program Support
+      required: false
+    - id: 5
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_request
+      label: Date Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_request
+      label: Time Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comment_request
+      label: Comment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Student
+      - Parent
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

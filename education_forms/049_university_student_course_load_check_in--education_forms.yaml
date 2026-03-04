@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Student Course Load Check In
+    pages:
+    - id: 1
+      name: semester
+      label: semester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: current_semester
+      label: current semester
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: course_id
+      label: course_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: total_hours
+      label: total hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: check_in_status
+      label: check in status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_last_updated
+      label: last updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_id
+      label: form id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: created by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: updated_by
+      label: updated by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_title
+      label: form title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: form_category
+      label: form category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: form_description
+      label: form description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: form_assigned_tool
+      label: form assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_assigned_user
+      label: form assigned user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: form_output_file
+      label: form output file
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

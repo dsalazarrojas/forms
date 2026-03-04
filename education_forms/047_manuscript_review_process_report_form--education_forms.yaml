@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manuscript Review Process Report Form
+    pages:
+    - id: 1
+      name: manuscript_review_process_report_form_1
+      label: manuscript_review_process_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Reject
+      - Resubmit
+      - Revision
+      required: false
+    - id: 4
+      name: reviewer_score
+      label: reviewer_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reviewer_feedback
+      label: reviewer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_id
+      label: submission_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_rating
+      label: reviewer_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - Article
+      - Book
+      - Book chapter
+      - Conference paper
+      - Other
+      required: false

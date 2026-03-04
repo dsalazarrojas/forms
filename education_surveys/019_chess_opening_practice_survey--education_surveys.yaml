@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chess Opening Practice Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Chess Opening Practice Survey --
+      hint: Help us understand your opening preparation habits
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: club_school
+      label: Chess club or school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_elo
+      label: Current Elo rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_category
+      label: Playing category
+      hint: null
+      type: select_one
+      options:
+      - Beginner (under 1000)
+      - Intermediate (1000-1600)
+      - Advanced (1600-2000)
+      - Expert (2000-2200)
+      - Master (over 2200)
+      required: true
+    - id: 7
+      name: experience_years
+      label: Years playing chess
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 8
+      name: opening_study_frequency
+      label: How often do you study openings?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once a week
+      - Few times per month
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: study_time_weekly
+      label: Hours per week spent on opening study
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: favorite_openings_white
+      label: Your favorite openings with White
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: favorite_openings_black
+      label: Your favorite openings with Black
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: study_resources
+      label: Resources used for opening study
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Opening books
+      - Chess engines
+      - Online databases
+      - Coaching
+      - YouTube videos
+      - Mobile apps
+      - Newspaper/magazines
+      - Playing practice games
+      required: true
+    - id: 13
+      name: preferred_openings_style
+      label: Preferred opening style
+      hint: null
+      type: select_one
+      options:
+      - Aggressive and tactical
+      - Strategic and positional
+      - Solid and defensive
+      - Flexible and varied
+      - No preference
+      required: true
+    - id: 14
+      name: opening_preparation_depth
+      label: Depth of opening preparation
+      hint: null
+      type: select_one
+      options:
+      - Very shallow (first 5 moves)
+      - Shallow (first 10 moves)
+      - Moderate (first 15-20 moves)
+      - Deep (20+ moves prepared)
+      - Varies by opponent
+      required: true
+    - id: 15
+      name: rating_improvement
+      label: Has opening study improved your rating?
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Slightly worse
+      - Significantly worse
+      required: true
+    - id: 16
+      name: biggest_opening_challenge
+      label: Biggest challenge in opening study
+      hint: null
+      type: select_one
+      options:
+      - Memorization
+      - Understanding principles
+      - Finding time to study
+      - Choosing what to study
+      - Applying knowledge in games
+      - Finding good resources
+      - Other
+      required: true
+    - id: 17
+      name: memorization_vs_understanding
+      label: Do you prefer memorization or understanding principles?
+      hint: null
+      type: select_one
+      options:
+      - Pure memorization
+      - Mostly memorization
+      - Balanced approach
+      - Mostly principles
+      - Only principles
+      required: true
+    - id: 18
+      name: coaching_interest
+      label: Interest in opening coaching or instruction
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not very interested
+      - Not interested
+      required: true
+    - id: 19
+      name: improvement_suggestions
+      label: What improvements would help your opening study?
+      hint: null
+      type: text
+      options: []
+      required: false

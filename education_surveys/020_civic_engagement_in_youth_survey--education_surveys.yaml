@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement In Youth Survey
+    pages:
+    - id: 1
+      name: respondent_age
+      label: Respondent age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: school_or_institution
+      label: School or institution
+      hint: Name of school or program
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: civic_activity_participation
+      label: Participation in civic activities
+      hint: Select activities you have participated in
+      type: select_multiple
+      options:
+      - Volunteering
+      - Student government
+      - Community service
+      - Advocacy campaigns
+      required: false
+    - id: 4
+      name: interest_in_future_engagement
+      label: Interest in future civic engagement
+      hint: Would you engage more in future
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 5
+      name: barriers_for_youth
+      label: Barriers for youth engagement
+      hint: Describe obstacles for youth participation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_program_types
+      label: Preferred program types
+      hint: Choose all that appeal
+      type: select_multiple
+      options:
+      - Workshops
+      - Mentorship
+      - Volunteer projects
+      - Internships
+      required: false
+    - id: 7
+      name: support_services_needed
+      label: Support services needed
+      hint: Transportation childcare stipends
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions_for_engagement
+      label: Suggestions for increasing youth engagement
+      hint: Practical ideas welcome
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parental_consent_note
+      label: Parental consent note for minors
+      hint: Required for participants under 18
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Enter today date
+      type: date
+      options: []
+      required: true

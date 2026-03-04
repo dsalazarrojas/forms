@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Onboarding Access Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_department
+      label: manager_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 9
+      name: resource_list
+      label: resources
+      hint: null
+      type: select_multiple
+      options:
+      - Resource 1
+      - Resource 2
+      - Resource 3
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false

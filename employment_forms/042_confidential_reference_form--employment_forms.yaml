@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Reference Form
+    pages:
+    - id: 1
+      name: reference_name
+      label: Your Full Name
+      hint: Reference provider
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Your company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: relationship_to_candidate
+      label: Relationship to Candidate
+      hint: How you know them
+      type: select_one
+      options:
+      - Former Supervisor
+      - Current Supervisor
+      - Colleague
+      - Subordinate
+      - Client
+      - Vendor
+      - Professor
+      - Other
+      required: true
+    - id: 7
+      name: candidate_name
+      label: Candidate Full Name
+      hint: Person you are referencing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: candidate_position
+      label: Candidate Position
+      hint: Their role
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employment_dates
+      label: Employment Dates
+      hint: When they worked with you
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reference_type
+      label: Type of Reference
+      hint: For what purpose
+      type: select_one
+      options:
+      - Employment
+      - Promotion
+      - Academic Program
+      - Professional Certification
+      - Volunteer Position
+      - Other
+      required: true
+    - id: 11
+      name: overall_performance
+      label: Overall Performance Rating
+      hint: How would you rate them
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds Expectations
+      - Meets Expectations
+      - Below Expectations
+      - Unable to Assess
+      required: true
+    - id: 12
+      name: work_quality
+      label: Quality of Work
+      hint: Rate their work
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 13
+      name: reliability
+      label: Reliability
+      hint: Dependability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 14
+      name: communication_skills
+      label: Communication Skills
+      hint: Written and verbal
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 15
+      name: teamwork
+      label: Teamwork
+      hint: Collaboration ability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 16
+      name: leadership
+      label: Leadership Skills
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Observed
+      - Unable to Assess
+      required: true
+    - id: 17
+      name: problem_solving
+      label: Problem-Solving Ability
+      hint: Analytical skills
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 18
+      name: initiative
+      label: Initiative
+      hint: Self-starter
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 19
+      name: areas_of_strength
+      label: Areas of Strength
+      hint: What are they best at
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: areas_for_development
+      label: Areas for Development
+      hint: Where could they improve
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: major_accomplishments
+      label: Major Accomplishments
+      hint: Key achievements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rehire_eligible
+      label: Would You Rehire
+      hint: Eligible for rehire
+      type: select_one
+      options:
+      - Yes Definitely
+      - Yes With Reservations
+      - false
+      - Not Applicable
+      required: true
+    - id: 24
+      name: would_recommend
+      label: Would You Recommend
+      hint: For this position
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Recommend With Reservations
+      - Cannot Recommend
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: confidentiality_acknowledgment
+      label: Confidentiality Acknowledgment
+      hint: This reference is confidential
+      type: select_one
+      options:
+      - I Understand
+      - I Have Questions
+      required: true
+    - id: 27
+      name: reference_confirmation
+      label: Reference Confirmation
+      hint: I confirm this is accurate
+      type: select_one
+      options:
+      - I Confirm
+      - I Cannot Confirm
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

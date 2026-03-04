@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Break Transportation Survey
+    pages:
+    - id: 1
+      name: winter_break_transportation_survey
+      label: What type of transportation do you plan to use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: trip_duration_days
+      label: Trip duration (in days)
+      hint: Number of days you will be traveling
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mode_of_transportation
+      label: Mode of transportation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: trip_purpose
+      label: Trip purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: trip_parking
+      label: Parking information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trip_housing
+      label: Housing information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trip_meal_accommodation
+      label: Meal and accommodation information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: trip_other_arrangements
+      label: Other travel arrangements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_transportation_availability
+      label: Student transportation availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: student_transportation_availability_hint
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_availability_time
+      label: When students are available for transportation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: student_availability_day_of_week
+      label: Day of the week students are available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: student_availability_time_of_day
+      label: Time of day students are available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

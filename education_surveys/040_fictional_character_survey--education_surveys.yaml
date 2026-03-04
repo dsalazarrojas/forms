@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fictional Character Survey
+    pages:
+    - id: 1
+      name: favorite_character
+      label: Favorite Character
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_character_reason
+      label: Why do you love this character?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_level
+      label: How would you describe your relationship to this character?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_range
+      label: What is your age range?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: age_range_years
+      label: How old were you when you first encountered this character?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_spent_reading
+      label: How much time do you spend reading about this character?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: character_type
+      label: What type of character do you think this is?
+      hint: null
+      type: select_one
+      options:
+      - action
+      - romance
+      - villain
+      - hero
+      required: false
+    - id: 8
+      name: character_importance
+      label: How important is this character to you?
+      hint: null
+      type: select_one
+      options:
+      - very important
+      - somewhat important
+      - not very important
+      - not at all important
+      required: false
+    - id: 9
+      name: favorite_fandom
+      label: What is your favorite fandom related to this character?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_reference_request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: true
+    - id: 5
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_address
+      label: manager_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: request_reason
+      label: request_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_reference
+      label: manager_reference
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 13
+      name: other_reference
+      label: other_reference
+      hint: null
+      type: select_multiple
+      options:
+      - Reference 1
+      - Reference 2
+      - Reference 3
+      required: false

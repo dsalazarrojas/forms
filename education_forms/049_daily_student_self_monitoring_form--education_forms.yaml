@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Student Self Monitoring Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: class_id
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''math''}'
+      - '{''value'': ''science''}'
+      - '{''value'': ''english''}'
+      - '{''value'': ''reading''}'
+      - '{''value'': ''history''}'
+      required: false
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''math''}'
+      - '{''value'': ''science''}'
+      - '{''value'': ''english''}'
+      - '{''value'': ''reading''}'
+      - '{''value'': ''history''}'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: teacher_id
+      label: Teacher Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_teacher
+      label: Assigned Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''tchrfrank''}'
+      required: false

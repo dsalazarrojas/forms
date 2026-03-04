@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Management Survey
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 2
+      name: uniform_wearability
+      label: Wearability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: size_selection
+      label: Size Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: material_quality
+      label: Material Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: price_range
+      label: Price Range
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: uniform_satisfaction
+      label: Uniform Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 7
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 8
+      name: inventory_needs
+      label: Inventory Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: uniform_purpose
+      label: Uniform Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: uniform_type
+      label: Uniform Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: uniform_material
+      label: Uniform Material
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: uniform_color
+      label: Uniform Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: uniform_size
+      label: Uniform Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: uniform_condition
+      label: Uniform Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: uniform_worn
+      label: Uniform Worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: uniform_returned
+      label: Uniform Returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: uniform_reason_for_return
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: shift
+      label: Shift
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

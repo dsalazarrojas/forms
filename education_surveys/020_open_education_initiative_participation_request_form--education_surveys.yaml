@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_education_initiative_participation_request_form
+    pages:
+    - id: 1
+      name: user_name
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participation_method
+      label: participation_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: participation_education_level
+      label: participation_education_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: participation_education_level_other
+      label: participation_education_level_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_1
+      label: question_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_2
+      label: question_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_3
+      label: question_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_4
+      label: question_4
+      hint: null
+      type: text
+      options: []
+      required: false

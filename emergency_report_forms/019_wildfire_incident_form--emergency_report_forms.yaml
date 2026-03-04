@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildfire_incident_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Flood
+      - Other
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: fire_size
+      label: Fire Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: fire_spread
+      label: Fire Spread
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: wind_direction
+      label: Wind Direction
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 8
+      name: wind_speed
+      label: Wind Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fire_fuel
+      label: Fire Fuel
+      hint: null
+      type: select_multiple
+      options:
+      - Trees
+      - Grass
+      - Brush
+      - Other
+      - Structures
+      required: false
+    - id: 10
+      name: fire_type
+      label: Fire Type
+      hint: null
+      type: select_one
+      options:
+      - Wildfire
+      - Prescribed burn
+      - Other
+      required: true
+    - id: 11
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - Image1
+      - Image2
+      - Image3
+      - Image4
+      required: true
+    - id: 15
+      name: videos
+      label: Videos
+      hint: null
+      type: select_multiple
+      options:
+      - Video1
+      - Video2
+      - Video3
+      - Video4
+      required: true
+    - id: 16
+      name: documents
+      label: Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document1
+      - Document2
+      - Document3
+      - Document4
+      required: true
+    - id: 17
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Held
+      - Released
+      required: true
+    - id: 19
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false

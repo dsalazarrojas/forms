@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: New International Student Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: housing_information
+      label: housing_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: acknowledge
+      label: acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand this document.
+      - I have attached all required documents.
+      required: true
+    - id: 8
+      name: file_1
+      label: required_file_1
+      hint: null
+      type: select_one
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: true
+    - id: 9
+      name: file_2
+      label: required_file_2
+      hint: null
+      type: select_one
+      options:
+      - Document 4
+      - Document 5
+      - Document 6
+      required: true
+    - id: 10
+      name: file_3
+      label: required_file_3
+      hint: null
+      type: select_one
+      options:
+      - Document 7
+      - Document 8
+      - Document 9
+      required: true
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_date
+      label: confirm_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: confirm_time
+      label: confirm_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: confirm_notes
+      label: confirm_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: confirm_housing
+      label: confirm_housing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_address
+      label: confirm_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirm_first_name
+      label: confirm_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_last_name
+      label: confirm_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirm_acknowledge
+      label: confirm_acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: true
+    - id: 24
+      name: confirm_acknowledge_all
+      label: confirm_all_required_files
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: true
+    - id: 25
+      name: confirm_file_1
+      label: confirm_required_file_1
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: true

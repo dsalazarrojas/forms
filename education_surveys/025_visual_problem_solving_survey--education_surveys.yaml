@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Problem Solving Survey
+    pages:
+    - id: 1
+      name: survey_page_one
+      label: Survey Page One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_info
+      label: user-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visual_problems_section
+      label: Visual Problems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter user email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Enter user phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_response
+      label: Time Of Response
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_field
+      label: Note
+      hint: Enter note
+      type: note
+      options: []
+      required: false

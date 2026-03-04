@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Fashion Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sustainable_fashion_attitudes
+      label: sustainable_fashion_attitudes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fashion_consumption_habits
+      label: fashion_consumption_habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: personal_importance_sustainability
+      label: personal_importance_sustainability
+      hint: null
+      type: select_one
+      options:
+      - Sustainable fashion is very important to me
+      - Sustainability is somewhat important to me
+      - Not at all important
+      required: false
+    - id: 5
+      name: sustainability_practices
+      label: sustainability_practices
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 6
+      name: sustainable_lifestyle_change
+      label: sustainable_lifestyle_change
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: fashion_brand_awareness
+      label: fashion_brand_awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sustainable_fashion_knowledge
+      label: sustainable_fashion_knowledge
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: sustainability_influencers
+      label: sustainability_influencers
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High school or below
+      - Some college or below
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree or above
+      required: true
+    - id: 16
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - Other
+      required: true
+    - id: 17
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - Northeast
+      - Midwest
+      - South
+      - West
+      - Other
+      required: true
+    - id: 18
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: how_did_you_hear_about_this_survey
+      label: how_did_you_hear_about_this_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent to participate in this research study
+      - No, I do not consent to participate in this research study
+      required: true
+    - id: 25
+      name: survey_end
+      label: survey_end
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Partially complete
+      required: false

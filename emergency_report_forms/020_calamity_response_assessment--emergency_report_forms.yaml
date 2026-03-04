@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calamity Response Assessment
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_contact
+      label: Reporter Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_header
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_date_time
+      label: Date and Time of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_type
+      label: Type of Calamity
+      hint: null
+      type: select_one
+      options:
+      - Earthquake
+      - Flood
+      - Typhoon
+      - Landslide
+      - Fire
+      - Drought
+      - Storm
+      - Other
+      required: true
+    - id: 10
+      name: severity_level
+      label: Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Critical
+      required: true
+    - id: 11
+      name: damage_assessment_header
+      label: -- Damage Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: houses_damaged
+      label: Number of Houses Damaged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: houses_destroyed
+      label: Number of Houses Destroyed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: roads_affected
+      label: Roads or Infrastructure Affected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: utilities_affected
+      label: Utilities Affected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water supply
+      - Electricity
+      - Communication
+      - Transportation
+      - Healthcare
+      required: false
+    - id: 16
+      name: casualties_header
+      label: -- Casualties and Injuries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: number_deceased
+      label: Number of Deaths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: number_injured
+      label: Number of Injured Persons
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: number_missing
+      label: Number of Missing Persons
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: displaced_persons
+      label: Number of Displaced Persons
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: response_header
+      label: -- Response Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: response_measures
+      label: Response Measures Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: relief_provided
+      label: Types of Relief Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food assistance
+      - Medical aid
+      - Shelter
+      - Water
+      - Sanitation
+      - Rescue operations
+      required: false
+    - id: 24
+      name: additional_needs
+      label: Additional Needs Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_action
+      label: Recommended Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false

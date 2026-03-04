@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Data
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Data Form --
+      hint: Provide your academic details including semester-wise performance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID or enrollment number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: institution_name
+      label: Institution or university name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: degree_program
+      label: Degree program
+      hint: null
+      type: select_one
+      options:
+      - Bachelors
+      - Masters
+      - Doctoral (PhD)
+      - Diploma
+      - Certificate Program
+      required: true
+    - id: 8
+      name: major_field
+      label: Major or field of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: enrollment_year
+      label: Year of enrollment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_semester
+      label: Current semester
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: semester_cgpa_section
+      label: -- Semester-wise CGPA --
+      hint: Enter your CGPA for each completed semester
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: semester_1_cgpa
+      label: Semester 1 CGPA
+      hint: Enter on a scale of 0.00 to 10.00 (or 4.00 depending on your system)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: semester_2_cgpa
+      label: Semester 2 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: semester_3_cgpa
+      label: Semester 3 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: semester_4_cgpa
+      label: Semester 4 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: semester_5_cgpa
+      label: Semester 5 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: semester_6_cgpa
+      label: Semester 6 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: semester_7_cgpa
+      label: Semester 7 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: semester_8_cgpa
+      label: Semester 8 CGPA
+      hint: Leave blank if not completed
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: cumulative_cgpa
+      label: Overall cumulative CGPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: backlogs
+      label: Number of active backlogs or failed courses
+      hint: Enter 0 if none
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: grading_scale
+      label: Grading scale used by your institution
+      hint: null
+      type: select_one
+      options:
+      - 4.0 scale
+      - 10.0 scale
+      - Percentage based
+      - Letter grade (A-F)
+      - Other
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Any additional academic notes or comments
+      hint: e.g. academic honors, probation status, transfer credits
+      type: text
+      options: []
+      required: false

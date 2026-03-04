@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Drill Coordination Request Form
+    pages:
+    - id: 1
+      name: fire_drill_request
+      label: Fire Drill Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_drill_date
+      label: Fire Drill Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fire_drill_time
+      label: Fire Drill Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: fire_drill_location
+      label: Fire Drill Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_drill_responsible_person
+      label: Fire Drill Responsible Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fire_drill_location_details
+      label: Fire Drill Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_drill_fire_department
+      label: Fire Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

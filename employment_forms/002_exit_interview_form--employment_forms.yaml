@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Interview Form
+    pages:
+    - id: 1
+      name: reason_for_leaving
+      label: Why are you leaving?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_leaving_other
+      label: Other (please specify)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: last_day_of_work
+      label: Last day of work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: last_date_of_work
+      label: Last day of work
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_title
+      label: Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_supervisor_name
+      label: Last Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: last_supervisor_title
+      label: Last Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: last_manager_name
+      label: Last Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_manager_title
+      label: Last Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exit_date
+      label: Date of Exit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: exit_reasons
+      label: Reasons for Leaving
+      hint: null
+      type: select_one
+      options:
+      - Reason for Leaving
+      - Other (Reason for Leaving)
+      - Reason for Leaving
+      - Other (Other)
+      required: true
+    - id: 18
+      name: exit_reason_other
+      label: Other Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: feedback_for_improvement
+      label: Feedback for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_sign_date
+      label: Manager Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: manager_sign_time
+      label: Manager Sign Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

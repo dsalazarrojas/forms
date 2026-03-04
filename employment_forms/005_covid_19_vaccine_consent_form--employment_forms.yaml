@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Consent Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Full Name
+      hint: As shown on employment records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_understanding
+      label: I understand the benefits and risks of COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Do you have any serious medical conditions
+      hint: That might affect vaccine safety
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 9
+      name: allergies
+      label: Known Allergies
+      hint: Especially to vaccine components
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Current Medications
+      hint: That might interact with vaccine
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pregnant
+      label: Are you currently pregnant or breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 12
+      name: recent_vaccines
+      label: Other vaccines received in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: recent_illness
+      label: Had COVID-19 infection in past 3 months
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 14
+      name: fever
+      label: Currently experiencing fever or illness
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: previous_adverse_reaction
+      label: Previous adverse vaccine reactions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: adverse_reaction_details
+      label: Describe Previous Reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: questions_answered
+      label: All my questions about COVID-19 vaccination have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consent_decision
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - I voluntarily consent
+      - I do not consent
+      required: true
+    - id: 19
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name as your signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nepotism Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: family_relationship
+      label: Family Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: nepotism_level
+      label: Nepotism Level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: date_of_hire
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

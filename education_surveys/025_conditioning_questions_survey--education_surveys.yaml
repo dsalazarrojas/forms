@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conditioning Questions Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role or relationship to subject
+      hint: Student, teacher, researcher
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Researcher
+      - Parent
+      required: false
+    - id: 3
+      name: topic_understanding
+      label: Understanding of conditioning concepts
+      hint: Self rated understanding
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: practical_experience
+      label: Practical experience with conditioning
+      hint: Hours or sessions of practice
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: preferred_learning_methods
+      label: Preferred learning methods
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Lectures
+      - Hands on labs
+      - Group discussion
+      - Online modules
+      required: false
+    - id: 6
+      name: assessment_interest
+      label: Interest in assessment or certification
+      hint: Interest level in formal assessment
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: resource_needs
+      label: Resources needed
+      hint: Books, tools, or software required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

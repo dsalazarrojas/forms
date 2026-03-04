@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Culture Strength Quiz
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Role in company
+        hint: Employee, manager, executive, or contractor
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: communication_effectiveness
+        label: Communication effectiveness
+        hint: How well does communication function across teams
+        type: select_one
+        options: [Very effective, Effective, Neutral, Ineffective, Very ineffective]
+        required: true
+      - id: 3
+        name: leadership_trust
+        label: Trust in leadership
+        hint: Rate your trust in the leadership team
+        type: select_one
+        options: [Very high, High, Neutral, Low, Very low]
+        required: true
+      - id: 4
+        name: collaboration_frequency
+        label: Collaboration frequency
+        hint: How often teams collaborate effectively
+        type: select_one
+        options: [Daily, Weekly, Monthly, Rarely]
+        required: false
+      - id: 5
+        name: values_alignment
+        label: Alignment with company values
+        hint: How well do actions match stated values
+        type: select_one
+        options: [Strongly aligned, Aligned, Neutral, Misaligned]
+        required: true
+      - id: 6
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Optional ideas to strengthen culture
+        type: text
+        options: []
+        required: false

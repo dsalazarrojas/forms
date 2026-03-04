@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Employment Agreement Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''Part Time''}'
+      - '{''id'': 3, ''name'': ''Freelance''}'
+      required: false
+    - id: 4
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Entry Level''}'
+      - '{''id'': 2, ''name'': ''Mid Level''}'
+      - '{''id'': 3, ''name'': ''Senior Level''}'
+      required: false
+    - id: 6
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employment_agreement
+      label: Employment Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Leave''}'
+      required: false
+    - id: 17
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ongoing''}'
+      - '{''id'': 2, ''name'': ''Completed''}'
+      required: false
+    - id: 18
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''Part Time''}'
+      - '{''id'': 3, ''name'': ''Freelance''}'
+      required: false
+    - id: 19
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_category_type
+      label: Job Category Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_category_subcategory
+      label: Job Category Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''Part Time''}'
+      required: false
+    - id: 24
+      name: agreement_term
+      label: Agreement Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employment_agreement_signed
+      label: Employment Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false

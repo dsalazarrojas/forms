@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Change Request Form
+    pages:
+    - id: 1
+      name: policy_change_request
+      label: policy change request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Information Technology
+      - Marketing
+      - Operations
+      - Sales
+      required: false
+    - id: 3
+      name: change_request_type
+      label: change request type
+      hint: null
+      type: select_one
+      options:
+      - policy update
+      - policy addition
+      - policy removal
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: A clear and concise description of the policy change.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: impact
+      label: impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_effectivity
+      label: date of effectivity
+      hint: Effective date of the policy change.
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_effectivity_end
+      label: date of effectivity end
+      hint: End date of the policy change.
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_change_requestor
+      label: policy change requestor
+      hint: null
+      type: select_multiple
+      options:
+      - HR Manager
+      - HR Team
+      - Departmental Team
+      - Employee
+      required: false
+    - id: 9
+      name: departmental_approvals
+      label: departmental approvals
+      hint: List of departmental approvals for this policy change.
+      type: select_multiple
+      options:
+      - HR Manager
+      - prophets
+      - Departmental Team
+      - Employee
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_submission
+      label: date of submission
+      hint: Date of submission of the policy change request.
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: departmental_approvals_status
+      label: departmental approvals status
+      hint: Status of departmental approvals.
+      type: select_one
+      options:
+      - approved
+      - pending
+      - rejected
+      required: false
+    - id: 13
+      name: comments_status
+      label: comments status
+      hint: Status of comments.
+      type: select_one
+      options:
+      - approved
+      - pending
+      - rejected
+      required: false
+    - id: 14
+      name: date_of_submission_status
+      label: date of submission status
+      hint: Status of date of submission.
+      type: select_one
+      options:
+      - approved
+      - pending
+      - rejected
+      required: false

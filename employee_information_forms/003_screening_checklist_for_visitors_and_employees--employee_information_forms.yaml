@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screening Checklist For Visitors And Employees
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: health_declaration
+      label: Health Declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_checklist
+      label: Employee Checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visitor_checklist
+      label: Visitor Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_declaration
+      label: Medical Declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: visitor_history
+      label: Visitor History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_history_list
+      label: Contact History List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
+        True}'
+      - '{''name'': ''contact_location'', ''label'': ''Contact Location'', ''type'':
+        ''text'', ''required'': True}'
+      - '{''name'': ''date_of_contact'', ''label'': ''Date of Contact'', ''type'':
+        ''date'', ''required'': True}'
+      - '{''name'': ''contact_type'', ''label'': ''Contact Type'', ''type'': ''select_one'',
+        ''options'': [{''name'': ''Direct Contact'', ''label'': ''Direct Contact''},
+        {''name'': ''Indirect Contact'', ''label'': ''Indirect Contact''}, {''name'':
+        ''No Contact'', ''label'': ''No Contact''}], ''required'': True}'
+      required: true
+    - id: 10
+      name: medical_history_list
+      label: Medical History List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''previously_treated_doctor'', ''label'': ''Previously Treated
+        Doctor'', ''type'': ''text'', ''required'': False}'
+      - '{''name'': ''medical_condition'', ''label'': ''Medical Conditions'', ''type'':
+        ''text'', ''required'': False}'
+      required: false
+    - id: 11
+      name: screening_results
+      label: Screening Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: screening_results_list
+      label: Screening Results List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''result'', ''label'': ''Result'', ''type'': ''select_one'', ''options'':
+        [{''name'': ''Positive'', ''label'': ''Positive''}, {''name'': ''Negative'',
+        ''label'': ''Negative''}, {''name'': ''Unknown'', ''label'': ''Unknown''}],
+        ''required'': True}'
+      - '{''name'': ''reason'', ''label'': ''Reason'', ''type'': ''text'', ''required'':
+        True}'
+      required: false
+    - id: 13
+      name: screening_checklist_results
+      label: Screening Checklist Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: screening_checklist_results_list
+      label: Screening Checklist Results List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''screening_results'', ''label'': ''Screening Results'', ''type'':
+        ''select_multiple'', ''required'': True, ''options'': [{''name'': ''Positive'',
+        ''label'': ''Positive''}, {''name'': ''Negative'', ''label'': ''Negative''},
+        {''name'': ''Unknown'', ''label'': ''Unknown''}]}'
+      - Other
+      required: true
+    - id: 15
+      name: contact_information_list
+      label: Contact Information List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
+        True}'
+      - '{''name'': ''phone'', ''label'': ''Phone'', ''type'': ''text'', ''required'':
+        True}'
+      - '{''name'': ''email'', ''label'': ''Email'', ''type'': ''text'', ''required'':
+        True}'
+      required: true
+    - id: 16
+      name: medical_declaration_list
+      label: Medical Declaration List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''blood_pressure'', ''label'': ''Blood Pressure'', ''type'': ''text'',
+        ''required'': False}'
+      - '{''name'': ''diabetes'', ''label'': ''Diabetes'', ''type'': ''text'', ''required'':
+        False}'
+      - '{''name'': ''heart_disease'', ''label'': ''Heart Disease'', ''type'': ''text'',
+        ''required'': False}'
+      - '{''name'': ''kidney_disease'', ''label'': ''Kidney Disease'', ''type'': ''text'',
+        ''required'': False}'
+      - '{''name'': ''cancer'', ''label'': ''Cancer'', ''type'': ''text'', ''required'':
+        False}'
+      - '{''name'': ''epilepsy'', ''label'': ''Epilepsy'', ''type'': ''text'', ''required'':
+        False}'
+      - '{''name'': ''other_medical_condition'', ''label'': ''Other Medical Condition'',
+        ''type'': ''text'', ''required'': False}'
+      required: false
+    - id: 17
+      name: employee_checklist_list
+      label: Employee Checklist List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''employee_name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
+        True}'
+      - '{''name'': ''employee_id'', ''label'': ''Employee ID'', ''type'': ''text'',
+        ''required'': True}'
+      - '{''name'': ''employee_email'', ''label'': ''Email'', ''type'': ''text'',
+        ''required'': True}'
+      required: true
+    - id: 18
+      name: visitor_checklist_list
+      label: Visitor Checklist List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''visitor_name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
+        True}'
+      - '{''name'': ''contact_number'', ''label'': ''Contact Number'', ''type'': ''text'',
+        ''required'': True}'
+      - '{''name'': ''email'', ''label'': ''Email'', ''type'': ''text'', ''required'':
+        True}'
+      required: false
+    - id: 19
+      name: visitor_history_list
+      label: Visitor History List
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''contact_person'', ''label'': ''Contact Person'', ''type'': ''text'',
+        ''required'': False}'
+      - '{''name'': ''medical_condition'', ''label'': ''Medical Condition'', ''type'':
+        ''text'', ''required'': False}'
+      - '{''name'': ''other_medical_condition'', ''label'': ''Other Medical Condition'',
+        ''type'': ''text'', ''required'': False}'
+      - '{''name'': ''recently_treated_doctor'', ''label'': ''Recently Treated Doctor'',
+        ''type'': ''text'', ''required'': False}'
+      - '{''name'': ''visited_locations'', ''label'': ''Visited Locations'', ''type'':
+        ''text'', ''required'': False}'
+      required: false

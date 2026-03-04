@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Government Purchase Request Form
+    pages:
+    - id: 1
+      name: student_government_purchase_request_form
+      label: Student Government Purchase Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the item
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 7
+      name: department_name
+      label: Department Name
+      hint: null
+      type: select_multiple
+      options:
+      - Department of Education
+      - Department of Sports
+      - Department of Arts
+      required: false
+    - id: 8
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

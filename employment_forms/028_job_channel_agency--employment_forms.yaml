@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Channel Agency
+    pages:
+    - id: 1
+      name: job_channel_agency_form
+      label: job_channel_agency_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Temporary''}'
+      required: true
+    - id: 3
+      name: job_location
+      label: job_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yangon''}'
+      - '{''label'': ''Mandalay''}'
+      - '{''label'': ''Nay Pyi Taw''}'
+      - '{''label'': ''Naypyitaw''}'
+      - '{''label'': ''Pyi''}'
+      required: true
+    - id: 4
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Marketing''}'
+      required: true
+    - id: 5
+      name: job_position
+      label: job_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      required: true
+    - id: 9
+      name: job_url
+      label: job_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone_number
+      label: contact_phone_number
+      hint: null
+      type: number
+      options: []
+      required: false

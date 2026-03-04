@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Monitoring Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_grade
+      label: Job Grade
+      hint: null
+      type: select_multiple
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      required: false
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 8
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 11
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: termination_status
+      label: Termination Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_manager_job_title
+      label: Reporting Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reporting_manager_phone
+      label: Reporting Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 23
+      name: onboarding_comments
+      label: Onboarding Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_reviewed_by
+      label: Last Reviewed By
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - HR
+      required: false
+    - id: 25
+      name: last_reviewed_date
+      label: Last Reviewed Date
+      hint: null
+      type: date
+      options: []
+      required: false

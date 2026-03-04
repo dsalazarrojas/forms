@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: education_sector_consulting_contact_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - mail
+      - other
+      required: false
+    - id: 4
+      name: other_contact_method
+      label: Other Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_details
+      label: Consultation Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - en
+      - es
+      - fr
+      - ar
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: university_name
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: mail
+      label: Mail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - mail
+      - other
+      required: false
+    - id: 19
+      name: follow_up_contact_person
+      label: Follow-up Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 22
+      name: assigned_agent_note
+      label: Assigned Agent Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

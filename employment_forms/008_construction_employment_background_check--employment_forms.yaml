@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Employment Background Check
+    pages:
+    - id: 1
+      name: section_applicant_ident
+      label: -- Applicant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: other_names_used
+      label: Other Names Used (Maiden, etc.)
+      hint: Separate with commas
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Used for identification purposes only
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ssn_last_four
+      label: Social Security Number (Last 4 Digits)
+      hint: Required for background verification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contact_address
+      label: -- Contact and Address History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_address
+      label: Current Street Address
+      hint: City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_at_address
+      label: Years at Current Address
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_driving_history
+      label: -- Driving and Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: driver_license_number
+      label: Driver's License Number
+      hint: Required if operating company vehicles
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: license_state
+      label: Issuing State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_class
+      label: License Class
+      hint: e.g., Class A CDL, Class C Standard
+      type: select_one
+      options:
+      - Class A CDL
+      - Class B CDL
+      - Class C (Standard)
+      - Class D
+      - Other
+      required: true
+    - id: 14
+      name: motor_vehicle_violations
+      label: Any motor vehicle violations in the last 3 years?
+      hint: Excluding minor parking tickets
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_legal_disclosures
+      label: -- Legal Disclosures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: criminal_conviction_history
+      label: Have you ever been convicted of a felony?
+      hint: A conviction will not necessarily disqualify you from employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: drug_test_consent
+      label: Consent to Pre-employment Drug Screening
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 18
+      name: authorization_signature
+      label: Authorization and Release Agreement
+      hint: I authorize the company to conduct a background check including criminal
+        history and credit check if applicable
+      type: select_one
+      options:
+      - I Agree and Authorize
+      - I Disagree
+      required: true
+    - id: 19
+      name: submission_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

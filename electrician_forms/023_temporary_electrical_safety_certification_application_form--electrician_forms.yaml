@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Electrical Safety Certification Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_plans
+      label: Electrical Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approvals
+      label: Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

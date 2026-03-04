@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Bonus Request Form
+    pages:
+    - id: 1
+      name: submit_bonus_request
+      label: Submit Performance Bonus Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: bonus_reason
+      label: Reason For Bonus Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: bonus_amount
+      label: Bonus Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date Of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: bonus_type
+      label: Bonus Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: bonus_frequency
+      label: Bonus Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_id
+      label: Department ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

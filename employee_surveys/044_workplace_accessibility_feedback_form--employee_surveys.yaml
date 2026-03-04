@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Accessibility Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workplace_accessibility
+      label: workplace_accessibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: suggest_improvements
+      label: Suggest Improvements
+      hint: Suggest specific improvements to the workplace.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_features
+      label: accessibility_features
+      hint: null
+      type: select_one
+      options:
+      - Feature 1
+      - Feature 2
+      required: false
+    - id: 8
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 9
+      name: workplace_accessibility_2
+      label: workplace_accessibility_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_suggestions
+      label: employee_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_suggestions
+      label: manager_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_comments_2
+      label: manager_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false

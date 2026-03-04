@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Final Exam Review Survey
+    pages:
+    - id: 1
+      name: exam_session_questions
+      label: Exam Session Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_effectiveness
+      label: How effective was the session?
+      hint: null
+      type: select_one
+      options:
+      - Effective
+      - Not Effective
+      - Neutral
+      required: false
+    - id: 3
+      name: future_improvements
+      label: What can be improved for future sessions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_to_contact
+      label: Email to Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_session
+      label: Review Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: department_suggestions
+      label: Department Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

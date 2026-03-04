@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: lcc_department_semester_schedule_request
+    pages:
+    - id: 1
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - LCC - Artisanal Studies
+      - LCC - Business and Industry
+      - LCC - Career and Technical
+      - LCC - Health Sciences
+      required: true
+    - id: 2
+      name: semester
+      label: semester
+      hint: null
+      type: select_one
+      options:
+      - Fall 2022
+      - Spring 2023
+      - Summer 2022
+      - Winter 2023
+      required: true
+    - id: 3
+      name: schedule_request
+      label: Schedule Request
+      hint: Please specify your schedule request
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Part-time
+      required: true
+    - id: 5
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 6
+      name: available_times
+      label: Available Times
+      hint: null
+      type: select_multiple
+      options:
+      - 8-12
+      - 12-16
+      - 16-20
+      - 20-24
+      required: true
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: Please enter your address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_1
+      label: Email 1
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_1
+      label: Phone 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department_1
+      label: Department 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department_2
+      label: Department 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: department_3
+      label: Department 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: department_4
+      label: Department 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_5
+      label: Department 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_6
+      label: Department 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: department_7
+      label: Department 7
+      hint: null
+      type: text
+      options: []
+      required: false

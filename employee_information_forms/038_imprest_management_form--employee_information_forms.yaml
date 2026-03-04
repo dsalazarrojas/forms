@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: imprest_management_form
+    pages:
+    - id: 1
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - checking
+      - savings
+      - cash
+      required: true
+    - id: 5
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: account_currency
+      label: Account Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: true
+    - id: 7
+      name: account_notes
+      label: Account Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_date
+      label: Account Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: account_time
+      label: Account Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: account_email
+      label: Account Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: account_phone
+      label: Account Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: account_comments
+      label: Account Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: account_approver
+      label: Account Approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: account_approver_email
+      label: Account Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: account_approver_phone
+      label: Account Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: account_comments
+      label: Account Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: account_approver_comments
+      label: Account Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: account_approval_status
+      label: Account Approval Status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - denied
+      - pending
+      required: true
+    - id: 20
+      name: account_remarks
+      label: Account Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: account_remarks_comments
+      label: Account Remarks Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: account_remarks_approval_status
+      label: Account Remarks Approval Status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - denied
+      - pending
+      required: false
+    - id: 23
+      name: account_remarks_approver
+      label: Account Remarks Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: account_remarks_approver_phone
+      label: Account Remarks Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: account_remarks_approver_email
+      label: Account Remarks Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false

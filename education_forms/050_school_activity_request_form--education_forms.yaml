@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Activity Request Form
+    pages:
+    - id: 1
+      name: activity_title
+      label: Activity Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: num_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program
+      label: Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - School Club
+      - School Organization
+      - Student Event
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

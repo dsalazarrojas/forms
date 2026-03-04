@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: physics_quiz_form
+    pages:
+    - id: 1
+      name: form_start
+      label: start_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: what_is_physics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question2
+      label: what_is_a_mole
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''mass''}'
+      - '{''id'': 2, ''label'': ''energy''}'
+      - '{''id'': 3, ''label'': ''velocity''}'
+      required: false
+    - id: 4
+      name: question3
+      label: what_is_einstein
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''mass''}'
+      - '{''id'': 2, ''label'': ''energy''}'
+      - '{''id'': 3, ''label'': ''velocity''}'
+      required: true
+    - id: 5
+      name: calculate_result
+      label: calculate_result
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: result
+      label: result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_end
+      label: end_form
+      hint: null
+      type: note
+      options: []
+      required: false

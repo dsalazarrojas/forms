@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Emergency Contact Information Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Enter Student Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Enter Contact Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      required: true
+    - id: 4
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Both
+      - Other
+      required: false
+    - id: 5
+      name: relationship_other
+      label: Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Enter Street Address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_2
+      label: Additional Phone
+      hint: null
+      type: text
+      options: []
+      required: false

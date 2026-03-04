@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Feedback Culture Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: Choose your role within the institution
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Administrator
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: Optional department name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_feedback
+      label: Frequency of peer feedback in your unit
+      hint: How often does peer feedback occur
+      type: select_one
+      options:
+        - Weekly
+        - Monthly
+        - Semesterly
+        - Rarely
+      required: true
+    - id: 5
+      name: perceived_value
+      label: Perceived value of peer feedback
+      hint: Rate how valuable peer feedback is
+      type: select_one
+      options:
+        - Very valuable
+        - Valuable
+        - Neutral
+        - Not valuable
+      required: true
+    - id: 6
+      name: barriers
+      label: Main barriers to effective peer feedback
+      hint: Select barriers that apply
+      type: select_multiple
+      options:
+        - Time constraints
+        - Lack of training
+        - Fear of conflict
+        - Insufficient recognition
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions to improve peer feedback
+      hint: Practical ideas to enhance culture
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willingness_to_participate
+      label: Willingness to participate in pilot programs
+      hint: Indicate interest in joining improvement activities
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact email for follow up
+      hint: Leave email if you agree to be contacted
+      type: email
+      options: []
+      required: false

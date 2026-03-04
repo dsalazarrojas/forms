@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Attendee Email Collection
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_first_name
+      label: Attendee First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_last_name
+      label: Attendee Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_communication_channel
+      label: Preferred Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 7
+      name: conference_attendance
+      label: Attended Conference
+      hint: null
+      type: select_multiple
+      options:
+      - Attended
+      - Not Attended
+      required: false
+    - id: 8
+      name: consent_conference_data
+      label: Consent to Conference Data
+      hint: null
+      type: select_one
+      options:
+      - I consent to share my contact information with the conference organiser
+      - I do not consent
+      required: true
+    - id: 9
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

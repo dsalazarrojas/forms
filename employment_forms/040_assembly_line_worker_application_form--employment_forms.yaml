@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Worker Application Form
+    pages:
+    - id: 1
+      name: applicant_name_worker
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone_worker
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_worker
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: experience_years_worker
+      label: Years of Manufacturing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: shift_availability_worker
+      label: Available Shifts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning Shift - 6 AM to 2 PM
+      - Afternoon Shift - 2 PM to 10 PM
+      - Night Shift - 10 PM to 6 AM
+      - Weekend Shifts
+      required: true
+    - id: 6
+      name: physical_requirements_check
+      label: Are you able to lift up to 50 lbs repeatedly
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: dexterity_self_rating
+      label: Hand-eye Coordination Self-rating
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: safety_certs_worker
+      label: List any relevant safety certifications
+      hint: e.g. OSHA 10, Forklift license
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_employer_worker
+      label: Last Manufacturing Employer
+      hint: Name of company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reference_name_worker
+      label: Professional Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: education_level_worker
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma or GED
+      - Vocational/Technical Certificate
+      - Associates Degree
+      - Bachelors Degree
+      required: true
+    - id: 12
+      name: start_date_worker
+      label: Date Available to Start Work
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: background_check_consent
+      label: I consent to a background and drug screening
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true

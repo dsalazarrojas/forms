@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Engineering Exam
+    pages:
+    - id: 1
+      name: mechanical_engineering_exam
+      label: Mechanical Engineering Exam
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - employment_forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

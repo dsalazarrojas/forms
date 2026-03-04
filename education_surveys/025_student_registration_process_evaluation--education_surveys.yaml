@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Registration Process Evaluation
+    pages:
+    - id: 1
+      name: student_registration_process_evaluation
+      label: student-registration-process-evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall-experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: communication
+      hint: How would you rate the level of communication with our team?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      - '{''id'': 5, ''label'': ''Very Poor''}'
+      required: false
+    - id: 4
+      name: support
+      label: support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false

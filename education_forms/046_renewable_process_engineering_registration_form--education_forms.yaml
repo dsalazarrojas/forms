@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: renewable_process_engineering_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: What is your interest in Renewable Process Engineering?
+      hint: null
+      type: select_one
+      options:
+      - Interest in learning new things
+      - Interest in new skills
+      - Interest in personal growth
+      required: false
+    - id: 8
+      name: select_multiple
+      label: What are your preferred methods of learning?
+      hint: null
+      type: select_multiple
+      options:
+      - Online Courses
+      - Classroom Lectures
+      - Workshops
+      - Videos
+      - Podcasts
+      - Books
+      required: false

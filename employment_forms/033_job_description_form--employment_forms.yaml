@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Description Form
+    pages:
+    - id: 1
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - Job Type
+      - Freelance
+      - Full-time
+      required: false
+    - id: 4
+      name: job_summary
+      label: job_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_responsibilities
+      label: job_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_requirements
+      label: job_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: required_skills
+      label: required_skills
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      - Skill 3
+      required: false
+    - id: 8
+      name: job_location
+      label: job_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_tags
+      label: job_tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 10
+      name: application_process
+      label: application_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

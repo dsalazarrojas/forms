@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Incident Discharge Form
+    pages:
+    - id: 1
+      name: incident_information
+      label: Incident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Complete''}'
+      required: false
+    - id: 4
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workplace_safety_incident
+      label: Workplace Safety Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: investigation_outcome
+      label: Investigation Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Applicable''}'
+      - '{''label'': ''Minor''}'
+      - '{''label'': ''Serious''}'
+      required: false
+    - id: 9
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preventive_action
+      label: Preventive Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_involvement
+      label: Employee Involvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_involvement
+      label: Supervisor Involvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 16
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Near Miss''}'
+      - '{''label'': ''Actual Harm''}'
+      - '{''label'': ''Injury''}'
+      required: false
+    - id: 17
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Slip, Trip, and Fall''}'
+      - '{''label'': ''Equipment Related''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Office''}'
+      - '{''label'': ''Warehouse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: injury_part
+      label: Injured Part
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_attention
+      label: Medical Attention
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: false
+    - id: 23
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: incident_date_modified
+      label: Date Modified
+      hint: null
+      type: date
+      options: []
+      required: false

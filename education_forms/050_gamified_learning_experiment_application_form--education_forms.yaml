@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gamified Learning Experiment Application Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motivations
+      label: Motivations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Computer Science
+      - Education
+      - Game Design
+      - Math
+      required: false
+    - id: 6
+      name: participant_incentives
+      label: Participant Incentives
+      hint: null
+      type: select_multiple
+      options:
+      - Money
+      - Gift Card
+      - Other
+      required: false
+    - id: 7
+      name: participant_consent_text
+      label: Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: researcher_info
+      label: Researcher Information
+      hint: null
+      type: select_multiple
+      options:
+      - Researcher 4
+      - Other
+      required: false
+    - id: 9
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: researcher_email
+      label: Researcher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: researcher_phone
+      label: Researcher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: research_group
+      label: Research Group
+      hint: null
+      type: select_one
+      options:
+      - Group 1
+      - Group 2
+      - Group 3
+      - Group 4
+      required: false
+    - id: 13
+      name: experiment_name
+      label: Experiment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 16
+      name: participant_ethnicity
+      label: Participant Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black
+      - Hispanic
+      required: false
+    - id: 17
+      name: participant_disability
+      label: Participant Disability
+      hint: null
+      type: select_multiple
+      options:
+      - Blind
+      - Deaf
+      - Other Disability
+      required: false
+    - id: 18
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false

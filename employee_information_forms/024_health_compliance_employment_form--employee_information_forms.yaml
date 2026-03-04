@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Compliance Employment Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: employer_name
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: 12345678 or 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift_start
+      label: shift_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shift_end
+      label: shift_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: shift_length
+      label: shift_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - On-Call
+      required: false
+    - id: 9
+      name: work_status
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      - Resigned
+      required: false
+    - id: 10
+      name: shift_days
+      label: shift_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: shift_hours
+      label: shift_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_type_other
+      label: work_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_location
+      label: job_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_contact
+      label: manager_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_attestation_declaration
+      label: employee_atTESTATION DECLARATION
+      hint: I, the undersigned employee, hereby attest that all information provided
+        is accurate and truthful.
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: manager_attestation_declaration
+      label: manager_atTESTATION DECLARATION
+      hint: I, the undersigned manager, hereby attest that all information provided
+        is accurate and truthful.
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_date
+      label: manager_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_relationship
+      label: manager_relationship
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Director
+      - Other
+      required: false
+    - id: 24
+      name: manager_email_other
+      label: manager_email_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_phone_other
+      label: manager_phone_other
+      hint: null
+      type: text
+      options: []
+      required: false

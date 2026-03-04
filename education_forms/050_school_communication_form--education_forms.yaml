@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Communication Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Meeting
+      required: true
+    - id: 4
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: attachment
+      label: Attachment
+      hint: null
+      type: select_one
+      options:
+      - File
+      - Image
+      - Video
+      required: true
+    - id: 9
+      name: send_to
+      label: Send To
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Parent
+      - Both
+      required: true
+    - id: 10
+      name: send_at
+      label: Send At
+      hint: null
+      type: select_one
+      options:
+      - Now
+      - Later
+      - Never
+      required: true
+    - id: 11
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

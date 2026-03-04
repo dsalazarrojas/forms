@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Panel Application Form
+    pages:
+    - id: 1
+      name: employee_recognition_panel_application_form
+      label: Employee Recognition Panel Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_surveys
+      label: Employee Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: human_resources_forms
+      label: Human Resources Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

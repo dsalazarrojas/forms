@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: secondary_school_report_form
+    pages:
+    - id: 1
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: academic_performance
+      label: academic_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: attendance_record
+      label: attendance_record
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_signature
+      label: teacher_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Needs Improvement''}'
+      - '{3: ''Unsatisfactory''}'
+      required: false
+    - id: 8
+      name: student_conduct
+      label: student_conduct
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Good''}'
+      - '{2: ''Needs Improvement''}'
+      - '{3: ''Unsatisfactory''}'
+      required: false
+    - id: 9
+      name: overall_attendance
+      label: overall_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: class_progress
+      label: class_progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: subject_1
+      label: subject_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Mathematics''}'
+      - '{2: ''English''}'
+      - '{3: ''Science''}'
+      - '{4: ''Social Studies''}'
+      required: false
+    - id: 12
+      name: subject_2
+      label: subject_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Mathematics''}'
+      - '{2: ''English''}'
+      - '{3: ''Science''}'
+      - '{4: ''Social Studies''}'
+      required: false
+    - id: 13
+      name: subject_3
+      label: subject_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Mathematics''}'
+      - '{2: ''English''}'
+      - '{3: ''Science''}'
+      - '{4: ''Social Studies''}'
+      required: false
+    - id: 14
+      name: subject_4
+      label: subject_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Mathematics''}'
+      - '{2: ''English''}'
+      - '{3: ''Science''}'
+      - '{4: ''Social Studies''}'
+      required: false
+    - id: 15
+      name: subject_5
+      label: subject_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Mathematics''}'
+      - '{2: ''English''}'
+      - '{3: ''Science''}'
+      - '{4: ''Social Studies''}'
+      required: false

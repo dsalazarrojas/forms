@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: equity_in_digital_access_survey
+    pages:
+    - id: 1
+      name: school_location
+      label: School Location
+      hint: null
+      type: select_one
+      options:
+      - Primary/Elementary School
+      - Middle School
+      - High School
+      - Non-Profit Organization
+      - Community Organization
+      - Home Schooled
+      - Public Library
+      - Other
+      required: false
+    - id: 2
+      name: device_access
+      label: Device Access
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop/Laptop/Computer
+      - Tablet
+      - Smartphone
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: connectivity_speed
+      label: Internet Connectivity Speed
+      hint: Mbps
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_spent_online
+      label: Time Spent Online
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: barriers_to_connectivity
+      label: Barriers to Connectivity
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Slow internet speed
+      - Cost
+      - Limited internet access
+      - Other
+      required: false
+    - id: 6
+      name: device_quality
+      label: Device Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: school_funding
+      label: School Funding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 8
+      name: teacher_training
+      label: Teacher Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 9
+      name: community_engagement
+      label: Community Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 10
+      name: device_access_barriers
+      label: Device Access Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Availability
+      - Other
+      required: false
+    - id: 11
+      name: connectivity_speed_barriers
+      label: Connectivity Speed Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Availability
+      - Other
+      required: false
+    - id: 12
+      name: teacher_device_access
+      label: Teacher Device Access
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 13
+      name: student_device_access
+      label: Student Device Access
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: internet_quality
+      label: Internet Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: device_access_other
+      label: Other Device Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: barriers_to_connectivity_other
+      label: Other Barriers to Connectivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_training_other
+      label: Other Teacher Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: community_engagement_other
+      label: Other Community Engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: device_access_barriers_other
+      label: Other Device Access Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: connectivity_speed_other
+      label: Other Connectivity Speed Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_funding_other
+      label: Other School Funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: teacher_device_access_other
+      label: Other Teacher Device Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_device_access_other
+      label: Other Student Device Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: internet_quality_other
+      label: Other Internet Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

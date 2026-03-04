@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Withdrawal Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_withdrawal
+      label: reason for withdrawal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_withdrawal
+      label: date of withdrawal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_withdrawal
+      label: time of withdrawal
+      hint: null
+      type: time
+      options: []
+      required: true

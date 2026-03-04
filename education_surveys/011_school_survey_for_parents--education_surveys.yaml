@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Survey For Parents
+    pages:
+    - id: 1
+      name: school_survey_for_parents
+      label: How Often Do You Visit The School
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Once a month
+      - A few times a month
+      - More than once a week
+      required: false
+    - id: 2
+      name: school_survey_for_parents_label
+      label: How Involved Are You In Your Child's Education
+      hint: null
+      type: select_multiple
+      options:
+      - Very Involved
+      - Somewhat Involved
+      - Not Very Involved
+      - Not Involved At All
+      required: false
+    - id: 3
+      name: school_survey_for_parents_date
+      label: Last Date You Visited The School
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: school_survey_for_parents_contact
+      label: How Do You Prefer To Communicate With Teachers
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - In Person
+      required: true
+    - id: 5
+      name: school_survey_for_parents_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: school_survey_for_parents_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_survey_for_parents_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: school_survey_for_parents_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

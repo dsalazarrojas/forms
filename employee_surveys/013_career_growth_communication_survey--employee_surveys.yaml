@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Growth Communication Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure_years
+      label: Years with Company
+      hint: How long have you worked here?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Your Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: career_path_clarity
+      label: Is Your Career Path Clear?
+      hint: Do you understand advancement opportunities?
+      type: select_one
+      options:
+      - Very Clear - I know my progression
+      - Somewhat Clear - I have an idea
+      - Unclear - I'm not sure
+      - Not Clear - I don't know what's available
+      required: true
+    - id: 8
+      name: communication_frequency
+      label: How Often Does Management Discuss Career Development With You?
+      hint: null
+      type: select_one
+      options:
+      - Regularly - at least monthly
+      - Occasionally - a few times a year
+      - Rarely - once or twice a year
+      - Never - no career discussions
+      required: true
+    - id: 9
+      name: manager_communication
+      label: Does Your Manager Discuss Career Growth Opportunities?
+      hint: null
+      type: select_one
+      options:
+      - Yes - frequently and proactively
+      - Somewhat - occasionally when asked
+      - Rarely - very limited discussion
+      - No - never discusses it
+      required: true
+    - id: 10
+      name: company_communication
+      label: How Well Does Company Communicate Career Opportunities?
+      hint: Overall company communication about advancement
+      type: select_one
+      options:
+      - Excellent - very clear and accessible
+      - Good - adequate information available
+      - Fair - some information available
+      - Poor - limited communication
+      required: true
+    - id: 11
+      name: career_development_info
+      label: Have You Received Information About Career Development Programs?
+      hint: Training, mentoring, advancement programs
+      type: select_one
+      options:
+      - Yes - comprehensive information
+      - Yes - some information
+      - No - very limited information
+      - No - not aware of any programs
+      required: true
+    - id: 12
+      name: career_planning_support
+      label: Support for Career Planning
+      hint: Has anyone helped you plan your career?
+      type: select_one
+      options:
+      - Excellent support - have clear plan
+      - Good support - working on plan
+      - Minimal support - struggling to plan
+      - No support - no help available
+      required: true
+    - id: 13
+      name: promotion_information
+      label: Are You Aware of Promotion Criteria and Paths?
+      hint: Do you know how to get promoted?
+      type: select_one
+      options:
+      - Yes - very aware
+      - Somewhat - have general idea
+      - Vague - uncertain about process
+      - No - don't know how promotions work
+      required: true
+    - id: 14
+      name: skill_development_communication
+      label: Communication About Required Skills for Advancement
+      hint: Have you been told what skills you need?
+      type: select_one
+      options:
+      - Clear guidance - know exactly what's needed
+      - Somewhat clear - general guidance given
+      - Unclear - vague information
+      - No guidance - haven't discussed it
+      required: true
+    - id: 15
+      name: training_opportunities
+      label: Are You Aware of Available Training and Development Programs?
+      hint: null
+      type: select_one
+      options:
+      - Yes - very aware
+      - Somewhat - aware of some
+      - Limited - know of a few
+      - No - not aware of programs
+      required: true
+    - id: 16
+      name: preferred_communication
+      label: Your Preferred Communication Method for Career Discussions
+      hint: How would you like to receive info?
+      type: select_multiple
+      options:
+      - One-on-one meetings with manager
+      - Group meetings or workshops
+      - Email or written communication
+      - Company intranet or online portal
+      - Career fairs or networking events
+      - Mentoring relationships
+      required: true
+    - id: 17
+      name: communication_barriers
+      label: What Barriers Prevent Career Development Communication?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of manager availability
+      - Unclear company policies
+      - Limited resources or programs
+      - Insufficient feedback on performance
+      - Unclear job expectations
+      - Lack of visibility to leadership
+      - Other barriers
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: How Could Career Growth Communication Be Improved?
+      hint: Your suggestions for enhancement
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_effectiveness
+      label: How Effective Is Your Manager at Career Development Discussions?
+      hint: null
+      type: select_one
+      options:
+      - Very effective - helpful and supportive
+      - Effective - generally helpful
+      - Somewhat effective - could improve
+      - Not very effective - needs improvement
+      - Not at all effective - unhelpful
+      required: false
+    - id: 20
+      name: career_engagement
+      label: Do Career Development Communications Motivate You?
+      hint: How much do these conversations affect your engagement?
+      type: select_one
+      options:
+      - Very motivating - energizes me
+      - Motivating - encourages growth
+      - Neutral - no real impact
+      - Discouraging - makes me less motivated
+      - Very discouraging - negative impact
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments About Career Communication
+      hint: Any other feedback?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_drill_participation_consent_form
+    pages:
+    - id: 1
+      name: fire_drill_information
+      label: fire_drill_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permission_to_share
+      label: permission_to_share
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: emergency_contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: acknowledgment
+      label: acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_drill_date
+      label: fire_drill_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

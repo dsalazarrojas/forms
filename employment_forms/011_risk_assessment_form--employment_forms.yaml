@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assesment Form
+    pages:
+    - id: 1
+      name: risk_assessment_form
+      label: Risk Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: probability
+      label: Probability
+      hint: What is the probability of the risk.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: consequence
+      label: Consequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: control
+      label: Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: recommended_controls
+      label: Recommended Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_assessment_form_comments
+      label: Risk Assessment Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_assessment_form_status
+      label: Risk Assessment Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: risk_assessment_form_status_other
+      label: Other Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_team
+      label: Safety Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

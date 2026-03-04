@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Exploration Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic
+      label: demographic
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_one
+      label: question_one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_two
+      label: question_two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_three
+      label: question_three
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: question_four
+      label: question_four
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question_five
+      label: question_five
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Tutoring Dynamics Survey
+    pages:
+    - id: 1
+      name: intro_section
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_frequency
+      label: peer_tutoring_roles_frequency
+      hint: null
+      type: select_one
+      options:
+      - role1
+      - role2
+      - role3
+      required: false
+    - id: 3
+      name: frequency_of_tutoring
+      label: frequency_of_tutoring
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: effectiveness_of_services
+      label: effectiveness_of_services
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_last_participated
+      label: date_last_participated
+      hint: null
+      type: date
+      options: []
+      required: false

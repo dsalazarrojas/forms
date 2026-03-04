@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: internal_communication_strategy_evaluation_form
+    pages:
+    - id: 1
+      name: update_frequency
+      label: update_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: update_channel
+      label: update_channel
+      hint: null
+      type: select_one
+      options:
+      - Communication
+      - Chat
+      - Email
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Dissatisfied
+      required: true
+    - id: 4
+      name: communication_channels_effectiveness
+      label: communication_channels_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_frequency
+      label: output_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: centralize_data_collection
+      label: centralize_data_collection
+      hint: null
+      type: number
+      options: []
+      required: false

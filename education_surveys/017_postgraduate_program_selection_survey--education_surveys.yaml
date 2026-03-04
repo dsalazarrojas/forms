@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postgraduate Program Selection Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_fields
+      label: Preferred Fields of Study
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      required: false
+    - id: 3
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      - '{''option4'': None}'
+      required: false
+    - id: 4
+      name: study_modes
+      label: Study Modes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

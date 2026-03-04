@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Fund Request Form
+    pages:
+    - id: 1
+      name: scholarship_fund_request_form
+      label: scholarship_fund_request_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scholarship_type
+      label: scholarship_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: purpose
+      label: purpose
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: amount_requested
+      label: amount_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

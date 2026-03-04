@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: payroll_and_cryptocurrency_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: true
+    - id: 4
+      name: preferred_currency
+      label: preferred_currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - INR
+      - BTC
+      - ETH
+      required: true
+    - id: 5
+      name: salary_frequency
+      label: salary_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      required: true
+    - id: 6
+      name: crypto_payment
+      label: crypto_payment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: crypto_currency
+      label: crypto_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - INR
+      - BTC
+      - ETH
+      required: true
+    - id: 8
+      name: crypto_frequency
+      label: crypto_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: true
+    - id: 14
+      name: preferred_currency
+      label: preferred_currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - INR
+      - BTC
+      - ETH
+      required: true
+    - id: 15
+      name: crypto_payment
+      label: crypto_payment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

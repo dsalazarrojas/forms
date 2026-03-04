@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adjunct Faculty Employment Application
+    pages:
+    - id: 1
+      name: application_intro
+      label: -- Adjunct Instructor Employment Application --
+      hint: Please complete all sections for consideration for upcoming teaching opportunities
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: academic_dept_interest
+      label: Primary Academic Department of Interest
+      hint: null
+      type: select_one
+      options:
+      - Arts and Humanities
+      - Business and Economics
+      - Science, Tech, Engineering, Math (STEM)
+      - Social Sciences
+      - Health and Medicine
+      - Education
+      required: true
+    - id: 6
+      name: education_header
+      label: -- Academic Credentials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - Doctorate (PhD, EdD, etc.)
+      - Master's Degree
+      - Professional Degree (JD, MD)
+      - Bachelor's Degree (with extensive industry experience)
+      required: true
+    - id: 8
+      name: institution_degree
+      label: Awarding Institution and Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: graduation_year
+      label: Year Degree Awarded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: teaching_experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: years_teaching_higher_ed
+      label: Years of Teaching Experience in Higher Education
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: courses_taught_summary
+      label: List of Courses Previously Taught
+      hint: Provide course titles and levels
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: online_teaching_exp
+      label: Do you have experience with Online / Hybrid instruction?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Extensive experience
+      - Yes - Some experience
+      - No - In-person only
+      required: true
+    - id: 14
+      name: reference_contacts
+      label: Professional References (Name, Title, Email)
+      hint: Provide at least two
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: background_check_ack
+      label: I consent to a background check as a condition of employment
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 16
+      name: eligibility_ack
+      label: I certify that I am legally authorized to work in this country
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

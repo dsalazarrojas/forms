@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Emergency Incident Form
+    pages:
+    - id: 1
+      name: emergency_report_form_patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_report_form_patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_report_form_contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_report_form_contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_report_form_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_report_form_contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_report_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_report_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: emergency_report_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_report_form_goal
+      label: Goal
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 11
+      name: emergency_report_form_narrative
+      label: Narrative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_report_form_medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Condition 1
+      - Condition 2
+      - Condition 3
+      required: false

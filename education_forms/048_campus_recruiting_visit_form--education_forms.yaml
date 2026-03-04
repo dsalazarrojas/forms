@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Recruiting Visit Form
+    pages:
+    - id: 1
+      name: section_employer_info
+      label: -- Employer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_industry
+      label: Industry or Field
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Startup (1-50)
+      - Small (51-250)
+      - Medium (251-1000)
+      - Large (1000+)
+      required: true
+    - id: 6
+      name: section_contact_person
+      label: -- Contact Person for Visit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Job Title
+      hint: HR Manager, Recruiter, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_visit_details
+      label: -- Campus Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: visit_purpose
+      label: Purpose of Campus Visit
+      hint: null
+      type: select_one
+      options:
+      - Job Fair
+      - On-campus Interviews
+      - Information Session
+      - Internship Recruitment
+      - Networking Event
+      - Other
+      required: true
+    - id: 14
+      name: preferred_visit_date
+      label: Preferred Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: visit_duration
+      label: Duration of Visit
+      hint: null
+      type: select_one
+      options:
+      - Half Day
+      - Full Day
+      - Multiple Days
+      - Flexible
+      required: true
+    - id: 16
+      name: number_of_recruiters
+      label: Number of Recruiters Attending
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_positions
+      label: -- Job Positions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: positions_recruiting
+      label: Positions Recruiting For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: target_majors
+      label: Target Majors or Fields of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: minimum_gpa
+      label: Minimum GPA Requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_requirements
+      label: -- Space and Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: space_requirements
+      label: Space Requirements
+      hint: null
+      type: select_one
+      options:
+      - Single Booth
+      - Multiple Booths
+      - Meeting Room
+      - Auditorium
+      - Custom Setup
+      required: true
+    - id: 23
+      name: technology_needs
+      label: Technology or Equipment Needs
+      hint: Projector, WiFi, Tables, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agreement_confirmation
+      label: I agree to campus visit policies
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Good Vs Bad Debt Game
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: scenario
+      label: scenario
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reflection
+      label: reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confidence
+      label: confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: review
+      label: review
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Neutral
+      required: false
+    - id: 6
+      name: review_2
+      label: review 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Neutral
+      required: false
+    - id: 7
+      name: confidence_2
+      label: confidence 2
+      hint: null
+      type: number
+      options: []
+      required: false

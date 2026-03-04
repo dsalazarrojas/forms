@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sonship Registration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_first_name
+      label: First Name (Emergency Contact)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Last Name (Emergency Contact)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Phone Number (Emergency Contact)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_of_participation
+      label: Date of Participation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: group
+      label: Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: group_other
+      label: Other (Group)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: group_other_group
+      label: Other (Group)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 18
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: church_tribe
+      label: Church/Tribe
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: church_tribe_other
+      label: Other (Church/Tribe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_status_other
+      label: Other (Participant Status)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: group_status
+      label: Group Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: group_status_other
+      label: Other (Group Status)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_status_other
+      label: Other (Participant Status)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false

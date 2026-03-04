@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transfer Switch Neutral Connection Inspection Form
+    pages:
+    - id: 1
+      name: transfer_switch_neutral_connection_inspection_form_1
+      label: connection_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_switch_neutral_connection_inspection_form_2
+      label: neutral_connection_inspection
+      hint: null
+      type: select_one
+      options:
+      - Connection is secure
+      - Connection is not secure
+      - Unable to verify
+      required: false
+    - id: 3
+      name: transfer_switch_neutral_connection_inspection_form_3
+      label: switch_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transfer_switch_neutral_connection_inspection_form_4
+      label: inspection_comments
+      hint: null
+      type: note
+      options: []
+      required: false

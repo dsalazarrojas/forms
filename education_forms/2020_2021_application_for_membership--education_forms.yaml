@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 – 2021 Application For Membership
+    description: Please fill out the application to join the educational program for
+      the 2020‑2021 academic year.
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send your membership confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: If you prefer not to provide date of birth
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Name of person to contact in emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number of emergency contact
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: experience_level
+      label: Experience level
+      hint: Select your current skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 11
+      name: how_heard
+      label: How did you hear about us?
+      hint: Choose one option
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: false
+    - id: 12
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: Describe any accommodations you need
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_header
+      label: '--- Program Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_start_date
+      label: Preferred start date
+      hint: Select the date you would like to begin
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_course
+      label: Preferred courses (select all that apply)
+      hint: Choose all courses you are interested in
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - Literature
+      - History
+      - Arts
+      - Technology
+      - Physical Education
+      required: false
+    - id: 17
+      name: payment_header
+      label: '--- Payment & Terms ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment method
+      hint: Choose your preferred payment method
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 19
+      name: terms_header
+      label: '--- Terms and Conditions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: agree_terms
+      label: Do you agree to the terms and conditions?
+      hint: Select Yes to proceed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

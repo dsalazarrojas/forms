@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Event Organization Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date_time
+      label: Event Date Time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select Date'', ''value'': 1}'
+      - '{''label'': ''Select Time'', ''value'': 2}'
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''AM'', ''value'': 1}'
+      - '{''label'': ''PM'', ''value'': 2}'
+      required: false
+    - id: 5
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_attendance
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Present'', ''value'': 1}'
+      - '{''label'': ''Absent'', ''value'': 2}'
+      required: false
+    - id: 11
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Support Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: student age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter student email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: what_is_the_most_significant_challenge_facing_the_student
+      hint: Choose the most significant challenge
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''lack of interest in the subject'', ''label'': ''lack
+        of interest in the subject''}'
+      - '{''id'': 2, ''name'': ''difficulty keeping up with the pace'', ''label'':
+        ''difficulty keeping up with the pace''}'
+      - '{''id'': 3, ''name'': ''personal issues'', ''label'': ''personal issues''}'
+      - '{''id'': 4, ''name'': ''lack of support from teachers or peers'', ''label'':
+        ''lack of support from teachers or peers''}'
+      - '{''id'': 5, ''name'': ''lack of access to resources'', ''label'': ''lack
+        of access to resources''}'
+      - '{''id'': 6, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: which_skills_do_students_need_support
+      hint: Select multiple skills
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''time management'', ''label'': ''time management''}'
+      - '{''id'': 2, ''name'': ''organization skills'', ''label'': ''organization
+        skills''}'
+      - '{''id'': 3, ''name'': ''communication skills'', ''label'': ''communication
+        skills''}'
+      - '{''id'': 4, ''name'': ''self confidence'', ''label'': ''self-confidence''}'
+      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 7
+      name: note
+      label: any_other_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: what_is_the_primary_goal_of_the_educational_support
+      hint: Choose the primary goal
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''improve grades'', ''label'': ''improve grades''}'
+      - '{''id'': 2, ''name'': ''improve engagement'', ''label'': ''improve engagement''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 11
+      name: select_multiple
+      label: what_other_skills_do_students_need
+      hint: Select multiple skills
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''time management'', ''label'': ''time management''}'
+      - '{''id'': 2, ''name'': ''organization skills'', ''label'': ''organization
+        skills''}'
+      - '{''id'': 3, ''name'': ''communication skills'', ''label'': ''communication
+        skills''}'
+      - '{''id'': 4, ''name'': ''self confidence'', ''label'': ''self-confidence''}'
+      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 12
+      name: first_language
+      label: first language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''english'', ''label'': ''english''}'
+      - '{''id'': 2, ''name'': ''chinese'', ''label'': ''chinese''}'
+      - '{''id'': 3, ''name'': ''spanish'', ''label'': ''spanish''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 13
+      name: second_language
+      label: second language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''english'', ''label'': ''english''}'
+      - '{''id'': 2, ''name'': ''chinese'', ''label'': ''chinese''}'
+      - '{''id'': 3, ''name'': ''spanish'', ''label'': ''spanish''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 14
+      name: third_language
+      label: third language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''english'', ''label'': ''english''}'
+      - '{''id'': 2, ''name'': ''chinese'', ''label'': ''chinese''}'
+      - '{''id'': 3, ''name'': ''spanish'', ''label'': ''spanish''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
+      required: false

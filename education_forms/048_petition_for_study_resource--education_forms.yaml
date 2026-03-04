@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition For Study Resource
+    pages:
+    - id: 1
+      name: study_request
+      label: Study Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporter_details
+      label: Supporter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: supporter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporter_message
+      label: Supporter Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporter_signature
+      label: Supporter Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: academic_resourcetype
+      label: Type of Academic Resource
+      hint: null
+      type: select_one
+      options:
+      - Books
+      - Software
+      - Equipment
+      required: false
+    - id: 8
+      name: resource_description
+      label: Resource Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporter_signature_date
+      label: Supporter Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: supporter_signature_time
+      label: Supporter Time
+      hint: null
+      type: time
+      options: []
+      required: false

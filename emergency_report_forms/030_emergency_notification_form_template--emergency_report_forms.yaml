@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_notification_form_template
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: witness_details
+      label: witness_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_officer
+      label: reporting_officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: officer_notes
+      label: officer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: officer_signature
+      label: officer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_status
+      label: emergency_status
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Non-Emergency
+      - Urgent
+      required: true
+    - id: 15
+      name: emergency_type
+      label: emergency_type
+      hint: null
+      type: select_multiple
+      options:
+      - Fire
+      - Police
+      - Medical
+      required: true
+    - id: 16
+      name: emergency_details
+      label: emergency_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witness_signature
+      label: witness_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness
+      label: witness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_relationship
+      label: contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Family Member
+      - Colleague
+      - Stranger
+      required: true
+    - id: 20
+      name: witness_details
+      label: witness_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reporting_date
+      label: reporting_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reported_by_title
+      label: reported_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reported_by_phone
+      label: reported_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reported_by_email
+      label: reported_by_email
+      hint: null
+      type: email
+      options: []
+      required: false

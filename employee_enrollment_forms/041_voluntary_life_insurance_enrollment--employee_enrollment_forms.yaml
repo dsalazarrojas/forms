@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voluntary Life Insurance Enrollment
+    pages:
+    - id: 1
+      name: employee_number
+      label: employee_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plan_selections
+      label: plan_selections
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Child''}'
+      - '{''label'': ''Spouse''}'
+      required: false
+    - id: 6
+      name: beneficiary_name
+      label: beneficiary_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: beneficiary_dob
+      label: beneficiary_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: beneficiary_ssn
+      label: beneficiary_ssn
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: percentage
+      label: percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: premium
+      label: premium
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: plan_effective_date
+      label: plan_effective_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: plan_end_date
+      label: plan_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

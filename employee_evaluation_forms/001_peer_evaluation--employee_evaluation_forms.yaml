@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Evaluation
+    pages:
+    - id: 1
+      name: peer_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: Suggestions For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_category
+      label: Rating Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rated_colleague_rating
+      label: Rate This Colleague
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Improvement
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 8
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: peer_comments
+      label: Peer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 11
+      name: peer_score_average
+      label: Peer Score Average
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rated_colleague_name
+      label: Rated Colleague
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rated_colleague_title
+      label: Rated Colleague Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rated_colleague_department
+      label: Colleague Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rated_colleague_email
+      label: Colleague Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: rated_colleague_phone
+      label: Colleague Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rated_colleague_manager
+      label: Colleague Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evaluated_by_colleague
+      label: Evaluated By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Peer
+      - Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 20
+      name: evaluated_by_name
+      label: Evaluated By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: evaluated_by_title
+      label: Evaluated By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluated_by_department
+      label: Evaluated By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: evaluated_by_email
+      label: Evaluated By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: evaluated_by_phone
+      label: Evaluated By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluated_by_manager
+      label: Evaluated By Manager
+      hint: null
+      type: text
+      options: []
+      required: false

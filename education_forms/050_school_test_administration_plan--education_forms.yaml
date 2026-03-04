@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Test Administration Plan
+    pages:
+    - id: 1
+      name: test_plan_details
+      label: Test Logistics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_dates
+      label: Test Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_times
+      label: Test Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: room_setup
+      label: Room Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exam_info
+      label: Exam Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_coordinator
+      label: Test Coordinator
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: school_contact
+      label: School Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: exam_proctors
+      label: Exam Proctors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: exam_scribes
+      label: Exam Scribes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: test_equipment
+      label: Test Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To Office Survey
+    pages:
+    - id: 1
+      name: return_to_office_survey_questions
+      label: What kind of work do you plan on doing while returning to the office?
+      hint: null
+      type: select_multiple
+      options:
+      - In office
+      - Remotely
+      - In hybrid
+      required: true
+    - id: 2
+      name: work_hours
+      label: How many hours do you expect to work from home?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: transportation_to_work
+      label: How do you usually travel to work?
+      hint: null
+      type: select_one
+      options:
+      - Drive
+      - Public transportation
+      - Walk
+      - Other
+      required: true
+    - id: 4
+      name: transportation_to_office
+      label: How do you expect to transport yourself to the office?
+      hint: null
+      type: select_multiple
+      options:
+      - Drive
+      - Public transportation
+      - Walk
+      - Other
+      required: true
+    - id: 5
+      name: parking_concerns
+      label: How concerned are you about parking?
+      hint: null
+      type: select_one
+      options:
+      - Very concerned
+      - Somewhat concerned
+      - Not concerned
+      required: false
+    - id: 6
+      name: office_environment
+      label: What kind of office environment do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Quiet
+      - Open
+      - Collaborative
+      required: false
+    - id: 7
+      name: return_date
+      label: When do you expect to return to the office?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments?
+      hint: null
+      type: note
+      options: []
+      required: false

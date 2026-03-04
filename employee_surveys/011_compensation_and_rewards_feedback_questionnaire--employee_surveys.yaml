@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation And Rewards Feedback Questionnaire
+    pages:
+    - id: 1
+      name: survey_welcome
+      label: Compensation and Rewards Feedback Survey
+      hint: Help us improve our rewards programs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Optional - survey can be anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: For internal tracking
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 5
+      name: location
+      label: Work Location
+      hint: Your primary work location
+      type: select_one
+      options:
+      - Headquarters
+      - Regional Office
+      - Remote
+      - Hybrid
+      - Field Based
+      required: true
+    - id: 6
+      name: tenure_years
+      label: Years with Company
+      hint: How long have you worked here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - More than 10 years
+      required: true
+    - id: 7
+      name: job_level
+      label: Job Level
+      hint: Your current level
+      type: select_one
+      options:
+      - Individual Contributor
+      - Senior Individual Contributor
+      - Team Lead
+      - Manager
+      - Senior Manager
+      - Director
+      - Executive
+      required: true
+    - id: 8
+      name: salary_competitiveness
+      label: My salary is competitive
+      hint: Compared to similar roles in market
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 9
+      name: salary_internal_equity
+      label: My salary is fair compared to peers
+      hint: Internal equity perception
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 10
+      name: annual_bonus_clarity
+      label: I understand how bonuses are calculated
+      hint: Bonus structure clarity
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      - Not applicable
+      required: true
+    - id: 11
+      name: bonus_motivation
+      label: Bonus structure motivates me
+      hint: Does it drive performance
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      - Not applicable
+      required: true
+    - id: 12
+      name: recognition_programs
+      label: Recognition programs are meaningful
+      hint: Employee recognition effectiveness
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: recognition_frequency
+      label: I receive recognition often enough
+      hint: Frequency of recognition
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 14
+      name: non_monetary_rewards
+      label: Non-monetary rewards are valued
+      hint: Perks and benefits value
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 15
+      name: career_growth_link
+      label: Rewards are linked to career growth
+      hint: Connection between rewards and growth
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 16
+      name: performance_reward_link
+      label: High performance is well rewarded
+      hint: Performance and rewards connection
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 17
+      name: reward_communication
+      label: Rewards are well communicated
+      hint: Do you understand your rewards
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: timely_recognition
+      label: Recognition is given in a timely manner
+      hint: Timeliness of rewards
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 19
+      name: peer_recognition
+      label: Peer-to-peer recognition is encouraged
+      hint: Culture of peer recognition
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 20
+      name: manager_recognition
+      label: My manager recognizes my contributions
+      hint: Manager recognition effectiveness
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 21
+      name: rewards_impact_retention
+      label: Rewards make me want to stay
+      hint: Impact on retention
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 22
+      name: most_valued_reward
+      label: What reward do you value most
+      hint: Select your top choice
+      type: select_one
+      options:
+      - Base salary increases
+      - Performance bonuses
+      - Stock options or equity
+      - Extra vacation days
+      - Professional development funds
+      - Flexible work arrangements
+      - Public recognition
+      - Gift cards or prizes
+      - Other
+      required: true
+    - id: 23
+      name: reward_improvements
+      label: What rewards would you like to see
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - More frequent bonuses
+      - Higher base pay
+      - Better health benefits
+      - More PTO
+      - Remote work options
+      - Learning stipends
+      - Wellness programs
+      - Childcare support
+      - Transportation benefits
+      - Other
+      required: false
+    - id: 24
+      name: overall_satisfaction
+      label: Overall satisfaction with rewards
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 25
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Your ideas for better rewards
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

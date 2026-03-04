@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Economic Empowerment Survey
+    pages:
+    - id: 1
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''employed''}'
+      - '{''value'': ''unemployed''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: employment_sector
+      label: Employment Sector
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Government''}'
+      - '{''value'': ''Private Sector''}'
+      - '{''value'': ''Self Employment''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bank''}'
+      - '{''value'': ''Credit Union''}'
+      - '{''value'': ''Microfinance Institution''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: financial_inclusion
+      label: Financial Inclusion
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Included''}'
+      - '{''value'': ''Not Included''}'
+      - '{''value'': ''Prefer not to say''}'
+      required: false
+    - id: 6
+      name: perceived_control_over_financial
+      label: Perceived Control Over Financial
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 7
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Region 1''}'
+      - '{''value'': ''Region 2''}'
+      - '{''value'': ''Region 3''}'
+      required: false
+    - id: 8
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High School''}'
+      - '{''value'': ''College/University''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Married''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: household_size
+      label: Household Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than 5''}'
+      - '{''value'': ''5 or more''}'
+      required: false
+    - id: 12
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Formal''}'
+      - '{''value'': ''Informal''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: financial_support
+      label: Financial Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 15
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false

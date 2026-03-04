@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Media Network Feedback
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: newspaper
+      label: Newspapers
+      hint: null
+      type: select_multiple
+      options:
+      - The Collegian
+      - The Foothill
+      required: true
+    - id: 3
+      name: television
+      label: TV
+      hint: null
+      type: select_multiple
+      options:
+      - K-State 24/7
+      - K-State ETV
+      - K-State TV
+      required: true
+    - id: 4
+      name: digital_channels
+      label: Digital Channels
+      hint: null
+      type: select_multiple
+      options:
+      - K-State Today
+      - K-State This Week
+      required: false
+    - id: 5
+      name: radio
+      label: Radio
+      hint: null
+      type: select_multiple
+      options:
+      - K-State Media Network Radio
+      - K-State Media Network
+      required: true
+    - id: 6
+      name: podcasts
+      label: Podcasts
+      hint: null
+      type: select_multiple
+      options:
+      - K-State Podcast
+      - K-State Sports Talk
+      required: true
+    - id: 7
+      name: content_preferred
+      label: Content Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - News
+      - Entertainment
+      - Sports
+      required: true
+    - id: 8
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

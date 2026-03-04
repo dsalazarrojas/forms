@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Food Poisoning Incident Report
+    pages:
+    - id: 1
+      name: reported_date
+      label: Reported Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reported_time
+      label: Reported Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: food_type
+      label: Food Type
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Burgers
+      - Fries
+      - Pizza
+      - Other
+      required: false
+    - id: 4
+      name: restaurant
+      label: Restaurant
+      hint: 'null'
+      type: select_one
+      options:
+      - Main Street Cafe
+      - Food Cart 1
+      - Food Cart 2
+      required: true
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Diarrhea
+      - Vomiting
+      - Abdominal pain
+      - Fever
+      - Nausea
+      - Other
+      required: false
+    - id: 6
+      name: medical_attention
+      label: Medical Attention
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - ER
+      required: true
+    - id: 7
+      name: treatment
+      label: Treatment
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Rest
+      - Medication
+      - Fluids
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: theme_park_staff
+      label: Theme Park Staff
+      hint: null
+      type: select_one
+      options:
+      - Employee A
+      - Employee B
+      - Employee C
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: 'null'
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: true
+    - id: 14
+      name: submitted_on
+      label: Submitted On
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: 'null'
+      type: select_one
+      options:
+      - Employee A
+      - Employee B
+      - Employee C
+      required: true
+    - id: 16
+      name: theme_park_location
+      label: Theme Park Location
+      hint: 'null'
+      type: select_one
+      options:
+      - Main Street
+      - Food Court
+      - Other
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: theme_park_staff_notes
+      label: Theme Park Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: 'null'
+      type: select_one
+      options:
+      - Employee A
+      - Employee B
+      - Employee C
+      required: true
+    - id: 20
+      name: theme_park_manager_notes
+      label: Theme Park Manager Notes
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: 'null'
+      type: select_one
+      options:
+      - Employee A
+      - Employee B
+      - Employee C
+      required: true
+    - id: 22
+      name: food_and_beverage_manager_notes
+      label: Food and Beverage Manager Notes
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: 'null'
+      type: select_one
+      options:
+      - Employee A
+      - Employee B
+      - Employee C
+      required: true
+    - id: 24
+      name: submitted_on
+      label: Submitted On
+      hint: 'null'
+      type: date
+      options: []
+      required: false

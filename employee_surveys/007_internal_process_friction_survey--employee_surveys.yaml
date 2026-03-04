@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Process Friction Survey
+    pages:
+    - id: 1
+      name: workflow_bottlenecks
+      label: What are the biggest workflow bottlenecks in your workday?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_hours
+      label: How many work hours are lost due to bottlenecks?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: pain_points
+      label: What are the biggest pain points in the current process?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: solutions_needed
+      label: What solutions are needed to eliminate bottlenecks?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: email_needed
+      label: Do you want to receive emails when new submissions are made?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Who are the team members involved?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: team_lead
+      label: Who is the team lead?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: manager
+      label: Who is your manager?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 12
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: work_hours_per_week
+      label: How many work hours do you work per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: overtime_hours
+      label: How many overtime hours do you work per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_hours_lost
+      label: How many work hours are lost to workflow bottlenecks?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: work_hours_wasted
+      label: What percentage of your work hours are wasted?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: time_waste
+      label: What causes the most time waste in your workflow?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: time_waste_reasons
+      label: What are the reasons for the time waste?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: solutions_implemented
+      label: What solutions have been implemented to address bottlenecks?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: solutions_implemented_reasons
+      label: Reasons for solutions implemented
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: solutions_implemented_success
+      label: Success of solutions implemented
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

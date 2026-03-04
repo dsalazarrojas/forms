@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cryptography Knowledge Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: What is cryptography
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: key_types
+      label: What are types of keys
+      hint: null
+      type: select_multiple
+      options:
+      - Private key
+      - Public key
+      - Symmetric key
+      required: false
+    - id: 3
+      name: hash_functions
+      label: Which hash function
+      hint: null
+      type: select_one
+      options:
+      - SHA-1
+      - SHA-2
+      - SHA-256
+      required: false
+    - id: 4
+      name: encryption_algorithms
+      label: Which encryption algorithm
+      hint: null
+      type: select_multiple
+      options:
+      - AES
+      - RSA
+      - Elliptic Curve
+      required: false
+    - id: 5
+      name: symmetric_key_encryptions
+      label: Which symmetric key encryption
+      hint: null
+      type: select_multiple
+      options:
+      - AES
+      - Blowfish
+      - Twofish
+      required: false
+    - id: 6
+      name: digital_signatures
+      label: What is digital signature
+      hint: null
+      type: select_multiple
+      options:
+      - Digital signature
+      - Digital seal
+      - Digital fingerprint
+      required: false
+    - id: 7
+      name: key_length
+      label: Key length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: key_exchange
+      label: Key exchange
+      hint: null
+      type: select_multiple
+      options:
+      - Diffie-Hellman
+      - RSA
+      - Elliptic Curve
+      required: false
+    - id: 9
+      name: hash_value
+      label: Hash value
+      hint: null
+      type: select_one
+      options:
+      - 32bit
+      - 64bit
+      - 128bit
+      required: false
+    - id: 10
+      name: encryption_level
+      label: Encryption level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: signature_type
+      label: Type of signature
+      hint: null
+      type: select_multiple
+      options:
+      - Digital signature
+      - Digital seal
+      - Digital fingerprint
+      required: false
+    - id: 12
+      name: key_size
+      label: Key size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: key_material
+      label: Material of key
+      hint: null
+      type: select_multiple
+      options:
+      - Metal
+      - Silicon
+      - Plastic
+      required: false
+    - id: 14
+      name: key_usage
+      label: Key usage
+      hint: null
+      type: select_multiple
+      options:
+      - Encryption
+      - Decryption
+      - Signatures
+      required: false
+    - id: 15
+      name: key_exchange_method
+      label: Key exchange method
+      hint: null
+      type: select_multiple
+      options:
+      - Diffie-Hellman
+      - RSA
+      - Elliptic Curve
+      required: false
+    - id: 16
+      name: hash_function
+      label: Which hash function
+      hint: null
+      type: select_one
+      options:
+      - SHA-1
+      - SHA-2
+      - SHA-256
+      required: false
+    - id: 17
+      name: encryption_algorithm
+      label: Which encryption algorithm
+      hint: null
+      type: select_multiple
+      options:
+      - AES
+      - RSA
+      - Elliptic Curve
+      required: false
+    - id: 18
+      name: signature_scheme
+      label: Which signature scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Digital signature
+      - Digital seal
+      - Digital fingerprint
+      required: false
+    - id: 19
+      name: key_size_units
+      label: Units of key size
+      hint: null
+      type: select_one
+      options:
+      - Bit
+      - Byte
+      - Kilobyte
+      required: false
+    - id: 20
+      name: signature_scheme_version
+      label: Version of signature scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Version 1
+      - Version 2
+      - Version 3
+      required: false
+    - id: 21
+      name: key_usage_units
+      label: Units of key usage
+      hint: null
+      type: select_multiple
+      options:
+      - Number of times
+      - Number of users
+      - Number of devices
+      required: false
+    - id: 22
+      name: key_exchange_units
+      label: Units of key exchange
+      hint: null
+      type: select_multiple
+      options:
+      - Number of keys
+      - Number of devices
+      - Number of users
+      required: false
+    - id: 23
+      name: hash_value_units
+      label: Units of hash value
+      hint: null
+      type: select_multiple
+      options:
+      - Number of bits
+      - Number of bytes
+      - Number of kilobytes
+      required: false
+    - id: 24
+      name: key_generation
+      label: Key generation
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Automatic
+      - Hybrid
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false

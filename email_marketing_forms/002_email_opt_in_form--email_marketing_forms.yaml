@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: EMail Opt In Form
+    pages:
+    - id: 1
+      name: form_title
+      label: EMail Opt In Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email Address
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I Agree'', ''value'': True}'
+      - '{''id'': 2, ''label'': "I Don''t Agree", ''value'': False}'
+      required: false
+    - id: 6
+      name: form_terms
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Terms'', ''value'': ''terms''}'
+      - '{''id'': 2, ''label'': ''Conditions'', ''value'': ''conditions''}'
+      required: false
+    - id: 7
+      name: form_note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1'', ''value'': ''category_1''}'
+      - '{''id'': 2, ''label'': ''Category 2'', ''value'': ''category_2''}'
+      required: false
+    - id: 9
+      name: form_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Tag 1'', ''value'': ''tag_1''}'
+      - '{''id'': 2, ''label'': ''Tag 2'', ''value'': ''tag_2''}'
+      required: false
+    - id: 10
+      name: form_date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_time
+      label: Time
+      hint: 750
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_note_2
+      label: More Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_email_2
+      label: Another Email
+      hint: Another email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: form_phone_2
+      label: Another Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_agree_2
+      label: Agree Again
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I Agree Again'', ''value'': True}'
+      - '{''id'': 2, ''label'': "I Don''t Agree Again", ''value'': False}'
+      required: false
+    - id: 16
+      name: form_terms_2
+      label: Another Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Another Term'', ''value'': ''another_term''}'
+      - '{''id'': 2, ''label'': ''Another Condition'', ''value'': ''another_condition''}'
+      required: false
+    - id: 17
+      name: form_note_3
+      label: Even More Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: form_phone_3
+      label: Yet Another Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: form_agree_3
+      label: Agree Yet Again
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I Agree Yet Again'', ''value'': True}'
+      - '{''id'': 2, ''label'': "I Don''t Agree Yet Again", ''value'': False}'
+      required: false
+    - id: 20
+      name: form_terms_3
+      label: More Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''More Terms'', ''value'': ''more_terms''}'
+      - '{''id'': 2, ''label'': ''More Conditions'', ''value'': ''more_conditions''}'
+      required: false
+    - id: 21
+      name: form_note_4
+      label: Still More Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: form_phone_4
+      label: Still Another Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: form_agree_4
+      label: Agree Still Again
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I Agree Still Again'', ''value'': True}'
+      - '{''id'': 2, ''label'': "I Don''t Agree Still Again", ''value'': False}'
+      required: false
+    - id: 24
+      name: form_terms_4
+      label: Still More Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Still More Terms'', ''value'': ''still_more_terms''}'
+      - '{''id'': 2, ''label'': ''Still More Conditions'', ''value'': ''still_more_conditions''}'
+      required: false
+    - id: 25
+      name: form_note_5
+      label: Last Information
+      hint: null
+      type: note
+      options: []
+      required: false

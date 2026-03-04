@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Impact On Values Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: values_to_assess
+      label: Values to Assess
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Critical Thinking
+      - Creativity
+      - Analytic Thinking
+      - Communication
+      - Interpersonal
+      - Problem Solving
+      - Self-Management
+      - Collaboration
+      - Emotional Intelligence
+      - Resilience
+      required: false
+    - id: 3
+      name: value_rationale
+      label: Value Rationale
+      hint: null
+      type: select_one
+      options:
+      - 'Critical Thinking: Helps students develop critical thinking skills through
+        logical reasoning and analysis.'
+      - 'Creativity: Promotes creative thinking and problem solving skills.'
+      - 'Analytic Thinking: Enhances students'' ability to analyze and evaluate information.'
+      - 'Communication: Develops students'' ability to effectively express themselves.'
+      - 'Interpersonal: Encourages students to work effectively with others.'
+      - 'Problem Solving: Develops students'' ability to solve problems.'
+      - 'Self-Management: Helps students take control of their own learning.'
+      - 'Collaboration: Fosters a culture of teamwork.'
+      - 'Emotional Intelligence: Develops students'' ability to understand and manage
+        their emotions.'
+      - 'Resilience: Helps students bounce back from failures.'
+      required: false
+    - id: 4
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '1: None'
+      - '2: A little'
+      - '3: Some'
+      - '4: Most'
+      - '5: Almost all the time'
+      - '6: Always'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

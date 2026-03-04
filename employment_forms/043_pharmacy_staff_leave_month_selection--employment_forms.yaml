@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Staff Leave Month Selection
+    pages:
+    - id: 1
+      name: month_selection
+      label: Choose a month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 2
+      name: month_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: month_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Sick
+      - Family Leave
+      - Other
+      required: false
+    - id: 5
+      name: days_off
+      label: Days Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: assigned_tool_other
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_id
+      label: Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false

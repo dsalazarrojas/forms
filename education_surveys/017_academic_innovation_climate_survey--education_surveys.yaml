@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Climate Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role in institution
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Administrator
+      required: true
+    - id: 3
+      name: perception_of_innovation
+      label: Perception of institutional support for innovation
+      hint: Rate how supportive your institution is
+      type: select_one
+      options:
+        - Very supportive
+        - Supportive
+        - Neutral
+        - Unsupportive
+      required: true
+    - id: 4
+      name: resources_availability
+      label: Availability of resources for innovation
+      hint: Rate how accessible resources are
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 5
+      name: barriers
+      label: Main barriers to innovation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Funding
+        - Time
+        - Institutional inertia
+        - Lack of training
+      required: false
+    - id: 6
+      name: successful_examples
+      label: Examples of successful innovation
+      hint: Describe up to two examples
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions to improve innovation climate
+      hint: Specific policy or operational recommendations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willingness_to_participate
+      label: Willingness to join innovation initiatives
+      hint: Indicate interest in participating
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact email for follow up
+      hint: Optional email for further discussion
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Withholding Allowance Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allowance_claimed
+      label: allowance_claimed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: allowance_type
+      label: allowance_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: allowance_amount
+      label: allowance_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: allowance_start_date
+      label: allowance_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: allowance_end_date
+      label: allowance_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tax_authority
+      label: tax_authority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false

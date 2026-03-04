@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Training Time Off Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_off_request
+      label: Time Off Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_details
+      label: Training Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_off_status
+      label: Time Off Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airline Passenger Altercation Incident Report
+    pages:
+    - id: 1
+      name: reporter_info
+      label: -- Reporter Information --
+      hint: Details of the staff member or witness filing the report
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Full Name of Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_role
+      label: Role or Position
+      hint: e.g. Lead Flight Attendant, Gate Agent, Passenger
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_contact
+      label: Contact Number or Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location_of_incident
+      label: Location of Incident
+      hint: e.g. Onboard (Seat Number), Terminal Gate, Check-in Desk
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: passenger_1_name
+      label: Primary Passenger Involved
+      hint: Full name if known, seat number if not
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: passenger_2_name
+      label: Second Party Involved
+      hint: Name of passenger or staff member
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: altercation_type
+      label: Type of Altercation
+      hint: null
+      type: select_one
+      options:
+      - Verbal Dispute
+      - Physical Altercation
+      - Harassment
+      - Intoxication related
+      - Safety Instruction Non-compliance
+      - Other
+      required: true
+    - id: 13
+      name: detailed_description
+      label: Detailed Description of the Incident
+      hint: Include what led to the conflict and specific actions taken
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: intervention_taken
+      label: Action or Intervention Taken
+      hint: e.g. Crew intervention, Airport Police notified, Passenger deplaned
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: witnesses_info
+      label: Witness Names and Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: injuries_reported
+      label: Any injuries reported?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 17
+      name: police_report_filed
+      label: Was a police or security report filed?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - In Progress
+      required: true

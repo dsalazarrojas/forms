@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bullying Complaint Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: When submitting this report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reporter_type
+      label: Who Is Making This Report
+      hint: Student, parent, staff
+      type: select_one
+      options:
+      - Student
+      - Parent or Guardian
+      - School Staff
+      - Other Witness
+      - Anonymous
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Your Name
+      hint: Your full name (optional if anonymous)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: reporter_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Which school or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_or_department
+      label: Grade or Department
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_date
+      label: Date Incident Occurred
+      hint: When did bullying happen
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Location of Incident
+      hint: Where it happened
+      type: select_one
+      options:
+      - Classroom
+      - Hallway
+      - Bathroom
+      - Cafeteria
+      - Playground
+      - School Bus
+      - Online
+      - Other
+      required: true
+    - id: 11
+      name: bullied_student_name
+      label: Name of Student Being Bullied
+      hint: Victim name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: bullying_student_name
+      label: Name of Student(s) Bullying
+      hint: Perpetrator name(s)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: witnesses_present
+      label: Were There Witnesses
+      hint: Did others see it
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: witness_names
+      label: Names of Witnesses
+      hint: Who saw the incident
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bullying_type
+      label: Type of Bullying
+      hint: What kind of bullying
+      type: select_multiple
+      options:
+      - Physical Bullying
+      - Verbal Bullying
+      - Emotional or Social
+      - Cyberbullying
+      - Sexual Harassment
+      - Discrimination
+      - Other
+      required: true
+    - id: 16
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: bullying_motivation
+      label: Reason for Bullying
+      hint: Why it may have happened
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: impact_on_victim
+      label: Impact on Bullied Student
+      hint: How it affected them
+      type: select_multiple
+      options:
+      - Physical Injury
+      - Emotional Distress
+      - Anxiety or Fear
+      - Depression
+      - School Avoidance
+      - Loss of Friendships
+      - Declining Grades
+      - Other
+      required: false
+    - id: 19
+      name: previous_incidents
+      label: Previous Bullying Incidents
+      hint: Has this happened before
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once Before
+      - No, First Time
+      - Unsure
+      required: true
+    - id: 20
+      name: reported_before
+      label: Has This Been Reported Before
+      hint: To school or authorities
+      type: select_one
+      options:
+      - Yes, To School
+      - Yes, To Police
+      - Yes, To Both
+      - false
+      required: false
+    - id: 21
+      name: action_requested
+      label: Action Requested
+      hint: What resolution do you want
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supporting_evidence
+      label: Supporting Evidence or Documentation
+      hint: Photos, messages, etc
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: confidentiality
+      label: Keep This Report Confidential
+      hint: Limit who sees report
+      type: select_one
+      options:
+      - Yes, Keep Confidential
+      - Can Share With Necessary Staff
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Collaboration Space Access Request
+    pages:
+    - id: 1
+      name: timing
+      label: Request Timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Request Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement
+      label: Agree to Space Rules
+      hint: null
+      type: select_one
+      options:
+      - I agree to all space rules
+      - I do not agree to all space rules
+      - I disagree to all space rules
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: library
+      label: Library
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: space_id
+      label: Space ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: space_name
+      label: Space Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: space_type
+      label: Space Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: space_agreement
+      label: Space Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - No Response
+      required: false
+    - id: 20
+      name: request_reason
+      label: Reason for Requesting Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: university_email
+      label: University Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: university_phone
+      label: University Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: librarian
+      label: Librarian
+      hint: null
+      type: text
+      options: []
+      required: false

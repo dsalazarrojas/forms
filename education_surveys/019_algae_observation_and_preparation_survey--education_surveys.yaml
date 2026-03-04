@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Algae Observation And Preparation Survey
+    pages:
+    - id: 1
+      name: observer_name
+      label: Observer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observer_email
+      label: Observer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Institution
+      hint: School or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: Date of observation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time
+      label: Observation Time
+      hint: Time of observation
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: location_name
+      label: Location Name
+      hint: Name of observation site
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location_coordinates
+      label: GPS Coordinates
+      hint: Latitude and longitude
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: habitat_type
+      label: Habitat Type
+      hint: Type of environment
+      type: select_one
+      options:
+      - Freshwater pond
+      - Freshwater lake
+      - Stream/river
+      - Marine coastal
+      - Marine open water
+      - Soil
+      - Tree bark
+      - Rock surface
+      - Laboratory culture
+      required: true
+    - id: 9
+      name: water_temperature
+      label: Water Temperature
+      hint: In Celsius
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ph_level
+      label: pH Level
+      hint: pH measurement
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: water_clarity
+      label: Water Clarity
+      hint: Visual clarity
+      type: select_one
+      options:
+      - Clear
+      - Slightly turbid
+      - Moderately turbid
+      - Very turbid
+      - Opaque
+      required: false
+    - id: 12
+      name: algae_color_observed
+      label: Algae Color Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Green
+      - Blue-green
+      - Brown
+      - Red
+      - Yellow-green
+      - Golden
+      required: true
+    - id: 13
+      name: algae_growth_form
+      label: Growth Form
+      hint: How does algae appear?
+      type: select_multiple
+      options:
+      - Single cells
+      - Colonies
+      - Filaments
+      - Sheets
+      - Gelatinous masses
+      - Floating mats
+      - Attached to substrate
+      required: true
+    - id: 14
+      name: algae_abundance
+      label: Algae Abundance
+      hint: Estimated coverage
+      type: select_one
+      options:
+      - None
+      - Trace
+      - Low (1-10%)
+      - Moderate (11-50%)
+      - High (51-90%)
+      - Very High (91-100%)
+      required: true
+    - id: 15
+      name: sample_collected
+      label: Sample Collected
+      hint: Did you collect a sample?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: sample_id
+      label: Sample ID
+      hint: Sample identifier
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: collection_method
+      label: Collection Method
+      hint: How was sample collected?
+      type: select_one
+      options:
+      - Plankton net
+      - Water bottle
+      - Scraping from substrate
+      - Pipette
+      - Sediment core
+      - Other
+      required: false
+    - id: 18
+      name: preservation_method
+      label: Preservation Method
+      hint: How was sample preserved?
+      type: select_one
+      options:
+      - Fresh (unpreserved)
+      - Lugol solution
+      - Formalin
+      - Ethanol
+      - Frozen
+      - Other
+      required: false
+    - id: 19
+      name: microscope_available
+      label: Microscope Examination
+      hint: Was microscope used?
+      type: select_one
+      options:
+      - Yes, in field
+      - Yes, in lab
+      - false
+      required: true
+    - id: 20
+      name: magnification_used
+      label: Magnification Used
+      hint: Magnification level
+      type: select_one
+      options:
+      - 40x
+      - 100x
+      - 400x
+      - 1000x
+      - Not applicable
+      required: false
+    - id: 21
+      name: genera_identified
+      label: Genera Identified
+      hint: List identified genera
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cell_characteristics
+      label: Cell Characteristics
+      hint: Describe cell features
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: presence_of_flagella
+      label: Flagella Present
+      hint: Were flagella observed?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unable to determine
+      required: false
+    - id: 24
+      name: chloroplast_arrangement
+      label: Chloroplast Arrangement
+      hint: Describe chloroplast pattern
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: associated_organisms
+      label: Associated Organisms
+      hint: Other organisms observed
+      type: select_multiple
+      options:
+      - None
+      - Bacteria
+      - Protozoa
+      - Rotifers
+      - Small crustaceans
+      - Fungi
+      - Other algae species
+      required: false
+    - id: 26
+      name: environmental_notes
+      label: Environmental Notes
+      hint: Weather, conditions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: preparation_notes
+      label: Preparation Notes
+      hint: Sample preparation details
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: photographs_taken
+      label: Photographs Taken
+      hint: Number of photos
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: additional_observations
+      label: Additional Observations
+      hint: Any other notes
+      type: text
+      options: []
+      required: false

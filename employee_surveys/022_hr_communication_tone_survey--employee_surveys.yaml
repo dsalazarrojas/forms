@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Communication Tone Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: hr_manager_id
+      label: HR Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: hr_employee_survey_tone_1
+      label: Overall Tone of HR Communication
+      hint: On a scale of 1-10, how would you rate the tone of HR Communication
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 5
+      name: hr_employee_survey_tone_2
+      label: Tone of HR Communication
+      hint: How often do you feel HR communication is clear and understandable?
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Some of the time
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: hr_employee_survey_tone_3
+      label: Tone of HR Communication
+      hint: How often do you feel HR communication is respectful?
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Some of the time
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: hr_employee_survey_tone_4
+      label: Tone of HR Communication
+      hint: How often do you feel HR communication is informative?
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Some of the time
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: hr_employee_survey_tone_5
+      label: Tone of HR Communication
+      hint: How often do you feel HR communication is helpful?
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Some of the time
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: hr_employee_survey_tone_6
+      label: Tone of HR Communication
+      hint: How often do you feel HR communication is supportive?
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Some of the time
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: hr_satisfaction_levels_1
+      label: Overall Satisfaction with HR Communication
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: suggestion
+      label: Suggestion for HR Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hr_survey_tone_comment
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

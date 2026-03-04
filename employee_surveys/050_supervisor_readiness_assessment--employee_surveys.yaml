@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: supervisor_readiness_assessment
+    pages:
+    - id: 1
+      name: confidence_in_leadership
+      label: confidence_in_leadership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: development_planning
+      label: development_planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: performance_reviews
+      label: performance_reviews
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: strengths_identification
+      label: strengths_identification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: development_needs
+      label: development_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_page_notes
+      label: first_page_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: leadership_skills
+      label: leadership_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: problem_solving
+      label: problem_solving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

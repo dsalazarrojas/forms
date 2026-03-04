@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Compliance Employment Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: employment_end_date
+      label: Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_attestation
+      label: Medical Attestation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: workplace_readiness_details
+      label: Workplace Readiness Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: health_risks
+      label: Health Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

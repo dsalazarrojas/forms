@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Email Account Request Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_number
+      label: Course Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_email
+      label: New Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: year_of_birth
+      label: Year of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: department_email
+      label: Department Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: department_phone
+      label: Department Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department_address
+      label: Department Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_note
+      label: Student Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: department_note
+      label: Department Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: course_note
+      label: Course Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_status
+      label: Email Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: email_request_type
+      label: Email Request Type
+      hint: null
+      type: select_one
+      options:
+      - New Student
+      - Change Password
+      - Update Existing
+      required: true
+    - id: 20
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: request_ip
+      label: Request IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_ip
+      label: Department IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 26
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_multiple
+      options:
+      - Education Forms
+      - General Forms
+      - Custom Forms
+      required: false

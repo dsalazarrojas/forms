@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Retention Factors Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Online Course Retention Factors Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_demographics
+      label: Student Demographics
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Both
+      - Other
+      required: false
+    - id: 3
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Enrolled
+      - Not Enrolled
+      required: false
+    - id: 4
+      name: retention_factors
+      label: Retention Factors
+      hint: List up to 10 factors
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Is there any other factor you'd like to add?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_evaluation
+      label: Course Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: course_satisfaction
+      label: Course Satisfaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: text
+      options: []
+      required: false

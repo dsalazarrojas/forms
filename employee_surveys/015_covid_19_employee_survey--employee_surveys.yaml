@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Employee Survey
+    pages:
+    - id: 1
+      name: employee_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Other
+      required: true
+    - id: 6
+      name: concerns_header
+      label: -- COVID-19 Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_concerns
+      label: Main concerns related to COVID-19
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Health and Safety
+      - Job Security
+      - Income Loss
+      - Childcare
+      - Commute Safety
+      - Isolation
+      - Other
+      required: true
+    - id: 8
+      name: workplace_safety
+      label: Confidence in workplace safety measures
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Neutral
+      - Not Confident
+      required: true
+    - id: 9
+      name: safety_measures
+      label: Which safety measures are most important
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: measures_header
+      label: -- Pandemic Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_arrangement
+      label: Preferred Work Arrangement
+      hint: null
+      type: select_one
+      options:
+      - In-Office
+      - Work From Home
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 12
+      name: remote_work_support
+      label: Adequate remote work support provided
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partially
+      required: true
+    - id: 13
+      name: communication_frequency
+      label: Company communication about COVID-19
+      hint: null
+      type: select_one
+      options:
+      - Too Frequent
+      - Adequate
+      - Not Enough
+      required: true
+    - id: 14
+      name: impact_header
+      label: -- Personal Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: personal_impact
+      label: COVID-19 impact on your personally
+      hint: null
+      type: select_one
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      - None
+      required: true
+    - id: 16
+      name: family_impact
+      label: Impact on family members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suggestions
+      label: Suggestions for company support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_support
+      label: Support or accommodations needed
+      hint: null
+      type: select_multiple
+      options:
+      - Mental Health Support
+      - Financial Assistance
+      - Flexible Schedule
+      - Additional PTO
+      - Testing Access
+      - Vaccination Support
+      - Other
+      required: false

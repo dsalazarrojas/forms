@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 2022 Emergency Student Data Form
+    pages:
+    - id: 1
+      name: student_section_header
+      label: '--- Student Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Full name of student
+      hint: Please enter the student's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_grade_level
+      label: Current grade level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_id_number
+      label: Student ID number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_section_header
+      label: '--- School Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School or institution name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_address
+      label: School address
+      hint: Street, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_name
+      label: Teacher or primary contact at school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_section_header
+      label: '--- Emergency Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: Full name of primary emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_guardian_relationship
+      label: Relationship to student
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Aunt/Uncle
+      - Other
+      required: true
+    - id: 13
+      name: parent_guardian_phone
+      label: Primary phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 14
+      name: parent_guardian_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: secondary_emergency_contact
+      label: Secondary emergency contact name
+      hint: Alternate contact person
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: secondary_contact_phone
+      label: Secondary contact phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: false
+    - id: 17
+      name: medical_section_header
+      label: '--- Medical Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Known medical conditions or allergies
+      hint: Please list any serious medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medications
+      label: Current medications
+      hint: List any medications the student takes regularly
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_name
+      label: Primary care physician name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_phone
+      label: Doctor's phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: false
+    - id: 22
+      name: insurance_provider
+      label: Health insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_policy_number
+      label: Insurance policy number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional notes or special instructions
+      hint: Any other important information for emergency situations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_completed_by
+      label: Form completed by (name)
+      hint: Person filling out this form
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: form_completion_date
+      label: Date form completed
+      hint: null
+      type: date
+      options: []
+      required: true

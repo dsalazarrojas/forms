@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 9 12 Academic Plan
+    pages:
+    - id: 1
+      name: section_header_student_details
+      label: "--- Student & Plan Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full legal name used in records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade_level
+      label: Grade level for this plan
+      hint: Enter grade between 9 and 12
+      type: select_one
+      options:
+        - 9
+        - 10
+        - 11
+        - 12
+      required: true
+    - id: 4
+      name: plan_start_date
+      label: Academic plan start date
+      hint: Semester or school year start
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: plan_end_date
+      label: Academic plan end date
+      hint: Semester or school year end
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_credits_target
+      label: Target total credits for the year
+      hint: Use decimals for half credits (e.g., 6.5)
+      type: decimal
+      options: []
+      required: true
+    - id: 7
+      name: subject_1_name
+      label: Subject 1 (e.g., Math)
+      hint: List curriculum or course title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: subject_1_credits
+      label: Credits for Subject 1
+      hint: Numeric credits (e.g., 1.0)
+      type: decimal
+      options: []
+      required: true
+    - id: 9
+      name: subject_2_name
+      label: Subject 2 (e.g., Science)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: subject_2_credits
+      label: Credits for Subject 2
+      hint: null
+      type: decimal
+      options: []
+      required: true
+    - id: 11
+      name: additional_subjects_summary
+      label: Additional subjects and credits
+      hint: Provide subject name and credits separated by semicolons
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: extracurricular_activities
+      label: Extracurricular activities planned
+      hint: Select all activities the student will participate in
+      type: select_multiple
+      options:
+        - Athletics / Sports
+        - Music / Band / Choir
+        - Drama / Theater
+        - Debate / Speech
+        - Community Service
+        - None
+      required: false
+    - id: 13
+      name: learning_resources
+      label: Core curriculum resources or textbooks
+      hint: List publishers, online platforms, or book titles
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accommodations_requested
+      label: Requested accommodations or modifications
+      hint: e.g., extended time, alternate assessments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_contact
+      label: Parent/guardian contact phone or email
+      hint: Preferred contact method for plan questions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional notes about the academic plan
+      hint: Use for curriculum notes or special scheduling needs
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Preference Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: Shift start time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: shift_end_time
+      label: Shift end time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: break_start_time
+      label: Break start time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: break_end_time
+      label: Break end time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_shift
+      label: Preferred shift
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: true
+    - id: 7
+      name: shift_notes
+      label: Shift notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_notes
+      label: Manager notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: employee_signature
+      label: Employee signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: manager_signature
+      label: Manager signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_title
+      label: Manager title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_contact_phone
+      label: Manager contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: manager_contact_email
+      label: Manager contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: manager_notes
+      label: Manager notes
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Time Sheet Form
+    pages:
+    - id: 1
+      name: time_sheet_form
+      label: Time Sheet Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: Enter employee ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_id
+      label: Job Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: in_work_hours
+      label: In Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: out_work_hours
+      label: Out Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Job 1
+      - Job 2
+      - Job 3
+      required: false
+    - id: 8
+      name: task_id
+      label: Task Id
+      hint: Enter task ID
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hours
+      label: Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

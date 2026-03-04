@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: illegal_fireworks_reporting_form
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: type_of_fireworks
+      label: Type of Fireworks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: color_of_fireworks
+      label: Color of Fireworks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: number_of_fireworks
+      label: Number of Fireworks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: noise_level
+      label: Noise Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: did_you_call_911
+      label: Did you call 911
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: did_you_report_to_police
+      label: Did you report to police
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: witness_statements
+      label: Witness statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suspect_description
+      label: Suspect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: suspect_gender
+      label: Suspect Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: suspect_height
+      label: Suspect Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: suspect_weight
+      label: Suspect Weight
+      hint: null
+      type: number
+      options: []
+      required: false

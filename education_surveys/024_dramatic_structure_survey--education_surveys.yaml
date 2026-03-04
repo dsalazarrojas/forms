@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dramatic Structure Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dramatic_structure
+      label: dramatic_structure_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': None, ''label'': ''value1''}'
+      - '{''value'': None, ''label'': ''value2''}'
+      - '{''value'': None, ''label'': ''value3''}'
+      required: false
+    - id: 3
+      name: scene
+      label: scene_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: plot
+      label: plot_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: character
+      label: character_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': None, ''label'': ''value1''}'
+      - '{''value'': None, ''label'': ''value2''}'
+      required: false
+    - id: 6
+      name: dialogue
+      label: dialogue_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: conflict
+      label: conflict_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: resolution
+      label: resolution_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: theme
+      label: theme_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: story_telling
+      label: story_telling_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: narrative_device
+      label: narrative_device_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: feedback
+      label: feedback_label
+      hint: null
+      type: note
+      options: []
+      required: false

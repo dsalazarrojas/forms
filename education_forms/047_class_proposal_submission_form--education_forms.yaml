@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Proposal Submission Form
+    pages:
+    - id: 1
+      name: proposer_name
+      label: Proposer Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Institution
+      hint: Your affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title or Position
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_title
+      label: Proposed Class Title
+      hint: Official class name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: class_category
+      label: Class Category
+      hint: Subject area
+      type: select_one
+      options:
+      - Academic Subject
+      - Arts and Culture
+      - Business and Professional
+      - Health and Wellness
+      - Technology
+      - Personal Development
+      - Hobby and Recreation
+      - Other
+      required: true
+    - id: 8
+      name: class_description
+      label: Class Description
+      hint: Detailed overview
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What students will gain
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who should attend
+      type: select_one
+      options:
+      - Elementary students
+      - Middle school students
+      - High school students
+      - College students
+      - Adults
+      - Seniors
+      - All ages
+      - Specific group
+      required: true
+    - id: 11
+      name: audience_details
+      label: Specify Target Audience
+      hint: If specific group
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: class_level
+      label: Class Level
+      hint: Difficulty
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - All levels
+      - Mixed levels
+      required: true
+    - id: 13
+      name: class_format
+      label: Class Format
+      hint: How will it be delivered
+      type: select_one
+      options:
+      - Lecture
+      - Workshop
+      - Seminar
+      - Hands-on lab
+      - Discussion
+      - Online
+      - Hybrid
+      - Other
+      required: true
+    - id: 14
+      name: class_duration
+      label: Class Duration
+      hint: Length of each session
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 3+ hours
+      - Full day
+      - Multi-day
+      required: true
+    - id: 15
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: Total classes
+      type: select_one
+      options:
+      - Single session
+      - 2-3 sessions
+      - 4-6 sessions
+      - 8-10 sessions
+      - 12+ sessions
+      - Ongoing
+      required: true
+    - id: 16
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: When to offer
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Flexible
+      required: true
+    - id: 17
+      name: expected_enrollment
+      label: Expected Number of Students
+      hint: Your estimate
+      type: select_one
+      options:
+      - Under 10
+      - 10-20
+      - 21-30
+      - 31-50
+      - Over 50
+      required: true
+    - id: 18
+      name: materials_needed
+      label: Materials or Equipment Needed
+      hint: List requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Room setup, technology, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instructor_qualifications
+      label: Instructor Qualifications
+      hint: Why you are qualified
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_experience
+      label: Previous Teaching Experience
+      hint: Describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fee_structure
+      label: Proposed Fee Structure
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: marketing_suggestions
+      label: Marketing Suggestions
+      hint: How to promote this class
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Incident Response Dispatch Form
+    pages:
+    - id: 1
+      name: incident_response_dispatch_form_input_1
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_response_dispatch_form_input_2
+      label: Dispatching Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team 1''}'
+      - '{''id'': 2, ''label'': ''Team 2''}'
+      required: true
+    - id: 3
+      name: incident_response_dispatch_form_input_3
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 4
+      name: incident_response_dispatch_form_input_4
+      label: Response Time
+      hint: In hours
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_response_dispatch_form_input_5
+      label: Dispatching Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 6
+      name: incident_response_dispatch_form_input_6
+      label: Incident Description
+      hint: Please provide a brief description of the incident.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_response_dispatch_form_input_7
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_response_dispatch_form_input_8
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true

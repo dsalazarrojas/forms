@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Employment Application Form
+    pages:
+    - id: 1
+      name: section_applicant_ident
+      label: -- Applicant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email_ident
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone_ident
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_linkedin_ident
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_address_street
+      label: Current Address (Street, City, State, ZIP)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_professional_background
+      label: -- Professional Background and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_job_title
+      label: Current or Most Recent Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_exp_total
+      label: Total Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_consulting_expertise
+      label: Primary Consulting Domain/Expertise
+      hint: Select your strongest area
+      type: select_one
+      options:
+      - Management/Strategy Consulting
+      - Technology/IT Consulting
+      - Financial/Risk Consulting
+      - Human Resources/Talent
+      - Operations/Supply Chain
+      - Marketing/Sales Consulting
+      - Sustainability/ESG
+      required: true
+    - id: 11
+      name: industry_focus_checklist
+      label: Target Industries Served
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Financial Services
+      - Healthcare/Life Sciences
+      - Technology/SaaS
+      - Energy/Utilities
+      - Public Sector/Government
+      - Consumer Goods/Retail
+      - Manufacturing/Industrial
+      required: true
+    - id: 12
+      name: section_education_certs
+      label: -- Education and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: highest_degree_attained
+      label: Highest Level of Education Attained
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree (MA/MS)
+      - MBA
+      - PhD/Doctorate
+      - JD/Law Degree
+      - Professional Cert only
+      required: true
+    - id: 14
+      name: major_field_of_study
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: relevant_certifications
+      label: Relevant Professional Certifications
+      hint: e.g., PMP, CFA, CPA, AWS Certified, SCRUM Master
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_consulting_skills
+      label: -- Consulting Specific Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: analytics_proficiency_rating
+      label: Data Analysis and Visualization Proficiency
+      hint: 1 - Basic, 5 - Expert
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: presentation_skills_rating
+      label: Executive Presentation and Communication
+      hint: 1 - Basic, 5 - Expert
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: project_management_methodology
+      label: Preferred Project Management Methodology
+      hint: null
+      type: select_one
+      options:
+      - Agile/Scrum
+      - Waterfall
+      - Lean/Six Sigma
+      - Hybrid/Custom
+      required: true
+    - id: 20
+      name: section_logistics_availability
+      label: -- Logistics and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: willingness_to_travel_pct
+      label: Willingness to Travel to Client Sites (%)
+      hint: Percentage of time you are able to travel
+      type: select_one
+      options:
+      - 0-25%
+      - 25-50%
+      - 50-75%
+      - 75-100%
+      required: true
+    - id: 22
+      name: earliest_start_date
+      label: Earliest Possible Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: salary_expectation_annual
+      label: Desired Annual Base Salary ($)
+      hint: Excluding bonuses
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Why are you interested in joining our consultancy?
+      hint: Max 1000 characters
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

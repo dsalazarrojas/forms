@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dependents Addition Request Form
+    pages:
+    - id: 1
+      name: dependents_info
+      label: Dependents Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relation
+      label: Relation
+      hint: null
+      type: select_one
+      options:
+      - Father
+      - Mother
+      - Son
+      - Daughter
+      - Brother
+      - Sister
+      - Grandfather
+      - Grandmother
+      - Grandson
+      - Granddaughter
+      - Uncle
+      - Aunt
+      - Spouse
+      required: false
+    - id: 6
+      name: dependents_count
+      label: Dependents Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: dependents_info_list
+      label: Dependent 1 Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dependents_info_list_2
+      label: Dependent 2 Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dependents_info_list_3
+      label: Dependent 3 Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_mood_check_in_survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mood_level
+      label: How would you rate your current mood?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: energy_level
+      label: How would you rate your energy level?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: motivation_level
+      label: How would you rate your motivation level?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stress_level
+      label: How would you rate your stress level?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: support_system
+      label: How would you rate the support system?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: Is there anything you would like to tell your team or manager?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_survey
+      label: How would you rate your manager's performance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_mood
+      label: How would you rate your team's mood?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: company_values
+      label: How well do you understand our company values?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: job_fit
+      label: How well do you fit in the organization?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_life_balance
+      label: How well is your work-life balance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: career_development
+      label: Do you see opportunities for career development within the company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 14
+      name: team_collaboration
+      label: How would you rate your collaboration with your team members?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: company_newsletter
+      label: How do you like our company newsletter?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Like''}'
+      - '{''id'': 2, ''label'': "Don''t like"}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 16
+      name: company_events
+      label: How do you feel about company events?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Like''}'
+      - '{''id'': 2, ''label'': "Don''t like"}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 17
+      name: training_and_development
+      label: How would you rate the quality of our training and development opportunities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: diversity_inclusion
+      label: How important is diversity and inclusion within the company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very important''}'
+      - '{''id'': 2, ''label'': ''Somewhat important''}'
+      - '{''id'': 3, ''label'': ''Not very important''}'
+      - '{''id'': 4, ''label'': ''Not at all important''}'
+      required: false
+    - id: 19
+      name: communication_channels
+      label: How would you rate the communication channels?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Effective''}'
+      - '{''id'': 2, ''label'': ''Not effective''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 20
+      name: manager_delegation
+      label: How would you rate the level of delegation by your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 21
+      name: manager_availability
+      label: How often do you see your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Often''}'
+      - '{''id'': 2, ''label'': ''Rarely''}'
+      - '{''id'': 3, ''label'': ''Never''}'
+      required: false
+    - id: 22
+      name: team_support
+      label: How would you rate the level of support from your team members?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 23
+      name: work_safety
+      label: How would you rate the safety and security of your workspace?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 24
+      name: job_satisfaction
+      label: How satisfied are you with your job?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Satisfied''}'
+      - '{''id'': 2, ''label'': ''Dissatisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 25
+      name: open_communication
+      label: How would you rate the open communication within the company?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false

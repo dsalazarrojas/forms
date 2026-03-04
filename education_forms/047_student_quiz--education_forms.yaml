@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: false
+    - id: 3
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: select_multiple
+      options:
+      - math
+      - science
+      - language_arts
+      - history
+      required: false
+    - id: 4
+      name: practice_area
+      label: Practice Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: knowledge_topic
+      label: Knowledge Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

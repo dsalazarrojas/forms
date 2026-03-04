@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphing Skills Assessment
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: tools_used
+      label: tools_used
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก -Graph Paper -Ruler
+      - Other
+      required: false
+    - id: 3
+      name: challenges
+      label: challenges_faced
+      hint: Write the challenges faced.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tools_score
+      label: tools_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: graphing_skills
+      label: graphing_skills
+      hint: null
+      type: select_one
+      options:
+      - -Basic -Intermediate -Advanced
+      - Other
+      required: true
+    - id: 6
+      name: graphing_tool_score
+      label: graphing_tool_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: Additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: graphing_skills_score
+      label: graphing_skills_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: graphing_score
+      label: graphing_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: overall_graphing_score
+      label: overall_graphing_score
+      hint: Overall graphing skills score.
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_graphing_tool_score
+      label: overall_graphing_tool_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: true

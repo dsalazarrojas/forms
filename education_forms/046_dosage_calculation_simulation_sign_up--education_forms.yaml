@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dosage Calculation Simulation Sign Up
+    pages:
+    - id: 1
+      name: simulation_date
+      label: Simulation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: participant_first_name
+      hint: Enter participant first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: participant_last_name
+      hint: Enter participant last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: learning_goals
+      label: learning_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: simulation_type
+      label: simulation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: simulation_date_1
+      label: simulation_date_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: simulation_time
+      label: simulation_time
+      hint: Select simulation time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: Select location
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: participant_did
+      label: participant_did
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_age
+      label: participant_age
+      hint: Enter participant age
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: participant_job_title
+      label: participant_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: simulation_date_2
+      label: simulation_date_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: simulation_duration
+      label: simulation_duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: course_code
+      label: course_code
+      hint: Enter course code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: simulation_facilitator
+      label: simulation_facilitator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: learning_objectives
+      label: learning_objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_institution
+      label: participant_institution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: participant_level
+      label: participant_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: participant_department
+      label: participant_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_job_role
+      label: participant_job_role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: simulation_time_1
+      label: simulation_time_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false

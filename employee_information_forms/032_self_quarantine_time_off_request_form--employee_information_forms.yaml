@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Quarantine Time Off Request Form
+    pages:
+    - id: 1
+      name: self_quarantine_time_off_request_form
+      label: Self Quarantine Time Off Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_of_offense_start
+      label: Date of offense
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_offense_end
+      label: Date of offense end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_certificate_attachment
+      label: Medical Certificate
+      hint: Attachment
+      type: select_multiple
+      options:
+      - COVID-19 Medical Certificate
+      - Other
+      required: true
+    - id: 7
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: doctor_phone
+      label: doctor phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Feedback Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_location
+      label: store_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - Store Manager
+      - Floor Sales Associate
+      - Stockroom Associate
+      - Inventory Manager
+      - Assistant Manager
+      - Assistant Store Manager
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: how_do_you_rate_your_store
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: what_did_we_do_well
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_question_3
+      label: what_could_we_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

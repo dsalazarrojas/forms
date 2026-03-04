@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Learning Innovation Awareness Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: What is sustainable learning?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_background
+      label: Do you have a background in education?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 3
+      name: work_experience
+      label: Do you have work experience in the field of sustainability?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 4
+      name: learning_goals
+      label: Learning goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: innovation_interest
+      label: Have you had any experience or interest in innovation?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 6
+      - Option 7
+      - Option 8
+      required: false
+    - id: 6
+      name: innovation_practices
+      label: Have you had any experience in innovation practices?
+      hint: null
+      type: select_one
+      options:
+      - Option 9
+      - Option 10
+      required: true
+    - id: 7
+      name: sustainable_learning_practices
+      label: Which of the following sustainable practices do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 11
+      - Option 12
+      - Option 13
+      - Option 14
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

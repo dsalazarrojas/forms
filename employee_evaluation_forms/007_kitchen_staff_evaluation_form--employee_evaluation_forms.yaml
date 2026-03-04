@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_staff_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Performance
+      hint: Evaluate the performance of this person.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

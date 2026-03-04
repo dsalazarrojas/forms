@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: symmetry_concepts_quiz
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: line_symmetry
+      label: Line Symmetry
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dihedral angle''}'
+      - '{''id'': 2, ''label'': ''Reflection line''}'
+      required: true
+    - id: 5
+      name: rotational_symmetry
+      label: Rotational Symmetry
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Dihedral angle''}'
+      - '{''id'': 2, ''label'': ''Reflection axis''}'
+      - '{''id'': 3, ''label'': ''None of the above''}'
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: true

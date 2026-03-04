@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Structure Approval Form
+    pages:
+    - id: 1
+      name: pay_structure
+      label: Pay Structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: proposed_effective_date
+      label: Proposed Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: proposed_justification
+      label: Proposed Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pay_rate_change
+      label: Pay Rate Change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved_effective_date
+      label: Approved Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: pay_structure_approved
+      label: Pay Structure Approved
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student AI Tools Survey
+    pages:
+    - id: 1
+      name: student_ai_tools_survey
+      label: student_a_i_tools_survey
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: school_year
+      label: school_year
+      hint: Please enter the school year
+      type: select_one
+      options:
+      - Year 1
+      - Year 2
+      - Year 3
+      - Year 4
+      - Year 5
+      - Year 6
+      - Year 7
+      - Year 8
+      - Year 9
+      - Year 10
+      required: true
+    - id: 3
+      name: ai_tools_used
+      label: ai_tools_used
+      hint: Please select all AI tools you have used
+      type: select_multiple
+      options:
+      - AI Assistant
+      - Chatbot
+      - Language Model
+      - Virtual Assistant
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: future_interest
+      label: future_interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 6
+      name: other_ai_tools_used
+      label: other_ai_tools_used
+      hint: Please specify other AI tools used
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

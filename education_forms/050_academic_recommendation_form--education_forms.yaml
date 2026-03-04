@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recommendation Form
+    pages:
+      - id: 1
+        name: section_recommender
+        label: -- Recommender Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: recommender_name
+        label: Recommender name
+        hint: Full name of the person writing the recommendation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: recommender_email
+        label: Recommender email
+        hint: Contact email for verification
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: relationship_to_candidate
+        label: Relationship to candidate
+        hint: How you know the candidate and in what capacity
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: candidate_name
+        label: Candidate name
+        hint: Full name of the candidate being recommended
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: candidate_program
+        label: Candidate program or position
+        hint: Program or role candidate is applying for
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: strengths
+        label: Candidate strengths
+        hint: Key strengths and contributions
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: areas_for_development
+        label: Areas for development
+        hint: Constructive feedback on development areas
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: overall_rating
+        label: Overall recommendation rating
+        hint: Select the level of recommendation
+        type: select_one
+        options:
+          - Strongly recommend
+          - Recommend
+          - Recommend with reservations
+          - Do not recommend
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other observations to support the recommendation
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: signature
+        label: Signature name
+        hint: Type full name to sign recommendation
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: date
+        label: Date
+        hint: Date of recommendation
+        type: date
+        options: []
+        required: true

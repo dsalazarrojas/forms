@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Day Participation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name for records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department or team
+      hint: Department name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of event
+      hint: Date of the casual day
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: theme_understanding
+      label: Understanding of theme and guidelines
+      hint: Confirm you have read guidelines
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: dietary_or_allergy_notes
+      label: Dietary or allergy notes
+      hint: For catered casual day events
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contributions
+      label: Contributions or donations
+      hint: Indicate items you will bring or donate
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone for day-of contact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_photos
+      label: Consent to be photographed
+      hint: Allow event photography for internal use
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_needs
+      label: Special needs or accessibility requirements
+      hint: Describe any accommodations required
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evacuation Alert Communication Form
+    pages:
+    - id: 1
+      name: emergency_contact_form
+      label: Emergency Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_role
+      label: Emergency Contact Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_cell
+      label: Emergency Contact Cell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_other
+      label: Emergency Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_location
+      label: Emergency Contact Location
+      hint: null
+      type: text
+      options: []
+      required: false

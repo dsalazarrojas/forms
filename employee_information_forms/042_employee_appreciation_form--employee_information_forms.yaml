@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Appreciation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: appreciation_level
+      label: Appreciation Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: appreciation_reason
+      label: Reason for Appreciation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: appreciation_message
+      label: Appreciation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appreciation_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

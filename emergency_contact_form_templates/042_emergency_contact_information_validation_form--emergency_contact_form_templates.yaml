@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_contact_information_validation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter the full first name of the person.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter the full last name of the person.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: relation_to_employee
+      label: Relation To Employee
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
+      required: true
+    - id: 11
+      name: relation_other_description
+      label: Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Child
+      - Spouse
+      - Parent
+      - Sibling
+      - Other
+      required: true
+    - id: 14
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_email_address
+      label: Emergency Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Veterinarian Review
+    pages:
+    - id: 1
+      name: vet_name
+      label: Veterinarian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_number
+      label: Veterinary License Number
+      hint: State license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: practice_name
+      label: Practice Name
+      hint: Name of veterinary practice
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Practice Experience
+      hint: Total years as veterinarian
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: specializations
+      label: Areas of Specialization
+      hint: Specialty certifications or focus areas
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_period
+      label: Review Period
+      hint: Date range for this review
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patients_treated
+      label: Number of Patients Treated This Year
+      hint: Approximate patient count
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: case_mix
+      label: Types of Cases and Procedures
+      hint: Species and procedure types handled
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: clinical_competency
+      label: Self-assessment of Clinical Competency
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 10
+      name: diagnostic_skills
+      label: Diagnostic skills and accuracy
+      hint: Ability to diagnose conditions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 11
+      name: surgical_skills
+      label: Surgical skills performance
+      hint: Quality of surgical procedures
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Not applicable
+      required: false
+    - id: 12
+      name: animal_handling
+      label: Animal handling and care
+      hint: Compassion and technical handling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 13
+      name: client_communication
+      label: Client communication skills
+      hint: Ability to explain findings to clients
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 14
+      name: medical_knowledge
+      label: Current medical knowledge
+      hint: Stays current with veterinary medicine
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 15
+      name: continuing_education
+      label: Continuing education pursued
+      hint: Courses, certifications, conferences
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ethics_compliance
+      label: Professional ethics and compliance
+      hint: Follows regulations and ethical standards
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 17
+      name: record_keeping
+      label: Medical record keeping
+      hint: Accuracy and timeliness of records
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 18
+      name: client_satisfaction
+      label: Client satisfaction with your care
+      hint: Based on feedback received
+      type: select_one
+      options:
+      - Very high satisfaction
+      - High satisfaction
+      - Average satisfaction
+      - Below average
+      required: true
+    - id: 19
+      name: major_accomplishments
+      label: Major Accomplishments This Year
+      hint: Notable cases or contributions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: challenges_faced
+      label: Challenges or Difficult Cases
+      hint: Learning experiences or obstacles
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: professional_goals
+      label: Professional Goals for Next Year
+      hint: Areas to develop or focus on
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: strengths
+      label: Your Key Professional Strengths
+      hint: What you do particularly well
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: improvement_areas
+      label: Areas for Professional Development
+      hint: Skills to develop
+      type: text
+      options: []
+      required: true

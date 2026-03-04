@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Diversity Perception Survey
+    pages:
+    - id: 1
+      name: employee_survey_form
+      label: Employee Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workplace_diversity_perception
+      label: How would you describe your experience with diversity and inclusion at
+        work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_life_beyond_our_company
+      label: How often do you see or experience people of different races, cultures,
+        or sexual orientations?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several days a week
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: work_life_at_workplace
+      label: How often do you see or experience people of different races, cultures,
+        or sexual orientations at work?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several days a week
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: discrimination_experience
+      label: Have you experienced discrimination, bias or harassment in the workplace?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: discrimination_type
+      label: Types of Discrimination
+      hint: null
+      type: select_multiple
+      options:
+      - Racial or ethnic discrimination
+      - Sexual orientation discrimination
+      - Religious discrimination
+      - Age discrimination
+      - Disability discrimination
+      - Other
+      required: false
+    - id: 7
+      name: support_system
+      label: Do you feel comfortable reporting discrimination or bias experiences
+        to your manager or HR?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: support_response
+      label: How do you feel about the response to your reporting of bias or discrimination?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false

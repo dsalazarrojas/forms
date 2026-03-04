@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Polar Nature Of Water Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: water_polar_scale
+      label: Water Polarity Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: favorite_color
+      label: Favorite Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      required: false
+    - id: 4
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: select_multiple
+      options:
+      - Cold
+      - Medium
+      - Hot
+      required: false
+    - id: 5
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Burgers
+      - Tacos
+      - Sushi
+      - Salad
+      required: false
+    - id: 9
+      name: science_programs
+      label: Science Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Chemistry
+      - Physics
+      - Biology
+      - Geology
+      - Computer Science
+      required: false

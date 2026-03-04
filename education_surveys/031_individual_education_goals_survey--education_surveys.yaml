@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Education Goals Survey
+    pages:
+    - id: 1
+      name: education_survey
+      label: Education Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_needs
+      label: Student Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: educational_objectives
+      label: Educational Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: text
+      options: []
+      required: false

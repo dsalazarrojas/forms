@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Leadership Trust Index Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your role in the educational institution?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role
+      label: What is your position in the institution?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: school_type
+      label: What type of school do you work in?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Elementary School''}'
+      - '{''label'': ''High School''}'
+      - '{''label'': ''Middle School''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: years_of_experience
+      label: How many years of experience do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: educational_leadership_scale_score
+      label: How would you rate the school's leadership in terms of trust?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: principal_survey
+      label: How would you rate the principal?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 7
+      name: vice_principal_survey
+      label: How would you rate the vice principal?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 8
+      name: teachers_survey
+      label: How would you rate the teachers?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 9
+      name: staff_survey
+      label: How would you rate the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 10
+      name: facilities_survey
+      label: How would you rate the facilities?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 11
+      name: communication_survey
+      label: How would you rate communication among teachers and staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 12
+      name: decision_survey
+      label: How would you rate decision making among teachers and staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 13
+      name: support_survey
+      label: How would you rate support among teachers and staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 14
+      name: resources_survey
+      label: How would you rate resources for teachers and staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 15
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with your school leadership?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Extremely satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false

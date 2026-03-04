@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Clock Correction Form
+    pages:
+    - id: 1
+      name: time_clock_correction_form
+      label: Time Clock Correction Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: original_time_in
+      label: Original Time In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: original_time_out
+      label: Original Time Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corrected_time_in
+      label: Corrected Time In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrected_time_out
+      label: Corrected Time Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approved_by_manager
+      label: Approved by Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: time_clock_correction_form_status
+      label: Time Clock Correction Form Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: corrected_date
+      label: Corrected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_worked
+      label: Time Worked
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: corrected_time_in_hours
+      label: Corrected Time In Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: corrected_time_out_hours
+      label: Corrected Time Out Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_correction
+      label: Reason for Correction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: corrected_hours
+      label: Corrected Hours
+      hint: null
+      type: number
+      options: []
+      required: false

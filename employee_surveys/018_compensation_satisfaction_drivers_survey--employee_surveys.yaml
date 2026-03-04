@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Satisfaction Drivers Survey
+    pages:
+      - id: 1
+        name: satisfaction_drivers_header
+        label: -- What Drives Your Satisfaction? --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: most_important_driver
+        label: Which aspect of your compensation package is MOST important to you?
+        hint: Pick one primary driver
+        type: select_one
+        options:
+          - Base Salary
+          - Performance Bonuses / STI
+          - Health and Wellness Benefits
+          - Retirement Plans / 401k Match
+          - Paid Time Off (PTO)
+          - Professional Development Stipends
+          - Flexible Work Arrangements
+        required: true
+      - id: 3
+        name: satisfaction_base_pay
+        label: Satisfaction with Base Salary
+        hint: Rating your fixed pay
+        type: select_one
+        options:
+          - 1 - Not Satisfied
+          - 2
+          - 3
+          - 4
+          - 5 - Highly Satisfied
+        required: true
+      - id: 4
+        name: satisfaction_benefits_drivers
+        label: Satisfaction with the variety of benefits offered
+        hint: Rating the range of perks
+        type: select_one
+        options:
+          - 1 - Not Satisfied
+          - 2
+          - 3
+          - 4
+          - 5 - Highly Satisfied
+        required: true
+      - id: 5
+        name: recognition_vs_pay
+        label: How important is non-monetary recognition compared to financial rewards?
+        hint: Balance of pay and praise
+        type: select_one
+        options:
+          - Pay is much more important
+          - Pay is slightly more important
+          - Both are equally important
+          - Recognition is more important
+        required: true
+      - id: 6
+        name: growth_opportunity_rating
+        label: Satisfaction with the potential for salary growth over time
+        hint: Future earning potential
+        type: select_one
+        options:
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Not aware of growth paths
+        required: true
+      - id: 7
+        name: work_life_balance_value
+        label: Do you view work-life balance as a valuable part of your total compensation?
+        hint: e.g., flexible hours, remote work
+        type: select_one
+        options:
+          - Yes, extremely valuable
+          - Yes, somewhat valuable
+          - No, not really
+          - I do not have work-life balance
+        required: true
+      - id: 8
+        name: past_employer_comparison_drivers
+        label: How does your current compensation package compare to your previous employer?
+        hint: Relative satisfaction
+        type: select_one
+        options:
+          - Much Better
+          - Slightly Better
+          - About the Same
+          - Slightly Worse
+          - Much Worse
+          - This is my first employer
+        required: true
+      - id: 9
+        name: drivers_improvement_feedback
+        label: If you could change one thing about our compensation package, what would it be?
+        hint: Suggestions for enhancement
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: overall_drivers_rating
+        label: Overall satisfaction rating with the total rewards strategy
+        hint: Final satisfaction score
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: drivers_survey_date
+        label: Date
+        hint: Select today's date
+        type: date
+        options: []
+        required: true

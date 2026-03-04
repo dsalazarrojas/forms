@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Ring Program Application
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: class_year_name
+      label: Class Year Name or Nickname
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Sophomore, Junior, Senior, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mailing_address
+      label: Mailing Address
+      hint: Where to ship the ring
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: ring_header
+      label: -- Ring Selection and Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ring_style
+      label: Ring Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Womens traditional
+      - Mens traditional
+      - Womens modern
+      - Mens modern
+      - Unisex contemporary
+      - Other
+      required: true
+    - id: 16
+      name: ring_size
+      label: Ring Size
+      hint: Use standard ring sizing chart
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: metal_type
+      label: Metal Type
+      hint: null
+      type: select_one
+      options:
+      - Yellow gold
+      - White gold
+      - Platinum
+      - Silver
+      - Other
+      required: true
+    - id: 18
+      name: stone_preference
+      label: Stone Preference
+      hint: null
+      type: select_one
+      options:
+      - Diamond
+      - Gemstone
+      - School stone or birthstone
+      - No stone
+      - Other
+      required: false
+    - id: 19
+      name: customization_header
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: engraving_text
+      label: Engraving Text or Initials
+      hint: What would you like engraved
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_seal
+      label: Include School Seal or Emblem
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Customization Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pricing_header
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: ring_price
+      label: Ring Price Tier Selected
+      hint: Price ranges will be provided
+      type: select_one
+      options:
+      - Basic - economical option
+      - Standard - most popular
+      - Premium - deluxe option
+      - Custom - fully personalized
+      - Not sure yet
+      required: true
+    - id: 25
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Will be calculated based on selections
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: payment_plan
+      label: Preferred Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - Full payment now
+      - Deposit and final payment
+      - Monthly installments
+      - Not sure
+      required: false
+    - id: 27
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: acknowledgment
+      label: I certify that all information is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

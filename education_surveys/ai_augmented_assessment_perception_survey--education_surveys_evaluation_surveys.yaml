@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Augmented Assessment Perception Survey
+    pages:
+    - id: 1
+      name: respondent_information_header
+      label: '--- Respondent Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Work or personal email (we will anonymize responses if consent given)
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization / Department
+      hint: Institution, company, or department name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Primary role in the assessment process
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Instructor
+      - HR Manager
+      - Assessment Designer
+      - Administrator
+      - Other
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone number
+      hint: Include country code if outside your primary country
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: assessment_experience_header
+      label: '--- Assessment Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assessment_date
+      label: Date of assessment experience
+      hint: Date you took or observed the AI-augmented assessment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: duration_minutes
+      label: Approximate assessment duration (minutes)
+      hint: Enter the total time spent on the assessment
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction
+      label: How satisfied are you with the AI augmentation overall?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: ai_roles_applied
+      label: Which AI features were applied in the assessment? (select all that apply)
+      hint: Check all that describe the system used
+      type: select_multiple
+      options:
+      - Automated scoring
+      - Proctoring / monitoring
+      - Feedback generation
+      - Question generation
+      - Adaptive sequencing
+      - Cheating detection
+      - Other
+      required: false
+    - id: 13
+      name: perceived_accuracy
+      label: Perceived accuracy of AI outputs
+      hint: 0.0 = not accurate, 1.0 = perfectly accurate
+      type: decimal
+      options: []
+      required: true
+    - id: 14
+      name: trust_level
+      label: Trust in AI to fairly evaluate responses
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 15
+      name: fairness_and_privacy_concerns
+      label: What concerns (if any) do you have about fairness or privacy? (select
+        all)
+      hint: Leave blank if no concerns
+      type: select_multiple
+      options:
+      - Bias in scoring
+      - Privacy / data handling
+      - Lack of transparency
+      - False positives in cheating detection
+      - Accessibility concerns
+      - None
+      required: false
+    - id: 16
+      name: technical_issues_encountered
+      label: Technical issues encountered (select all that apply)
+      hint: Leave blank if experience was smooth
+      type: select_multiple
+      options:
+      - System crashes
+      - Slow loading or timeouts
+      - Incorrect or confusing feedback
+      - Login / authentication problems
+      - Browser compatibility issues
+      - None
+      required: false
+    - id: 17
+      name: willingness_to_use
+      label: Would you be willing to use AI-augmented assessments in the future?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Maybe with oversight
+      - false
+      required: true
+    - id: 18
+      name: suggested_improvements
+      label: What would you improve or change about the AI-augmented assessment?
+      hint: Provide specific features, workflows, or safeguards you recommend
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_to_anonymized_use
+      label: Consent to anonymized use of responses for product improvement
+      hint: Responses will be aggregated and anonymized if you consent
+      type: select_one
+      options:
+      - I consent to anonymized use of my responses
+      - I do not consent
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Open-ended feedback or examples (optional)
+      type: text
+      options: []
+      required: false

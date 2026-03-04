@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Peer Resource Exchange Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your university email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Art
+      - Biology
+      - Business
+      - Chemistry
+      - Computer Science
+      - Economics
+      - English
+      - Geology
+      - History
+      - Math
+      - Nursing
+      - Physics
+      - Psychology
+      - Sociology
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - Director
+      - Instructor
+      - Lab Manager
+      - Professor
+      - Researcher
+      - Teaching Assistant
+      - Teaching Associate
+      required: false
+    - id: 8
+      name: campus
+      label: Campus
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - UW-Eau Claire
+      - UW-Glaxen Hall
+      - UW-River Falls
+      - UW-Stout
+      - UW-Stevens Point
+      - UW-Superior
+      - UW-Whitewater
+      - UW-Milwaukee
+      - UW-River Falls
+      required: true
+    - id: 9
+      name: faculty_number
+      label: Faculty Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

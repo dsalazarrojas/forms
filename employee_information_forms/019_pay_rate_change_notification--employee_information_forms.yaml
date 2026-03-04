@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Rate Change Notification
+    pages:
+    - id: 1
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pay_rate_amount
+      label: Pay Rate Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pay_rate_frequency
+      label: Pay Rate Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 5
+      name: pay_rate_start_date
+      label: Pay Rate Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pay_rate_end_date
+      label: Pay Rate End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pay_rate_reason
+      label: Pay Rate Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_acknowledge
+      label: Manager Acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Acknowledge
+      - Not Acknowledge
+      required: false
+    - id: 9
+      name: payroll_acknowledge
+      label: Payroll Acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Acknowledge
+      - Not Acknowledge
+      required: false
+    - id: 10
+      name: hr_acknowledge
+      label: HR Acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Acknowledge
+      - Not Acknowledge
+      required: false
+    - id: 11
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_suggestion
+      label: Manager Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: pay_rate_status
+      label: Pay Rate Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: pay_rate_type
+      label: Pay Rate Type
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Monthly
+      - Salary
+      required: false
+    - id: 16
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Approve and Sign
+      - Approve and Email
+      required: false
+    - id: 17
+      name: payroll_approvals
+      label: Payroll Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Approve and Sign
+      - Approve and Email
+      required: false
+    - id: 18
+      name: hr_approvals
+      label: HR Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Approve and Sign
+      - Approve and Email
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety And Concerns Form
+    pages:
+    - id: 1
+      name: workplace_safety_and_concerns
+      label: workplace_safety_and_concerns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: have_you_faced
+      label: have_you_faced_any_challenges_or_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_from_home
+      label: work_from_home
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 4
+      name: what_type_of_concerns
+      label: what_type_of_concerns
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concerns_description
+      label: concerns_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concerns_impact
+      label: how_has_the_concern_impact_your_work
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 7
+      name: how_many_employees
+      label: how_many_employees_will_be_affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: have_any_employees
+      label: have_any_employees_expressed_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: what_will_be
+      label: what_will_be_done_to_address_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: who_will_be
+      label: who_will_be_handling_concerns
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Management''}'
+      - '{''value'': ''Team''}'
+      required: false
+    - id: 11
+      name: when_concerns_will_be_addressed
+      label: when_concerns_will_be_addressed
+      hint: null
+      type: date
+      options: []
+      required: false

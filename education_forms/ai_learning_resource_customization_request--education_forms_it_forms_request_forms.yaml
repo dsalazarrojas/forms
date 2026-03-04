@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Learning Resource Customization Request
+    pages:
+    - id: 1
+      name: section_header_requester_info
+      label: '--- Requester Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to contact you about your request
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution_organization
+      label: Institution or organization
+      hint: Name of your school, company, or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title or role
+      hint: e.g., Teacher, Training Manager, L&D Specialist
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_resource_details
+      label: '--- Resource Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resource_title
+      label: Desired title for the customized resource
+      hint: What would you like to name this learning material?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_audience
+      label: Target audience for this resource
+      hint: Who will be using this material?
+      type: select_one
+      options:
+      - Elementary students
+      - High school students
+      - College students
+      - Working professionals
+      - Executives
+      - General public
+      required: true
+    - id: 9
+      name: subject_area
+      label: Subject area or topic focus
+      hint: What subject will this resource cover?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: resource_format
+      label: Preferred format for the resource
+      hint: What type of learning material do you need?
+      type: select_one
+      options:
+      - Interactive course
+      - Video series
+      - Textbook chapters
+      - Workshop materials
+      - Assessment tools
+      - Mobile app content
+      required: true
+    - id: 11
+      name: estimated_duration
+      label: Estimated duration or length
+      hint: How long should the resource be?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_learning_objectives
+      label: '--- Learning Objectives ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_learning_goals
+      label: Primary learning goals
+      hint: What should learners be able to do after completing this resource?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: prerequisite_knowledge
+      label: Prerequisite knowledge required
+      hint: What should learners already know before starting?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_methods
+      label: Preferred assessment methods
+      hint: How should learner progress be evaluated?
+      type: select_multiple
+      options:
+      - Quizzes
+      - Projects
+      - Peer reviews
+      - Practical exercises
+      - Case studies
+      - Simulations
+      required: false
+    - id: 16
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_timeline_budget
+      label: '--- Timeline and Budget ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: required_by_date
+      label: When do you need this resource completed?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget range for customization
+      hint: What is your approximate budget for this project?
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - Over $25,000
+      required: false
+    - id: 20
+      name: approval_process
+      label: Internal approval process
+      hint: Does this require approval from others in your organization?
+      type: select_one
+      options:
+      - No approval needed
+      - Department head approval
+      - Committee review
+      - Executive approval
+      required: false
+    - id: 21
+      name: section_header_additional_info
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements
+      label: Special requirements or constraints
+      hint: Any specific tools, technologies, or restrictions?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_experience
+      label: Previous experience with similar resources
+      hint: Have you used similar AI learning materials before?
+      type: select_one
+      options:
+      - First time
+      - Beginner level
+      - Intermediate experience
+      - Advanced user
+      required: false
+    - id: 24
+      name: expected_impact
+      label: Expected impact or success metrics
+      hint: How will you measure the success of this resource?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information that might help us customize this resource
+      type: text
+      options: []
+      required: false

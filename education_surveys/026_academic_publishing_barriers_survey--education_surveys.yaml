@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Publishing Barriers Survey
+    pages:
+    - id: 1
+      name: publishing_barriers_intro
+      label: Academic Publishing Barriers Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in Academia
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - PhD student
+      - Postdoctoral researcher
+      - Early-career faculty
+      - Senior faculty
+      - Research staff
+      - Graduate student
+      - Other
+      required: true
+    - id: 3
+      name: academic_discipline
+      label: Academic Discipline
+      hint: Your primary field of study or research
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_research_experience
+      label: Years of Research Experience
+      hint: How many years of research experience do you have?
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: number_publications
+      label: Number of Publications
+      hint: Approximately how many peer-reviewed publications do you have?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: publishing_barrier_financial
+      label: Financial Barriers
+      hint: How much do financial costs impede your publishing? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: publishing_barrier_time_constraints
+      label: Time Constraint Barriers
+      hint: How much do time constraints impede your publishing? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: publishing_barrier_language
+      label: Language Barriers
+      hint: How much do language barriers impede your publishing? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: publishing_barrier_access_to_resources
+      label: Access to Resources Barriers
+      hint: How much do limited access to resources impede your publishing? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: publishing_barrier_review_process
+      label: Review Process Barriers
+      hint: How much does the peer review process impede your publishing? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: publishing_barrier_journal_selection
+      label: Journal Selection Barriers
+      hint: How much do difficulties in selecting journals impede your publishing?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: publishing_barrier_formatting_requirements
+      label: Formatting Requirements Barriers
+      hint: How much do complex formatting requirements impede your publishing? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: publishing_barrier_institutional_support
+      label: Institutional Support Barriers
+      hint: How much does lack of institutional support impede your publishing? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: major_publishing_challenges
+      label: Major Publishing Challenges
+      hint: What are your three biggest challenges in academic publishing? (Select
+        up to 3)
+      type: select_multiple
+      options:
+      - High article processing charges
+      - Lengthy review times
+      - Complex submission systems
+      - Language editing costs
+      - Limited journal options
+      - Pressure to publish in high-impact journals
+      - Balancing teaching/administrative duties
+      - Lack of mentorship
+      - None
+      required: false
+    - id: 15
+      name: open_access_attitude
+      label: Attitude Toward Open Access
+      hint: How do you feel about open access publishing models?
+      type: select_one
+      options:
+      - Strongly support
+      - Support with reservations
+      - Neutral
+      - Opposed
+      - Unfamiliar
+      required: true
+    - id: 16
+      name: publishing_barrier_solutions_important
+      label: Important Solutions
+      hint: Which solutions would most help overcome publishing barriers? (Select
+        top 3)
+      type: select_multiple
+      options:
+      - Reduced publication fees
+      - Streamlined submission processes
+      - Better mentoring programs
+      - Institutional support for costs
+      - Improved review efficiency
+      - More publishing venues
+      - Enhanced writing support
+      - Faster publication timelines
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about barriers to academic publishing?
+      type: text
+      options: []
+      required: false

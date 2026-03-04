@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Administrator Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: network_domain
+      label: network domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: admin_type
+      label: admin type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tier 1''}'
+      - '{''label'': ''Tier 2''}'
+      - '{''label'': ''Tier 3''}'
+      required: false

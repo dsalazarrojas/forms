@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: RFP Employee Live On Purpose Form
+    pages:
+    - id: 1
+      name: onboarding_form_page_1
+      label: welcome_to_rfp
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      required: false
+    - id: 7
+      name: job_date
+      label: Job start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_time
+      label: Job start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_verified
+      label: Email verified
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Verified'', ''value'': ''verified''}'
+      - '{''id'': 2, ''label'': ''Not verified'', ''value'': ''not_verified''}'
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false
+    - id: 14
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New York'', ''value'': ''new_york''}'
+      - '{''id'': 2, ''label'': ''California'', ''value'': ''california''}'
+      - '{''id'': 3, ''label'': ''Chicago'', ''value'': ''chicago''}'
+      required: false
+    - id: 16
+      name: job_title_manager
+      label: Job Title Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false
+    - id: 17
+      name: department_manager
+      label: Department Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false
+    - id: 18
+      name: employee_status
+      label: Employee status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 19
+      name: reporting_manager
+      label: Reporting manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false
+    - id: 20
+      name: reporting_department
+      label: Reporting department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      required: false
+    - id: 21
+      name: reporting_team
+      label: Reporting team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      required: false
+    - id: 22
+      name: reporting_level
+      label: Reporting level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager'', ''value'': ''manager''}'
+      - '{''id'': 2, ''label'': ''Team member'', ''value'': ''team_member''}'
+      required: false
+    - id: 23
+      name: reporting_date
+      label: Reporting date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reporting_time
+      label: Reporting time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: note2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acrylic Painting Basics Survey
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional for anonymous surveys
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_level
+      label: Experience level
+      hint: Your experience with acrylic painting
+      type: select_one
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+      required: true
+    - id: 4
+      name: preferred_styles
+      label: Preferred painting styles
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Realism
+        - Abstract
+        - Impressionism
+        - Mixed media
+      required: false
+    - id: 5
+      name: challenges_faced
+      label: Challenges faced
+      hint: Main challenges when learning acrylics
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: helpful_resources
+      label: Helpful resources
+      hint: Which resources help you learn most
+      type: select_multiple
+      options:
+        - Video tutorials
+        - Live workshops
+        - Step by step guides
+        - One on one coaching
+      required: false
+    - id: 7
+      name: preferred_class_format
+      label: Preferred class format
+      hint: Choose the best format for learning
+      type: select_one
+      options:
+        - In person
+        - Online live
+        - On demand
+      required: true
+    - id: 8
+      name: materials_availability
+      label: Materials availability
+      hint: Do you have access to required materials
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 9
+      name: class_duration_preference
+      label: Class duration preference
+      hint: Preferred length of a class session
+      type: select_one
+      options:
+        - 1 hour
+        - 2 hours
+        - Half day
+        - Full day
+      required: false
+    - id: 10
+      name: topics_interest
+      label: Topics of interest
+      hint: Topics you would like covered
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: willingness_to_share_work
+      label: Willingness to share work for feedback
+      hint: Can instructors use your work for class critique
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback to improve the class
+      type: text
+      options: []
+      required: false

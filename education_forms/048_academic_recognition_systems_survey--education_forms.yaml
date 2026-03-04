@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Systems Survey
+    pages:
+    - id: 1
+      name: respondent_profile
+      label: -- Respondent Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Institutional role
+      hint: Choose the option that best describes you
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Administrator
+        - Other
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: Faculty department or administrative unit
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_recognition_satisfaction
+      label: Satisfaction with current recognition practices
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 5
+      name: types_of_recognition_valued
+      label: Types of recognition most valued
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Public awards
+        - Teaching awards
+        - Research grants
+        - Career advancement
+        - Certificates
+      required: false
+    - id: 6
+      name: barriers_to_recognition
+      label: Main barriers to fair recognition
+      hint: Briefly describe perceived barriers
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_suggestions
+      label: Suggestions to improve recognition systems
+      hint: Provide specific recommendations if possible
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willingness_to_participate
+      label: Willingness to participate in reform efforts
+      hint: Indicate if you would join working groups
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 9
+      name: contact_for_followup
+      label: Contact me for follow up
+      hint: Leave an email if you agree to be contacted
+      type: email
+      options: []
+      required: false

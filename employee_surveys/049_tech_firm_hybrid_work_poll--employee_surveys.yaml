@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_firm_hybrid_work_poll
+    pages:
+    - id: 1
+      name: company_location
+      label: Company Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hybrid_status
+      label: Hybrid Status
+      hint: null
+      type: select_one
+      options:
+      - Hybrid
+      - Remote
+      - In-office
+      required: false
+    - id: 3
+      name: work_from_home_frequency
+      label: How often do you work from home?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Occasionally
+      - 1-2 times a week
+      - 3-4 times a week
+      - Every day
+      required: true
+    - id: 4
+      name: preferred_hybrid_model
+      label: Preferred Hybrid Model
+      hint: null
+      type: select_one
+      options:
+      - Flexible Schedule
+      - Fixed Schedule
+      - No Preference
+      required: false
+    - id: 5
+      name: work_life_balance
+      label: What affects your work-life balance
+      hint: null
+      type: select_multiple
+      options:
+      - Work-life balance
+      - Work
+      - Life
+      required: false
+    - id: 6
+      name: work_location
+      label: Where do you do most of your work?
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Home
+      - Coffee shop/Library
+      - Park/Bike path
+      - Other
+      required: true
+    - id: 7
+      name: impact_of_hybrid
+      label: How does hybrid work impact you?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 8
+      name: feedback
+      label: Any additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_lead_title
+      label: Team Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_lead_department
+      label: Team Lead Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_lead_job_title
+      label: Team Lead Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_size
+      label: Team Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_size_range
+      label: Team size range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_division
+      label: Team Division
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_division_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

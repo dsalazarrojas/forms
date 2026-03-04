@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_notification_form_template
+    pages:
+    - id: 1
+      name: emergency_notification_form_template_page
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_form_template
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_form_template
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_email
+      label: contact_email
+      hint: Enter the contact person's email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: contact_phone
+      hint: Enter the contact person's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_location
+      label: contact_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_notification_status
+      label: notification_status
+      hint: Select the notification status
+      type: select_one
+      options:
+      - Emergency
+      - Non-emergency
+      - Cancelled
+      required: false
+    - id: 8
+      name: emergency_notification_message
+      label: notification_message
+      hint: Enter a message
+      type: text
+      options: []
+      required: false

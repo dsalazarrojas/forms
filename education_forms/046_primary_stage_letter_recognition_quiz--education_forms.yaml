@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Primary Stage Letter Recognition Quiz
+    pages:
+    - id: 1
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quiz_start_time
+      label: quiz start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: quiz_end_time
+      label: quiz end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: letters
+      label: letters
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+      - H
+      - I
+      - J
+      - K
+      - L
+      - M
+      - N
+      - O
+      - P
+      - Q
+      - R
+      - S
+      - T
+      - U
+      - V
+      - W
+      - X
+      - Y
+      - Z
+      required: false
+    - id: 7
+      name: letter
+      label: letter
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+      - H
+      - I
+      - J
+      - K
+      - L
+      - M
+      - N
+      - O
+      - P
+      - Q
+      - R
+      - S
+      - T
+      - U
+      - V
+      - W
+      - X
+      - Y
+      - Z
+      required: false
+    - id: 8
+      name: letter_position
+      label: letter position
+      hint: null
+      type: select_multiple
+      options:
+      - top
+      - middle
+      - bottom
+      - left
+      - right
+      - center
+      - top-left
+      - top-right
+      - middle-left
+      - middle-right
+      - bottom-left
+      - bottom-right
+      required: false
+    - id: 9
+      name: correct_answer
+      label: correct answer
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: confidence_level
+      label: confidence level
+      hint: null
+      type: select_multiple
+      options:
+      - very confident
+      - somewhat confident
+      - not confident
+      required: false
+    - id: 11
+      name: letter_size
+      label: letter size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 12
+      name: letter_shape
+      label: letter shape
+      hint: null
+      type: select_multiple
+      options:
+      - rounded
+      - sharp
+      - wavy
+      required: false
+    - id: 13
+      name: letter_color
+      label: letter color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 14
+      name: letter_style
+      label: letter style
+      hint: null
+      type: select_multiple
+      options:
+      - uppercase
+      - lowercase
+      - uppercase
+      - mixed case
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: teacher_comment
+      label: teacher comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_comment
+      label: parent comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: teacher_signature
+      label: teacher signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_signature
+      label: parent signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quiz_start_time
+      label: quiz start time
+      hint: null
+      type: time
+      options: []
+      required: false

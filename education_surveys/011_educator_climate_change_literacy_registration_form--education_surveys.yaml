@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educator Climate Change Literacy Registration Form
+    pages:
+    - id: 1
+      name: educator_information
+      label: Educator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_one_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Climate Change Educator'', ''label'': ''Climate
+        Change Educator''}'
+      - '{''id'': 2, ''value'': ''Sustainability Educator'', ''label'': ''Sustainability
+        Educator''}'
+      - '{''id'': 3, ''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: select_multiple_subjects
+      label: Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Biology'', ''label'': ''Biology''}'
+      - '{''id'': 2, ''value'': ''Chemistry'', ''label'': ''Chemistry''}'
+      - '{''id'': 3, ''value'': ''Physics'', ''label'': ''Physics''}'
+      - '{''id'': 4, ''value'': ''Math'', ''label'': ''Math''}'
+      - '{''id'': 5, ''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

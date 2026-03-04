@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Directory Submission
+    pages:
+    - id: 1
+      name: employee_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Manager
+      - Director
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: picture
+      label: Profile Picture
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: director
+      label: Director
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: director_title
+      label: Director Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: director_bio
+      label: Director Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: reporting_director
+      label: Reporting Director
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Company Employee Admission Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tech_company
+      label: Tech Company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Company A''}'
+      - '{''id'': 2, ''label'': ''Company B''}'
+      - '{''id'': 3, ''label'': ''Company C''}'
+      required: false
+    - id: 6
+      name: new_hire_manager
+      label: New Hire Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager A''}'
+      - '{''id'': 2, ''label'': ''Manager B''}'
+      - '{''id'': 3, ''label'': ''Manager C''}'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: new_hire_comments
+      label: New Hire Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tech_company_location
+      label: Tech Company Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''On Leave''}'
+      required: false
+    - id: 24
+      name: job_type_status
+      label: Job Type Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full-time''}'
+      - '{''id'': 2, ''label'': ''Part-time''}'
+      - '{''id'': 3, ''label'': ''Contract''}'
+      required: false
+    - id: 25
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Not Approved''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false

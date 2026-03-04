@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Learning Environment Evaluation Form
+    pages:
+      - id: 1
+        name: intro_header
+        label: -- Classroom Learning Environment Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: observer_name
+        label: Evaluator Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_evaluation
+        label: Date of Evaluation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: classroom_teacher
+        label: Teacher/Instructor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: physical_space_rating
+        label: Physical Space - Layout and Organization
+        hint: How well is the classroom organized for learning?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: accessibility_rating
+        label: Accessibility for all students
+        hint: null
+        type: select_one
+        options:
+          - Fully Accessible
+          - Mostly Accessible
+          - Limited Accessibility
+          - Not Accessible
+        required: true
+      - id: 7
+        name: resource_availability
+        label: Availability and access to learning materials
+        hint: null
+        type: select_one
+        options:
+          - Abundant
+          - Adequate
+          - Minimal
+          - Insufficient
+        required: true
+      - id: 8
+        name: technology_integration
+        label: Integration of technology in the environment
+        hint: null
+        type: select_one
+        options:
+          - Highly Integrated
+          - Moderately Integrated
+          - Rarely Used
+          - Not Available
+        required: true
+      - id: 9
+        name: social_climate_rating
+        label: Social-Emotional Climate
+        hint: Does the classroom feel welcoming and safe?
+        type: select_one
+        options:
+          - Highly Positive
+          - Positive
+          - Neutral
+          - Negative
+        required: true
+      - id: 10
+        name: distraction_level
+        label: Level of external or internal distractions
+        hint: null
+        type: select_one
+        options:
+          - Very Low
+          - Low
+          - Moderate
+          - High
+        required: true
+      - id: 11
+        name: lighting_and_ventilation
+        label: Lighting, temperature, and ventilation
+        hint: null
+        type: select_one
+        options:
+          - Comfortable
+          - Adequate
+          - Needs Improvement
+        required: false
+      - id: 12
+        name: strengths_observed
+        label: Key Strengths of this Learning Environment
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: improvements_needed
+        label: Recommended Improvements
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: follow_up_header
+        label: -- Follow-Up Action --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: discussion_required
+        label: Is a follow-up discussion with the teacher recommended?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: next_review_date
+        label: Suggested Next Review Date
+        hint: null
+        type: date
+        options: []
+        required: false

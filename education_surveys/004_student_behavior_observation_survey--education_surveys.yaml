@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Behavior Observation Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_behaviors
+      label: Student Behaviors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: observed_behaviors
+      label: Observed Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_interactions
+      label: Student Interactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: educator_notes
+      label: Educator Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_observed
+      label: Date Observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_observed
+      label: Time Observed
+      hint: null
+      type: time
+      options: []
+      required: false

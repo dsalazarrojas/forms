@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: zoological_animal_escape_incident_report_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: escape_location
+      label: escape_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: animal_type
+      label: animal_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: enclosure_id
+      label: enclosure_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: escape_type
+      label: escape_type
+      hint: null
+      type: select_one
+      options:
+      - Wild animal escaped from the enclosure
+      - Wild animal injured and escaped from the enclosure
+      - Animal escaped from the enclosure and caused damage to property
+      - Animal escaped from the enclosure and injured staff/person
+      - Other
+      required: false
+    - id: 6
+      name: animal_status
+      label: animal_status
+      hint: null
+      type: select_one
+      options:
+      - Alive
+      - Dead
+      - Injured
+      - Missing
+      - Unknown
+      required: false
+    - id: 7
+      name: zoo_staff_involvement
+      label: zoo_staff_involvement
+      hint: null
+      type: select_one
+      options:
+      - Staff member was not involved
+      - Staff member involved
+      - Supervisor involved
+      - Manager involved
+      - Unknown
+      required: false
+    - id: 8
+      name: escape_time
+      label: escape_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: Any additional comments or details about the incident
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: Phone number of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: Name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: Email of contact person
+      type: email
+      options: []
+      required: false

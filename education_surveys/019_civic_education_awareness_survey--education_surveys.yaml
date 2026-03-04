@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Education Awareness Survey
+    pages:
+    - id: 1
+      name: respondent_age_group
+      label: Respondent age group
+      hint: Choose age bracket
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 44
+      - 45 to 64
+      - 65 and over
+      required: true
+    - id: 2
+      name: education_level
+      label: Highest education level
+      hint: Select level
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelor's degree
+      - Graduate degree
+      - Other
+      required: true
+    - id: 3
+      name: civic_knowledge_score
+      label: Self assessed civic knowledge
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: participation_history
+      label: History of civic participation
+      hint: Voting volunteering attending meetings
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interest_in_civic_education
+      label: Interest in civic education opportunities
+      hint: Select interest level
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 6
+      name: preferred_learning_methods
+      label: Preferred learning methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Workshops
+      - Online courses
+      - Printed materials
+      - Community events
+      required: false
+    - id: 7
+      name: barriers_to_participation
+      label: Barriers to participation
+      hint: Time cost transportation childcare
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations to improve civic education
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_for_follow_up
+      label: Contact for follow up
+      hint: Optional email or phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

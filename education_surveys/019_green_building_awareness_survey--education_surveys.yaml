@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Building Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: green_building_knowledge
+      label: Green Building Knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 4
+      name: attitudes_toward_sustainability
+      label: Attitudes Toward Sustainability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 5
+      name: experiences_with_green_buildings
+      label: Experiences with Green Buildings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sustainability_programs
+      label: Sustainability Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''None''}'
+      required: true
+    - id: 7
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

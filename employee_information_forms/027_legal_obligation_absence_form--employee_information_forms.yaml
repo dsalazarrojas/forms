@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Obligation Absence Form
+    pages:
+    - id: 1
+      name: legal_obligation_absence_form
+      label: Legal Obligation Absence Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: hours_absence
+      label: Hours Absence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_basis
+      label: Legal Basis
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Family Obligation
+      - Court Obligation
+      - Other
+      required: true
+    - id: 9
+      name: legal_document
+      label: Legal Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      required: true
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - HR
+      required: true
+    - id: 14
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 16
+      name: reason_denial
+      label: Reason for Denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comment_manager
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comment_hr
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_employee
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments_manager
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments_hr
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Submitted
+      - Approved
+      - Rejected
+      required: true
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      required: true
+    - id: 25
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: true

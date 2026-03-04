@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Associate Application Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title_id
+      label: Job Title ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''On Leave''}'
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Sales''}'
+      - '{''id'': 3, ''name'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Time Management''}'
+      - '{''id'': 5, ''name'': ''Teamwork''}'
+      required: false
+    - id: 10
+      name: previous_companies
+      label: Previous Companies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: available_shifts
+      label: Available Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Morning''}'
+      - '{''id'': 2, ''name'': ''Afternoon''}'
+      - '{''id'': 3, ''name'': ''Evening''}'
+      required: false
+    - id: 12
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': "Bachelor''s Degree"}'
+      - '{''id'': 2, ''name'': "Master''s Degree"}'
+      - '{''id'': 3, ''name'': ''Doctoral Degree''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 18
+      name: available_days_off_weekly
+      label: Available Days Off Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: available_days_off_monthly
+      label: Available Days Off Per Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Flexible''}'
+      - '{''id'': 2, ''name'': ''Fixed''}'
+      required: false
+    - id: 22
+      name: available_languages
+      label: Available Languages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''English''}'
+      - '{''id'': 2, ''name'': ''Spanish''}'
+      - '{''id'': 3, ''name'': ''French''}'
+      - '{''id'': 4, ''name'': ''German''}'
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

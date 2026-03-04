@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: long_service_award_recipient_survey
+    pages:
+    - id: 1
+      name: award_issuer
+      label: Award Issuer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: award_length
+      label: Award Length
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recognition_date
+      label: Recognition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: milestone_celebration_type
+      label: Milestone Celebration Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 9
+      name: recognition_type
+      label: Recognition Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: milestone_celebration_frequency
+      label: Milestone Celebration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: milestone_celebration_budget
+      label: Milestone Celebration Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employee_satisfaction_level
+      label: Employee Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 15
+      name: award_frequency
+      label: Award Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: milestone_celebration_budget_amount
+      label: Milestone Celebration Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: milestone_celebration_frequency_other
+      label: Milestone Celebration Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: milestone_celebration_budget_other
+      label: Milestone Celebration Budget Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: award_issuer_satisfaction
+      label: Award Issuer Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 20
+      name: award_issuer_satisfaction_other
+      label: Award Issuer Satisfaction Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: milestone_celebration_frequency_employees
+      label: Milestone Celebration Frequency Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: milestone_celebration_frequency_employees_other
+      label: Milestone Celebration Frequency Employees Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: milestone_celebration_budget_employees
+      label: Milestone Celebration Budget Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: milestone_celebration_budget_employees_other
+      label: Milestone Celebration Budget Employees Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: milestone_celebration_frequency_employees_other
+      label: Milestone Celebration Frequency Employees Other
+      hint: null
+      type: text
+      options: []
+      required: false

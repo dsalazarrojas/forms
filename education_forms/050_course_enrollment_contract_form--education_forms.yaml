@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: course_enrollment_contract_form
+    pages:
+    - id: 1
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: course_details
+      label: Course Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contract_acceptance
+      label: Contract Acceptance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: instructor_signature
+      label: Instructor Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_parameters_survey
+    pages:
+    - id: 1
+      name: school_id
+      label: School Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: How would you rate your experience with our school?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: question_2
+      label: What could we improve in our programs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_3
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

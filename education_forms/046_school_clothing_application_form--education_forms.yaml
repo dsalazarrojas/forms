@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Clothing Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parents_details
+      label: Parent or Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: parent_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Parent'', ''label'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''Guardian'', ''label'': ''Guardian''}'
+      required: true
+    - id: 10
+      name: student_school_attended
+      label: Student's School Attended
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Public School'', ''label'': ''Public School''}'
+      - '{''id'': 2, ''name'': ''Private School'', ''label'': ''Private School''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: student_education_level
+      label: Level of Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Primary 1-5'', ''label'': ''Primary 1-5''}'
+      - '{''id'': 2, ''name'': ''High School'', ''label'': ''High School''}'
+      - '{''id'': 3, ''name'': ''College'', ''label'': ''College''}'
+      required: true
+    - id: 12
+      name: student_grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Grade 1'', ''label'': ''Grade 1''}'
+      - '{''id'': 2, ''name'': ''Grade 2'', ''label'': ''Grade 2''}'
+      - '{''id'': 3, ''name'': ''Grade 3'', ''label'': ''Grade 3''}'
+      - '{''id'': 4, ''name'': ''Grade 4'', ''label'': ''Grade 4''}'
+      - '{''id'': 5, ''name'': ''Grade 5'', ''label'': ''Grade 5''}'
+      - '{''id'': 6, ''name'': ''Grade 6'', ''label'': ''Grade 6''}'
+      - '{''id'': 7, ''name'': ''Grade 7'', ''label'': ''Grade 7''}'
+      - '{''id'': 8, ''name'': ''Grade 8'', ''label'': ''Grade 8''}'
+      - '{''id'': 9, ''name'': ''Grade 9'', ''label'': ''Grade 9''}'
+      - '{''id'': 10, ''name'': ''Grade 10'', ''label'': ''Grade 10''}'
+      required: true
+    - id: 13
+      name: student_contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_contact_number
+      label: Parent or Guardian Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: total_allowance
+      label: Total Allowance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: amount_requested
+      label: Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

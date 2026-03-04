@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace-wellness-feedback-form
+    pages:
+    - id: 1
+      name: employee_survey_section
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_services
+      label: Feedback on Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: schedule_a_call
+      label: Schedule a Call
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

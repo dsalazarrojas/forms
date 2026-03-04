@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Form
+    pages:
+    - id: 1
+      name: employment_form_employee_details
+      label: employment_form_employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_form_workplace_location
+      label: employment_form_workplace_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_form_work_date
+      label: employment_form_work_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employment_form_work_time
+      label: employment_form_work_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: employment_form_job_title
+      label: employment_form_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_form_employer
+      label: employment_form_employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_form_employment_type
+      label: employment_form_employment_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Intern
+      required: false
+    - id: 8
+      name: employment_form_employment_start_date
+      label: employment_form_employment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employment_form_employment_end_date
+      label: employment_form_employment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: employment_form_employment_duration
+      label: employment_form_employment_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employment_form_employment_status
+      label: employment_form_employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      - Unknown
+      required: false
+    - id: 12
+      name: employment_form_employer_address
+      label: employment_form_employer_address
+      hint: null
+      type: text
+      options: []
+      required: false

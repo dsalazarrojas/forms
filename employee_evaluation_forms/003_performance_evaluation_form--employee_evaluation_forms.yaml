@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Evaluation Form
+    pages:
+    - id: 1
+      name: employee_rating
+      label: Overall Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: performance_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: strengths
+      label: Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: areas_for_improvement
+      label: Areas For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: target_date
+      label: Target Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reviewer_rating
+      label: Reviewer Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_comment
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_comment
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_level_type
+      label: Performance Level Type
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: target_performance_level
+      label: Target Performance Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: target_performance_level_type
+      label: Target Performance Level Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: performance_evaluation_form_status
+      label: Performance Evaluation Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: draft
+      label: Draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: completed
+      label: Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancelled
+      label: Cancelled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: performance_level_scale
+      label: Performance Level Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: performance_level_type_scale
+      label: Performance Level Type Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: performance_level_scale_range
+      label: Performance Level Scale Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true

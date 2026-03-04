@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: individual_performance_and_wellbeing_survey
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: What is your overall satisfaction with your job
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 2
+      name: motivation
+      label: How motivated are you at work
+      hint: null
+      type: select_multiple
+      options:
+      - very_motivated
+      - somewhat_motivated
+      - somewhat_ambitious
+      - not_motivated
+      required: true
+    - id: 3
+      name: stress_level
+      label: What is your current stress level
+      hint: null
+      type: select_one
+      options:
+      - very_little_stress
+      - somewhat_little_stress
+      - neutral
+      - somewhat_high_stress
+      - very_high_stress
+      required: true
+    - id: 4
+      name: job_abilities
+      label: What abilities do you feel are your strengths at work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wellbeing
+      label: How would you describe your current wellbeing
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - neutral
+      - poor
+      - very_poorman
+      required: true
+    - id: 6
+      name: work_life_balance
+      label: How satisfied are you with your work life balance
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 7
+      name: career_growth
+      label: Do you feel you are able to grow in your career
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: feedback
+      label: Is there anything you would like to share with your manager or HR
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_feedback
+      label: Is there anything you would like your manager to know about you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: What is your manager's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_email
+      label: What is your manager's email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: manager_phone
+      label: What is your manager's phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Which department do you work in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_title
+      label: What is your current job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_type
+      label: What type of employee are you
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_level
+      label: What level are you at in your job
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_ownership
+      label: Do you own your current role or job
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: true
+    - id: 18
+      name: job_satisfaction
+      label: What is your satisfaction level with your current job
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 19
+      name: team_collaboration
+      label: How satisfied are you with your team
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 20
+      name: communication
+      label: How satisfied are you with communication in your team
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 21
+      name: autonomy
+      label: How much autonomy do you have in your work
+      hint: null
+      type: select_one
+      options:
+      - very_high_autonomy
+      - high_autonomy
+      - moderate_autonomy
+      - low_autonomy
+      - very_low_autonomy
+      required: true
+    - id: 22
+      name: performance
+      label: How satisfied are you with your performance
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 23
+      name: engagement
+      label: How engaged do you feel at work
+      hint: null
+      type: select_one
+      options:
+      - very_engaged
+      - somewhat_engaged
+      - somewhat_disengaged
+      - neutral
+      - very_disengaged
+      required: true
+    - id: 24
+      name: job_description
+      label: Is your job description up-to-date with current needs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: survey_comments
+      label: Is there anything else you would like to comment on
+      hint: null
+      type: text
+      options: []
+      required: false

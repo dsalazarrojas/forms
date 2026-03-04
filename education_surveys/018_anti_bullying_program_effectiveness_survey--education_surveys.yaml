@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bullying Program Effectiveness Survey
+    pages:
+    - id: 1
+      name: section_program_participation
+      label: -- Participation Details --
+      hint: Indicate your involvement with the program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Respondent role
+      hint: Teacher student staff parent or other
+      type: select_one
+      options:
+      - Teacher
+      - Student
+      - Staff
+      - Parent
+      - Volunteer
+      required: true
+    - id: 3
+      name: training_attendance
+      label: Attended training sessions
+      hint: Number of sessions attended
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: perceived_impact
+      label: Perceived impact on incidents
+      hint: Rate change in incident frequency
+      type: select_one
+      options:
+      - Increased
+      - No change
+      - Decreased
+      - Significantly decreased
+      required: true
+    - id: 5
+      name: student_support_effectiveness
+      label: Effectiveness of student support measures
+      hint: Support groups mentoring counseling
+      type: select_one
+      options:
+      - Ineffective
+      - Somewhat effective
+      - Effective
+      - Very effective
+      required: false
+    - id: 6
+      name: school_climate_change
+      label: Change in school climate
+      hint: Overall perception since program start
+      type: select_one
+      options:
+      - More negative
+      - No change
+      - More positive
+      - Much more positive
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for program improvement
+      hint: Practical steps or resources needed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any other observations or facts
+      type: text
+      options: []
+      required: false

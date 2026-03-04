@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Volunteer Program Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is this survey about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_interests_page
+      label: Volunteer Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Community Events
+      - Disaster Response
+      - Fundraising
+      - Volunteer Management
+      required: false
+    - id: 3
+      name: volunteer_preferences_page
+      label: Volunteer Preferences
+      hint: Which volunteer opportunities are you interested in
+      type: select_one
+      options:
+      - Community Events
+      - Disaster Response
+      - Fundraising
+      - Volunteer Management
+      required: false
+    - id: 4
+      name: volunteer_frequency_page
+      label: How often do you volunteer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_commitment_page
+      label: How much time are you able to commit
+      hint: null
+      type: number
+      options: []
+      required: false

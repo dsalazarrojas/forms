@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Relationship Feedback Form
+    pages:
+    - id: 1
+      name: employee_performance_form
+      label: Employee Performance Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_manager
+      label: Relationship Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback_score_1_5
+      label: Feedback Score 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_score_6_10
+      label: Feedback Score 6-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_score_11_15
+      label: Feedback Score 11-15
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback_score_16_20
+      label: Feedback Score 16-20
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback_score_21_25
+      label: Feedback Score 21-25
+      hint: null
+      type: number
+      options: []
+      required: false

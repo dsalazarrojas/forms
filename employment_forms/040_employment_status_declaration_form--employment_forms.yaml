@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_status_declaration_form
+    pages:
+    - id: 1
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self Employed
+      - Retired
+      - Student
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Analyst
+      - Engineer
+      - Designer
+      - Sales
+      required: false
+    - id: 4
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Mid-level
+      - Senior
+      required: false
+    - id: 7
+      name: job_category
+      label: job_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_multiple
+      options:
+      - Software Development
+      - Product Management
+      - Marketing
+      - Finance
+      - Sales
+      required: false
+    - id: 9
+      name: job_responsibilities
+      label: job_responsibilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Publicly held
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_end_date
+      label: job_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Left the company
+      required: false

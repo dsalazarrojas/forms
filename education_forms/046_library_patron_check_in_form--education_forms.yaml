@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Patron Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_visited
+      label: Time Visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: purpose_visited
+      label: Purpose Visited
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: visit_length
+      label: Visit Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - Study
+      - Research
+      - Other
+      required: false
+    - id: 13
+      name: library_branch
+      label: Library Branch
+      hint: null
+      type: select_multiple
+      options:
+      - Branch 1
+      - Branch 2
+      - Branch 3
+      required: false
+    - id: 14
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Regular
+      - Other
+      required: false
+    - id: 15
+      name: staff_contact
+      label: Staff Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: library_staff_member
+      label: Library Staff Member
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Group
+      required: false
+    - id: 24
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

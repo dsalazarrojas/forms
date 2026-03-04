@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 21 Day Weekly Check In
+    pages:
+    - id: 1
+      name: section_header_overview
+      label: "--- Participant & Check-in Overview ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: Enter your full legal or preferred name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: We will send weekly summaries to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: week_number
+      label: Which weekly check-in is this?
+      hint: Select the week of the 21-day program
+      type: select_one
+      options:
+        - Week 1
+        - Week 2
+        - Week 3
+      required: true
+    - id: 5
+      name: checkin_date
+      label: Date of check-in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: overall_mood_rating
+      label: Overall mood / energy level (1-10)
+      hint: 10 = best possible
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: goals_progress
+      label: Progress toward personal goals this week
+      hint: Select the option that best describes progress
+      type: select_one
+      options:
+        - On track
+        - Some progress
+        - Little progress
+        - No progress
+      required: true
+    - id: 8
+      name: notable_purchases
+      label: Any program-related purchases made this week
+      hint: Leave blank if none
+      type: select_one
+      options:
+        - None
+        - Program supplements
+        - Course materials
+        - Coaching session
+        - Other
+      required: false
+    - id: 9
+      name: barriers_encountered
+      label: Main barriers or challenges encountered
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+        - Time constraints
+        - Motivation dips
+        - Physical fatigue
+        - Technical issues (app/site)
+        - Cost
+        - No barriers
+      required: false
+    - id: 10
+      name: actions_for_next_week
+      label: Planned actions for next week
+      hint: Short bullet-style actions are fine
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments or feedback
+      hint: Optional — anything else to share
+      type: text
+      options: []
+      required: false

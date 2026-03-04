@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: image_url
+      label: Profile Picture
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''No Image'', ''value'': ''no_image''}'
+      - '{''id'': 2, ''label'': ''Image'', ''value'': ''image''}'
+      required: true
+    - id: 11
+      name: image_url_value
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: speaker_url
+      label: Speaker URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''label'': ''None'', ''value'': ''none''}'
+      - '{''id'': 16, ''label'': ''Facebook'', ''value'': ''facebook''}'
+      - '{''id'': 17, ''label'': ''Twitter'', ''value'': ''twitter''}'
+      - '{''id'': 18, ''label'': ''LinkedIn'', ''value'': ''linkedin''}'
+      - '{''id'': 19, ''label'': ''Instagram'', ''value'': ''instagram''}'
+      - '{''id'': 20, ''label'': ''YouTube'', ''value'': ''youtube''}'
+      required: false
+    - id: 15
+      name: social_media_value
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bio_value
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event
+      label: Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: speaker_type
+      label: Speaker Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''label'': ''Keynote'', ''value'': ''keynote''}'
+      - '{''id'': 22, ''label'': ''Panel'', ''value'': ''panel''}'
+      - '{''id'': 23, ''label'': ''Workshop'', ''value'': ''workshop''}'
+      - '{''id'': 24, ''label'': ''Breakout'', ''value'': ''breakout''}'
+      required: true
+    - id: 21
+      name: speaker_type_value
+      label: Speaker Type
+      hint: null
+      type: text
+      options: []
+      required: true

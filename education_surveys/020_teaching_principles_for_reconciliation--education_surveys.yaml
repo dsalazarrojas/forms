@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Principles For Reconciliation
+    pages:
+    - id: 1
+      name: education_survey_form
+      label: Education Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching_approaches
+      label: Teaching Approaches
+      hint: null
+      type: select_multiple
+      options:
+      - Reconciliation through dialogue
+      - Reconciliation through shared decision-making
+      - Reconciliation through shared reflection
+      - Reconciliation through shared planning
+      - Reconciliation through other
+      required: false
+    - id: 3
+      name: educator_role
+      label: Educator Role
+      hint: What type of educator do you consider yourself?
+      type: select_one
+      options:
+      - Teacher
+      - Trainer/ Coach
+      - Consultant
+      - Administrator
+      required: true
+    - id: 4
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reconciliation_reflection
+      label: Reconciliation Reflection
+      hint: Please provide a detailed reflection on the reconciliation practices that
+        work well for you?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ratings
+      label: Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: other_reconciliation_practices
+      label: Other Reconciliation Practices
+      hint: Please list other reconciliation practices that work well for you.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 1-3
+      - 1-4
+      - 2-6
+      - 7-10
+      required: true
+    - id: 9
+      name: ratings_comments
+      label: Ratings Comments
+      hint: Please provide comments for your ratings.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: school_programs
+      label: School Programs
+      hint: null
+      type: select_multiple
+      options:
+      - School 1
+      - School 2
+      - School 3
+      - School 4
+      - School 5
+      required: true
+    - id: 11
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      - Program 4
+      - Program 5
+      required: true
+    - id: 12
+      name: other_school_programs
+      label: Other School Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_training_programs
+      label: Other Training Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

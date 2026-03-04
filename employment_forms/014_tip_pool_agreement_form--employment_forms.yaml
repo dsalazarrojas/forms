@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: tip_pool_agreement_form
+    pages:
+    - id: 1
+      name: employee_consent
+      label: Employee Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tip_sharing_policies
+      label: Tip Sharing Policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: distribution_methods
+      label: Distribution Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signed_agreement
+      label: Signed Agreement
+      hint: Please attach a signed copy of the tip pool agreement to this form.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement_copy
+      label: Agreement Copy
+      hint: Please provide the name of the document to be attached.
+      type: text
+      options: []
+      required: false

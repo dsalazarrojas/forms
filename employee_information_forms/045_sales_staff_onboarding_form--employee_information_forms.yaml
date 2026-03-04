@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Staff Onboarding Form
+    pages:
+    - id: 1
+      name: new_employees
+      label: New Employees
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Team
+      - New Hire
+      - Sales Representative
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: sales_rep_name
+      label: Sales Rep Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_rep_title
+      label: Sales Rep Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_rep_manager
+      label: Sales Rep Manager
+      hint: null
+      type: select_one
+      options:
+      - Sales Manager
+      - Sales Director
+      - CEO
+      required: false
+    - id: 6
+      name: sales_rep_phone
+      label: Sales Rep Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_rep_cell
+      label: Sales Rep Cell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_rep_ext_email
+      label: Sales Rep Ext Email
+      hint: null
+      type: email
+      options: []
+      required: false

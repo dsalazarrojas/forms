@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business School Advisory Committee Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: committee_role
+      label: Your Role on the Advisory Committee
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Chair
+      - Vice Chair
+      - Member
+      - Corporate Representative
+      - Alumni Representative
+      - Faculty Liaison
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization or Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenure_years
+      label: How long have you been on this committee?
+      hint: In years
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_familiarity
+      label: How familiar are you with our business programs?
+      hint: null
+      type: select_one
+      options:
+      - Very Familiar
+      - Familiar
+      - Somewhat Familiar
+      - Not Very Familiar
+      - Not at all Familiar
+      required: true
+    - id: 6
+      name: curriculum_relevance
+      label: How relevant is our curriculum to current industry needs?
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Neutral
+      - Needs Improvement
+      - Outdated
+      required: true
+    - id: 7
+      name: student_readiness
+      label: How well-prepared are our graduates for industry roles?
+      hint: null
+      type: select_one
+      options:
+      - Exceptionally prepared
+      - Well prepared
+      - Adequately prepared
+      - Somewhat unprepared
+      - Not prepared
+      required: true
+    - id: 8
+      name: curriculum_gaps
+      label: What are the main curriculum gaps?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology and digital skills
+      - Leadership skills
+      - Communication skills
+      - Data analytics
+      - Entrepreneurship
+      - Sustainability and ethics
+      - Global business perspective
+      - No significant gaps
+      required: true
+    - id: 9
+      name: skill_priorities
+      label: What skills should be prioritized in our programs?
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Critical thinking
+      - Problem solving
+      - Teamwork and collaboration
+      - Project management
+      - Financial analysis
+      - Strategic planning
+      - Digital literacy
+      - Communication
+      required: true
+    - id: 10
+      name: industry_partnerships
+      label: Should we increase industry partnerships and internships?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 11
+      name: teaching_quality
+      label: How would you rate the quality of instruction?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 12
+      name: faculty_feedback
+      label: What feedback do you have for faculty development?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: graduate_outcomes
+      label: How satisfied are you with graduate employment outcomes?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 14
+      name: program_strengths
+      label: What are our program strengths?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvement_areas
+      label: What areas need improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: committee_effectiveness
+      label: How effective is this advisory committee?
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Not effective
+      required: true
+    - id: 17
+      name: recommendation_for_school
+      label: What is your top recommendation for the school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: continued_involvement
+      label: Will you continue involvement with the committee?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Unsure
+      - Probably no
+      - false
+      required: true

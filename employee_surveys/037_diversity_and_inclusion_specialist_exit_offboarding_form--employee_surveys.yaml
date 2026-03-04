@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Inclusion Specialist Exit Offboarding Form
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Employee Demographics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2.1, ''name'': ''Select One Option''}'
+      - '{''id'': 2.2, ''name'': ''Select Another Option''}'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date_of_last_review
+      label: Date of Last Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_last_review
+      label: Time of Last Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: exit_reason
+      label: Exit Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6.1, ''name'': ''Select One Option''}'
+      - '{''id'': 6.2, ''name'': ''Select Another Option''}'
+      required: false
+    - id: 7
+      name: diversity_questions
+      label: Diversity Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: exit_questions
+      label: Exit Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

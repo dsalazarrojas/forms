@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Little Acres Learning Academy Emergency Form
+    pages:
+    - id: 1
+      name: emergency_form
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      required: false
+    - id: 4
+      name: home_phone
+      label: Home Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Grandparent
+      - Other
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Person Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Grandparent
+      - Other
+      required: true
+    - id: 16
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_dob
+      label: Student Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: student_grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Preschool/Pre-K
+      - Pre-K
+      - K-1
+      - K-2
+      - K-3
+      - K-4
+      - K-5
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      - Other
+      required: false
+    - id: 19
+      name: student_school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: student_gender
+      label: Student Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 21
+      name: student_ethnicity
+      label: Student Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - African American
+      - American Indian/Alaska Native
+      - Asian
+      - Caucasian
+      - Hispanic or Latino
+      - Native American
+      - Other
+      required: false
+    - id: 22
+      name: student_disability
+      label: Student Disability
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Physical Disability
+      - Learning Disability
+      - Other
+      required: false
+    - id: 23
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Conflict Mediation Program Application Form
+    pages:
+    - id: 1
+      name: conflict_details
+      label: Conflict Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employeeName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_name
+      label: managerName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conflict_start_date
+      label: conflictStart
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: conflict_end_date
+      label: conflictEnd
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mediation_outcome
+      label: mediationOutcome
+      hint: null
+      type: select_one
+      options:
+      - Conflict Resolved
+      - Conflict Ongoing
+      - Other
+      - Not Applicable
+      required: true
+    - id: 7
+      name: conflict_description
+      label: conflictDescription
+      hint: Briefly describe the conflict
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_consent
+      label: managerConsent
+      hint: Do you consent to participate in a conflict mediation session?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: employee_consent
+      label: employeeConsent
+      hint: Do you consent to participate in a conflict mediation session?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

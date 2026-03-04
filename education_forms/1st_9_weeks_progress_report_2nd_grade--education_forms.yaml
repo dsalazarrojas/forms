@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1St 9 Weeks Progress Report   2Nd Grade
+    pages:
+    - id: 1
+      name: section_header_student_info
+      label: '--- Student Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the student's first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_report
+      label: Date of report
+      hint: Select the date this progress report was completed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade / Year level
+      hint: e.g., 2nd Grade
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School or institution name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher name
+      hint: Include homeroom or subject teacher
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: attendance_days_present
+      label: Days present this term
+      hint: Whole number of days present during the 1st 9 weeks
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: average_daily_absences
+      label: Average weekly absences
+      hint: Typical absences per week (0 if none)
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: subject_area
+      label: Subject area
+      hint: Select the primary subject this report focuses on
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - Language Arts
+      - Social Studies
+      - Arts
+      - Physical Education
+      - Technology
+      - Other
+      required: true
+    - id: 11
+      name: overall_average
+      label: Overall average (%)
+      hint: Enter numeric percentage (0-100), decimals allowed
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: progress_trend
+      label: Progress trend over the term
+      hint: Choose the best description of progress
+      type: select_one
+      options:
+      - Improving
+      - Stable
+      - Declining
+      - Inconsistent
+      required: true
+    - id: 13
+      name: behavior_rating
+      label: Behavior and classroom conduct
+      hint: Consider attention, cooperation, and respect
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 14
+      name: strengths
+      label: Key strengths observed (select all that apply)
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Reading fluency
+      - Math problem solving
+      - Classroom participation
+      - Social skills
+      - Creativity
+      - Independence
+      required: false
+    - id: 15
+      name: areas_for_improvement
+      label: Areas for improvement (select all that apply)
+      hint: Identify up to the main areas to address
+      type: select_multiple
+      options:
+      - Time management
+      - Attention and focus
+      - Reading comprehension
+      - Math foundations
+      - Homework completion
+      - Social interaction
+      required: false
+    - id: 16
+      name: interventions_provided
+      label: Interventions or supports provided this term
+      hint: Describe supports, accommodations, or programs used
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parent_contacted
+      label: Parent / guardian contact method
+      hint: Select how family was contacted about progress
+      type: select_one
+      options:
+      - Parent meeting
+      - Phone call
+      - Email
+      - Not contacted
+      required: true
+    - id: 18
+      name: parent_response
+      label: Parent / guardian response
+      hint: Summarize feedback or concerns from family (if any)
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_comments
+      label: Teacher comments and summary
+      hint: Provide a concise narrative of performance and classroom behavior
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_action_plan
+      label: '--- Action Plan & Next Steps ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recommended_actions
+      label: Recommended actions or supports
+      hint: List targeted strategies, resources, or referrals
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Suggested follow-up date
+      hint: Optional date to review progress after interventions
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: teacher_signature
+      label: Teacher signature (typed name)
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Open field for any extra observations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Lab Participation Survey
+    pages:
+      - id: 1
+        name: section_usage
+        label: -- Lab Usage --
+        hint: Gather feedback on lab resources and services
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Respondent role
+        hint: Student, Staff, Faculty, or Visitor
+        type: select_one
+        options: [Student, Staff, Faculty, Visitor]
+        required: true
+      - id: 3
+        name: frequency_of_use
+        label: Frequency of use
+        hint: How often you use the lab
+        type: select_one
+        options: [Daily, Weekly, Monthly, Rarely]
+        required: true
+      - id: 4
+        name: satisfaction_with_equipment
+        label: Satisfaction with equipment
+        hint: Rate lab hardware and software
+        type: select_one
+        options: [Very satisfied, Satisfied, Neutral, Dissatisfied]
+        required: true
+      - id: 5
+        name: support_availability
+        label: Support availability
+        hint: Are lab staff available when needed
+        type: select_one
+        options: [Always, Often, Occasionally, Never]
+        required: true
+      - id: 6
+        name: ease_of_access
+        label: Ease of access
+        hint: How easy is it to book or access the lab
+        type: select_one
+        options: [Very easy, Easy, Moderate, Difficult]
+        required: true
+      - id: 7
+        name: improvements_suggested
+        label: Improvements suggested
+        hint: Ideas to improve the lab experience
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Other feedback for lab management
+        type: text
+        options: []
+        required: false

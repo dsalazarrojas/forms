@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collective Bargaining Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department or Unit
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_of_service
+      label: Years of Service
+      hint: How long have you worked here
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: union_member
+      label: Are you a union member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: agreement_awareness
+      label: Are you familiar with your collective bargaining agreement
+      hint: null
+      type: select_one
+      options:
+      - Very Familiar
+      - Somewhat Familiar
+      - Not Very Familiar
+      - Not at All Familiar
+      required: true
+    - id: 8
+      name: wage_satisfaction
+      label: Overall satisfaction with current wage
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: benefit_satisfaction
+      label: Satisfaction with health insurance benefits
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 10
+      name: retirement_satisfaction
+      label: Satisfaction with retirement benefits - pension
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: work_schedule_satisfaction
+      label: How satisfied are you with work schedule and hours
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 12
+      name: job_security
+      label: How satisfied are you with job security under current agreement
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 13
+      name: grievance_process
+      label: Satisfaction with grievance procedure
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 14
+      name: fair_treatment
+      label: Belief that agreement is fairly administered
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 15
+      name: priority_improvements
+      label: Top priorities for next agreement
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Wage Increases
+      - Better Health Insurance
+      - Improved Pension
+      - Job Security Protections
+      - Safer Working Conditions
+      - More Paid Time Off
+      - Training and Development
+      required: true
+    - id: 16
+      name: work_conditions
+      label: How would you rate working conditions
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 17
+      name: management_relations
+      label: How would you describe management-employee relations
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 18
+      name: union_communication
+      label: How well does union communicate with members
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Well
+      - Adequately
+      - Poorly
+      - Very Poorly
+      required: true
+    - id: 19
+      name: concerns_suggestions
+      label: Concerns or Suggestions for Future Negotiations
+      hint: What would you like addressed in next contract
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: willingness_to_advocate
+      label: Would you be willing to participate in negotiations or advocacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true

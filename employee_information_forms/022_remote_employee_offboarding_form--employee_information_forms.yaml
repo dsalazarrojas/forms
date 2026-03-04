@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Employee Offboarding Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: company_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: departure_info
+      label: departure_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 10
+      name: reason_for_departure
+      label: reason_for_departure
+      hint: null
+      type: select_multiple
+      options:
+      - poor_performance
+      - job_offer
+      - company_change
+      - personal
+      - other
+      required: false
+    - id: 11
+      name: last_day_of_work
+      label: last_day_of_work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_change
+      label: company_change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: job_change
+      label: job_change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: termination
+      label: termination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: termination_time
+      label: termination_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_returning
+      label: reason_for_returning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: return_time
+      label: return_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: other_return_info
+      label: other_return_info
+      hint: null
+      type: text
+      options: []
+      required: false

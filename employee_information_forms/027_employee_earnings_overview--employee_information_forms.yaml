@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Earnings Overview
+    pages:
+    - id: 1
+      name: employee_earnings_overview
+      label: employee_earnings_overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Employee Information Forms''}'
+      - '{''id'': 2, ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''value'': ''other''}'
+      - '{''id'': 3, ''value'': None}'
+      required: false
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''027_employee_earnings_overview--employee_information_forms''}'
+      - '{''id'': 2, ''value'': ''other''}'
+      - '{''id'': 3, ''value'': None}'
+      required: false
+    - id: 7
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''027_employee_earnings_overview--employee_information_forms''}'
+      - '{''id'': 2, ''value'': ''other''}'
+      - '{''id'': 3, ''value'': None}'
+      required: false

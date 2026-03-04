@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdstrike Outage Report Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: affected_services
+      label: Affected Services
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2''}'
+      - '{''id'': 3, ''label'': ''Service 3''}'
+      required: false
+    - id: 3
+      name: outage_start_time
+      label: Outage Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: outage_end_time
+      label: Outage End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

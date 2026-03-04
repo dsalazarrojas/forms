@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_engagement_tool_requisition_form
+    pages:
+    - id: 1
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tool_description
+      label: tool_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tool_status
+      label: tool_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

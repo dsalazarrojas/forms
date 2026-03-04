@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poverty Awareness Education Impact Survey
+    pages:
+    - id: 1
+      name: training_session_details
+      label: Training Session Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Demographics
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: training_attendance
+      label: Training Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: knowledge_gain
+      label: Knowledge Gain
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_quality
+      label: Session Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: behavior_intent
+      label: Behavior Intent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_support
+      label: Follow-up Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: survey_completion_date
+      label: Survey Completion Date
+      hint: null
+      type: time
+      options: []
+      required: false

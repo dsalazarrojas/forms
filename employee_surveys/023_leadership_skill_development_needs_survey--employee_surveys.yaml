@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_skill_development_needs_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: survey_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leadership_skills
+      label: what_are_your_current_leadership_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: development_areas
+      label: what_areas_do_you_want_to_develop
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: development_priorities
+      label: which_areas_are_your_priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: training_preferences
+      label: what_training_or_coaching_would_you_like
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submission_header
+      label: submission_header
+      hint: null
+      type: note
+      options: []
+      required: false

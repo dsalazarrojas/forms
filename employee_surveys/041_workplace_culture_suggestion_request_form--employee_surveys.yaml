@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Culture Suggestion Request Form
+    pages:
+    - id: 1
+      name: employee_survey_form
+      label: Employee Survey Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: suggestion
+      label: Suggestion
+      hint: Provide a detailed description of your suggestion.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: Impact
+      hint: Briefly describe how your suggestion will positively impact the workplace.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: Will you require follow-up or follow-up information on this suggestion?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: Select a priority for this suggestion (High, Medium, Low)
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: Select the category of this suggestion
+      type: select_multiple
+      options:
+      - Workplace Culture
+      - Employee Feedback
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: manager_phone
+      label: Manager Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted
+      label: Submitted
+      hint: When did you submit this form?
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false

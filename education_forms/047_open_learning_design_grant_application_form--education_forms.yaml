@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Learning Design Grant Application Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''value'': ''''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''value'': ''''}'
+      required: false
+    - id: 3
+      name: grant_proposal
+      label: grant_proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: grant_details
+      label: grant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''value'': ''''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''value'': ''''}'
+      required: false
+    - id: 8
+      name: grant_amount
+      label: grant_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

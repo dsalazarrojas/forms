@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewable Energy Solar Engineer Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: project_background
+      label: Project Background
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 7
+      name: work_history
+      label: Work History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      required: true
+    - id: 9
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Degree 1
+      - Degree 2
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      required: false
+    - id: 12
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Peer Collaboration Effectiveness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: group_name
+      label: group-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: teacher-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_size
+      label: group-size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Communication
+      - Limited
+      - No Communication
+      required: false
+    - id: 7
+      name: collaboration
+      label: collaboration
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Neutral
+      - Somewhat
+      - Neither
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 8
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Technical skills
+      - Communication
+      - Interpersonal skills
+      - Other
+      required: false
+    - id: 9
+      name: teacher_support
+      label: teacher-support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Neutral
+      - Somewhat
+      - Neither
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 10
+      name: student_feedback
+      label: student-feedback
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Disagree
+      - Somewhat
+      - Somewhat Agree
+      - Neutral
+      - Strongly Disagree
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: recruitment_plan_approval_form
+    pages:
+    - id: 1
+      name: employment_forms
+      label: employment_forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: plan_name
+      label: plan_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_of_positions
+      label: number_of_positions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recruitment_plan_start_date
+      label: recruitment_plan_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recruitment_plan_end_date
+      label: recruitment_plan_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: recruitment_process
+      label: recruitment_process
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Internal''}'
+      - '{''value'': ''External''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 9
+      name: approval_type
+      label: approval_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Director''}'
+      - '{''value'': ''HR Manager''}'
+      required: false
+    - id: 10
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_uploads
+      label: form_uploads
+      hint: null
+      type: text
+      options: []
+      required: false

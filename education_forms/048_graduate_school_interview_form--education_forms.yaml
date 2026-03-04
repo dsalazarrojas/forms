@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: graduate_school_interview_form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_schedule
+      label: Interview Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: assigned_reviewer
+      label: Assigned Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: candidate_score
+      label: Candidate Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - tool2
+      required: false
+    - id: 9
+      name: other_tools
+      label: Other Tools
+      hint: null
+      type: select_multiple
+      options:
+      - tool1
+      - tool2
+      - tool3
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

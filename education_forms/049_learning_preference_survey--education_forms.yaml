@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Preference Survey
+    pages:
+    - id: 1
+      name: survey_participant_info
+      label: Survey Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dominant_learning_style
+      label: dominant_learning_style
+      hint: null
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Kinesthetic
+      - Tactile
+      - Vocal
+      required: false
+    - id: 3
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 18-20 years
+      - 21-25 years
+      - 26-30 years
+      - 31-35 years
+      - 36-40 years
+      - 41-45 years
+      - 46-50 years
+      - 51-55 years
+      - 56-60 years
+      - 61-65 years
+      - 66-70 years
+      required: false
+    - id: 4
+      name: educational_history
+      label: educational_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: learning_environment
+      label: Learning Environment
+      hint: null
+      type: select_one
+      options:
+      - Classroom
+      - Lab
+      - Library
+      - Online
+      - Other
+      required: false
+    - id: 6
+      name: learning_frequency
+      label: Learning Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: time_allocation
+      label: Time Allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_education_medium
+      label: Preferred Education Medium
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Image
+      - Text
+      - Audios
+      - PPT
+      required: false
+    - id: 9
+      name: preferred_education_method
+      label: Preferred Education Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online Lecture
+      - Offline Lecture
+      - Group Discussion
+      - Self Study
+      - Project Work
+      required: false
+    - id: 10
+      name: preferred_education_platform
+      label: Preferred Education Platform
+      hint: null
+      type: select_multiple
+      options:
+      - YouTube
+      - Udemy
+      - Coursera
+      - edX
+      - Other
+      required: false

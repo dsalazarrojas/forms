@@ -1,0 +1,148 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Flexible Thinking Survey
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Survey Introduction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Name
+        hint: Participant for assessment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: survey_date
+        label: Date of Survey
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_adaptability
+        label: -- Adaptability Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: routine_change_reaction
+        label: Reaction to Change in Routine
+        hint: How does the child handle unexpected changes?
+        type: select_one
+        options:
+          - label: Adapts easily and stays calm
+            value: easy
+          - label: Somewhat struggles but recovers
+            value: moderate
+          - label: Struggles significantly or melts down
+            value: difficult
+        required: true
+      - id: 6
+        name: new_food_willingness
+        label: Ability to Try New Foods
+        hint: Level of food neophobia
+        type: select_one
+        options:
+          - label: Willing to try new things
+            value: willing
+          - label: Needs significant encouragement
+            value: hesitant
+          - label: Refuses to try new foods
+            value: refused
+        required: true
+      - id: 7
+        name: section_problem_solving
+        label: -- Problem Solving Flexibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: game_loss_response
+        label: Response to Losing a Game
+        hint: Level of sportsmanship
+        type: select_one
+        options:
+          - label: Accepts loss calmly
+            value: calm
+          - label: Gets frustrated or angry
+            value: frustrated
+          - label: Refuses to continue playing
+            value: quit
+        required: true
+      - id: 9
+        name: persistence_behavior
+        label: Persistence when Stuck
+        hint: When a task becomes difficult
+        type: select_one
+        options:
+          - label: Tries a new way or strategy
+            value: adaptive
+          - label: Asks for immediate help
+            value: help
+          - label: Gives up quickly
+            value: gives_up
+        required: true
+      - id: 10
+        name: section_social_flex
+        label: -- Social Flexibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: sharing_willingness
+        label: Willingness to Share Toys
+        hint: Cooperation with peers
+        type: select_one
+        options:
+          - label: Always shares willingly
+            value: always
+          - label: Usually shares with prompting
+            value: usually
+          - label: Rarely shares
+            value: rarely
+        required: true
+      - id: 12
+        name: turn_taking
+        label: Can child take turns without distress?
+        hint: Patience in group settings
+        type: select_one
+        options:
+          - label: Yes - Shows patience
+            value: yes
+          - label: No - Struggles with waiting
+            value: no
+        required: true
+      - id: 13
+        name: additional_observations
+        label: Additional observations on child flexibility
+        hint: Specific examples are helpful
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: result_email
+        label: Parent or Teacher Email for Results
+        hint: For delivery of survey analysis
+        type: email
+        options: []
+        required: true

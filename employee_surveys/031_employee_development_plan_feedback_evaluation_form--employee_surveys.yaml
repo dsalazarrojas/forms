@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Development Plan Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: employee_development_plan
+      label: Employee Development Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performance
+      label: Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_development_plan_goals
+      label: Employee Development Plan Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: employee_development_plan_status
+      label: Employee Development Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false

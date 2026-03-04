@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Training Feedback Employment Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: employer_details
+      label: Employer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_outcome
+      label: Employment Outcome
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

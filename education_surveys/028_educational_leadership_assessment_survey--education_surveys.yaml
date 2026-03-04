@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_leadership_assessment_survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_type
+      label: school_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Public School''}'
+      - '{''id'': 2, ''label'': ''Private School''}'
+      - '{''id'': 3, ''label'': ''Charter School''}'
+      required: false
+    - id: 3
+      name: leader_name
+      label: Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_experience
+      label: Years Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendations_actions
+      label: Recommendations and Actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Improve Communication''}'
+      - '{''id'': 2, ''label'': ''Increase Feedback''}'
+      - '{''id'': 3, ''label'': ''Set Goals''}'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Evacuation Authorization Form
+    pages:
+    - id: 1
+      name: name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_information
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorization_level
+      label: authorization_level
+      hint: null
+      type: select_one
+      options:
+      - Emergency Response Team (ERT)
+      - Emergency Response Team (ERT) - Alternate
+      - Emergency Response Team (ERT) - Alternate 2
+      - Emergency Response Team (ERT) - Lead
+      - Facility Management Team (FMT)
+      - Facility Management Team (FMT) - Alternate
+      - Facility Management Team (FMT) - Alternate 2
+      - Facility Management Team (FMT) - Lead
+      - Other
+      required: false
+    - id: 9
+      name: authorized_to_evacuate
+      label: authorized_to_evacuate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

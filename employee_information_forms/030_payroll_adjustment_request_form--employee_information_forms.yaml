@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Adjustment Request Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''January 2022'', ''value'': ''january_2022''}'
+      - '{''label'': ''February 2022'', ''value'': ''february_2022''}'
+      - '{''label'': ''March 2022'', ''value'': ''march_2022''}'
+      - '{''label'': ''April 2022'', ''value'': ''april_2022''}'
+      - '{''label'': ''May 2022'', ''value'': ''may_2022''}'
+      - '{''label'': ''June 2022'', ''value'': ''june_2022''}'
+      required: false
+    - id: 3
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Raise'', ''value'': ''raise''}'
+      - '{''label'': ''Salary'', ''value'': ''salary''}'
+      - '{''label'': ''Bonus'', ''value'': ''bonus''}'
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_amount
+      label: Requested Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

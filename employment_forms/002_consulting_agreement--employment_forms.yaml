@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Agreement
+    pages:
+    - id: 1
+      name: section_parties
+      label: -- Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_full_name
+      label: Consultant Full Name
+      hint: Enter the consultant's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_company_name
+      label: Client Company Name
+      hint: Name of the company hiring the consultant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: Effective date of the agreement
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: Date when the agreement terminates
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_services
+      label: -- Scope of Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: description_of_services
+      label: Description of Services
+      hint: Detailed list of tasks and deliverables
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_hours_per_week
+      label: Estimated Hours Per Week
+      hint: Approximate time commitment
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_compensation
+      label: -- Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consulting_fee_type
+      label: Consulting Fee Type
+      hint: Select how you will be paid
+      type: select_one
+      options:
+      - Hourly Rate
+      - Fixed Project Fee
+      - Monthly Retainer
+      - Commission Based
+      required: true
+    - id: 11
+      name: fee_amount
+      label: Fee Amount
+      hint: Specify the dollar amount (e.g., 50.00)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: When will payments be made?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Upon Completion
+      required: true
+    - id: 13
+      name: section_terms
+      label: -- Additional Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Consultant agrees to keep client data private
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 15
+      name: termination_notice_period
+      label: Termination Notice Period
+      hint: Number of days' notice required to end the agreement
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: consultant_signature_date
+      label: Consultant Signature Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

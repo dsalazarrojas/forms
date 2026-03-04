@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Case Report Template
+    pages:
+    - id: 1
+      name: reported_case
+      label: Reported Case
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 2
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptomatic
+      hint: null
+      type: select_multiple
+      options:
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_count
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      required: false
+    - id: 12
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - option9
+      - option10
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

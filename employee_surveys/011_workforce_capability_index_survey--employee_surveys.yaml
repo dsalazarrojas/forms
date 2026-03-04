@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Capability Index Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_rating
+      label: manager_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: department_1_rating
+      label: department_1_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: department_1_comment
+      label: department_1_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department_2_rating
+      label: department_2_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: department_2_comment
+      label: department_2_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_3_rating
+      label: department_3_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: department_3_comment
+      label: department_3_comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Curriculum Review Committee Registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: Please select your role.
+      type: select_multiple
+      options:
+      - Committee Member
+      - Chair
+      required: false
+    - id: 4
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mathematics
+      label: Mathematics
+      hint: Please select your areas of expertise.
+      type: select_multiple
+      options:
+      - Pure Mathematics
+      - Applied Mathematics
+      - Mathematical Physics
+      required: false
+    - id: 6
+      name: biology
+      label: Biology
+      hint: Please select your areas of expertise.
+      type: select_multiple
+      options:
+      - Botany
+      - Zoology
+      - Genetics
+      required: false
+    - id: 7
+      name: chemistry
+      label: Chemistry
+      hint: Please select your areas of expertise.
+      type: select_multiple
+      options:
+      - Inorganic Chemistry
+      - Organic Chemistry
+      - Physical Chemistry
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: Please confirm your consent.
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: false

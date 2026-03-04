@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Technology Usability Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Educational Technology Usability Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_information
+      label: user_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: How often do you use digital tools?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Less than once a month''}'
+      - '{''id'': 3, ''label'': ''Several times a month''}'
+      - '{''id'': 4, ''label'': ''Often''}'
+      - '{''id'': 5, ''label'': ''Almost Always''}'
+      required: false
+    - id: 4
+      name: question_2
+      label: Which digital tools do you most frequently use in your work or studies?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Learning Management System (LMS)''}'
+      - '{''id'': 2, ''label'': ''Content Management System (CMS)''}'
+      - '{''id'': 3, ''label'': ''Online discussion forums''}'
+      - '{''id'': 4, ''label'': ''Educational Resource Sharing Platform (ERSP)''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: What is your preferred channel for communication with peers or teachers?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Online Chat''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      - '{''id'': 4, ''label'': ''In-person''}'
+      required: false
+    - id: 6
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

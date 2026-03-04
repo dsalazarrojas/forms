@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kite Damage Report Form
+    pages:
+    - id: 1
+      name: user_name
+      label: Enter User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: select_multiple
+      options:
+      - minor
+      - major
+      required: true
+    - id: 5
+      name: damage_location
+      label: Damage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: damage_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Kite
+      - Line
+      - Other
+      required: true

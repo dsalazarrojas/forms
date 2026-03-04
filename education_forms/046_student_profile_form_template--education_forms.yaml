@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Profile Form Template
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_date_of_birth
+      label: student_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_program
+      label: student_program
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High school'', ''value'': ''high_school''}'
+      - '{''label'': ''Undergraduate'', ''value'': ''undergraduate''}'
+      - '{''label'': ''Graduate'', ''value'': ''graduate''}'
+      required: false
+    - id: 6
+      name: student_course
+      label: student_course
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Science'', ''value'': ''science''}'
+      - '{''label'': ''Arts'', ''value'': ''arts''}'
+      - '{''label'': ''Humanities'', ''value'': ''humanities''}'
+      required: false
+    - id: 7
+      name: student_interests
+      label: student_interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_additional_comments
+      label: student_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_parent_permission
+      label: parent_permission
+      hint: Parent's permission
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

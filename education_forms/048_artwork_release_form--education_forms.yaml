@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Release Form
+    pages:
+    - id: 1
+      name: artist_first_name
+      label: Artist First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_last_name
+      label: Artist Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Artist Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Artist Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: artwork_description
+      label: Artwork Description
+      hint: Type, medium, dimensions
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artwork_creation_date
+      label: Date Artwork Was Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: image_or_photograph_of_work
+      label: Image or Photograph Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: usage_rights_granted
+      label: Rights Granted for Usage of Artwork
+      hint: null
+      type: select_multiple
+      options:
+      - Educational Use
+      - Commercial Use
+      - Print Publications
+      - Digital Publications
+      - Social Media
+      - Exhibition
+      - Research
+      - Archive
+      required: true
+    - id: 10
+      name: exclusive_use
+      label: Usage Rights are Exclusive
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: geographic_territory
+      label: Geographic Territory for Usage
+      hint: Local, national, international, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: duration_of_rights
+      label: Duration of Usage Rights
+      hint: Perpetual, limited term, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: attribution_required
+      label: Attribution or Credit Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: attribution_format
+      label: Preferred Attribution Format
+      hint: How should artist be credited
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: modifications_allowed
+      label: Modifications to Artwork Allowed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - With Permission Only
+      required: true
+    - id: 16
+      name: compensation_or_fees
+      label: Compensation or Usage Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: release_date
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: organization_receiving_rights
+      label: Organization or Individual Receiving Rights
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: artist_signature
+      label: Artist Agrees to Release Terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true

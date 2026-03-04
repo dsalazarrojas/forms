@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Action Plan Form
+    pages:
+    - id: 1
+      name: incident_title
+      label: incident title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_summary
+      label: incident summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_date
+      label: action date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: action_summary
+      label: action summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_status
+      label: action status
+      hint: null
+      type: select_one
+      options:
+      - Waiting
+      - Complete
+      - In Progress
+      required: false
+    - id: 9
+      name: action_urgency
+      label: action urgency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: action_priority
+      label: action priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: action_details
+      label: action details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_outcome
+      label: action outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_responsible_party
+      label: incident responsible party
+      hint: null
+      type: select_multiple
+      options:
+      - Customer
+      - Employee
+      - Public
+      required: false
+    - id: 14
+      name: incident_responsible_party_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_responsible_party
+      label: action responsible party
+      hint: null
+      type: select_multiple
+      options:
+      - Customer
+      - Employee
+      - Public
+      required: false
+    - id: 16
+      name: action_responsible_party_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false

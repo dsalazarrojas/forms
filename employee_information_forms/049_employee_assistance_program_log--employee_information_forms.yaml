@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Assistance Program Log
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_department
+      label: employee department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_topic
+      label: session topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false

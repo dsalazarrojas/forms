@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Clock Correction Form Template
+    pages:
+    - id: 1
+      name: employee_information_forms_time_clock_correction_form_template
+      label: time_clock_correction_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_information_forms_time_clock_correction_form_template_input_1
+      label: correction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''clock_in_error'', ''label'': ''clock_in_error''}'
+      - '{''value'': ''clock_out_error'', ''label'': ''clock_out_error''}'
+      - '{''value'': ''late_start'', ''label'': ''late_start''}'
+      - '{''value'': ''early_out'', ''label'': ''early_out''}'
+      - '{''value'': ''no_clock_in'', ''label'': ''no_clock_in''}'
+      - '{''value'': ''no_clock_out'', ''label'': ''no_clock_out''}'
+      - '{''value'': ''unknown_shift'', ''label'': ''unknown_shift''}'
+      - '{''value'': ''incorrect_shift'', ''label'': ''incorrect_shift''}'
+      - '{''value'': ''incorrect_work_period'', ''label'': ''incorrect_work_period''}'
+      required: false
+    - id: 3
+      name: employee_information_forms_time_clock_correction_form_template_input_2
+      label: date_corrections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_information_forms_time_clock_correction_form_template_input_3
+      label: time_corrections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_information_forms_time_clock_correction_form_template_input_4
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_information_forms_time_clock_correction_form_template_input_5
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_information_forms_time_clock_correction_form_template_input_6
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_information_forms_time_clock_correction_form_template_input_7
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_information_forms_time_clock_correction_form_template_input_8
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_information_forms_time_clock_correction_form_template_input_9
+      label: submitted_by_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_information_forms_time_clock_correction_form_template_input_10
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employee_information_forms_time_clock_correction_form_template_input_11
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: employee_information_forms_time_clock_correction_form_template_input_12
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: employee_information_forms_time_clock_correction_form_template_input_13
+      label: corrected_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_information_forms_time_clock_correction_form_template_input_14
+      label: corrected_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: employee_information_forms_time_clock_correction_form_template_input_15
+      label: corrected_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_information_forms_time_clock_correction_form_template_input_16
+      label: corrected_by_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_information_forms_time_clock_correction_form_template_input_17
+      label: submitted_by_user_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_information_forms_time_clock_correction_form_template_input_18
+      label: corrected_by_user_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_information_forms_time_clock_correction_form_template_input_19
+      label: time_clock_corrected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: employee_information_forms_time_clock_correction_form_template_input_20
+      label: time_clock_corrected_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_information_forms_time_clock_correction_form_template_input_21
+      label: time_clock_corrected_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: employee_information_forms_time_clock_correction_form_template_input_22
+      label: time_clock_corrected_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_information_forms_time_clock_correction_form_template_input_23
+      label: time_clock_corrected_by_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_information_forms_time_clock_correction_form_template_input_24
+      label: time_clock_corrected_by_user_id
+      hint: null
+      type: text
+      options: []
+      required: false

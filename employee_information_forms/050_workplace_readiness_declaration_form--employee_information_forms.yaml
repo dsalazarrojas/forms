@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Readiness Declaration Form
+    pages:
+    - id: 1
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_from_home
+      label: Work From Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: workplace_location
+      label: Workplace Location
+      hint: Workplace address or location name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workplace_address
+      label: Workplace Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: return_to_work_date
+      label: Return to Work Date
+      hint: Date employee is expected to return to work
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: return_to_work_time
+      label: Return to Work Time
+      hint: Time employee is expected to return to work
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: return_to_work_location
+      label: Return to Work Location
+      hint: Location where employee will return to work
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: health_declaration
+      label: Health Declaration
+      hint: Please indicate if employee has any health issues that may affect their
+        work
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_restrictions
+      label: Travel Restrictions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: travel_restriction_details
+      label: Travel Restriction Details
+      hint: Details about travel restrictions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_clearance
+      label: Medical Clearance
+      hint: Has employee received medical clearance to return to work
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_clearance_date
+      label: Medical Clearance Date
+      hint: Date of medical clearance
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_clearance_provider
+      label: Medical Clearance Provider
+      hint: Name of medical clearance provider
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: return_to_work_status
+      label: Return to Work Status
+      hint: Employee status on return to work
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: return_to_work_status_reason
+      label: Return to Work Status Reason
+      hint: Reason for return to work status
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_location_other
+      label: Other Work Location
+      hint: Any other work location
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: work_location_address
+      label: Other Work Location Address
+      hint: Address of other work location
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_work_location_type
+      label: Other Work Location Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: other_work_location_details
+      label: Other Work Location Details
+      hint: Any other work location details
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: work_status_reason
+      label: Work Status Reason
+      hint: Reason for current work status
+      type: text
+      options: []
+      required: false

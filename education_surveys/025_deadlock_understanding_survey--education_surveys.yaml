@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deadlock Understanding Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What do you know about deadlocks?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Which category best describes you?
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Professional
+      - Researcher
+      required: true
+    - id: 3
+      name: experience_level
+      label: How much experience do you have with deadlocks?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: knowledge_level
+      label: What level of knowledge do you have about deadlocks?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 5
+      name: deadlock_symptoms
+      label: What symptom or symptoms are you experiencing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cause_concerns
+      label: What causes are you concerned about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: effects_concerns
+      label: What effects are you concerned about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prevention_strategies
+      label: What do you do to prevent deadlocks?
+      hint: null
+      type: text
+      options: []
+      required: false

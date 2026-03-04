@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Observation Survey
+    pages:
+      - id: 1
+        name: observer_name
+        label: Observer Name
+        hint: Name of the person conducting the observation
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: observer_role
+        label: Observer Role
+        hint: Your position or title
+        type: select_one
+        options:
+          - School Administrator
+          - District Evaluator
+          - External Reviewer
+          - Peer Teacher
+          - Accreditation Panel Member
+          - Other
+        required: true
+      - id: 3
+        name: teacher_observed
+        label: Teacher Observed
+        hint: Name of the teacher whose class was observed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: class_subject
+        label: Class Subject
+        hint: Subject area of the observed class
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: grade_level
+        label: Grade Level
+        hint: Grade level of the students
+        type: select_one
+        options:
+          - Kindergarten
+          - Grade 1-2
+          - Grade 3-5
+          - Grade 6-8
+          - Grade 9-10
+          - Grade 11-12
+        required: true
+      - id: 6
+        name: observation_date
+        label: Observation Date
+        hint: Date of the classroom observation
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: classroom_environment_rating
+        label: Classroom Environment Rating
+        hint: Rate the physical and emotional classroom environment
+        type: select_one
+        options:
+          - Excellent - Very conducive to learning
+          - Good - Generally positive environment
+          - Fair - Adequate but needs improvement
+          - Poor - Not conducive to learning
+        required: true
+      - id: 8
+        name: student_knowledge_demonstration
+        label: Student Knowledge Demonstration
+        hint: Rate how well students demonstrated understanding of content
+        type: select_one
+        options:
+          - Excellent - Strong understanding shown
+          - Good - Adequate understanding
+          - Fair - Limited understanding
+          - Poor - Minimal understanding demonstrated
+        required: true
+      - id: 9
+        name: student_skills_demonstration
+        label: Student Skills Demonstration
+        hint: Rate how well students applied skills during the lesson
+        type: select_one
+        options:
+          - Excellent - Skills applied effectively
+          - Good - Skills applied adequately
+          - Fair - Skills application inconsistent
+          - Poor - Limited skills application
+        required: true
+      - id: 10
+        name: student_behavior_rating
+        label: Student Behavior Rating
+        hint: Rate overall student behavior during the observation
+        type: select_one
+        options:
+          - Excellent - Exemplary behavior throughout
+          - Good - Generally appropriate behavior
+          - Fair - Some behavioral issues
+          - Poor - Significant behavioral concerns
+        required: true
+      - id: 11
+        name: class_management_effectiveness
+        label: Class Management Effectiveness
+        hint: Rate the teacher's classroom management skills
+        type: select_one
+        options:
+          - Excellent - Exceptional management
+          - Good - Effective management
+          - Fair - Management needs improvement
+          - Poor - Ineffective management
+        required: true
+      - id: 12
+        name: instructional_quality
+        label: Instructional Quality
+        hint: Rate the overall quality of instruction
+        type: select_one
+        options:
+          - Excellent - Outstanding instruction
+          - Good - Solid instruction
+          - Fair - Instruction needs improvement
+          - Poor - Ineffective instruction
+        required: true
+      - id: 13
+        name: overall_impression
+        label: Overall Impression
+        hint: Your overall impression of the class session
+        type: select_one
+        options:
+          - Excellent - Exceeded expectations
+          - Good - Met expectations
+          - Fair - Partially met expectations
+          - Poor - Did not meet expectations
+        required: true
+      - id: 14
+        name: strengths_observed
+        label: Strengths Observed
+        hint: What strengths did you observe during the session
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What areas need improvement
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or recommendations
+        type: text
+        options: []
+        required: false

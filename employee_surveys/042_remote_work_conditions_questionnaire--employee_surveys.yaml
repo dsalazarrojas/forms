@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Conditions Questionnaire
+    pages:
+    - id: 1
+      name: remote_work_conditions
+      label: Remote Work Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''Collaboration'': ''Collaboration''}'
+      - Isolation
+      required: false
+    - id: 3
+      name: remote_setup
+      label: Remote Setup
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: productivity
+      label: Productivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: well_being
+      label: Well-being
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: support
+      label: Support
+      hint: null
+      type: select_one
+      options:
+      - HR Support
+      - Line Manager Support
+      - Team Lead Support
+      - No Support
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policies
+      label: Policies
+      hint: null
+      type: select_multiple
+      options:
+      - Existing
+      - New
+      - None
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Format Opinion Survey
+    pages:
+    - id: 1
+      name: school_or_department
+      label: What is your school or department name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role
+      label: What is your role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: format
+      label: Which online class format do you like best
+      hint: null
+      type: select_one
+      options:
+      - Online Video
+      - Online Audio
+      - Online Text
+      - Online Interactive
+      - Online Live
+      - Online Self Paced
+      - Other (Please specify)
+      required: true
+    - id: 4
+      name: format_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: How would you rate your experience with online classes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: difficulty
+      label: How would you rate the difficulty level of the online class
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: challenges
+      label: Which challenges do you face when taking online classes
+      hint: null
+      type: select_multiple
+      options:
+      - Poor internet connection
+      - Difficulty in accessing course materials
+      - Difficulty in engaging with instructors and peers
+      - Difficulty in understanding course content
+      - Other (Please specify)
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

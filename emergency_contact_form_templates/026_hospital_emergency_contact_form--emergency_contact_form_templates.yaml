@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Emergency Contact Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Other Relative''}'
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Allergic to medications''}'
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''Heart condition''}'
+      required: false
+    - id: 8
+      name: medication_allergies
+      label: Medications Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Penicillin''}'
+      - '{''label'': ''Codeine''}'
+      - '{''label'': ''Ibuprofen''}'
+      required: false
+    - id: 9
+      name: medical_equipment
+      label: Medical Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_equipment_description
+      label: Medical Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition_description
+      label: Medical Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hospital_room
+      label: Hospital Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Nurse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: medical_staff_description
+      label: Medical Staff Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_medical_services
+      label: Emergency Medical Services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': True}'
+      required: false
+    - id: 19
+      name: emergency_medical_services_other
+      label: Emergency Medical Services Other
+      hint: null
+      type: text
+      options: []
+      required: false

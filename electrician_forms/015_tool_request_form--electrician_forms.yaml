@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Request Form
+    pages:
+    - id: 1
+      name: job_id
+      label: job_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatty
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tools
+      label: tools
+      hint: null
+      type: select_one
+      options:
+      - hammer
+      - saw
+      - drill
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_required
+      label: date_required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_required
+      label: time_required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Needs Identification Evaluation Form
+    pages:
+    - id: 1
+      name: employee_training_needs_identification_form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Leadership''}'
+      - '{''value'': ''Teamwork''}'
+      - '{''value'': ''Problem Solving''}'
+      required: false
+    - id: 4
+      name: training_needs_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_needs_other_value
+      label: Other (Training Needs)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: training_status_other
+      label: Other (Training Status)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_needs_status
+      label: Training Needs Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 12
+      name: training_needs_status_other
+      label: Other (Training Needs Status)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: job_finish_date
+      label: Job Finish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_finish_reason
+      label: Job Finish Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_finish_date
+      label: Employee Finish Date
+      hint: null
+      type: date
+      options: []
+      required: false

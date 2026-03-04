@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: shift_inspection_form
+    pages:
+    - id: 1
+      name: first_shift
+      label: First Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: second_shift
+      label: Second Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: performance
+      label: Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

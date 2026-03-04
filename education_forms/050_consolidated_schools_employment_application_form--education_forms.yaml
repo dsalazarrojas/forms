@@ -1,0 +1,404 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consolidated Schools Employment Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: position_applied
+      label: Position Applied For
+      hint: Job title you are applying for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_type
+      label: Position Type
+      hint: Employment type
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Substitute
+      - Temporary
+      - Internship
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or subject area
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_name
+      label: Preferred Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: For records
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: ssn_last_four
+      label: Last Four of SSN
+      hint: For background check
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_authorization
+      label: Are You Authorized to Work
+      hint: Legal work status
+      type: select_one
+      options:
+      - Yes - US Citizen
+      - Yes - Permanent Resident
+      - Yes - Work Visa
+      - false
+      required: true
+    - id: 16
+      name: education_level
+      label: Highest Education Level
+      hint: Your education
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 17
+      name: university_name
+      label: University or College
+      hint: Institution name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: degree_earned
+      label: Degree Earned
+      hint: Type of degree
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: major
+      label: Major
+      hint: Field of study
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: teaching_certification
+      label: Do You Have Teaching Certification
+      hint: Certification status
+      type: select_one
+      options:
+      - Yes - Active
+      - Yes - Expired
+      - In progress
+      - false
+      - Not required
+      required: true
+    - id: 22
+      name: certification_type
+      label: Certification Type
+      hint: Type of certification
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: certification_state
+      label: State of Certification
+      hint: Where certified
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certification_expiry
+      label: Certification Expiry Date
+      hint: When does it expire
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: years_experience
+      label: Years of Teaching Experience
+      hint: Total years in education
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 26
+      name: grade_levels
+      label: Grade Levels You Can Teach
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pre-K
+      - Elementary K-5
+      - Middle school 6-8
+      - High school 9-12
+      - Adult education
+      required: true
+    - id: 27
+      name: subject_areas
+      label: Subject Areas
+      hint: Subjects you can teach
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: previous_employer
+      label: Current or Previous Employer
+      hint: School or organization
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: previous_position
+      label: Previous Position
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: employment_dates
+      label: Employment Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: Why did you leave
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Reference contact
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: Reference phone
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Reference email
+      type: email
+      options: []
+      required: true
+    - id: 35
+      name: additional_references
+      label: Additional References
+      hint: List other professional references
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: special_skills
+      label: Special Skills or Qualifications
+      hint: Additional qualifications
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: languages
+      label: Languages Spoken
+      hint: Languages you speak
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: technology_skills
+      label: Technology Skills
+      hint: Educational technology experience
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: availability
+      label: Availability
+      hint: When can you start
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: desired_salary
+      label: Desired Salary
+      hint: Salary expectation
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: criminal_history
+      label: Do You Have Criminal History
+      hint: Convictions or pending charges
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 42
+      name: criminal_history_details
+      label: Criminal History Details
+      hint: Explain if yes
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Do you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 44
+      name: drug_test_consent
+      label: Consent to Drug Test
+      hint: Do you consent if required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 45
+      name: fingerprint_consent
+      label: Consent to Fingerprinting
+      hint: Do you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: equal_opportunity
+      label: Equal Opportunity Statement
+      hint: Acknowledgement
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 47
+      name: truthfulness_statement
+      label: Truthfulness Statement
+      hint: Information provided is true
+      type: select_one
+      options:
+      - Yes - I certify
+      - false
+      required: true
+    - id: 48
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: signature_date
+      label: Date of Signature
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 50
+      name: application_status
+      label: Application Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Under review
+      - Interview scheduled
+      - Not selected
+      - Offer extended
+      - Hired
+      required: true

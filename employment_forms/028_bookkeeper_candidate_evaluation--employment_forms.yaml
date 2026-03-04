@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookkeeper Candidate Evaluation
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: Full name of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: position_applied
+      label: Position Applied For
+      hint: Bookkeeping position title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Bookkeeping Experience
+      hint: Total years in the field
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: accounting_software
+      label: Accounting Software Experience
+      hint: Select software experience
+      type: select_multiple
+      options:
+      - QuickBooks
+      - Xero
+      - FreshBooks
+      - Wave
+      - Sage
+      - Excel
+      - Other
+      required: true
+    - id: 6
+      name: education_level
+      label: Education Level
+      hint: Highest education qualification
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - CPA certification
+      - Other
+      required: true
+    - id: 7
+      name: technical_skills_rating
+      label: Technical Skills Rating
+      hint: Rate their technical competency
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 8
+      name: attention_to_detail
+      label: Attention to Detail
+      hint: How detail-oriented are they
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 9
+      name: communication_skills
+      label: Communication Skills
+      hint: Evaluate their communication ability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 10
+      name: problem_solving
+      label: Problem Solving Ability
+      hint: Rate their problem-solving skills
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 11
+      name: time_management
+      label: Time Management Skills
+      hint: How organized are they
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 12
+      name: tax_knowledge
+      label: Tax Knowledge
+      hint: Their understanding of tax regulations
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Basic
+      - Minimal
+      required: false
+    - id: 13
+      name: references_provided
+      label: Professional References Provided
+      hint: Did they provide references
+      type: select_one
+      options:
+      - Yes, excellent references
+      - Yes, good references
+      - Yes, adequate references
+      - No references provided
+      required: true
+    - id: 14
+      name: interview_notes
+      label: Interview Notes
+      hint: Additional notes from interview
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: Hiring recommendation
+      type: select_one
+      options:
+      - Highly recommend
+      - Recommend
+      - Consider
+      - Do not recommend
+      required: true

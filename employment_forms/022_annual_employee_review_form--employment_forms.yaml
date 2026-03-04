@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Employee Review Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Name of employee being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: position_title
+      label: Position Title
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Employee department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - IT
+      - Engineering
+      - Customer Service
+      - Legal
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hire_date
+      label: Hire Date
+      hint: When was the employee hired?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: review_period
+      label: Review Period
+      hint: Which period is this review for?
+      type: select_one
+      options:
+      - 2026 Annual
+      - 2025 Annual
+      - 2024 Annual
+      - Probation Review
+      - Mid-Year Review
+      - Other
+      required: true
+    - id: 8
+      name: job_knowledge
+      label: Job Knowledge
+      hint: Rate understanding of role
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 9
+      name: quality_of_work
+      label: Quality of Work
+      hint: Rate work quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: productivity
+      label: Productivity
+      hint: Rate output and efficiency
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate communication abilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: teamwork
+      label: Teamwork
+      hint: Rate collaboration skills
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: problem_solving
+      label: Problem Solving
+      hint: Rate analytical abilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 14
+      name: initiative
+      label: Initiative
+      hint: Rate self-motivation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: dependability
+      label: Dependability
+      hint: Rate reliability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: attendance
+      label: Attendance
+      hint: Rate attendance record
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 17
+      name: punctuality
+      label: Punctuality
+      hint: Rate timeliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: adaptability
+      label: Adaptability
+      hint: Rate flexibility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: leadership_potential
+      label: Leadership Potential
+      hint: Rate leadership abilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 20
+      name: overall_performance
+      label: Overall Performance
+      hint: Rate overall performance
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Partially Meets Expectations
+      - Does Not Meet Expectations
+      required: true
+    - id: 21
+      name: key_accomplishments
+      label: Key Accomplishments
+      hint: List major achievements
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Areas needing development
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: goals_next_period
+      label: Goals for Next Period
+      hint: Set objectives for coming year
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: training_needs
+      label: Training Needs
+      hint: Identify development needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_comments
+      label: Employee Comments
+      hint: Employee response or feedback
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: recommended_raise
+      label: Recommended Raise
+      hint: Suggested percentage increase
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: promotion_recommendation
+      label: Promotion Recommendation
+      hint: Is employee ready for promotion?
+      type: select_one
+      options:
+      - Yes, Ready Now
+      - Yes, In Future
+      - No, Not Ready
+      - Not Applicable
+      required: false
+    - id: 28
+      name: reviewer_signature
+      label: Reviewer Name
+      hint: Name of person completing review
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true

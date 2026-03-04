@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: leisure_interest_and_barriers_survey
+    pages:
+    - id: 1
+      name: demographics
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leisure_interests
+      label: leisure_interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option 3''}'
+      required: false
+    - id: 3
+      name: leisure_barriers
+      label: barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: leisure_participation
+      label: participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: motivation
+      label: motivation
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Option 1'', ''value'': ''option 1''}'
+      - '{''option'': ''Option 2'', ''value'': ''option 2''}'
+      - '{''option'': ''Option 3'', ''value'': ''option 3''}'
+      required: false

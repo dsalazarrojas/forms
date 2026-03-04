@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reformation And Humanism Quiz
+    pages:
+    - id: 1
+      name: quiz_start_page
+      label: Quiz Start Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: multiple_choice_question_1
+      label: multiple_choice_question_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: multiple_choice_question_2
+      label: multiple_choice_question_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: open_ended_question_1
+      label: open_ended_question_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confidence_rating_1
+      label: confidence_rating_1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: confidence_rating_2
+      label: confidence_rating_2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: open_ended_question_2
+      label: open_ended_question_2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Complaint Form
+    pages:
+    - id: 1
+      name: workplace_harassment_form
+      label: Workplace Harassment Complaint Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: complainant_name
+      label: complainant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: harasser_name
+      label: harasser_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description_of_harassment
+      label: description_of_harassment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_harassment_occurred
+      label: date_harassment_occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_harassment_occurred
+      label: time_harassment_occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_harassment_occurred
+      label: location_harassment_occurred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witnesses
+      label: witnesses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resolution_method
+      label: resolution_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: resolution_outcome
+      label: resolution_outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Analytics Trust And Transparency Survey
+    pages:
+    - id: 1
+      name: education_survey_form_template
+      label: Education Survey Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: trust_statement
+      label: Do you trust the data
+      hint: We value your trust
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 4
+      name: transparency_statement
+      label: Do you think the data is transparent
+      hint: Transparency helps build trust
+      type: select_one
+      options:
+      - '{''label'': ''Very transparent''}'
+      - '{''label'': ''Somewhat transparent''}'
+      - '{''label'': ''Not transparent''}'
+      required: false
+    - id: 5
+      name: data_use_statement
+      label: Do you think we use data appropriately
+      hint: We use data to improve education
+      type: select_one
+      options:
+      - '{''label'': ''Completely''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Not at all''}'
+      required: false
+    - id: 6
+      name: feedback
+      label: Any feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: education_background
+      label: Education background
+      hint: What is your educational background
+      type: select_multiple
+      options:
+      - '{''label'': ''High School''}'
+      - '{''label'': ''Some College''}'
+      - '{''label'': "Bachelor''s degree"}'
+      - '{''label'': "Master''s degree"}'
+      - '{''label'': ''Ph.D.''}'
+      required: false
+    - id: 10
+      name: job_function
+      label: Job function
+      hint: What is your job function
+      type: select_multiple
+      options:
+      - '{''label'': ''Data Scientist''}'
+      - '{''label'': ''Data Analyst''}'
+      - '{''label'': ''Educator''}'
+      - '{''label'': ''IT specialist''}'
+      required: false
+    - id: 11
+      name: work_experience
+      label: How many years experience with data in your job?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: how_many_students
+      label: How many students?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: how_many_projects
+      label: How many projects?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: how_many_teams
+      label: How many teams?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_hours
+      label: How many work hours per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: time_spent_using_jotform
+      label: How many days per week do you use Jotform?
+      hint: null
+      type: number
+      options: []
+      required: false

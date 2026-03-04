@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Office Hours Feedback
+    pages:
+    - id: 1
+      name: holiday_office_hours_awareness
+      label: Holiday Office Hours Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: office_hours_satisfaction
+      label: How satisfied are you with holiday office hours?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Highly Dissatisfied''}'
+      required: false
+    - id: 3
+      name: holiday_office_hours_fulfillment
+      label: How well are your holiday office hour needs met?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: future_office_hours_preferences
+      label: What would you prefer for future office hours?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_date
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

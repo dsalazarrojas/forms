@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Skills Upgrade Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Worker Skills Upgrade Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_approval
+      label: Manager approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''rejected'', ''label'': ''Rejected''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_requests
+      label: Training Requests
+      hint: 'Example: Python, HTML, CSS, JavaScript'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_format
+      label: Preferred Format
+      hint: 'Example: Online course, Instructor-led course'
+      type: select_one
+      options:
+      - '{''value'': ''online'', ''label'': ''Online Course''}'
+      - '{''value'': ''instructor-led'', ''label'': ''Instructor-led Course''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval_comments
+      label: Manager Comments
+      hint: Please provide feedback on the request
+      type: text
+      options: []
+      required: false

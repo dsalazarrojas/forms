@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Emergency Contact Form
+    pages:
+    - id: 1
+      name: emergency_contact_form
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relation_type
+      label: Relation Type
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
+      required: false
+    - id: 5
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Mobile
+      - Other
+      required: false
+    - id: 6
+      name: contact_number_1
+      label: Contact Number 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number_2
+      label: Contact Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship_address
+      label: Relationship Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_relationship_other
+      label: Other (Relationship)
+      hint: null
+      type: text
+      options: []
+      required: false

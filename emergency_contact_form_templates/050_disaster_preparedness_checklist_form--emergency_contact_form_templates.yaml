@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: disaster_preparedness_checklist_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_plan
+      label: emergency_plan
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Contact Info
+      - Insurance Policy Info
+      - Evacuation Plan
+      - Emergency Kit Checklist
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - School
+      - Other
+      required: false
+    - id: 4
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

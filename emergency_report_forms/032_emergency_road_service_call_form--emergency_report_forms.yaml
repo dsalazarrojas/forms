@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Road Service Call Form
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: caller_contact_information
+      label: Caller Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: caller_phone_number
+      label: Caller Phone Number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: caller_vehicle_type
+      label: Caller Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: Please provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: caller_gender
+      label: Caller Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 9
+      name: incident_vehicle_direction
+      label: Incident Vehicle Direction
+      hint: null
+      type: select_one
+      options:
+      - north
+      - south
+      - east
+      - west
+      - other
+      required: false
+    - id: 10
+      name: incident_vehicle_location
+      label: Incident Vehicle Location
+      hint: Please enter the vehicle location (e.g. side of road, shoulder, median).
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_weather
+      label: Incident Weather
+      hint: null
+      type: select_one
+      options:
+      - sunny
+      - cloudy
+      - rainy
+      - snowy
+      - foggy
+      - windy
+      - other
+      required: false
+    - id: 12
+      name: incident_rainfall
+      label: Incident Rainfall
+      hint: null
+      type: select_one
+      options:
+      - none
+      - light
+      - moderate
+      - heavy
+      required: false
+    - id: 13
+      name: caller_language
+      label: Caller Language
+      hint: English or Other
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - German
+      - Other
+      required: false
+    - id: 14
+      name: incident_speed_limit
+      label: Incident Speed Limit
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 15
+      name: incident_road_type
+      label: Incident Road Type
+      hint: null
+      type: select_one
+      options:
+      - highway
+      - street
+      - rural
+      - other
+      required: false
+    - id: 16
+      name: incident_road_condition
+      label: Incident Road Condition
+      hint: null
+      type: select_one
+      options:
+      - clear
+      - congested
+      - clear and congested
+      - clear and icy
+      - clear and slushy
+      - clear and wet
+      - unknown
+      required: false
+    - id: 17
+      name: road_section
+      label: Road Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_nature
+      label: Incident Nature
+      hint: null
+      type: select_one
+      options:
+      - accident
+      - assault
+      - animal collision
+      - fire
+      - other
+      required: false
+    - id: 19
+      name: incident_road_condition_affected
+      label: Incident Road Condition Affected
+      hint: null
+      type: select_multiple
+      options:
+      - clear
+      - congested
+      - clear and congested
+      - clear and icy
+      - clear and slushy
+      - clear and wet
+      - unknown
+      required: false

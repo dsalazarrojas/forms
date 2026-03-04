@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prenatal Education Registration
+    pages:
+    - id: 1
+      name: mother_name
+      label: Mothers Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: class_location
+      label: Class Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: attended_previous_prenatal_class
+      label: Have you attended a previous prenatal class?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 9
+      name: referred_by
+      label: Referred By
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Friends and Family
+      - Internet Search
+      required: false
+    - id: 10
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

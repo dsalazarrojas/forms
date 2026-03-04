@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exception To Policy Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Exception To Policy Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: Enter student's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: Enter student's ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: request_date
+      hint: Enter the date of the exception
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: Enter reason for exception
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: student_email
+      hint: Enter student's email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: student_phone
+      hint: Enter student's phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_grade
+      label: student_grade
+      hint: Enter student's grade
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 10
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false

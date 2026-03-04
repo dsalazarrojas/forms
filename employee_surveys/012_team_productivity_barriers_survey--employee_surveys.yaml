@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Productivity Barriers Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department
+      - Team
+      - Project
+      - Other
+      required: false
+    - id: 3
+      name: manager
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Lead
+      - Department Lead
+      - Other
+      required: false
+    - id: 4
+      name: obstacle
+      label: barriers
+      hint: Please list the obstacles that have hindered your productivity.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: suggestion
+      hint: Provide actionable suggestions to improve productivity.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

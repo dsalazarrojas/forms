@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Relationship Dynamics Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: direct_supervisor
+      label: Direct Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manager
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: direct_report
+      label: Direct Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: indirect_report
+      label: Indirect Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reporting_level
+      label: Reporting Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: direct_reporting
+      label: Direct Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: indirect_reporting
+      label: Indirect Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: reporting_level_1
+      label: Reporting Level 1
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: reporting_level_2
+      label: Reporting Level 2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_size_range
+      label: Team Size Range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large''}'
+      required: false
+    - id: 15
+      name: team_size_range_1
+      label: Team Size Range 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: direct_supervisor_name
+      label: Direct Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: direct_supervisor_title
+      label: Direct Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: direct_report_name
+      label: Direct Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: direct_report_title
+      label: Direct Report Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: direct_supervisor_email
+      label: Direct Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: direct_supervisor_phone
+      label: Direct Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_email
+      label: Manager
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: manager_phone
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false

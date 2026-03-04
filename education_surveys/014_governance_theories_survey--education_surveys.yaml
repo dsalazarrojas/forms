@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Governance Theories Survey
+    pages:
+    - id: 1
+      name: governance_theories_survey_form
+      label: Governance Theories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organizational_practices_form
+      label: Organizational Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: familiarity_form
+      label: Familiarity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: leadership_teams_form
+      label: Leadership Teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consultants_form
+      label: Consultants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: researchers_form
+      label: Researchers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: data_collection_form
+      label: Data Collection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submission_tracking_form
+      label: Submission Tracking
+      hint: null
+      type: note
+      options: []
+      required: false

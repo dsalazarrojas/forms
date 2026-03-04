@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Campus Safety Audit Form
+    pages:
+    - id: 1
+      name: building_id
+      label: Building ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: zone
+      label: Zone
+      hint: null
+      type: select_one
+      options:
+      - Building 1
+      - Building 2
+      required: true
+    - id: 4
+      name: hazard
+      label: Hazard
+      hint: Please describe the hazard found.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Hazardous Material
+      - Poor Ventilation
+      - Poor Lighting
+      required: true
+    - id: 8
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Completed
+      required: true
+    - id: 10
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: completed_time
+      label: Completed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_status_notes
+      label: Follow-up Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: zone_id
+      label: Zone ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: building_zone_name
+      label: Building Zone Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true

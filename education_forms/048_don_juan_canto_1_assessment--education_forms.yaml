@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Don Juan Canto 1 Assessment
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reading_comprehension
+      label: reading comprehension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: understanding_of_major_characters
+      label: understanding of major characters
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Below Average''}'
+      - '{''id'': 4, ''label'': ''Very Low''}'
+      required: false
+    - id: 4
+      name: understanding_of_major_themes
+      label: understanding of major themes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Major Theme 1''}'
+      - '{''id'': 2, ''label'': ''Major Theme 2''}'
+      - '{''id'': 3, ''label'': ''Major Theme 3''}'
+      - '{''id'': 4, ''label'': ''Major Theme 4''}'
+      required: true
+    - id: 5
+      name: reflection
+      label: Reflection
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: difficulty_rating
+      label: difficulty rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: student_feedback
+      label: student feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_feedback
+      label: teacher feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: grading_system
+      label: grading system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Grading System 1''}'
+      - '{''id'': 2, ''label'': ''Grading System 2''}'
+      - '{''id'': 3, ''label'': ''Grading System 3''}'
+      - '{''id'': 4, ''label'': ''Grading System 4''}'
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: teacher_email
+      label: teacher email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: time_spent
+      label: time spent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: time_spent_in_minutes
+      label: time spent in minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: student_location
+      label: student location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      - '{''id'': 3, ''label'': ''Location 3''}'
+      - '{''id'': 4, ''label'': ''Location 4''}'
+      required: true
+    - id: 17
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: teacher_location
+      label: teacher location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: time_zone
+      label: time zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Time Zone 1''}'
+      - '{''id'': 2, ''label'': ''Time Zone 2''}'
+      - '{''id'': 3, ''label'': ''Time Zone 3''}'
+      - '{''id'': 4, ''label'': ''Time Zone 4''}'
+      required: false
+    - id: 20
+      name: grading_system_justification
+      label: grading system justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_ip_address
+      label: student ip address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: teacher_ip_address
+      label: teacher ip address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: time_of_submission
+      label: time of submission
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: time_of_completion
+      label: time of completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission_date_time
+      label: submission date and time
+      hint: null
+      type: date
+      options: []
+      required: true

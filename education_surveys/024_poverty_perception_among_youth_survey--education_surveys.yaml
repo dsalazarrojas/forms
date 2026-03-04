@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: poverty_perception_among_youth_survey
+    pages:
+    - id: 1
+      name: survey_background
+      label: Survey Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - Youth
+      - Adult
+      required: false
+    - id: 3
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 4
+      name: highest_level_of_education_attained
+      label: highest_level_of_education_attained
+      hint: null
+      type: select_one
+      options:
+      - No education
+      - Primary education
+      - Secondary education
+      - Tertiary education
+      required: false
+    - id: 5
+      name: monthly_income
+      label: monthly_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Looking for work
+      - Retired
+      required: false
+    - id: 7
+      name: monthly_income_frequency
+      label: frequency_of_income
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Weekly
+      - Monthly
+      - Less than once a month
+      required: false
+    - id: 8
+      name: family_member
+      label: family_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: family_size
+      label: family_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: household_type
+      label: household_type
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Alone
+      - With others
+      required: false
+    - id: 11
+      name: family_members_income
+      label: family_members_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Business
+      - Investment
+      - Rent
+      - Other
+      required: false
+    - id: 13
+      name: household_expenses
+      label: household_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: savings
+      label: savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: borrowing
+      label: borrowing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: debt
+      label: debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: asset
+      label: asset
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Car
+      - Other
+      required: false
+    - id: 18
+      name: assets_value
+      label: assets_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: asset_frequency
+      label: assets_frequency
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have assets
+      - No, I have no assets
+      required: false
+    - id: 20
+      name: assets_value_frequency
+      label: assets_value_frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than 10000
+      - Between 10000-100000
+      - Between 100000-1000000
+      - More than 1000000
+      required: false
+    - id: 21
+      name: assets_use
+      label: assets_use
+      hint: null
+      type: select_multiple
+      options:
+      - To save money
+      - To buy assets
+      - Other
+      required: false
+    - id: 22
+      name: assets_use_frequency
+      label: assets_use_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Rarely
+      - Never
+      required: false
+    - id: 23
+      name: assets_borrowed
+      label: assets_borrowed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have borrowed
+      - No, I have not borrowed
+      required: false
+    - id: 24
+      name: assets_borrowed_frequency
+      label: assets_borrowed_frequency
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 25
+      name: assets_borrowed_amount
+      label: assets_borrowed_amount
+      hint: null
+      type: number
+      options: []
+      required: false

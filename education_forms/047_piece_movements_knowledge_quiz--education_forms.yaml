@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piece Movements Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_questions_1
+      label: Chess Pieces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions_2
+      label: Which piece moved first?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quiz_questions_3
+      label: How many squares can the king move in one turn?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quiz_questions_4
+      label: Which piece moves first in the game of chess?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quiz_questions_5
+      label: What is the move of the pawn?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quiz_questions_6
+      label: Which piece has the greatest range on the board?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quiz_questions_7
+      label: What piece controls the most squares on the board?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: quiz_questions_8
+      label: What does the queen's move look like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: quiz_questions_9
+      label: What piece is captured when the king is checkmated?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: quiz_questions_10
+      label: Which piece moves in the way indicated in the diagram?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

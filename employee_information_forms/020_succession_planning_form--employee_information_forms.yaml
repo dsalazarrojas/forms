@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Succession Planning Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      - Jim Brown
+      required: false
+    - id: 4
+      name: reporting_structure
+      label: Reporting Structure
+      hint: null
+      type: select_multiple
+      options:
+      - Direct Report
+      - Indirect Report
+      - Matrix Report
+      required: true
+    - id: 5
+      name: reporting_lines
+      label: Reporting Lines
+      hint: null
+      type: select_multiple
+      options:
+      - Direct Report
+      - Indirect Report
+      required: true
+    - id: 6
+      name: reporting_level
+      label: Reporting Level
+      hint: null
+      type: select_one
+      options:
+      - Senior Manager
+      - Junior Manager
+      required: true
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: key_employees
+      label: Key Employees
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      required: true
+    - id: 9
+      name: training_and_development
+      label: Training and Development
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership Development
+      - Technical Development
+      - Soft Skills
+      required: false
+    - id: 10
+      name: succession_plan
+      label: Succession Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_opening_id
+      label: Job Opening ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: job_opening_date
+      label: Job Opening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: job_opening_status
+      label: Job Opening Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 17
+      name: job_opening_category
+      label: Job Opening Category
+      hint: null
+      type: select_one
+      options:
+      - Management
+      - Operations
+      required: true
+    - id: 18
+      name: job_opening_description
+      label: Job Opening Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: job_opening_notes
+      label: Job Opening Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: job_opening_requirements
+      label: Job Opening Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: job_opening_keywords
+      label: Job Opening Keywords
+      hint: null
+      type: select_multiple
+      options:
+      - Keyword1
+      - Keyword2
+      required: false
+    - id: 22
+      name: job_opening_tags
+      label: Job Opening Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag1
+      - Tag2
+      required: false
+    - id: 23
+      name: job_opening_comments
+      label: Job Opening Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: job_opening_references
+      label: Job Opening References
+      hint: null
+      type: select_multiple
+      options:
+      - Reference1
+      - Reference2
+      required: true
+    - id: 25
+      name: job_opening_files
+      label: Job Opening Files
+      hint: null
+      type: select_multiple
+      options:
+      - File1
+      - File2
+      required: false

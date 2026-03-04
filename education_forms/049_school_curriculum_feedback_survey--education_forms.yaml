@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Curriculum Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the School Curriculum Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: curriculum_effectiveness
+      label: Curriculum Effectiveness
+      hint: On a scale of 1 to 5, how would you rate the curriculum effectiveness?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: What are your suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

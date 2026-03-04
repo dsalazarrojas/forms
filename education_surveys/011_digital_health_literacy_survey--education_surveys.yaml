@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Health Literacy Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_demographics
+      label: Participant Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_literacy_questions
+      label: Health Literacy Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Can you access and use a computer?
+      - Can you send an email?
+      - Can you make an online payment?
+      - Can you read a blog?
+      - Can you use a smartphone?
+      - Can you use a tablet?
+      - Can you make a video call?
+      - Can you use a mobile banking app?
+      required: false
+    - id: 7
+      name: health_literacy_skills
+      label: Health Literacy Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_literacy_score
+      label: Health Literacy Score
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 10
+      name: date_of_completion
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: false

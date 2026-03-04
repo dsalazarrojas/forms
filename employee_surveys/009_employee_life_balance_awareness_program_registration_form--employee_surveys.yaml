@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Life Balance Awareness Program Registration Form
+    pages:
+    - id: 1
+      name: registration_info
+      label: Registration Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Business Analyst
+      - Sales Manager
+      - Customer Support
+      - Operations Manager
+      - Marketing Specialist
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - IT
+      - Operations
+      - Finance
+      - Human Resources
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_off_policy
+      label: Time Off Policy
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: team_location
+      label: Team Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Contract
+      required: true
+    - id: 19
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Remote
+      - Hybrid
+      required: true
+    - id: 20
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: job_family
+      label: Job Family
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: job_grade
+      label: Job Grade
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

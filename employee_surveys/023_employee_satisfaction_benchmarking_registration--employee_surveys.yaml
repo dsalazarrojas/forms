@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Satisfaction Benchmarking Registration
+    pages:
+    - id: 1
+      name: organization_details
+      label: organization_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objectives
+      label: objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: register_participants
+      label: register_participants
+      hint: null
+      type: select_one
+      options:
+      - participant1
+      - participant2
+      - participant3
+      - participant4
+      - participant5
+      required: false
+    - id: 4
+      name: manage_registrations
+      label: manage_registrations
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: manage_registrations_2
+      label: manage_registrations_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

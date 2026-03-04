@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Opt Validation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: country_of_origin
+      label: country_of_origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program
+      label: program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Non Student
+      required: true
+    - id: 10
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: student_education_level
+      label: student_education_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 12
+      name: student_employment_status
+      label: student_employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      required: false
+    - id: 13
+      name: student_ogp_status
+      label: student_ogp_status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: student_oai_status
+      label: student_oai_status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

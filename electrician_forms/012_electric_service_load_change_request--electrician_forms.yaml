@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Service Load Change Request
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Gas
+      - Water
+      required: false
+    - id: 2
+      name: service_location
+      label: service_location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Business
+      - Factory
+      - Warehouse
+      required: false
+    - id: 3
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: documents
+      label: Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false

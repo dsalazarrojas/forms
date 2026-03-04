@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Appointment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: tutor_name
+      label: Tutor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_tutoring_experience
+      label: Student Tutoring Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 10
+      name: tutoring_language
+      label: Tutoring Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false

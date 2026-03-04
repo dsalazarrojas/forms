@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crisis Management Specialist Referral Form
+    pages:
+    - id: 1
+      name: crisis_management_specialist_referral_form
+      label: Refer Specialist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: specialist_referral
+      label: Specialist Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Enter contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: specialist_type
+      label: Specialist Type
+      hint: Select specialist type
+      type: select_one
+      options:
+      - Crisis Management Specialist
+      - Crisis Counsellor
+      - Other
+      required: false
+    - id: 6
+      name: specialist_location
+      label: Specialist Location
+      hint: Select specialist location
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      required: false
+    - id: 7
+      name: specialist_description
+      label: Specialist Description
+      hint: Enter specialist description
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: referral_date
+      label: Referral Date
+      hint: Enter referral date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: specialist_name
+      label: Specialist Name
+      hint: Enter specialist name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: specialist_certification
+      label: Specialist Certifications
+      hint: Enter specialist certifications
+      type: text
+      options: []
+      required: false

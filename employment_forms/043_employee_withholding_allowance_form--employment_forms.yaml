@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Withholding Allowance Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimed_allowance
+      label: Claimed Allowance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_allowance
+      label: Employee Allowance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employee_salary
+      label: Employee Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claimed_allowance_frequency
+      label: Claimed Allowance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 8
+      name: claimed_allowance_rate
+      label: Claimed Allowance Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: claimed_allowance_amount
+      label: Claimed Allowance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_nationality
+      label: Employee Nationality
+      hint: null
+      type: select_one
+      options:
+      - British
+      - Australian
+      - American
+      required: false
+    - id: 11
+      name: employee_dob
+      label: Employee DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tax_identification_number
+      label: Tax Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false

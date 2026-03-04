@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_offense
+      label: Date of Offense
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description_of_offense
+      label: Description of Offense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Verbal Warning''}'
+      - '{''label'': ''Written Warning''}'
+      - '{''label'': ''Suspension''}'
+      - '{''label'': ''Termination''}'
+      required: false
+    - id: 6
+      name: date_of_disciplinary_action
+      label: Date of Disciplinary Action
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_info
+      label: Manager Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_review
+      label: Date of Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_acknowledgement
+      label: Employee's Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: manager_acknowledgement
+      label: Manager's Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewed_on
+      label: Reviewed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: reviewed_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: comments2
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

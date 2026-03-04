@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Worker Interview Scheduling
+    pages:
+    - id: 1
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: selected_location
+      label: Selected Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''location_1''}'
+      - '{''value'': ''location_2''}'
+      - '{''value'': ''location_3''}'
+      required: false
+    - id: 3
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: candidate_email
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: candidate_phone
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interviewers
+      label: Interviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Interviewer 1''}'
+      - '{''value'': ''Interviewer 2''}'
+      - '{''value'': ''Interviewer 3''}'
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''location_1''}'
+      - '{''value'': ''location_2''}'
+      - '{''value'': ''location_3''}'
+      required: false
+    - id: 11
+      name: candidate_id
+      label: Candidate ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interviewers_2
+      label: Interviewers 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''morning''}'
+      - '{''value'': ''afternoon''}'
+      - '{''value'': ''evening''}'
+      required: false
+    - id: 14
+      name: schedule_day
+      label: Schedule Day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

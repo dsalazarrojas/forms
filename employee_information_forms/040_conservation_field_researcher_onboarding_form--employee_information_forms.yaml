@@ -1,0 +1,351 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Field Researcher Onboarding Form
+    pages:
+    - id: 1
+      name: onboarding_date
+      label: Onboarding Date
+      hint: Date of onboarding
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: researcher_name
+      label: Full Name
+      hint: Legal name of researcher
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name
+      hint: Name you go by
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: For records
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: position_type
+      label: Position Type
+      hint: Type of role
+      type: select_one
+      options:
+      - Full-time employee
+      - Part-time employee
+      - Seasonal
+      - Contractor
+      - Volunteer
+      - Intern
+      required: true
+    - id: 12
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: Research department or team
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: start_date
+      label: Start Date
+      hint: First day of work
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: End Date
+      hint: If seasonal or temporary
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: education_level
+      label: Highest Education Level
+      hint: Your education
+      type: select_one
+      options:
+      - High school
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 18
+      name: field_of_study
+      label: Field of Study
+      hint: Major or area of study
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: relevant_experience
+      label: Relevant Experience
+      hint: Years of field research experience
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 20
+      name: research_specialties
+      label: Research Specialties
+      hint: Areas of expertise
+      type: select_multiple
+      options:
+      - Wildlife biology
+      - Botany
+      - Ecology
+      - Hydrology
+      - Soil science
+      - GIS and mapping
+      - Data analysis
+      - Remote sensing
+      - Other
+      required: true
+    - id: 21
+      name: certifications
+      label: Relevant Certifications
+      hint: List any certifications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physical_requirements
+      label: Can You Meet Physical Requirements
+      hint: Field work can be physically demanding
+      type: select_one
+      options:
+      - Yes - No limitations
+      - Yes - With accommodations
+      - false
+      required: true
+    - id: 23
+      name: physical_limitations
+      label: Physical Limitations
+      hint: Describe any limitations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: outdoor_experience
+      label: Outdoor Experience Level
+      hint: Comfort level in野外 conditions
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 25
+      name: vehicle_access
+      label: Do You Have Vehicle Access
+      hint: Reliable transportation
+      type: select_one
+      options:
+      - Yes - Personal vehicle
+      - Yes - 4WD vehicle
+      - false
+      required: true
+    - id: 26
+      name: drivers_license
+      label: Do You Have Valid Drivers License
+      hint: Valid license status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: tetanus_vaccination
+      label: Tetanus Vaccination Current
+      hint: Is vaccination up to date
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 31
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: medications
+      label: Current Medications
+      hint: Medications we should know about
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: allergies
+      label: Allergies
+      hint: Especially insect stings or plants
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: clothing_sizes
+      label: Clothing Sizes
+      hint: For PPE and uniforms
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: equipment_needed
+      label: Equipment You Will Need
+      hint: List required equipment
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Do you consent to background check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: confidentiality_agreement
+      label: Confidentiality Agreement Accepted
+      hint: Do you agree to confidentiality terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 38
+      name: safety_training_required
+      label: Safety Training Required
+      hint: Acknowledgement of training requirement
+      type: select_one
+      options:
+      - Yes - I Understand
+      - false
+      required: true
+    - id: 39
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: researcher_signature
+      label: Your Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: For office use
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: onboarding_status
+      label: Onboarding Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - In progress
+      - Completed
+      - Pending documents
+      required: true

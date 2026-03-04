@@ -1,0 +1,345 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Employment Impact Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey follow-up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - 18-24 years
+          - 25-34 years
+          - 35-44 years
+          - 45-54 years
+          - 55-64 years
+          - 65 or older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Prefer to self-describe
+        required: false
+      - id: 5
+        name: section_demographics
+        label: -- Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: chronic_condition
+        label: Chronic Condition
+        hint: Your primary condition
+        type: select_one
+        options:
+          - Type 1 Diabetes
+          - Type 2 Diabetes
+          - Rheumatoid Arthritis
+          - Lupus
+          - Multiple Sclerosis
+          - Fibromyalgia
+          - Chronic Fatigue Syndrome
+          - Inflammatory Bowel Disease
+          - Heart Disease
+          - Cancer
+          - Mental Health Condition
+          - Other
+        required: true
+      - id: 7
+        name: condition_duration
+        label: How Long Diagnosed
+        hint: Time since diagnosis
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - Over 10 years
+        required: true
+      - id: 8
+        name: symptom_severity
+        label: Symptom Severity
+        hint: Rate your typical symptom severity
+        type: select_one
+        options:
+          - Mild
+          - Moderate
+          - Severe
+          - Very Severe
+        required: true
+      - id: 9
+        name: section_condition_info
+        label: -- Condition Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: employment_status
+        label: Current Employment Status
+        hint: What is your current status
+        type: select_one
+        options:
+          - Employed full-time
+          - Employed part-time
+          - Self-employed
+          - On medical leave
+          - Unemployed seeking work
+          - Unable to work
+          - Retired
+          - Student
+        required: true
+      - id: 11
+        name: job_type
+        label: Job Type
+        hint: What type of work do you do
+        type: select_one
+        options:
+          - Office or desk work
+          - Physical or manual labor
+          - Healthcare
+          - Education
+          - Service industry
+          - Technology
+          - Creative or arts
+          - Management
+          - Other
+        required: false
+      - id: 12
+        name: years_employed
+        label: Years in Current Position
+        hint: How long in your current role
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - Over 10 years
+        required: false
+      - id: 13
+        name: section_employment_status
+        label: -- Employment Status --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: work_limitations
+        label: Work Limitations
+        hint: Does your condition limit your work
+        type: select_one
+        options:
+          - Not at all
+          - Slightly
+          - Moderately
+          - Significantly
+          - Completely unable to work
+        required: true
+      - id: 15
+        name: missed_work_days
+        label: Missed Work Days
+        hint: Days missed in past 3 months
+        type: select_one
+        options:
+          - 0 days
+          - 1-3 days
+          - 4-7 days
+          - 8-14 days
+          - 15 or more days
+        required: true
+      - id: 16
+        name: reduced_productivity
+        label: Reduced Productivity
+        hint: How often is productivity affected
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 17
+        name: section_work_impact
+        label: -- Work Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: accommodations_needed
+        label: Accommodations Needed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Flexible schedule
+          - Remote work option
+          - Modified duties
+          - Additional breaks
+          - Ergonomic equipment
+          - Reduced hours
+          - Leave for appointments
+          - Other
+        required: true
+      - id: 19
+        name: accommodations_requested
+        label: Accommodations Requested
+        hint: Have you requested accommodations
+        type: select_one
+        options:
+          - No not needed
+          - No but should have
+          - Yes and received
+          - Yes and denied
+          - Yes and pending
+        required: true
+      - id: 20
+        name: employer_support
+        label: Employer Support
+        hint: How supportive is your employer
+        type: select_one
+        options:
+          - Very supportive
+          - Somewhat supportive
+          - Neutral
+          - Not very supportive
+          - Not supportive at all
+        required: true
+      - id: 21
+        name: section_accommodations
+        label: -- Accommodations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: career_advancement_impact
+        label: Career Advancement Impact
+        hint: Has your condition affected career growth
+        type: select_one
+        options:
+          - Not at all
+          - Slightly
+          - Moderately
+          - Significantly
+          - Completely prevented
+        required: true
+      - id: 23
+        name: income_impact
+        label: Income Impact
+        hint: How has your income been affected
+        type: select_one
+        options:
+          - No impact
+          - Slight reduction
+          - Moderate reduction
+          - Significant reduction
+          - Unable to earn income
+        required: true
+      - id: 24
+        name: section_career_impact
+        label: -- Career Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: discrimination_experience
+        label: Discrimination Experience
+        hint: Have you experienced discrimination
+        type: select_one
+        options:
+          - No never
+          - Yes once
+          - Yes multiple times
+          - Yes ongoing
+        required: true
+      - id: 26
+        name: job_security_concern
+        label: Job Security Concern
+        hint: How concerned are you about job security
+        type: select_one
+        options:
+          - Not concerned
+          - Slightly concerned
+          - Moderately concerned
+          - Very concerned
+          - Extremely concerned
+        required: true
+      - id: 27
+        name: work_life_balance
+        label: Work-Life Balance
+        hint: How is your work-life balance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 28
+        name: section_challenges
+        label: -- Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: biggest_challenge
+        label: Biggest Work Challenge
+        hint: What is your biggest challenge
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: support_needed
+        label: Support Needed
+        hint: What support would help you most
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other experiences to share
+        type: text
+        options: []
+        required: false

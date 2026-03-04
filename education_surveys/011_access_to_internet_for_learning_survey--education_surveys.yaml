@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access To Internet For Learning Survey
+    pages:
+    - id: 1
+      name: student_grade_level
+      label: Student Grade Level
+      hint: What grade are you currently in?
+      type: select_one
+      options: ["Elementary School (K-5)", "Middle School (6-8)", "High School (9-12)", "Undergraduate", "Graduate", "Adult Learner"]
+      required: true
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: What is your age range?
+      type: select_one
+      options: ["Under 10", "10-14", "15-17", "18-20", "21-25", "26-30", "Over 30"]
+      required: true
+    - id: 3
+      name: primary_device_type
+      label: Primary Device Type
+      hint: What device do you primarily use for online learning?
+      type: select_one
+      options: ["Desktop Computer", "Laptop", "Tablet", "Smartphone", "School-Issued Device", "Other"]
+      required: true
+    - id: 4
+      name: internet_connection_type
+      label: Internet Connection Type
+      hint: What type of internet connection do you primarily use for learning?
+      type: select_one
+      options: ["Home Broadband", "Mobile Hotspot", "Public WiFi", "School/Library WiFi", "Cellular Data", "Other"]
+      required: true
+    - id: 5
+      name: internet_speed_satisfaction
+      label: Internet Speed Satisfaction
+      hint: How satisfied are you with your internet speed for learning?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 6
+      name: daily_internet_usage_hours
+      label: Daily Internet Usage Hours
+      hint: Approximately how many hours per day do you use the internet for learning?
+      type: select_one
+      options: ["Less than 1 hour", "1-2 hours", "2-4 hours", "4-6 hours", "6-8 hours", "More than 8 hours"]
+      required: true
+    - id: 7
+      name: connectivity_issues_frequency
+      label: Connectivity Issues Frequency
+      hint: How often do you experience internet connectivity issues during learning?
+      type: select_one
+      options: ["Never", "Rarely", "Sometimes", "Often", "Always"]
+      required: true
+    - id: 8
+      name: online_learning_platforms_used
+      label: Online Learning Platforms Used
+      hint: Which online learning platforms do you regularly use?
+      type: select_multiple
+      options: ["Google Classroom", "Canvas", "Blackboard", "Zoom", "Microsoft Teams", "Khan Academy", "Coursera", "edX", "YouTube Education", "Other"]
+      required: true
+    - id: 9
+      name: digital_literacy_level
+      label: Digital Literacy Level
+      hint: How comfortable are you with using technology for learning?
+      type: select_one
+      options: ["Expert", "Advanced", "Intermediate", "Beginner", "Novice"]
+      required: true
+    - id: 10
+      name: homework_completion_difficulty
+      label: Homework Completion Difficulty
+      hint: How difficult is it to complete homework that requires internet access?
+      type: select_one
+      options: ["Very Easy", "Easy", "Moderate", "Difficult", "Very Difficult"]
+      required: true
+    - id: 11
+      name: educational_resource_access
+      label: Educational Resource Access
+      hint: How easy is it for you to access online educational resources?
+      type: select_one
+      options: ["Very Easy", "Easy", "Moderate", "Difficult", "Very Difficult"]
+      required: true
+    - id: 12
+      name: video_call_participation
+      label: Video Call Participation
+      hint: How comfortable are you participating in online classes via video calls?
+      type: select_one
+      options: ["Very Comfortable", "Comfortable", "Neutral", "Uncomfortable", "Very Uncomfortable"]
+      required: true
+    - id: 13
+      name: internet_cost_impact
+      label: Internet Cost Impact
+      hint: Does the cost of internet access impact your ability to participate in online learning?
+      type: select_one
+      options: ["Not at all", "Slightly", "Moderately", "Significantly", "Completely"]
+      required: true
+    - id: 14
+      name: technical_support_access
+      label: Technical Support Access
+      hint: Do you have access to technical support when experiencing internet issues?
+      type: select_one
+      options: ["Yes, Always Available", "Yes, Sometimes Available", "Yes, but Limited", "No Access", "Don't Need Support"]
+      required: true
+    - id: 15
+      name: learning_preference_comparison
+      label: Learning Preference Comparison
+      hint: Compared to in-person learning, how effective do you find online learning?
+      type: select_one
+      options: ["Much More Effective", "More Effective", "About the Same", "Less Effective", "Much Less Effective"]
+      required: true
+    - id: 16
+      name: collaboration_tools_usage
+      label: Collaboration Tools Usage
+      hint: How often do you use online collaboration tools for school projects?
+      type: select_one
+      options: ["Daily", "Several Times a Week", "Weekly", "Monthly", "Rarely", "Never"]
+      required: true
+    - id: 17
+      name: accessibility_features_needed
+      label: Accessibility Features Needed
+      hint: Do you require any special accessibility features for online learning?
+      type: select_multiple
+      options: ["Screen Reader", "Closed Captions", "Text-to-Speech", "Adjustable Font Size", "Color Contrast Adjustment", "Keyboard Navigation", "None", "Other"]
+      required: false
+    - id: 18
+      name: online_safety_confidence
+      label: Online Safety Confidence
+      hint: How confident are you in your ability to stay safe online while learning?
+      type: select_one
+      options: ["Very Confident", "Confident", "Neutral", "Unconfident", "Very Unconfident"]
+      required: true
+    - id: 19
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: What improvements would enhance your internet access for learning?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_challenges
+      label: Additional Challenges
+      hint: What other challenges do you face with internet access for learning?
+      type: text
+      options: []
+      required: false

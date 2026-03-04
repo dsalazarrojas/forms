@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Observation Form
+    pages:
+    - id: 1
+      name: teacher_observation_form_first_page
+      label: First page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_observation_form_first_question
+      label: What is your overall impression of this teacher?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: teacher_observation_form_first_section_title
+      label: Teaching Practices
+      hint: null
+      type: select_one
+      options:
+      - Title
+      - Teaching
+      - Communication
+      - Organization
+      - Patience
+      - Use of Materials
+      required: true
+    - id: 5
+      name: teacher_observation_form_rater
+      label: Who rated this teacher?
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Teacher
+      - Student
+      required: true
+    - id: 6
+      name: teacher_observation_form_rater_email
+      label: Rater Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: teacher_observation_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_observation_form_first_rating
+      label: 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: teacher_observation_form_second_rating
+      label: 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: teacher_observation_form_third_rating
+      label: 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: teacher_observation_form_second_page
+      label: Second page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: teacher_observation_form_second_question
+      label: What was the impact of the teacher?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: teacher_observation_form_additional_comments_section_2
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_observation_form_second_section_title
+      label: Teaching Practices
+      hint: null
+      type: select_one
+      options:
+      - Title
+      - Teaching
+      - Communication
+      - Organization
+      - Patience
+      - Use of Materials
+      required: true
+    - id: 15
+      name: teacher_observation_form_second_rating
+      label: 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: teacher_observation_form_third_page
+      label: Third page
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: River Overflow Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_location
+      label: incident-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: severity
+      label: severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: affected_people
+      label: affected-people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: affected_animals
+      label: affected-animals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: affected_properties
+      label: affected-properties
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: affected_structures
+      label: affected-structures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: response_team
+      label: response-team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 10
+      name: incident_image
+      label: incident-image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: additional-info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_video
+      label: incident-video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: goals
+      label: goals
+      hint: null
+      type: select_one
+      options:
+      - Goal A
+      - Goal B
+      - Goal C
+      required: true
+    - id: 14
+      name: objectives
+      label: objectives
+      hint: null
+      type: select_multiple
+      options:
+      - Objective A
+      - Objective B
+      - Objective C
+      required: true
+    - id: 15
+      name: actions
+      label: actions
+      hint: null
+      type: select_multiple
+      options:
+      - Action A
+      - Action B
+      - Action C
+      required: true
+    - id: 16
+      name: resources
+      label: resources
+      hint: null
+      type: select_multiple
+      options:
+      - Resource A
+      - Resource B
+      - Resource C
+      required: true
+    - id: 17
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Status A
+      - Status B
+      - Status C
+      required: true
+    - id: 18
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_id
+      label: incident-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_multiple
+      options:
+      - Tool A
+      - Tool B
+      required: true
+    - id: 21
+      name: assigned_user
+      label: assigned-user
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: incident_type
+      label: incident-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: incident_date
+      label: incident-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_time
+      label: incident-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: incident_date_end
+      label: incident-date-end
+      hint: null
+      type: date
+      options: []
+      required: false

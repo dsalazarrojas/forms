@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Student Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: course_selection
+      label: Select Courses
+      hint: null
+      type: select_multiple
+      options:
+      - 1st Semester
+      - 2nd Semester
+      - 3rd Semester
+      - 4th Semester
+      - 5th Semester
+      - 6th Semester
+      - 7th Semester
+      - 8th Semester
+      - 9th Semester
+      - 10th Semester
+      - 11th Semester
+      - 12th Semester
+      required: true
+    - id: 8
+      name: student_number
+      label: Student Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_contact
+      label: Parent Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_note
+      label: Teacher Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: registration_procedures
+      label: Registration Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Mission Understanding Survey
+    pages:
+    - id: 1
+      name: employee_survey_1
+      label: employee_survey_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: mission_understanding
+      label: mission_understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_mission
+      label: company_mission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: internal_communication
+      label: internal_communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: opportunities
+      label: opportunities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: alignment
+      label: alignment
+      hint: null
+      type: number
+      options: []
+      required: true

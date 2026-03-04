@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_rescue_aerosolized_procedure_report_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_weight
+      label: prophets_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: crew_name
+      label: crew_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: crew_type
+      label: crew_type
+      hint: null
+      type: select_one
+      options:
+      - Fire Medic
+      - Battalion Chief
+      - Paramedic
+      required: true
+    - id: 6
+      name: procedure_type
+      label: procedure_type
+      hint: null
+      type: select_one
+      options:
+      - Aerosolized Procedure
+      - Other
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: location
+      hint: Enter location of the incident
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medic_comments
+      label: medic_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: chief_comments
+      label: chief_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fire_rescue_aerosolized_procedure_report_form_part_ii
+      label: fire_rescue_aerosolized_procedure_report_form_part_ii
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: medic_1_signature
+      label: medic_1_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medic_2_signature
+      label: medic_2_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: chief_signature
+      label: chief_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medic_1_name
+      label: medic_1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medic_2_name
+      label: medic_2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: chief_name
+      label: chief_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email_to
+      label: email_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: phone_to
+      label: phone_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hidden_comments
+      label: hidden_comments
+      hint: null
+      type: note
+      options: []
+      required: false

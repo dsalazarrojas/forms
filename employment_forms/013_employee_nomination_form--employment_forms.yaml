@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Nomination Form
+    pages:
+    - id: 1
+      name: employee_nomination_form_1
+      label: nomination_form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_nomination_form_2
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''employee_1'', ''label'': ''Employee 1''}'
+      - '{''id'': 2, ''name'': ''employee_2'', ''label'': ''Employee 2''}'
+      - '{''id'': 3, ''name'': ''employee_3'', ''label'': ''Employee 3''}'
+      - '{''id'': 4, ''name'': ''employee_4'', ''label'': ''Employee 4''}'
+      - '{''id'': 5, ''name'': ''employee_5'', ''label'': ''Employee 5''}'
+      required: true
+    - id: 3
+      name: employee_nomination_form_3
+      label: nomination_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_nomination_form_4
+      label: employment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''full_time'', ''label'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''part_time'', ''label'': ''Part Time''}'
+      - '{''id'': 3, ''name'': ''contract'', ''label'': ''Contract''}'
+      required: true
+    - id: 5
+      name: employee_nomination_form_5
+      label: nomination_form_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employee_nomination_form_6
+      label: nomination_form_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: employee_nomination_form_7
+      label: nomination_form_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_nomination_form_8
+      label: nomination_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_nomination_form_9
+      label: nomination_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_nomination_form_10
+      label: nomination_form_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_nomination_form_11
+      label: nomination_form_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_nomination_form_12
+      label: nomination_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employee_nomination_form_13
+      label: nomination_form_agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''label'': ''Agree''}'
+      - '{''id'': 2, ''name'': ''disagree'', ''label'': ''Disagree''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      required: true
+    - id: 14
+      name: employee_nomination_form_14
+      label: nomination_form_employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_nomination_form_15
+      label: nomination_form_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_nomination_form_16
+      label: nomination_form_job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_nomination_form_17
+      label: nomination_form_employer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_nomination_form_18
+      label: nomination_form_employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''on_loan'', ''label'': ''On Loan''}'
+      - '{''id'': 4, ''name'': ''resigned'', ''label'': ''Resigned''}'
+      required: true
+    - id: 19
+      name: employee_nomination_form_19
+      label: nomination_form_employment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''full_time'', ''label'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''part_time'', ''label'': ''Part Time''}'
+      - '{''id'': 3, ''name'': ''contract'', ''label'': ''Contract''}'
+      - '{''id'': 4, ''name'': ''temporary'', ''label'': ''Temporary''}'
+      - '{''id'': 5, ''name'': ''seasonal'', ''label'': ''Seasonal''}'
+      - '{''id'': 6, ''name'': ''internship'', ''label'': ''Internship''}'
+      - '{''id'': 7, ''name'': ''co_op'', ''label'': ''Co-Op''}'
+      - '{''id'': 8, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 20
+      name: employee_nomination_form_20
+      label: nomination_form_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''manager_1'', ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''name'': ''manager_2'', ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''name'': ''manager_3'', ''label'': ''Manager 3''}'
+      - '{''id'': 4, ''name'': ''manager_4'', ''label'': ''Manager 4''}'
+      - '{''id'': 5, ''name'': ''manager_5'', ''label'': ''Manager 5''}'
+      - '{''id'': 6, ''name'': ''manager_6'', ''label'': ''Manager 6''}'
+      required: true
+    - id: 21
+      name: employee_nomination_form_21
+      label: nomination_form_supervisor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''supervisor_1'', ''label'': ''Supervisor 1''}'
+      - '{''id'': 2, ''name'': ''supervisor_2'', ''label'': ''Supervisor 2''}'
+      - '{''id'': 3, ''name'': ''supervisor_3'', ''label'': ''Supervisor 3''}'
+      - '{''id'': 4, ''name'': ''supervisor_4'', ''label'': ''Supervisor 4''}'
+      - '{''id'': 5, ''name'': ''supervisor_5'', ''label'': ''Supervisor 5''}'
+      required: true
+    - id: 22
+      name: employee_nomination_form_22
+      label: nomination_form_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_nomination_form_23
+      label: nomination_form_education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_nomination_form_24
+      label: nomination_form_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_nomination_form_25
+      label: nomination_form_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evacuation Alert Communication Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: Contact details for prophets and authorities
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of the incident
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - Location A
+      - Location B
+      - Location C
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: Time of the incident
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 10
+      name: incident_status_note
+      label: Incident Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: incident_date
+      label: Incident Date
+      hint: Date of the incident
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: emergency_response
+      label: Emergency Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: response_status
+      label: Response Status
+      hint: null
+      type: select_multiple
+      options:
+      - On Time
+      - Late
+      - Early
+      required: false
+    - id: 16
+      name: response_note
+      label: Response Note
+      hint: null
+      type: text
+      options: []
+      required: false

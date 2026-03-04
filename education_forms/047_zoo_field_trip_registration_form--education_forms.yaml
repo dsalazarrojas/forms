@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: zoo_field_trip_registration_form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''None'', ''value'': ''None''}'
+      - '{''id'': 2, ''name'': ''Allergies'', ''value'': ''Allergies''}'
+      - '{''id'': 3, ''name'': ''Asthma'', ''value'': ''Asthma''}'
+      - '{''id'': 4, ''name'': ''Diabetes'', ''value'': ''Diabetes''}'
+      - '{''id'': 5, ''name'': ''Epilepsy'', ''value'': ''Epilepsy''}'
+      - '{''id'': 6, ''name'': ''Other'', ''value'': ''Other''}'
+      - '{''id'': 7, ''name'': ''Special Needs'', ''value'': ''Special Needs''}'
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Parent'', ''value'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''Guardian'', ''value'': ''Guardian''}'
+      - '{''id'': 3, ''name'': ''Teacher'', ''value'': ''Teacher''}'
+      - '{''id'': 4, ''name'': ''School Administrator'', ''value'': ''School Administrator''}'
+      - '{''id'': 5, ''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: student_permission
+      label: Student Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 12
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: student_count
+      label: Number of Students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_name2
+      label: Student Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_name3
+      label: Student Name 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone2
+      label: Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name2
+      label: Emergency Contact Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship2
+      label: Relationship 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Parent'', ''value'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''Guardian'', ''value'': ''Guardian''}'
+      - '{''id'': 3, ''name'': ''Teacher'', ''value'': ''Teacher''}'
+      - '{''id'': 4, ''name'': ''School Administrator'', ''value'': ''School Administrator''}'
+      - '{''id'': 5, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 20
+      name: emergency_contact_phone2
+      label: Emergency Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_permission2
+      label: Student Permission 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 22
+      name: student_count2
+      label: Number of Students 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone3
+      label: Contact Phone 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name3
+      label: Emergency Contact Name 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: student_name4
+      label: Student Name 4
+      hint: null
+      type: text
+      options: []
+      required: false

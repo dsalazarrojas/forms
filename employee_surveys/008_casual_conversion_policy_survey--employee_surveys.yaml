@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Casual Conversion Policy Survey
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Respondent role
+        hint: Job title or position
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: employment_status
+        label: Employment status
+        hint: Current employment type
+        type: select_one
+        options:
+          - Casual
+          - Fixed term
+          - Permanent
+        required: true
+      - id: 3
+        name: awareness_of_policy
+        label: Awareness of conversion policy
+        hint: Are you aware of the conversion policy
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 4
+        name: clarity_of_criteria
+        label: Clarity of eligibility criteria
+        hint: How clear are the conversion criteria
+        type: select_one
+        options:
+          - Very clear
+          - Somewhat clear
+          - Not clear
+        required: true
+      - id: 5
+        name: experience_of_application
+        label: Experience of application process
+        hint: Rate your experience applying for conversion
+        type: select_one
+        options:
+          - Very positive
+          - Neutral
+          - Negative
+        required: false
+      - id: 6
+        name: barriers_to_conversion
+        label: Barriers to conversion
+        hint: List any obstacles you faced
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Practical ideas to improve the process
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: willing_to_discuss
+        label: Willing to discuss further
+        hint: May an HR representative contact you
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 9
+        name: anonymous_submission
+        label: Submit anonymously
+        hint: Select yes to withhold your name
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any further observations
+        type: text
+        options: []
+        required: false

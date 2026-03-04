@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Journal Club Evaluation Form
+    pages:
+    - id: 1
+      name: journal_club_evaluation_form
+      label: Journal Club Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: paper_title
+      label: Paper Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: paper_authors
+      label: Paper Authors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presentation_quality
+      label: Presentation Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: paper_quality
+      label: Paper Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_impact
+      label: Overall Impact
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

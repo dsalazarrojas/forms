@@ -1,0 +1,618 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Scientist Onboarding Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: Your middle name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Assigned employee number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Personal Email
+      hint: Personal email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: work_email
+      label: Work Email
+      hint: Company email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: position_information
+      label: Position Information
+      hint: Your role details
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: Your official title
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Research and Development
+      - Clinical Development
+      - Quality Assurance
+      - Quality Control
+      - Manufacturing
+      - Regulatory Affairs
+      - Medical Affairs
+      - Other
+      required: true
+    - id: 20
+      name: division
+      label: Division
+      hint: Your division
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reporting_manager
+      label: Reporting Manager
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: work_location
+      label: Work Location
+      hint: Primary work location
+      type: select_one
+      options:
+      - Main Office
+      - Laboratory Facility A
+      - Laboratory Facility B
+      - Remote
+      - Hybrid
+      required: true
+    - id: 23
+      name: start_date
+      label: Start Date
+      hint: Your first day
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: employment_type
+      label: Employment Type
+      hint: Type of employment
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      - Intern
+      required: true
+    - id: 25
+      name: education
+      label: Education
+      hint: Your educational background
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: highest_degree
+      label: Highest Degree
+      hint: Highest degree earned
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD
+      - MD
+      - MD/PhD
+      - Other
+      required: true
+    - id: 27
+      name: degree_field
+      label: Field of Study
+      hint: Your major
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: university
+      label: University
+      hint: Institution name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: graduation_year
+      label: Graduation Year
+      hint: Year graduated
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: laboratory_access
+      label: Laboratory Access
+      hint: Access requirements
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: lab_access_required
+      label: Lab Access Required
+      hint: Do you need lab access
+      type: select_one
+      options:
+      - Yes - Full Lab Access
+      - Yes - Limited Lab Access
+      - No - Office Only
+      required: true
+    - id: 32
+      name: lab_areas_needed
+      label: Lab Areas Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Laboratory
+      - Cell Culture Room
+      - Molecular Biology Lab
+      - Chemistry Lab
+      - Analytical Lab
+      - Biosafety Level 2
+      - Biosafety Level 3
+      - Animal Facility
+      - Other
+      required: false
+    - id: 33
+      name: equipment_training_needed
+      label: Equipment Training Needed
+      hint: Select equipment you need training on
+      type: select_multiple
+      options:
+      - PCR Machine
+      - Flow Cytometer
+      - Mass Spectrometer
+      - HPLC
+      - Microscope
+      - Centrifuge
+      - Autoclave
+      - Biosafety Cabinet
+      - Other
+      required: false
+    - id: 34
+      name: safety_training
+      label: Safety Training
+      hint: Required safety acknowledgments
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: lab_safety_training
+      label: Lab Safety Training
+      hint: Have you completed lab safety training
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Will Complete During Onboarding
+      required: true
+    - id: 36
+      name: chemical_safety_training
+      label: Chemical Safety Training
+      hint: Have you completed chemical safety training
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Not Required for Role
+      required: true
+    - id: 37
+      name: biosafety_training
+      label: Biosafety Training
+      hint: Have you completed biosafety training
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Not Required for Role
+      required: true
+    - id: 38
+      name: radiation_safety_training
+      label: Radiation Safety Training
+      hint: Have you completed radiation safety training
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Not Required for Role
+      required: true
+    - id: 39
+      name: ppe_requirements
+      label: PPE Requirements
+      hint: Personal protective equipment needed
+      type: select_multiple
+      options:
+      - Lab Coat
+      - Safety Glasses
+      - Gloves
+      - Face Shield
+      - Respirator
+      - Steel-Toed Shoes
+      - Hearing Protection
+      - Other
+      required: true
+    - id: 40
+      name: ppe_size
+      label: PPE Sizes
+      hint: Sizes for PPE
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: safety_acknowledgments
+      label: Safety Acknowledgments
+      hint: Confirm safety understanding
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: safety_manual_acknowledgment
+      label: Safety Manual Acknowledgment
+      hint: Have you read the safety manual
+      type: select_one
+      options:
+      - Yes - I Have Read and Understand
+      - No - Will Read During Onboarding
+      required: true
+    - id: 43
+      name: emergency_procedures_acknowledgment
+      label: Emergency Procedures Acknowledgment
+      hint: Do you understand emergency procedures
+      type: select_one
+      options:
+      - Yes - I Understand Emergency Procedures
+      - No - Need Review
+      required: true
+    - id: 44
+      name: hazard_communication_acknowledgment
+      label: Hazard Communication Acknowledgment
+      hint: Do you understand hazard communication
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - Need Training
+      required: true
+    - id: 45
+      name: incident_reporting_acknowledgment
+      label: Incident Reporting Acknowledgment
+      hint: Do you know how to report incidents
+      type: select_one
+      options:
+      - Yes - I Know Reporting Procedures
+      - No - Need Instruction
+      required: true
+    - id: 46
+      name: compliance_training
+      label: Compliance Training
+      hint: Required compliance items
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: hipaa_training
+      label: HIPAA Training
+      hint: Required for certain roles
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Not Required
+      required: true
+    - id: 48
+      name: glp_training
+      label: Good Laboratory Practice Training
+      hint: GLP training status
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Not Required
+      required: true
+    - id: 49
+      name: gcp_training
+      label: Good Clinical Practice Training
+      hint: GCP training status
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      - Not Required
+      required: true
+    - id: 50
+      name: data_security_training
+      label: Data Security Training
+      hint: Data security training status
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Need Training
+      required: true
+    - id: 51
+      name: it_setup
+      label: IT Setup
+      hint: Technology requirements
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: computer_needed
+      label: Computer Needed
+      hint: Type of computer
+      type: select_one
+      options:
+      - Laptop
+      - Desktop
+      - Both
+      - Already Have
+      required: true
+    - id: 53
+      name: software_requirements
+      label: Software Requirements
+      hint: Software you need access to
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Statistical Software
+      - Laboratory Information System
+      - Electronic Lab Notebook
+      - Data Analysis Tools
+      - Other
+      required: true
+    - id: 54
+      name: phone_needed
+      label: Phone Needed
+      hint: Do you need a work phone
+      type: select_one
+      options:
+      - Yes - Company Phone
+      - Yes - Stipend
+      - false
+      required: true
+    - id: 55
+      name: additional_equipment
+      label: Additional Equipment
+      hint: Any other equipment needed
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: benefits_enrollment
+      label: Benefits Enrollment
+      hint: Benefits selection
+      type: note
+      options: []
+      required: false
+    - id: 57
+      name: health_insurance
+      label: Health Insurance
+      hint: Insurance selection
+      type: select_one
+      options:
+      - Enrolling in Health Insurance
+      - Declining Health Insurance
+      - Have Other Coverage
+      required: true
+    - id: 58
+      name: dental_insurance
+      label: Dental Insurance
+      hint: Dental selection
+      type: select_one
+      options:
+      - Enrolling
+      - Declining
+      required: true
+    - id: 59
+      name: vision_insurance
+      label: Vision Insurance
+      hint: Vision selection
+      type: select_one
+      options:
+      - Enrolling
+      - Declining
+      required: true
+    - id: 60
+      name: retirement_plan
+      label: Retirement Plan
+      hint: 401k or similar
+      type: select_one
+      options:
+      - Enrolling
+      - Declining
+      - Need More Information
+      required: true
+    - id: 61
+      name: direct_deposit
+      label: Direct Deposit
+      hint: Set up direct deposit
+      type: select_one
+      options:
+      - Yes - Will Set Up
+      - No - Prefer Check
+      - Already Set Up
+      required: true
+    - id: 62
+      name: onboarding_checklist
+      label: Onboarding Checklist
+      hint: Track completion
+      type: note
+      options: []
+      required: false
+    - id: 63
+      name: i9_verification
+      label: I-9 Verification
+      hint: Employment eligibility
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Scheduled
+      required: true
+    - id: 64
+      name: background_check
+      label: Background Check
+      hint: Status
+      type: select_one
+      options:
+      - Completed - Cleared
+      - In Progress
+      - Pending
+      required: true
+    - id: 65
+      name: drug_screening
+      label: Drug Screening
+      hint: Status
+      type: select_one
+      options:
+      - Completed - Passed
+      - Scheduled
+      - Not Required
+      required: true
+    - id: 66
+      name: employee_handbook
+      label: Employee Handbook
+      hint: Have you received the handbook
+      type: select_one
+      options:
+      - Yes - Received and Acknowledged
+      - No - Need Copy
+      required: true
+    - id: 67
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or concerns
+      type: text
+      options: []
+      required: false
+    - id: 68
+      name: hr_contact
+      label: HR Contact
+      hint: Your HR representative
+      type: text
+      options: []
+      required: false
+    - id: 69
+      name: employee_signature
+      label: Employee Signature
+      hint: Sign to confirm information
+      type: select_one
+      options:
+      - I certify all information is accurate
+      - I acknowledge receipt of onboarding materials
+      required: true
+    - id: 70
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

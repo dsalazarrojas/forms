@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Entry Form
+    pages:
+    - id: 1
+      name: task_entry_form
+      label: task_entry_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_name
+      label: task_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_description
+      label: task_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_objective
+      label: task_objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: task_goal
+      label: task_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: task_status
+      label: task_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: task_due_date
+      label: task_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: task_completed_date
+      label: task_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: task_creator
+      label: task_creator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: task_assigned_to
+      label: task_assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: task_priority
+      label: task_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

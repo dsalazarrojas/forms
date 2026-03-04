@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salary Survey
+    pages:
+    - id: 1
+      name: employee_surveys
+      label: Employee Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_ids
+      label: form-ids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false

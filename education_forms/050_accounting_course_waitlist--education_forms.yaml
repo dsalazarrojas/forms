@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Course Waitlist
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_background
+      label: -- Background and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Working professional
+      - Full-time student
+      - Part-time student
+      - Career changer
+      - Retired
+      - Other
+      required: true
+    - id: 8
+      name: accounting_experience
+      label: Prior Accounting Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic knowledge (self-taught)
+      - Some coursework completed
+      - Currently working in accounting
+      - Certified professional seeking refresher
+      required: true
+    - id: 9
+      name: education_level
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 10
+      name: primary_goal
+      label: Primary Goal for Taking This Course
+      hint: null
+      type: select_one
+      options:
+      - Career advancement
+      - Career change into accounting
+      - Prepare for CPA or certification exam
+      - Personal knowledge
+      - Manage my own business finances
+      - Other
+      required: true
+    - id: 11
+      name: section_course_preferences
+      label: -- Course Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: course_interest
+      label: Course of Interest
+      hint: null
+      type: select_one
+      options:
+      - Introduction to Accounting
+      - Intermediate Accounting
+      - Advanced Accounting
+      - Tax Accounting
+      - Managerial Accounting
+      - Bookkeeping Fundamentals
+      - Other
+      required: true
+    - id: 13
+      name: preferred_format
+      label: Preferred Course Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online (live)
+      - Online (self-paced)
+      - Hybrid
+      - No preference
+      required: true
+    - id: 14
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekday mornings
+      - Weekday evenings
+      - Weekends
+      - Flexible or self-paced
+      required: true
+    - id: 15
+      name: preferred_start_period
+      label: When Would You Like to Start
+      hint: null
+      type: select_one
+      options:
+      - As soon as possible
+      - Next month
+      - Next quarter
+      - Next semester
+      - Flexible
+      required: true
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About This Course
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Email newsletter
+      - Referral from friend or colleague
+      - Search engine
+      - Other
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

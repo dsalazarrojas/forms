@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Department Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: emergency_department_patient_satisfaction_survey_page1
+      label: emergency_department_patient_satisfaction_survey_page1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_of_wait_time
+      label: how_long_did_you_wait
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 30 minutes''}'
+      - '{''label'': ''30-60 minutes''}'
+      - '{''label'': ''60-90 minutes''}'
+      - '{''label'': ''More than 90 minutes''}'
+      required: false
+    - id: 3
+      name: rating_of_nurse
+      label: what_was_the_level_of_nurse_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: rating_of_doctor
+      label: what_was_the_level_of_doctor_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: patient_safety_procedure
+      label: were_all_safety_procedures_properly_followed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: hospital_environment
+      label: what_was_your_overall_experience_of_the_hospital
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: staff_helpfulness
+      label: how_helpful_was_the_staff_during_your_visit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very helpful''}'
+      - '{''label'': ''Somewhat helpful''}'
+      - '{''label'': ''Not helpful at all''}'
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: overall_rating_of_your_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: emergency_department_patient_satisfaction_survey_note
+      label: any_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false

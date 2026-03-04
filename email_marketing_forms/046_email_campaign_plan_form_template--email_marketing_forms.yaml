@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email-Campaign-Plan-Form-Template
+    pages:
+    - id: 1
+      name: form_title
+      label: email_campaign_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_audience_type
+      label: target_audience_type
+      hint: null
+      type: select_one
+      options:
+      - email_marketing
+      - social_media
+      - content
+      required: true
+    - id: 7
+      name: marketing_channel
+      label: marketing_channel
+      hint: null
+      type: select_one
+      options:
+      - email
+      - mobile
+      - social_media
+      - offline
+      required: true
+    - id: 8
+      name: send_timeframe
+      label: send_timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: send_frequency
+      label: send_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: send_day
+      label: send_day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: send_time
+      label: send_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: send_duration
+      label: send_duration
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: true
+    - id: 13
+      name: send_frequency_period
+      label: send_frequency_period
+      hint: null
+      type: select_one
+      options:
+      - day
+      - week
+      - month
+      required: true
+    - id: 14
+      name: send_day_of_week
+      label: send_day_of_week
+      hint: null
+      type: select_multiple
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      required: false
+    - id: 15
+      name: send_time_of_day
+      label: send_time_of_day
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 16
+      name: campaign_goal
+      label: campaign_goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: send_list
+      label: send_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: campaign_budget
+      label: campaign_budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: send_budget
+      label: send_budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: send_list_size
+      label: send_list_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: send_frequency_cap
+      label: send_frequency_cap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: send_frequency_limit
+      label: send_frequency_limit
+      hint: null
+      type: select_multiple
+      options:
+      - unlimited
+      - '10000'
+      - '50000'
+      required: false
+    - id: 23
+      name: email_subject
+      label: email_subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: email_body
+      label: email_body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: email_footer
+      label: email_footer
+      hint: null
+      type: text
+      options: []
+      required: false

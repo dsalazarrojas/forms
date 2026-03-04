@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Hardware Tutor Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Welcome to our survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_survey
+      label: How satisfied are you with the course?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: learning_impact_survey
+      label: What did you learn from the course?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Learned a lot
+      - Learned a little
+      - Didn't learn much
+      - Didn't learn at all
+      required: false
+    - id: 4
+      name: technical_issues
+      label: Were there any technical issues during the course?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 5
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_form
+      label: Submit your response
+      hint: null
+      type: text
+      options: []
+      required: false

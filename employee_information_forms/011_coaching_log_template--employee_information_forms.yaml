@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Log Template
+    pages:
+    - id: 1
+      name: section_coach_info
+      label: -- Coach Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_id
+      label: Coach ID Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: session_duration
+      label: Session Duration (minutes)
+      hint: Total length of session
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: Name of the person being coached
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_session_focus
+      label: -- Session Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: session_topic
+      label: Primary Topic or Focus Area
+      hint: Main subject discussed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coaching_areas
+      label: Coaching Areas Covered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Goal setting
+      - Performance improvement
+      - Accountability
+      - Skill development
+      - Mindset and motivation
+      - Problem solving
+      - Work-life balance
+      - Other
+      required: true
+    - id: 13
+      name: section_session_notes
+      label: -- Session Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: session_summary
+      label: Session Summary
+      hint: Key points discussed and outcomes
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_progress
+      label: Client Progress and Achievements
+      hint: What has the client accomplished?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: challenges_discussed
+      label: Challenges or Obstacles Discussed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_action_items
+      label: -- Action Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_action_items
+      label: Client Action Items
+      hint: What will the client work on?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: coach_action_items
+      label: Coach Action Items
+      hint: What will you work on?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Scheduled Follow-up Date
+      hint: Date for next coaching session
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_effectiveness
+      label: -- Session Effectiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: session_effectiveness
+      label: Session Effectiveness Rating
+      hint: How effective was this session?
+      type: select_one
+      options:
+      - Highly effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      required: true
+    - id: 23
+      name: client_engagement
+      label: Client Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - Highly engaged
+      - Engaged
+      - Somewhat engaged
+      - Not engaged
+      required: true

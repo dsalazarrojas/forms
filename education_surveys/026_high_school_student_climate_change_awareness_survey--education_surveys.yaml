@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Student Climate Change Awareness Survey
+    pages:
+    - id: 1
+      name: climate_change_knowledge
+      label: Climate Change Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - a bit
+      - not at all
+      - somewhat
+      - very much
+      required: false
+    - id: 2
+      name: climate_concern
+      label: Climate Concern
+      hint: null
+      type: select_one
+      options:
+      - not concerned
+      - somewhat concerned
+      - very concerned
+      - extremely concerned
+      required: false
+    - id: 3
+      name: climate_action
+      label: Climate Action
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: climate_awareness
+      label: Climate Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_support
+      label: Student Support
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 6
+      name: campus_climate_influence
+      label: Climate Influence
+      hint: null
+      type: select_multiple
+      options:
+      - some
+      - a lot
+      - very much
+      required: false
+    - id: 7
+      name: climate_emphasis
+      label: Climate Emphasis
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: climate_participation
+      label: Climate Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      - unsure
+      required: false
+    - id: 9
+      name: climate_awareness_level
+      label: Climate Awareness Level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 10
+      name: climate_knowledge_area
+      label: Climate Knowledge Area
+      hint: null
+      type: select_multiple
+      options:
+      - broadly
+      - somewhat
+      - not very
+      required: false
+    - id: 11
+      name: climate_action_plan
+      label: Climate Action Plan
+      hint: Please describe your plan.
+      type: text
+      options: []
+      required: false

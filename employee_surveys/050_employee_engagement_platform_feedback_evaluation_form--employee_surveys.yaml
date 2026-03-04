@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Engagement Platform Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: employee_engagement_platform_feedback
+      label: Platform Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: communication_with_admin
+      label: Communication with Admin
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: support_experience
+      label: Support Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

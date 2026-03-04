@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Transfer Form
+    pages:
+    - id: 1
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''department1'', ''label'': ''Department 1''}'
+      - '{''id'': 2, ''name'': ''department2'', ''label'': ''Department 2''}'
+      - '{''id'': 3, ''name'': ''department3'', ''label'': ''Department 3''}'
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_department
+      label: New Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''department1'', ''label'': ''Department 1''}'
+      - '{''id'': 2, ''name'': ''department2'', ''label'': ''Department 2''}'
+      - '{''id'': 3, ''name'': ''department3'', ''label'': ''Department 3''}'
+      required: false
+    - id: 6
+      name: old_department
+      label: Old Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''department1'', ''label'': ''Department 1''}'
+      - '{''id'': 2, ''name'': ''department2'', ''label'': ''Department 2''}'
+      - '{''id'': 3, ''name'': ''department3'', ''label'': ''Department 3''}'
+      required: false
+    - id: 7
+      name: old_department_location
+      label: Old Department Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

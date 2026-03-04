@@ -1,0 +1,414 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mid Semester Course Evaluation Form
+    pages:
+    - id: 1
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learning_experience
+      label: Learning Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 3
+      name: course_improvement
+      label: Course Improvement
+      hint: What specific aspect of the course do you want to improve?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_feedback_2
+      label: Student Feedback 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_improvement_2
+      label: Course Improvement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestions_2
+      label: Suggestions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instructor_feedback_2
+      label: Instructor Feedback 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_engagement_2
+      label: Student Engagement 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 17
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_3
+      label: Email 3
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_3
+      label: Phone 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_improvement_3
+      label: Course Improvement 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: suggestions_3
+      label: Suggestions 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instructor_feedback_3
+      label: Instructor Feedback 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_engagement_3
+      label: Student Engagement 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 24
+      name: additional_comments_3
+      label: Additional Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: email_4
+      label: Email 4
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: phone_4
+      label: Phone 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: course_improvement_4
+      label: Course Improvement 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: suggestions_4
+      label: Suggestions 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: instructor_feedback_4
+      label: Instructor Feedback 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: student_engagement_4
+      label: Student Engagement 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 31
+      name: additional_comments_4
+      label: Additional Comments 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: email_5
+      label: Email 5
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 33
+      name: phone_5
+      label: Phone 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: course_improvement_5
+      label: Course Improvement 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: suggestions_5
+      label: Suggestions 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: instructor_feedback_5
+      label: Instructor Feedback 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: student_engagement_5
+      label: Student Engagement 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 38
+      name: additional_comments_5
+      label: Additional Comments 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: email_6
+      label: Email 6
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 40
+      name: phone_6
+      label: Phone 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: course_improvement_6
+      label: Course Improvement 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: suggestions_6
+      label: Suggestions 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: instructor_feedback_6
+      label: Instructor Feedback 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: student_engagement_6
+      label: Student Engagement 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 45
+      name: additional_comments_6
+      label: Additional Comments 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: email_7
+      label: Email 7
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 47
+      name: phone_7
+      label: Phone 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: course_improvement_7
+      label: Course Improvement 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: suggestions_7
+      label: Suggestions 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: instructor_feedback_7
+      label: Instructor Feedback 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: student_engagement_7
+      label: Student Engagement 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Somewhat Engaged''}'
+      required: false
+    - id: 52
+      name: additional_comments_7
+      label: Additional Comments 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 53
+      name: email_8
+      label: Email 8
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 54
+      name: phone_8
+      label: Phone 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: course_improvement_8
+      label: Course Improvement 8
+      hint: null
+      type: text
+      options: []
+      required: false

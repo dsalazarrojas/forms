@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Procedures Form
+    pages:
+    - id: 1
+      name: emergency_contact_form_template
+      label: emergency_contact_form_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_procedure_name
+      label: emergency_procedure_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_procedure_location
+      label: emergency_procedure_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_procedure_description
+      label: emergency_procedure_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_procedure_type
+      label: emergency_procedure_type
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact Form
+      - Safety Inspection Form
+      required: false
+    - id: 9
+      name: emergency_procedure_priority
+      label: emergency_procedure_priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: emergency_procedure_status
+      label: emergency_procedure_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

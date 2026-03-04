@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Meeting Attendance Form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_status
+      label: attendance_status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      required: true
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submitter_type
+      label: submitter_type
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Admin
+      required: true
+    - id: 9
+      name: submitter_group
+      label: submitter_group
+      hint: null
+      type: select_multiple
+      options:
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 10
+      name: submitter_dept
+      label: submitter_dept
+      hint: null
+      type: select_multiple
+      options:
+      - Science
+      - Math
+      - Social Studies
+      required: true
+    - id: 11
+      name: submitter_floor
+      label: submitter_floor
+      hint: null
+      type: select_multiple
+      options:
+      - Floor 1
+      - Floor 2
+      - Floor 3
+      required: true
+    - id: 12
+      name: submitter_room
+      label: submitter_room
+      hint: null
+      type: select_multiple
+      options:
+      - Room A
+      - Room B
+      - Room C
+      required: true
+    - id: 13
+      name: submitter_section
+      label: submitter_section
+      hint: null
+      type: select_multiple
+      options:
+      - Section 1
+      - Section 2
+      - Section 3
+      required: true
+    - id: 14
+      name: submitter_time
+      label: submitter_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_note
+      label: submitter_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter_other
+      label: submitter_other
+      hint: null
+      type: text
+      options: []
+      required: false

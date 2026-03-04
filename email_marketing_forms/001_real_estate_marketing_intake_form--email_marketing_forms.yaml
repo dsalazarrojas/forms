@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Marketing Intake Form
+    pages:
+    - id: 1
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_type
+      label: real_estate_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: property_type_other
+      label: property_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: lead_source_other
+      label: lead_source_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_channel
+      label: marketing_channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: marketing_channels
+      label: marketing_channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: marketing_channel_other
+      label: marketing_channels_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: real_estate_agents
+      label: real_estate_agents
+      hint: null
+      type: text
+      options: []
+      required: false

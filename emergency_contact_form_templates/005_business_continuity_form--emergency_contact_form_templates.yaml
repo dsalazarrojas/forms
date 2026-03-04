@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Form
+    pages:
+    - id: 1
+      name: organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your business or entity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization?
+      type: select_one
+      options:
+      - Corporation
+      - Non-Profit
+      - Government
+      - Healthcare
+      - Educational
+      - Other
+      required: true
+    - id: 4
+      name: department_name
+      label: Department Name
+      hint: Specific department if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_of_employees
+      label: Number of Employees
+      hint: Approximate employee count
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_section
+      label: -- Primary Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Primary Contact Name
+      hint: Main continuity coordinator
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: alternate_contact_name
+      label: Alternate Contact Name
+      hint: Backup coordinator name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: alternate_contact_phone
+      label: Alternate Contact Phone
+      hint: Backup contact number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operations_section
+      label: -- Critical Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: critical_functions
+      label: Critical business functions
+      hint: List key operations that must continue
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recovery_time_objective
+      label: Recovery Time Objective (RTO)
+      hint: Hours needed to resume operations
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: recovery_point_objective
+      label: Recovery Point Objective (RPO)
+      hint: Maximum acceptable data loss in hours
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: backup_location
+      label: Backup Location
+      hint: Where backups are stored
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_assessment
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: identified_risks
+      label: Identified risks and threats
+      hint: Select relevant threats
+      type: select_multiple
+      options:
+      - Natural Disasters
+      - Cyber Attacks
+      - Power Outages
+      - Data Loss
+      - Key Personnel Loss
+      - Equipment Failure
+      - Supply Chain Disruption
+      - Other
+      required: true
+    - id: 20
+      name: existing_plan
+      label: Do you have an existing continuity plan?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Development
+      required: true
+    - id: 21
+      name: plan_last_tested
+      label: When was the plan last tested?
+      hint: Date of most recent test or drill
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_review_date
+      label: Next planned review date
+      hint: When should the plan be updated?
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: support_needs
+      label: Assistance needed
+      hint: What support do you need for continuity planning?
+      type: text
+      options: []
+      required: false

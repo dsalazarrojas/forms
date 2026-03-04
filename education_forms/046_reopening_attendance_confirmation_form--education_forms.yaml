@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reopening Attendance Confirmation Form
+    pages:
+    - id: 1
+      name: school_or_workplace
+      label: School or Workplace
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Workplace
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: physical_attendance
+      label: Physical Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: other_tool
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_tool_version
+      label: Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - user1
+      - user2
+      required: false
+    - id: 17
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: deleted_at
+      label: Deleted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: deleted_by
+      label: Deleted by
+      hint: null
+      type: select_one
+      options:
+      - deleted_user1
+      - deleted_user2
+      required: false
+    - id: 22
+      name: deleted_reason
+      label: Deleted reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: deleted_user_info
+      label: Deleted user info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Communication Feedback Form
+    pages:
+    - id: 1
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: school_phone_number
+      label: School Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone_number
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: staff_phone_number
+      label: Staff Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_website
+      label: School Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_facebook
+      label: School Facebook
+      hint: null
+      type: select_one
+      options:
+      - School Facebook
+      - School Website
+      - Parent Portal
+      required: false
+    - id: 9
+      name: school_twitter
+      label: School Twitter
+      hint: null
+      type: select_multiple
+      options:
+      - School Facebook
+      - School Website
+      - Parent Portal
+      - School Email
+      - School Phone Number
+      required: false
+    - id: 10
+      name: parent_portal
+      label: Parent Portal
+      hint: null
+      type: select_one
+      options:
+      - School Website
+      - Parent Email
+      - Parent Phone Number
+      required: false
+    - id: 11
+      name: staff_portal
+      label: Staff Portal
+      hint: null
+      type: select_one
+      options:
+      - School Website
+      - Staff Email
+      - School Phone Number
+      required: false
+    - id: 12
+      name: communication_channels
+      label: Which of the following communication channels do you use to get updates?
+      hint: null
+      type: select_multiple
+      options:
+      - Newsletter
+      - Text Messages
+      - Email
+      - Phone
+      - Parent Portal
+      - Staff Portal
+      - School Website
+      required: false
+    - id: 13
+      name: effective_communication_channels
+      label: Which communication channel do you think is most effective?
+      hint: null
+      type: select_one
+      options:
+      - Newsletter
+      - Text Messages
+      - Email
+      - Phone
+      - Parent Portal
+      - Staff Portal
+      - School Website
+      required: false

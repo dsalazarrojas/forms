@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapist Onboarding Form
+    pages:
+    - id: 1
+      name: physical_therapist_info
+      label: Physical Therapist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credential_verification
+      label: Credential Verification
+      hint: Check with your local medical board
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_graduation
+      label: Date of Graduation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: license_state
+      label: License State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: clinic_info
+      label: Clinic Info
+      hint: null
+      type: text
+      options: []
+      required: false

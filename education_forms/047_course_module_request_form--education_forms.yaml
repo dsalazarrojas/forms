@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Module Request Form
+    pages:
+    - id: 1
+      name: user_inputs
+      label: User Inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_module_name
+      label: Course Module Name
+      hint: Enter the name of the course module
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_module_code
+      label: Course Module Code
+      hint: Enter the course module code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: module_type
+      label: Module Type
+      hint: Select the module type
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: module_level
+      label: Module Level
+      hint: Select the module level
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: course_credits
+      label: Course Credits
+      hint: Enter the number of credits
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: Enter the start date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: Enter the end date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: Select the status
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Archived
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: Enter a description of the module
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_comments
+      label: Review Comments
+      hint: Enter review comments here
+      type: text
+      options: []
+      required: false

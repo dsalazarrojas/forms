@@ -1,0 +1,382 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Disbursement Form
+    pages:
+    - id: 1
+      name: disbursement_header
+      label: Cash Disbursement Form
+      hint: Authorize and record cash payments
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: disbursement_id
+      label: Disbursement ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disbursement_date
+      label: Disbursement Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payee_info
+      label: Payee Information
+      hint: Who is receiving payment
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payee_name
+      label: Payee Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payee_type
+      label: Payee Type
+      hint: Category
+      type: select_one
+      options:
+      - Employee
+      - Vendor or supplier
+      - Contractor
+      - Customer - refund
+      - Client
+      - Other
+      required: true
+    - id: 7
+      name: payee_address
+      label: Payee Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payee_email
+      label: Payee Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: payee_phone
+      label: Payee Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payee_id
+      label: Payee ID Number
+      hint: Employee or vendor ID
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_details
+      label: Payment Details
+      hint: Payment specifics
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: Total dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: currency
+      label: Currency
+      hint: Currency type
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - Other
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How payment is made
+      type: select_one
+      options:
+      - Cash from petty cash
+      - Cash from safe
+      - Check
+      - Wire transfer
+      - ACH transfer
+      - Other electronic payment
+      required: true
+    - id: 15
+      name: payment_reason
+      label: Reason for Payment
+      hint: Purpose
+      type: select_one
+      options:
+      - Expense reimbursement
+      - Vendor payment
+      - Contractor payment
+      - Refund
+      - Petty cash replenishment
+      - Emergency payment
+      - Travel advance
+      - Other
+      required: true
+    - id: 16
+      name: payment_description
+      label: Detailed Description
+      hint: More information
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: invoice_number
+      label: Invoice Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: invoice_date
+      label: Invoice Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: purchase_order
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: account_info
+      label: Account Information
+      hint: Charging details
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: general_ledger_code
+      label: General Ledger Code
+      hint: GL account
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: department_code
+      label: Department Code
+      hint: Cost center
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_code
+      label: Project Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_category
+      label: Budget Category
+      hint: Expense category
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tax_info
+      label: Tax Information
+      hint: Tax details
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: tax_applicable
+      label: Is Tax Applicable
+      hint: Tax status
+      type: select_one
+      options:
+      - Yes - tax included
+      - Yes - tax additional
+      - No - not taxable
+      - No - tax exempt
+      required: false
+    - id: 27
+      name: tax_amount
+      label: Tax Amount
+      hint: Tax value
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: tax_rate
+      label: Tax Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Attached documentation
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: documents_attached
+      label: Documents Attached
+      hint: What is included
+      type: select_multiple
+      options:
+      - Invoice
+      - Receipt
+      - Purchase order
+      - Contract
+      - Approval memo
+      - Delivery receipt
+      - Other
+      required: false
+    - id: 31
+      name: document_count
+      label: Number of Documents
+      hint: Document count
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: authorization
+      label: Authorization
+      hint: Approvals required
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: requested_by
+      label: Requested By
+      hint: Requester name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: request_date
+      label: Request Date
+      hint: When requested
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: approved_by
+      label: Approved By
+      hint: Approver name
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: approval_date
+      label: Approval Date
+      hint: When approved
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: approval_level
+      label: Approval Level Required
+      hint: Authority level
+      type: select_one
+      options:
+      - Supervisor only
+      - Manager only
+      - Director level
+      - Executive level
+      - Multiple approvals
+      required: false
+    - id: 38
+      name: processed_by
+      label: Processed By
+      hint: Processor name
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: process_date
+      label: Process Date
+      hint: When processed
+      type: date
+      options: []
+      required: false
+    - id: 40
+      name: check_details
+      label: Check Details
+      hint: If paid by check
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: check_number
+      label: Check Number
+      hint: Check identifier
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: bank_account
+      label: Bank Account
+      hint: Account used
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: cash_balance_before
+      label: Cash Balance Before Disbursement
+      hint: Starting balance
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: cash_balance_after
+      label: Cash Balance After Disbursement
+      hint: Ending balance
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: notes
+      label: Additional Notes
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: payee_signature
+      label: Payee Signature Date
+      hint: Acknowledgment of receipt
+      type: date
+      options: []
+      required: false
+    - id: 47
+      name: preparer_signature
+      label: Preparer Signature Date
+      hint: Date prepared
+      type: date
+      options: []
+      required: false
+    - id: 48
+      name: approver_signature
+      label: Approver Signature Date
+      hint: Date approved
+      type: date
+      options: []
+      required: false

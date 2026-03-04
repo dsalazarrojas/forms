@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Subscription Preferences
+    pages:
+    - id: 1
+      name: newsletter_frequency
+      label: How often do you want to receive newsletters?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Weekly
+      - Monthly
+      required: true
+    - id: 2
+      name: newsletter_content
+      label: What topics are you interested in learning more about?
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Product
+      - News
+      - Offers
+      required: true
+    - id: 3
+      name: newsletter_channel
+      label: How do you want to receive our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Phone
+      - None
+      required: true
+    - id: 4
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional comments or questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_email
+      label: Confirm email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: confirm_phone
+      label: Confirm phone number
+      hint: null
+      type: text
+      options: []
+      required: false

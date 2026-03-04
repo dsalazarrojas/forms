@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Policy Communication Survey
+    pages:
+    - id: 1
+      name: employee_surveys
+      label: Employee Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: department_id
+      label: Department Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payroll_policy
+      label: Payroll Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_frequency
+      label: Policy Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: policy_method
+      label: Policy Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payroll_communication
+      label: Payroll Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: understanding
+      label: Understanding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: preferences
+      label: Preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

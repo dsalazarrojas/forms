@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multilingual Family Needs Survey
+    pages:
+    - id: 1
+      name: language_spoken
+      label: Language Spoken At Home
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other Language
+      required: true
+    - id: 2
+      name: age_of_child
+      label: Age Of Child
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: languages_supported
+      label: Languages Supported At Home
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 4
+      name: language_skills
+      label: Language Skills
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Math
+      - Reading
+      - Writing
+      - Other
+      required: true
+    - id: 5
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - English Language Support
+      - Spanish Language Support
+      - Parenting Support
+      - Other Support
+      required: true
+    - id: 6
+      name: family_income
+      label: Family Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: household_members
+      label: Household Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: household_size
+      label: Household Size
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5 or More
+      required: true
+    - id: 9
+      name: languages_spoken_by_adult
+      label: Languages Spoken By Adult
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other Language
+      required: true
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Some College
+      - Bachelor
+      - Graduate
+      required: true
+    - id: 11
+      name: education_level_child
+      label: Education Level Of Child
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Some College
+      - Bachelor
+      - Graduate
+      required: true
+    - id: 12
+      name: household_language
+      label: Language Spoken At Home
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 13
+      name: adult_education
+      label: Adult Education
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: true
+    - id: 14
+      name: adult_education_other
+      label: Other Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: household_location
+      label: Household Location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: true
+    - id: 16
+      name: language_needs_other
+      label: Other Language Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: household_income_other
+      label: Other Household Income
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 18
+      name: family_language
+      label: Family Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 19
+      name: family_size
+      label: Family Size
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5 or More
+      required: true
+    - id: 20
+      name: family_income_level
+      label: Family Income Level
+      hint: null
+      type: select_one
+      options:
+      - Less Than 25K
+      - 25K-49K
+      - 50K-74K
+      - 75K or More
+      required: true
+    - id: 21
+      name: adult_highest_edu
+      label: Adult Highest Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: true
+    - id: 22
+      name: family_language_other
+      label: Other Family Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: family_location
+      label: Family Location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: true
+    - id: 24
+      name: education_other
+      label: Other Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: adult_employment
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Other
+      required: true

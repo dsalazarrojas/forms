@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Messaging Coordination Survey
+    pages:
+    - id: 1
+      name: team_messaging_tools
+      label: Team Messaging Tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvements
+      label: Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

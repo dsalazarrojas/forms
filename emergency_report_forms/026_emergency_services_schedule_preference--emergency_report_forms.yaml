@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Services Schedule Preference
+    pages:
+    - id: 1
+      name: general
+      label: General Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: oncall_availability
+      label: On-Call Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: constraints
+      label: Constraints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift_preferred
+      label: Shift Preferred
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 6
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: max_shifts
+      label: Max Shifts Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emergency_services_schedule_preference
+      label: Emergency Services Schedule Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_services_schedule_comment
+      label: Emergency Services Schedule Preference Comment
+      hint: null
+      type: note
+      options: []
+      required: false

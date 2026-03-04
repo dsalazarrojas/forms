@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Resource Usage Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audience
+      label: Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Books''}'
+      - '{''label'': ''Articles''}'
+      - '{''label'': ''Videos''}'
+      - '{''label'': ''Websites''}'
+      required: false
+    - id: 4
+      name: frequency
+      label: Frequency of Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration of Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose of Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Research''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Reference''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Easy''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Hard''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

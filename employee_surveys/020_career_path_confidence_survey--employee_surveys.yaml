@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Path Confidence Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure_years
+      label: Years with Organization
+      hint: How long have you worked here?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: career_confidence
+      label: Overall Confidence in Your Career Path
+      hint: How confident are you about your career direction?
+      type: select_one
+      options:
+      - Very confident - know exactly where I'm headed
+      - Confident - have a clear direction
+      - Somewhat confident - general sense of direction
+      - Uncertain - still figuring it out
+      - Not confident - unclear about direction
+      required: true
+    - id: 7
+      name: current_role_fit
+      label: Confidence That Your Current Role Is Right for You
+      hint: null
+      type: select_one
+      options:
+      - Very confident - perfect fit
+      - Confident - good match
+      - Neutral - adequate
+      - Uncertain - not sure
+      - Not confident - wrong role
+      required: true
+    - id: 8
+      name: advancement_readiness
+      label: Confidence in Ability to Advance Within Organization
+      hint: Do you feel ready for promotion or growth?
+      type: select_one
+      options:
+      - Very confident - ready for next level
+      - Confident - working toward advancement
+      - Somewhat confident - need some development
+      - Uncertain - unsure of readiness
+      - Not confident - feel stuck
+      required: true
+    - id: 9
+      name: skills_adequacy
+      label: Confidence That Your Skills Match Career Goals
+      hint: Do you have the skills you need?
+      type: select_one
+      options:
+      - Very confident - have all needed skills
+      - Confident - mostly prepared
+      - Somewhat confident - some gaps
+      - Uncertain - unclear about skill gaps
+      - Not confident - significant skill gaps
+      required: true
+    - id: 10
+      name: skill_development_path
+      label: Clear Plan for Skill Development
+      hint: Do you know how to develop needed skills?
+      type: select_one
+      options:
+      - Very clear - specific development plan
+      - Clear - general idea of path
+      - Somewhat clear - exploring options
+      - Unclear - not sure how to proceed
+      - No plan - confused about steps
+      required: true
+    - id: 11
+      name: advancement_criteria
+      label: Understanding of Career Advancement Criteria
+      hint: Do you know what's needed to advance?
+      type: select_one
+      options:
+      - Very clear - know exactly
+      - Clear - understand well
+      - Somewhat clear - general understanding
+      - Unclear - vague knowledge
+      - Very unclear - don't know
+      required: true
+    - id: 12
+      name: organizational_support
+      label: Confidence in Organizational Support for Growth
+      hint: Does company support your development?
+      type: select_one
+      options:
+      - Very confident - strong support
+      - Confident - good support available
+      - Somewhat confident - some support
+      - Uncertain - unclear
+      - Not confident - limited support
+      required: true
+    - id: 13
+      name: manager_support
+      label: Manager Support for Your Career Development
+      hint: Does your manager support your growth?
+      type: select_one
+      options:
+      - Very supportive - actively helps
+      - Supportive - provides guidance
+      - Somewhat supportive - limited support
+      - Not very supportive - minimal help
+      - Unsupportive - discourages growth
+      required: true
+    - id: 14
+      name: mentor_influence
+      label: Having a Mentor or Role Model
+      hint: Impact on career confidence
+      type: select_one
+      options:
+      - Have mentor - very influential
+      - Have mentor - somewhat helpful
+      - No mentor - would help
+      - No mentor - not needed
+      - No mentor - seeking one
+      required: false
+    - id: 15
+      name: career_visibility
+      label: Visibility Within Organization
+      hint: How well do decision-makers know your work?
+      type: select_one
+      options:
+      - Very visible - well known
+      - Visible - noticed by leadership
+      - Somewhat visible - known in area
+      - Low visibility - mostly unknown
+      - No visibility - invisible
+      required: false
+    - id: 16
+      name: confidence_factors
+      label: What Increases Your Career Confidence?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Positive feedback and recognition
+      - Successful project completion
+      - Learning new skills
+      - Mentorship and guidance
+      - Clear career path information
+      - Promotion or advancement
+      - Peer support and collaboration
+      - Professional development opportunities
+      - Financial stability
+      - Work-life balance
+      required: true
+    - id: 17
+      name: confidence_barriers
+      label: What Decreases Your Career Confidence?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Unclear expectations
+      - Limited advancement opportunities
+      - Lack of skill development
+      - Poor management support
+      - Workplace challenges or conflicts
+      - Imposter syndrome
+      - Comparison to peers
+      - Economic uncertainty
+      - Work overload or burnout
+      - Limited visibility
+      required: false
+    - id: 18
+      name: transition_confidence
+      label: If Changing Roles - Confidence in Making Transition
+      hint: Confidence about career change
+      type: select_one
+      options:
+      - Very confident - ready for change
+      - Confident - prepared
+      - Somewhat confident - some concerns
+      - Uncertain - many doubts
+      - Not confident - anxious about change
+      required: false
+    - id: 19
+      name: external_market_confidence
+      label: Confidence About External Job Market
+      hint: How employable do you feel outside this company?
+      type: select_one
+      options:
+      - Very confident - highly marketable
+      - Confident - would be hired easily
+      - Somewhat confident - some prospects
+      - Uncertain - unclear marketability
+      - Not confident - limited prospects
+      required: false
+    - id: 20
+      name: long_term_confidence
+      label: Confidence in 5-Year Career Direction
+      hint: Long-term career outlook
+      type: select_one
+      options:
+      - Very confident - clear vision
+      - Confident - sense of direction
+      - Somewhat confident - general idea
+      - Uncertain - unclear future
+      - Not confident - worried about future
+      required: true
+    - id: 21
+      name: support_needs
+      label: What Would Increase Your Career Confidence?
+      hint: What support or resources do you need?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about your career path?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Measurement Conversion Quiz
+    pages:
+    - id: 1
+      name: home
+      label: home
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: unit_conversion_question
+      label: unit_conversion_question
+      hint: null
+      type: select_multiple
+      options:
+      - meter
+      - kilometer
+      - centimeter
+      - millimeter
+      - inch
+      - foot
+      - yard
+      - mile
+      required: true
+    - id: 3
+      name: from_unit
+      label: from_unit
+      hint: null
+      type: select_one
+      options:
+      - meter
+      - kilometer
+      - centimeter
+      - millimeter
+      required: true
+    - id: 4
+      name: from_value
+      label: from_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: to_unit
+      label: to_unit
+      hint: null
+      type: select_one
+      options:
+      - meter
+      - kilometer
+      - centimeter
+      - millimeter
+      required: true
+    - id: 6
+      name: to_value
+      label: to_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: conversion_result
+      label: conversion_result
+      hint: null
+      type: number
+      options: []
+      required: false

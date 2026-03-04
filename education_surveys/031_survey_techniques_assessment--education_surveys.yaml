@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Techniques Assessment
+    pages:
+    - id: 1
+      name: survey_techniques_assessment_form
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_survey_methods
+      label: participant_survey_methods
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      - Other
+      - Not Applicable
+      required: false
+    - id: 6
+      name: participant_survey_frequency
+      label: participant_survey_frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a month
+      - Every 2-3 months
+      - Every 4-6 months
+      - Every 6-12 months
+      - Less than once a year
+      - More than once a year
+      required: false
+    - id: 7
+      name: participant_survey_format
+      label: participant_survey_format
+      hint: null
+      type: select_multiple
+      options:
+      - Structured Questionnaire
+      - Unstructured Interview
+      - Case Study
+      - Focus Group Discussion
+      - Other
+      required: false
+    - id: 8
+      name: participant_survey_length
+      label: participant_survey_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_survey_method
+      label: participant_survey_method
+      hint: null
+      type: select_multiple
+      options:
+      - SurveyMonkey
+      - Qualtrics
+      - Kwikly
+      - Survey Method 2
+      required: false
+    - id: 10
+      name: participant_survey_pain_point
+      label: participant_survey_pain_point
+      hint: null
+      type: select_one
+      options:
+      - Too long
+      - Too many questions
+      - Too frequent
+      - Too complicated
+      - Too short
+      - Too infrequent
+      required: false
+    - id: 11
+      name: participant_survey_value
+      label: participant_survey_value
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Time
+      - Convenience
+      - Accuracy
+      - Ease of use
+      - Speed
+      required: false
+    - id: 12
+      name: participant_survey_important
+      label: participant_survey_important
+      hint: null
+      type: select_multiple
+      options:
+      - Ease of use
+      - Speed
+      - Convenience
+      - Accuracy
+      - Cost
+      - Other
+      required: false
+    - id: 13
+      name: participant_survey_liking
+      label: participant_survey_liking
+      hint: null
+      type: select_multiple
+      options:
+      - Like
+      - Hate
+      - Neutral
+      required: false
+    - id: 14
+      name: participant_satisfaction
+      label: participant_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 15
+      name: trainer_survey_methods
+      label: Trainer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trainer_email
+      label: trainer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: trainer_phone
+      label: trainer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trainer_survey_methods
+      label: trainer_survey_methods
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      - Other
+      - Not Applicable
+      required: false
+    - id: 20
+      name: trainer_survey_frequency
+      label: trainer_survey_frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a month
+      - Every 2-3 months
+      - Every 4-6 months
+      - Every 6-12 months
+      - Less than once a year
+      - More than once a year
+      required: false
+    - id: 21
+      name: trainer_survey_format
+      label: trainer_survey_format
+      hint: null
+      type: select_multiple
+      options:
+      - Structured Questionnaire
+      - Unstructured Interview
+      - Case Study
+      - Focus Group Discussion
+      - Other
+      required: false
+    - id: 22
+      name: trainer_survey_length
+      label: trainer_survey_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: trainer_survey_method
+      label: trainer_survey_method
+      hint: null
+      type: select_multiple
+      options:
+      - SurveyMonkey
+      - Qualtrics
+      - Kwikly
+      - Survey Method 2
+      required: false
+    - id: 24
+      name: trainer_survey_pain_point
+      label: trainer_survey_pain_point
+      hint: null
+      type: select_one
+      options:
+      - Too long
+      - Too many questions
+      - Too frequent
+      - Too complicated
+      - Too short
+      - Too infrequent
+      required: false
+    - id: 25
+      name: trainer_survey_value
+      label: trainer_survey_value
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Time
+      - Convenience
+      - Accuracy
+      - Ease of use
+      - Speed
+      required: false
+    - id: 26
+      name: trainer_survey_important
+      label: trainer_survey_important
+      hint: null
+      type: select_multiple
+      options:
+      - Ease of use
+      - Speed
+      - Convenience
+      - Accuracy
+      - Cost
+      - Other
+      required: false
+    - id: 27
+      name: trainer_survey_liking
+      label: trainer_survey_liking
+      hint: null
+      type: select_multiple
+      options:
+      - Like
+      - Hate
+      - Neutral
+      required: false
+    - id: 28
+      name: trainer_satisfaction
+      label: Trainer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 29
+      name: trainer_comment
+      label: Trainer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: trainer_liking
+      label: Trainer Liking
+      hint: null
+      type: select_multiple
+      options:
+      - Like
+      - Hate
+      - Neutral
+      required: false
+    - id: 31
+      name: participant_comment
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: participant_liking
+      label: Participant Liking
+      hint: null
+      type: select_multiple
+      options:
+      - Like
+      - Hate
+      - Neutral
+      required: false

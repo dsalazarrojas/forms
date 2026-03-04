@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Institutional Knowledge Sharing Culture Survey
+    pages:
+    - id: 1
+      name: survey_introduction
+      label: Survey Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_culture
+      label: Collaboration Culture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: collaboration_factors
+      label: Collaboration Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback_channel
+      label: Feedback Channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: information_sharing
+      label: Information Sharing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sharing_behavior
+      label: Sharing Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sharing_motivation
+      label: Sharing Motivation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: collaboration_score
+      label: Collaboration Score
+      hint: null
+      type: note
+      options: []
+      required: false

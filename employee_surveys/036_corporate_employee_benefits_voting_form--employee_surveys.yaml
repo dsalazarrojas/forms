@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Employee Benefits Voting Form
+    pages:
+    - id: 1
+      name: survey_page
+      label: Employee Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: benefit_priorities
+      label: What are the top 3 benefits that you value the most?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      required: false
+    - id: 3
+      name: comments
+      label: Add any comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

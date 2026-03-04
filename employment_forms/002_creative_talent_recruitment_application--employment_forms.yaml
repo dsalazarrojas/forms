@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Talent Recruitment Application
+    pages:
+    - id: 1
+      name: creative_talent_recruitment_application
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: resume_upload
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: portfolio_link
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: Enter your work experience
+      type: select_one
+      options:
+      - Intern
+      - Full Time
+      - Freelance
+      required: true
+    - id: 7
+      name: education
+      label: Education
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skill_tags
+      label: Skill Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Design
+      - Development
+      - Marketing
+      - Writing
+      - Photography
+      required: true
+    - id: 9
+      name: available_date
+      label: Available Date
+      hint: Date of availability
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
+    - id: 11
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Freelance
+      required: true
+    - id: 12
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_multiple
+      options:
+      - 20,000-30,000
+      - 30,000-40,000
+      - 40,000-50,000
+      - 50,000-60,000
+      - 60,000-70,000
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On-site
+      - Hybrid
+      required: true
+    - id: 14
+      name: job_posting_date
+      label: Job Posting Date
+      hint: Date of job posting
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false

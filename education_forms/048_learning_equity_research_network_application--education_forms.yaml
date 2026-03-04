@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Equitry Research Network Application
+    pages:
+    - id: 1
+      name: member_application
+      label: Member application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: review_background
+      label: Background information
+      hint: Please provide details about the background of the applicant
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: research_interests
+      label: Research interests
+      hint: What are your research interests?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: network_participation
+      label: Network participation
+      hint: How would you like to participate in the network?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: university_participation
+      label: University participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

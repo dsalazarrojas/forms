@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Assembly Checklist
+    pages:
+    - id: 1
+      name: muster_attendance
+      label: Muster Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 2
+      name: incident_report
+      label: Has Incident Occurred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_leader
+      label: Team Leader
+      hint: Name of Team Leader
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_location
+      label: Team Location
+      hint: Enter location where Team is located
+      type: select_one
+      options:
+      - Main Hallway
+      - Outside
+      - Warehouse
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Contact
+      hint: Name, Phone, Email, etc.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_details
+      label: Incident Details
+      hint: Please provide a short description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: roll_call_status
+      label: Roll Call Status
+      hint: null
+      type: select_multiple
+      options:
+      - Roll Call Completed
+      - Roll Call Not Started
+      - Roll Call Suspended
+      required: false
+    - id: 8
+      name: roll_call_time
+      label: Roll Call Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: roll_call_date
+      label: Roll Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: roll_call_location
+      label: Roll Call Location
+      hint: null
+      type: select_one
+      options:
+      - Hallway
+      - Outside
+      - Warehouse
+      required: false
+    - id: 11
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: Contact number of team leader
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: incident_description
+      label: Incident Description
+      hint: Please provide a detailed description of the incident
+      type: text
+      options: []
+      required: false

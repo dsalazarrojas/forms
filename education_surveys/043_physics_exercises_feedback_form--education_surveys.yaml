@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physics Exercises Feedback Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assignment_name
+      label: Assignment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: problem_id
+      label: Problem ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: problem_statement
+      label: Problem Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_work
+      label: Student Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_work
+      label: Teacher Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_comment
+      label: Student Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comment
+      label: Teacher Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_score
+      label: Student Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: teacher_score
+      label: Teacher Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: feedback_status
+      label: Feedback Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: false
+    - id: 16
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_multiple
+      options:
+      - Incomplete
+      - Complete
+      - No Answer
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_time
+      label: Submission Time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submission_deadline
+      label: Submission Deadline
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: due_date
+      label: Due Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: due_time
+      label: Due Time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: created_at
+      label: Created At
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: Updated At
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: deleted_at
+      label: Deleted At
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false

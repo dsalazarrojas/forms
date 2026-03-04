@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: performance_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: performance_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leadership_rating
+      label: leadership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_rating
+      label: communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teamwork_rating
+      label: teamwork
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_management_rating
+      label: time_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: adaptability_rating
+      label: adaptability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: innovation_rating
+      label: innovation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: problem_solving_rating
+      label: problem_solving
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: initiative
+      label: initiative
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      - Neutral
+      - Undecided
+      required: true
+    - id: 13
+      name: employee_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_plan
+      label: action_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: manager_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

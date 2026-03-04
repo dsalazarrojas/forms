@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Verification Form Template
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: degree
+      label: Degree
+      hint: null
+      type: select_one
+      options:
+      - Associate
+      - Bachelor
+      - Master
+      - Doctoral
+      required: true
+    - id: 5
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: transcript_request
+      label: Transcript Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: transcript_sent
+      label: Transcript Sent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: diploma_request
+      label: Diploma Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Associate
+      - Bachelor
+      - Master
+      required: true
+    - id: 10
+      name: diploma_sent
+      label: Diploma Sent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: degree_verification
+      label: Degree Verification
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Verified
+      required: true
+    - id: 12
+      name: verified_by
+      label: Verified by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

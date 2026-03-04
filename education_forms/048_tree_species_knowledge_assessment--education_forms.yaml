@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Species Knowledge Assessment
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone_number
+      label: Participant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: forest_type_id
+      label: Type of Forest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: tree_species
+      label: Tree Species
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tree_species_id
+      label: Tree Species ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tree_species_id_2
+      label: Tree Species ID 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tree_knowledge
+      label: Tree Knowledge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: tree_knowledge_2
+      label: Tree Knowledge 2
+      hint: null
+      type: date
+      options: []
+      required: false

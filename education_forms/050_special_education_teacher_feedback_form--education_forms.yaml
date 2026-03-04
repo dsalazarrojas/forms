@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Education Teacher Feedback Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_period
+      label: Feedback Period
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''First Semester''}'
+      - '{''value'': ''Second Semester''}'
+      - '{''value'': ''Both''}'
+      required: true
+    - id: 3
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: strengths_observed
+      label: Strengths Observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: areas_of_concern
+      label: Areas of Concern
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Organization''}'
+      - '{''value'': ''Patience''}'
+      required: true
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false

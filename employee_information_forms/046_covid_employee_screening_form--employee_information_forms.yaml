@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Employee Screening Form
+    pages:
+    - id: 1
+      name: user_information
+      label: user_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: covid_symptoms
+      label: covid_symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: close_contact
+      label: close_contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: health_care_provider_name
+      label: health_care_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tested_positive
+      label: tested_positive
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: tested_negative
+      label: tested_negative
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: not_tested
+      label: not_tested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

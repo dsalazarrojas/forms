@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Contact Information Update Request Form
+    pages:
+    - id: 1
+      name: emergency_contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Emergency Contact 1''}'
+      - '{''id'': 2, ''name'': ''Emergency Contact 2''}'
+      - '{''id'': 3, ''name'': ''Emergency Contact 3''}'
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_form_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_form_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_form_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

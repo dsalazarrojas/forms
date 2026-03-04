@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Change Coordinator Feedback
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date completing this feedback
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: employee_name
+        label: Your Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: employee_department
+        label: Your Department
+        hint: Department you work in
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: coordinator_name
+        label: Change Coordinator Name
+        hint: Coordinator you are evaluating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: change_initiative
+        label: Change Initiative Name
+        hint: What was the change initiative
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: interaction_frequency
+        label: Frequency of Interaction
+        hint: How often you worked with coordinator
+        type: select_one
+        options: ["Daily", "Several Times Per Week", "Weekly", "Few Times During Initiative", "One-time"]
+        required: false
+      - id: 7
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: Was communication clear and timely
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 8
+        name: clarity_of_information
+        label: Clarity of Change Information Provided
+        hint: Was change information understandable
+        type: select_one
+        options: ["Very Clear", "Clear", "Somewhat Clear", "Unclear", "Very Unclear"]
+        required: true
+      - id: 9
+        name: responsiveness
+        label: Responsiveness to Questions and Concerns
+        hint: How responsive was the coordinator
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 10
+        name: problem_resolution
+        label: Problem Resolution and Support
+        hint: How well did they handle issues
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 11
+        name: organization_and_planning
+        label: Organization and Planning Skills
+        hint: Organization of the change process
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: false
+      - id: 12
+        name: relationship_building
+        label: Relationship Building and Trust
+        hint: Did you trust the coordinator
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 13
+        name: expertise_knowledge
+        label: Technical Knowledge and Expertise
+        hint: Knowledge of change management
+        type: select_one
+        options: ["Highly Knowledgeable", "Knowledgeable", "Somewhat Knowledgeable", "Limited Knowledge", "Not Knowledgeable"]
+        required: false
+      - id: 14
+        name: morale_impact
+        label: Impact on Team Morale
+        hint: Did coordinator help or hinder morale
+        type: select_one
+        options: ["Very Positive", "Positive", "Neutral", "Negative", "Very Negative"]
+        required: false
+      - id: 15
+        name: adoption_support
+        label: Support for Change Adoption
+        hint: Help with adopting the change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 16
+        name: strengths_feedback
+        label: Coordinator's Key Strengths
+        hint: What did they do well
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: specific_examples
+        label: Specific Examples or Incidents
+        hint: Provide specific situations
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_work_again
+        label: Would You Work With This Coordinator Again
+        hint: On future change initiatives
+        type: select_one
+        options: ["Yes, Definitely", "Probably Yes", "Unsure", "Probably No", "No"]
+        required: false
+      - id: 20
+        name: overall_rating
+        label: Overall Rating of Change Coordinator
+        hint: Rate the coordinator overall
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true

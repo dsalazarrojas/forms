@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cohort Retake Dates Survey
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cohort_name
+      label: Cohort Name
+      hint: Which cohort are you in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_name
+      label: Program or Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_retake
+      label: -- Retake Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: needs_retake
+      label: Do you need to retake the course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reason_for_retake
+      label: Reason for Retake Request
+      hint: Why do you need to retake
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: first_choice_date
+      label: First Choice Date
+      hint: When would you prefer to retake
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: second_choice_date
+      label: Second Choice Date
+      hint: Alternative date option
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: third_choice_date
+      label: Third Choice Date
+      hint: Another alternative option
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: unavailable_dates
+      label: Dates You Cannot Attend
+      hint: Dates to avoid
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_time
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (before 12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (after 5pm)
+      - Flexible
+      required: true
+    - id: 16
+      name: section_format
+      label: -- Course Format --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_format
+      label: Preferred Course Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Hybrid
+      - No preference
+      required: true
+    - id: 18
+      name: location_preference
+      label: Location Preference
+      hint: If in-person
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_support
+      label: -- Support Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: additional_support
+      label: Do you need additional support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: support_type
+      label: Type of Support Needed
+      hint: Tutoring, accommodations, etc
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

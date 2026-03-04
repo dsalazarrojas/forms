@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Systems Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Recognition Systems Survey --
+      hint: Share your feedback on how academic achievements are recognized at your institution.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your role at the institution
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Faculty Member
+        - Staff
+        - Administrator
+        - Alumni
+      required: true
+    - id: 3
+      name: department
+      label: Department or school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: awareness_of_programs
+      label: How aware are you of the recognition programs available at this institution
+      hint: null
+      type: select_one
+      options:
+        - Not at all aware
+        - Slightly aware
+        - Moderately aware
+        - Very aware
+        - Extremely aware
+      required: true
+    - id: 5
+      name: recognition_received
+      label: Have you personally received any form of academic recognition
+      hint: null
+      type: select_one
+      options:
+        - Yes - multiple times
+        - Yes - once
+        - No - but I have been nominated
+        - No
+      required: true
+    - id: 6
+      name: recognition_types_valued
+      label: Which types of recognition do you value most (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Awards and certificates
+        - Monetary scholarships or prizes
+        - Public acknowledgment at events
+        - Deans list or honor roll
+        - Research publication recognition
+        - Teaching excellence awards
+        - Community service honors
+      required: true
+    - id: 7
+      name: fairness_rating
+      label: How fair and transparent do you consider the current recognition process
+      hint: null
+      type: select_one
+      options:
+        - Very unfair
+        - Somewhat unfair
+        - Neutral
+        - Somewhat fair
+        - Very fair
+      required: true
+    - id: 8
+      name: nomination_process_clarity
+      label: How clear is the nomination or application process for academic recognition
+      hint: null
+      type: select_one
+      options:
+        - Very unclear
+        - Somewhat unclear
+        - Neutral
+        - Somewhat clear
+        - Very clear
+      required: true
+    - id: 9
+      name: impact_on_motivation
+      label: How much does academic recognition impact your motivation to perform well
+      hint: null
+      type: select_one
+      options:
+        - No impact at all
+        - Slight impact
+        - Moderate impact
+        - Significant impact
+        - Very significant impact
+      required: true
+    - id: 10
+      name: underrepresented_areas
+      label: Which areas do you feel are underrepresented in current recognition programs (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Extracurricular achievements
+        - Community engagement
+        - Innovation and creativity
+        - Peer mentoring
+        - Interdisciplinary work
+        - Student leadership
+      required: false
+    - id: 11
+      name: frequency_preference
+      label: How frequently should academic recognition be awarded
+      hint: null
+      type: select_one
+      options:
+        - Monthly
+        - Each semester
+        - Annually
+        - At graduation only
+        - As achievements occur
+      required: true
+    - id: 12
+      name: improvement_challenges
+      label: What is the biggest challenge with the current recognition system
+      hint: Describe the primary issue you see
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with the academic recognition systems at this institution
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 14
+      name: suggestions
+      label: What improvements would you suggest for academic recognition at this institution
+      hint: null
+      type: text
+      options: []
+      required: false

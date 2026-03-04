@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Plan Template
+    pages:
+    - id: 1
+      name: section_plan_header
+      label: -- Behavior Intervention Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: effective_date_plan
+      label: Plan Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: review_date_plan
+      label: Plan Review Date
+      hint: Suggested 4-6 weeks after start
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_behavior_goals
+      label: -- Behavior Goals --
+      hint: Define the target behavior and the desired replacement behavior
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: target_behavior_description
+      label: Problem / Target Behavior to Decrease
+      hint: Describe in observable and measurable terms
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: replacement_behavior_goal
+      label: Desired Replacement / Positive Behavior
+      hint: What should the student do instead?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: success_criteria
+      label: Success Criteria
+      hint: e.g. 80% of opportunities for 3 consecutive days
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_strategies
+      label: -- Intervention Strategies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: proactive_strategies
+      label: Proactive / Preventive Strategies
+      hint: e.g. preferred seating, visual schedule, frequent breaks
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: positive_reinforcement_plan
+      label: Positive Reinforcement / Rewards
+      hint: What does the student earn for positive behavior?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reinforcement_frequency
+      label: Frequency of Reinforcement
+      hint: e.g. Immediate, every 15 minutes, daily
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_consequences
+      label: -- Corrective Consequences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tiered_consequences_description
+      label: Tiered Response to Problem Behavior
+      hint: Step-by-step response plan
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_team_agreement
+      label: -- Agreement and Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: student_agreement_check
+      label: I agree to try my best to follow this plan
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - N/A - Student not able to sign
+      required: false
+    - id: 17
+      name: parent_agreement_check
+      label: I agree to support this plan at home
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: lead_coordinator_name
+      label: Plan Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: coordinator_signature_date
+      label: Date signed
+      hint: null
+      type: date
+      options: []
+      required: true

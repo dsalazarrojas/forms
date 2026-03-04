@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Awareness Quiz
+    pages:
+    - id: 1
+      name: form_substance_awareness_quiz
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_schools_counselors_organisations
+      label: schools_counselors_organisations
+      hint: null
+      type: select_one
+      options:
+      - Schools
+      - Counselors
+      - Organisations
+      required: false
+    - id: 3
+      name: form_substance_use
+      label: substance_use
+      hint: null
+      type: select_multiple
+      options:
+      - Cannabis
+      - Alcohol
+      - Nicotine
+      required: false
+    - id: 4
+      name: form_knowledge
+      label: knowledge
+      hint: This question tests your knowledge
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_attitudes
+      label: attitudes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_confidence
+      label: confidence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_next_steps
+      label: next_steps
+      hint: null
+      type: select_one
+      options:
+      - Yes, next steps should be discussed in more detail
+      - No, next steps are already clear
+      - Not sure
+      required: false
+    - id: 9
+      name: form_comments_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_comments_3
+      label: comments_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_next_steps_2
+      label: next_steps_2
+      hint: null
+      type: select_one
+      options:
+      - Yes, next steps should be discussed in more detail
+      - No, next steps are already clear
+      - Not sure
+      required: false
+    - id: 13
+      name: form_comments_4
+      label: comments_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_comments_5
+      label: comments_5
+      hint: null
+      type: text
+      options: []
+      required: false

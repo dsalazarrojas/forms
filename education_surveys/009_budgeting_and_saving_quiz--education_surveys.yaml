@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Budgeting and Saving Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For results delivery
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or Older
+        required: true
+      - id: 4
+        name: employment_status
+        label: Employment Status
+        hint: Current employment status
+        type: select_one
+        options:
+          - Employed Full-time
+          - Employed Part-time
+          - Self-employed
+          - Student
+          - Unemployed
+          - Retired
+          - Homemaker
+        required: true
+      - id: 5
+        name: income_level
+        label: Annual Income Level
+        hint: Approximate annual income
+        type: select_one
+        options:
+          - Under $25,000
+          - $25,000 - $49,999
+          - $50,000 - $74,999
+          - $75,000 - $99,999
+          - $100,000 - $149,999
+          - $150,000 or More
+          - Prefer Not to Say
+        required: false
+      - id: 6
+        name: question_1
+        label: Question 1 - Do you currently have a written budget
+        hint: Select the option that best describes you
+        type: select_one
+        options:
+          - Yes - I Follow It Regularly
+          - Yes - But I Do Not Follow It Consistently
+          - No - But I Have Tried Before
+          - No - Never Had One
+        required: true
+      - id: 7
+        name: question_2
+        label: Question 2 - How much of your income do you save monthly
+        hint: Be honest in your selection
+        type: select_one
+        options:
+          - 20 Percent or More
+          - 10-19 Percent
+          - 5-9 Percent
+          - 1-4 Percent
+          - Nothing Currently
+        required: true
+      - id: 8
+        name: question_3
+        label: Question 3 - Do you have an emergency fund
+        hint: Money set aside for unexpected expenses
+        type: select_one
+        options:
+          - Yes - 6 Months Expenses Covered
+          - Yes - 3-6 Months Covered
+          - Yes - Less Than 3 Months
+          - No - But I Am Building One
+          - No - Not Started
+        required: true
+      - id: 9
+        name: question_4
+        label: Question 4 - How often do you track your expenses
+        hint: Be honest about your habits
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 10
+        name: question_5
+        label: Question 5 - Do you carry credit card debt
+        hint: Balance carried month to month
+        type: select_one
+        options:
+          - No - I Pay In Full Each Month
+          - Yes - Small Balance
+          - Yes - Moderate Balance
+          - Yes - Large Balance
+          - Prefer Not to Say
+        required: true
+      - id: 11
+        name: question_6
+        label: Question 6 - How confident are you in your financial knowledge
+        hint: Rate your confidence level
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Neutral
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 12
+        name: question_7
+        label: Question 7 - Do you set financial goals
+        hint: Short-term or long-term goals
+        type: select_one
+        options:
+          - Yes - And I Track Progress
+          - Yes - But I Do Not Track Them
+          - I Have Thought About It
+          - No - I Do Not Set Goals
+        required: true
+      - id: 13
+        name: question_8
+        label: Question 8 - How often do you review your financial situation
+        hint: Bills, accounts, investments
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Annually
+          - Rarely or Never
+        required: true
+      - id: 14
+        name: question_9
+        label: Question 9 - What is your biggest financial challenge
+        hint: Select the most relevant
+        type: select_one
+        options:
+          - Living Paycheck to Paycheck
+          - High Debt Levels
+          - Irregular Income
+          - Lack of Financial Knowledge
+          - Impulse Spending
+          - Saving for Retirement
+          - Managing Multiple Accounts
+        required: true
+      - id: 15
+        name: question_10
+        label: Question 10 - Would you benefit from financial education
+        hint: Be honest about your needs
+        type: select_one
+        options:
+          - Yes - Definitely
+          - Probably Yes
+          - Maybe
+          - Probably Not
+          - No - I Am Fine
+        required: true
+      - id: 16
+        name: learning_interests
+        label: Topics of Interest
+        hint: What would you like to learn about
+        type: select_multiple
+        options:
+          - Budgeting Basics
+          - Saving Strategies
+          - Debt Management
+          - Investing Fundamentals
+          - Retirement Planning
+          - Tax Planning
+          - Estate Planning
+          - Credit Management
+        required: false
+      - id: 17
+        name: preferred_learning_format
+        label: Preferred Learning Format
+        hint: How would you prefer to learn
+        type: select_one
+        options:
+          - Online Courses
+          - In-Person Workshops
+          - One-on-One Coaching
+          - Webinars
+          - Self-Study Materials
+          - Mobile Apps
+        required: false

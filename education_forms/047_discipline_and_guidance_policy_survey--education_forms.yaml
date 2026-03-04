@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discipline and Guidance Policy Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Teacher
+      - Student
+      - Parent
+      - Staff
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Administration
+      - Teaching
+      - Non-Teaching
+      - Support
+      required: false
+    - id: 8
+      name: awareness_level
+      label: Awareness Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: policy_effectiveness
+      label: Policy Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

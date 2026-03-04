@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Educational Policy Implementation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stakeholders
+      label: stakeholder_groups
+      hint: null
+      type: select_multiple
+      options:
+      - Stakeholder A
+      - Stakeholder B
+      - Stakeholder C
+      required: false
+    - id: 3
+      name: awareness
+      label: policy_awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: policy_challenges
+      hint: Please describe the challenges faced
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: effectiveness
+      label: policy_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: implementation
+      label: policy_implementation
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 7
+      name: feedback
+      label: policy_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: policy_comments
+      hint: Is there anything else you would like to add?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact2
+      label: contact_information2
+      hint: Contact information 2
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact3
+      label: contact_information3
+      hint: Contact information 3
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Save for Later
+      - Continue Later
+      required: false

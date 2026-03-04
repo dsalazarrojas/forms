@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Participation Readiness Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: community_affiliation
+      label: Community affiliation
+      hint: Neighborhood organization school workplace
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: perceived_readiness
+      label: Perceived readiness to participate
+      hint: 1 not ready to 5 very ready
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: skills_confidence
+      label: Confidence in civic skills
+      hint: Public speaking research organizing
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: training_interest
+      label: Interest in training opportunities
+      hint: Topics you would like to learn
+      type: select_multiple
+      options:
+      - Organizing
+      - Advocacy
+      - Research methods
+      - Communication
+      required: false
+    - id: 6
+      name: resource_barriers
+      label: Resource barriers to participation
+      hint: Time funding transport childcare
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_support
+      label: Preferred support from organizations
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Funding
+      - Training
+      - Mentorship
+      - Materials
+      required: false
+    - id: 8
+      name: willingness_to_lead
+      label: Willingness to take leadership roles
+      hint: Yes probably maybe no
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

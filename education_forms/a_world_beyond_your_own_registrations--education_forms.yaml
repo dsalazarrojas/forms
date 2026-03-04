@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A3 Problem Solving Form
+    pages:
+    - id: 1
+      name: section_header_a3
+      label: "--- A3 Problem Solving Report ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: problem_title
+      label: Problem title
+      hint: Concise, one-line problem statement
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: background_summary
+      label: Background / context
+      hint: Summarize how the situation arose
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_condition
+      label: Current condition (key facts and data)
+      hint: Include metrics or recent observations
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goal_target
+      label: Goal or target condition
+      hint: State measurable improvement target
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: root_cause_methods
+      label: Root cause analysis methods used
+      hint: Select methods applied during analysis
+      type: select_multiple
+      options:
+        - 5 Whys
+        - Fishbone (Ishikawa)
+        - Process mapping
+        - Pareto analysis
+      required: true
+    - id: 7
+      name: identified_root_causes
+      label: Identified root causes
+      hint: List primary causes discovered
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposed_countermeasures
+      label: Proposed countermeasures
+      hint: Describe actions to address root causes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: action_owner
+      label: Action owner
+      hint: Person responsible for implementation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: action_start_date
+      label: Action start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: action_due_date
+      label: Action due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: success_metrics
+      label: Success metrics (select one)
+      hint: Choose primary measurement for success
+      type: select_one
+      options:
+        - Reduced defect rate
+        - Time savings
+        - Cost reduction
+        - Customer satisfaction
+      required: true
+    - id: 13
+      name: estimated_impact_score
+      label: Estimated impact score (1-10)
+      hint: 10 = highest impact
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow-up review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: final_comments
+      label: Final comments or lessons learned
+      hint: Summarize outcomes after implementation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: tourism_multilingual_capability_employment_form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Contract''}'
+      required: true
+    - id: 3
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Chinese''}'
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Not available''}'
+      required: true
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

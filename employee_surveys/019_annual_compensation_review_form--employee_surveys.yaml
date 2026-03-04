@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Compensation Review Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Name of the employee being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Employee department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - IT
+      - Engineering
+      - Customer Service
+      - Legal
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hire_date
+      label: Hire Date
+      hint: When was the employee hired?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: review_period
+      label: Review Period
+      hint: Which period is this review for?
+      type: select_one
+      options:
+      - 2026 Annual
+      - 2025 Annual
+      - 2024 Annual
+      - Mid-Year 2026
+      - Other
+      required: true
+    - id: 9
+      name: current_salary
+      label: Current Annual Salary
+      hint: Current base salary
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_hourly_rate
+      label: Current Hourly Rate
+      hint: If hourly employee
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employment_type
+      label: Employment Type
+      hint: Full-time or part-time
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      required: true
+    - id: 12
+      name: performance_rating
+      label: Performance Rating
+      hint: Most recent performance rating
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Partially Meets Expectations
+      - Does Not Meet Expectations
+      - Not Rated
+      required: true
+    - id: 13
+      name: last_raise_date
+      label: Last Raise Date
+      hint: When was the last compensation change?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: last_raise_percentage
+      label: Last Raise Percentage
+      hint: Percentage of last increase
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: recommended_increase
+      label: Recommended Increase
+      hint: Suggested percentage increase
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: recommended_salary
+      label: Recommended New Salary
+      hint: Suggested new annual salary
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: increase_justification
+      label: Increase Justification
+      hint: Reason for recommended change
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bonus_eligible
+      label: Bonus Eligible
+      hint: Is the employee bonus eligible?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: recommended_bonus
+      label: Recommended Bonus
+      hint: Suggested bonus amount
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: bonus_type
+      label: Bonus Type
+      hint: Type of bonus
+      type: select_one
+      options:
+      - Performance
+      - Signing
+      - Retention
+      - Holiday
+      - Commission
+      - Profit Sharing
+      - Other
+      required: false
+    - id: 21
+      name: equity_compensation
+      label: Equity Compensation
+      hint: Stock options or RSUs
+      type: select_one
+      options:
+      - true
+      - false
+      - Considering
+      required: false
+    - id: 22
+      name: benefits_changes
+      label: Benefits Changes
+      hint: Any changes to benefits?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: market_comparison
+      label: Market Comparison
+      hint: How does compensation compare to market?
+      type: select_one
+      options:
+      - Above Market
+      - At Market
+      - Below Market
+      - Not Analyzed
+      required: false
+    - id: 24
+      name: retention_risk
+      label: Retention Risk
+      hint: Risk of employee leaving
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Not Applicable
+      required: false
+    - id: 25
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Draft
+      - Submitted
+      - Under Review
+      - Approved
+      - Rejected
+      required: true
+    - id: 26
+      name: approver_name
+      label: Approver Name
+      hint: Who is approving this review?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: effective_date
+      label: Effective Date
+      hint: When will changes take effect?
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

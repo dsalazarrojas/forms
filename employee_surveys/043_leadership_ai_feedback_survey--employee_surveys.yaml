@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership AI Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Sales'', ''label'': ''Sales''}'
+      - '{''id'': 2, ''value'': ''Marketing'', ''label'': ''Marketing''}'
+      - '{''id'': 3, ''value'': ''IT'', ''label'': ''IT''}'
+      - '{''id'': 4, ''value'': ''HR'', ''label'': ''HR''}'
+      required: false
+    - id: 5
+      name: feedback_on_leadership
+      label: Feedback on Leadership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_on_leadership_frequency
+      label: Feedback on Leadership Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Always'', ''label'': ''Always''}'
+      - '{''id'': 2, ''value'': ''Often'', ''label'': ''Often''}'
+      - '{''id'': 3, ''value'': ''Sometimes'', ''label'': ''Sometimes''}'
+      - '{''id'': 4, ''value'': ''Rarely'', ''label'': ''Rarely''}'
+      required: false
+    - id: 7
+      name: feedback_on_leadership_value
+      label: Feedback on Leadership Value
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Important'', ''label'': ''Important''}'
+      - '{''id'': 2, ''value'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
+      - '{''id'': 3, ''value'': ''Not at all'', ''label'': ''Not at all''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Collaboration Insights Report Form
+    pages:
+    - id: 1
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_location
+      label: Team Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Office''}'
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 5
+      name: team_collab_frequency
+      label: Team Collaboration Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 6
+      name: collab_experience
+      label: Collaboration Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: collab_opportunities
+      label: Collaboration Opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Chat''}'
+      - '{''value'': ''Video calls''}'
+      - '{''value'': ''Meetings''}'
+      required: false
+    - id: 9
+      name: communication_frequencies
+      label: Communication Frequencies
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 10
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reported_time
+      label: Reported Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: collaboration_challenges
+      label: Collaboration Challenges
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Time Zone Differences''}'
+      - '{''value'': ''Remote Work''}'
+      - '{''value'': ''Team Size''}'
+      required: false
+    - id: 13
+      name: team_size_impact
+      label: Team Size Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Negative''}'
+      required: false
+    - id: 14
+      name: team_lead_impact
+      label: Team Lead Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Negative''}'
+      required: false
+    - id: 15
+      name: location_impact
+      label: Location Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Negative''}'
+      required: false
+    - id: 16
+      name: team_collaboration_frequency_impact
+      label: Team Collaboration Frequency Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Negative''}'
+      required: false
+    - id: 17
+      name: reported_time_impact
+      label: Reported Time Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Negative''}'
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Casual Cook Registration
+    pages:
+    - id: 1
+      name: form_info
+      label: employee_casual_cook_registration_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: years_of_experience
+      hint: Years of Experience
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: experience_description
+      label: job_title_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cuisines
+      label: cuisines
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Mediterranean
+      - Continental
+      - Seafood
+      - Italian
+      - Mexican
+      - Other
+      required: false
+    - id: 5
+      name: availability
+      label: available_days
+      hint: Select all days you are available for shifts
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: availability_note
+      label: availability_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: phone number
+      type: text
+      options: []
+      required: false

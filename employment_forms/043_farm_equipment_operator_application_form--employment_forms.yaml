@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Equipment Operator Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_history
+      label: Work History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: available_to_start
+      label: Available to Start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_1
+      label: Reference 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_2
+      label: Reference 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

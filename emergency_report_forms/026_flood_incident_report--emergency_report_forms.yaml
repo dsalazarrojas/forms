@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Incident Report
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_occurred
+      label: Date Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_occurred
+      label: Time Occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location_longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location_elevation
+      label: Elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: flood_type
+      label: Flood Type
+      hint: null
+      type: select_multiple
+      options:
+      - Water Level Rise
+      - Flash Flood
+      - Landslide
+      - Storm Surge
+      - Dam Failure
+      - Snowmelt
+      - Freeze-Up
+      - Inland Flooding
+      - Coastal Flooding
+      - Overflowing River
+      - Overflowing Dam
+      - Overflowing Reservoir
+      - Overflowing Lake
+      required: false
+    - id: 9
+      name: affected_areas
+      label: Affected Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: affected_population
+      label: Affected Population
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: damage_amount
+      label: Damage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: economic_impact
+      label: Economic Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: response_status
+      label: Response Status
+      hint: null
+      type: text
+      options: []
+      required: false

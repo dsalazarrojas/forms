@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: microfinance_awareness_survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: survey_answers
+      label: answers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: survey_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: survey_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: demographic_info_1
+      label: demographic_info1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographic_info_2
+      label: demographic_info2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demographic_info_3
+      label: demographic_info3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: demographic_info_4
+      label: demographic_info4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_form
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

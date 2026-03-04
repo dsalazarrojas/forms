@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Inclusion Assessment
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: What do you value most in our team?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: survey_page_2
+      label: How would you rate our team's communication style?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: survey_page_3
+      label: What's preventing you from feeling fully included in our team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_page_4
+      label: Do you feel like you belong in our team?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: survey_page_5
+      label: What would help you feel more included?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_page_6
+      label: How long have you been working with our team?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: survey_page_7
+      label: Can you share any additional comments about inclusion?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: survey_page_8
+      label: What's your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: survey_page_9
+      label: What's your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

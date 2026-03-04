@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Registration
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For class communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_relationship
+      label: Emergency Contact Relationship
+      hint: How related to student
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: class_selection_1
+      label: First Choice Class
+      hint: Primary class selection
+      type: select_one
+      options:
+      - Mathematics Fundamentals
+      - English Composition
+      - Introduction to Science
+      - World History
+      - Art Basics
+      - Computer Literacy
+      - Foreign Language 101
+      - Physical Education
+      required: true
+    - id: 12
+      name: class_selection_2
+      label: Second Choice Class
+      hint: Backup option
+      type: select_one
+      options:
+      - Mathematics Fundamentals
+      - English Composition
+      - Introduction to Science
+      - World History
+      - Art Basics
+      - Computer Literacy
+      - Foreign Language 101
+      - Physical Education
+      required: false
+    - id: 13
+      name: class_selection_3
+      label: Third Choice Class
+      hint: Third option
+      type: select_one
+      options:
+      - Mathematics Fundamentals
+      - English Composition
+      - Introduction to Science
+      - World History
+      - Art Basics
+      - Computer Literacy
+      - Foreign Language 101
+      - Physical Education
+      required: false
+    - id: 14
+      name: academic_year
+      label: Academic Year
+      hint: School year
+      type: select_one
+      options:
+      - 2025-2026
+      - 2026-2027
+      - 2027-2028
+      required: true
+    - id: 15
+      name: semester_term
+      label: Semester or Term
+      hint: When to start
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Winter Term
+      required: true
+    - id: 16
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Your student status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Non-degree
+      - Continuing education
+      required: true
+    - id: 17
+      name: prior_credits
+      label: Do You Have Prior College Credits
+      hint: From other institutions
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: special_accommodations
+      label: Do You Need Special Accommodations
+      hint: For disabilities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: accommodations_details
+      label: Please Describe Accommodation Needs
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Financial aid
+      - Scholarship
+      - Payment plan
+      - Employer sponsored
+      required: true
+    - id: 21
+      name: housing_needed
+      label: Do You Need Housing Information
+      hint: Accommodation assistance
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 22
+      name: transportation_method
+      label: How Will You Travel to Class
+      hint: Your transportation
+      type: select_one
+      options:
+      - Personal vehicle
+      - Public transportation
+      - Bicycle or walking
+      - School shuttle
+      - Carpool
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Counselor referral
+      - Advertisement
+      - Open house
+      - Other
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Do You Accept Terms and Conditions
+      hint: Registration policies
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Integrity Awareness Survey
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Introductory Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: role
+        label: Your role
+        hint: Select the option that best describes you
+        type: select_one
+        options:
+          - Student
+          - Faculty
+          - Staff
+          - Administrator
+        required: true
+      - id: 3
+        name: awareness_of_policy
+        label: Awareness of academic integrity policy
+        hint: Rate how familiar you are with policy
+        type: select_one
+        options:
+          - Very familiar
+          - Somewhat familiar
+          - Not familiar
+        required: true
+      - id: 4
+        name: training_received
+        label: Have you received integrity training
+        hint: Select training history
+        type: select_one
+        options:
+          - Yes within last year
+          - Yes more than a year ago
+          - No
+        required: false
+      - id: 5
+        name: observed_incidents
+        label: Observed incidents of misconduct
+        hint: Have you observed misconduct in the past year
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Prefer not to say
+        required: false
+      - id: 6
+        name: reporting_confidence
+        label: Confidence in reporting mechanisms
+        hint: Rate your confidence in reporting concerns
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Not confident
+        required: false
+      - id: 7
+        name: barriers_to_reporting
+        label: Barriers to reporting misconduct
+        hint: Select barriers that apply
+        type: select_multiple
+        options:
+          - Fear of retaliation
+          - Lack of anonymity
+          - Complex procedures
+          - Unclear policies
+        required: false
+      - id: 8
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Ideas to strengthen integrity supports
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: anonymity_preference
+        label: Preference for anonymous surveys
+        hint: Do you prefer anonymity in surveys
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback on academic integrity
+        type: text
+        options: []
+        required: false

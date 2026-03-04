@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_motivation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Employee Motivation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motivation_level
+      label: Motivation Level
+      hint: How motivated are you to come to work every day?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: motivation_reasons
+      label: What motivates you to come to work?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Motivation
+      - Engagement
+      - Personal growth
+      required: false
+    - id: 4
+      name: motivation_factors
+      label: Which factors motivate you at work?
+      hint: Select one option
+      type: select_one
+      options:
+      - Autonomy
+      - Feedback
+      - Recognition
+      - Challenge
+      - Fit
+      - Growth
+      required: false
+    - id: 5
+      name: motivation_comments
+      label: Do you have any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: motivation_scale
+      label: Motivation Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: motivation_score
+      label: Motivation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: results
+      label: Results
+      hint: null
+      type: date
+      options: []
+      required: false

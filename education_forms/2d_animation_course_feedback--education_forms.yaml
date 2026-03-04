@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2D Animation Course Feedback
+    pages:
+    - id: 1
+      name: section_header_course
+      label: "--- Course Feedback: 2D Animation ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_title
+      label: Course title
+      hint: e.g., Intro to 2D Animation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_date
+      label: Course date or term end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: content_clarity
+      label: How clear was the course content?
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 8
+      name: pacing
+      label: Pacing of the lessons
+      hint: null
+      type: select_one
+      options:
+        - Too fast
+        - Just right
+        - Too slow
+      required: true
+    - id: 9
+      name: practical_skills_learned
+      label: Practical skills learned (select all that apply)
+      hint: Choose any that apply
+      type: select_multiple
+      options:
+        - Line drawing and clean-up
+        - Timing and spacing
+        - Basic rigging
+        - Lip-sync and facial animation
+        - Tweening/Interpolation
+        - Compositing and export
+        - Storyboarding principles
+      required: false
+    - id: 10
+      name: tools_used
+      label: Tools/software used in the course
+      hint: List software (e.g., Toon Boom, Harmony, Blender)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_rating
+      label: Overall course rating (1-10)
+      hint: 10 = outstanding
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: would_recommend
+      label: Would you recommend this course?
+      hint: null
+      type: select_one
+      options:
+        - Definitely
+        - Probably
+        - Not sure
+        - Probably not
+        - Definitely not
+      required: true
+    - id: 13
+      name: suggested_improvements
+      label: Suggestions for improving the course
+      hint: Be specific where possible
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional comments or testimonials
+      hint: Optional
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_year_survey
+    pages:
+    - id: 1
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: Rate your overall satisfaction with your job
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: culture
+      label: Culture
+      hint: Rate your overall feeling about your culture
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: management
+      label: Management
+      hint: Rate your overall feeling about your management
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: What are some suggestions you have for improving the work environment
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employee_ownership
+      label: Employee Ownership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: diversity_inclusion
+      label: Diversity and Inclusion
+      hint: Rate your overall feeling about diversity and inclusion
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: management_practices
+      label: Management Practices
+      hint: Rate your overall feeling about your management practices
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: professional_development
+      label: Professional Development
+      hint: Rate your overall feeling about your professional development
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: job_security
+      label: Job Security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: job_security_confidence
+      label: Job Security Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: job_security_confidence_hint
+      label: Job Security Confidence Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: job_security_confidence_scale
+      label: Job Security Confidence Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: overall_satisfaction_scale
+      label: Overall Satisfaction Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction_hint
+      label: Overall Satisfaction Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_satisfaction_scale_hint
+      label: Overall Satisfaction Scale Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: time_to_complete
+      label: Time to Complete
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: time_to_complete_hint
+      label: Time to Complete Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: time_to_complete_scale
+      label: Time to Complete Scale
+      hint: null
+      type: number
+      options: []
+      required: false

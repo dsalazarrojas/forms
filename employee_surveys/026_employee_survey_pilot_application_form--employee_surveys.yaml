@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_survey_pilot_application_form
+    pages:
+    - id: 1
+      name: employee_survey_pilot_application_form_page_1
+      label: employee_survey_pilot_application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_selection_form
+      label: participant_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: program_evaluation_form
+      label: program_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consent_time
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

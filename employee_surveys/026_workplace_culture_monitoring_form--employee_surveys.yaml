@@ -1,0 +1,67 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Culture Monitoring Form
+    pages:
+    - id: 1
+      name: workplace_culture_monitoring_form
+      label: work_environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_support
+      label: manager_support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Satisfied'', ''value'': ''Highly Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied'', ''value'': ''Not Satisfied''}'
+      required: true
+    - id: 3
+      name: communication
+      label: communication
+      hint: Please provide details about the communication in your team.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_collaboration
+      label: team_collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 5
+      name: diversity_inclusion
+      label: diversity_inclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_satisfaction
+      label: employee_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: true

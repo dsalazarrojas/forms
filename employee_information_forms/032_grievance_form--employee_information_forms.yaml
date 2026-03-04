@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grievance_details
+      label: grievance_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: grievance_type
+      label: grievance_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_email
+      label: report_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: grievance_resolution
+      label: grievance_resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: grievance_category
+      label: grievance_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

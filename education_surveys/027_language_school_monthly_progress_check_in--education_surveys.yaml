@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language School Monthly Progress Check In
+    pages:
+    - id: 1
+      name: language_school_monthly_progress_check_in
+      label: Language School Monthly Progress Check In
+      hint: Track student progress in language programs
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: language_skill
+      label: Language Skill
+      hint: Enter language skill
+      type: select_one
+      options:
+      - Reading
+      - Writing
+      - Speaking
+      - Listening
+      - Practicing
+      required: false
+    - id: 7
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: language_school_monthly_progress_check_in_comments
+      label: Language School Monthly Progress Check In Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Enter student email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: Enter student phone number
+      type: text
+      options: []
+      required: false

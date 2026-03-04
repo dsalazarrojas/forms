@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Report Form
+    pages:
+    - id: 1
+      name: evaluator_name_report
+      label: Evaluator or Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_trainee_name
+      label: Student or Trainee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: technical_knowledge_rating
+      label: Technical Knowledge and Skill Rating
+      hint: 1 - poor, 5 - exceptional
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: problem_solving_rating
+      label: Problem Solving and Critical Thinking
+      hint: 1 - poor, 5 - exceptional
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: professionalism_rating
+      label: Professionalism and Communication
+      hint: 1 - poor, 5 - exceptional
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: identified_strengths_text
+      label: Observed Primary Strengths
+      hint: Highlight what was done well
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: improvement_areas_text
+      label: Specific Areas for Development
+      hint: Identify skills needing improvement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recommended_status_report
+      label: Recommended Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Pass - Demonstrated Competency
+      - Fail - Requires Remediation
+      - Incomplete - Further evidence needed
+      - Pass with Honors
+      required: true
+    - id: 9
+      name: student_feedback_comments
+      label: Direct Feedback for the Student
+      hint: Provide actionable advice
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_completion_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_signoff_status
+      label: Supervisor Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Approved and Finalized
+      - Revision Requested
+      required: true

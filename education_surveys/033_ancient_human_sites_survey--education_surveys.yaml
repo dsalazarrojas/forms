@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Human Sites Survey
+    pages:
+    - id: 1
+      name: section_site_information
+      label: -- Site Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_name
+      label: Site name
+      hint: Name of the archaeological site
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_location
+      label: Site location
+      hint: Coordinates or nearest town
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: period_estimate
+      label: Estimated period
+      hint: e.g. Neolithic, Bronze Age
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition_rating
+      label: Site condition rating
+      hint: Rate from 1 to 5
+      type: select_one
+      options: [1, 2, 3, 4, 5]
+      required: false
+    - id: 6
+      name: research_notes
+      label: Research notes
+      hint: Observations from field team
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: For follow up questions
+      type: email
+      options: []
+      required: false

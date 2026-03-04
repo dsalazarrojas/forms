@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Withdrawal Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_status
+      label: Current Academic Status
+      hint: null
+      type: select_one
+      options:
+      - Full-Time Student
+      - Part-Time Student
+      - On Leave of Absence
+      - Other
+      required: true
+    - id: 7
+      name: current_year_level
+      label: Year in School
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 8
+      name: current_major
+      label: Current Major or Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: withdrawal_type
+      label: Type of Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - Temporary Leave of Absence
+      - Permanent Withdrawal
+      - Medical Withdrawal
+      - Other
+      required: true
+    - id: 10
+      name: withdrawal_effective_date
+      label: Effective Withdrawal Date
+      hint: When your withdrawal begins
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_withdrawal
+      label: Reason for Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - Financial Hardship
+      - Medical or Health Reasons
+      - Family or Personal Issues
+      - Poor Academic Performance
+      - Career Opportunity
+      - Military Service
+      - Transfer to Another School
+      - Other
+      required: true
+    - id: 12
+      name: detailed_reason
+      label: Detailed Explanation
+      hint: Provide more context about your decision
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: courses_completed
+      label: Semester Completion Status
+      hint: Are you completing the current semester
+      type: select_one
+      options:
+      - Completing Current Semester
+      - Leaving Immediately
+      - End of Academic Year
+      - Other
+      required: true
+    - id: 14
+      name: current_course_load
+      label: Current Course Load
+      hint: Number of credit hours enrolled
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: outstanding_obligations
+      label: Outstanding Financial Obligations
+      hint: Do you have unpaid tuition or fees
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 16
+      name: financial_aid_plans
+      label: What will happen to your financial aid
+      hint: Scholarships, loans, grants
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: future_plans
+      label: Future Plans
+      hint: What will you do after withdrawal
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: intent_to_return
+      label: Intent to Return to College
+      hint: May you return to this institution in the future
+      type: select_one
+      options:
+      - Yes, I Plan to Return
+      - Possibly
+      - No, This is Permanent
+      - Unsure
+      required: true
+    - id: 19
+      name: return_timeline
+      label: Planned Return Timeline - if applicable
+      hint: When might you return
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: required_documents
+      label: Required Documents Submitted
+      hint: Transcript requests, administrative documents
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: exit_interview
+      label: Willing to Participate in Exit Interview
+      hint: Feedback to improve the institution
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: advisory_service_interest
+      label: Interest in Alumni Services or Stay Connected
+      hint: Receive updates or maintain connection
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should college reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No Contact
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation
+      label: I confirm this withdrawal request is complete and accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Checklist Form
+    pages:
+    - id: 1
+      name: employee_recognition_checklist_form
+      label: Employee Recognition Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recognition_date
+      label: Recognition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: recognition_time
+      label: Recognition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: recognition_type
+      label: Recognition Type
+      hint: null
+      type: select_one
+      options:
+      - Employee Award
+      - Team Award
+      - Company Award
+      required: false
+    - id: 6
+      name: recognition_reason
+      label: Recognition Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recognition_message
+      label: Recognition Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

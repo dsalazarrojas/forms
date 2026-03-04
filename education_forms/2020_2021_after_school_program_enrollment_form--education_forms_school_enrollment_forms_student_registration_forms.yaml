@@ -1,0 +1,259 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 2021 After School Program Enrollment Form
+    pages:
+    - id: 1
+      name: section_program_info
+      label: '--- Program Enrollment Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student first name
+      hint: Enter the child's legal first name as it appears on school records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_age
+      label: Current age (in years)
+      hint: Enter age as of today
+      type: integer
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Current grade level for 2020-2021
+      hint: Select the grade for the upcoming school year
+      type: select_one
+      options:
+      - Pre-Kindergarten
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 7
+      name: current_school
+      label: Current school name
+      hint: Name of the school currently attending
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_parent_guardian
+      label: '--- Parent/Guardian Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_parent_name
+      label: Primary parent/guardian full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship_to_student
+      label: Relationship to student
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Legal Guardian
+      - Grandparent
+      - Foster Parent
+      - Other
+      required: true
+    - id: 11
+      name: parent_email
+      label: Parent/guardian email address
+      hint: For program updates and emergency notifications
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: parent_phone
+      label: Primary contact phone number
+      hint: Mobile number preferred for urgent texts
+      type: phone
+      options: []
+      required: true
+    - id: 13
+      name: secondary_contact_name
+      label: Secondary parent/guardian name
+      hint: Optional additional contact person
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: secondary_contact_phone
+      label: Secondary contact phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 15
+      name: section_emergency_contact
+      label: '--- Emergency Contact Information ---'
+      hint: Must be different from primary parent/guardian
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency contact full name
+      hint: Local emergency contact if parents cannot be reached
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency contact phone number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 18
+      name: emergency_relationship
+      label: Relationship to student
+      hint: e.g., Aunt, Neighbor, Family Friend
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_medical_info
+      label: '--- Medical & Safety Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical conditions, allergies, or special health needs
+      hint: Include food allergies, asthma, diabetes, epilepsy, etc. Write "None"
+        if applicable
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current medications taken during program hours
+      hint: Include dosage and timing instructions if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_program_logistics
+      label: '--- Program Participation Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: days_attending
+      label: Days of the week attending (select all that apply)
+      hint: Check all days your child will participate
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 24
+      name: focus_areas
+      label: Areas of interest (select all that apply)
+      hint: Help us plan activities suited to your child
+      type: select_multiple
+      options:
+      - Homework help & tutoring
+      - Arts & crafts
+      - Sports & recreation
+      - STEM activities
+      - Music & performing arts
+      - Outdoor exploration
+      required: false
+    - id: 25
+      name: transportation_method
+      label: Transportation arrangement after program
+      hint: How will your child leave the program each day?
+      type: select_one
+      options:
+      - Parent/Guardian pickup
+      - Walk home independently
+      - School bus
+      - Carpool with other family
+      - Other
+      required: true
+    - id: 26
+      name: authorized_pickup_adults
+      label: Adults authorized to pick up your child
+      hint: List full names of all authorized adults besides parents (separated by
+        commas)
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: photo_release_consent
+      label: Photo release consent
+      hint: May we use photos of your child in newsletters and promotional materials?
+      type: select_one
+      options:
+      - Yes - I consent to photo usage
+      - No - I do not consent
+      required: true
+    - id: 28
+      name: special_accommodations
+      label: Special accommodations or learning needs
+      hint: IEP, 504 plan, behavioral support needs, or other accommodations requested
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional comments or information
+      hint: Anything else we should know about your child?
+      type: text
+      options: []
+      required: false

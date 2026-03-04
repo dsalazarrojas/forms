@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exponent Learning Survey
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_rating
+      label: How would you rate the overall quality of the course?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      - '{''id'': 5, ''name'': ''Bad''}'
+      required: false
+    - id: 3
+      name: rating_comments
+      label: How can we improve this course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name_label
+      label: Your Name (will appear on report)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: Participant Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: Participant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_improvement
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

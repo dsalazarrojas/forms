@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Packet Update Form
+    pages:
+      - id: 1
+        name: update_submitter_name
+        label: Submitter Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: department_subject_area
+        label: Department or Subject Area
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_packet_id
+        label: Assessment Packet ID or Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: update_type_selection
+        label: Type of Update Required
+        hint: Select the primary nature of the change
+        type: select_one
+        options:
+          - Content Correction - Typo/Error
+          - New Question/Item Addition
+          - Obsolete Content Removal
+          - Formatting and Layout Update
+          - Version/Year Update
+        required: true
+      - id: 5
+        name: change_description_detailed
+        label: Detailed Description of Changes
+        hint: Specify the exact sections or questions affected
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: update_rationale
+        label: Rationale for Update
+        hint: Why is this change necessary at this time
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: new_content_placeholder
+        label: Please ensure new content is attached or pasted here
+        hint: For complex questions, use the file upload tool
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: request_submission_date
+        label: Date of Update Request
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: implementation_priority_level
+        label: Implementation Priority
+        hint: null
+        type: select_one
+        options:
+          - Low - Next cycle
+          - Medium - Current term
+          - High - Immediate/Urgent
+        required: true
+      - id: 10
+        name: supervisor_review_assignment
+        label: Assigned Reviewer Name
+        hint: null
+        type: text
+        options: []
+        required: false

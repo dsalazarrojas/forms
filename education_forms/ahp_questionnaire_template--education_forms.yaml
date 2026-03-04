@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AHP Questionnaire
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code, e.g., +1 555-123-4567
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: institution_name
+      label: Institution or organization
+      hint: Name of the university, school, or company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Your role
+      hint: Select the option that best describes your position
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Administrator
+      - Researcher
+      - Other
+      required: true
+    - id: 7
+      name: course_name
+      label: Course or program name
+      hint: Optional, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_decision_info
+      label: '--- Decision Context ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: decision_context
+      label: Decision type
+      hint: What type of decision was supported by AHP?
+      type: select_one
+      options:
+      - Project selection
+      - Resource allocation
+      - Curriculum design
+      - Staff hiring
+      - Other
+      required: true
+    - id: 10
+      name: decision_date
+      label: Decision date
+      hint: Date when the decision was made
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: priority_criteria
+      label: Priority criteria considered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Time efficiency
+      - Cost effectiveness
+      - User friendliness
+      - Scalability
+      - Customizability
+      - Data accuracy
+      required: true
+    - id: 12
+      name: criterion_time_efficiency_rating
+      label: Time efficiency rating
+      hint: Rate from 1 (worst) to 10 (best)
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: criterion_cost_effectiveness_rating
+      label: Cost effectiveness rating
+      hint: Rate from 1 (worst) to 10 (best)
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: criterion_user_friendliness_rating
+      label: User friendliness rating
+      hint: Rate from 1 (worst) to 10 (best)
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: criterion_scalability_rating
+      label: Scalability rating
+      hint: Rate from 1 (worst) to 10 (best)
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: criterion_customizability_rating
+      label: Customizability rating
+      hint: Rate from 1 (worst) to 10 (best)
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: criterion_data_accuracy_rating
+      label: Data accuracy rating
+      hint: Rate from 1 (worst) to 10 (best)
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: satisfaction
+      label: How satisfied are you with the AHP Questionnaire?
+      hint: Choose the most appropriate option
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: experience_aspects
+      label: Which aspects applied to your experience with AHP Questionnaire? (select
+        all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 21
+      name: open_feedback
+      label: What would you improve or change about AHP Questionnaire?
+      hint: Provide any suggestions or concerns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: completion_date
+      label: Completion date
+      hint: Date when you finished this questionnaire
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: completion_time
+      label: Completion time
+      hint: Time of day when you finished
+      type: time
+      options: []
+      required: false

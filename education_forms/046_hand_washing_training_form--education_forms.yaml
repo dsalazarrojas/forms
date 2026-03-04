@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hand Washing Training Form
+    pages:
+    - id: 1
+      name: education_forms_page_1
+      label: page-1-label
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: training_forms_page_2
+      label: first-training-question
+      hint: The submitter will be shown this question as a prompt.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: hand_washing_practices_page_3
+      label: hand-washing-practice
+      hint: Please answer with the number of the correct handwashing practice.
+      type: select_multiple
+      options:
+      - wash-hands-before-eating
+      - wash-hands-after-eating
+      - wash-hands-after-using-the-bathroom
+      required: false
+    - id: 4
+      name: hand_washing_form_page_4
+      label: hand-washing-question
+      hint: Please answer with your hand washing question.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hand_washing_practices_page_5
+      label: hand-washing-practices
+      hint: null
+      type: select_one
+      options:
+      - hand-washing-with-soap-and-water
+      - hand-washing-with-soap-and-water-and-sanitizer
+      - hand-washing-with-sanitizer
+      required: false
+    - id: 6
+      name: education_forms_page_6
+      label: education-forms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hand_washing_training_page_7
+      label: hand-washing-training
+      hint: null
+      type: select_one
+      options:
+      - training-on-hand-washing
+      - training-on-hand-sanitizer
+      - training-on-hand-antibacterial-soap
+      required: false
+    - id: 8
+      name: training_forms_page_8
+      label: training-forms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hand_washing_applications_page_9
+      label: hand-washing-applications
+      hint: Please specify the form of application.
+      type: select_one
+      options:
+      - application-for-training
+      - application-for-practice
+      - application-for-education
+      required: false
+    - id: 10
+      name: application_forms_page_10
+      label: application-forms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hand_washing_forms_page_11
+      label: hand-washing-forms
+      hint: null
+      type: select_multiple
+      options:
+      - forms-for-training
+      - forms-for-practice
+      - forms-for-education
+      required: false
+    - id: 12
+      name: hand_washing_page_12
+      label: hand-washing-question
+      hint: null
+      type: select_one
+      options:
+      - hand-washing-is-vital
+      - hand-washing-is-optional
+      - hand-washing-is-not-vital
+      required: false

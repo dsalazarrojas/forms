@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoological Animal Escape Incident Report Form
+    pages:
+    - id: 1
+      name: escape_incident
+      label: Animal Escape Incident
+      hint: null
+      type: select_one
+      options:
+      - Zebra
+      - Lion
+      - Tiger
+      - Bear
+      - Elephant
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: escape_location
+      label: Escape Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: animal_escape_location
+      label: Animal Escape Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: escape_description
+      label: Escape Description
+      hint: Briefly describe the animal escape incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 7
+      name: zoo_warden
+      label: Zoo Warden
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - Zebra
+      - Lion
+      - Tiger
+      - Bear
+      - Elephant
+      required: false
+    - id: 9
+      name: incident_date_time
+      label: Incident Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_link
+      label: File Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reported_by_name
+      label: Incident Reported By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reported_by_email
+      label: Incident Reported By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: incident_reported_by_phone
+      label: Incident Reported By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: animal_escape_status
+      label: Animal Escape Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Unconfirmed
+      required: false
+    - id: 20
+      name: zoo_location
+      label: Zoo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: animal_escape_type
+      label: Animal Escape Type
+      hint: null
+      type: select_multiple
+      options:
+      - Escaped
+      - Fled
+      - Killed
+      required: false
+    - id: 22
+      name: animal
+      label: Animal
+      hint: null
+      type: select_one
+      options:
+      - Zebra
+      - Lion
+      - Tiger
+      - Bear
+      - Elephant
+      required: false
+    - id: 23
+      name: zoo_department
+      label: Zoo Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_date_time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: incident_date_time_2
+      label: Date
+      hint: null
+      type: time
+      options: []
+      required: false

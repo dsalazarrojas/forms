@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Staff Daily Health Screening Form
+    pages:
+    - id: 1
+      name: screen_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: staff_member_number
+      label: Staff Member Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Fever
+      - Headache
+      - Fatigue
+      - Cough
+      - Runny_nose
+      - Sore_throat
+      required: false
+    - id: 8
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 9
+      name: last_contact
+      label: Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: health_notes
+      label: Health Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Self-isolate
+      - Self-report
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Not Applicable
+      - Not Applicable 2
+      required: false
+    - id: 13
+      name: other_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

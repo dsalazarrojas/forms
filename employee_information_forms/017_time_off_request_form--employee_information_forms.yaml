@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Off Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_date
+      label: Leave Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_interval
+      label: Time Interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_interval_unit
+      label: Time Interval Unit
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: true
+    - id: 6
+      name: time_off_reason
+      label: Time Off Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_ext_email
+      label: Contact External Email
+      hint: null
+      type: email
+      options: []
+      required: false

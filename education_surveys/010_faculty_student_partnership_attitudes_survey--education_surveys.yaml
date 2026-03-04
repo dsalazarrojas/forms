@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Student Partnership Attitudes Survey
+    pages:
+    - id: 1
+      name: 1_how_would_you_rate_your_overall_satisfaction
+      label: How would you rate your overall satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neither
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 2
+      name: 2_how_often_do_you_feel_that_faculty_members_support_you
+      label: How often do you feel that faculty members support
+      hint: null
+      type: select_one
+      options:
+      - Very often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 3
+      name: 3_how_often_do_students_feel_that_faculty_members_support_them
+      label: How often do students feel that faculty members support
+      hint: null
+      type: select_one
+      options:
+      - Very often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: 4_what_activities_promote_faculty_student_partnership
+      label: What activities promote faculty-student partnership
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborative projects
+      - Mentoring
+      - Teaching
+      - Community engagement
+      required: true
+    - id: 5
+      name: 5_how_important_is_it_to_faculty_members
+      label: How important is it to faculty members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: 6_how_important_is_it_to_students
+      label: How important is it to students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: 7_how_would_you_rate_communication_between_faculty_and_students
+      label: How would you rate communication between faculty and students
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Neutral
+      - Somewhat ineffective
+      - Very ineffective
+      required: false
+    - id: 8
+      name: 8_how_do_you_feel_about_faculty_student_partnership
+      label: How do you feel about faculty-student partnership
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: 9_how_do_you_feel_about_student_faculty_partnership
+      label: How do you feel about student-faculty partnership
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 10
+      name: 10_how_satisfied_are_you_with_student_faculty_partnership
+      label: How satisfied are you with student-faculty partnership
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neither
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 11
+      name: 11_how_fulfilling_is_student_participation
+      label: How fulfilling is student participation?
+      hint: null
+      type: select_multiple
+      options:
+      - Very fulfilling
+      - Fulfilling
+      - Neutral
+      - Somewhat not fulfilling
+      - Not fulfilling
+      required: true
+    - id: 12
+      name: 12_how_often_do_you_participate_in_faculty_student_partnership
+      label: How often do you participate in faculty-student partnership?
+      hint: null
+      type: select_one
+      options:
+      - Very often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false

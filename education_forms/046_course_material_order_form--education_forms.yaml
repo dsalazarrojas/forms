@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Material Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Authorize
+      - Square
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: select_one
+      options:
+      - Textbook
+      - Manual
+      - Online Resource
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_city
+      label: User City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_state
+      label: User State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_zip
+      label: User Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_title
+      label: User Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false

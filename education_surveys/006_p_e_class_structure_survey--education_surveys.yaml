@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: P.E. Class Structure Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: class_size
+      label: Class Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41-50
+      - 51 or more
+      required: false
+    - id: 3
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Physical Education Class
+      - Dance Class
+      - Gym Class
+      - Sports Class
+      - Other
+      required: false
+    - id: 4
+      name: class_structure
+      label: Class Structure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: class_engagement
+      label: Class Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 6
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_improvement_ideas
+      label: Other Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_safety
+      label: Class Safety
+      hint: null
+      type: select_multiple
+      options:
+      - Very Safe
+      - Somewhat Safe
+      - Not Very Safe
+      - Not Safe At All
+      required: false
+    - id: 9
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 10
+      name: student_support
+      label: Student Support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false

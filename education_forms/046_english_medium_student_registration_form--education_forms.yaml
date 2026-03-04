@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: english_medium_student_registration_form
+    pages:
+    - id: 1
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: english_medium_details
+      label: English Medium Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_programme
+      label: Student Programme
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A'', ''label'': ''Option 1''}'
+      - '{''value'': ''B'', ''label'': ''Option 2''}'
+      - '{''value'': ''C'', ''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active'', ''label'': ''Active''}'
+      - '{''value'': ''Inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''Unknown'', ''label'': ''Unknown''}'
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medium_of_instruction
+      label: Medium of Instruction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English'', ''label'': ''English''}'
+      - '{''value'': ''Hindi'', ''label'': ''Hindi''}'
+      - '{''value'': ''Bengali'', ''label'': ''Bengali''}'
+      - '{''value'': ''Marathi'', ''label'': ''Marathi''}'
+      - '{''value'': ''Punjabi'', ''label'': ''Punjabi''}'
+      - '{''value'': ''Tamil'', ''label'': ''Tamil''}'
+      - '{''value'': ''Telugu'', ''label'': ''Telugu''}'
+      - '{''value'': ''Kannada'', ''label'': ''Kannada''}'
+      - '{''value'': ''Kashmiri'', ''label'': ''Kashmiri''}'
+      - '{''value'': ''Kannada'', ''label'': ''Kannada''}'
+      - '{''value'': ''Sanskrit'', ''label'': ''Sanskrit''}'
+      - '{''value'': ''Tulu'', ''label'': ''Tulu''}'
+      required: true
+    - id: 8
+      name: student_email
+      label: Student E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false

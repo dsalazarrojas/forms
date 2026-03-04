@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Submission Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 3 months'', ''value'': ''less_than_3_months''}'
+      - '{''id'': 2, ''label'': ''3 to 6 months'', ''value'': ''three_to_six_months''}'
+      - '{''id'': 3, ''label'': ''6 months to 1 year'', ''value'': ''six_months_to_one_year''}'
+      - '{''id'': 4, ''label'': ''1 to 2 years'', ''value'': ''one_to_two_years''}'
+      - '{''id'': 5, ''label'': ''2 years or more'', ''value'': ''two_or_more_years''}'
+      required: false
+    - id: 6
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Part-time'', ''value'': ''part-time''}'
+      - '{''id'': 2, ''label'': ''Full-time'', ''value'': ''full-time''}'
+      - '{''id'': 3, ''label'': ''Contract'', ''value'': ''contract''}'
+      - '{''id'': 4, ''label'': ''Freelance'', ''value'': ''freelance''}'
+      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Permanent'', ''value'': ''permanent''}'
+      - '{''id'': 2, ''label'': ''Temporary'', ''value'': ''temporary''}'
+      - '{''id'': 3, ''label'': ''Seasonal'', ''value'': ''seasonal''}'
+      - '{''id'': 4, ''label'': ''Intern'', ''value'': ''intern''}'
+      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full-time'', ''value'': ''full-time''}'
+      - '{''id'': 2, ''label'': ''Part-time'', ''value'': ''part-time''}'
+      - '{''id'': 3, ''label'': ''Permanent'', ''value'': ''permanent''}'
+      - '{''id'': 4, ''label'': ''Temporary'', ''value'': ''temporary''}'
+      required: false
+    - id: 13
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Remote'', ''value'': ''remote''}'
+      - '{''id'': 2, ''label'': ''On-site'', ''value'': ''on-site''}'
+      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''hybrid''}'
+      required: false
+    - id: 14
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Entry-Level'', ''value'': ''entry-level''}'
+      - '{''id'': 2, ''label'': ''Mid-Level'', ''value'': ''mid-level''}'
+      - '{''id'': 3, ''label'': ''Senior'', ''value'': ''senior''}'
+      - '{''id'': 4, ''label'': ''Executive'', ''value'': ''executive''}'
+      required: false
+    - id: 15
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_family
+      label: Job Family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_size
+      label: Team Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_organizational_chart
+      label: Team Organizational Chart
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_shift
+      label: Work Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: work_status
+      label: Work Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 2, ''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''rejected''}'
+      - '{''id'': 4, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - '{''id'': 5, ''label'': ''Completed'', ''value'': ''completed''}'
+      required: false

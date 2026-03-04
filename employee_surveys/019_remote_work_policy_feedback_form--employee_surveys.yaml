@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Policy Feedback Form
+    pages:
+    - id: 1
+      name: remote_work_policy_satisfaction
+      label: Remote Work Policy Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Very Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 2
+      name: work_location
+      label: work_location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Coffee Shop
+      - Co-working Space
+      - Other
+      required: false
+    - id: 3
+      name: communication
+      label: How often do you communicate with your team while working remotely?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      - Other
+      required: false
+    - id: 5
+      name: challenges_faced
+      label: What are the biggest challenges you've faced while working remotely?
+      hint: Please describe your challenges
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Please provide your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_support
+      label: manager_support
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Neutral
+      required: false
+    - id: 8
+      name: company_resources
+      label: What resources do you feel are lacking while working remotely?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Computer
+      - Internet Connection
+      - Software
+      - Collaboration Tools
+      - Other
+      required: false
+    - id: 9
+      name: work_life_balance
+      label: How does your work-life balance change while working remotely?
+      hint: Please select only one
+      type: select_one
+      options:
+      - Better
+      - Worse
+      - Neutral
+      required: false
+    - id: 10
+      name: job_satisfaction
+      label: Job satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: 1-10
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editorial Staff Employment Onboarding Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: new hire details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_hire
+      label: date of hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: salary
+      label: salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contract_start_date
+      label: contract start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_end_date
+      label: contract end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employment_type
+      label: employment type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: false
+    - id: 9
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Resigned
+      required: false
+    - id: 10
+      name: new_hire_acknowledge
+      label: new hire acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: onboarding_form_submitted_by
+      label: onboarding form submitted by
+      hint: null
+      type: select_one
+      options:
+      - Editorial Team Lead
+      - Publisher
+      - Hiring Manager
+      - HR Representative
+      - Onboarding Admin
+      required: false
+    - id: 12
+      name: acknowledgement
+      label: acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and agree
+      - 'No'
+      required: false
+    - id: 13
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_status
+      label: submission status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Submitted
+      - Approved
+      - Rejected
+      required: false
+    - id: 18
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - Editorial Team Lead
+      - Publisher
+      - Hiring Manager
+      - HR Representative
+      - Onboarding Admin
+      required: false
+    - id: 19
+      name: submission_id
+      label: submission ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: onboarding_form_version
+      label: onboarding form version
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 21
+      name: onboarding_form_version_comments
+      label: onboarding form version comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_status_comments
+      label: submission status comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_status_reason
+      label: submission status reason
+      hint: null
+      type: select_one
+      options:
+      - No reason provided
+      - Incomplete information
+      - Not submitted
+      - Rejected
+      - Approved
+      required: false
+    - id: 24
+      name: submission_date_time
+      label: submission date and time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission_time_zone
+      label: submission time zone
+      hint: null
+      type: select_one
+      options:
+      - UTC+0
+      - Other
+      required: false

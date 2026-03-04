@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hr Policy Review Report Form
+    pages:
+    - id: 1
+      name: employee_surveys_section
+      label: Employee Surveys
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_policies
+      label: company_policies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: policy_improvements
+      label: Policy Improvements
+      hint: Describe ways to improve the policies
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: better_communication
+      label: Better Communication
+      hint: How can we improve communication with the company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_feedback
+      label: Policy Feedback
+      hint: Please select all relevant feedback
+      type: select_multiple
+      options:
+      - '{''label'': ''Policy is clear''}'
+      - '{''label'': ''Policy is unclear''}'
+      - '{''label'': ''Policy is outdated''}'
+      - '{''label'': ''Policy is not enforced''}'
+      required: false
+    - id: 6
+      name: policy_enforcement
+      label: Policy Enforcement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_input
+      label: Employee Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments
+      type: text
+      options: []
+      required: false

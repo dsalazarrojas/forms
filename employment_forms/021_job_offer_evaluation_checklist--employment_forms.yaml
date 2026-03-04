@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Offer Evaluation Checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: Main page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_details
+      label: Job details
+      hint: null
+      type: select_one
+      options:
+      - Job A
+      - Job B
+      - Job C
+      required: true
+    - id: 3
+      name: job_salary
+      label: Job salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_location
+      label: Job location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_multiple
+      options:
+      - Full time
+      - Part time
+      - Contract
+      required: false
+    - id: 6
+      name: job_duration
+      label: Job duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: job_notes
+      label: Job notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_offer
+      label: Job offer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: evaluation_date
+      label: Evaluation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: evaluation_time
+      label: Evaluation time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: main_page_comment
+      label: Main page comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_offer_comment
+      label: Job offer comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_comment
+      label: Company comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_comment
+      label: Contact comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_status_comment
+      label: Job status comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_type_comment
+      label: Job type comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_salary_comment
+      label: Job salary comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_location_comment
+      label: Job location comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_duration_comment
+      label: Job duration comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: main_page_checkbox
+      label: Main page checkbox
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: main_page_checkbox_label
+      label: Main page checkbox label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_date_comment
+      label: Evaluation date comment
+      hint: null
+      type: text
+      options: []
+      required: false

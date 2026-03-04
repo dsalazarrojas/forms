@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Language Delegation Form
+    pages:
+    - id: 1
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: language_required
+      label: language_required
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: true
+    - id: 4
+      name: language_awareness
+      label: Language Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 5
+      name: task_delegation
+      label: Task Delegation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: task_completion_date
+      label: Task Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''other''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false

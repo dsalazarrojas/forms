@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Benchmark Data Request Form
+    pages:
+      - id: 1
+        name: requester_info_section
+        label: -- Requester Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Name of Requester
+        hint: Person or department requesting the data
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_department
+        label: Department
+        hint: Organization unit requesting the benchmark
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: requester_email
+        label: Contact Email
+        hint: For delivery of the benchmark report
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: benchmark_details_section
+        label: -- Benchmark Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: job_title_to_benchmark
+        label: Target Job Title
+        hint: Enter the specific role name to be analyzed
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: target_industry
+        label: Target Industry for Comparison
+        hint: Select the primary industry to benchmark against
+        type: select_one
+        options:
+          - Technology / Software
+          - Healthcare / Medical
+          - Finance / Banking
+          - Manufacturing
+          - Retail / E-commerce
+          - Non-profit / Public Sector
+          - Professional Services
+        required: true
+      - id: 8
+        name: geographic_scope
+        label: Geographic Scope of Data
+        hint: Select the region for salary comparison
+        type: select_one
+        options:
+          - Local (City-wide)
+          - Regional (State/Province)
+          - National
+          - International
+        required: true
+      - id: 9
+        name: data_points_requested
+        label: Specific Data Points Required
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Base Salary (25th/50th/75th percentiles)
+          - Annual Bonus / STI
+          - Long-term Incentives (LTI)
+          - Healthcare Benefit Value
+          - Retirement Match Data
+          - PTO / Vacation Allowances
+          - Remote Work Stipends
+        required: true
+      - id: 10
+        name: reason_for_request
+        label: Business Justification for Request
+        hint: Why is this benchmark needed now? (e.g., New role creation, retention issue)
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: request_deadline
+        label: Required Completion Date
+        hint: When do you need this data by?
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: preferred_data_source
+        label: Preferred Data Source
+        hint: If you have a specific vendor or survey source in mind
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: submission_date_bench
+        label: Date of Request
+        hint: Today's date
+        type: date
+        options: []
+        required: true

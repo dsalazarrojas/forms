@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extension Cord Safety Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_info
+      label: Inspector Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Safety Officer'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Safety Inspector'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Facility Team'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''None'', ''value'': 0}'
+      required: false
+    - id: 3
+      name: cord_status
+      label: Cord Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Hazardous'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Inspected'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: cord_length
+      label: Cord Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cord_type
+      label: Cord Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Power'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Non-Power'', ''value'': 2}'
+      required: false
+    - id: 6
+      name: cord_condition
+      label: Cord Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Damaged'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Inspected'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: cord_hazards
+      label: Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Water'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Fire'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Electrical'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': 4}'
+      required: false
+    - id: 8
+      name: cord_notes
+      label: Cord Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false

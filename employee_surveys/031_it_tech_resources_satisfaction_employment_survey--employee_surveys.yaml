@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Tech Resources Satisfaction Employment Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tech_issues
+      label: What technical issues do you encounter?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tech_issues_frequent
+      label: How often do you encounter technical issues?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tech_issues_impact
+      label: How often do technical issues impact productivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support
+      label: How do you feel about the level of IT support you receive?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: support_frequent
+      label: How often do you contact IT for support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: support_impact
+      label: How often does the support impact your productivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tech_tools
+      label: What technology tools do you use?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tech_tools_frequent
+      label: How often do you use technology tools?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tech_tools_impact
+      label: How often do technology tools impact your productivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training
+      label: Do you feel that you have sufficient training on IT tools and technology?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: tech_resources_satisfactory
+      label: How would you rate your satisfaction with IT resources?
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: true
+    - id: 20
+      name: tech_support_satisfactory
+      label: How would you rate your satisfaction with IT support?
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: true
+    - id: 21
+      name: tech_resources_improvement
+      label: What are some suggestions for improving IT resources?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tech_support_improvement
+      label: What are some suggestions for improving IT support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tech_funding
+      label: How would you rate IT funding for technology and training?
+      hint: null
+      type: select_one
+      options:
+      - Very underfunded
+      - Somewhat underfunded
+      - Neutral
+      - Somewhat overfunded
+      - Very overfunded
+      required: true
+    - id: 24
+      name: manager_support
+      label: How often do you feel that your manager supports your use of technology?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Often
+      - Almost always
+      required: true
+    - id: 25
+      name: tech_resources_needed
+      label: What technology tools would you like to have?
+      hint: null
+      type: text
+      options: []
+      required: false

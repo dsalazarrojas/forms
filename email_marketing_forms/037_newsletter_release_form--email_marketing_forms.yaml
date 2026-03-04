@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Release Form
+    pages:
+    - id: 1
+      name: title
+      label: Newsletters Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue_details
+      label: Issue Details
+      hint: Choose one of the following options
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''issue_date'', ''label'': ''Date''}'
+      - '{''id'': 2, ''name'': ''issue_time'', ''label'': ''Time''}'
+      - '{''id'': 3, ''name'': ''issue_frequency'', ''label'': ''Frequency''}'
+      required: false
+    - id: 3
+      name: publishing_details
+      label: Publishing Details
+      hint: Select all applicable channels
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''social_media'', ''label'': ''Social Media''}'
+      - '{''id'': 3, ''name'': ''web_site'', ''label'': ''Website''}'
+      - '{''id'': 4, ''name'': ''blog'', ''label'': ''Blog''}'
+      required: false
+    - id: 4
+      name: approval
+      label: Approvals
+      hint: Select all applicable approvers
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''marketing_manager'', ''label'': ''Marketing Manager''}'
+      - '{''id'': 2, ''name'': ''communications_officer'', ''label'': ''Communications
+        Officer''}'
+      - '{''id'': 3, ''name'': ''creative_director'', ''label'': ''Creative Director''}'
+      - '{''id'': 4, ''name'': ''editor'', ''label'': ''Editor''}'
+      - '{''id'': 5, ''name'': ''publisher'', ''label'': ''Publisher''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: published
+      label: Published
+      hint: Has the newsletter been published?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 9
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: true

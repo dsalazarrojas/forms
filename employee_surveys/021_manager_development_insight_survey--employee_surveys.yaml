@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Development Insight Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: What type of training have you attended recently?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 8
+      name: select_multiple
+      label: What types of training have you attended recently?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_3''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_4''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_5''}'
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: select_one_date
+      label: What date did you attend this training?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': datetime.date(2022, 1, 1), ''value'': datetime.date(2022, 1,
+        1)}'
+      - '{''label'': datetime.date(2022, 1, 2), ''value'': datetime.date(2022, 1,
+        2)}'
+      required: false

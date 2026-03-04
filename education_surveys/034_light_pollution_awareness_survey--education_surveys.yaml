@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Light Pollution Awareness Survey
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Strongly Agree''}'
+      - '{''id'': 200, ''label'': ''Somewhat Agree''}'
+      - '{''id'': 300, ''label'': ''Neither''}'
+      - '{''id'': 400, ''label'': ''Somewhat Disagree''}'
+      - '{''id'': 500, ''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 2
+      name: community_feedback
+      label: Community Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Low''}'
+      - '{''id'': 200, ''label'': ''Medium''}'
+      - '{''id'': 300, ''label'': ''High''}'
+      - '{''id'': 400, ''label'': ''Very High''}'
+      required: false
+    - id: 3
+      name: energy_use
+      label: Energy Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 100, ''label'': ''Less''}'
+      - '{''id'': 200, ''label'': ''More''}'
+      - '{''id'': 300, ''label'': ''Much More''}'
+      - '{''id'': 400, ''label'': ''Much Much More''}'
+      required: false
+    - id: 4
+      name: skyglow
+      label: Skyglow
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Low''}'
+      - '{''id'': 200, ''label'': ''Medium''}'
+      - '{''id'': 300, ''label'': ''High''}'
+      - '{''id'': 400, ''label'': ''Very High''}'
+      required: false
+    - id: 5
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

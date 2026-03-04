@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Typing Lesson Feedback Survey
+    pages:
+    - id: 1
+      name: lesson_feedback_1
+      label: What did you think of the lesson?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: lesson_feedback_2
+      label: How would you rate the lesson content?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 3
+      name: lesson_feedback_3
+      label: How would you rate the instructor\'s presentation?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 4
+      name: lesson_feedback_4
+      label: How would you rate the instructor\'s communication?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: lesson_feedback_5
+      label: How would you rate the materials provided?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 6
+      name: lesson_feedback_6
+      label: What was the most valuable part of the lesson?
+      hint: null
+      type: select_multiple
+      options:
+      - Lesson topic
+      - Materials
+      - Instructor
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: lesson_feedback_7
+      label: Would you like to provide any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: lesson_feedback_8
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: lesson_feedback_9
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lesson_feedback_10
+      label: Would you like to provide your feedback to us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: lesson_feedback_11
+      label: How likely are you to attend another class by this instructor?
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Maybe
+      - Likely
+      - Very likely
+      required: true
+    - id: 12
+      name: lesson_feedback_12
+      label: How likely are you to take another class with this instructor?
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Maybe
+      - Likely
+      - Very likely
+      required: true
+    - id: 13
+      name: lesson_feedback_13
+      label: How likely are you to take another class offered by this institution?
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Maybe
+      - Likely
+      - Very likely
+      required: true
+    - id: 14
+      name: lesson_feedback_14
+      label: What do you like most about this class?
+      hint: null
+      type: select_multiple
+      options:
+      - Class format
+      - Instructor
+      - Materials
+      - Content
+      required: true
+    - id: 15
+      name: lesson_feedback_15
+      label: What do you like least about this class?
+      hint: null
+      type: select_multiple
+      options:
+      - Class format
+      - Instructor
+      - Materials
+      - Content
+      required: true
+    - id: 16
+      name: lesson_feedback_16
+      label: Have you taken this class before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: lesson_feedback_17
+      label: Do you like the class duration?
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: true
+    - id: 18
+      name: lesson_feedback_18
+      label: How likely are you to recommend this class to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Maybe
+      - Likely
+      - Very likely
+      required: true
+    - id: 19
+      name: lesson_feedback_19
+      label: How likely are you to use the materials provided?
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Maybe
+      - Likely
+      - Very likely
+      required: true
+    - id: 20
+      name: lesson_feedback_20
+      label: Have you ever attended a class of this type?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: lesson_feedback_21
+      label: What did you think of the virtual classroom environment?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 22
+      name: lesson_feedback_22
+      label: What could the instructor do to improve the class?
+      hint: null
+      type: select_multiple
+      options:
+      - Class format
+      - Instructor
+      - Materials
+      - Content
+      - Other (please specify)
+      required: true
+    - id: 23
+      name: lesson_feedback_23
+      label: What was the most challenging part of the class?
+      hint: null
+      type: select_multiple
+      options:
+      - Class format
+      - Instructor
+      - Materials
+      - Content
+      - Other (please specify)
+      required: true
+    - id: 24
+      name: lesson_feedback_24
+      label: What was the most valuable part of the class?
+      hint: null
+      type: select_multiple
+      options:
+      - Class format
+      - Instructor
+      - Materials
+      - Content
+      required: true
+    - id: 25
+      name: lesson_feedback_25
+      label: How much time was spent on this class?
+      hint: null
+      type: select_one
+      options:
+      - Too little
+      - About right
+      - Too much
+      required: true

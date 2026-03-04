@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Of The Year Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: managerial_performance
+      label: Managerial Performance
+      hint: null
+      type: select_one
+      options:
+      - Managerial Leadership
+      - Strategic Planning
+      - Communication
+      - Problem Solving
+      - Adaptability
+      - Results Orientation
+      required: false
+    - id: 3
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - goal1
+      - goal2
+      - goal3
+      - goal4
+      - goal5
+      required: false
+    - id: 4
+      name: performance_rating
+      label: Performance
+      hint: null
+      type: select_multiple
+      options:
+      - rating1
+      - rating2
+      - rating3
+      - rating4
+      - rating5
+      required: false
+    - id: 5
+      name: manager_of_the_year_title
+      label: Manager Of The Year Title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Assistant Manager
+      - Department Head
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Finance
+      - Marketing
+      - Sales
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_of_the_year_comments
+      label: Manager Of The Year Comments
+      hint: null
+      type: note
+      options: []
+      required: false

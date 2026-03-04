@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Social Event Survey
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attended_event
+      label: Attended Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 4
+      name: attendees
+      label: Number of attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: food_order
+      label: Food order
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Snacks
+      - Dinner
+      required: false
+    - id: 6
+      name: team_outing
+      label: Team Outing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_attendance
+      label: Team Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Everyone
+      - Some
+      - None
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

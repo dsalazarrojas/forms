@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invertebrate Classification Survey
+    pages:
+    - id: 1
+      name: invertebrate_type
+      label: Invertebrate Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ants
+      - Spiders
+      - Bees
+      - Beetles
+      - Flies
+      - Butterflies
+      - Cockroaches
+      - Dragonflies
+      - Wasps
+      - Beavers
+      required: true
+    - id: 2
+      name: habitat
+      label: Habitat
+      hint: null
+      type: select_one
+      options:
+      - Grassland
+      - Forest
+      - Wetland
+      - Desert
+      - Mountain
+      - Water
+      - Rocky
+      - Urban
+      required: true
+    - id: 3
+      name: body_color
+      label: Body Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - White
+      - Blue
+      - Black
+      - Brown
+      - Green
+      - Yellow
+      required: false
+    - id: 4
+      name: legs_number
+      label: Legs Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: winged
+      label: Winged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: antennae_number
+      label: Antennae Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: body_size
+      label: Body Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: average_height
+      label: Average Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: average_length
+      label: Average Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: average_weight
+      label: Average Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: habitat_description
+      label: Habitat Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: conservation_status
+      label: Conservation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Endangered
+      - Extinct
+      - Least Concern
+      - Near Threatened
+      - Not Evaluated
+      - Not Threatened
+      - Threatened
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CST
+      - PST
+      required: false

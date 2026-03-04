@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Policy For Schools
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- AI Policy Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School or institution name
+      hint: Enter the full legal name of your educational institution
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: district_name
+      label: District name (if applicable)
+      hint: Leave blank if independent school
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_effective_date
+      label: Policy effective date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: principal_name
+      label: Principal or Head of Institution
+      hint: Full name of the person responsible for policy implementation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact email for AI policy inquiries
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: grade_levels_served
+      label: Grade levels served
+      hint: Specify the range of grades in your institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_usage_guidelines
+      label: '--- AI Usage Guidelines ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: permitted_ai_tools
+      label: Permitted AI tools for educational use
+      hint: Select all tools approved for classroom use
+      type: select_multiple
+      options:
+      - ChatGPT
+      - Google Gemini
+      - Microsoft Copilot
+      - Khan Academy AI
+      - Duolingo Max
+      - Grammarly
+      - Other
+      required: false
+    - id: 10
+      name: prohibited_ai_activities
+      label: Prohibited AI activities (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Academic cheating
+      - Plagiarism
+      - Creating deepfakes
+      - Generating inappropriate content
+      - Impersonating others
+      - Violating privacy
+      - None of the above
+      required: true
+    - id: 11
+      name: ai_training_allowed
+      label: Is student data used for AI model training?
+      hint: null
+      type: select_one
+      options:
+      - Explicitly prohibited
+      - Allowed with consent
+      - Allowed for educational purposes
+      - Unclear
+      required: true
+    - id: 12
+      name: section_header_responsibilities
+      label: '--- Responsibilities and Oversight ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: teacher_training_hours
+      label: Hours of AI ethics training required for teachers annually
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: student_ai_literacy_grade
+      label: Minimum grade level for mandatory AI literacy education
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: oversight_committee_exists
+      label: Does your institution have an AI oversight committee?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning to establish
+      required: true
+    - id: 16
+      name: section_header_compliance
+      label: '--- Compliance and Monitoring ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: monitoring_frequency
+      label: How often is AI policy compliance reviewed?
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Semi-annually
+      - Quarterly
+      - Monthly
+      - Continuously
+      required: true
+    - id: 18
+      name: violation_reporting_mechanism
+      label: Mechanism for reporting AI policy violations
+      hint: null
+      type: select_one
+      options:
+      - Anonymous online form
+      - Direct to administration
+      - Through IT department
+      - Via counselor
+      - Other
+      required: true
+    - id: 19
+      name: policy_review_date
+      label: Next scheduled policy review date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: section_header_additional
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or special considerations
+      hint: Include any unique aspects of your institution's AI policy
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: policy_approval_date
+      label: Date of policy approval by board/administration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: policy_version
+      label: Policy version number
+      hint: Format as X.Y (e.g., 1.0, 2.1)
+      type: decimal
+      options: []
+      required: true

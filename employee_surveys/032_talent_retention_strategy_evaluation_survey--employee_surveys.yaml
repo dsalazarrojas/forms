@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: talent_retention_strategy_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: retention_initiatives
+      label: What are the retention initiatives we have in place?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_satisfaction
+      label: How satisfied are you with your role?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: improvements
+      label: What improvements would you suggest?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Do you have any feedback?
+      hint: null
+      type: note
+      options: []
+      required: false

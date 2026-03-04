@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Exit Non Disclosure Agreement
+    pages:
+    - id: 1
+      name: employee_exit_non_disclosure_agreement_form
+      label: Employee Exit Non Disclosure Agreement Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_exit_non_disclosure_agreement_acknowledgments
+      label: Employee Exit Non Disclosure Agreement Acknowledgments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_exit_non_disclosure_agreement_signature
+      label: Employee Exit Non Disclosure Agreement Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_exit_non_disclosure_agreement_date
+      label: Employee Exit Non Disclosure Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Training Course Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of course registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_first_name
+      label: Participant First Name
+      hint: Legal first name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Participant Last Name
+      hint: Legal last name of participant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_address
+      label: Participant Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_role
+      label: Participant Role
+      hint: What is your current role?
+      type: select_one
+      options:
+      - Parent or guardian
+      - Childcare provider
+      - Daycare staff member
+      - Teacher
+      - Administrator or director
+      - Student
+      - Other
+      required: true
+    - id: 11
+      name: organization_name
+      label: Organization Name
+      hint: Name of your childcare organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: years_of_experience
+      label: Years of Experience
+      hint: How many years of childcare experience do you have?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      - No experience yet
+      required: true
+    - id: 13
+      name: course_selection
+      label: Course Selection
+      hint: Which training course are you registering for?
+      type: select_one
+      options:
+      - Child development fundamentals
+      - Positive discipline techniques
+      - Health and safety in childcare
+      - Nutrition for young children
+      - Early literacy development
+      - Special needs inclusion
+      - Infant and toddler care
+      - Preschool curriculum planning
+      - Behavior management
+      - Parent communication skills
+      - CPR and First Aid certification
+      - Other
+      required: true
+    - id: 14
+      name: course_format_preference
+      label: Course Format Preference
+      hint: How would you prefer to take this course?
+      type: select_one
+      options:
+      - In-person only
+      - Online only
+      - Hybrid (both)
+      - No preference
+      required: true
+    - id: 15
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like to start the course?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: schedule_preference
+      label: Schedule Preference
+      hint: What schedule works best for you?
+      type: select_one
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Self-paced online
+      required: true
+    - id: 17
+      name: continuing_education_units
+      label: Continuing Education Units
+      hint: Do you need continuing education units (CEUs)?
+      type: select_one
+      options:
+      - Yes, for certification
+      - Yes, for license renewal
+      - Yes, for professional development
+      - false
+      required: true
+    - id: 18
+      name: certification_body
+      label: Certification Body
+      hint: Which organization requires your CEUs?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_training_completed
+      label: Previous Training Completed
+      hint: Have you completed any childcare training before?
+      type: select_one
+      options:
+      - Yes, multiple courses
+      - Yes, one or two courses
+      - No, this is my first
+      required: true
+    - id: 20
+      name: previous_training_details
+      label: Previous Training Details
+      hint: List any previous training you have completed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: learning_goals
+      label: Learning Goals
+      hint: What are your goals for taking this course?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you need any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: childcare_during_training
+      label: Childcare During Training
+      hint: Will you need childcare provided during training?
+      type: select_one
+      options:
+      - Yes, for one child
+      - Yes, for multiple children
+      - false
+      required: true
+    - id: 24
+      name: children_ages_for_childcare
+      label: Children Ages for Childcare
+      hint: List ages of children needing care
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: course_fee
+      label: Course Fee
+      hint: Course fee amount
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the course?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Bank transfer
+      - Employer sponsored
+      - Scholarship or grant
+      required: true
+    - id: 27
+      name: employer_sponsorship
+      label: Employer Sponsorship
+      hint: Is your employer sponsoring this training?
+      type: select_one
+      options:
+      - Yes, full sponsorship
+      - Yes, partial sponsorship
+      - false
+      - Applying for sponsorship
+      required: false
+    - id: 28
+      name: scholarship_application
+      label: Scholarship Application
+      hint: Are you applying for a scholarship?
+      type: select_one
+      options:
+      - Yes, need full scholarship
+      - Yes, need partial scholarship
+      - false
+      required: true
+    - id: 29
+      name: how_did_you_hear_about_course
+      label: How Did You Hear About This Course
+      hint: How did you learn about this training course?
+      type: select_one
+      options:
+      - Employer recommendation
+      - Online search
+      - Social media
+      - Colleague referral
+      - Professional organization
+      - Other
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or questions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Do you agree to the terms and conditions?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 32
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

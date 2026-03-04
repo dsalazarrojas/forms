@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Junior Developer'', ''value'': ''Junior Developer''}'
+      - '{''id'': 2, ''name'': ''Senior Developer'', ''value'': ''Senior Developer''}'
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: work_history
+      label: Work History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 12, ''name'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''id'': 13, ''name'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''id'': 14, ''name'': ''Neutral'', ''value'': ''Neutral''}'
+      - '{''id'': 15, ''name'': ''Somewhat Dissatisfied'', ''value'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 16, ''name'': ''Very Dissatisfied'', ''value'': ''Very Dissatisfied''}'
+      required: true
+    - id: 12
+      name: available_languages
+      label: Available Languages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 17, ''name'': ''English'', ''value'': ''English''}'
+      - '{''id'': 18, ''name'': ''Spanish'', ''value'': ''Spanish''}'
+      - '{''id'': 19, ''name'': ''French'', ''value'': ''French''}'
+      - '{''id'': 20, ''name'': ''Arabic'', ''value'': ''Arabic''}'
+      required: true
+    - id: 13
+      name: available_technologies
+      label: Available Technologies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': ''Html'', ''value'': ''Html''}'
+      - '{''id'': 22, ''name'': ''Css'', ''value'': ''Css''}'
+      - '{''id'': 23, ''name'': ''JavaScript'', ''value'': ''JavaScript''}'
+      - '{''id'': 24, ''name'': ''Python'', ''value'': ''Python''}'
+      required: true

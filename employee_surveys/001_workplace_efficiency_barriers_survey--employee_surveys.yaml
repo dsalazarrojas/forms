@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Efficiency Barriers Survey
+    pages:
+    - id: 1
+      name: work_process
+      label: Work Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenge_faced
+      label: Challenge Faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

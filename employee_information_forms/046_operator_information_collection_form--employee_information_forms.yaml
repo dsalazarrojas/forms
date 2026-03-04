@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operator Information Collection Form
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Safety
+      - Operations
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Enter manager's name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: operator_email
+      label: Operator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: operator_phone
+      label: Operator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: operator_notes
+      label: Operator Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: department_notes
+      label: Department Notes
+      hint: Enter department notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: operator_address
+      label: Operator Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: operator_zip
+      label: Operator Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: operator_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: operator_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: operator_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: operator_region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: operator_timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      required: false
+    - id: 18
+      name: operator_languages
+      label: Languages Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false

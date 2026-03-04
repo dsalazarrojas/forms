@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: researcher_type_identification_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_type
+      label: researcher_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''researcher1'', ''label'': ''researcher1''}'
+      - Other
+      required: true
+    - id: 3
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_interests
+      label: research_interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''interest1'', ''label'': ''interest1''}'
+      - '{''value'': ''interest2'', ''label'': ''interest2''}'
+      - '{''value'': ''interest3'', ''label'': ''interest3''}'
+      required: false
+    - id: 5
+      name: research_goals
+      label: research_goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_focus
+      label: research_focus
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''focus1'', ''label'': ''focus1''}'
+      - '{''value'': ''focus2'', ''label'': ''focus2''}'
+      - '{''value'': ''focus3'', ''label'': ''focus3''}'
+      required: false
+    - id: 7
+      name: researcher_habits
+      label: researcher_habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_motivations
+      label: research_motivations
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''motivation1'', ''label'': ''motivation1''}'
+      - '{''value'': ''motivation2'', ''label'': ''motivation2''}'
+      - '{''value'': ''motivation3'', ''label'': ''motivation3''}'
+      required: false
+    - id: 9
+      name: researcher_experience
+      label: researcher_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_frequency
+      label: research_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: survey_end
+      label: Survey End
+      hint: null
+      type: note
+      options: []
+      required: false

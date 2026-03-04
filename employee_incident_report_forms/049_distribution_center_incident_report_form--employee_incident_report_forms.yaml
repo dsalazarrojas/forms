@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Center Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_cause
+      label: incident_cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_injuries
+      label: incident_injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: incident_incident_image
+      label: incident_incident_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_incident_video
+      label: incident_incident_video
+      hint: null
+      type: text
+      options: []
+      required: false

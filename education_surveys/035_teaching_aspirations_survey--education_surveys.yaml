@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Aspirations Survey
+    pages:
+    - id: 1
+      name: survey_educator_info
+      label: Survey Educator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching_aspirations
+      label: What are your teaching aspirations
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: highest_education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': "Bachelor''s Degree"}'
+      - '{''label'': "Master''s Degree"}'
+      - '{''label'': ''Doctoral Degree''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Administration''}'
+      - '{''label'': ''English''}'
+      - '{''label'': ''Mathematics''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      required: false
+    - id: 7
+      name: career_growth_opportunities
+      label: Career Growth Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: job_satisfaction_improvement_opportunities
+      label: Opportunities for Job Satisfaction Improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: institutional_support
+      label: Institutional Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Weak''}'
+      required: true
+    - id: 10
+      name: job_satisfaction_institutional_support
+      label: Job Satisfaction through Institutional Support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: support_for_professional_growh
+      label: Support for Professional Growth
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 12
+      name: support_for_collegiate_culture
+      label: Support for Collegiate Culture
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 13
+      name: institutional_resources
+      label: Institutional Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Weak''}'
+      required: false
+    - id: 14
+      name: job_satisfaction_institutional_resources
+      label: Job Satisfaction through Institutional Resources
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 15
+      name: support_for_work_life_balance
+      label: Support for Work-Life Balance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 16
+      name: support_for_leadership_development
+      label: Support for Leadership Development
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 17
+      name: support_for_collegiality
+      label: Support for Collegiality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 18
+      name: support_for_diversity_inclusion
+      label: Support for Diversity Inclusion
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 19
+      name: support_for_diversity_inclusion_initiatives
+      label: Support for Diversity Inclusion Initiatives
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 20
+      name: support_for_collegial_culture
+      label: Support for Collegial Culture
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 21
+      name: support_for_collegial_culture_initiatives
+      label: Support for Collegial Culture Initiatives
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 22
+      name: support_for_collegial_culture_programs
+      label: Support for Collegial Culture Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 23
+      name: support_for_professional_development
+      label: Support for Professional Development
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 24
+      name: support_for_professional_development_initiatives
+      label: Support for Professional Development Initiatives
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 25
+      name: job_satisfaction_professional_development
+      label: Job Satisfaction through Professional Development
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false

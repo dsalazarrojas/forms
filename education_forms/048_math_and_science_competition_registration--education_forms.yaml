@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: math_and_science_competition_registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - first
+      - second
+      - third
+      - fourth
+      - fifth
+      - sixth
+      - seventh
+      - eighth
+      - ninth
+      - tenth
+      required: true
+    - id: 10
+      name: teacher_school
+      label: Teacher School
+      hint: null
+      type: select_multiple
+      options:
+      - Math and Science School
+      - Public School
+      - Private School
+      - Homeschool
+      required: true
+    - id: 11
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_multiple
+      options:
+      - Math and Science
+      - Public
+      - Private
+      required: true
+    - id: 12
+      name: participant_subjects
+      label: Participant Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - Math and Science
+      required: true
+    - id: 13
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: school_state
+      label: School State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: school_zip
+      label: School Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_agreement
+      label: I understand the rules
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: teacher_agreement
+      label: I understand the rules
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: teacher_additional
+      label: Teacher Additional
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: participant_additional
+      label: Participant Additional
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: school_name_2
+      label: School Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true

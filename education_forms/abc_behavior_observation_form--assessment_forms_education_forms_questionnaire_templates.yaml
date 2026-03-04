@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ABC Behavior Observation Form
+    pages:
+    - id: 1
+      name: observer_info_header
+      label: '--- Observer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer name
+      hint: Full name of the person conducting the observation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observer_role
+      label: Observer role
+      hint: Position or relationship to the individual being observed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Date of observation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time
+      label: Time of observation
+      hint: When the behavior occurred
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: subject_info_header
+      label: '--- Subject Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: subject_name
+      label: Subject name
+      hint: Full name of the individual being observed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: subject_age
+      label: Subject age
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: subject_grade_level
+      label: Grade level or developmental stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: antecedent_header
+      label: '--- Antecedent (What happened before the behavior?) ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: antecedent_setting
+      label: Setting/environment
+      hint: Where did the behavior occur?
+      type: select_one
+      options:
+      - Classroom
+      - Playground
+      - Cafeteria
+      - Home
+      - Community
+      - Other
+      required: true
+    - id: 12
+      name: antecedent_trigger
+      label: Potential trigger/stimulus
+      hint: What preceded the behavior?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: antecedent_activity
+      label: Activity occurring before behavior
+      hint: What were they doing?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: behavior_header
+      label: '--- Behavior (What was observed?) ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: behavior_description
+      label: Specific behavior observed
+      hint: Clear, objective description of what occurred
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: behavior_duration
+      label: Duration of behavior (minutes)
+      hint: How long did the behavior last?
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: behavior_intensity
+      label: Intensity/severity level
+      hint: Rate the intensity on a scale
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Extreme
+      required: true
+    - id: 18
+      name: behavior_frequency
+      label: Frequency during observation period
+      hint: How many times did this occur?
+      type: integer
+      options: []
+      required: false
+    - id: 19
+      name: consequence_header
+      label: '--- Consequence (What happened after the behavior?) ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: consequence_response
+      label: Immediate response/consequence
+      hint: How did others react?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consequence_effect
+      label: Effect on subject after behavior
+      hint: What happened to the subject?
+      type: select_one
+      options:
+      - Calmed down
+      - Continued
+      - Escalated
+      - Left area
+      - Other
+      required: false
+    - id: 22
+      name: additional_context_header
+      label: '--- Additional Context ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: environmental_factors
+      label: Environmental factors
+      hint: Lighting, noise, crowd level, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: intervention_used
+      label: Intervention strategies used
+      hint: What was tried to address the behavior?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: observer_notes
+      label: Additional observations or notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Service Quality Survey
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: HR Service Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: areas_of_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: department_satisfaction
+      label: Department Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - department1
+      - department2
+      required: true
+    - id: 5
+      name: hr_services
+      label: HR Services
+      hint: null
+      type: select_one
+      options:
+      - service1
+      - service2
+      required: true
+    - id: 6
+      name: open_comments
+      label: Open Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_survey_rating
+      label: Employee Survey Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_survey_completion_time
+      label: Employee Survey Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: employee_survey_submission_time
+      label: Employee Survey Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: survey_response_rate
+      label: Survey Response Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: department_satisfaction_average
+      label: Department Satisfaction Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employee_satisfaction_average
+      label: Employee Satisfaction Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: hr_service_quality_rating
+      label: HR Service Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: service_quality_improvement
+      label: Service Quality Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 17
+      name: open_ended_comments
+      label: Open-Ended Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: open_ended_comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_suggestions
+      label: Employee Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_suggestions
+      label: Manager Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 22
+      name: open_comments_2
+      label: Open-Ended Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_opened
+      label: Date Opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: survey_submitted_date
+      label: Survey Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

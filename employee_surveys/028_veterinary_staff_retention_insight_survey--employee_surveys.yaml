@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Staff Retention Insight Survey
+    pages:
+    - id: 1
+      name: satisfaction
+      label: How satisfied are you with your job?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reasons_for_leaving
+      label: Why are you leaving?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reasons_for_staying
+      label: Why are you staying?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: ideas_for_retention
+      label: What ideas do you have for improving staff retention?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: feedback
+      label: What feedback do you have for the clinic or hospital?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

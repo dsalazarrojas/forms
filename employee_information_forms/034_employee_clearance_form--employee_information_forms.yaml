@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets_title
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employment_history
+      label: employment_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: security_clearance_level
+      label: security_clearance_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Operations
+      - IT
+      - Administration
+      - Engineering
+      required: true
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: background_check_status
+      label: background_check_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 11
+      name: security_clearance_notes
+      label: security_clearance_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: manager_clearance_level
+      label: manager_clearance_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 14
+      name: departmental_clearance_level
+      label: departmental_clearance_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 15
+      name: date_of_last_hire
+      label: date_of_last_hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: last_position
+      label: last_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: last_salary
+      label: last_salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: date_of_last_salary
+      label: date_of_last_salary
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: date_of_last_hire
+      label: date_of_last_hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date_of_last_hire_2
+      label: date_of_last_hire_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_department
+      label: last_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_manager
+      label: last_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_manager_title
+      label: last_manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_title_2
+      label: job_title_2
+      hint: null
+      type: text
+      options: []
+      required: false

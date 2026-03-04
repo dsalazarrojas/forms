@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Performance Assessment Form
+    pages:
+    - id: 1
+      name: employee_performance_assessment_form
+      label: Employee Performance Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_areas_to_improve
+      label: Performance areas to improve
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Problem solving''}'
+      - '{''id'': 4, ''name'': ''Leadership''}'
+      - '{''id'': 5, ''name'': ''Adaptability''}'
+      - '{''id'': 6, ''name'': ''Time management''}'
+      required: false
+    - id: 3
+      name: employee_skills
+      label: Employee skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Leadership''}'
+      - '{''id'': 2, ''name'': ''Communication''}'
+      - '{''id'': 3, ''name'': ''Time management''}'
+      - '{''id'': 4, ''name'': ''Teamwork''}'
+      - '{''id'': 5, ''name'': ''Adaptability''}'
+      - '{''id'': 6, ''name'': ''Problem solving''}'
+      - '{''id'': 7, ''name'': ''Time management''}'
+      - '{''id'': 8, ''name'': ''Leadership''}'
+      required: false
+    - id: 4
+      name: areas_of_improvement
+      label: Areas of improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: physics_registration_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_id
+      label: Class ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: school_info
+      label: School Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: physics_course_level
+      label: Physics Course Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

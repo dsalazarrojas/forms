@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Employee Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Name of Employee involved
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: Date of Incident
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: Time of Incident
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: Location of Incident
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: witness_name
+      label: Witness Name
+      hint: Name of Witness
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_statement
+      label: Witness Statement
+      hint: Statement from Witness
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_type
+      label: Incident Type
+      hint: Type of Incident
+      type: select_one
+      options:
+      - Broken Equipment
+      - Other
+      - Slip/Trip and Fall
+      - Injury
+      - Other
+      required: true
+    - id: 10
+      name: incident_reporter
+      label: Incident Reporter
+      hint: Name of Person reporting Incident
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reporting_date
+      label: Reporting Date
+      hint: Date of Incident Report
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: incident_image
+      label: Incident Image
+      hint: Attach Image or Video of Incident
+      type: text
+      options: []
+      required: false

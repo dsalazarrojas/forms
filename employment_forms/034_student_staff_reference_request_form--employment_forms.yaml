@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Staff Reference Request Form
+    pages:
+    - id: 1
+      name: student
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference_request_date
+      label: Reference Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reference_request_date_range
+      label: Reference Request Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reference_requester_name
+      label: Reference Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reference_requester_email
+      label: Reference Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: reference_requester_phone
+      label: Reference Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_request_status
+      label: Reference Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Rejected
+      - Cancelled
+      required: false
+    - id: 10
+      name: reference_status_comment
+      label: Reference Request Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false

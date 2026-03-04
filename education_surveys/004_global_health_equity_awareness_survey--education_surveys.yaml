@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Health Equity Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: race
+      label: Race
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: education_level
+      label: Level of Education
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 9
+      name: household_size
+      label: Household Size
+      hint: null
+      type: select_one
+      options:
+      - 2-3 people
+      - 4-5 people
+      - 6-10 people
+      - More than 10 people
+      required: true
+    - id: 10
+      name: household_income
+      label: Household Income
+      hint: null
+      type: select_one
+      options:
+      - Below $20,000
+      - 20,000-39,999
+      - 40,000-59,999
+      - 60,000-79,999
+      - 80,000-99,999
+      - 100,000 and above
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: education_field
+      label: Education Field
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: health_care
+      label: Health Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: access_to_health_care
+      label: Access to Health Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hospitalization
+      label: Hospitalization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

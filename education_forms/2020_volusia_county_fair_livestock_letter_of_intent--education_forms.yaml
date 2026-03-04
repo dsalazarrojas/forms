@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Volusia County Fair Livestock Letter Of Intent
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Volusia County Fair Livestock Entry ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exhibitor_full_name
+      label: Full name of exhibitor
+      hint: As it appears on school records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ffa_member_number
+      label: FFA Member Number
+      hint: 8-digit member identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_affiliation
+      label: School affiliation
+      hint: Name of high school or college
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email address
+      hint: Valid email for fair communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone number
+      hint: 10-digit phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification purposes
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_livestock
+      label: '--- Livestock Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: livestock_species
+      label: Species of livestock to exhibit
+      hint: Select the type of animal
+      type: select_one
+      options:
+      - Cattle
+      - Swine
+      - Sheep
+      - Goats
+      - Poultry
+      - Rabbits
+      required: true
+    - id: 10
+      name: livestock_breed
+      label: Breed of livestock
+      hint: Specify exact breed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: animal_name
+      label: Name of animal (if applicable)
+      hint: Pet name given to the animal
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: animal_age_months
+      label: Age of animal in months
+      hint: Approximate age at time of fair
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: expected_weight
+      label: Expected weight at time of fair (lbs)
+      hint: Estimated final weight
+      type: decimal
+      options: []
+      required: true
+    - id: 14
+      name: section_header_agreement
+      label: '--- Agreement and Responsibilities ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: health_certification
+      label: Do you have a valid health certificate for your animal?
+      hint: Required for entry
+      type: select_one
+      options:
+      - Yes, certificate attached
+      - Yes, will provide before fair
+      - No, need assistance obtaining
+      required: true
+    - id: 16
+      name: project_goals
+      label: Primary goals for participating in fair
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Educational experience
+      - Leadership development
+      - Scholarship opportunity
+      - Competition preparation
+      - Community service
+      - Career exploration
+      required: true
+    - id: 17
+      name: previous_fair_experience
+      label: Previous fair participation
+      hint: Years of prior participation
+      type: select_one
+      options:
+      - First time participant
+      - 1-2 years
+      - 3-5 years
+      - More than 5 years
+      required: true
+    - id: 18
+      name: section_header_commitment
+      label: '--- Commitment Statement ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: commitment_statement
+      label: I agree to follow all Volusia County Fair rules and regulations
+      hint: Check to confirm agreement
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 20
+      name: signature_consent
+      label: Electronic signature consent
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date
+      label: Date of submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional comments or special requests
+      hint: Any other information for fair organizers
+      type: text
+      options: []
+      required: false

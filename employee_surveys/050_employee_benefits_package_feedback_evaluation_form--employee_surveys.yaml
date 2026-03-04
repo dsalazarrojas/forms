@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Package Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: employee_benefits_package_feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: benefits_package
+      label: benefits_package
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_on_benefits
+      label: feedback_on_benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_benefits_package_suggestions
+      label: employee_benefits_package_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

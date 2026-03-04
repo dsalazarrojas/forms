@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Assessment Design Survey
+    pages:
+    - id: 1
+      name: educator_roles
+      label: Educator Roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: strategies
+      label: Strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ratings
+      label: Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback_2
+      label: How often do you use this strategy?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: ratings_2
+      label: How important is this strategy?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 8
+      name: ratings_3
+      label: How would you rate this strategy?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Student Safety Contract CCSD
+    pages:
+    - id: 1
+      name: lab_student_safety_contract_ccsd
+      label: lab Student Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_safety_contract_ccsd
+      label: Student Contract
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Parent'', ''value'': ''Parent''}'
+      - '{''id'': 2, ''label'': ''Guardian'', ''value'': ''Guardian''}'
+      - '{''id'': 3, ''label'': ''Teacher'', ''value'': ''Teacher''}'
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_signature_date
+      label: Student Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: teacher_signature_date
+      label: Teacher Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student
+      label: Student
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Male'', ''value'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female'', ''value'': ''Female''}'
+      required: false

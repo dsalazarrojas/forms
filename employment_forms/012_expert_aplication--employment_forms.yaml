@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expert Aplication
+    pages:
+    - id: 1
+      name: expert_aplication
+      label: Expert Aplication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_hours
+      label: Job Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: job_pay
+      label: Job Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_resume
+      label: Upload Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expert_availability
+      label: Expert Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available Now
+      - In 1 month
+      - In 3 months
+      - After 3 months
+      required: true
+    - id: 12
+      name: job_availability
+      label: Job Availability
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 13
+      name: job_availability_2
+      label: Job Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - Available Now
+      - In 1 month
+      - In 3 months
+      - After 3 months
+      required: true
+    - id: 14
+      name: job_availability_3
+      label: Job Availability 3
+      hint: null
+      type: select_multiple
+      options:
+      - Available Now
+      - In 1 month
+      - In 3 months
+      - After 3 months
+      required: false
+    - id: 15
+      name: job_availability_4
+      label: Job Availability 4
+      hint: null
+      type: select_multiple
+      options:
+      - Available Now
+      - In 1 month
+      - In 3 months
+      - After 3 months
+      required: false

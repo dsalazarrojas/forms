@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Disciplinary Panel Hearing Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hearing_date
+      label: Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: hearing_time
+      label: Hearing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hearing_request
+      label: Hearing Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

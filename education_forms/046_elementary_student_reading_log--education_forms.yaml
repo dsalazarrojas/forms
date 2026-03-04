@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: elementary_student_reading_log
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: title_of_book
+      label: Title of Book
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: book_author
+      label: Book Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reading_location
+      label: Reading Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reading_level
+      label: Reading Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Beginner'', ''value'': ''beginner''}'
+      - '{''label'': ''Intermediate'', ''value'': ''intermediate''}'
+      - '{''label'': ''Advanced'', ''value'': ''advanced''}'
+      required: false
+    - id: 9
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reading_notes
+      label: Reading Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false

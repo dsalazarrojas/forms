@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursery Year End Feedback Survey
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching
+      label: How would you rate our teaching?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: teachers
+      label: How would you rate our teachers?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: care
+      label: How would you rate our care and safety?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: improvements
+      label: What improvements can we make for the next year?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: vocational_training_admission_form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - type
+      - certificate
+      - diploma
+      - degree
+      required: false
+    - id: 7
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Japanese
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: disability
+      label: Disability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: program_id
+      label: Program ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_multiple
+      options:
+      - adult
+      - minor
+      required: false
+    - id: 21
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 22
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black
+      - Hispanic
+      - White
+      - Other
+      required: false
+    - id: 23
+      name: highest_education_level
+      label: Highest Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctorate
+      required: false
+    - id: 24
+      name: highest_degree
+      label: Highest Degree
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Associate's
+      - Bachelor's
+      - Master's
+      - Doctorate
+      required: false
+    - id: 25
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Active (with conditions)
+      - Inactive
+      - Inactive (with conditions)
+      required: false
+    - id: 26
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

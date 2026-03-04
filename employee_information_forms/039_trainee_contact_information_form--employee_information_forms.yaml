@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trainee Contact Information Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

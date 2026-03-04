@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_procedure_assessment
+    pages:
+    - id: 1
+      name: grievance_procedure
+      label: grievance_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grievance_category
+      label: grievance_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: grievance_description
+      label: grievance_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grievance_resolution_process
+      label: grievance_resolution_process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: grievance_action_taken
+      label: grievance_action_taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: grievance_outcome
+      label: grievance_outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: grievance_next_steps
+      label: grievance_next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: grievance_notes
+      label: grievance_notes
+      hint: null
+      type: note
+      options: []
+      required: false

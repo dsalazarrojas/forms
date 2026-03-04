@@ -1,0 +1,257 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cell Cycle Assessment Survey
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: student_id
+        label: Student ID Number
+        hint: Optional for tracking
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: class_period
+        label: Class Period or Section
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: section_cell_cycle_basics
+        label: -- Cell Cycle Basics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: question_1_definition
+        label: What is the cell cycle?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Series of phases a cell goes through from division to division
+          - The path of a cell through the body
+          - The genetic material in a cell
+          - The process of photosynthesis
+          - I do not know
+        required: true
+      - id: 8
+        name: question_2_main_phases
+        label: Which are the main phases of the cell cycle?
+        hint: null
+        type: select_one
+        options:
+          - G1, S, G2, M
+          - Prophase, Metaphase, Anaphase, Telophase
+          - Growth, Synthesis, Division
+          - Start, Middle, End
+          - I do not know
+        required: true
+      - id: 9
+        name: question_3_s_phase
+        label: What happens during S phase?
+        hint: null
+        type: select_one
+        options:
+          - DNA replication occurs
+          - Cell growth happens
+          - Mitosis occurs
+          - Cell division is completed
+          - I do not know
+        required: true
+      - id: 10
+        name: question_4_g1_phase
+        label: The G1 phase is primarily characterized by
+        hint: null
+        type: select_one
+        options:
+          - Cell growth and normal metabolic activities
+          - DNA replication
+          - Chromosome condensation
+          - Cytokinesis
+          - I do not know
+        required: true
+      - id: 11
+        name: section_mitosis_meiosis
+        label: -- Mitosis and Meiosis --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: question_5_mitosis_purpose
+        label: What is the primary purpose of mitosis?
+        hint: null
+        type: select_one
+        options:
+          - Production of two identical daughter cells
+          - Production of four different gametes
+          - Reduction of chromosome number
+          - Genetic variation
+          - I do not know
+        required: true
+      - id: 13
+        name: question_6_meiosis_vs_mitosis
+        label: Meiosis differs from mitosis in that meiosis produces
+        hint: null
+        type: select_one
+        options:
+          - Four haploid cells instead of two diploid cells
+          - Two identical cells
+          - Cells with double the DNA
+          - Cells with no DNA
+          - I do not know
+        required: true
+      - id: 14
+        name: question_7_checkpoint
+        label: What is the purpose of cell cycle checkpoints?
+        hint: null
+        type: select_one
+        options:
+          - To regulate cell division and prevent damaged cells from dividing
+          - To speed up DNA replication
+          - To increase cell growth
+          - To destroy damaged cells
+          - I do not know
+        required: true
+      - id: 15
+        name: section_regulation_control
+        label: -- Regulation and Control --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: question_8_checkpoint_function
+        label: The G1/S checkpoint prevents
+        hint: null
+        type: select_one
+        options:
+          - Cells with damaged DNA from entering S phase
+          - Cells from exiting G1
+          - Mitosis from occurring
+          - RNA synthesis
+          - I do not know
+        required: true
+      - id: 17
+        name: question_9_cancer_cells
+        label: Why do cancer cells divide uncontrollably?
+        hint: null
+        type: select_one
+        options:
+          - Mutations allow them to bypass cell cycle checkpoints
+          - They have more energy than normal cells
+          - They are exposed to more nutrients
+          - They have different shaped nuclei
+          - I do not know
+        required: true
+      - id: 18
+        name: question_10_apoptosis
+        label: What is apoptosis?
+        hint: null
+        type: select_one
+        options:
+          - Programmed cell death
+          - Cell division
+          - Cell migration
+          - DNA mutation
+          - I do not know
+        required: true
+      - id: 19
+        name: section_confidence_misconceptions
+        label: -- Confidence and Misconceptions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: overall_confidence
+        label: How confident are you in your understanding of the cell cycle?
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident
+        required: true
+      - id: 21
+        name: most_difficult_concept
+        label: What concept did you find most difficult?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: areas_needing_help
+        label: Areas Where You Need More Help
+        hint: null
+        type: select_multiple
+        options:
+          - Cell cycle phases
+          - Mitosis details
+          - Meiosis details
+          - Checkpoint regulation
+          - Cancer and cell cycle
+          - Overall cell cycle
+        required: false
+      - id: 23
+        name: section_feedback
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: assessment_feedback
+        label: This assessment helped me understand cell cycle concepts
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments or Questions
+        hint: null
+        type: text
+        options: []
+        required: false

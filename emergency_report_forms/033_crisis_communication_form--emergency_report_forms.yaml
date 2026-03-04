@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crisis Communication Form
+    pages:
+    - id: 1
+      name: emergency_report_form
+      label: Emergency Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_description
+      label: Report Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Closed
+      required: false
+    - id: 11
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Non-Critical
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: report_category
+      label: Report Category
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Police
+      - Medical
+      - Environmental
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: report_comments_additional
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_photo_upload
+      label: Incident Photo Upload
+      hint: null
+      type: text
+      options: []
+      required: false

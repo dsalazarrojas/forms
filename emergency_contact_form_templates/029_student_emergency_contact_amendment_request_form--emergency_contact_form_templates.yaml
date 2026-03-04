@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Emergency Contact Amendment Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guardian1_first_name
+      label: Guardian 1 First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian1_last_name
+      label: Guardian 1 Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian1_relationship
+      label: Guardian 1 Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: guardian1_phone
+      label: Guardian 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian1_email
+      label: Guardian 1 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_method
+      label: Emergency Contact Method
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone Number
+      required: false
+    - id: 10
+      name: guardian2_first_name
+      label: Guardian 2 First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guardian2_last_name
+      label: Guardian 2 Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guardian2_phone
+      label: Guardian 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_city
+      label: Student City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_state
+      label: Student State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_postal_code
+      label: Student Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: guardian1_address
+      label: Guardian 1 Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guardian1_city
+      label: Guardian 1 City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: guardian1_state
+      label: Guardian 1 State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guardian1_postal_code
+      label: Guardian 1 Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guardian2_address
+      label: Guardian 2 Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guardian2_city
+      label: Guardian 2 City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: guardian2_state
+      label: Guardian 2 State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guardian2_postal_code
+      label: Guardian 2 Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false

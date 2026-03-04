@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: military_leave_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_leave
+      label: Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expected_return_date
+      label: Expected Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Active Duty
+      - Reserve Duty
+      - Inactive Duty
+      required: false
+    - id: 8
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Evening
+      - Night
+      required: false
+    - id: 9
+      name: military_leave_status
+      label: Military Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Reserve
+      - inactive
+      required: false
+    - id: 10
+      name: military_leave_category
+      label: Military Leave Category
+      hint: null
+      type: select_multiple
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Coast Guard
+      required: false
+    - id: 11
+      name: military_leave_duration
+      label: Military Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false

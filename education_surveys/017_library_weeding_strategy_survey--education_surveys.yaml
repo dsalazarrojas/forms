@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Weeding Strategy Survey
+    pages:
+    - id: 1
+      name: weeding_frequency
+      label: Weeding Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: weeding_criterion
+      label: Weeding Criterion
+      hint: null
+      type: select_one
+      options:
+      - Remoteness
+      - Overdueness
+      - Condition
+      - Other
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: Please specify any challenges you face when weeding
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: What would you do if you could change one thing about weeding?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: library_type
+      label: Library Type
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Public
+      - School
+      - Other
+      required: false
+    - id: 6
+      name: staff_size
+      label: Number of Staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: staff_experience
+      label: Staff Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: collection_size
+      label: Collection Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: weeding_criterion_frequency
+      label: Weeding Criterion Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: decision_process
+      label: Decision Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: Additional feedback
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_weeded
+      label: Date Weeded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_weeded
+      label: Time Weeded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: location_weeded
+      label: prophetsประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_weeding
+      label: Other Weeding Details
+      hint: null
+      type: text
+      options: []
+      required: false

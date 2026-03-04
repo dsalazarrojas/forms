@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Discharge Form
+    pages:
+    - id: 1
+      name: store_number
+      label: Store Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notice_period_days
+      label: Notice Period Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_discharge_select
+      label: Reason For Discharge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: return_property
+      label: Return Property
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_discharge_other
+      label: Reason For Discharge Other
+      hint: null
+      type: text
+      options: []
+      required: false

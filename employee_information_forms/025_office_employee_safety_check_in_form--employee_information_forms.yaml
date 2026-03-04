@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Employee Safety Check In Form
+    pages:
+    - id: 1
+      name: employee_safety_check_in
+      label: Employee Safety Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: onsite_status
+      label: Onsite Status
+      hint: Choose onsite or remote
+      type: select_one
+      options:
+      - Onsite
+      - Remote
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date_of_check_in
+      label: Date of Check-in
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_check_in
+      label: Time of Check-in
+      hint: 'Format: 12-hour clock, HH:MM AM/PM'
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Income Verification Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_salary
+      label: employee Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: verification_date
+      label: verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: verification_period
+      label: verification Period
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 24 months
+      required: true
+    - id: 5
+      name: verification_period_other
+      label: verification Period (other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: verification_method
+      label: verification_method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone
+      - Video
+      required: true
+    - id: 7
+      name: verification_by_whom
+      label: verification_by_whom
+      hint: null
+      type: select_one
+      options:
+      - HR Manager
+      - Accountant
+      - HR Representative
+      required: true
+    - id: 8
+      name: employee_position
+      label: employee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: verification_note
+      label: verification Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: verification_note2
+      label: verification_note2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Injury Recovery Absence Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: injury_details
+      label: Injury Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recovery_start_date
+      label: Recovery Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: recovery_end_date
+      label: Recovery End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_recovery
+      label: Reason for Recovery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recovery_status
+      label: Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

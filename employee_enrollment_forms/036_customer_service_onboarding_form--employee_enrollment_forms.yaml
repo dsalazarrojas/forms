@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Onboarding Form
+    pages:
+    - id: 1
+      name: new_hire_info
+      label: New Hire Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Support Agent
+      - Customer Support Agent
+      - Customer Service Representative
+      required: false
+    - id: 3
+      name: work_start_date
+      label: Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Probationary
+      required: false
+    - id: 5
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Reporting Manager 1
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Customer Service
+      - Sales
+      - Marketing
+      required: false
+    - id: 7
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Support
+      - Sales Support
+      - Marketing Support
+      required: false
+    - id: 8
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Chicago
+      - San Francisco
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 12
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 13
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false

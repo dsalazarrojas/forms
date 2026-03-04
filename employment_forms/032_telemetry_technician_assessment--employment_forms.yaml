@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemetry Technician Assessment
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Telemetry Technician (1-3 years)
+      - Telemetry Technician (4-6 years)
+      - Telemetry Technician (7-10 years)
+      required: true
+    - id: 3
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming skills in languages such as Java, Python, and C++
+      - Experience with database systems
+      - Experience with network protocols such as TCP/IP and HTTP
+      required: true
+    - id: 4
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: shift_readiness
+      label: Shift Readiness
+      hint: null
+      type: select_one
+      options:
+      - Morning shift
+      - Other
+      required: true
+    - id: 6
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - Certified in Basic Life Support
+      - Other
+      required: true
+    - id: 8
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: references
+      label: References
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: shift_readiness_2
+      label: Shift Readiness 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emergency_procedure_2
+      label: Emergency Procedure 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: work_experience_2
+      label: Work Experience 2
+      hint: null
+      type: select_multiple
+      options:
+      - Telemetry Technician (1-3 years)
+      - Telemetry Technician (4-6 years)
+      required: false
+    - id: 14
+      name: technical_skills_2
+      label: Technical Skills 2
+      hint: null
+      type: select_multiple
+      options:
+      - Programming skills in languages such as Java, Python, and C++
+      - Other
+      required: false
+    - id: 15
+      name: communication_skills_2
+      label: Communication Skills 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: certification_2
+      label: Certification 2
+      hint: null
+      type: select_one
+      options:
+      - Certified in Basic Life Support
+      - Other
+      required: false
+    - id: 17
+      name: emergency_procedure_3
+      label: Emergency Procedure 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: work_environment_2
+      label: Work Environment 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: references_2
+      label: References 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: education_2
+      label: Education 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: shift_readiness_3
+      label: Shift Readiness 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: emergency_procedure_4
+      label: Emergency Procedure 4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: work_experience_3
+      label: Work Experience 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: technical_skills_3
+      label: Technical Skills 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: references_3
+      label: References 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

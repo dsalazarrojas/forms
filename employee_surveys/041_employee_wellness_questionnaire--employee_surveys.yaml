@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Wellness Questionnaire
+    pages:
+    - id: 1
+      name: employee_wellness_questionnaire_1
+      label: employee_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_wellness_programs
+      label: wellness_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_wellness_participants
+      label: number_of_participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_wellness_participants_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      required: false
+    - id: 5
+      name: employee_wellness_participants_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_wellness_participants_education
+      label: participant_education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''high_school'', ''label'': ''High School or Lower''}'
+      - '{''value'': ''some_college'', ''label'': ''Some College''}'
+      - '{''value'': ''bachelors'', ''label'': ''Bachelors''}'
+      - '{''value'': ''masters'', ''label'': ''Masters''}'
+      required: false
+    - id: 7
+      name: employee_wellness_participants_education_other
+      label: participant_education_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_wellness_participants_occupation
+      label: participant_occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''manager'', ''label'': ''Manager''}'
+      - '{''value'': ''non_manager'', ''label'': ''Non-Manager''}'
+      required: false
+    - id: 9
+      name: employee_wellness_participants_occupation_other
+      label: participant_occupation_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_wellness_participants_department
+      label: participant_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''marketing'', ''label'': ''Marketing''}'
+      - '{''value'': ''sales'', ''label'': ''Sales''}'
+      - '{''value'': ''finance'', ''label'': ''Finance''}'
+      required: false
+    - id: 11
+      name: employee_wellness_participants_department_other
+      label: participant_department_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_wellness_participants_job_title
+      label: participant_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_wellness_participants_job_title_other
+      label: participant_job_title_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_wellness_participants_job_level
+      label: participant_job_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''entry_level'', ''label'': ''Entry-Level''}'
+      - '{''value'': ''mid_level'', ''label'': ''Mid-Level''}'
+      - '{''value'': ''senior_level'', ''label'': ''Senior-Level''}'
+      required: false
+    - id: 15
+      name: employee_wellness_participants_job_level_other
+      label: participant_job_level_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_wellness_participants_job_satisfaction
+      label: participant_job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''neutral'', ''label'': ''Neutral''}'
+      - '{''value'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''value'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      required: false
+    - id: 17
+      name: employee_wellness_participants_job_satisfaction_other
+      label: participant_job_satisfaction_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_wellness_participants_job_security
+      label: participant_job_security
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_important'', ''label'': ''Very Important''}'
+      - '{''value'': ''somewhat_important'', ''label'': ''Somewhat Important''}'
+      - '{''value'': ''not_important'', ''label'': ''Not Important''}'
+      required: false
+    - id: 19
+      name: employee_wellness_participants_job_security_other
+      label: participant_job_security_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_wellness_participants_leadership_support
+      label: participant_leadership_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: employee_wellness_participants_leadership_support_other
+      label: participant_leadership_support_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_wellness_participants_leadership_development
+      label: participant_leadership_development
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''value'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''value'': ''not_satisfied'', ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 23
+      name: employee_wellness_participants_leadership_development_other
+      label: participant_leadership_development_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_wellness_participants_health_climate
+      label: participant_health_climate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_positive'', ''label'': ''Very Positive''}'
+      - '{''value'': ''somewhat_positive'', ''label'': ''Somewhat Positive''}'
+      - '{''value'': ''neutral'', ''label'': ''Neutral''}'
+      - '{''value'': ''negative'', ''label'': ''Negative''}'
+      required: false
+    - id: 25
+      name: employee_wellness_participants_health_climate_other
+      label: participant_health_climate_other
+      hint: null
+      type: text
+      options: []
+      required: false

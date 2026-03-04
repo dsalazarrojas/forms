@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Safety Incident Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Injury
+      - Illness
+      - Property Damage
+      - Other
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_location_details
+      label: Incident Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: involved_employees
+      label: Involved Employees
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 7
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 8
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: incident_followup
+      label: Incident Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false

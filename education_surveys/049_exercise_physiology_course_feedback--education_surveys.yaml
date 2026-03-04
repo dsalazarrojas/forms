@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Physiology Course Feedback
+    pages:
+    - id: 1
+      name: course_rating
+      label: Rate the course
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructor_rating
+      label: Instructors rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_comments
+      label: Feedback comments
+      hint: Write your comments
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_recommendation
+      label: Recommend this course
+      hint: null
+      type: select_one
+      options:
+      - I would highly recommend this course
+      - I would somewhat recommend this course
+      - I do not recommend this course
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_rating_2
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false

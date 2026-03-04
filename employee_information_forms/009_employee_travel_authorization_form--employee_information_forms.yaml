@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Travel Authorization Form
+    pages:
+    - id: 1
+      name: employee_travel_authorization_form
+      label: travel_to_conference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_traveling_for
+      label: traveling_for
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_location
+      label: employee_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_start
+      label: travel_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_end
+      label: travel_end
+      hint: null
+      type: time
+      options: []
+      required: false

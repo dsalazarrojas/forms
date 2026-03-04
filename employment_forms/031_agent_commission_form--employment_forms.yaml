@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Commission Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Commission Calculation and Tracking --
+      hint: streamlined tracking for sales and agency commissions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: unique identifier for the agent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sales_header
+      label: -- Sales Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: transaction_number
+      label: Transaction or Policy Number
+      hint: reference number for the sale
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sale_date
+      label: Date of Sale
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: sales_amount
+      label: Total Sales Amount
+      hint: gross value of the transaction
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: commission_tier
+      label: Commission Tier - Standard, Silver, Gold, Platinum
+      hint: based on performance level
+      type: select_one
+      options:
+      - Standard
+      - Silver
+      - Gold
+      - Platinum
+      required: true
+    - id: 9
+      name: commission_rate
+      label: Applicable Commission Rate - %
+      hint: percentage used for calculation
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: calculated_amount
+      label: Calculated Commission Amount
+      hint: gross commission before deductions
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: deductions
+      label: Deductions or Adjustments - if any
+      hint: enter any negative adjustments
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: net_payable
+      label: Net Commission Payable
+      hint: final amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: for management use
+      type: select_one
+      options:
+      - Pending Review
+      - Approved for Payment
+      - Disputed
+      - Rejected
+      required: true

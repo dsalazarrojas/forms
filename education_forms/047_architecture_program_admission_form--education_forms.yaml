@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architecture Program Admission Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: citizenship
+      label: Citizenship or Residency Status
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - Permanent resident
+      required: true
+    - id: 8
+      name: section_education
+      label: -- Education Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: high_school_name
+      label: High School Name
+      hint: School attended
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: high_school_graduation
+      label: High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: gpa_high_school
+      label: High School GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: prior_college_experience
+      label: Prior College or University Experience
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Other
+      required: true
+    - id: 13
+      name: prior_college_name
+      label: Prior College Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: prior_college_gpa
+      label: Prior College GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_standardized_tests
+      label: -- Standardized Test Scores --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sat_score
+      label: SAT Score (if available)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: act_score
+      label: ACT Score (if available)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_statement
+      label: -- Personal Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: why_architecture
+      label: Why do you want to study architecture?
+      hint: Your motivation and goals
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: design_experience
+      label: Prior Design or Drawing Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: relevant_experience
+      label: Relevant Experience or Skills
+      hint: Portfolio, work, projects, etc
+      type: text
+      options: []
+      required: false

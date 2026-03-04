@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Seasonal Employment Impact Survey
+    pages:
+    - id: 1
+      name: peak_season
+      label: Peak Season
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hiring_needs
+      label: Hiring Needs
+      hint: What are your peak season hiring needs?
+      type: select_multiple
+      options:
+      - Winter
+      - Spring
+      - Summer
+      - Fall
+      required: false
+    - id: 3
+      name: operational_impact
+      label: Operational Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seasonal_staffing
+      label: Seasonal Staffing
+      hint: Do you plan on using agency staff?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: season_duration
+      label: Season Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: peak_season_start
+      label: Peak Season Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: peak_season_end
+      label: Peak Season End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: peak_period
+      label: Peak Period
+      hint: null
+      type: time
+      options: []
+      required: false

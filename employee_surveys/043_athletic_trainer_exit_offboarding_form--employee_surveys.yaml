@@ -1,0 +1,336 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Trainer Exit Offboarding Form
+    pages:
+      - id: 1
+        name: trainer_name
+        label: Athletic Trainer Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID Number
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: position_title
+        label: Position Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department
+        type: select_one
+        options:
+          - Athletics
+          - Sports Medicine
+          - Student Health
+          - Physical Therapy
+          - Other
+        required: true
+      - id: 5
+        name: location
+        label: Work Location
+        hint: Primary work location
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: last_day
+        label: Last Day of Employment
+        hint: Date of departure
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: reason_for_leaving
+        label: Reason for Leaving
+        hint: Select primary reason
+        type: select_one
+        options:
+          - New Job Opportunity
+          - Career Change
+          - Relocation
+          - Return to School
+          - Retirement
+          - Personal Reasons
+          - Health Reasons
+          - Other
+        required: true
+      - id: 8
+        name: reason_details
+        label: Reason Details
+        hint: Please elaborate if comfortable
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: employment_duration
+        label: Length of Employment
+        hint: How long did you work here
+        type: select_one
+        options:
+          - Less Than 1 Year
+          - 1 to 2 Years
+          - 2 to 5 Years
+          - 5 to 10 Years
+          - Over 10 Years
+        required: true
+      - id: 10
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: management_support
+        label: Management Support Rating
+        hint: Rate support from management
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: resources_availability
+        label: Resources and Equipment Availability
+        hint: Rate availability of needed resources
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: work_life_balance
+        label: Work-Life Balance Rating
+        hint: Rate work-life balance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: professional_development
+        label: Professional Development Opportunities
+        hint: Rate opportunities for growth
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 15
+        name: compensation_benefits
+        label: Compensation and Benefits Rating
+        hint: Rate pay and benefits
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: workplace_culture
+        label: Workplace Culture Rating
+        hint: Rate the workplace culture
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 17
+        name: best_part_of_job
+        label: Best Part of the Job
+        hint: What did you enjoy most
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: most_challenging
+        label: Most Challenging Aspect
+        hint: What was most challenging
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: How could the organization improve
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: staffing_adequacy
+        label: Staffing Adequacy
+        hint: Was staffing adequate
+        type: select_one
+        options:
+          - More Than Adequate
+          - Adequate
+          - Somewhat Inadequate
+          - Very Inadequate
+        required: true
+      - id: 21
+        name: athlete_support
+        label: Athlete Support Quality
+        hint: Rate the quality of support provided to athletes
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 22
+        name: would_recommend
+        label: Would You Recommend Working Here
+        hint: To other athletic trainers
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 23
+        name: would_return
+        label: Would You Consider Returning
+        hint: Would you work here again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: equipment_returned
+        label: Equipment Return Status
+        hint: Have you returned all equipment
+        type: select_one
+        options:
+          - Yes - All Returned
+          - Yes - In Progress
+          - No - Nothing to Return
+          - No - Still Have Items
+        required: true
+      - id: 25
+        name: access_credentials_returned
+        label: Access and Credentials Return Status
+        hint: Keys, badges, access cards
+        type: select_one
+        options:
+          - Yes - All Returned
+          - Yes - In Progress
+          - No - Nothing to Return
+        required: true
+      - id: 26
+        name: transition_plan
+        label: Transition Plan Status
+        hint: Is there a transition plan for your replacement
+        type: select_one
+        options:
+          - Yes - Complete
+          - Yes - In Progress
+          - No - Not Started
+          - Not Applicable
+        required: true
+      - id: 27
+        name: outstanding_projects
+        label: Outstanding Projects or Tasks
+        hint: List any incomplete work
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: contact_permission
+        label: May We Contact You for Follow-Up
+        hint: For transition questions
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 29
+        name: future_contact
+        label: May We Contact You for Future Opportunities
+        hint: For networking or rehiring
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 30
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: exit_interview_requested
+        label: Exit Interview Requested
+        hint: Would you like an exit interview
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 32
+        name: signature
+        label: Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 33
+        name: signature_date
+        label: Signature Date
+        hint: Date of signature
+        type: date
+        options: []
+        required: true

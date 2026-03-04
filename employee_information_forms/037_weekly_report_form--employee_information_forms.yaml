@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Report Form
+    pages:
+    - id: 1
+      name: weekly_report_form
+      label: weekly_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_information_form
+      label: employee_information_form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employee 1''}'
+      - '{''label'': ''Employee 2''}'
+      - '{''label'': ''Employee 3''}'
+      required: false
+    - id: 3
+      name: progress_form
+      label: progress_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes_form
+      label: notes_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_form
+      label: email_form
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_form
+      label: phone_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_form
+      label: date_form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_form
+      label: time_form
+      hint: null
+      type: time
+      options: []
+      required: false

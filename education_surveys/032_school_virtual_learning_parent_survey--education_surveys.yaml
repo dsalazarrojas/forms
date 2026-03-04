@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Virtual Learning Parent Survey
+    pages:
+    - id: 1
+      name: intro
+      label: School Virtual Learning Parent Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text_1
+      label: How do you feel about your child's experience with virtual learning this
+        past semester?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: intro_text_2
+      label: If you have any concerns about your child's virtual learning experience,
+        please provide details below.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intro_text_3
+      label: Are you satisfied with our current communication methods?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: intro_text_4
+      label: What methods would you prefer for communication with your child's teacher
+        or school administrator?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_needs
+      label: What support needs do you have that the school does not currently provide?
+      hint: null
+      type: text
+      options: []
+      required: false

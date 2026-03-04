@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: dance_classes_registration_spring_2020
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: class_type
+      label: class_type
+      hint: null
+      type: select_one
+      options:
+      - Jazz
+      - Ballet
+      - Modern
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: class_duration
+      label: class_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 10
+      name: reservation_date
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank
+      - Credit
+      required: false
+    - id: 12
+      name: class_level
+      label: class_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 13
+      name: student_number
+      label: student_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: class_size
+      label: class_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 15
+      name: instructor
+      label: instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_notes
+      label: student_notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: CFS Professional Application Form
+    pages:
+    - id: 1
+      name: cfs_app_header
+      label: -- Certified Financial Specialist (CFS) Application --
+      hint: Complete this form to begin your certification journey.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_legal_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_professional_email
+      label: Professional Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_job_title_cfs
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employer_name_cfs
+      label: Current Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_finance_experience
+      label: Years of Professional Experience in Finance/Accounting
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: highest_degree_earned
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree (MBA/MAcc)
+      - Doctorate/PhD
+      - Professional Certificate only
+      required: true
+    - id: 8
+      name: professional_certifications_held
+      label: Current Certifications Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CPA
+      - CFA
+      - CFP
+      - CMA
+      - Other
+      required: false
+    - id: 9
+      name: exam_path_selection
+      label: Desired Examination Path
+      hint: null
+      type: select_one
+      options:
+      - Corporate Finance Focus
+      - Investment Analysis Focus
+      - Financial Planning Focus
+      required: true
+    - id: 10
+      name: preferred_exam_window
+      label: Preferred Examination Window
+      hint: null
+      type: select_one
+      options:
+      - Spring (April/May)
+      - Summer (July/August)
+      - Fall (October/November)
+      - Winter (January/February)
+      required: true
+    - id: 11
+      name: ethics_agreement_cfs
+      label: I agree to the CFS Code of Professional Ethics
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: background_check_consent_cfs
+      label: I consent to a professional background verification
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 13
+      name: application_fee_acknowledgment
+      label: I understand there is a non-refundable application fee
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: supervisor_reference_contact
+      label: Professional Reference (Supervisor) Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: applicant_digital_sign_cfs
+      label: Applicant Digital Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: application_date_cfs
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

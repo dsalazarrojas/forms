@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Contact Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mom
+      - Dad
+      - Brother
+      - Sister
+      - Spouse
+      - Child
+      - Friend
+      - Other
+      - None
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mom
+      - Dad
+      - Brother
+      - Sister
+      - Spouse
+      - Child
+      - Friend
+      - Other
+      - None
+      required: false
+    - id: 10
+      name: emergency_contact_address
+      label: Emergency Contact's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: permission
+      label: Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: emergency_contact_message
+      label: Emergency Contact's Message
+      hint: null
+      type: text
+      options: []
+      required: false

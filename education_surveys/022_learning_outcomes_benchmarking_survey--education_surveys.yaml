@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_outcomes_benchmarking_survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is this survey about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Which of the following outcomes are you trying to achieve
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: true
+    - id: 3
+      name: question_2
+      label: What is the current status of these outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 4
+      name: question_3
+      label: How important are these outcomes to you
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_4
+      label: What is the expected date of completion for these outcomes
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: question_5
+      label: What is the expected time of completion for these outcomes
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: question_6
+      label: Are there any issues or blockers that could impact these outcomes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: How will the outcomes be used
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 9
+      name: question_8
+      label: Can we contact you if there are any issues with your response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_9
+      label: How did you find this survey
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 11
+      name: question_11
+      label: Can we contact you after 1 month from submission of your response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: question_12
+      label: Is there anything you would like to add
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_13
+      label: Is there anything else you would like to add
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_14
+      label: Is there anything we could improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_15
+      label: What is the number of students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_16
+      label: What is the number of teachers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: question_17
+      label: What is the number of staff
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: question_18
+      label: What is the number of administrators
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: question_19
+      label: What is the number of facilities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: question_20
+      label: Is there a facility map
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 21
+      name: question_21
+      label: Facility map url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: question_22
+      label: Facility map image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: question_23
+      label: Facility map title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_24
+      label: Facility map zoom level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: question_25
+      label: Facility map zoom level unit
+      hint: null
+      type: text
+      options: []
+      required: false

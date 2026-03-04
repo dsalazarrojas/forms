@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: HmoEnrollmentFieldOfficeIDependent
+    pages:
+    - id: 1
+      name: employee_enrollment_form_data
+      label: Employee Enrollment Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_benefit_start
+      label: date_of_benefit_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_benefit_end
+      label: date_of_benefit_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employee_type
+      label: employee_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5, ''label'': ''Employee''}'
+      - '{''id'': 6, ''label'': ''Dependent''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: benefit_type
+      label: benefit_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8, ''label'': ''HMO''}'
+      - '{''id'': 9, ''label'': ''PPO''}'
+      - '{''id'': 10, ''label'': ''POS''}'
+      required: false
+    - id: 7
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: benefit_id
+      label: benefit_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dependents
+      label: dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dependent_type
+      label: dependent_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Child''}'
+      - '{''id'': 12, ''label'': ''Spouse''}'
+      - '{''id'': 13, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: dependent_name
+      label: dependent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false

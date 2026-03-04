@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_damage_report_form
+    pages:
+    - id: 1
+      name: equipment_damage_date
+      label: Equipment Damage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_damage_description
+      label: Equipment Damage Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reported_on
+      label: Reported On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: equipment_damage_type
+      label: Equipment Damage Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_damage_status
+      label: Equipment Damage Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: reported_by_department
+      label: Reported By Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reported_by_supervisor
+      label: Reported By Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_contact_info
+      label: Witness Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_cost
+      label: Equipment Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: damage_location
+      label: Damage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_damage_causes
+      label: Equipment Damage Causes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: equipment_last_used_by
+      label: Last Used By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_used_date
+      label: Last Used Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: equipment_last_maintained
+      label: Last Maintained
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: equipment_next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false

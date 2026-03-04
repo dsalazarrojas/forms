@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Job Site Safety Employment Survey
+    pages:
+      - id: 1
+        name: section_employee_information
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Optional for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: role_on_site
+        label: Role on site
+        hint: Job title or trade
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: site_location
+        label: Site location
+        hint: Project or site name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: safety_training_received
+        label: Safety training received
+        hint: Select trainings completed
+        type: select_multiple
+        options:
+          - General safety orientation
+          - Fall protection
+          - Equipment operation
+          - First aid
+          - None
+        required: true
+      - id: 6
+        name: confidence_in_safety_procedures
+        label: Confidence in safety procedures
+        hint: Rate confidence in site safety measures
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Somewhat unconfident
+          - Not confident
+        required: true
+      - id: 7
+        name: near_miss_reporting_frequency
+        label: Near miss reporting frequency
+        hint: How often near misses are reported on site
+        type: select_one
+        options:
+          - Regularly
+          - Occasionally
+          - Rarely
+          - Never
+        required: false
+      - id: 8
+        name: hazards_observed
+        label: Hazards observed
+        hint: Describe any recurring safety hazards
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Recommended safety improvements or training
+        type: text
+        options: []
+        required: false

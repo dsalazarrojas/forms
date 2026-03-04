@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: BOS Employment Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_position_info
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_title
+      label: Position Title Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_location
+      label: Preferred Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_type
+      label: Type of Employment Sought
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Remote
+      required: true
+    - id: 11
+      name: availability_date
+      label: When Can You Start?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_work_experience
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: years_of_experience
+      label: Years of Relevant Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: previous_employers
+      label: Previous Employers
+      hint: List your last 3 employers
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: key_accomplishments
+      label: Key Accomplishments
+      hint: Describe your major achievements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associates Degree
+      - Bachelors Degree
+      - Masters Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 18
+      name: education_field
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: certifications
+      label: Relevant Certifications or Licenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_skills
+      label: -- Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: technical_skills
+      label: Technical Skills
+      hint: Software, systems, tools, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: language_skills
+      label: Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_information
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

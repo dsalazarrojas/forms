@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Offer Approval Form
+    pages:
+    - id: 1
+      name: job_offer_approval_form
+      label: Job Offer Approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Department A'', ''value'': ''Department A''}'
+      - '{''id'': 2, ''name'': ''Department B'', ''value'': ''Department B''}'
+      - '{''id'': 3, ''name'': ''Department C'', ''value'': ''Department C''}'
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Full-time'', ''value'': ''Full-time''}'
+      - '{''id'': 2, ''name'': ''Part-time'', ''value'': ''Part-time''}'
+      - '{''id'': 3, ''name'': ''Contract'', ''value'': ''Contract''}'
+      required: false
+    - id: 5
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''name'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 12
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Entry Level'', ''value'': ''Entry Level''}'
+      - '{''id'': 2, ''name'': ''Mid Level'', ''value'': ''Mid Level''}'
+      - '{''id'': 3, ''name'': ''Senior'', ''value'': ''Senior''}'
+      required: false
+    - id: 13
+      name: job_type_details
+      label: Job Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_openings
+      label: Job Openings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_opening_comments
+      label: Job Opening Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: departmental_review_comments
+      label: Departmental Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hr_review_comments
+      label: HR Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_required
+      label: Approval Required
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 21
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_id
+      label: Job ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_form
+      label: Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false

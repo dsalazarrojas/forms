@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Peer Evaluation Employment Form
+    pages:
+      - id: 1
+        name: section_employee_details
+        label: -- Employee Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_being_evaluated
+        label: Employee Being Evaluated
+        hint: Full name of the person you are reviewing
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id_number
+        label: Employee ID Number
+        hint: Enter the ID of the person being reviewed
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: peer_evaluator_name
+        label: Peer Evaluator Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: relation_to_employee
+        label: Relation to Employee
+        hint: How do you work together?
+        type: select_one
+        options:
+          - Teammate
+          - Manager
+          - Direct Report
+          - Other
+        required: true
+      - id: 6
+        name: project_name
+        label: Project Name
+        hint: The project you worked on together
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_evaluation_criteria
+        label: -- Evaluation Criteria --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: rating_problem_solving
+        label: Problem Solving and Analysis
+        hint: Ability to handle complex tasks
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below Average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: rating_collaboration
+        label: Teamwork and Collaboration
+        hint: Ability to work effectively with others
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below Average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 10
+        name: rating_communication
+        label: Verbal and Written Communication
+        hint: Ability to share information clearly
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below Average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 11
+        name: rating_time_management
+        label: Time Management and Reliability
+        hint: Ability to meet deadlines
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below Average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 12
+        name: rating_leadership
+        label: Leadership Potential
+        hint: Shows initiative and takes ownership
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below Average
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 13
+        name: section_feedback
+        label: -- Feedback and Development --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: key_strengths
+        label: Key Strengths
+        hint: What is the single biggest strength of this employee?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: development_opportunities
+        label: Development Opportunities
+        hint: What should the employee work on improving?
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: promotion_readiness
+        label: Promotion Readiness
+        hint: Is the employee ready for more responsibility?
+        type: select_one
+        options:
+          - Ready Now
+          - Ready in 6 Months
+          - Ready in 12+ Months
+          - Not Recommended at this time
+        required: true
+      - id: 17
+        name: evaluator_comments
+        label: Evaluator Comments
+        hint: Any other information you would like to share
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

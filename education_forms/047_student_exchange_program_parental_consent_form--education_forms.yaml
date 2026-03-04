@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Exchange Program Parental Consent Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Parent's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_email
+      label: Parent Email
+      hint: Enter parent email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: emergency_consent
+      label: Emergency Contact Consent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 10
+      name: school_year
+      label: School Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: student_school_year
+      label: Student School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

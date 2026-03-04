@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Transport Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: school_transport_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1_head
+      label: what_is_the_transport_schemes_in_your_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_1_transport_schemes
+      label: section_1_transport_schemes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: section_2_head
+      label: transport_frequencies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_2_transport_frequencies
+      label: transport_frequencies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: transport_frequencies_1
+      label: daily
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: transport_frequencies_2
+      label: weekly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: section_3_head
+      label: transport_modes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transport_modes
+      label: transport_modes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: section_4_head
+      label: survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_comments_2
+      label: survey_comments_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

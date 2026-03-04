@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: discipline_and_guidance_policy_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness
+      label: awareness
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Parents
+      - Staff
+      - Students
+      - Other
+      required: true
+    - id: 3
+      name: effectiveness
+      label: effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: improvement
+      label: improvement
+      hint: Please provide ideas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_affect
+      label: policy_affect
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Parents
+      - Staff
+      - Students
+      required: true
+    - id: 6
+      name: staff_response
+      label: staff_response
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Undecided
+      required: true
+    - id: 7
+      name: policy_effectiveness
+      label: policy_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very Effective
+      - Not at all Effective
+      required: true
+    - id: 8
+      name: survey_completed
+      label: survey_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: policy_awareness
+      label: policy_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Undecided
+      required: true
+    - id: 10
+      name: school_feedback
+      label: school_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very Effective
+      - Not at all Effective
+      required: true
+    - id: 11
+      name: staff_feedback
+      label: staff_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very Effective
+      - Not at all Effective
+      required: true
+    - id: 12
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very Effective
+      - Not at all Effective
+      required: true
+    - id: 13
+      name: policy_improvement
+      label: policy_improvement
+      hint: Please provide your suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

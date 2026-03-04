@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pulse Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What do you think of your work environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_life_balance
+      label: How would you rate your work-life balance
+      hint: null
+      type: select_one
+      options:
+      - very_unhappy
+      - unhappy
+      - neutral
+      - happy
+      - very_happy
+      required: false
+    - id: 3
+      name: work_life_balance_score
+      label: Work-life balance score
+      hint: Please provide a numerical value between 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: engagement_level
+      label: Engagement level
+      hint: null
+      type: select_multiple
+      options:
+      - unengaged
+      - somewhat_engaged
+      - engaged
+      - somewhat_disengaged
+      - disengaged
+      required: false
+    - id: 5
+      name: suggestions
+      label: Do you have any suggestions to improve the work environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_culture
+      label: What do you like or dislike about our company culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: management
+      label: How would you rate your direct manager
+      hint: null
+      type: select_one
+      options:
+      - unfair
+      - fair
+      - very_fair
+      - extremely_fair
+      - very_unfair
+      required: false
+    - id: 8
+      name: team_spirit
+      label: Team spirit
+      hint: Please describe your team members
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feedback_important
+      label: What type of feedback are you looking for from your manager
+      hint: null
+      type: select_multiple
+      options:
+      - regular
+      - constructive
+      - critical
+      - positive
+      required: false
+    - id: 10
+      name: manager_response
+      label: How would you rate your manager's response to your feedback
+      hint: null
+      type: select_one
+      options:
+      - unfair
+      - fair
+      - very_fair
+      - extremely_fair
+      - very_unfair
+      required: false
+    - id: 11
+      name: communication_channel
+      label: What is your preferred way to communicate with your manager
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - chat
+      - inperson
+      - other
+      required: false
+    - id: 12
+      name: work_life_balance_important
+      label: What aspects of work-life balance are important to you
+      hint: null
+      type: select_multiple
+      options:
+      - work_life_balance
+      - work_life_balance_score
+      - health_and_wellness
+      - time_off
+      - money
+      - other
+      required: false

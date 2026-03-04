@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Payroll Change Form
+    pages:
+    - id: 1
+      name: employee_payroll_change_form_employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_payroll_change_form_employee_pay_rate
+      label: Employee Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: payroll_change_date
+      label: Payroll Change Date
+      hint: null
+      type: date
+      options: []
+      required: false

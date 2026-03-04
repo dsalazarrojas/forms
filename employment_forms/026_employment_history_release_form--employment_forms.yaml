@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_history_release_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_periods
+      label: Employment Periods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_titles
+      label: Job Titles
+      hint: null
+      type: select_multiple
+      options:
+      - President
+      - CEO
+      - CTO
+      - CFO
+      - COO
+      - CIO
+      - CMO
+      - COO
+      - CLO
+      - CFO
+      - Director
+      required: false
+    - id: 4
+      name: job_locations
+      label: Job Locations
+      hint: null
+      type: select_one
+      options:
+      - San Francisco
+      - New York
+      - London
+      - Paris
+      - Tokyo
+      - Munich
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Employed - Not Seeking
+      - Retired
+      required: false
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 8
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_length
+      label: Job Length
+      hint: Number of months
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: start_salary
+      label: Starting Salary
+      hint: $
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: end_salary
+      label: Ending Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notice_period
+      label: Notice Period
+      hint: Number of days
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: final_salary
+      label: Final Salary
+      hint: null
+      type: number
+      options: []
+      required: false

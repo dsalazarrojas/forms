@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Program Feedback Poll
+    pages:
+    - id: 1
+      name: first_page
+      label: educational_program_feedback_poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: session_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_length_range
+      label: session_length_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

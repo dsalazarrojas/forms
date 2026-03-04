@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Status Clarification Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      - Other
+      - Resigned
+      - Retired
+      - Probation
+      - Leave of Absence
+      - Other
+      required: false
+    - id: 5
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_change
+      label: date_of_change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hr_note
+      label: hr_note
+      hint: null
+      type: note
+      options: []
+      required: false

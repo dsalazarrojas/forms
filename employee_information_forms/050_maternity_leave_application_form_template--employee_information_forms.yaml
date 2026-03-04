@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternity Leave Application Form Template
+    pages:
+    - id: 1
+      name: employee_information_form
+      label: Employee Information Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_details
+      label: Leave Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth_form
+      label: Date of Birth Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expected_start_date_form
+      label: Expected Start Date Form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_to_work_date_form
+      label: Return to Work Date Form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_period
+      label: Leave Period
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 8
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Maternity Leave
+      - Paternal Leave
+      - Other
+      required: false
+    - id: 9
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

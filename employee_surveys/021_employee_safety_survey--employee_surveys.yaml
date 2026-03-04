@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Safety Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_one
+      label: Safety Concerns
+      hint: We want to hear from you
+      type: select_multiple
+      options:
+      - Safety concerns
+      - Safety practices
+      - Other
+      required: false
+    - id: 3
+      name: employee_safety_concerns
+      label: Which of the following concerns do you have?
+      hint: null
+      type: select_one
+      options:
+      - Safety concerns
+      - Workplace injuries
+      - Workplace violence
+      - Other
+      required: false
+    - id: 4
+      name: employee_safety_practices
+      label: How do you rate safety practices?
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Average
+      - Poor
+      required: false
+    - id: 5
+      name: page_two
+      label: Safety Culture
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: safety_culture
+      label: Describe your perceptions of our company safety culture
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: first_page
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_three
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: safety_comments
+      label: Any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_four
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: page_five
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: page_six
+      label: How satisfied are you with this survey?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      - Undecided
+      - Not satisfied at all
+      - Not interested
+      - Very dissatisfied
+      required: false
+    - id: 16
+      name: page_seven
+      label: Would you like to provide any additional feedback on your experience
+        with this survey?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: page_eight
+      label: How often do you think this survey should be done in the future?
+      hint: null
+      type: select_one
+      options:
+      - Once a year
+      - Every 6 months
+      - Every 3 months
+      - Every 6 months
+      - Quarterly
+      - Monthly
+      - Biannually
+      - Annually
+      required: false
+    - id: 18
+      name: page_nine
+      label: What changes would you suggest we make to improve this survey?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: page_ten
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: page_eleven
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: page_twelve
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: page_thirteen
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: page_fourteen
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: page_fifteen
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: page_sixteen
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

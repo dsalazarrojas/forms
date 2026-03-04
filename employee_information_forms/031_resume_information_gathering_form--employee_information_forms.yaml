@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resume Information Gathering Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume_attachment
+      label: resume_attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 9
+      name: work_experience_other
+      label: work_experience_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education
+      label: education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Data Science
+      - Data Engineering
+      - Data Analysis
+      - Data Visualization
+      - Machine Learning
+      required: false
+    - id: 12
+      name: job_preferences
+      label: job_preferences
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Internship
+      - Other
+      required: false
+    - id: 13
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Retired
+      - Other
+      required: false
+    - id: 14
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resigned
+      - Terminated
+      - Suspended
+      - Retired
+      required: false
+    - id: 15
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_start_date
+      label: work_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: work_end_date
+      label: work_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: work_end_reason
+      label: work_end_reason
+      hint: null
+      type: select_one
+      options:
+      - Voluntarily resigned
+      - Terminated
+      - Retired
+      - Deceased
+      - Other
+      required: false
+    - id: 19
+      name: job_title_other
+      label: job_title_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resume_url
+      label: resume_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: work_status
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Probationary
+      required: false
+    - id: 22
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - Permanent
+      - Temporary
+      - Contractor
+      - Freelance
+      - Other
+      required: false
+    - id: 23
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_one
+      options:
+      - Entry
+      - Mid-level
+      - Senior
+      - Management
+      - C-level
+      required: false
+    - id: 24
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_one
+      options:
+      - IT/Software Development
+      - Marketing/Advertising
+      - Finance/Banking
+      - Healthcare
+      - Other
+      required: false
+    - id: 25
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      - Operations
+      - Other
+      required: false

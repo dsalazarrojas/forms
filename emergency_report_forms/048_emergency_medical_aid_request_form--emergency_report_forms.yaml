@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Medical Aid Request Form
+    pages:
+    - id: 1
+      name: emergency_medical_aid_request_form
+      label: Emergency Medical Aid Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_need
+      label: medical_need
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: need_priority
+      label: need_priority
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Severe
+      - Critical
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_facility
+      label: medical_faq
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Hospital
+      - School
+      - Nonprofit
+      required: false
+    - id: 9
+      name: medical_supplies
+      label: medical_supplies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_equipment
+      label: medical_equipment
+      hint: null
+      type: number
+      options: []
+      required: false

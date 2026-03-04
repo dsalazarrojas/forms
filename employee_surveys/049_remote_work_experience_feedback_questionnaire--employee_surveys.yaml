@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Experience Feedback Questionnaire
+    pages:
+    - id: 1
+      name: remote_work_experience_feedback_questionnaire_form
+      label: Remote Work Experience Feedback Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_work_experience_feedback_questionnaire_form_question_1
+      label: What was your experience like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: remote_work_experience_feedback_questionnaire_form_question_2
+      label: How often did you participate in video meetings?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Never''}'
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Almost always''}'
+      required: false
+    - id: 4
+      name: remote_work_experience_feedback_questionnaire_form_question_3
+      label: How would you rate the quality of your work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: remote_work_experience_feedback_questionnaire_form_question_4
+      label: How many hours did you work outside of office hours?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: remote_work_experience_feedback_questionnaire_form_question_5
+      label: How satisfied are you with the flexible work arrangement offered?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very dissatisfied''}'
+      - '{''value'': ''Somewhat dissatisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat satisfied''}'
+      - '{''value'': ''Very satisfied''}'
+      required: false
+    - id: 7
+      name: remote_work_experience_feedback_questionnaire_form_question_6
+      label: How many days were you able to work from home?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 0}'
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      - '{''value'': 11}'
+      - '{''value'': 12}'
+      - '{''value'': 13}'
+      - '{''value'': 14}'
+      - '{''value'': 15}'
+      - '{''value'': 16}'
+      - '{''value'': 17}'
+      - '{''value'': 18}'
+      - '{''value'': 19}'
+      - '{''value'': 20}'
+      - '{''value'': 21}'
+      - '{''value'': 22}'
+      - '{''value'': 23}'
+      - '{''value'': 24}'
+      - '{''value'': 25}'
+      - '{''value'': 26}'
+      - '{''value'': 27}'
+      - '{''value'': 28}'
+      - '{''value'': 29}'
+      - '{''value'': 30}'
+      - '{''value'': ''More than 30''}'
+      required: false
+    - id: 8
+      name: remote_work_experience_feedback_questionnaire_form_question_7
+      label: Did you feel connected to your team?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly disagree''}'
+      - '{''value'': ''Somewhat disagree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat agree''}'
+      - '{''value'': ''Strongly agree''}'
+      required: false

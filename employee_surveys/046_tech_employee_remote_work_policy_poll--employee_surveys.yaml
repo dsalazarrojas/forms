@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_employee_remote_work_policy_poll
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: remote_work_preferences
+      label: remote_work_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_satisfaction
+      label: work_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_communication
+      label: team_communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

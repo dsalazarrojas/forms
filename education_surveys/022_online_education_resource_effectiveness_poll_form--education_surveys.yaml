@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_education_resource_effectiveness_poll_form
+    pages:
+    - id: 1
+      name: education_resource_effectiveness
+      label: Education Resource Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: rating_scale
+      label: Overall Rating
+      hint: Rate this resource
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_multiple
+      options:
+      - Digital Tool
+      - Online Course
+      - Offline Resource
+      required: true
+    - id: 5
+      name: prophets
+      label: Prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost Always
+      required: true
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve Knowledge
+      - Improve Skills
+      - Engage with Content
+      - None
+      required: true
+    - id: 8
+      name: impact_on_learning
+      label: Impact on Learning
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - No Effect
+      required: true
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: title_10
+      label: Title 10
+      hint: null
+      type: text
+      options: []
+      required: true

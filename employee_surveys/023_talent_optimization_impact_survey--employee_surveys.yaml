@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Optimization Impact Survey
+    pages:
+    - id: 1
+      name: employee_survey_form
+      label: Talent Optimization Impact Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_input
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '1: CEO'
+      - '2: Director'
+      - '3: Manager'
+      - '4: Team Member'
+      - '5: Other'
+      required: false
+    - id: 3
+      name: department_input
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '1: Sales'
+      - '2: Marketing'
+      - '3: Product'
+      - '4: Development'
+      - '5: Finance'
+      required: false
+    - id: 4
+      name: segment_results_input
+      label: Segment Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: talent_initiatives_input
+      label: Talent Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback_input
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '1: Jimmy'
+      - '2: John'
+      - '3: Jane'
+      required: true

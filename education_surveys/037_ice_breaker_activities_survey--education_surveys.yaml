@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ice Breaker Activities Survey
+    pages:
+    - id: 1
+      name: ice_breaker_preferences
+      label: Ice Breaker Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_icebreaker_activities
+      label: Preferred Ice Breaker
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_icebreaker_groups
+      label: Ice Breaker Groups
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

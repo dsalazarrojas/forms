@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Form
+    pages:
+      - id: 1
+        name: employee_first_name
+        label: First Name
+        hint: Employee first name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_last_name
+        label: Last Name
+        hint: Employee last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID Number
+        hint: Staff identification number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Employee department
+        type: select_one
+        options:
+          - Sales
+          - Marketing
+          - Operations
+          - Finance
+          - Human Resources
+          - Information Technology
+          - Customer Service
+          - Other
+        required: true
+      - id: 5
+        name: position_title
+        label: Current Position Title
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: assessment_period_start
+        label: Assessment Period Start Date
+        hint: Begin date
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: assessment_period_end
+        label: Assessment Period End Date
+        hint: End date
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: reporting_manager
+        label: Reporting Manager Name
+        hint: Direct supervisor
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: job_knowledge
+        label: Job Knowledge and Skills
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Needs Improvement"
+          - "2 - Below Expectations"
+          - "3 - Meets Expectations"
+          - "4 - Exceeds Expectations"
+          - "5 - Exceptional"
+        required: true
+      - id: 10
+        name: communication_skills
+        label: Communication Skills
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Needs Improvement"
+          - "2 - Below Expectations"
+          - "3 - Meets Expectations"
+          - "4 - Exceeds Expectations"
+          - "5 - Exceptional"
+        required: true
+      - id: 11
+        name: teamwork_collaboration
+        label: Teamwork and Collaboration
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Needs Improvement"
+          - "2 - Below Expectations"
+          - "3 - Meets Expectations"
+          - "4 - Exceeds Expectations"
+          - "5 - Exceptional"
+        required: true
+      - id: 12
+        name: reliability_punctuality
+        label: Reliability and Punctuality
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Needs Improvement"
+          - "2 - Below Expectations"
+          - "3 - Meets Expectations"
+          - "4 - Exceeds Expectations"
+          - "5 - Exceptional"
+        required: true
+      - id: 13
+        name: problem_solving
+        label: Problem Solving Ability
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Needs Improvement"
+          - "2 - Below Expectations"
+          - "3 - Meets Expectations"
+          - "4 - Exceeds Expectations"
+          - "5 - Exceptional"
+        required: true
+      - id: 14
+        name: customer_service_focus
+        label: Customer Service Focus
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Needs Improvement"
+          - "2 - Below Expectations"
+          - "3 - Meets Expectations"
+          - "4 - Exceeds Expectations"
+          - "5 - Exceptional"
+        required: true
+      - id: 15
+        name: goal_achievement
+        label: Goal Achievement
+        hint: How well did employee meet stated goals?
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: strengths
+        label: Key Strengths
+        hint: Describe employee strengths
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: Identify development opportunities
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: development_plan
+        label: Suggested Development Plan
+        hint: Recommendations for growth
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: overall_rating
+        label: Overall Performance Rating
+        hint: Final assessment rating
+        type: select_one
+        options:
+          - Unsatisfactory
+          - Needs Improvement
+          - Meets Expectations
+          - Exceeds Expectations
+          - Far Exceeds Expectations
+        required: true
+      - id: 20
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: assessor_signature_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_library_resource_access_check_in
+    pages:
+    - id: 1
+      name: resource_id
+      label: Resource ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Staff
+      - Faculty
+      - Guest
+      required: false
+    - id: 3
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - DVD
+      - Game Console
+      - Other
+      required: false
+    - id: 7
+      name: check_in_time
+      label: Check-in Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: check_in_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: check_out_time
+      label: Check-out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: check_out_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: visitor_details
+      label: Visitor Details
+      hint: null
+      type: text
+      options: []
+      required: false

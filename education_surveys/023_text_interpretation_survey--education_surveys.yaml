@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Text Interpretation Survey
+    pages:
+    - id: 1
+      name: survey_passage
+      label: survey_passage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: interpretation
+      label: interpretation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: passage_text
+      label: passage_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: researcher
+      label: researcher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study
+      label: study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: learning
+      label: learning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: ux
+      label: ux
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

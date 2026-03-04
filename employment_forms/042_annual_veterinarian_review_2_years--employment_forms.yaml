@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Veterinarian Review 2 Years
+    pages:
+    - id: 1
+      name: vet_name
+      label: Veterinarian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_number
+      label: Veterinary License Number
+      hint: State license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: practice_name
+      label: Practice Name
+      hint: Name of veterinary practice
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Practice Experience
+      hint: Total years as veterinarian
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: review_period_year_1
+      label: First Year Review Period
+      hint: Start date of first year
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_period_year_2
+      label: Second Year Review Period
+      hint: End date of second year
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patients_year_1
+      label: Patients Treated - Year 1
+      hint: Number of patients first year
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patients_year_2
+      label: Patients Treated - Year 2
+      hint: Number of patients second year
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: clinical_competency_y1
+      label: Clinical Competency - Year 1
+      hint: Self-assessment for first year
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 10
+      name: clinical_competency_y2
+      label: Clinical Competency - Year 2
+      hint: Self-assessment for second year
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 11
+      name: diagnostic_skills_y1
+      label: Diagnostic Skills - Year 1
+      hint: Diagnostic abilities first year
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 12
+      name: diagnostic_skills_y2
+      label: Diagnostic Skills - Year 2
+      hint: Diagnostic abilities second year
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 13
+      name: surgical_skills_y1
+      label: Surgical Skills - Year 1
+      hint: Surgical performance first year
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Not applicable
+      required: false
+    - id: 14
+      name: surgical_skills_y2
+      label: Surgical Skills - Year 2
+      hint: Surgical performance second year
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Not applicable
+      required: false
+    - id: 15
+      name: animal_handling_y1
+      label: Animal Handling - Year 1
+      hint: Animal care quality year one
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 16
+      name: animal_handling_y2
+      label: Animal Handling - Year 2
+      hint: Animal care quality year two
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 17
+      name: client_communication_y1
+      label: Client Communication - Year 1
+      hint: Communication skills year one
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 18
+      name: client_communication_y2
+      label: Client Communication - Year 2
+      hint: Communication skills year two
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 19
+      name: ethics_compliance_y1
+      label: Ethics and Compliance - Year 1
+      hint: Professional standards year one
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 20
+      name: ethics_compliance_y2
+      label: Ethics and Compliance - Year 2
+      hint: Professional standards year two
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 21
+      name: continuing_education
+      label: Continuing Education Over Two Years
+      hint: Courses, certifications, conferences
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: accomplishments_y1
+      label: Major Accomplishments - Year 1
+      hint: Notable achievements first year
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: accomplishments_y2
+      label: Major Accomplishments - Year 2
+      hint: Notable achievements second year
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: improvement_trajectory
+      label: Professional Growth Over Two Years
+      hint: How you have developed or improved
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: future_goals
+      label: Professional Goals for Next Two Years
+      hint: Where you want to focus efforts
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_teaching_practices_impact_survey
+    pages:
+    - id: 1
+      name: creative_teaching_practices
+      label: creative_teaching_practices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: teaching_methods
+      label: teaching_methods
+      hint: null
+      type: select_one
+      options:
+      - Inquiry Based Teaching
+      - Project Based Learning
+      - Flipped Classrooms
+      - Problem Based Learning
+      - Competency Based Grading
+      - Blended Learning
+      required: false
+    - id: 3
+      name: student_outcomes
+      label: student_outcomes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: educational_goals
+      label: educational_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Student Engagement
+      - Improved Test Scores
+      - Enhanced Critical Thinking
+      - Increased Student Confidence
+      - Better Retention
+      - Improved Teacher Support
+      required: true
+    - id: 5
+      name: teaching_practices
+      label: teaching_practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Opt In Form Template
+    pages:
+    - id: 1
+      name: opt_in_header
+      label: Join Our Black Friday Email List
+      hint: Get exclusive deals sent straight to your inbox
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your best email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: email_frequency
+      label: Email Frequency Preference
+      hint: How often do you want to hear from us
+      type: select_one
+      options:
+      - Daily During Black Friday Week
+      - Weekly
+      - Only Major Deals
+      - One Time Black Friday Only
+      required: true
+    - id: 6
+      name: product_interests
+      label: Product Interests
+      hint: What categories interest you
+      type: select_multiple
+      options:
+      - Electronics and Gadgets
+      - Fashion and Accessories
+      - Home and Living
+      - Beauty and Wellness
+      - Sports and Outdoors
+      - Kids and Family
+      - Food and Gourmet
+      - Travel and Experiences
+      required: true
+    - id: 7
+      name: shopping_behavior
+      label: Shopping Behavior
+      hint: How would you describe your shopping style
+      type: select_one
+      options:
+      - Early Bird Shopper
+      - Last Minute Shopper
+      - Research First Shopper
+      - Impulse Buyer
+      - Deal Hunter
+      required: false
+    - id: 8
+      name: preferred_device
+      label: Preferred Shopping Device
+      hint: What device do you shop on most
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop
+      - Smartphone
+      - Tablet
+      required: false
+    - id: 9
+      name: sms_opt_in
+      label: SMS Notifications
+      hint: Receive text alerts for flash sales
+      type: select_one
+      options:
+      - Yes Add My Number
+      - No Thanks
+      required: true
+    - id: 10
+      name: mobile_number
+      label: Mobile Number
+      hint: For SMS alerts
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: birthday_month
+      label: Birthday Month
+      hint: Get a special birthday discount
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      - Prefer Not to Say
+      required: false
+    - id: 12
+      name: referral_source
+      label: How Did You Find Us
+      hint: Where did you discover this offer
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Friend Referral
+      - Email Forward
+      - Website Popup
+      - Advertisement
+      - Other
+      required: false
+    - id: 13
+      name: privacy_consent
+      label: Privacy Consent
+      hint: I agree to the privacy policy and data handling
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 14
+      name: marketing_consent
+      label: Marketing Consent
+      hint: I agree to receive promotional emails
+      type: select_one
+      options:
+      - Yes I Agree
+      - No Thanks
+      required: true
+    - id: 15
+      name: additional_preferences
+      label: Additional Preferences
+      hint: Any other preferences to note
+      type: text
+      options: []
+      required: false

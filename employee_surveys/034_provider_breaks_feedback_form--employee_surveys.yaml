@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Provider Breaks Feedback Form
+    pages:
+    - id: 1
+      name: provider_id
+      label: provider_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: schedule_frequency
+      label: Schedule Frequency
+      hint: How often do you take scheduled breaks?
+      type: select_multiple
+      options:
+      - Every 4 hours
+      - Every 5 hours
+      - Every 6 hours
+      required: false
+    - id: 3
+      name: schedule_duration
+      label: Break Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: break_experience
+      label: Break Experience
+      hint: Rate your experience with our break schedule
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      - Terrible
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

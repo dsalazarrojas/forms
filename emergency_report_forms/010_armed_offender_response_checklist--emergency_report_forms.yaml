@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Armed Offender Response Checklist
+    pages:
+    - id: 1
+      name: section_incident
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Location of Incident
+      hint: Building, address, or facility name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_people_involved
+      label: Number of People Involved in Incident
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weapons_involved
+      label: Type of Weapons Involved
+      hint: null
+      type: select_multiple
+      options:
+      - Firearm - handgun
+      - Firearm - rifle
+      - Firearm - shotgun
+      - Knife or blade
+      - Blunt object
+      - Unknown
+      - Other
+      required: true
+    - id: 7
+      name: section_immediate_response
+      label: -- Immediate Response Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: police_notified
+      label: Police or emergency services notified
+      hint: null
+      type: select_one
+      options:
+      - Yes - immediately
+      - Yes - after delay
+      - false
+      - In progress
+      required: true
+    - id: 9
+      name: evacuation_initiated
+      label: Evacuation procedures initiated
+      hint: null
+      type: select_one
+      options:
+      - Yes - full evacuation
+      - Yes - partial evacuation
+      - false
+      - Not applicable
+      required: true
+    - id: 10
+      name: shelter_in_place
+      label: Shelter in place procedures activated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 11
+      name: area_lockdown
+      label: Area locked down to prevent access
+      hint: null
+      type: select_one
+      options:
+      - Yes - all entrances
+      - Yes - select entrances
+      - false
+      - Partial
+      required: true
+    - id: 12
+      name: section_personnel
+      label: -- Personnel and Casualties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: injuries_reported
+      label: Injuries reported or suspected
+      hint: null
+      type: select_one
+      options:
+      - No injuries
+      - Minor injuries
+      - Moderate injuries
+      - Serious injuries
+      - Fatalities
+      required: true
+    - id: 14
+      name: medical_response
+      label: Medical response teams contacted or on scene
+      hint: null
+      type: select_one
+      options:
+      - Yes - on scene
+      - Yes - en route
+      - false
+      - Not applicable
+      required: false
+    - id: 15
+      name: personnel_accounting
+      label: All personnel accounted for
+      hint: null
+      type: select_one
+      options:
+      - Yes - all accounted
+      - No - missing persons
+      - Unconfirmed
+      - In progress
+      required: true
+    - id: 16
+      name: missing_count
+      label: Number of missing or unaccounted persons
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_communication
+      label: -- Communication and Coordination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: incident_commander_assigned
+      label: Incident commander assigned
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 19
+      name: crisis_team_notified
+      label: Crisis response team or coordinator notified
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 20
+      name: media_control
+      label: Media access controlled or restricted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 21
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: report_completed_by
+      label: Report Completed By
+      hint: Name and title of reporting officer
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false

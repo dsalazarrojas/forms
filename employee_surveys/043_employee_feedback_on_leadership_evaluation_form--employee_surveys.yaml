@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback On Leadership Evaluation Form
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_leadership
+      label: Feedback On Leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_suggestions
+      label: Employee Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_suggestions_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      - Communication
+      - Leadership
+      - Teamwork
+      - Communication
+      required: false
+    - id: 6
+      name: evaluation_form_comments
+      label: Evaluation Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_form_comments_2
+      label: Evaluation Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_form_comments_3
+      label: Evaluation Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

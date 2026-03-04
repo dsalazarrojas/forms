@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotion_record_employment_form
+    pages:
+    - id: 1
+      name: employee_identifier
+      label: Employee Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: new_position
+      label: new_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_effective_date
+      label: Date of Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_promotion
+      label: reason for promotion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 7
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: effective_date_approved
+      label: Effective Date Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_of_confirmation
+      label: Date of Confirmation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: promotion_date
+      label: Promotion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: pay_rate_change
+      label: Pay Rate Change
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_termination
+      label: reason for termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_termination_reason
+      label: Manager Termination Reason
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: date_of_termination
+      label: Date of Termination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: termination_reason
+      label: termination reason
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: termination_status
+      label: termination status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: pay_increase
+      label: pay increase
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: pay_decrease
+      label: pay decrease
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: pay_rate
+      label: pay rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: reason_for_promotion
+      label: reason for promotion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_approval_status
+      label: manager approval status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 23
+      name: employee_acknowledgement
+      label: employee acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 24
+      name: manager_acknowledgement
+      label: manager acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 25
+      name: promotion_status
+      label: promotion status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

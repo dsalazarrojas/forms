@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Survey
+    pages:
+    - id: 1
+      name: section_caregiver_id
+      label: -- Caregiver Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employment_id
+      label: Employee ID
+      hint: Enter your official company identification number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_survey
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: department_unit
+      label: Unit or Department
+      hint: e.g., Pediatrics, Gerontology, ICU
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_job_satisfaction
+      label: -- Job Satisfaction --
+      hint: Please rate your level of agreement
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_satisfaction
+      label: Rate your overall job satisfaction
+      hint: 1 being very unsatisfied, 5 being very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: resource_access
+      label: I have the resources I need to provide high-quality care
+      hint: Equipment, supplies, staffing, etc.
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 9
+      name: training_adequacy
+      label: How adequate is the training you receive?
+      hint: In-service education, skill-building workshops, etc.
+      type: select_one
+      options:
+      - Very Adequate
+      - Adequate
+      - Inadequate
+      - Very Inadequate
+      required: true
+    - id: 10
+      name: section_work_environment
+      label: -- Work Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workload_manageability
+      label: Is your current workload manageable?
+      hint: Does your schedule allow for proper patient care?
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: team_collaboration
+      label: Rate the level of collaboration within your team
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: supervisor_support
+      label: Rate the support from your direct supervisor
+      hint: Guidance, feedback, and approachability
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_patient_care
+      label: -- Patient Care and Compassion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: care_quality
+      label: How would you rate the quality of care provided by your unit?
+      hint: 1 being low quality, 5 being exceptional quality
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: compassion_level
+      label: Do you feel your colleagues treat patients with compassion?
+      hint: Empathy, kindness, and respect
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: patient_safety
+      label: Rate the level of patient safety in your unit
+      hint: Infection control, fall prevention, medication safety
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_pro_dev
+      label: -- Professional Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: growth_opportunities
+      label: Are there opportunities for career growth within the organization?
+      hint: Promotion, specialization, or leadership roles
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: development_suggestion
+      label: One thing that would improve your professional development
+      hint: Specific courses or mentorship needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_final_thoughts
+      label: -- Final Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: organization_recommendation
+      label: Would you recommend this organization to a friend as a place to work?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: additional_feedback
+      label: Any other comments or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

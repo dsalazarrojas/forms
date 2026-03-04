@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Curriculum Compliance Audit Form
+    pages:
+    - id: 1
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: audit_date
+      label: audit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: auditor_id
+      label: auditor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: compliance_status
+      label: compliance_status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Under Review
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Choir Participation Survey
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alumni_email
+      label: Alumni Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: voice_part
+      label: Voice Part
+      hint: Select your primary vocal range
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Baritone
+      required: true
+    - id: 5
+      name: rehearsal_availability
+      label: Rehearsal Availability
+      hint: Select all times you are typically available
+      type: select_multiple
+      options:
+      - Monday Evenings
+      - Wednesday Evenings
+      - Friday Afternoons
+      - Saturday Mornings
+      - Sunday Afternoons
+      required: true
+    - id: 6
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - WhatsApp
+      required: false
+    - id: 7
+      name: choir_experience
+      label: Previous Choir Experience
+      hint: List any solo or group experience after graduation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: uniform_size
+      label: T-Shirt or Robe Size
+      hint: For event coordination
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions for Events
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      required: false
+    - id: 10
+      name: final_comments
+      label: Anything else we should know?
+      hint: null
+      type: text
+      options: []
+      required: false

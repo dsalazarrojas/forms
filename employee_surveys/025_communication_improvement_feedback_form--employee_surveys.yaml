@@ -1,0 +1,307 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication Improvement Feedback Form
+    pages:
+      - id: 1
+        name: feedback_introduction
+        label: Feedback Introduction
+        hint: Help us improve team communication
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Executive
+          - Sales
+          - Marketing
+          - Engineering
+          - Product
+          - Human Resources
+          - Finance
+          - Operations
+          - Customer Support
+          - IT
+          - Other
+        required: true
+      - id: 5
+        name: team_name
+        label: Team Name
+        hint: Name of your specific team or group
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: tenure
+        label: Tenure
+        hint: How long have you been with the company
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 7
+        name: current_communication_rating
+        label: Current Communication Rating
+        hint: How would you rate current team communication
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 8
+        name: communication_clarity
+        label: Communication Clarity
+        hint: Are messages and instructions clear
+        type: select_one
+        options:
+          - Always Clear
+          - Usually Clear
+          - Sometimes Clear
+          - Rarely Clear
+          - Never Clear
+        required: true
+      - id: 9
+        name: information_access
+        label: Information Access
+        hint: Do you have access to information you need
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 10
+        name: feedback_reception
+        label: Feedback Reception
+        hint: How well is your feedback received
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Adequately
+          - Poorly
+          - Very Poorly
+        required: true
+      - id: 11
+        name: meeting_effectiveness
+        label: Meeting Effectiveness
+        hint: How effective are team meetings
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 12
+        name: communication_frequency
+        label: Communication Frequency
+        hint: How often does your team communicate
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times weekly
+          - Once weekly
+          - Rarely
+        required: true
+      - id: 13
+        name: preferred_communication_method
+        label: Preferred Communication Method
+        hint: How do you prefer to receive information
+        type: select_one
+        options:
+          - Email
+          - Instant Messaging
+          - Video Calls
+          - Phone Calls
+          - In-Person Meetings
+          - Project Management Tools
+          - Documentation
+        required: true
+      - id: 14
+        name: current_tools
+        label: Current Tools
+        hint: What communication tools do you currently use
+        type: select_multiple
+        options:
+          - Email
+          - Slack
+          - Microsoft Teams
+          - Zoom
+          - Google Meet
+          - Asana
+          - Jira
+          - Trello
+          - Confluence
+          - Other
+        required: true
+      - id: 15
+        name: tools_effectiveness
+        label: Tools Effectiveness
+        hint: How effective are current communication tools
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 16
+        name: communication_barriers
+        label: Communication Barriers
+        hint: What barriers affect your communication
+        type: select_multiple
+        options:
+          - Time Zone Differences
+          - Language Barriers
+          - Too Many Meetings
+          - Lack of Clarity
+          - Information Overload
+          - Technical Issues
+          - Lack of Feedback
+          - Hierarchy Issues
+          - Remote Work Challenges
+          - None
+        required: true
+      - id: 17
+        name: biggest_challenge
+        label: Biggest Challenge
+        hint: What is your biggest communication challenge
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: What specific improvements would you suggest
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: training_interest
+        label: Training Interest
+        hint: Would you be interested in communication training
+        type: select_one
+        options:
+          - "Yes - Very Interested"
+          - "Yes - Somewhat Interested"
+          - "Neutral"
+          - "No - Not Interested"
+        required: true
+      - id: 20
+        name: training_topics
+        label: Training Topics
+        hint: What topics would be most helpful
+        type: select_multiple
+        options:
+          - Active Listening
+          - Clear Writing
+          - Presentation Skills
+          - Conflict Resolution
+          - Cross-Cultural Communication
+          - Remote Communication
+          - Feedback Delivery
+          - Meeting Facilitation
+          - None
+        required: false
+      - id: 21
+        name: manager_communication
+        label: Manager Communication
+        hint: How effective is communication from your manager
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+          - Not Applicable
+        required: true
+      - id: 22
+        name: recognition_frequency
+        label: Recognition Frequency
+        hint: How often do you receive recognition
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 23
+        name: psychological_safety
+        label: Psychological Safety
+        hint: Do you feel safe expressing opinions
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 24
+        name: willing_to_discuss
+        label: Willing to Discuss
+        hint: Would you discuss this feedback further
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or suggestions
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: feedback_date
+        label: Feedback Date
+        hint: Date you submitted this feedback
+        type: date
+        options: []
+        required: true

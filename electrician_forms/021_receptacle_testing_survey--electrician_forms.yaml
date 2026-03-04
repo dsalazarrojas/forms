@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receptacle Testing Survey
+    pages:
+    - id: 1
+      name: receptacle_location
+      label: Receptacle location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: receptacle_identifier
+      label: Receptacle identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_time
+      label: Test time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_result
+      label: Test result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issues_found
+      label: Issues found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_inspector
+      label: Safety inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_manager
+      label: Facility manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: electrician
+      label: Electrician
+      hint: null
+      type: text
+      options: []
+      required: false

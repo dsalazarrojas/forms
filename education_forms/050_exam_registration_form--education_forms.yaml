@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: student_type
+      label: Student Type
+      hint: Select a student type
+      type: select_one
+      options:
+      - '{''value'': ''Student''}'
+      - '{''value'': ''Parent''}'
+      - '{''value'': ''Guardian''}'
+      required: true
+    - id: 5
+      name: test_id
+      label: Test ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: exam_type
+      label: Exam Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Theory''}'
+      - '{''value'': ''Practical''}'
+      - '{''value'': ''Both''}'
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: true

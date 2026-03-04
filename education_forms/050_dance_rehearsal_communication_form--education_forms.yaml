@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Rehearsal Communication Form
+    pages:
+    - id: 1
+      name: title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: Choose a category
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rehearsal_schedule
+      label: Rehearsal Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 8
+      name: important_updates
+      label: Important Updates
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjenny
+      required: false
+    - id: 12
+      name: form_id
+      label: Form Id
+      hint: null
+      type: text
+      options: []
+      required: false

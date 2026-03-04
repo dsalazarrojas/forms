@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case-Based Discussion Assessment Form
+    pages:
+    - id: 1
+      name: section_assessment_info
+      label: -- Assessment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainee_level
+      label: Year of Training
+      hint: current residency or fellowship year
+      type: select_one
+      options:
+      - Year 1
+      - Year 2
+      - Year 3
+      - Year 4
+      - Fellow
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_discussion
+      label: Date of Discussion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_case_details
+      label: -- Clinical Case Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: case_summary_id
+      label: Case Summary ID or Clinical Topic
+      hint: identify the case discussed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: complexity_level
+      label: Complexity of Case
+      hint: select based on patient factors and diagnosis
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 9
+      name: clinical_setting
+      label: Clinical Setting
+      hint: where did this case take place?
+      type: select_one
+      options:
+      - Inpatient
+      - Outpatient
+      - Emergency
+      - Surgical
+      - Critical Care
+      required: true
+    - id: 10
+      name: section_competencies
+      label: -- Competency Ratings --
+      hint: rate from 1 (unacceptable) to 5 (exceptional)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: clinical_record_keeping
+      label: Clinical Record Keeping
+      hint: quality of documentation
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: diagnostic_reasoning
+      label: Diagnostic Reasoning and Clinical Logic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: treatment_planning
+      label: Selection and Planning of Management or Treatment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: professional_judgment
+      label: Professional Judgment and Decision Making
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: patient_focus
+      label: Consideration of Patient Values and Holistic Care
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_feedback
+      label: -- Feedback and Action Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: strengths_observed
+      label: What were the trainee's primary strengths in this case?
+      hint: be specific about clinical skills
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: areas_for_development
+      label: Identified areas for development or further learning
+      hint: bottlenecks or gaps in knowledge
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agreed_action_plan
+      label: Agreed Action Plan for the trainee
+      hint: follow-up steps or study areas
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_overall_eval
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: global_rating
+      label: Global rating of performance in this Case-Based Discussion
+      hint: based on training level
+      type: select_one
+      options:
+      - Below Expectations
+      - At Expectations
+      - Above Expectations
+      required: true
+    - id: 22
+      name: completion_time
+      label: Total time spent on discussion (minutes)
+      hint: duration of the assessment
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_auth
+      label: -- Authentication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: assessor_signature
+      label: Assessor Digital Signature
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: trainee_acknowledgment
+      label: Trainee Digital Acknowledgment
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

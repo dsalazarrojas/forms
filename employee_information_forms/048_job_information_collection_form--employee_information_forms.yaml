@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Information Collection Form
+    pages:
+    - id: 1
+      name: employee_form
+      label: Employee Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: work_start_date
+      label: Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: work_end_date
+      label: Work End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: job_type_other
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_title_other
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 21
+      name: job_type_other_desc
+      label: Job Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_title_other_desc
+      label: Job Title Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_description_other
+      label: Job Description Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_other
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_position_other
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contingent Worker Data Form
+    pages:
+    - id: 1
+      name: worker_identity_header
+      label: -- Worker Identity and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: worker_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identity verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address_personal
+      label: Personal Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number_mobile
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employment_details_header
+      label: -- Employment and Assignment --
+      hint: Information about your role and agency
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employment_agency_name
+      label: Staffing Agency Name
+      hint: Enter 'Independent' if self-employed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_job_title
+      label: Assignment Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_start_date
+      label: Targeted Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: assignment_end_date_est
+      label: Estimated End Date
+      hint: Leave blank if indefinite/ongoing
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: onboarding_logistics_header
+      label: -- Onboarding and Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: equipment_required
+      label: Equipment and Access Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Company Laptop
+      - VPN/Remote Access
+      - Physical Building Badge
+      - Corporate Email Account
+      - Slack/Teams Access
+      - Specialized Software License
+      required: true
+    - id: 13
+      name: supervisor_name
+      label: Hiring Manager/Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tax_documentation_check
+      label: Tax Forms (W-9 or W-8BEN) Submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes - Uploaded to HR Portal
+      - No - Will bring on first day
+      required: true
+    - id: 15
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_full_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse/Partner
+      - Parent
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 18
+      name: worker_signature_auth
+      label: I confirm the information provided is accurate
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

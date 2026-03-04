@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: photovoltaic_system_evaluation
+    pages:
+    - id: 1
+      name: site_info
+      label: Site Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roof_info
+      label: Roof Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_info
+      label: Usage Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: solar_panel_info
+      label: Solar Panel Information
+      hint: null
+      type: select_one
+      options:
+      - Panel A
+      - Panel B
+      - Panel C
+      required: true
+    - id: 5
+      name: system_size
+      label: System Size
+      hint: System size in kW
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: inverter_info
+      label: Inverter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mounting_info
+      label: Mounting Information
+      hint: null
+      type: select_one
+      options:
+      - Balloon
+      - Balloon with Ground Mount
+      - Ground Mount
+      required: true
+    - id: 8
+      name: panel_orientation
+      label: Panel Orientation
+      hint: null
+      type: select_one
+      options:
+      - Horizontal
+      - Vertical
+      required: true
+    - id: 9
+      name: tilt_angle
+      label: Tilt Angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: panel_type
+      label: Panel Type
+      hint: null
+      type: select_one
+      options:
+      - Conventional
+      - Thin Film
+      required: true
+    - id: 11
+      name: panel_wattage
+      label: Panel Wattage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: system_rating
+      label: System Rating
+      hint: System rating in kW
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: inverter_rating
+      label: Inverter Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: mounting_type
+      label: Mounting Type
+      hint: null
+      type: select_one
+      options:
+      - Balloon
+      - Balloon with Ground Mount
+      - Ground Mount
+      required: true
+    - id: 15
+      name: tilt_angle
+      label: Tilt Angle
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - Grid Tie
+      - Off Grid
+      required: true
+    - id: 17
+      name: installation_details
+      label: Installation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agreement_info
+      label: Agreement and Liability Waivers
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signatures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: photovoltaic_system_evaluation
+      label: Photovoltaic System Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: photovoltaic_system_notes
+      label: Photovoltaic System Notes
+      hint: null
+      type: text
+      options: []
+      required: false

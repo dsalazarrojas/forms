@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Phone Arrangement Survey
+    pages:
+    - id: 1
+      name: work_phone_arrangement_survey
+      label: work_phone_arrangement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile Phone
+      - Desk Phone
+      - Laptop
+      required: true
+    - id: 3
+      name: phone_use
+      label: do_you_use_your_work_phone_at_home
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: company_phone
+      label: do_you_own_a_companies_phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: company_phone_use
+      label: do_you_use_your_companies_phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: support_use
+      label: how_much_do_you_use_the_phone_support
+      hint: null
+      type: select_one
+      options:
+      - Not Needed
+      - Rarely
+      - Occasionally
+      - Often
+      - Always
+      required: true
+    - id: 7
+      name: support_time
+      label: how_much_time_do_you_spend_with_phone_support
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: support_quality
+      label: how_would_you_rate_the_quality_of_phone_support
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: support_friendly
+      label: how_friendly_are_phone_supports
+      hint: null
+      type: select_one
+      options:
+      - Not Friendly
+      - Neutral
+      - Friendly
+      required: true
+    - id: 10
+      name: support_helpful
+      label: how_helpful_are_phone_supports
+      hint: null
+      type: select_one
+      options:
+      - Not Helpful
+      - A Little Helpful
+      - Helpful
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: category_2
+      label: category_2
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile Phone
+      - Desk Phone
+      - Laptop
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

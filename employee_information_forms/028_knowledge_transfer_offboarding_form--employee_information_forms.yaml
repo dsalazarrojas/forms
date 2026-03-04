@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: knowledge_transfer_offboarding_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_departure
+      label: date_of_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: knowledge_transfer_date
+      label: knowledge_transfer_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: knowledge_transfer
+      label: knowledge_transfer
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: knowledge_transfer_status
+      label: knowledge_transfer_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: completed
+      label: completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: completed_by
+      label: completed
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

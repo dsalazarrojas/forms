@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Survey
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What was the most useful part of the curriculum?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: What was the most difficult part of the curriculum?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: How would you rate the overall quality of the curriculum?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: Was the curriculum delivered in a way that was clear and concise?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 6
+      name: question_5
+      label: Was the curriculum delivered in a way that was relevant to your goals
+        and objectives?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 7
+      name: question_6
+      label: How would you rate the overall delivery of the curriculum?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: question_7
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: Was the curriculum delivered by a qualified instructor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 11
+      name: question_10
+      label: Was the curriculum delivered in a way that was engaging?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 12
+      name: question_11
+      label: Would you recommend this curriculum to others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false

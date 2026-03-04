@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Data Sharing Attitudes Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full name
+      hint: Provide your full name for follow up if needed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: affiliation
+      label: Institution or affiliation
+      hint: University, research group, or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Institutional or preferred email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Primary role
+      hint: Select the option that best describes your role
+      type: select_one
+      options:
+      - Student
+      - Postdoctoral researcher
+      - Faculty
+      - Librarian
+      - Research staff
+      - Other
+      required: true
+    - id: 5
+      name: disciplinary_area
+      label: Disciplinary area
+      hint: Main academic discipline
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: past_data_sharing_experience
+      label: Have you shared research data previously
+      hint: Includes data shared via repositories, supplements, or upon request
+      type: select_one
+      options:
+      - Yes frequently
+      - Yes occasionally
+      - No but plan to
+      - No and do not plan to
+      required: true
+    - id: 7
+      name: willingness_to_share_future
+      label: Willingness to share data for future research
+      hint: Rate your willingness on a 1 to 5 scale where 5 is very willing
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: perceived_barriers
+      label: Major barriers to sharing data
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Privacy or ethical concerns
+      - Lack of time or resources
+      - Legal or contractual restrictions
+      - Lack of repository or infrastructure
+      - Fear of being scooped
+      - Unclear citation or credit
+      required: false
+    - id: 9
+      name: desired_support
+      label: Support that would increase data sharing
+      hint: Select up to three options
+      type: select_multiple
+      options:
+      - Data management training
+      - Funding for data curation
+      - Institutional policies and guidance
+      - Repository recommendations
+      - Clear citation guidelines
+      - Technical support
+      required: false
+    - id: 10
+      name: data_types_shared
+      label: Types of data you are willing to share
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Publications and code
+      - Quantitative datasets
+      - Qualitative datasets
+      - Sensitive or restricted data
+      - Metadata only
+      required: false
+    - id: 11
+      name: preferred_repositories
+      label: Preferred repositories or platforms
+      hint: Name repositories or platforms used or preferred
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: Provide any further thoughts on data sharing
+      type: note
+      options: []
+      required: false

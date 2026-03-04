@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Planning Form
+    pages:
+    - id: 1
+      name: class_details
+      label: class_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject_areas
+      label: subject_areas
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: subject_areas_hint
+      label: subject_areas_hint
+      hint: What are the subject areas you will be teaching?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teaching_methods
+      label: teaching_methods
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: teaching_methods_hint
+      label: teaching_methods_hint
+      hint: How will you be teaching the subject?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: curriculum_plan
+      label: curriculum_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: class_size
+      label: class_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: class_start_date
+      label: class_start_date
+      hint: null
+      type: date
+      options: []
+      required: false

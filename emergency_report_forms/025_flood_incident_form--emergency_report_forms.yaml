@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: flood_incident_form
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: Provide a brief description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flood_type
+      label: Flood Type
+      hint: null
+      type: select_multiple
+      options:
+      - Flood
+      - Landslide
+      - Storm Surge
+      - Tsunami
+      - Coastal Erosion
+      - Dam Failure
+      - Dam Breach
+      - Inland Flood
+      - Overflow of a Dam
+      - Overflow of a Lake or Reservoir
+      - Overflow of a River
+      - Overflow of a Canal
+      - Overflow of a Pond
+      - Overflow of a Sewer
+      - Overflow of a Levee
+      - Overflow of a Culvert
+      - Overflow of a Dam/Barrage
+      - Overflow of a Reservoir
+      - Overflow of an Impoundment
+      - Overflow of a Lake/Reservoir
+      - Overflow of a Pond/Sinkhole
+      required: true
+    - id: 6
+      name: affected_area
+      label: Affected Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: affected_population
+      label: Affected Population
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_image_url
+      label: Incident Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_video_url
+      label: Incident Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_audio_url
+      label: Incident Audio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_attachment
+      label: Incident Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: flood_level
+      label: Flood Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: severity
+      label: Severity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: flood_impact
+      label: Flood Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: flood_damage
+      label: Flood Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: affected_structures
+      label: Affected Structures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: affected_infrastructure
+      label: Affected Infrastructure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: affected_utilities
+      label: Affected Utilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: affected_environmental_hazards
+      label: Affected Environmental Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: affected_economic_impact
+      label: Affected Economic Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: affected_social_impact
+      label: Affected Social Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: affected_health_impact
+      label: Affected Health Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: text
+      options: []
+      required: false

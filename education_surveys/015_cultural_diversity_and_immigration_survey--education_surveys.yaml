@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Diversity And Immigration Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: country_of_origin
+      label: country_of_origin
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USA''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: language_spoken
+      label: language_spoken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Elementary''}'
+      - '{''label'': ''High school''}'
+      - '{''label'': ''College''}'
+      - '{''label'': ''University''}'
+      required: false
+    - id: 7
+      name: years_in_us
+      label: years_in_us
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: language_spoken_other
+      label: language_spoken_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: how_long_in_us
+      label: how_long_in_us
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: what_do_you_think_is_most_important
+      label: what_do_you_think_is_most_important
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: what_do_you_believe_is_most_challenging
+      label: what_do_you_believe_is_most_challenging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: what_do_you_believe_is_most_important
+      label: what_do_you_believe_is_most_important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 13
+      name: do_you_agree
+      label: do_you_agree
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Neither Agree nor Disagree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

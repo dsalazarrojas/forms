@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: religious_education_feedback_survey
+    pages:
+    - id: 1
+      name: program_feedback
+      label: Program Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 2
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Primary School
+      - High School
+      - College/University
+      - Other
+      required: true
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: How satisfied are you with the program?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvements
+      label: Improvements
+      hint: What improvements would you suggest for the program?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true
+    - id: 8
+      name: feedback_question
+      label: Feedback
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: program_interest
+      label: Program Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, I am interested in this program
+      - No, not interested in this program
+      required: true
+    - id: 10
+      name: program_recommendation
+      label: Program Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Recommend this program to friends
+      - Recommend this program to family
+      - Don't recommend this program
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

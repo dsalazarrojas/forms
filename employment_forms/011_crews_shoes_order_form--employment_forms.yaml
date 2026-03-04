@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: crews_shoes_order_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_note
+      label: order_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: size
+      label: employee_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''Replacement''}'
+      - '{''label'': ''Repair''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: status
+      label: order_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''New'', ''selected'': True}'
+      - '{''label'': ''Open'', ''selected'': False}'
+      - '{''label'': ''In Progress'', ''selected'': False}'
+      - '{''label'': ''Done'', ''selected'': False}'
+      required: false
+    - id: 9
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shoe_type
+      label: shoe_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dress''}'
+      - '{''label'': ''Athletic''}'
+      - '{''label'': ''Boots''}'
+      - '{''label'': ''Sandals''}'
+      - '{''label'': ''Sneakers''}'
+      required: false
+    - id: 13
+      name: color
+      label: shoe_color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Black''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Brown''}'
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Green''}'
+      - '{''label'': ''Yellow''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: brand
+      label: shoe_brand
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Converse''}'
+      - '{''label'': ''Vans''}'
+      - '{''label'': ''Adidas''}'
+      - '{''label'': ''Nike''}'
+      - '{''label'': ''Others''}'
+      required: false
+    - id: 15
+      name: quantity
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shoe_size
+      label: shoe_size
+      hint: null
+      type: number
+      options: []
+      required: false

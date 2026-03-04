@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Email Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mobile_phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allow_marketing_messages
+      label: Allow Marketing Messages
+      hint: null
+      type: select_multiple
+      options:
+      - Text Message
+      - Call
+      - Email
+      - Mobile App Push
+      - SMS
+      required: false
+    - id: 5
+      name: allow_email
+      label: Allow Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: allow_text
+      label: Allow Text Messages
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: allow_call
+      label: Allow Calls
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: allow_mobile_app_push
+      label: Allow Mobile App Push
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: allow_sms
+      label: Allow SMS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: allow_notification
+      label: Allow Notification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: allow_email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 3 days
+      - Every 2 days
+      - Monthly
+      required: false
+    - id: 14
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly
+      - Weekly
+      required: false
+    - id: 15
+      name: text_message_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      required: false
+    - id: 16
+      name: text_message_notification
+      label: Text Message Notification
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly
+      - Weekly
+      required: false
+    - id: 17
+      name: call_notification
+      label: Call Notification
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly
+      - Weekly
+      required: false
+    - id: 18
+      name: mobile_app_push_notification
+      label: Mobile App Push Notification
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly
+      - Weekly
+      required: false
+    - id: 19
+      name: mobile_app_push_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      required: false
+    - id: 20
+      name: sms_notification
+      label: SMS Notification
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly
+      - Weekly
+      required: false
+    - id: 21
+      name: sms_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      required: false
+    - id: 22
+      name: terms_and_conditions
+      label: Accept Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

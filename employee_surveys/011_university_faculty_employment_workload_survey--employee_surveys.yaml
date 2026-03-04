@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Faculty Employment Workload Survey
+    pages:
+    - id: 1
+      name: teaching
+      label: Teaching Activities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: research
+      label: Research Projects
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: service
+      label: Service Responsibilities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_one
+      options:
+      - '40'
+      - 20-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60 or more
+      required: true
+    - id: 5
+      name: teaching_aid
+      label: Teaching Aid
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - Full-time
+      required: true
+    - id: 6
+      name: workload_trend
+      label: How would you describe your workload trend over the past 6 months?
+      hint: null
+      type: select_one
+      options:
+      - Decreased
+      - Increased
+      - Remained constant
+      required: true
+    - id: 7
+      name: support_request
+      label: Have you requested or would you request support from the University for
+        your workload?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 8
+      name: institutional_support
+      label: Have you received institutional support for your workload?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 9
+      name: department_aid
+      label: Do you have access to departmental support for your workload?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: university_faculty_employment_workload_survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: teaching_hours_workload
+      label: How many hours do you work per week on teaching-related activities?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: research_hours_workload
+      label: How many hours do you work per week on research-related activities?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: service_hours_workload
+      label: How many hours do you work per week on service-related activities?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: teaching_aid_aid
+      label: Teaching Aid
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - Full-time
+      required: true
+    - id: 17
+      name: workload_trend_trend
+      label: How would you describe your workload trend over the past 6 months?
+      hint: null
+      type: select_one
+      options:
+      - Decreased
+      - Increased
+      - Remained constant
+      required: true
+    - id: 18
+      name: support_request_request
+      label: Have you ever requested support from the University for your workload?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 19
+      name: institutional_support_support
+      label: Have you ever received institutional support for your workload?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 20
+      name: departmental_support
+      label: Do you have access to departmental support for your workload?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: university_faculty_employment_workload_survey_other_comments
+      label: Other Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: email_aid
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: phone_aid
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: other_aid
+      label: Other Aid
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - Full-time
+      required: true

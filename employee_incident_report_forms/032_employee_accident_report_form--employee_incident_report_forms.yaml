@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Accident Report Form
+    pages:
+    - id: 1
+      name: accident_date
+      label: Accident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: accident_time
+      label: Accident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: accident_location
+      label: Accident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

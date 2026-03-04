@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 NOLA PS OneApp Match
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: '--- Applicant & Household Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student full name
+      hint: Enter the student's legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact email address
+      hint: Preferred email for match notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact phone number
+      hint: Include area code, e.g., (504) 555-0123
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: student_date_of_birth
+      label: Student date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_grade
+      label: Current grade level
+      hint: Enter numeric grade (e.g., 8 for eighth grade)
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: current_school
+      label: Current school name
+      hint: Leave blank if not currently enrolled
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: applied_schools
+      label: Schools applied to (select all that apply)
+      hint: Select every school you included in your OneApp ranking
+      type: select_multiple
+      options:
+      - Audubon Charter School
+      - SciTech Preparatory
+      - Crescent Early College
+      - Bywater Community School
+      - Uptown Leadership Academy
+      required: true
+    - id: 10
+      name: ranking_method
+      label: How were schools ranked on your OneApp?
+      hint: null
+      type: select_one
+      options:
+      - True preference ranking (1 = top choice)
+      - Priority by program/offerings
+      - Assigned by counselor/family
+      - No formal ranking
+      required: true
+    - id: 11
+      name: application_submission_date
+      label: Application submission date
+      hint: Date the OneApp was submitted
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: match_outcome
+      label: Match outcome (if known)
+      hint: Select the current known result; leave blank if pending
+      type: select_one
+      options:
+      - Matched to top choice
+      - Matched to another ranked choice
+      - Waitlisted
+      - Not matched
+      - Pending
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: How satisfied are you with 2021 NOLA PS OneApp Match?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: experience_aspects
+      label: Which aspects applied to your experience with 2021 NOLA PS OneApp Match?
+        (select all)
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 16
+      name: gpa_decimal
+      label: Reported GPA (if applicable)
+      hint: Use 0.00 - 4.00 scale; leave blank if not applicable
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Does the student have any special needs or accommodations?
+      hint: Briefly describe or select "None"
+      type: select_one
+      options:
+      - None
+      - IEP / Special education services
+      - 504 plan
+      - English language learner supports
+      - Other accommodations required
+      required: false
+    - id: 18
+      name: consent_contact
+      label: May the district contact you for follow-up about this submission?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: improvement_suggestions
+      label: What would you improve or change about 2021 NOLA PS OneApp Match?
+      hint: Provide specific suggestions where possible
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Optional
+      type: text
+      options: []
+      required: false

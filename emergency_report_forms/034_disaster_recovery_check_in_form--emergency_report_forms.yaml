@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Check In Form
+    pages:
+    - id: 1
+      name: disaster_recovery_check_in_form
+      label: Emergency Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: individual_name
+      label: Individual Name
+      hint: Enter individual's name.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship to Individual
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Sibling
+      - Child
+      - Other
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_method
+      label: Would You Like to be Contacted
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - SMS
+      - Do Not Contact
+      required: false
+    - id: 10
+      name: contact_preference
+      label: What Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: contact_method_preferred
+      label: Preferred Contact Method
+      hint: Select preferred contact method from above
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - SMS
+      required: false
+    - id: 12
+      name: message
+      label: Message to Leave
+      hint: Enter a message for the individual or family affected
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_status
+      label: Emergency Status
+      hint: Select emergency status of individual or family
+      type: select_multiple
+      options:
+      - No Emergency
+      - Emergency Response Needed
+      - Sheltered
+      - Evacuated
+      - Deceased
+      required: false
+    - id: 14
+      name: shelter_status
+      label: Shelter Status
+      hint: null
+      type: select_one
+      options:
+      - Sheltered
+      - Not Sheltered
+      required: false
+    - id: 15
+      name: shelter_location
+      label: Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shelter_address
+      label: Shelter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shelter_contact_number
+      label: Shelter Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shelter_name
+      label: Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shelter_name
+      label: Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shelter_number
+      label: Shelter Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shelter_address
+      label: Shelter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shelter_contact_name
+      label: Shelter Contact Name
+      hint: Name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shelter_contact_number
+      label: Shelter Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shelter_contact_method
+      label: Shelter Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - SMS
+      required: false
+    - id: 25
+      name: shelter_contact_number
+      label: Shelter Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: shelter_contact_method
+      label: Shelter Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_terms_questionnaire
+    pages:
+    - id: 1
+      name: employee_id
+      label: new_employees_info_employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: department_id
+      label: new_employees_info_department_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employee_status
+      label: new_employees_info_employee_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: overtime_work
+      label: overtime_work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_from_home
+      label: work_from_home
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: flex_time
+      label: flex_time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_requirements
+      label: job_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resume
+      label: resume
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: ssn
+      label: ssn
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: drivers_license
+      label: drivers_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_cert
+      label: medical_cert
+      hint: null
+      type: note
+      options: []
+      required: false

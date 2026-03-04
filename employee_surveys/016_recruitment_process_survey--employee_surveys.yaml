@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Process Survey
+    pages:
+    - id: 1
+      name: candidate_experience
+      label: candidate_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_ad
+      label: job_ad
+      hint: Job ad
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: communication
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: candidate_satisfaction
+      label: candidate_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very satisfied''}'
+      - '{''value'': ''Somewhat satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat dissatisfied''}'
+      - '{''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''In Person''}'
+      - '{''value'': ''Phone''}'
+      required: false
+    - id: 12
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''In Person''}'
+      required: false
+    - id: 15
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_type
+      label: job_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_category
+      label: job_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_subcategory
+      label: job_subcategory
+      hint: null
+      type: text
+      options: []
+      required: false

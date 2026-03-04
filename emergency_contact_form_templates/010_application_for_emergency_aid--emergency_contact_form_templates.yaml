@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Emergency Aid
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of emergency aid application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: University student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: University or personal email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Current enrollment status
+      type: select_one
+      options:
+      - Full-Time Undergraduate
+      - Part-Time Undergraduate
+      - Full-Time Graduate
+      - Part-Time Graduate
+      - Doctoral Candidate
+      required: true
+    - id: 9
+      name: major_field_of_study
+      label: Major Field of Study
+      hint: Your major or program
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_graduation
+      label: Expected Graduation
+      hint: Expected graduation date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: emergency_type
+      label: Emergency Type
+      hint: Type of emergency you are experiencing
+      type: select_one
+      options:
+      - Medical Emergency
+      - Housing Emergency
+      - Food Insecurity
+      - Transportation Emergency
+      - Family Emergency
+      - Natural Disaster
+      - Financial Hardship
+      - Other
+      required: true
+    - id: 12
+      name: emergency_description
+      label: Emergency Description
+      hint: Describe your emergency situation
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_date
+      label: Emergency Date
+      hint: When did this emergency occur
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: amount_requested
+      label: Amount Requested
+      hint: Amount of emergency aid requested
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: funds_purpose
+      label: Funds Purpose
+      hint: How will the funds be used
+      type: select_one
+      options:
+      - Housing Rent
+      - Utilities
+      - Food
+      - Medical Expenses
+      - Transportation
+      - Textbooks
+      - Tuition
+      - Other
+      required: true
+    - id: 16
+      name: funds_purpose_details
+      label: Funds Purpose Details
+      hint: Provide more details about fund usage
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_gpa
+      label: Current GPA
+      hint: Your current grade point average
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: financial_aid_status
+      label: Financial Aid Status
+      hint: Current financial aid status
+      type: select_one
+      options:
+      - Receiving Financial Aid
+      - Applied - Pending
+      - Not Receiving Financial Aid
+      - Not Eligible
+      required: true
+    - id: 19
+      name: other_support_received
+      label: Other Support Received
+      hint: Have you received other emergency support
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: other_support_details
+      label: Other Support Details
+      hint: Describe other support received
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: household_size
+      label: Household Size
+      hint: Number of people in your household
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: dependents
+      label: Dependents
+      hint: Do you have dependents
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: dependents_details
+      label: Dependents Details
+      hint: Provide details about dependents
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employment_status
+      label: Employment Status
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Unemployed
+      - Self-Employed
+      required: true
+    - id: 25
+      name: monthly_income
+      label: Monthly Income
+      hint: Total monthly income
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: Total monthly expenses
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: List documents you will provide
+      type: select_multiple
+      options:
+      - Medical Bills
+      - Eviction Notice
+      - Utility Bills
+      - Pay Stubs
+      - Bank Statements
+      - Police Report
+      - Insurance Claims
+      - Other
+      required: false
+    - id: 28
+      name: repayment_ability
+      label: Repayment Ability
+      hint: Can you repay if this is a loan
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: certify_accuracy
+      label: Certify Accuracy
+      hint: I certify that all information is accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

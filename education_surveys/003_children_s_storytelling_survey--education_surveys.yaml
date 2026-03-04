@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Children's Storytelling Survey
+    pages:
+      - id: 1
+        name: respondent_information
+        label: Respondent Information
+        hint: Tell us about yourself
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - you may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 5 years
+          - 5-7 years
+          - 8-10 years
+          - 11-13 years
+          - 14-17 years
+          - Parent responding for child
+        required: true
+      - id: 4
+        name: school_or_organization
+        label: School or Organization
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: reading_habits
+        label: Reading Habits
+        hint: Let us know about your reading preferences
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: reading_frequency
+        label: How often do you read or are read to
+        hint: null
+        type: select_one
+        options:
+          - Every day
+          - Several times a week
+          - Once a week
+          - A few times a month
+          - Rarely
+          - Never
+        required: true
+      - id: 7
+        name: favorite_genres
+        label: Favorite Story Genres
+        hint: Select all that you enjoy
+        type: select_multiple
+        options:
+          - Fairy Tales
+          - Adventure Stories
+          - Mystery
+          - Science Fiction
+          - Fantasy
+          - Animal Stories
+          - Historical Fiction
+          - Funny Stories
+          - Poetry
+          - Non-fiction
+        required: true
+      - id: 8
+        name: favorite_book
+        label: What is your favorite book or story
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: storytelling_preferences
+        label: Storytelling Preferences
+        hint: How do you prefer to experience stories
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: preferred_format
+        label: Preferred Story Format
+        hint: Select your favorite
+        type: select_one
+        options:
+          - Being read to by an adult
+          - Reading independently
+          - Listening to audiobooks
+          - Watching story videos
+          - Interactive digital stories
+          - Live storytelling events
+        required: true
+      - id: 11
+        name: story_length_preference
+        label: Preferred Story Length
+        hint: null
+        type: select_one
+        options:
+          - Very short (5 minutes or less)
+          - Short (5-15 minutes)
+          - Medium (15-30 minutes)
+          - Long (30-60 minutes)
+          - Very long (over 1 hour)
+        required: false
+      - id: 12
+        name: favorite_characters
+        label: What types of characters do you enjoy most
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Animals
+          - Children my age
+          - Superheroes
+          - Magical creatures
+          - Historical figures
+          - Family members
+          - Made-up creatures
+        required: false
+      - id: 13
+        name: engagement_feedback
+        label: Engagement and Participation
+        hint: Your thoughts on storytelling activities
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: storytelling_events_attended
+        label: Have you attended any storytelling events
+        hint: null
+        type: select_one
+        options:
+          - Yes, many times
+          - Yes, a few times
+          - Once
+          - No, but I would like to
+          - No, not interested
+        required: true
+      - id: 15
+        name: what_enjoys_most
+        label: What do you enjoy most about stories
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: what_improves
+        label: What would make storytelling more enjoyable
+        hint: Suggestions welcome
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: library_usage
+        label: Library and Book Access
+        hint: Your access to books and libraries
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: visits_library
+        label: How often do you visit the library
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - A few times a year
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: books_at_home
+        label: Approximately how many books are in your home
+        hint: null
+        type: select_one
+        options:
+          - Less than 10
+          - 10-25 books
+          - 26-50 books
+          - 51-100 books
+          - More than 100 books
+        required: false
+      - id: 20
+        name: recommendations
+        label: Would you like book recommendations
+        hint: null
+        type: select_one
+        options:
+          - Yes, please
+          - No, thank you
+        required: false
+      - id: 21
+        name: email_for_recommendations
+        label: Email for Book Recommendations
+        hint: Only if you want to receive recommendations
+        type: email
+        options: []
+        required: false
+      - id: 22
+        name: additional_feedback
+        label: Any Other Comments or Suggestions
+        hint: We value your feedback
+        type: text
+        options: []
+        required: false

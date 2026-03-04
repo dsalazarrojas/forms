@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On Giving And Receiving
+    pages:
+    - id: 1
+      name: feedback_on_giving_and_receiving
+      label: feedback_on_giving_and_receiving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: giving_feedback
+      label: giving_feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Effective''}'
+      - '{''id'': 2, ''value'': ''Ineffective''}'
+      - '{''id'': 3, ''value'': ''Neutral''}'
+      required: true
+    - id: 3
+      name: receiving_feedback
+      label: receiving_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Positive''}'
+      - '{''id'': 2, ''value'': ''Negative''}'
+      - '{''id'': 3, ''value'': ''Neutral''}'
+      required: false
+    - id: 4
+      name: challenges_giving_feedback
+      label: challenges_in_giving_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenges_receiving_feedback
+      label: challenges_in_receiving_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_improving_feedback
+      label: suggestions_for_improving_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

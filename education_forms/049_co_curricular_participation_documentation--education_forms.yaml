@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Curricular Participation Documentation
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: documentation_date
+      label: Documentation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School or Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current academic level
+      type: select_one
+      options:
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 6
+      name: activity_name
+      label: Co-Curricular Activity Name
+      hint: Name of activity or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: activity_type
+      label: Activity Type
+      hint: Select the type
+      type: select_one
+      options:
+      - Sports
+      - Arts and Performance
+      - Academic Club
+      - Community Service
+      - Leadership
+      - Cultural Organization
+      - Other
+      required: true
+    - id: 8
+      name: participation_start_date
+      label: Participation Start Date
+      hint: When did student join
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participation_end_date
+      label: Participation End Date
+      hint: If no longer active
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: hours_per_week
+      label: Average Hours Per Week
+      hint: Time commitment
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: leadership_role
+      label: Leadership Position Held
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: achievements
+      label: Achievements or Accomplishments
+      hint: Awards, recognitions, etc
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skills_developed
+      label: Skills Developed
+      hint: What skills gained from activity
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: advisor_name
+      label: Activity Advisor or Coach Name
+      hint: Supervising adult
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: advisor_contact
+      label: Advisor Email or Phone
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: supporting_evidence
+      label: Supporting Evidence Attached
+      hint: Photos, certificates, etc
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Submit Later
+      required: true

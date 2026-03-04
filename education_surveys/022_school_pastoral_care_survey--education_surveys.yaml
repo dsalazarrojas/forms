@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Pastoral Care Survey
+    pages:
+    - id: 1
+      name: student_input
+      label: Student Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parent_input
+      label: Parent Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: staff_input
+      label: Staff Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wellbeing_support
+      label: How would you rate the wellbeing support of the school?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: overall_satisfaction
+      label: Overall satisfaction with school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_and_comments
+      label: Suggestions and comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_collection
+      label: Data collection for school improvements
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: submission_feedback
+      label: How would you like to submit feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_completion
+      label: Time of completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_group
+      label: Student group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: staff
+      label: Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parent_name
+      label: Parent name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email_school
+      label: Email of school
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_school
+      label: Phone of school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_of_birth_student
+      label: Date of birth of student
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_of_completion_student
+      label: Time of completion of student
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: student_parent_staff
+      label: Student, parent or staff
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - Staff
+      required: true
+    - id: 24
+      name: submission_method
+      label: How would you like to submit your form?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 25
+      name: submission_status
+      label: Form submission status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false

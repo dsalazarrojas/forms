@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Be Verb And Subjects Quiz
+    pages:
+      - id: 1
+        name: student_info_header
+        label: -- English Grammar Quiz --
+        hint: Test your knowledge of 'to be' verbs and subjects.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: quiz_questions_header
+        label: -- Complete the Sentences --
+        hint: Choose the correct form of the verb 'to be' (am, is, are)
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: q1_i_am
+        label: I ______ a student at the local college.
+        hint: null
+        type: select_one
+        options:
+          - am
+          - is
+          - are
+        required: true
+      - id: 5
+        name: q2_they_are
+        label: They ______ very happy about the good news.
+        hint: null
+        type: select_one
+        options:
+          - am
+          - is
+          - are
+        required: true
+      - id: 6
+        name: q3_she_is
+        label: She ______ my best friend from high school.
+        hint: null
+        type: select_one
+        options:
+          - am
+          - is
+          - are
+        required: true
+      - id: 7
+        name: q4_it_is
+        label: It ______ a beautiful day for a walk in the park.
+        hint: null
+        type: select_one
+        options:
+          - am
+          - is
+          - are
+        required: true
+      - id: 8
+        name: q5_plural_are
+        label: The books ______ on the top shelf of the library.
+        hint: null
+        type: select_one
+        options:
+          - am
+          - is
+          - are
+        required: true
+      - id: 9
+        name: q6_negative_is_not
+        label: He ______ not interested in watching the movie tonight.
+        hint: null
+        type: select_one
+        options:
+          - am
+          - is
+          - are
+        required: true
+      - id: 10
+        name: q7_question_are_you
+        label: ______ you ready to go to the party?
+        hint: null
+        type: select_one
+        options:
+          - Am
+          - Is
+          - Are
+        required: true
+      - id: 11
+        name: q8_subject_selection
+        label: Select the correct subject for the verb - '______ is a doctor.'
+        hint: null
+        type: select_one
+        options:
+          - They
+          - We
+          - He
+          - You
+        required: true
+      - id: 12
+        name: feedback_request
+        label: Do you find English grammar difficult?
+        hint: null
+        type: select_one
+        options:
+          - Very Difficult
+          - Somewhat Difficult
+          - Easy
+        required: false
+      - id: 13
+        name: submission_date
+        label: Date of Quiz
+        hint: null
+        type: date
+        options: []
+        required: true

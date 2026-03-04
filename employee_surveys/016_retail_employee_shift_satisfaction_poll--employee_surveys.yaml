@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Shift Satisfaction Poll
+    pages:
+    - id: 1
+      name: retail_employee_shift_satisfaction_poll_form
+      label: Retail Employee Shift Satisfaction Poll Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_hours_worked
+      label: Shift Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feel_good_about_work
+      label: Feel Good About Work
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_frustrating''}'
+      - '{''value'': ''somewhat_frustrating''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''somewhat_satisfying''}'
+      - '{''value'': ''very_satisfying''}'
+      required: false
+    - id: 5
+      name: feel_helped_by_supervisor
+      label: Feel Helped By Supervisor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''not_at_all''}'
+      - '{''value'': ''somewhat''}'
+      - '{''value'': ''quite_a_bit''}'
+      - '{''value'': ''very_much''}'
+      required: false
+    - id: 6
+      name: feel_helped_by_colleagues
+      label: Feel Helped By Colleagues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''not_at_all''}'
+      - '{''value'': ''somewhat''}'
+      - '{''value'': ''quite_a_bit''}'
+      - '{''value'': ''very_much''}'
+      required: false
+    - id: 7
+      name: overall_feelings
+      label: Overall Feelings
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_bad''}'
+      - '{''value'': ''somewhat_bad''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''somewhat_good''}'
+      - '{''value'': ''very_good''}'
+      required: false
+    - id: 8
+      name: shift_comments
+      label: Shift Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fintech Software Engineer Job Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skills
+      label: Skills
+      hint: comma separated list of skills (e.g., java, python, html, css)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bachelors''}'
+      - '{''id'': 2, ''label'': ''Masters''}'
+      - '{''id'': 3, ''label'': ''Phd''}'
+      required: true
+    - id: 9
+      name: available_to_work
+      label: Available to work in
+      hint: Location (city, country, or region)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: languages
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''Mandarin''}'
+      required: true
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Software Engineer'', ''value'': ''software-engineer''}'
+      - '{''id'': 2, ''label'': ''Software Development Team Manager'', ''value'':
+        ''software-development-team-manager''}'
+      - '{''id'': 3, ''label'': ''Data Scientist'', ''value'': ''data-scientist''}'
+      required: true
+    - id: 12
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full-Time'', ''value'': ''full-time''}'
+      - '{''id'': 2, ''label'': ''Part-Time'', ''value'': ''part-time''}'
+      - '{''id'': 3, ''label'': ''Remote'', ''value'': ''remote''}'
+      required: true
+    - id: 13
+      name: desired_salary
+      label: Desired Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: available_start_date
+      label: Available Start Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: notice_end_date
+      label: Notice End Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: available_language
+      label: Available Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''Mandarin''}'
+      required: true
+    - id: 20
+      name: available_holiday
+      label: Available Holiday
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      required: true
+    - id: 21
+      name: expected_salary
+      label: Expected Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: contract_length
+      label: Contract Length
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      required: true
+    - id: 24
+      name: job_type_status
+      label: Job Type Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''open''}'
+      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''closed''}'
+      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''in-progress''}'
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true

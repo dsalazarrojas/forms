@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Incident Report Form
+    pages:
+    - id: 1
+      name: warehouse_incident_date
+      label: Warehouse Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Theft
+      - Accident
+      - Vandalism
+      - Equipment malfunction
+      required: false
+    - id: 6
+      name: incident_investigation
+      label: incident investigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_reported_by
+      label: incident reported by
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse Manager
+      - Warehouse Foreman
+      - Warehouse Supervisor
+      - Warehouse Worker
+      required: false
+    - id: 8
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Solved
+      - In Progress
+      required: false

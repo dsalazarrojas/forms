@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Physics Professor Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physics_professor
+      label: Physics Professor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Professor A''}'
+      - '{''label'': ''Professor B''}'
+      - '{''label'': ''Professor C''}'
+      required: false
+    - id: 3
+      name: teaching_methods
+      label: Teaching Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online Lectures''}'
+      - '{''label'': ''Online Discussions''}'
+      - '{''label'': ''Video Lectures''}'
+      - '{''label'': ''In-Person Lectures''}'
+      required: false
+    - id: 4
+      name: course_evaluation
+      label: Course Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: course_comments
+      label: Course Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

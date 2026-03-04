@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Software Needs Survey
+    pages:
+    - id: 1
+      name: section_current_usage
+      label: -- Current Software Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_tools
+      label: Which software tools do you currently use for your academic work?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - MATLAB
+      - SPSS
+      - Adobe Creative Cloud
+      - Canvas or Moodle
+      - EndNote or Zotero
+      required: true
+    - id: 3
+      name: satisfaction_current_tools
+      label: How satisfied are you with the current tools provided by the institution?
+      hint: Overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 4
+      name: software_limitations
+      label: Describe any limitations you encounter with current software
+      hint: e.g. bugs, missing features, slow performance
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_new_needs
+      label: -- Identifying New Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requested_software
+      label: Is there a specific software tool you need that is not currently provided?
+      hint: Enter the name of the software
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_need
+      label: How often would you use this software?
+      hint: Estimated usage
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Once per Semester
+      required: false
+    - id: 8
+      name: importance_of_software
+      label: How critical is this software to your academic success?
+      hint: Level of necessity
+      type: select_one
+      options:
+      - High - Essential
+      - Medium - Helpful
+      - Low - Nice to have
+      required: false
+    - id: 9
+      name: primary_use_case
+      label: Primary use case for requested software
+      hint: What is the main task?
+      type: select_one
+      options:
+      - Data Analysis
+      - Writing or Research
+      - Design or Creative
+      - Coding or Development
+      - Collaboration
+      required: false
+    - id: 10
+      name: section_training
+      label: -- Accessibility and Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: training_required
+      label: Would you require training to use this new software?
+      hint: Technical support needs
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Maybe
+      required: false
+    - id: 12
+      name: access_device
+      label: Where do you primarily need to access academic software?
+      hint: Primary hardware
+      type: select_one
+      options:
+      - Personal Laptop
+      - University Computer Lab
+      - Remote or Cloud Access
+      required: true
+    - id: 13
+      name: additional_it_comments
+      label: Any other feedback for the IT department
+      hint: Optional suggestions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: K12 Attendance Form
+    pages:
+    - id: 1
+      name: student
+      label: Student
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendance_date
+      label: Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: attendance_time
+      label: Attendance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: teacher_absence
+      label: Teacher Absence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_absence
+      label: Student Absence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: late_tardiness
+      label: Late Tardiness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: early_leave
+      label: Early Leave
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reason_for_tardiness
+      label: Reason For Tardiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

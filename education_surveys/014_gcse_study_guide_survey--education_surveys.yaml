@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: GCSE Study Guide Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: what_is_the_survey_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject_area
+      label: what_subject_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guide_title
+      label: guide_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guide_type
+      label: guide_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: revision_notes
+      label: revision_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: revision_time
+      label: revision_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: difficulty_level
+      label: difficulty_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: helpfulness_score
+      label: helpfulness_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: useful_features
+      label: useful_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: not_useful_features
+      label: not_useful_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suggest_improvements
+      label: suggest_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_taken
+      label: time_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: select_one_subject_area
+      label: subject_area
+      hint: null
+      type: select_one
+      options:
+      - Mathematics
+      - Physics
+      - Chemistry
+      - Biology
+      - Geography
+      - History
+      - English
+      - Computer Science
+      required: false
+    - id: 20
+      name: select_multiple_useful_features
+      label: helpful_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      - Unsure
+      - Other
+      required: false
+    - id: 21
+      name: select_multiple_not_useful_features
+      label: not_useful_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      - Unsure
+      - Other
+      required: false
+    - id: 22
+      name: select_one_guides
+      label: guide_title
+      hint: null
+      type: select_one
+      options:
+      - GCSE Study Guide 1
+      - GCSE Study Guide 2
+      - GCSE Study Guide 3
+      required: false
+    - id: 23
+      name: select_multiple_usefulness_score
+      label: helpfulness_score
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 24
+      name: select_multiple_difficulty_level
+      label: difficulty_level
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 25
+      name: select_multiple_improvements
+      label: suggest_improvements
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      - Unsure
+      - Other
+      required: false

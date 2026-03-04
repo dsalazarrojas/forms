@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supported Tasks For Learners
+    pages:
+    - id: 1
+      name: supported_tasks
+      label: Supported Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: learner_support_needs
+      label: Learner Support Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: help_methods
+      label: Help Methods
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction_levels
+      label: Satisfaction Levels
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: other_help_methods
+      label: Other Help Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: learner_support_needs_other
+      label: Learner Support Needs (Other)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: learner_feedback
+      label: Learner Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction_levels_other
+      label: Satisfaction Levels (Other)
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: other_methods
+      label: Other Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: help_methods_other
+      label: Help Methods (Other)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Skills Upgrade Request Form
+    pages:
+    - id: 1
+      name: worker_skills_upgrade_request
+      label: Worker Skills Upgrade Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: Enter employee Id
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: manager_id
+      label: Manager Id
+      hint: Enter manager Id
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: skills_request
+      label: Upgrade request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_format
+      label: Training format preferred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_request
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_request
+      label: Time Requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: approved_by_manager
+      label: Manager Approval
+      hint: Select 1 for approval
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additonal Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: training_completed
+      label: Training completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: training_completed_date
+      label: Training completed on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: training_completed_time
+      label: Training completed at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_submitted_by
+      label: Form Submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: approved_time
+      label: Approved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: form_status
+      label: Form status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: form_status_comments
+      label: Form Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_id_2
+      label: Employee Id 2
+      hint: Enter employee Id 2
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: manager_id_2
+      label: Manager Id 2
+      hint: Enter manager Id 2
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: employee_id_3
+      label: Employee Id 3
+      hint: Enter employee Id 3
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: manager_id_3
+      label: Manager Id 3
+      hint: Enter manager Id 3
+      type: number
+      options: []
+      required: false

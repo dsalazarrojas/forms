@@ -1,0 +1,352 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Programs Enrollment Form
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: Date of birth for the student
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_grade_level
+      label: Current Grade Level
+      hint: What grade is the student currently in?
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: student_school
+      label: School Attended
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id_number
+      label: Student ID Number
+      hint: Student identification number (if available)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_selection_section
+      label: Program Selection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: selected_program
+      label: Select After-School Program
+      hint: Which after-school program would you like your child to join?
+      type: select_one
+      options:
+      - Academic Support Program
+      - Arts and Crafts Club
+      - Science Explorers
+      - Sports and Recreation
+      - Technology Workshop
+      - Music and Drama
+      - Homework Help Center
+      - Leadership Development
+      - Environmental Club
+      - Chess Club
+      - Other
+      required: true
+    - id: 9
+      name: program_schedule_days
+      label: Program Schedule Days
+      hint: Which days will the student attend the program?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 10
+      name: program_time_slot
+      label: Program Time Slot
+      hint: Which time slot works best for the program?
+      type: select_one
+      options:
+      - 3:00 PM - 4:00 PM
+      - 3:00 PM - 5:00 PM
+      - 3:30 PM - 5:30 PM
+      - 4:00 PM - 6:00 PM
+      - 4:30 PM - 6:30 PM
+      - All After-School Hours (3:00 PM - 6:00 PM)
+      required: true
+    - id: 11
+      name: enrollment_duration
+      label: Enrollment Duration
+      hint: How long do you plan to enroll your child in the program?
+      type: select_one
+      options:
+      - One semester
+      - Full school year
+      - Summer program only
+      - Trial period (first month)
+      - Ongoing (until withdrawn)
+      required: true
+    - id: 12
+      name: parent_guardian_information_section
+      label: Parent/Guardian Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: parent_guardian_name
+      label: Parent/Guardian Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_guardian_relationship
+      label: Relationship to Student
+      hint: Your relationship to the student
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Aunt/Uncle
+      - Other
+      required: true
+    - id: 15
+      name: parent_guardian_email
+      label: Email Address
+      hint: Email for program updates and communication
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: parent_guardian_phone
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: secondary_contact_information
+      label: Secondary Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: Name of secondary contact person
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: secondary_contact_relationship
+      label: Secondary Contact Relationship
+      hint: Relationship of secondary contact to the student
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: Phone number for secondary contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_information_section
+      label: Emergency Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship of emergency contact to the student
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medical_information_section
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Does your child have any medical conditions we should know about?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medications
+      label: Current Medications
+      hint: Is your child currently taking any medications?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: allergies
+      label: Allergies
+      hint: Does your child have any allergies (food, medication, environmental)?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: medical_authorization
+      label: Medical Authorization
+      hint: Do you authorize program staff to seek medical attention for your child
+        if needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: transportation_information_section
+      label: Transportation Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: transportation_method
+      label: Transportation Method
+      hint: How will your child get home from the after-school program?
+      type: select_one
+      options:
+      - Picked up by parent/guardian
+      - School bus
+      - Walk
+      - Other authorized adult
+      - Other
+      required: true
+    - id: 32
+      name: authorized_adults
+      label: Other Authorized Adults
+      hint: List any other adults authorized to pick up your child
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: pickup_instructions
+      label: Pickup Instructions
+      hint: Special instructions for dismissing your child
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: program_policies_section
+      label: Program Policies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the terms and conditions of the after-school program
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: photo_release_agreement
+      label: Photo Release Agreement
+      hint: I give permission for my child to be photographed during program activities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: payment_information_section
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: program_fee_agreement
+      label: Program Fee Agreement
+      hint: I understand and agree to pay the program fees as outlined in the program
+        materials
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 39
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the program?
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Cash
+      - Electronic Transfer
+      - Payment Plan
+      - Financial Aid/Scholarship
+      required: true
+    - id: 40
+      name: signature
+      label: Parent/Guardian Signature
+      hint: Electronic signature to confirm enrollment
+      type: text
+      options: []
+      required: true

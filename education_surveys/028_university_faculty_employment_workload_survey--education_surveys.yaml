@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Faculty Employment Workload Survey
+    pages:
+    - id: 1
+      name: university_faculty_employment_workload_survey
+      label: University Faculty Employment Workload Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching_workload
+      label: teaching_workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: research_workload
+      label: research_workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_workload
+      label: service_workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: institutional_support
+      label: institutional_support
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Strongly Agree''}'
+      - '{''option'': ''Somewhat Agree''}'
+      - '{''option'': ''Neither Agree nor Disagree''}'
+      - '{''option'': ''Somewhat Disagree''}'
+      - '{''option'': ''Strongly Disagree''}'
+      required: false
+    - id: 6
+      name: staffing_planning
+      label: staffing_planning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Strongly Agree''}'
+      - '{''option'': ''Somewhat Agree''}'
+      - '{''option'': ''Neither Agree nor Disagree''}'
+      - '{''option'': ''Somewhat Disagree''}'
+      - '{''option'': ''Strongly Disagree''}'
+      required: false
+    - id: 7
+      name: trends_and_benchmarking
+      label: trends_and_benchmarking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: institutional_support_plan
+      label: institutional_support_plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: university_funds
+      label: university_funds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: departmental_funds
+      label: departmental_funds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: personal_funds
+      label: personal_funds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_funds
+      label: other_funds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

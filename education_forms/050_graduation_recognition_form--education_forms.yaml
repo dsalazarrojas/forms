@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Recognition Form
+    pages:
+    - id: 1
+      name: graduation_recognition_form_fields
+      label: Graduation Recognition Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: major
+      label: Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_level
+      label: Academic Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 8
+      name: academic_level_other
+      label: Other (if not listed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: academic_institution
+      label: Academic Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: academic_institution_other
+      label: Other (if not listed)
+      hint: null
+      type: text
+      options: []
+      required: false

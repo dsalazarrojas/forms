@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Affirmation Feedback Survey
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Full legal name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee email
+      hint: Use company email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team
+      type: select_one
+      options: [Sales, Engineering, Marketing, HR, Operations, Other]
+      required: true
+    - id: 5
+      name: affirmation_frequency
+      label: How often do you receive affirmations or recognition
+      hint: Select the frequency of positive feedback
+      type: select_one
+      options: [Daily, Weekly, Monthly, Rarely, Never]
+      required: true
+    - id: 6
+      name: recent_affirmation_example
+      label: Recent affirmation example
+      hint: Briefly describe a recent positive feedback received
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact_of_affirmation
+      label: Impact of affirmation on performance
+      hint: Describe how recognition affected your motivation or work
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction_with_feedback
+      label: Satisfaction with feedback quality
+      hint: Rate overall satisfaction with feedback provided
+      type: select_one
+      options: [Very satisfied, Satisfied, Neutral, Dissatisfied, Very dissatisfied]
+      required: true
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for improving recognition practices
+      hint: Optional recommendations for managers or HR
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_preference
+      label: Would you like a follow up from HR
+      hint: Choose yes to request follow up about your feedback
+      type: select_one
+      options: [Yes, No]
+      required: true

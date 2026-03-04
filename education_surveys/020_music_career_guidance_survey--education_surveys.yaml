@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_career_guidance_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: education_background
+      label: Education_background
+      hint: null
+      type: select_one
+      options:
+      - Music School
+      - College
+      - University
+      required: false
+    - id: 3
+      name: current_occupation
+      label: Current_occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Music Teacher
+      - Music Therapist
+      - Singer Songwriter
+      required: false
+    - id: 4
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: Years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: next_steps
+      label: Next_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: music_career_goal
+      label: Music_career_goal
+      hint: null
+      type: select_one
+      options:
+      - Become a Music Teacher
+      - Become a Music Therapist
+      - Become an Artist
+      - Other
+      required: true
+    - id: 8
+      name: music_career_goal_other
+      label: Music_career_goal_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Website
+      required: true
+    - id: 10
+      name: program_interest
+      label: Program_interest
+      hint: null
+      type: select_one
+      options:
+      - High School Program
+      - College Program
+      - University Program
+      required: false
+    - id: 11
+      name: form_comments
+      label: Form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

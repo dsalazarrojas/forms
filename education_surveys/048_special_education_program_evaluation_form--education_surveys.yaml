@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Education Program Evaluation Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: Please enter school name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_progress
+      label: Student Progress
+      hint: Please enter student progress notes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_environment
+      label: School Environment
+      hint: Please describe school environment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: support_services
+      label: Support Services
+      hint: Please list support services
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_evaluations
+      label: Program Evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 11
+      name: program_recommendations
+      label: Program Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: overall_progress
+      label: Overall Progress
+      hint: null
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Did Not Meet Expectations
+      required: true
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

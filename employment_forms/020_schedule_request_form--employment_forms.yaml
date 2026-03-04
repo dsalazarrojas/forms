@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule Request Form
+    pages:
+    - id: 1
+      name: schedule_request_form_1
+      label: weekly_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: schedule_request_form_2
+      label: monthly_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: schedule_request_form_3
+      label: yearly_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: request_frequency
+      label: what_is_your_request_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_days
+      label: work_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: schedule_request_comments
+      label: schedule_request_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_approval
+      label: employee_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: manager_address
+      label: manager_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_timestamp
+      label: manager_timestamp
+      hint: null
+      type: time
+      options: []
+      required: false

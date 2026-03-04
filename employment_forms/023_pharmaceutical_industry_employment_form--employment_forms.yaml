@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Industry Employment Form
+    pages:
+    - id: 1
+      name: employer_info
+      label: Employer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_info
+      label: Job Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_info
+      label: Employment Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': ''true''}'
+      - '{''label'': False, ''value'': ''false''}'
+      required: false
+    - id: 6
+      name: upload_resume
+      label: Upload Resume
+      hint: Please upload resume
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: Submit the form
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_application
+      label: Job Application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: job_reference
+      label: Job Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_reference_hint
+      label: Job Reference Hint
+      hint: job reference
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
+      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
+      - '{''label'': ''Contract'', ''value'': ''Contract''}'
+      required: false
+    - id: 17
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open'', ''value'': ''Open''}'
+      - '{''label'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 18
+      name: work_experience
+      label: Work Experience
+      hint: years
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bachelor'', ''value'': ''Bachelor''}'
+      - '{''label'': ''Master'', ''value'': ''Master''}'
+      - '{''label'': ''High School'', ''value'': ''High School''}'
+      - '{''label'': ''Doctorate'', ''value'': ''Doctorate''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 20
+      name: job_start_date
+      label: Job Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: job_end_date
+      label: Job End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
+      required: false
+    - id: 23
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false

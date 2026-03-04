@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Challenges Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: historical_challenge
+      label: historical challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cultural_organization
+      label: cultural organization
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: study_method
+      label: study method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_of_study
+      label: years of study
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: study_field
+      label: study field
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: survey_frequency
+      label: survey frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: historical_event
+      label: historical event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: historical_event_type
+      label: historical event type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: survey_length
+      label: survey length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: historical_challenge_type
+      label: historical challenge type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

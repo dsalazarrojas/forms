@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snakebite Emergency Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_info
+      label: Incident Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physical_condition
+      label: Physical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wound_description
+      label: Wound Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: snakebite_location
+      label: Snakebite Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_one
+      options:
+      - Medical Doctor
+      - Medical Specialist
+      - Other
+      required: true
+    - id: 10
+      name: patient_call
+      label: Patient Call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: time_to_treatment
+      label: Time to Treatment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: snake_species
+      label: Snake Species
+      hint: null
+      type: select_multiple
+      options:
+      - Rattlesnake
+      - Viper
+      - Copperhead
+      - Other
+      required: false
+    - id: 14
+      name: snake_color
+      label: Snake Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: wound_depth
+      label: Wound Depth
+      hint: null
+      type: select_one
+      options:
+      - Superficial
+      - Deep
+      - Uncertain
+      required: true
+    - id: 16
+      name: wound_width
+      label: Wound Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: wound_length
+      label: Wound Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - Stable
+      - Critical
+      - Stable but unstable
+      required: false
+    - id: 19
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: wound_care
+      label: Wound Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_additional
+      label: Medical History Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_scheduled
+      label: Follow Up Scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: true

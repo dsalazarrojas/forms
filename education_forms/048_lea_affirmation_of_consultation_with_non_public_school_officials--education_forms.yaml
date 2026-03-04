@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: LEA Affirmation Of Consultation With Non Public School Officials
+    pages:
+    - id: 1
+      name: non_public_school_officials
+      label: Non Public School Officials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: non_public_school_districts
+      label: Non Public School Districts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email
+      type: email
+      options: []
+      required: false

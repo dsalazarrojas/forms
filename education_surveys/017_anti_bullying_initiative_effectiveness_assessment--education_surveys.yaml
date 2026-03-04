@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bullying Initiative Effectiveness Assessment
+    pages:
+    - id: 1
+      name: section_program_context
+      label: -- Program Context --
+      hint: Provide basic context about your role and school
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Respondent role
+      hint: Teacher student staff or parent
+      type: select_one
+      options:
+        - Teacher
+        - Student
+        - Staff
+        - Parent or guardian
+        - Administrator
+      required: true
+    - id: 3
+      name: school_level
+      label: School level
+      hint: Elementary middle or high school
+      type: select_one
+      options:
+        - Elementary
+        - Middle
+        - High
+        - Other
+      required: false
+    - id: 4
+      name: observed_incidents_before
+      label: Observed bullying incidents before program
+      hint: Estimate frequency over last term
+      type: select_one
+      options:
+        - Rarely
+        - Occasionally
+        - Frequently
+        - Very frequently
+      required: true
+    - id: 5
+      name: observed_incidents_after
+      label: Observed bullying incidents after program
+      hint: Estimate frequency since program started
+      type: select_one
+      options:
+        - Rarely
+        - Occasionally
+        - Frequently
+        - Very frequently
+      required: true
+    - id: 6
+      name: program_effectiveness
+      label: Program effectiveness rating
+      hint: How effective was the initiative overall
+      type: select_one
+      options:
+        - Not effective
+        - Somewhat effective
+        - Effective
+        - Very effective
+      required: true
+    - id: 7
+      name: behavior_change_examples
+      label: Examples of behavior change observed
+      hint: Provide specific observations if available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations to improve program
+      hint: Suggestions for enhancements or follow up
+      type: text
+      options: []
+      required: false

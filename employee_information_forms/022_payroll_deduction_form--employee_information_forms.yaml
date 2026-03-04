@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Deduction Form
+    pages:
+    - id: 1
+      name: payroll_deduction_form_employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: deduction_amount
+      label: Deduction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Pay Period
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: deductions_list
+      label: Deductions List
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewed_on
+      label: Reviewed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: false

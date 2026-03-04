@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Survey
+    pages:
+    - id: 1
+      name: survey_type
+      label: Survey Type
+      hint: null
+      type: select_one
+      options:
+      - Online Course
+      - Offline Course
+      - Other
+      required: false
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: learning_experience
+      label: Learning Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: instructor_rating_comment
+      label: Instructor Rating Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 7
+      name: technical_support
+      label: Technical Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

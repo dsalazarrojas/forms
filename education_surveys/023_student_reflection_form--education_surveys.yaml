@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Reflection Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_multiple
+      options:
+      - First Year
+      - Second Year
+      - Third Year
+      required: false
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: select_one
+      options:
+      - Algebra
+      - Geometry
+      - Trigonometry
+      - Calculus
+      required: false
+    - id: 5
+      name: subject_name
+      label: Subject Name
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - History
+      - English
+      required: false
+    - id: 6
+      name: question1
+      label: Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question2
+      label: Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question3
+      label: Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agreed
+      - Somewhat Agreed
+      - Neither
+      - Somewhat Disagreed
+      - Strongly Disagreed
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_id
+      label: Teacher Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: school_year_id
+      label: School Year Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: submitted_date_time
+      label: Submitted Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: school
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Charter
+      required: false
+    - id: 24
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Student
+      - Administrator
+      required: false
+    - id: 25
+      name: school_id
+      label: School Id
+      hint: null
+      type: number
+      options: []
+      required: false

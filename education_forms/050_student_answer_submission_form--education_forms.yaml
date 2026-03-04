@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Answer Submission Form
+    pages:
+    - id: 1
+      name: assignment_title
+      label: Assignment Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assignment_description
+      label: Assignment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: answer
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: submission_comment
+      label: Submission Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      - Draft
+      required: true
+    - id: 9
+      name: assignment_id
+      label: Assignment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assignment_type
+      label: Assignment Type
+      hint: null
+      type: select_one
+      options:
+      - Assignment
+      - Exam
+      required: true
+    - id: 11
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submission_comment
+      label: Submission Comment
+      hint: null
+      type: text
+      options: []
+      required: false

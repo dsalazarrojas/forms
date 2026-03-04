@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_longevity_and_attrition_survey
+    pages:
+    - id: 1
+      name: staff_longevity_and_attrition_survey_page_1
+      label: how_long_employees_stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: turnover_reasons
+      label: reasons_for_employees_leaving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: manager_satisfaction
+      label: manager_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: department_satisfaction
+      label: department_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: company_culture
+      label: company_culture
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: team_support
+      label: team_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: manager_satisfaction_2
+      label: manager_satisfaction_2
+      hint: null
+      type: number
+      options: []
+      required: true

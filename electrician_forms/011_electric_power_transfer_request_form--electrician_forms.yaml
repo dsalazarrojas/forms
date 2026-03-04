@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Power Transfer Request Form
+    pages:
+    - id: 1
+      name: electric_power_transfer_request_form
+      label: Electric Power Transfer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_details
+      label: Transfer Details
+      hint: This is the main transfer details.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meter_reading
+      label: Meter Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - New Connection
+      - Transfer
+      - Reconnect
+      required: false
+    - id: 7
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Other
+      required: false
+    - id: 12
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_completion_status
+      label: Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Incomplete
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: attachment_file_name
+      label: Attachment File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment_file_type
+      label: Attachment File Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 28
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

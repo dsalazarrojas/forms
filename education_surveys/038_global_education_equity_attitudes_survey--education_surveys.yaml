@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Education Equity Attitudes Survey
+    pages:
+    - id: 1
+      name: education_survey_global
+      label: education_survey_global
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: institution_type
+      label: institution_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: survey_participation_type
+      label: survey_participation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 9
+      name: education_field
+      label: education_field
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: highest_education_level
+      label: highest_education_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: highest_degree_awarded
+      label: highest_degree_awarded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: year_of_education_beginning
+      label: year_of_education_beginning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: year_of_education_completion
+      label: year_of_education_completion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: years_of_education_participation
+      label: years_of_education_participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: education_institution
+      label: education_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_institution_url
+      label: education_institution_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: education_program
+      label: education_program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: education_program_other
+      label: education_program_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: first_language
+      label: first_language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: highest_level_of_education_attained
+      label: highest_level_of_education_attained
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: highest_degree
+      label: highest_degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: years_of_education
+      label: years_of_education
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: education_institution_country
+      label: education_institution_country
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knowledge Lab Participation Survey
+    pages:
+    - id: 1
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Overall Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-2''}'
+      - '{''label'': ''3''}'
+      - '{''label'': ''4-5''}'
+      required: false
+    - id: 3
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false

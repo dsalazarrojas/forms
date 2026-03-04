@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Cyber Attack Report Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_attack
+      label: Date Of Attack
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_attack
+      label: Time Of Attack
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Impact-1'', ''label'': ''Low''}'
+      - '{''id'': ''Impact-2'', ''label'': ''Medium''}'
+      - '{''id'': ''Impact-3'', ''label'': ''High''}'
+      - '{''id'': ''Impact-4'', ''label'': ''Critical''}'
+      required: false
+    - id: 5
+      name: response
+      label: Response
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Resolution-1'', ''label'': ''None''}'
+      - '{''id'': ''Resolution-2'', ''label'': ''In Progress''}'
+      - '{''id'': ''Resolution-3'', ''label'': ''Completed''}'
+      - '{''id'': ''Resolution-4'', ''label'': ''Unknown''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attacker_ip
+      label: Attacker Ip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Country-1'', ''label'': ''US''}'
+      - '{''id'': ''Country-2'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: attacker_location
+      label: Attacker Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Location-1'', ''label'': ''US''}'
+      - '{''id'': ''Location-2'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: attacker_os
+      label: Attacker Os
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Os-1'', ''label'': ''Windows''}'
+      - '{''id'': ''Os-2'', ''label'': ''Mac''}'
+      - '{''id'': ''Os-3'', ''label'': ''Linux''}'
+      - '{''id'': ''Os-4'', ''label'': ''Unknown''}'
+      required: false
+    - id: 13
+      name: attacker_browser
+      label: Attacker Browser
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Browser-1'', ''label'': ''IE''}'
+      - '{''id'': ''Browser-2'', ''label'': ''Chrome''}'
+      - '{''id'': ''Browser-3'', ''label'': ''Firefox''}'
+      - '{''id'': ''Browser-4'', ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: ip_address
+      label: Ip Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referer
+      label: Referer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_agent_string
+      label: User Agent String
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: http_user_agent
+      label: Http User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: x_forwarded_for
+      label: X Forwarded For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: http_referer
+      label: Http Referer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: http_accept
+      label: Http Accept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: http_accept_language
+      label: Http Accept Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: http_user_agent_string
+      label: Http User Agent String
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attacker_name
+      label: Attacker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attacker_email
+      label: Attacker Email
+      hint: null
+      type: email
+      options: []
+      required: false

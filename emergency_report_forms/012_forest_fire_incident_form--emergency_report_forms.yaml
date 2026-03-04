@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forest Fire Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Other
+      - Weather
+      - Manmade
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: Please describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - forest
+      - park
+      - other
+      required: true
+    - id: 5
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_photo
+      label: Incident Photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_video
+      label: Incident Video
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Closed
+      required: true
+    - id: 13
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: text
+      options: []
+      required: false

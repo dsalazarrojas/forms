@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Academic Records Release Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: recipient_selection
+      label: Who do you want to give access to your academic records to?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Family Member''}'
+      - '{''label'': ''School''}'
+      - '{''label'': ''University''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: release_scope
+      label: What information do you want to release?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Transcript''}'
+      - '{''label'': ''Letter of Good Standing''}'
+      - '{''label'': ''Other Academic Records''}'
+      required: false
+    - id: 4
+      name: form_submission
+      label: Confirm Release
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

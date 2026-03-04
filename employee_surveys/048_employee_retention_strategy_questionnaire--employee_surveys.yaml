@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Strategy Questionnaire
+    pages:
+    - id: 1
+      name: employee_retention_strategy_questionnaire
+      label: employee_retention_strategy_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: What do you want to say about this?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

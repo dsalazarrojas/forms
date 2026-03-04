@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Nutrition Education Awareness Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: -- Nutrition Awareness Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_age_group
+        label: Age group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 34
+          - 35 to 54
+          - 55 and over
+        required: true
+      - id: 3
+        name: typical_diet_pattern
+        label: Typical diet pattern
+        hint: Describe typical daily meals
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: nutrition_knowledge_level
+        label: Self rated nutrition knowledge
+        hint: Rate your knowledge level
+        type: select_one
+        options:
+          - High
+          - Moderate
+          - Low
+        required: true
+      - id: 5
+        name: access_to_healthy_food
+        label: Access to healthy food options
+        hint: Rate accessibility in your area
+        type: select_one
+        options:
+          - Easy
+          - Somewhat easy
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 6
+        name: interest_in_education_programs
+        label: Interest in nutrition education programs
+        hint: Select topics of interest
+        type: select_multiple
+        options:
+          - Meal planning
+          - Budget shopping
+          - Cooking basics
+          - Childhood nutrition
+          - Dietary restrictions
+        required: false
+      - id: 7
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: Any allergies or dietary needs
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: barriers_to_healthy_eating
+        label: Barriers to healthy eating
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Cost
+          - Availability
+          - Time
+          - Knowledge
+        required: false
+      - id: 9
+        name: suggestions_for_programs
+        label: Suggestions for nutrition programs
+        hint: Ideas for topics or delivery formats
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: contact_for_training
+        label: Contact email for training opportunities
+        hint: Optional
+        type: email
+        options: []
+        required: false

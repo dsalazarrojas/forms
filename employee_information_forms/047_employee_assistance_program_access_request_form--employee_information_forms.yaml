@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Assistance Program Access Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: eap_request_date
+      label: EAP Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: eap_type
+      label: EAP Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Counseling''}'
+      - '{''id'': 2, ''label'': ''Financial Planning''}'
+      - '{''id'': 3, ''label'': ''Legal Support''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Leave of Absence''}'
+      - '{''id'': 3, ''label'': ''Retired''}'
+      required: false
+    - id: 8
+      name: department_head_status
+      label: Department Head Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approve''}'
+      - '{''id'': 2, ''label'': ''Reject''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      - '{''id'': 4, ''label'': ''Not Applicable''}'
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_professional_education_leave_of_absence_form
+    pages:
+    - id: 1
+      name: dental_program
+      label: Dental Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: education_start_date
+      label: Education Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: education_end_date
+      label: Education End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Non-Medical
+      - Other
+      required: false
+    - id: 5
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 6
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_multiple
+      options:
+      - Annual Leave
+      - Sick Leave
+      - Other Leave
+      required: false

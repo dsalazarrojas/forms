@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Power Outlet Installation Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: power_outlet_type
+      label: Power Outlet Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_electrician
+      label: Assigned Electrician
+      hint: null
+      type: select_one
+      options:
+      - Electrician 1
+      - Electrician 2
+      - Electrician 3
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

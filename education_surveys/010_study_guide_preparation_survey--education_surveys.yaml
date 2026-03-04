@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: study-guide-preparation-survey
+    pages:
+    - id: 1
+      name: study_guide_preparation_survey_form_questions
+      label: study-guide-preparation-survey-form-questions
+      hint: null
+      type: select_one
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      required: true
+    - id: 2
+      name: learning_styles
+      label: learning-styles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_outputs
+      label: preferred-outputs
+      hint: null
+      type: select_multiple
+      options:
+      - Format 1
+      - Format 2
+      - Format 3
+      required: false
+    - id: 4
+      name: study_challenges
+      label: study-challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: learning_style_categories
+      label: learning-style-categories
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 6
+      name: study_duration
+      label: study-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: study_duration_range
+      label: study-duration-range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_instructions
+      label: additional-instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: submit-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_time
+      label: submit-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit_email
+      label: submit-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submit_phone
+      label: submit-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit_notes
+      label: submit-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_comments
+      label: submit-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_attachments
+      label: submit-attachments
+      hint: null
+      type: text
+      options: []
+      required: false

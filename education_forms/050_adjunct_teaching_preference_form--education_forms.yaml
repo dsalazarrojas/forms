@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adjunct Teaching Preference Form
+    pages:
+    - id: 1
+      name: faculty_header
+      label: -- Adjunct Instructor Availability and Preferences --
+      hint: For use in academic semester planning and scheduling
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instructor_id
+      label: Faculty / Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: planning_term
+      label: Academic Term for Planning
+      hint: null
+      type: select_one
+      options:
+      - Fall 2026
+      - Spring 2027
+      - Summer 2027
+      - Winter 2027
+      required: true
+    - id: 5
+      name: preference_header
+      label: -- Course and Modality Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_courses
+      label: Courses you are most interested in teaching
+      hint: List by course code if known
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: load_preference
+      label: Desired Course Load
+      hint: Number of course sections
+      type: select_one
+      options:
+      - 1 Section
+      - 2 Sections
+      - 3 Sections (Maximum allowable for adjunct)
+      required: true
+    - id: 8
+      name: modality_preference
+      label: Preferred Instruction Modality
+      hint: null
+      type: select_one
+      options:
+      - Fully In-Person (On-campus)
+      - Fully Online (Asynchronous)
+      - Online Synchronous (Scheduled Zoom/Teams)
+      - Hybrid / Blended
+      required: true
+    - id: 9
+      name: campus_preference
+      label: Preferred Campus Location
+      hint: null
+      type: select_one
+      options:
+      - Main Campus (Downtown)
+      - North Campus
+      - West Satellite Center
+      - No Preference / Remote
+      required: true
+    - id: 10
+      name: availability_header
+      label: -- Scheduling Availability --
+      hint: Select all time blocks where you are AVAILABLE to teach
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: avail_weekday_mornings
+      label: Weekday Mornings (8am - 12pm)
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 12
+      name: avail_weekday_afternoons
+      label: Weekday Afternoons (12pm - 5pm)
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 13
+      name: avail_evenings
+      label: Evening / Night Classes (5pm - 10pm)
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 14
+      name: avail_weekends
+      label: Weekend Availability
+      hint: null
+      type: select_one
+      options:
+      - Saturday Morning
+      - Sunday Morning
+      - No Weekend Availability
+      required: false
+    - id: 15
+      name: additional_scheduling_notes
+      label: Specific Scheduling Conflicts or Constraints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Confirmation Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

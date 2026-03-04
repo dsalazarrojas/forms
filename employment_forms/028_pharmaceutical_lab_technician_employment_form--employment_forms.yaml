@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmaceutical_lab_technician_employment_form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 2, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      required: true
+    - id: 3
+      name: work_history
+      label: work_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': "Bachelor''s degree or higher", ''value'': ''bachelors_or_higher''}'
+      - '{''id'': 2, ''label'': "Associate''s degree or higher", ''value'': ''associates_or_higher''}'
+      - '{''id'': 3, ''label'': ''Some college'', ''value'': ''some_college''}'
+      required: true
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: certifications
+      label: certifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''OSHA certification'', ''value'': ''osha''}'
+      - '{''id'': 2, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 7
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: references
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_location
+      label: job_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_shift
+      label: work_shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monday to Friday'', ''value'': ''mon_to_fri''}'
+      - '{''id'': 2, ''label'': ''Every day'', ''value'': ''every_day''}'
+      - '{''id'': 3, ''label'': ''Rotating shifts'', ''value'': ''rotating_shifts''}'
+      required: true
+    - id: 13
+      name: shift_length
+      label: shift_length
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''8-12 hours'', ''value'': ''8-12''}'
+      - '{''id'': 2, ''label'': ''13-16 hours'', ''value'': ''13-16''}'
+      - '{''id'': 3, ''label'': ''17-20 hours'', ''value'': ''17-20''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 14
+      name: salary_range
+      label: salary_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: salary_frequency
+      label: salary_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full time'', ''value'': ''full_time''}'
+      - '{''id'': 2, ''label'': ''Part time'', ''value'': ''part_time''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 17
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: availability_start_date
+      label: availability_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: availability_end_date
+      label: availability_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clinical'', ''value'': ''clinical''}'
+      - '{''id'': 2, ''label'': ''Lab'', ''value'': ''lab''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 21
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_title
+      label: job_title_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certifications_2
+      label: certifications_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Certification 1'', ''value'': ''certification_1''}'
+      - '{''id'': 2, ''label'': ''Certification 2'', ''value'': ''certification_2''}'
+      required: false
+    - id: 25
+      name: upload_resume
+      label: upload_resume
+      hint: null
+      type: text
+      options: []
+      required: false

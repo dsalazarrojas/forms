@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Accommodation Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: workplace_location
+      label: Workplace Location
+      hint: null
+      type: select_one
+      options:
+      - Office 1
+      - Office 2
+      - Home Office
+      required: true
+    - id: 5
+      name: accommodation_request_date
+      label: Accommodation Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_needs
+      label: Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: accommodation_providing_party
+      label: Accommodation Providing Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

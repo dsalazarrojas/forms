@@ -1,0 +1,356 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Enrollment Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_middle_name
+      label: Middle Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 6
+      name: social_security
+      label: Social Security Number
+      hint: SSN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: permanent_address
+      label: Permanent Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: permanent_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: permanent_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: permanent_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: local_address
+      label: Local Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: enrollment_term
+      label: Enrollment Term
+      hint: When starting
+      type: select_one
+      options:
+      - Fall 2026
+      - Spring 2027
+      - Fall 2027
+      required: true
+    - id: 15
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Full-time or part-time
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      required: true
+    - id: 16
+      name: intended_major
+      label: Intended Major
+      hint: Field of study
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: intended_degree
+      label: Intended Degree
+      hint: Degree type
+      type: select_one
+      options:
+      - Bachelor of Arts
+      - Bachelor of Science
+      - Bachelor of Fine Arts
+      - Bachelor of Business Administration
+      - Bachelor of Engineering
+      - Associate Degree
+      required: true
+    - id: 18
+      name: housing_preference
+      label: Housing Preference
+      hint: Where living
+      type: select_one
+      options:
+      - On-Campus Required
+      - On-Campus Optional
+      - Off-Campus
+      - With Family
+      required: true
+    - id: 19
+      name: meal_plan
+      label: Meal Plan Selection
+      hint: Dining plan
+      type: select_one
+      options:
+      - Unlimited Plan
+      - 14 Meals Per Week
+      - 10 Meals Per Week
+      - 7 Meals Per Week
+      - No Meal Plan
+      required: true
+    - id: 20
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Other than parent
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency phone
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How related
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: high_school_name
+      label: High School Name
+      hint: Graduated from
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: high_school_graduation
+      label: High School Graduation Date
+      hint: When graduated
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: gpa
+      label: High School GPA
+      hint: Final GPA
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: sat_score
+      label: SAT Score
+      hint: If submitted
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: act_score
+      label: ACT Score
+      hint: If submitted
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: financial_aid_awarded
+      label: Have You Been Awarded Financial Aid
+      hint: Aid status
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 32
+      name: scholarship_list
+      label: Scholarships Awarded
+      hint: List scholarships
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: tuition_payment_plan
+      label: Tuition Payment Plan
+      hint: How paying
+      type: select_one
+      options:
+      - Paid in Full
+      - Semester Plan
+      - Monthly Payment Plan
+      - Financial Aid
+      - Student Loans
+      - 529 Plan
+      required: true
+    - id: 34
+      name: health_insurance
+      label: Health Insurance
+      hint: Coverage status
+      type: select_one
+      options:
+      - Enroll in School Plan
+      - Have Outside Insurance
+      - Waiving Coverage
+      required: true
+    - id: 35
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: If outside insurance
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: policy_number
+      label: Policy Number
+      hint: Policy identifier
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: immunization_records
+      label: Immunization Records Submitted
+      hint: Health records
+      type: select_one
+      options:
+      - Yes Submitted
+      - No Will Submit
+      - Pending
+      required: true
+    - id: 38
+      name: orientation_attendance
+      label: Will You Attend Orientation
+      hint: Orientation session
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 39
+      name: orientation_date
+      label: Preferred Orientation Date
+      hint: If attending
+      type: date
+      options: []
+      required: false
+    - id: 40
+      name: enrollment_deposit
+      label: Enrollment Deposit Payment
+      hint: Deposit status
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Fee Waiver
+      required: true
+    - id: 41
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to all terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 42
+      name: student_signature
+      label: Student Signature
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - Yes I Certify
+      - Other
+      required: true
+    - id: 43
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: If student is minor
+      type: select_one
+      options:
+      - Yes I Certify
+      - Not Applicable
+      required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_availability_form
+    pages:
+    - id: 1
+      name: work_availability_form_page_1
+      label: Work Availability Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select an Option''}'
+      - '{''id'': 2, ''label'': ''Select Another Option''}'
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: Select a start time
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: Select an end time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: work_availability_form_page_2
+      label: Work Availability Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select an Option''}'
+      - '{''id'': 2, ''label'': ''Select Another Option''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

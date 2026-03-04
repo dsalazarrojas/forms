@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Broadcasting Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: Historical Broadcasting Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Historical Broadcasting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: How do you know the answer is correct?
+      hint: Choose a reason
+      type: select_multiple
+      options:
+      - I have checked the answer in a textbook
+      - I have been told by a teacher
+      - I have checked the answer in another source
+      required: false
+    - id: 4
+      name: question_2
+      label: What makes a historical event newsworthy?
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - I is a new event
+      - II is a rare event
+      - III is a dramatic event
+      required: false
+    - id: 5
+      name: question_3
+      label: Which of the following is not a good way to get historical knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Watching videos
+      - Reading books
+      - Watching historical dramas
+      required: false
+    - id: 6
+      name: question_4
+      label: What historical period do you like most?
+      hint: null
+      type: select_one
+      options:
+      - ancient
+      - medieval
+      - 19th
+      - 20th
+      required: false
+    - id: 7
+      name: question_5
+      label: What is a historical broadcasting system?
+      hint: Choose a reason
+      type: select_multiple
+      options:
+      - It is a way to broadcast news
+      - It is a way to make money
+      - It is a way to entertain
+      required: false
+    - id: 8
+      name: question_6
+      label: Historical Broadcasting Quiz Submission
+      hint: Please provide your name and contact information
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

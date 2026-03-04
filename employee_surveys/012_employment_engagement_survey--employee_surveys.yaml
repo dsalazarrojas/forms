@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Engagement Survey
+    pages:
+    - id: 1
+      name: overall_happiness
+      label: Overall happiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_perception
+      label: Work perception
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_survey
+      label: Employee survey
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Application Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_coaching_experience
+      label: -- Coaching Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_coaching_experience
+      label: Years of Coaching Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coaching_certifications
+      label: Coaching Certifications
+      hint: List any relevant certifications you hold
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coaching_specialties
+      label: Areas of Coaching Specialization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Youth coaching
+      - Adult fitness coaching
+      - Sports coaching
+      - Life coaching
+      - Business coaching
+      - Mental health coaching
+      - Career coaching
+      required: true
+    - id: 11
+      name: previous_organizations
+      label: Previous Organizations Coached For
+      hint: List organizations where you have coached
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_background
+      label: -- Background Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: background_check_consent
+      label: I consent to a background check
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: criminal_history
+      label: Do you have any criminal history?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: section_qualifications
+      label: -- Qualifications and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctoral Degree
+      required: true
+    - id: 17
+      name: first_aid_certified
+      label: First Aid or CPR Certified
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: section_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reference_name
+      label: Reference Name
+      hint: Name of professional reference
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reference_contact
+      label: Reference Contact Information
+      hint: Email or phone number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: availability
+      label: Availability to Start
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Not available
+      required: true
+    - id: 23
+      name: agreement
+      label: I understand and agree to the coaching role requirements
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

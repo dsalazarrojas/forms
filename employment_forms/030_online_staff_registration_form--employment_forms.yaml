@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Staff Registration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resume_file
+      label: resume-file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: email_confirmed
+      label: email-confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact
+      label: contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: employment_status
+      label: employment-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_location
+      label: job-location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_description
+      label: job-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_type
+      label: job-type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_hours
+      label: work-hours
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: job_level
+      label: job-level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 19
+      name: job_category
+      label: job-category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: job_level_2
+      label: job-level-2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 21
+      name: job_level_3
+      label: job-level-3
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: job_level_4
+      label: job-level-4
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: job_level_5
+      label: job-level-5
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 24
+      name: job_level_6
+      label: job-level-6
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

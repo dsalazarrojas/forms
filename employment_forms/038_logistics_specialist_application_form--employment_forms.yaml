@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Specialist Application Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: available_hours
+      label: Available Hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Logistics Manager
+      - Operations Coordinator
+      - Supply Chain Manager
+      - Logistics Assistant
+      required: true
+    - id: 12
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_multiple
+      options:
+      - Transportation
+      - Warehousing
+      - Inventory Management
+      - Distribution
+      required: true
+    - id: 13
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Completed
+      required: true
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_reference
+      label: Job Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Employment Agreement Form
+    pages:
+    - id: 1
+      name: agreement_intro
+      label: -- Casual Employment Agreement --
+      hint: Please read the following terms and fill in the required fields
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employer_name
+      label: Registered Business Name (Employer)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Full Legal Name (Employee)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: e.g. Warehouse Assistant, Retail Associate
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Commencement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_remuneration
+      label: -- Pay and Hours --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hourly_rate
+      label: Base Hourly Rate
+      hint: Before loading and taxes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: casual_loading
+      label: Casual Loading Percentage
+      hint: typically 25%
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pay_cycle
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Fortnightly
+      - Monthly
+      required: true
+    - id: 11
+      name: section_casual_nature
+      label: -- Nature of Casual Employment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: casual_definition_ack
+      label: I understand that as a casual employee, there is no firm advance commitment
+        to ongoing work
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Acknowledge
+      - Other
+      required: true
+    - id: 13
+      name: shift_offer_process
+      label: How will shifts be offered
+      hint: e.g. via SMS, App, or Email
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notice_period
+      label: Minimum notice required for canceling a shift
+      hint: e.g. 2 hours, 24 hours
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: termination_notice
+      label: Notice period for termination by either party
+      hint: null
+      type: select_one
+      options:
+      - Immediate - End of shift
+      - 1 hour
+      - 24 hours
+      - 1 week
+      required: true
+    - id: 16
+      name: statutory_rights_ack
+      label: I acknowledge my rights and obligations under the Fair Work Act
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 17
+      name: signed_by_name
+      label: Electronic Signature (Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signing_date
+      label: Date of Signing
+      hint: null
+      type: date
+      options: []
+      required: true

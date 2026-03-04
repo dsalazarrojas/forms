@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Resolution Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Person filling out this form
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Engineering
+      - Marketing
+      - Human Resources
+      - Operations
+      - Customer Support
+      required: true
+    - id: 3
+      name: date_of_incident
+      label: Date of Conflict/Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_conflict_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parties_involved
+      label: Names of Other Parties Involved
+      hint: Separate with commas
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: conflict_location
+      label: Where did the conflict occur?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_of_issue
+      label: Detailed Description of the Issue
+      hint: Describe what happened and what triggered the conflict
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_impact_assessment
+      label: -- Impact and Previous Attempts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: impact_on_work
+      label: How has this conflict impacted your work?
+      hint: null
+      type: select_one
+      options:
+      - Minimal impact
+      - Noticeable decrease in productivity
+      - Significant disruption
+      - Unable to work effectively
+      required: true
+    - id: 10
+      name: previous_attempts_to_resolve
+      label: Have you already attempted to resolve this conflict?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: previous_attempts_description
+      label: If yes, what was the outcome of your attempt?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_proposed_solutions
+      label: -- Moving Forward --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: desired_outcome
+      label: What is your desired outcome for this resolution?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: suggested_solutions
+      label: What solutions would you suggest?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mediation_request
+      label: Would you like a formal mediation session?
+      hint: null
+      type: select_one
+      options:
+      - Yes, as soon as possible
+      - Not at this time
+      - Maybe later
+      required: true
+    - id: 16
+      name: acknowledgment
+      label: I certify that the information provided is accurate to the best of my
+        knowledge
+      hint: null
+      type: select_one
+      options:
+      - I so certify
+      - Other
+      required: true

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Resolution Absence Form
+    pages:
+    - id: 1
+      name: employee_incident_report_form_1
+      label: Incident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Incident
+      - Injury
+      - Illness
+      - Other
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_email
+      label: Employee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - In Progress
+      - Not Resolved
+      required: false
+    - id: 12
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: resolution_note
+      label: Resolution Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_email
+      label: Incident Reporter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_report_form_submitted
+      label: Incident Report Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: incident_report_form_submitted_date
+      label: Incident Report Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_report_form_submitted_by
+      label: Incident Report Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_report_form_submitted_by_email
+      label: Incident Report Form Submitted By E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: incident_report_form_submitted_by_phone
+      label: Incident Report Form Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

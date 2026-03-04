@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Analyst Exit Survey
+    pages:
+    - id: 1
+      name: tool_satisfaction
+      label: How satisfied are you with our tools?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 2
+      name: process_satisfaction
+      label: How satisfied are you with our processes?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: team_environment
+      label: How satisfied are you with our team environment?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: work_life_balance
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall satisfaction with your experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 6
+      name: recommendations
+      label: What recommendations would you make regarding tools?
+      hint: Please provide any specific feedback on tools you used.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tool_recommendations
+      label: Are there any tools you would recommend that we should purchase or subscribe
+        to?
+      hint: Please provide specific tool names and links.
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 8
+      name: process_improvement
+      label: What process improvements would you suggest?
+      hint: null
+      type: select_multiple
+      options:
+      - Process 1
+      - Process 2
+      - Process 3
+      required: false
+    - id: 9
+      name: communication
+      label: How would you rate the communication from your manager?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 10
+      name: training
+      label: How satisfied are you with our training opportunities?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 11
+      name: career_development
+      label: How satisfied are you with your career development opportunities?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 12
+      name: manager_relationship
+      label: How satisfied are you with your manager relationship?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 13
+      name: work_hours
+      label: How many hours per week do you work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: time_off
+      label: How many days off do you get per year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: job_security
+      label: How secure do you feel about your job security?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: job_satisfaction
+      label: How satisfied are you with your job satisfaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: manager_support
+      label: How much support does your manager offer you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: team_support
+      label: How much support do you get from team members?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: overall_satisfaction
+      label: What is your overall satisfaction with the company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: reason_for_leaving
+      label: What is your reason for leaving?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 21
+      name: exit_date
+      label: What date do you plan on exiting?
+      hint: Please use the format mm/dd/yyyy.
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: contact_information
+      label: Do you have any contact information you would like to share?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: feedback
+      label: Is there any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: What is the name of your manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_name
+      label: What is the name of your team?
+      hint: null
+      type: text
+      options: []
+      required: false

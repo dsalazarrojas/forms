@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace-harassment-claim-form
+    pages:
+    - id: 1
+      name: report_incident
+      label: report-incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: describe_incident
+      label: describe-incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: witness_info
+      label: witness-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_incident
+      label: date-of-incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: witness_names
+      label: witness-names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: witness_roles
+      label: witness-roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reportee_name
+      label: reportee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reportee_email
+      label: reportee-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: reporter_name
+      label: reporter-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporter_phone
+      label: reporter-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: report_date
+      label: report-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: investigation_status
+      label: investigation-status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_submitter
+      label: form-submitter
+      hint: null
+      type: select_one
+      options:
+      - FormSubmitter
+      - Manager
+      - HR Representative
+      - Reporting Employee
+      - Witness
+      required: false
+    - id: 16
+      name: reportee_employee_id
+      label: reportee-employee-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporter_employee_id
+      label: reporter-employee-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_employee_id
+      label: witness-employee-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution_date
+      label: resolution-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: resolution_time
+      label: resolution-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: resolution_status
+      label: resolution-status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 22
+      name: witness_roles_other
+      label: other-roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

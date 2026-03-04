@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Front Desk Associate Job Application
+    pages:
+    - id: 1
+      name: main_info
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: null
+      type: select_one
+      options:
+      - Front Desk Associate
+      - Housekeeping
+      - Maintenance
+      - Kitchen Staff
+      - Front Office
+      - Concierge
+      - Other
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: shift
+      label: Shift
+      hint: Daytime or Nighttime
+      type: select_one
+      options:
+      - Daytime
+      - Nighttime
+      - Weekdays
+      - Weekend
+      required: false
+    - id: 10
+      name: availability_2
+      label: availability_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: availability_3
+      label: availability_3
+      hint: null
+      type: time
+      options: []
+      required: false

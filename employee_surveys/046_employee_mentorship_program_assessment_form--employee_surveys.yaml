@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Mentorship Program Assessment Form
+    pages:
+    - id: 1
+      name: employee_mentorship_program_assessment_form_1
+      label: What did you enjoy most about the mentorship program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_mentorship_program_assessment_form_2
+      label: What did you enjoy least about the mentorship program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_mentorship_program_assessment_form_3
+      label: What do you think could be improved about the mentorship program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_mentorship_program_assessment_form_4
+      label: How often do you think you could use your mentor's guidance?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Seldom''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Often''}'
+      - '{''id'': 5, ''label'': ''Almost always''}'
+      required: false
+    - id: 5
+      name: employee_mentorship_program_assessment_form_5
+      label: How often do you think you could give guidance to your mentor?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Seldom''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Often''}'
+      - '{''id'': 5, ''label'': ''Almost always''}'
+      required: false
+    - id: 6
+      name: employee_mentorship_program_assessment_form_6
+      label: How would you rate your satisfaction with your mentorship experience
+        overall?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_mentorship_program_assessment_form_7
+      label: What are some other comments about your mentorship experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_mentorship_program_assessment_form_8
+      label: How likely are you to recommend the mentorship program to others?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Likely''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Likely''}'
+      - '{''id'': 4, ''label'': ''Very Likely''}'
+      - '{''id'': 5, ''label'': ''Extremely Likely''}'
+      required: false

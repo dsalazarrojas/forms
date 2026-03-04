@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Equity Resource Access Survey
+    pages:
+    - id: 1
+      name: educational_equity_resource_access_survey_page_1
+      label: Educational Equity Resource Access Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info_1
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_info_2
+      label: What is your student ID?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resource_access_1
+      label: What resources do you need access to?
+      hint: null
+      type: select_multiple
+      options:
+      - Library materials
+      - Online resources
+      - Other (please describe)
+      required: true
+    - id: 5
+      name: resource_access_2
+      label: Are you able to access the resources you need?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Do you have any additional comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resource_request_1
+      label: Do you have a specific resource you would like to access?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info_1
+      label: Please provide your contact information for follow-up.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info_2
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: resource_access_3
+      label: Are there any specific times when you are unable to access resources?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: resource_access_4
+      label: Are there any specific time of days when you are unable to access resources?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note_1
+      label: Please include any additional information about your resource access
+        experience.
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Staff Onboarding Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: job_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shift_pattern
+      label: Shift Pattern
+      hint: null
+      type: select_one
+      options:
+      - 'Mon - Thu: 08:00 - 16:00'
+      - 'Fri - Mon: 10:00 - 18:00'
+      - 'Sat - Sun: 10:00 - 18:00'
+      required: false
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Mon - Thu: 08:00 - 16:00'
+      - 'Fri - Mon: 10:00 - 18:00'
+      - 'Sat - Sun: 10:00 - 18:00'
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: job_notice
+      label: Job Notice
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_manager
+      label: Department Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

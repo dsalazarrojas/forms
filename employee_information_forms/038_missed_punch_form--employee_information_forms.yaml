@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Missed Punch Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: employee_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: missed_punches
+      label: missed_punches
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_confirmation
+      label: manager_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: missed_punch_form_submitted
+      label: missed_punch_form_submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Services Participant Evaluation
+    pages:
+      - id: 1
+        name: participant_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: service_type
+        label: Type of Career Service Received
+        hint: What service did you use?
+        type: select_one
+        options:
+          - Career coaching
+          - Resume review and writing
+          - Interview preparation
+          - Job search strategies
+          - Skills assessment
+          - Career exploration workshop
+          - Networking event
+          - Career fair
+          - Professional development workshop
+          - Mock interviews
+          - Other service
+        required: true
+      - id: 4
+        name: service_date
+        label: Date of Service
+        hint: When did you receive this service?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: provider_name
+        label: Name of Career Counselor or Facilitator
+        hint: Who provided the service?
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: first_time_user
+        label: Have You Used Career Services Before?
+        hint: null
+        type: select_one
+        options:
+          - "Yes - multiple times"
+          - "Yes - once before"
+          - "No - first time"
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction with Service
+        hint: How satisfied were you?
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: expectations_met
+        label: Did Service Meet Your Expectations?
+        hint: null
+        type: select_one
+        options:
+          - Exceeded expectations
+          - Met expectations
+          - Partially met expectations
+          - Did not meet expectations
+        required: true
+      - id: 9
+        name: counselor_knowledge
+        label: Knowledge and Expertise of Counselor
+        hint: Was the provider knowledgeable?
+        type: select_one
+        options:
+          - Excellent - very knowledgeable
+          - Good - knowledgeable
+          - Adequate - adequate knowledge
+          - Poor - lacking expertise
+          - Very Poor - not knowledgeable
+        required: true
+      - id: 10
+        name: counselor_communication
+        label: Communication and Clarity of Guidance
+        hint: Did they explain things clearly?
+        type: select_one
+        options:
+          - Excellent - very clear
+          - Good - clear guidance
+          - Adequate - somewhat clear
+          - Poor - unclear
+          - Very Poor - confusing
+        required: true
+      - id: 11
+        name: personalization
+        label: Personalization of Service to Your Needs
+        hint: Was advice tailored to you?
+        type: select_one
+        options:
+          - Excellent - very personalized
+          - Good - mostly personalized
+          - Adequate - somewhat personalized
+          - Poor - generic advice
+          - Very Poor - not personalized
+        required: true
+      - id: 12
+        name: professional_behavior
+        label: Professional Demeanor of Provider
+        hint: Was the person professional and respectful?
+        type: select_one
+        options:
+          - Excellent - very professional
+          - Good - professional
+          - Adequate - mostly professional
+          - Poor - unprofessional
+          - Very Poor - very unprofessional
+        required: true
+      - id: 13
+        name: time_management
+        label: Use of Time in Session
+        hint: Was the time spent well?
+        type: select_one
+        options:
+          - Excellent - time well-utilized
+          - Good - good use of time
+          - Adequate - adequate time use
+          - Poor - wasted time
+          - Very Poor - very poor time use
+        required: true
+      - id: 14
+        name: practical_tools
+        label: Quality and Usefulness of Materials/Tools Provided
+        hint: Handouts, templates, resources?
+        type: select_one
+        options:
+          - Excellent - very useful
+          - Good - helpful materials
+          - Adequate - some useful materials
+          - Poor - not very useful
+          - Very Poor - not useful
+        required: true
+      - id: 15
+        name: actionable_takeaway
+        label: Did You Receive Actionable Guidance?
+        hint: Can you implement what you learned?
+        type: select_one
+        options:
+          - Yes - very clear action steps
+          - Yes - general guidance to follow
+          - Somewhat - unclear how to apply
+          - No - not actionable
+        required: true
+      - id: 16
+        name: confidence_increase
+        label: Did Service Increase Your Career Confidence?
+        hint: Feel more confident after service?
+        type: select_one
+        options:
+          - Yes - significantly more confident
+          - Yes - somewhat more confident
+          - Neutral - no change
+          - No - less confident
+          - Very No - much less confident
+        required: true
+      - id: 17
+        name: career_progression_help
+        label: Will This Service Help Your Career Progression?
+        hint: Will it advance your goals?
+        type: select_one
+        options:
+          - Yes - definitely will help
+          - Yes - likely will help
+          - Maybe - uncertain
+          - No - unlikely to help
+          - No - will not help
+        required: true
+      - id: 18
+        name: recommendation_likelihood
+        label: Would You Recommend This Service to Others?
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 19
+        name: specific_strengths
+        label: Specific Strengths of This Service
+        hint: What went well?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What could be better?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: follow_up_interest
+        label: Interest in Follow-up Services
+        hint: Would you use services again?
+        type: select_one
+        options:
+          - Yes - very interested
+          - Yes - somewhat interested
+          - Neutral - depends on service
+          - No - not interested
+        required: false
+      - id: 22
+        name: additional_services_needed
+        label: Additional Services You Would Like
+        hint: What other support do you need?
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback?
+        type: text
+        options: []
+        required: false

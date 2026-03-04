@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reproductive Health Education Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: Participant Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reproductive_health_page
+      label: Reproductive-Health-Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: education_page
+      label: Education-Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: survey_end_page
+      label: Survey End
+      hint: null
+      type: note
+      options: []
+      required: false

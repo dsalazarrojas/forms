@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Measures Checklist
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_temperature
+      label: employee_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_symptoms
+      label: employee_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_travel_history
+      label: employee_travel_history
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_travel_country
+      label: travel_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_temperature_fever
+      label: temperature_fever
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_health_status
+      label: health_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: contact_tracing_info
+      label: contact_tracing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_checkup_date
+      label: next_checkup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_checked_date
+      label: last_checked_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_checkup_frequency
+      label: next_checkup_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: employee_name2
+      label: employee_name2
+      hint: null
+      type: text
+      options: []
+      required: true

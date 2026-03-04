@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_building_preference_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferences
+      label: team_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: availability
+      label: team_availability
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: feedback
+      label: team_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date_of_last_team_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_last_team_event
+      label: time_of_last_team_event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: next_event
+      label: next_team_event
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact
+      label: contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

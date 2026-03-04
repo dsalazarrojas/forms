@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statistical Measures Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: statistical_measures_survey_form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_often_do_educators_adopt
+      label: how_often_do_educators_adopt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: how_often_do_educators_adopt_1
+      label: frequently
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''frequently''}'
+      - '{''id'': 2, ''label'': ''occasionally''}'
+      - '{''id'': 3, ''label'': ''rarely''}'
+      - '{''id'': 4, ''label'': ''almost_never''}'
+      required: true
+    - id: 4
+      name: how_familiar_do_educators
+      label: how_familiar_do_educators
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_familiar''}'
+      - '{''id'': 2, ''label'': ''somewhat_familiar''}'
+      - '{''id'': 3, ''label'': ''not_familiar''}'
+      - '{''id'': 4, ''label'': ''almost_none''}'
+      required: true
+    - id: 5
+      name: how_confident_do_educators
+      label: how_confident_do_educators
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_confident''}'
+      - '{''id'': 2, ''label'': ''somewhat_confident''}'
+      - '{''id'': 3, ''label'': ''not_confident''}'
+      - '{''id'': 4, ''label'': ''almost_none''}'
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_footer
+      label: statistical_measures_survey_form_footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true

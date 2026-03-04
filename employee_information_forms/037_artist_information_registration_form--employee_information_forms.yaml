@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Information Registration Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Band Name
+      hint: Your professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leader_name
+      label: Band Leader or Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Artistic Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_genre
+      label: Primary Genre
+      hint: Main music or art genre
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_bio
+      label: Artist or Band Biography
+      hint: Professional bio (100-150 words)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_active
+      label: Years Active
+      hint: How long has the band or artist been active?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: website_url
+      label: Website or Social Media URL
+      hint: Link to your online presence
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Band Members --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: band_size
+      label: Number of Band Members
+      hint: How many performers are in the group?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: member_list
+      label: List of Band Members and Instruments
+      hint: Names and instruments of all performers
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: performance_type
+      label: Type of Performance Offered
+      hint: What will you perform?
+      type: select_one
+      options:
+      - Live Music
+      - DJ
+      - Spoken Word
+      - Comedy
+      - Theater
+      - Dance
+      - Other
+      required: true
+    - id: 16
+      name: set_length
+      label: Typical Set Length
+      hint: How long do you usually perform?
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3+ hours
+      - Flexible
+      required: true
+    - id: 17
+      name: equipment_needed
+      label: Equipment or Technical Requirements
+      hint: Any special equipment needed?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date_availability
+      label: Availability for Gigs
+      hint: When can you perform?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Nights
+      - Flexible
+      required: true
+    - id: 20
+      name: advance_notice_needed
+      label: Advance Notice Needed for Booking
+      hint: How much notice do you require?
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - 6 weeks
+      - 2 months
+      - Flexible
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Payment and Donations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: performance_fee
+      label: Performance Fee or Rate
+      hint: What is your typical rate?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: donation_amount
+      label: Donation Amount (Optional)
+      hint: Suggested donation for support
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: registration_confirmation
+      label: I Confirm All Information is Accurate
+      hint: Verify the accuracy of this registration
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Need to Make Changes
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Comments or Information
+      hint: Any other details we should know?
+      type: text
+      options: []
+      required: false

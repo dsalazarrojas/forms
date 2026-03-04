@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Virtual Lab Satisfaction Survey
+    pages:
+    - id: 1
+      name: section_user_profile
+      label: -- User Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_category
+      label: Primary Role
+      hint: Select your current position
+      type: select_one
+      options:
+      - Student
+      - Faculty Member
+      - Researcher
+      - IT Staff
+      required: true
+    - id: 3
+      name: lab_name
+      label: Virtual Lab Used
+      hint: Name of the virtual environment or software suite
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_experience
+      label: -- Experience Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ease_of_access
+      label: How easy was it to access the virtual lab?
+      hint: Login and connection process
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 6
+      name: system_performance
+      label: Rate the performance or speed of the virtual environment
+      hint: Responsiveness and lag
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: interface_intuitiveness
+      label: How intuitive is the user interface?
+      hint: Ease of navigation
+      type: select_one
+      options:
+      - Very Intuitive
+      - Somewhat Intuitive
+      - Neutral
+      - Not Intuitive
+      required: true
+    - id: 8
+      name: issues_encountered
+      label: Select any issues you faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Connection Drops
+      - Slow Loading
+      - Software Errors
+      - Permission Denied
+      - Graphics Lag
+      required: false
+    - id: 9
+      name: section_tools
+      label: -- Tools and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: software_availability
+      label: Did the lab have all the software tools you needed?
+      hint: Software inventory adequacy
+      type: select_one
+      options:
+      - Yes - All
+      - Most of them
+      - Only some
+      - None
+      required: true
+    - id: 11
+      name: technical_support_quality
+      label: Rate the quality of technical support provided
+      hint: If you contacted IT
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - No support sought
+      required: false
+    - id: 12
+      name: section_overall
+      label: -- Overall Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: likely_to_use_again
+      label: How likely are you to use this virtual lab again?
+      hint: Future intent
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: List 3 improvements you would like to see
+      hint: Specific technical or feature requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_rating
+      label: -- Final Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overall_satisfaction_rating
+      label: Overall rating - 1.0 to 10.0
+      hint: Enter a number between 1 and 10
+      type: number
+      options: []
+      required: true

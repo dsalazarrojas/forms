@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Basic Needs Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: campus_dining_situation
+      label: Campus Dining Situation
+      hint: null
+      type: select_multiple
+      options:
+      - I am hungry
+      - I am not hungry
+      required: false
+    - id: 7
+      name: financial_aid
+      label: Financial Aid
+      hint: null
+      type: select_multiple
+      options:
+      - I am receiving some financial aid
+      - I am receiving no financial aid
+      - I am receiving full financial aid
+      required: false
+    - id: 8
+      name: campus_resources
+      label: Campus Resources
+      hint: null
+      type: select_multiple
+      options:
+      - I do not need any support
+      - I need some support
+      - I need a lot of support
+      required: false
+    - id: 9
+      name: health_services
+      label: Campus Health Services
+      hint: null
+      type: select_multiple
+      options:
+      - I do not need any support
+      - I need some support
+      - I need a lot of support
+      required: false
+    - id: 10
+      name: support_services
+      label: Campus Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - I do not need any support
+      - I need some support
+      - I need a lot of support
+      required: false
+    - id: 11
+      name: housing
+      label: Campus Housing
+      hint: null
+      type: select_multiple
+      options:
+      - I do not have a place to live
+      - I have a place to live
+      required: false
+    - id: 12
+      name: transportation
+      label: Campus Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - I do not have a way to get home
+      - I have a way to get home
+      required: false

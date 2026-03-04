@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursery Field Trip Registration
+    pages:
+    - id: 1
+      name: permissions
+      label: Permissions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contacts
+      label: Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_list
+      label: Student List
+      hint: List of students
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: staff_list
+      label: Staff List
+      hint: List of staff
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: trip_details
+      label: Trip Details
+      hint: Details about trip
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medication_list
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

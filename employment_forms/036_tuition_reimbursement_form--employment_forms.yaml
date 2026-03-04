@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tuition Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_tuition
+      label: Employee Tuition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employer_tuition
+      label: Employer Tuition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reimbursement_method
+      label: Reimbursement Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reimbursement_rate
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_comments
+      label: Employer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false

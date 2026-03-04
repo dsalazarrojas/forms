@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Leadership Continuity Form
+    pages:
+    - id: 1
+      name: current_succession_status
+      label: current succession status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: identified_successors
+      label: identified successors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: succession_planning_resources
+      label: succession planning resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: resource_needs
+      label: resource needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: resource_needs_frequency
+      label: frequency of needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: succession_status_comments
+      label: succession status comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resource_needs_comments
+      label: resource needs comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: resource_needs_frequency_comments
+      label: resource needs frequency comments
+      hint: null
+      type: note
+      options: []
+      required: false

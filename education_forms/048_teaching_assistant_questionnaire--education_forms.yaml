@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Assistant Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: role_in_course
+      label: Role In Course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: how_many_courses_teaching_assistant_worked_with
+      label: How Many Courses Teaching Assistant Worked with
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_long_teaching_assistant_worked
+      label: How Long Teaching Assistant Worked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: how_satisfying_was_your_experience
+      label: How Satisfying Was Your Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: will_recommend_teaching_assistant
+      label: Will Recommend Teaching Assistant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: how_did_teaching_assistant_help
+      label: How Did Teaching Assistant Help
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: what_teaching_assistant_improved
+      label: What Teaching Assistant Improved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: what_teaching_assistant_did_not_improve
+      label: What Teaching Assistant Did Not Improve
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

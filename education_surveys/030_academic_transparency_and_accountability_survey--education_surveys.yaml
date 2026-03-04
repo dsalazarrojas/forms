@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transparency And Accountability Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Transparency and Accountability Survey --
+      hint: Share your feedback on institutional transparency, decision-making processes, and accountability measures.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your role at the institution
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Administrator
+        - Alumni
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_at_institution
+      label: Years at this institution
+      hint: null
+      type: select_one
+      options:
+        - Less than 1 year
+        - 1-3 years
+        - 4-6 years
+        - 7-10 years
+        - More than 10 years
+      required: true
+    - id: 5
+      name: transparency_decision_making
+      label: How transparent do you find institutional decision-making processes
+      hint: null
+      type: select_one
+      options:
+        - Not at all transparent
+        - Slightly transparent
+        - Moderately transparent
+        - Very transparent
+        - Extremely transparent
+      required: true
+    - id: 6
+      name: access_to_information
+      label: How easy is it to access information about institutional policies, budgets, and decisions
+      hint: null
+      type: select_one
+      options:
+        - Very difficult
+        - Difficult
+        - Neutral
+        - Easy
+        - Very easy
+      required: true
+    - id: 7
+      name: communication_effectiveness
+      label: How effectively does the institution communicate important changes and decisions
+      hint: null
+      type: select_one
+      options:
+        - Very ineffectively
+        - Ineffectively
+        - Neutral
+        - Effectively
+        - Very effectively
+      required: true
+    - id: 8
+      name: accountability_leadership
+      label: How accountable do you believe institutional leadership is to the campus community
+      hint: null
+      type: select_one
+      options:
+        - Not at all accountable
+        - Slightly accountable
+        - Moderately accountable
+        - Very accountable
+        - Extremely accountable
+      required: true
+    - id: 9
+      name: fairness_processes
+      label: How fair are the processes for addressing complaints and grievances
+      hint: null
+      type: select_one
+      options:
+        - Very unfair
+        - Somewhat unfair
+        - Neutral
+        - Somewhat fair
+        - Very fair
+      required: true
+    - id: 10
+      name: areas_needing_improvement
+      label: Which areas need the most improvement in transparency (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Budget allocation and spending
+        - Hiring and promotion decisions
+        - Academic policy changes
+        - Student disciplinary processes
+        - Strategic planning
+        - Resource distribution
+      required: true
+    - id: 11
+      name: input_opportunities
+      label: Do you feel you have adequate opportunities to provide input on institutional decisions
+      hint: null
+      type: select_one
+      options:
+        - Yes - ample opportunities
+        - Somewhat - limited opportunities
+        - No - no meaningful opportunities
+      required: true
+    - id: 12
+      name: trust_level
+      label: How much do you trust the institution to act in the best interest of its community
+      hint: null
+      type: select_one
+      options:
+        - No trust at all
+        - Low trust
+        - Moderate trust
+        - High trust
+        - Complete trust
+      required: true
+    - id: 13
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with the institutions transparency and accountability
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 14
+      name: suggestions
+      label: What specific steps could the institution take to improve transparency and accountability
+      hint: null
+      type: text
+      options: []
+      required: false

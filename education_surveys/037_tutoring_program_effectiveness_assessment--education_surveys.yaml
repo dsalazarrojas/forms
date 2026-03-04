@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutoring Program Effectiveness Assessment
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program_date_01
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_date_02
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_questions_01
+      label: What is the main focus of your tutoring program?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 7
+      name: program_questions_02
+      label: How do you report student outcomes before this program?
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Existing Measures
+      - Standardized Assessments
+      - Student Reports
+      - Other
+      required: false
+    - id: 8
+      name: program_questions_03
+      label: What is your role at the school or organization using this program?
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Teacher
+      - Tutor
+      required: false
+    - id: 9
+      name: student_outcomes_01
+      label: What is the primary outcome or goal for students participating in the
+        program?
+      hint: null
+      type: select_multiple
+      options:
+      - Academic Achievement
+      - Social-Emotional Development
+      - Both
+      required: false
+    - id: 10
+      name: student_outcomes_02
+      label: What is the secondary outcome or goal for students participating in the
+        program?
+      hint: null
+      type: select_multiple
+      options:
+      - Academic Achievement
+      - Social-Emotional Development
+      - Both
+      required: false
+    - id: 11
+      name: program_evaluation_plan
+      label: Do you have a formal program evaluation plan in place?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: program_evaluation_questions_01
+      label: How often do you evaluate the program?
+      hint: null
+      type: select_multiple
+      options:
+      - Regularly (at least 6 times a year)
+      - Semi-regularly (1-2 times a year)
+      - Rarely (less than 1 time a year)
+      - Other
+      required: false
+    - id: 13
+      name: program_evaluation_questions_02
+      label: Who is responsible for evaluating the program?
+      hint: null
+      type: select_multiple
+      options:
+      - Program Director
+      - Program Coordinator
+      - Teachers
+      - Tutors
+      - School Administrator
+      - Other
+      required: false
+    - id: 14
+      name: program_improvement_plan
+      label: Do you have a plan for program improvement?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: improvement_plan_action_items_01
+      label: What actions would you take if student outcomes do not meet expectations?
+      hint: null
+      type: select_multiple
+      options:
+      - Increase staff training
+      - Review and revise program design
+      - Increase student recruitment
+      - Other
+      required: false
+    - id: 16
+      name: program_satisfaction_01
+      label: How satisfied are you with the current program?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Not At All Satisfied
+      required: false
+    - id: 17
+      name: program_satisfaction_02
+      label: How likely are you to recommend this program to others?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Neither Likely Nor Unlikely
+      - Somewhat Unlikely
+      - Very Unlikely
+      - Not At All Likely
+      required: false

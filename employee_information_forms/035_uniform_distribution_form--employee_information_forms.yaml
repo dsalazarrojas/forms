@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Distribution Form
+    pages:
+    - id: 1
+      name: user_name
+      label: First and Last Name
+      hint: First and last name (e.g., John Smith)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Distribution Date
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: staff_id
+      label: Staff ID
+      hint: Enter Staff ID
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Enter Department Name
+      type: select_one
+      options:
+      - ID
+      - Finance
+      - Operations
+      - HR
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Enter number of uniforms
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: size
+      label: Size
+      hint: Small, Medium, Large
+      type: select_multiple
+      options:
+      - S
+      - M
+      - L
+      required: false
+    - id: 7
+      name: color
+      label: Color
+      hint: Enter Color Name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_in
+      label: Distribution Date
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: distribution_type
+      label: Distribution Type
+      hint: Select distribution type
+      type: select_one
+      options:
+      - In-store pickup
+      - Mail-out
+      - Both
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: Select status
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Replied
+      required: false
+    - id: 14
+      name: staff_name
+      label: Staff Name
+      hint: Enter Staff Name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_name
+      label: Employee Name
+      hint: Enter Employee Name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_id_number
+      label: Staff ID Number
+      hint: Enter Staff ID Number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: distribution_date
+      label: Distribution Date
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: staff_id_type
+      label: Staff ID Type
+      hint: Select Staff ID type
+      type: select_one
+      options:
+      - Staff ID
+      - ID Card
+      - Badge Number
+      required: false
+    - id: 19
+      name: distribution_date_in
+      label: Distribution Date
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: employee_name
+      label: Employee Name
+      hint: Enter Employee Name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_id_number
+      label: Employee ID Number
+      hint: Enter Employee ID Number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: department
+      label: Department
+      hint: Enter Department Name
+      type: select_one
+      options:
+      - ID
+      - Finance
+      - Operations
+      - HR
+      required: false
+    - id: 23
+      name: departmental
+      label: Departmental
+      hint: Select Departmental
+      type: select_one
+      options:
+      - Finance
+      - Operations
+      - HR
+      required: false
+    - id: 24
+      name: distribution_type
+      label: Distribution Type
+      hint: Select distribution type
+      type: select_one
+      options:
+      - In-store pickup
+      - Mail-out
+      - Both
+      required: false
+    - id: 25
+      name: status
+      label: Status
+      hint: Select status
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Replied
+      required: false

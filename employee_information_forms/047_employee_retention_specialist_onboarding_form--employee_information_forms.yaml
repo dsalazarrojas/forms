@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Specialist Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department_id
+      label: Department
+      hint: Select department
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Sales''}'
+      - '{''value'': 2, ''label'': ''Marketing''}'
+      - '{''value'': 3, ''label'': ''IT''}'
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_manager_id
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Bob''}'
+      - '{''value'': 2, ''label'': ''Alice''}'
+      required: false
+    - id: 11
+      name: reporting_manager_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 15
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''completed'', ''label'': ''Completed''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 17
+      name: employee_retention_specialist_id
+      label: Employee Retention Specialist ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: retention_manager_id
+      label: Retention Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: onboarding_start_date
+      label: Onboarding Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: onboarding_end_date
+      label: Onboarding End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: onboarding_duration
+      label: Onboarding Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: onboarding_days
+      label: Onboarding Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: job_performance
+      label: Job Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

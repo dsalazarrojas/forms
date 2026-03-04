@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Commission Structure Survey
+    pages:
+      - id: 1
+        name: survey_introduction
+        label: Survey Introduction
+        hint: Help us improve our commission structure
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Sales
+          - Business Development
+          - Account Management
+          - Real Estate
+          - Insurance
+          - Financial Services
+          - Other
+        required: true
+      - id: 5
+        name: tenure
+        label: Tenure
+        hint: How long have you been with the company
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 6
+        name: current_structure_understanding
+        label: Current Structure Understanding
+        hint: How well do you understand the current commission structure
+        type: select_one
+        options:
+          - Very Well
+          - Somewhat Well
+          - Neutral
+          - Not Very Well
+          - Not At All
+        required: true
+      - id: 7
+        name: commission_satisfaction
+        label: Commission Satisfaction
+        hint: How satisfied are you with the current commission structure
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: fairness_perception
+        label: Fairness Perception
+        hint: Do you feel the commission structure is fair
+        type: select_one
+        options:
+          - Very Fair
+          - Somewhat Fair
+          - Neutral
+          - Somewhat Unfair
+          - Very Unfair
+        required: true
+      - id: 9
+        name: motivation_level
+        label: Motivation Level
+        hint: How motivated does the commission structure make you feel
+        type: select_one
+        options:
+          - Very Motivated
+          - Motivated
+          - Neutral
+          - Demotivated
+          - Very Demotivated
+        required: true
+      - id: 10
+        name: rate_aspects
+        label: Rate Aspects
+        hint: Please rate the following aspects of the commission structure
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: commission_rate_satisfaction
+        label: Commission Rate Satisfaction
+        hint: Satisfaction with current commission rates
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: payment_frequency_satisfaction
+        label: Payment Frequency Satisfaction
+        hint: Satisfaction with how often commissions are paid
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 13
+        name: bonus_structure_satisfaction
+        label: Bonus Structure Satisfaction
+        hint: Satisfaction with bonus opportunities
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: true
+      - id: 14
+        name: transparency_satisfaction
+        label: Transparency Satisfaction
+        hint: Satisfaction with commission calculation transparency
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 15
+        name: preferred_changes
+        label: Preferred Changes
+        hint: What changes would you like to see - select all that apply
+        type: select_multiple
+        options:
+          - Higher Base Commission Rate
+          - More Frequent Payments
+          - Better Bonus Structure
+          - Clearer Calculation Methods
+          - Tiered Commission Levels
+          - Team-Based Incentives
+          - Performance Accelerators
+          - Guaranteed Minimum Commission
+          - No Changes Needed
+        required: true
+      - id: 16
+        name: commission_impact
+        label: Commission Impact
+        hint: How does the commission structure impact your work
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: competitor_comparison
+        label: Competitor Comparison
+        hint: How does our commission structure compare to competitors
+        type: select_one
+        options:
+          - Much Better
+          - Somewhat Better
+          - About the Same
+          - Somewhat Worse
+          - Much Worse
+          - Do Not Know
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any additional comments or suggestions
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: willing_to_discuss
+        label: Willing to Discuss
+        hint: Would you be willing to discuss your feedback further
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 20
+        name: survey_date
+        label: Survey Date
+        hint: Date you completed this survey
+        type: date
+        options: []
+        required: true

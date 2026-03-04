@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Breeding Intake Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Full Name
+      hint: Pet owner or breeder name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: intake_intro
+      label: Animal Breeding Program Intake Form
+      hint: This form collects information for animals entering our breeding program
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: intake_date
+      label: Intake Date
+      hint: Date of enrollment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: animal_information
+      label: Animal Information
+      hint: Complete details about the animal
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: animal_name
+      label: Animal's Registered Name
+      hint: Full registered name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: animal_call_name
+      label: Call Name
+      hint: Everyday name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Cattle
+      - Sheep
+      - Goat
+      - Other
+      required: true
+    - id: 11
+      name: breed
+      label: Breed
+      hint: Specific breed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: DOB
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 14
+      name: color_markings
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: microchip_number
+      label: Microchip Number
+      hint: If microchipped
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_info
+      label: Registration Information
+      hint: Breed registry details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: registry_name
+      label: Registry Organization
+      hint: AKC, UKC, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registration_number
+      label: Registration Number
+      hint: ID number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pedigree_available
+      label: Is pedigree documentation available
+      hint: Pedigree status
+      type: select_one
+      options:
+      - Yes - 3 generation
+      - Yes - 5 generation
+      - Yes - limited
+      - false
+      required: false
+    - id: 20
+      name: health_screening
+      label: Health Screening
+      hint: Medical clearances
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: health_tests_completed
+      label: Health Tests Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - OFA hips
+      - OFA elbows
+      - Cardiac exam
+      - Eye examination
+      - Genetic disease panel
+      - Brucellosis test
+      - Thyroid panel
+      - None yet
+      required: true
+    - id: 22
+      name: health_clearances
+      label: Please provide health clearance details
+      hint: Include dates and results
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vaccinations_current
+      label: Are vaccinations current
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Yes - all current
+      - Some due soon
+      - No - need updates
+      required: true
+    - id: 24
+      name: breeding_history
+      label: Breeding History
+      hint: Previous breeding information
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: previous_breedings
+      label: Number of Previous Breedings
+      hint: How many times bred
+      type: select_one
+      options:
+      - Never bred
+      - 1-2 times
+      - 3-5 times
+      - More than 5 times
+      required: true
+    - id: 26
+      name: litter_history
+      label: Previous Litter Information
+      hint: Sizes, outcomes, complications
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: breeding_goals
+      label: Breeding Goals
+      hint: What are your objectives
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: preferred_traits
+      label: Preferred Traits in Offspring
+      hint: Desired characteristics
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: program_type
+      label: Type of Breeding Program
+      hint: Program classification
+      type: select_one
+      options:
+      - Conformation breeding
+      - Performance breeding
+      - Companion breeding
+      - Working line breeding
+      - Preservation breeding
+      required: true
+    - id: 30
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: Breeding program policies
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: stud_contract
+      label: Is a stud contract required
+      hint: Contract status
+      type: select_one
+      options:
+      - Yes - standard contract
+      - Yes - custom contract
+      - false
+      required: false
+    - id: 32
+      name: puppy_kitten_disposition
+      label: What is the plan for offspring
+      hint: Disposition plans
+      type: select_one
+      options:
+      - Show homes
+      - Performance homes
+      - Companion pets
+      - Mixed approach
+      - Undecided
+      required: false
+    - id: 33
+      name: owner_agreement
+      label: I agree to comply with breeding program requirements
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 34
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: breeder_signature
+      label: Breeder Program Signature
+      hint: Program representative
+      type: text
+      options: []
+      required: true

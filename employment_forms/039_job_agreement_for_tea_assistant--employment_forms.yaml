@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Agreement For Tea Assistant
+    pages:
+    - id: 1
+      name: employment_terms
+      label: employment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: working_hours
+      label: working_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tea_assistant_responsibilities
+      label: tea_assistant_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tea_assistant_contract
+      label: tea_assistant_contract
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false

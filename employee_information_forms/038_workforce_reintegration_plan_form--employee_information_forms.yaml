@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: workforce_reintegration_plan_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_return_to_work
+      label: Date of Return to Work
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: accommodations_provided
+      label: Accommodations Provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

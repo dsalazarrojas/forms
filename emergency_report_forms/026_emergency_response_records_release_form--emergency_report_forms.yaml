@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: emergency_response_records_release_form
+    pages:
+    - id: 1
+      name: emergency_response_records_release_form_first_page
+      label: Emergency Response Records Release Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_response_records_release_form_first_section
+      label: What is the reason for sharing your medical information?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Emergency''}'
+      - '{''id'': 2, ''label'': ''Medical''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: emergency_response_records_release_form_other_reason
+      label: Other
+      hint: If other, please specify
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_response_records_release_form_contact_method
+      label: How would you like your information to be shared?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Emergency responders''}'
+      - '{''id'': 2, ''label'': ''Emergency Department''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: emergency_response_records_release_form_other_contact_method
+      label: Other
+      hint: Please specify the name of the recipient
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_response_records_release_form_consent
+      label: I understand the above and consent to share my medical information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: emergency_response_records_release_form_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

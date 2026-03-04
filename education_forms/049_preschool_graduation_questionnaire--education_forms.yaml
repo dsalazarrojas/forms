@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Graduation Questionnaire
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_assessment
+      label: Date of Graduation Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: teacher_assessment
+      label: Teacher Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: teacher_suggestion
+      label: Teacher Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_rating
+      label: Student Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: parent_rating
+      label: Parent Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: teacher_recommendation
+      label: Teacher Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

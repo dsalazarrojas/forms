@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidates Enquiry Form
+    pages:
+    - id: 1
+      name: enquiry_contact_section
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: enquiry_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: enquiry_email_addr
+      label: Email Address
+      hint: To send our response
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: enquiry_phone_addr
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_job_role_enquirer
+      label: Current Position
+      hint: What is your current title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nature_of_enquiry_section
+      label: -- Nature of Enquiry --
+      hint: help us direct your question
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: enquiry_reason_primary
+      label: Reason for contacting us
+      hint: Choose the most accurate category
+      type: select_one
+      options:
+      - General Inquiry
+      - Application Status Update
+      - Technical Issue with Portal
+      - Compensation and Benefits Query
+      - Career Path Information
+      - Other
+      required: true
+    - id: 8
+      name: role_of_enquiry_interest
+      label: Which role is your enquiry about
+      hint: Mention the job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_id_if_known
+      label: Job ID (if known)
+      hint: Found in the vacancy description
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: detailed_question_section
+      label: -- Detailed Question --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: enquiry_description_text
+      label: Description of enquiry
+      hint: Please provide as much detail as possible to help us assist you
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_contact_history
+      label: Previous contact with our team
+      hint: Have you reached out before regarding this
+      type: select_one
+      options:
+      - Yes, within 30 days
+      - Yes, more than 30 days ago
+      - No, this is my first time
+      required: true
+    - id: 13
+      name: previous_contact_person_name
+      label: Name of person you previously spoke to
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: enquiry_preferences_section
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: response_method_pref
+      label: Preferred method of response
+      hint: How should we get back to you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: true
+    - id: 16
+      name: best_reach_time_enquirer
+      label: Best time to reach you
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 17
+      name: contact_data_consent_enquirer
+      label: I agree to the processing of my contact information
+      hint: To handle your enquiry and follow up
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 18
+      name: enquiry_submission_date_field
+      label: Date of Enquiry
+      hint: null
+      type: date
+      options: []
+      required: true

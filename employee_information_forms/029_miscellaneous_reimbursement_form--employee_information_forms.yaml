@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Miscellaneous Reimbursement Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_employer
+      label: form_employer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_insurance
+      label: form_insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_expense_type
+      label: form_expense_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_expense_date
+      label: form_expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_expense_amount
+      label: form_expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_expense_details
+      label: form_expense_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submission_date
+      label: form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_attachment
+      label: form_attachment
+      hint: null
+      type: text
+      options: []
+      required: false

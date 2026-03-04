@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Enrollment Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birthdate
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: days_attended
+      label: Days Attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: days_available
+      label: Days Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tuition_fees
+      label: Tuition Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: select_one_program
+      label: Select One Program
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Program A''}'
+      - '{''label'': ''Program B''}'
+      - '{''label'': ''Program C''}'
+      required: false
+    - id: 12
+      name: select_multiple_programs
+      label: Select Multiple Programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Program A''}'
+      - '{''label'': ''Program B''}'
+      - '{''label'': ''Program C''}'
+      required: false
+    - id: 13
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

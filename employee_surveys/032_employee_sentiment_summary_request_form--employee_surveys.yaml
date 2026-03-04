@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Sentiment Summary Request Form
+    pages:
+    - id: 1
+      name: employee_sentiment_summary_request_form
+      label: Employee Sentiment Summary Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporting_line_manager_id
+      label: Reporting Line Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reporting_line_manager_name
+      label: Reporting Line Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sentiment_summary_request_date
+      label: Sentiment Summary Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sentiment_summary_request_time
+      label: Sentiment Summary Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manager_sentiment_score
+      label: Manager Sentiment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_sentiment_comment
+      label: Manager Sentiment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_sentiment_score
+      label: Employee Sentiment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employee_sentiment_comment
+      label: Employee Sentiment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_sentiment_impact_score
+      label: Manager Sentiment Impact Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: manager_sentiment_impact_comment
+      label: Manager Sentiment Impact Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_sentiment_impact_score
+      label: Employee Sentiment Impact Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: employee_sentiment_impact_comment
+      label: Employee Sentiment Impact Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_manager
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_to_manager
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager'', ''label'': ''Manager''}'
+      - '{''value'': ''Department'', ''label'': ''Department''}'
+      - '{''value'': ''HR'', ''label'': ''HR''}'
+      required: false
+    - id: 18
+      name: submitted_by_date
+      label: Submitted By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_to_date
+      label: Submitted To Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_manager_name
+      label: Submitted By Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_to_manager_name
+      label: Submitted To Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false

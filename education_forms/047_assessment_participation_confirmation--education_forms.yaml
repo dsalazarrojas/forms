@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Participation Confirmation
+    pages:
+    - id: 1
+      name: participant_full_name_conf
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_id_email_conf
+      label: Participant ID or Email Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_title_conf
+      label: Assessment Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scheduled_datetime_conf
+      label: Scheduled Date and Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_confirmation_val
+      label: I confirm that I will attend this assessment at the scheduled time
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I need to reschedule
+      required: true
+    - id: 6
+      name: terms_consent_conf
+      label: I consent to the assessment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 7
+      name: internet_stability_check
+      label: I have access to a stable internet connection - for online tests
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 8
+      name: hardware_type_conf
+      label: Which device will you be using for the assessment
+      hint: null
+      type: select_one
+      options:
+      - Laptop/Desktop Computer
+      - Tablet Device
+      - Smartphone
+      - Provided Lab Computer
+      required: true
+    - id: 9
+      name: emergency_contact_conf
+      label: Emergency Contact Name and Phone
+      hint: For any technical or personal issues during the session
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recording_acknowledgment_conf
+      label: I acknowledge that this session may be recorded for proctoring purposes
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: false
+    - id: 11
+      name: confirmation_timestamp
+      label: Date of Confirmation
+      hint: null
+      type: date
+      options: []
+      required: true

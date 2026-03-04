@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Flexibility Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_flexibility
+      label: How would you rate your perception of job flexibility
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_life_balance
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not very satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 4
+      name: career_development
+      label: How satisfied are you with your career development opportunities?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not very satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 5
+      name: flexible_work_arrangements
+      label: How often do you have flexible work arrangements?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 6
+      name: manager_support
+      label: How often does your manager support flexible work arrangements?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 7
+      name: employee_perception
+      label: What is your perception of the impact on employee well-being?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Neutral''}'
+      required: false
+    - id: 8
+      name: manager_perception
+      label: What is your perception of the impact on manager well-being?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Neutral''}'
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with your work arrangement?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not very satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 10
+      name: feedback
+      label: Any additional comments or feedback?
+      hint: Please provide any additional comments or feedback
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_information
+      label: Your contact information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Direct''}'
+      - '{''label'': ''Matrix''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 20
+      name: job_classification
+      label: Job classification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Temporary''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 22
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: departmental
+      label: Departmental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_family
+      label: Job family
+      hint: null
+      type: text
+      options: []
+      required: false

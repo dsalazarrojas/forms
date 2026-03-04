@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Readiness Assessment
+    pages:
+    - id: 1
+      name: employee_surveys
+      label: Employee Surveys
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_surveys_category
+      label: Employee Surveys
+      hint: null
+      type: select_one
+      options:
+      - Employee Surveys
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_multiple
+      options:
+      - JSON
+      - CSV
+      - Excel
+      required: false
+    - id: 5
+      name: sync_apps
+      label: Sync Apps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: no_coding_required
+      label: No Coding Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_2
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

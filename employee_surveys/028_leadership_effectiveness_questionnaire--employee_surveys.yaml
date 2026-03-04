@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Effectiveness Questionnaire
+    pages:
+    - id: 1
+      name: employee_surveys_form
+      label: Employee Surveys Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_one
+      options:
+      - Leadership
+      - Communication
+      - Problem-solving
+      required: true
+    - id: 3
+      name: leadership_capabilities
+      label: Leadership Capabilities Form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Form Question 1
+      - Form Question 2
+      - Form Question 3
+      - Form Question 4
+      - Form Question 5
+      - Form Question 6
+      - Form Question 7
+      - Form Question 8
+      - Form Question 9
+      - Form Question 10
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_jimmy2
+      - chat_jimmy3
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Employee Surveys
+      - Other Category
+      required: false

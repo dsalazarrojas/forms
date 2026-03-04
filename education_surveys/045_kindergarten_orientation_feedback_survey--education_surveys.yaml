@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Orientation Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: How satisfied are you with the orientation?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Extremely Satisfied''}'
+      - '{''text'': ''Somewhat Satisfied''}'
+      - '{''text'': ''Somewhat Dissatisfied''}'
+      - '{''text'': ''Extremely Dissatisfied''}'
+      required: false
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: How would you rate the orientation?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

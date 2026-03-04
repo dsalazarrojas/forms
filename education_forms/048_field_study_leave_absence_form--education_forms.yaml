@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Study Leave Absence Form
+    pages:
+    - id: 1
+      name: field_study_leave_absence_form_page_1
+      label: field_study_leave_absence_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: student_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: field_studies
+      label: field_studies
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: dates_of_absence
+      label: dates_of_absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration_absence
+      label: duration_absence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: true

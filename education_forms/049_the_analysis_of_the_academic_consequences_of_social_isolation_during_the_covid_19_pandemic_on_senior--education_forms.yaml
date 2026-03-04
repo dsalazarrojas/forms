@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: The Analysis Of The Academic Consequences Of Social Isolation During The
+      COVID 19 Pandemic On Senior
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Senior Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender (male/female)
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: false
+    - id: 4
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: previous_experience
+      label: Previous Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question1
+      label: How many hours do you spend studying in a day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question2
+      label: How many hours do you spend watching TV?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question3
+      label: What time of day do you usually study?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question4
+      label: Do you have a job or attend school?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 11
+      name: question5
+      label: How much time do you usually spend on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: question6
+      label: How many hours do you usually sleep in a day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: question7
+      label: Have you been to see a mental health professional?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

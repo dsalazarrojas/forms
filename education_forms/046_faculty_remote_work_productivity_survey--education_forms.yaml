@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Remote Work Productivity Survey
+    pages:
+    - id: 1
+      name: faculty_remote_work_productivity_survey_form
+      label: faculty_remote_work_productivity_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''time_management''}'
+      - '{''id'': 2, ''name'': ''technical_issues''}'
+      - '{''id'': 3, ''name'': ''communication''}'
+      - '{''id'': 4, ''name'': ''collaboration''}'
+      - '{''id'': 5, ''name'': ''other''}'
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied''}'
+      - '{''id'': 4, ''name'': ''neutral''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false
+    - id: 4
+      name: productivity
+      label: productivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_from_home_frequency
+      label: work_from_home_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: work_from_home_duration
+      label: work_from_home_duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_from_home_location
+      label: work_from_home_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_from_home_equipment
+      label: work_from_home_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_from_home_internet_speed
+      label: work_from_home_internet_speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_from_home_collaboration_tools
+      label: work_from_home_collaboration_tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_from_home_challenges
+      label: work_from_home_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_from_home_satisfaction
+      label: work_from_home_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied''}'
+      - '{''id'': 4, ''name'': ''neutral''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false
+    - id: 13
+      name: work_from_home_suggested_improvements
+      label: work_from_home_suggested_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: faculty_remote_work_productivity
+      label: faculty_remote_work_productivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_from_home_frequency_other
+      label: work_from_home_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_from_home_duration_other
+      label: work_from_home_duration_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_from_home_location_other
+      label: work_from_home_location_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_from_home_equipment_other
+      label: work_from_home_equipment_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_from_home_internet_speed_other
+      label: work_from_home_internet_speed_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_from_home_collaboration_tools_other
+      label: work_from_home_collaboration_tools_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: work_from_home_challenges_other
+      label: work_from_home_challenges_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: work_from_home_satisfaction_other
+      label: work_from_home_satisfaction_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: work_from_home_suggested_improvements_other
+      label: work_from_home_suggested_improvements_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: work_from_home_satisfaction_scale
+      label: work_from_home_satisfaction_scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied''}'
+      - '{''id'': 4, ''name'': ''neutral''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false
+    - id: 25
+      name: faculty_remote_work_productivity_scale
+      label: faculty_remote_work_productivity_scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied''}'
+      - '{''id'': 4, ''name'': ''neutral''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false

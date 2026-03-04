@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Curriculum Assessment Questionnaire
+    pages:
+    - id: 1
+      name: questionnaire_header
+      label: -- Academic Curriculum Assessment Questionnaire --
+      hint: Provide feedback on the curriculum for the current academic term
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: respondent_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Faculty Member
+        - Department Head
+        - Curriculum Committee Member
+        - External Reviewer
+      required: true
+    - id: 7
+      name: academic_term
+      label: Which academic term are you evaluating
+      hint: e.g. Fall 2025, Spring 2026
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: curriculum_quality_section
+      label: -- Curriculum Quality Ratings --
+      hint: Rate each aspect from 1 (very poor) to 5 (excellent)
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: course_content_relevance
+      label: Relevance of course content to program objectives
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 10
+      name: learning_outcomes_clarity
+      label: Clarity of stated learning outcomes
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 11
+      name: course_sequencing
+      label: Logical sequencing of courses within the program
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 12
+      name: workload_balance
+      label: Balance of workload across courses
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 13
+      name: assessment_methods
+      label: Appropriateness of assessment methods
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 14
+      name: industry_alignment
+      label: Alignment of curriculum with industry or professional needs
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 15
+      name: practical_component
+      label: Adequacy of practical or experiential learning components
+      hint: null
+      type: select_one
+      options:
+        - 1 - Very Poor
+        - 2 - Poor
+        - 3 - Adequate
+        - 4 - Good
+        - 5 - Excellent
+      required: true
+    - id: 16
+      name: feedback_section
+      label: -- Open Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: curriculum_strengths
+      label: What are the greatest strengths of the current curriculum
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: areas_for_improvement
+      label: What areas of the curriculum need the most improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: courses_to_add
+      label: Are there any courses or topics you feel are missing from the curriculum
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: courses_to_remove
+      label: Are there any courses or topics that should be removed or reduced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Any additional comments or recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

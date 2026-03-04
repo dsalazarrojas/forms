@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Munitions Discovery Report
+    pages:
+    - id: 1
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: CDL Driver Pre-Qualification Form
+    pages:
+    - id: 1
+      name: driver_intro_section
+      label: -- Driver Pre-Qualification and Screening --
+      hint: This form is part of the initial screening process for CDL drivers.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name (as on license)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cdl_license_number
+      label: Commercial Driver License (CDL) Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: license_issue_state
+      label: State of Issuance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cdl_class_type
+      label: License Class
+      hint: null
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 6
+      name: cdl_endorsements_held
+      label: Current Endorsements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - T - Double/Triple Trailers
+      - P - Passenger
+      - N - Tank Vehicle
+      - H - Hazardous Materials
+      - X - Tanker/Hazardous Combined
+      - S - School Bus
+      required: false
+    - id: 7
+      name: driving_experience_years
+      label: Total Years of Commercial Driving Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: recent_accident_history
+      label: Number of preventable accidents in the last 3 years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: recent_violation_history
+      label: Number of moving violations in the last 3 years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: felony_conviction_check
+      label: Have you ever been convicted of a felony involving a motor vehicle?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: air_brake_restriction
+      label: Do you have an Air Brake Restriction (L)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: medical_card_status
+      label: Is your DOT Medical Card current?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: driver_consent_mvr
+      label: I consent to a Motor Vehicle Record (MVR) background check
+      hint: Required for application processing
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 14
+      name: drug_testing_acknowledgment
+      label: I agree to undergo pre-employment drug and alcohol testing
+      hint: Compliance with DOT regulations
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: driver_applicant_signature
+      label: Applicant Digital Signature
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pre_qual_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

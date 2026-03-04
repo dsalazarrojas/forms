@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: My Online Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: answers
+      label: answers
+      hint: null
+      type: text
+      options: []
+      required: false

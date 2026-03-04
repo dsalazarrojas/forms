@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_lesson_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      - Cello
+      - Drums
+      - Voice
+      - Other
+      required: false
+    - id: 7
+      name: music_lesson_goals
+      label: Music Lesson Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false

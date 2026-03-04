@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postdoctoral Scholar Hire Notification Form
+    pages:
+    - id: 1
+      name: new_scholar
+      label: New Scholar
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scholar_info
+      label: Scholar Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: job_application_id
+      label: Job Application ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_date_month
+      label: Start Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_opening_number
+      label: Job Opening Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: job_opening_id
+      label: Job Opening ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

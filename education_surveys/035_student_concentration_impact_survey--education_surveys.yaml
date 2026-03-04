@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Concentration Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How would you rate your ability to focus in class?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: focus
+      label: How would you rate your focus in class?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: classroom_distract
+      label: What types of distractions do you experience in class?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: study_habits
+      label: How many hours do you typically study each day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: study_habits_frequency
+      label: How often do you study outside of class?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: time_management
+      label: How do you manage your time?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

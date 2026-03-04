@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Parent Survey
+    pages:
+      - id: 1
+        name: parent_name
+        label: Parent or guardian name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_grade
+        label: Student grade
+        hint: Grade level
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: comfort_with_remote_learning
+        label: Comfort with remote learning
+        hint: Rate preparedness for remote instruction
+        type: select_one
+        options: [Not comfortable, Somewhat comfortable, Comfortable, Very comfortable]
+        required: false
+      - id: 4
+        name: concerns_about_reopening
+        label: Top concerns about reopening
+        hint: Health logistics transportation
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: support_needed
+        label: Support needed from school
+        hint: Academic tech social services
+        type: select_multiple
+        options: [Academic support, Technology help, Counseling, Meal programs]
+        required: false
+      - id: 6
+        name: communication_preference
+        label: Communication preference
+        hint: How you prefer to receive updates
+        type: select_one
+        options: [Email, Phone, Text, School portal]
+        required: false
+      - id: 7
+        name: transportation_needs
+        label: Transportation needs
+        hint: Bus pickup drop off details
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Anything else for school leadership
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: survey_date
+        label: Survey completion date
+        hint: Date completed
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: consent_to_follow_up
+        label: Consent to follow up
+        hint: May be contacted for clarification
+        type: select_one
+        options: [Yes, No]
+        required: false

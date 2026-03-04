@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Experiential Learning Report Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_information
+      label: student_information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: teacher_information
+      label: teacher_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: activity_info
+      label: activity_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early-Childhood-Observation-Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_text
+      label: introduction-text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: child_assessment
+      label: child-assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': "Child''s cognitive development"}'
+      - '{''value'': "Child''s emotional development"}'
+      - '{''value'': "Child''s physical development"}'
+      required: false
+    - id: 4
+      name: educator_assessment
+      label: educator-assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes, this is an accurate assessment.''}'
+      - '{''value'': ''No, this is not an accurate assessment.''}'
+      required: false
+    - id: 5
+      name: observations
+      label: observations
+      hint: Provide as much detail as you can about your observations of the child's
+        behavior in this setting.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: child_assessment_ratings
+      label: child-assessment-ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: educator_assessment_ratings
+      label: educator-assessment-ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: child_development
+      label: child-development
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Social and emotional development''}'
+      - '{''value'': ''Cognitive development''}'
+      - '{''value'': ''Physical development''}'
+      required: false
+    - id: 9
+      name: time_of_day
+      label: time-of-day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date_of_observation
+      label: date-of-observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: educator_identification
+      label: educator-identification
+      hint: null
+      type: text
+      options: []
+      required: false

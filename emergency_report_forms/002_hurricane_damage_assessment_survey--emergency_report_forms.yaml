@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hurricane Damage Assessment Survey
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: damage_description
+      label: Damage Description
+      hint: Please describe the damage you experienced during the hurricane.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: damage_photos
+      label: Damage Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_damage_occurred
+      label: Date of Damage
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_damage_occurred
+      label: Time of Damage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_organization
+      label: Inspector Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_manager_organization
+      label: Property Manager Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: community_organization
+      label: Community Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: select_one
+      options:
+      - wind
+      - storm surge
+      - flood
+      - other
+      required: true
+    - id: 14
+      name: damage_amount
+      label: Damage Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: damage_location
+      label: Damage Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_claim_status
+      label: Insurance Claim Status
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 18
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_owner_comments
+      label: Property Owner Comments
+      hint: null
+      type: text
+      options: []
+      required: false

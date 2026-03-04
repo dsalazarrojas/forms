@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Distance Learning Feedback Survey
+    pages:
+    - id: 1
+      name: online_learning_quality
+      label: online learning quality
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of online content
+      - Accessibility of online resources
+      - Effectiveness of online communication
+      - Other (please specify)
+      required: true
+    - id: 2
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Regular emails and updates
+      - Live online support
+      - No support at all
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: support_services
+      label: support services
+      hint: null
+      type: select_multiple
+      options:
+      - Support for course material understanding
+      - Support for technical issues
+      - Support for personal issues
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: true
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: university
+      label: university
+      hint: null
+      type: select_one
+      options:
+      - University of Distance Learning
+      - Other
+      required: true
+    - id: 9
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: true
+    - id: 10
+      name: course
+      label: course
+      hint: null
+      type: select_one
+      options:
+      - Course 1
+      - Course 2
+      - Course 3
+      required: true
+    - id: 11
+      name: course_section
+      label: course section
+      hint: null
+      type: select_one
+      options:
+      - Section 1
+      - Section 2
+      - Section 3
+      required: true
+    - id: 12
+      name: instructor
+      label: instructor
+      hint: null
+      type: select_one
+      options:
+      - Instructor 1
+      - Instructor 2
+      - Instructor 3
+      required: true
+    - id: 13
+      name: other_instructor
+      label: other instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_program
+      label: other program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_course
+      label: other course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_section
+      label: other section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_instructor
+      label: other instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_services
+      label: other services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_comments
+      label: other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_email
+      label: other email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: other_university
+      label: other university
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_program
+      label: other program
+      hint: null
+      type: select_one
+      options:
+      - Program 4
+      - Program 5
+      required: false
+    - id: 23
+      name: other_course
+      label: other course
+      hint: null
+      type: select_one
+      options:
+      - Course 4
+      - Course 5
+      required: false
+    - id: 24
+      name: other_section
+      label: other section
+      hint: null
+      type: select_one
+      options:
+      - Section 4
+      - Section 5
+      required: false
+    - id: 25
+      name: other_instructor
+      label: other instructor
+      hint: null
+      type: select_one
+      options:
+      - Instructor 4
+      - Instructor 5
+      required: false

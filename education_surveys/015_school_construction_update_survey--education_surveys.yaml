@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Construction Update Survey
+    pages:
+    - id: 1
+      name: project_status
+      label: What is the status of your school building project?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: project_location
+      label: Project location (city, state, or region)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: building_name
+      label: Building name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_start_date
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: Project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: school_budget
+      label: School budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_manager
+      label: Project manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

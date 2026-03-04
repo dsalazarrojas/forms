@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: P11DSubmission
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: car_details
+      label: Car Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: car_type
+      label: Car Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Van
+      - Truck
+      required: true
+    - id: 5
+      name: car_year
+      label: Car Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: car_color
+      label: Car Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      required: true
+    - id: 10
+      name: benefits_status
+      label: Benefits Status
+      hint: null
+      type: select_one
+      options:
+      - Eligible
+      - Not Eligible
+      - Pending
+      required: true
+    - id: 11
+      name: benefits_start_date
+      label: Benefits Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: benefits_end_date
+      label: Benefits End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes_for_benefits
+      label: Notes for benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: car_make
+      label: Car Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: car_model
+      label: Car Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: car_year_purchase
+      label: Car Year Purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: car_year_sold
+      label: Car Year Sold
+      hint: null
+      type: number
+      options: []
+      required: false

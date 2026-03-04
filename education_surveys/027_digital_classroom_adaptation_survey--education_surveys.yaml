@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Classroom Adaptation Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Administration
+      - Science
+      - Technology
+      - Engineering
+      - Mathematics
+      - Arts
+      - Languages
+      - Social Sciences
+      - Special Education
+      - Other
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Charter
+      required: true
+    - id: 6
+      name: adaptation_level
+      label: Adaptation Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: technology_used
+      label: Technology Used
+      hint: null
+      type: select_multiple
+      options:
+      - Google Meet
+      - Zoom
+      - Skype
+      - Microsoft Teams
+      - Other
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: other_technology
+      label: Other Technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

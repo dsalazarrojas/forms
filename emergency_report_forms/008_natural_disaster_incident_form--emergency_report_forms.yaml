@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: natural-disaster-incident-form
+    pages:
+    - id: 1
+      name: incident_info
+      label: Incident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: damage_description
+      label: Damage Description
+      hint: Describe the damage to the property
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: affected_people
+      label: Affected People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: damage_amount
+      label: Damage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_time_2
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

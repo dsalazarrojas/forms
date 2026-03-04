@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_content_creator_employment_balance_form
+    pages:
+    - id: 1
+      name: creator_name
+      label: Creator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: work_hours_note
+      label: work_hours_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: work_life_balance_note
+      label: work_life_balance_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: creator_email
+      label: Creator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: creator_phone
+      label: Creator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: creator_workload
+      label: Creator Workload
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Status Survey
+    pages:
+    - id: 1
+      name: academic_status_survey_intro
+      label: Academic Status Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student completing the survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Official student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: academic_program
+      label: Academic Program
+      hint: Current program or major
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: academic_year
+      label: Academic Year
+      hint: Current year in the program (freshman, sophomore, etc.)
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate student
+      - Postgraduate
+      - Other
+      required: true
+    - id: 6
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Current enrollment status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - On leave
+      - Distance learning
+      - Other
+      required: true
+    - id: 7
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: Rate your overall satisfaction with your academic experience (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: course_quality_rating
+      label: Course Quality Rating
+      hint: Rate the quality of courses in your program (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: faculty_support_rating
+      label: Faculty Support Rating
+      hint: Rate the support provided by faculty members (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: academic_advising_rating
+      label: Academic Advising Rating
+      hint: Rate the quality of academic advising (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: campus_resources_rating
+      label: Campus Resources Rating
+      hint: Rate the availability and quality of campus resources (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: career_services_rating
+      label: Career Services Rating
+      hint: Rate the effectiveness of career services (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: academic_progress_satisfaction
+      label: Academic Progress Satisfaction
+      hint: Are you satisfied with your academic progress?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: program_recommendation_likelihood
+      label: Program Recommendation Likelihood
+      hint: How likely are you to recommend your program to others? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: academic_challenges_faced
+      label: Academic Challenges Faced
+      hint: What are the main academic challenges you face? (Select all that apply)
+      type: select_multiple
+      options:
+      - Course difficulty
+      - Time management
+      - Financial constraints
+      - Lack of support
+      - Unclear expectations
+      - Workload
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: support_services_utilization
+      label: Support Services Utilization
+      hint: Have you utilized academic support services?
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, but interested
+      - No, not needed
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about your academic experience?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_relations_application_tracker
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_applied
+      label: Job Applied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Interviewing
+      - Rejected
+      - Hired
+      - Applied
+      - Declined
+      - On Hold
+      required: false
+    - id: 10
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false

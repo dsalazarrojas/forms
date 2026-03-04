@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Progress Evaluation
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter student name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      - Fourth
+      - Fifth
+      required: false
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: Enter teacher name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Report Card
+      - Progress Report
+      required: false
+    - id: 14
+      name: student_progress
+      label: Student Progress
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Needs Improvement
+      - Unsatisfactory
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Perception Survey
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: class_id
+      label: Class Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: course_id
+      label: Course Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question1
+      label: How often do you think the teacher asks for feedback?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: question2
+      label: How do you rate the class work environment?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: question3
+      label: How would you rate the teacher's teaching style?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 8
+      name: question4
+      label: How do you feel about the class work schedule?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 9
+      name: question5
+      label: Do you like the class size?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 10
+      name: question6
+      label: Would you recommend this class to other students?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false

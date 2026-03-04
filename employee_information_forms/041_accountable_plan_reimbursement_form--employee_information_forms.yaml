@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accountable Plan Reimbursement Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_expense_details
+      label: -- Expense Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expense_date
+      label: Date of Expense
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Travel - Airfare
+      - Travel - Hotel
+      - Travel - Ground transportation
+      - Meals and entertainment
+      - Office supplies
+      - Professional development
+      - Mileage
+      - Other
+      required: true
+    - id: 11
+      name: business_purpose
+      label: Business Purpose of Expense
+      hint: Describe the business reason for this expense
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expense_amount
+      label: Expense Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: receipt_attached
+      label: Is a Receipt Attached
+      hint: Receipts are required for all expenses over $25
+      type: select_one
+      options:
+      - true
+      - No - Lost receipt (explanation required)
+      required: true
+    - id: 14
+      name: lost_receipt_explanation
+      label: Lost Receipt Explanation (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_reimbursement
+      label: -- Reimbursement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: total_reimbursement
+      label: Total Reimbursement Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Preferred Reimbursement Method
+      hint: null
+      type: select_one
+      options:
+      - Direct deposit
+      - Company check
+      - Payroll addition
+      required: true
+    - id: 18
+      name: advance_received
+      label: Was an Advance Received for This Expense
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: advance_amount
+      label: Advance Amount Received (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: certification
+      label: I Certify These Expenses Were Incurred for Legitimate Business Purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - Other
+      required: true

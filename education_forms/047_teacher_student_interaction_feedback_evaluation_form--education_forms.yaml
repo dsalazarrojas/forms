@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Student Interaction Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_rating
+      label: How would you rate your interaction with the teacher?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: teacher_support
+      label: How often did the teacher provide support when you needed it?
+      hint: null
+      type: select_one
+      options:
+      - '{''Support'': ''Often''}'
+      - '{''Support'': ''Sometimes''}'
+      - '{''Support'': ''Rarely''}'
+      required: false
+    - id: 3
+      name: teacher_help
+      label: How often did the teacher offer help when you needed it?
+      hint: null
+      type: select_one
+      options:
+      - '{''Support'': ''Often''}'
+      - '{''Support'': ''Sometimes''}'
+      - '{''Support'': ''Rarely''}'
+      required: false
+    - id: 4
+      name: classwork_completion
+      label: Classwork completion and submission rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: homework_completion
+      label: Homework completion rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: teacher_feedback
+      label: How often did the teacher offer feedback on your work?
+      hint: null
+      type: select_one
+      options:
+      - '{''Feedback'': ''Often''}'
+      - '{''Feedback'': ''Sometimes''}'
+      - '{''Feedback'': ''Rarely''}'
+      required: false
+    - id: 7
+      name: class_attendance
+      label: Class attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication
+      label: Teacher communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_management
+      label: How would you rate the teacher's time management?
+      hint: null
+      type: select_one
+      options:
+      - '{''Time Management'': ''Often''}'
+      - '{''Time Management'': ''Sometimes''}'
+      - '{''Time Management'': ''Rarely''}'
+      required: false
+    - id: 10
+      name: overall_experience
+      label: Overall experience with the teacher
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: teacher_clarity
+      label: How clear were the teacher's instructions?
+      hint: null
+      type: select_one
+      options:
+      - '{''Clarity'': ''Often''}'
+      - '{''Clarity'': ''Sometimes''}'
+      - '{''Clarity'': ''Rarely''}'
+      required: false
+    - id: 12
+      name: teacher_helpfulness
+      label: How helpful was the teacher in class?
+      hint: null
+      type: select_one
+      options:
+      - '{''Helpfulness'': ''Often''}'
+      - '{''Helpfulness'': ''Sometimes''}'
+      - '{''Helpfulness'': ''Rarely''}'
+      required: false
+    - id: 13
+      name: teacher_fairness
+      label: How fair was the teacher's grading system?
+      hint: null
+      type: select_one
+      options:
+      - '{''Fairness'': ''Often''}'
+      - '{''Fairness'': ''Sometimes''}'
+      - '{''Fairness'': ''Rarely''}'
+      required: false
+    - id: 14
+      name: student_learning_goals
+      label: How well did the teacher help you set and achieve your learning goals?
+      hint: null
+      type: select_one
+      options:
+      - '{''Goal Setting'': ''Often''}'
+      - '{''Goal Setting'': ''Sometimes''}'
+      - '{''Goal Setting'': ''Rarely''}'
+      required: false
+    - id: 15
+      name: student_autonomy
+      label: How much freedom did the teacher give you to make choices and decisions?
+      hint: null
+      type: select_one
+      options:
+      - '{''Autonomy'': ''Often''}'
+      - '{''Autonomy'': ''Sometimes''}'
+      - '{''Autonomy'': ''Rarely''}'
+      required: false
+    - id: 16
+      name: student_self_directed_learning
+      label: How often did the teacher encourage self-directed learning?
+      hint: null
+      type: select_one
+      options:
+      - '{''Self Directed Learning'': ''Often''}'
+      - '{''Self Directed Learning'': ''Sometimes''}'
+      - '{''Self Directed Learning'': ''Rarely''}'
+      required: false
+    - id: 17
+      name: teacher_support_of_students
+      label: How often did the teacher show support for students' well-being?
+      hint: null
+      type: select_one
+      options:
+      - '{''Support of Students'': ''Often''}'
+      - '{''Support of Students'': ''Sometimes''}'
+      - '{''Support of Students'': ''Rarely''}'
+      required: false
+    - id: 18
+      name: teacher_respect
+      label: How much did the teacher show respect towards students?
+      hint: null
+      type: select_one
+      options:
+      - '{''Respect'': ''Often''}'
+      - '{''Respect'': ''Sometimes''}'
+      - '{''Respect'': ''Rarely''}'
+      required: false
+    - id: 19
+      name: teacher_emotional_intelligence
+      label: How well did the teacher understand and manage emotions in the class?
+      hint: null
+      type: select_one
+      options:
+      - '{''Emotional Intelligence'': ''Often''}'
+      - '{''Emotional Intelligence'': ''Sometimes''}'
+      - '{''Emotional Intelligence'': ''Rarely''}'
+      required: false
+    - id: 20
+      name: comments
+      label: Any additional comments about your interaction with the teacher
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: teacher_proficiency
+      label: How much did the teacher help you develop your teaching skills?
+      hint: null
+      type: select_one
+      options:
+      - '{''Proficiency'': ''Often''}'
+      - '{''Proficiency'': ''Sometimes''}'
+      - '{''Proficiency'': ''Rarely''}'
+      required: false
+    - id: 22
+      name: teacher_openness
+      label: How open-minded and receptive is the teacher towards new ideas?
+      hint: null
+      type: select_one
+      options:
+      - '{''Openness'': ''Often''}'
+      - '{''Openness'': ''Sometimes''}'
+      - '{''Openness'': ''Rarely''}'
+      required: false
+    - id: 23
+      name: teacher_culturally_responsive
+      label: How well was the teacher able to incorporate cultural relevance?
+      hint: null
+      type: select_one
+      options:
+      - '{''Culturally Responsive'': ''Often''}'
+      - '{''Culturally Responsive'': ''Sometimes''}'
+      - '{''Culturally Responsive'': ''Rarely''}'
+      required: false
+    - id: 24
+      name: overall_rating
+      label: Overall rating of this course teacher
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments_2
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

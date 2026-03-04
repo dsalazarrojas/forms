@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACCA Enrollment
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As shown on official ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: University or personal email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code (e.g., +44 ...)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: If unknown, leave blank
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Include relationship (e.g., parent, spouse)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Best reachable number
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: section_header_program
+      label: '--- Program & Enrollment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: registration_type
+      label: Registration type
+      hint: Choose the category that applies
+      type: select_one
+      options:
+      - New registrant
+      - Returning registrant
+      - Transfer from another program
+      - Conversion candidate
+      required: true
+    - id: 12
+      name: experience_level
+      label: Accounting/finance experience level
+      hint: Select the option that best describes prior experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: false
+    - id: 13
+      name: preferred_study_mode
+      label: Preferred study mode
+      hint: Select how you intend to study for ACCA
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Online
+      - Self-study
+      required: true
+    - id: 14
+      name: institution_or_employer
+      label: Institution or employer (if applicable)
+      hint: Name of current employer or educational institution, or N/A
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: position_or_role
+      label: Job title or student level
+      hint: e.g., Finance Assistant, Final-year student
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: highest_qualification
+      label: Highest academic qualification
+      hint: Select the highest completed qualification
+      type: select_one
+      options:
+      - High school diploma
+      - Bachelor's degree
+      - Postgraduate degree
+      - Professional qualification
+      - Other
+      required: false
+    - id: 17
+      name: funding_source
+      label: Funding source for studies
+      hint: How will your ACCA costs be covered?
+      type: select_one
+      options:
+      - Self-funded
+      - Employer-sponsored
+      - Scholarship
+      - Government sponsorship
+      - Other
+      required: false
+    - id: 18
+      name: supporting_documents
+      label: Supporting documents submitted
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Official ID
+      - Academic transcript
+      - Passport photo
+      - Proof of address
+      - Reference letter
+      required: false
+    - id: 19
+      name: consent_data_processing
+      label: Consent to process enrollment and membership
+      hint: Consent is required to complete registration
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional comments or special requirements
+      hint: Provide any accessibility needs or questions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: acknowledgement_note
+      label: '--- Program note: Free registration granted and membership fees covered
+        by the program ---'
+      hint: null
+      type: note
+      options: []
+      required: false

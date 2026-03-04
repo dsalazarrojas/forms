@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Counseling Intake Form
+    pages:
+    - id: 1
+      name: intake_header
+      label: -- Intake Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For scheduling follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_employment_status
+      label: Current employment status
+      hint: Choose status
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Other
+      required: true
+    - id: 6
+      name: career_goals
+      label: Career goals
+      hint: Short term and long term goals
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education_background
+      label: Education background
+      hint: Highest level achieved
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skills_and_strengths
+      label: Skills and strengths
+      hint: List relevant skills
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: challenges_facing
+      label: Challenges facing
+      hint: Barriers to employment or goals
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_counseling_format
+      label: Preferred counseling format
+      hint: How sessions should be delivered
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      - Phone
+      required: false

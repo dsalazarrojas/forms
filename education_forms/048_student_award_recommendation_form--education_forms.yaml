@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Award Recommendation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_school
+      label: Student School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_school
+      label: Nominator School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Dr
+      - Prof
+      required: false
+    - id: 10
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: nominator_relationship
+      label: Nominator Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominator_signature
+      label: Nominator Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_award
+      label: Student Award
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: award_category
+      label: Award Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_one
+      options:
+      - Scholarship
+      - Award
+      - Grant
+      - Other
+      required: false
+    - id: 16
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: award_justification
+      label: Award Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - College
+      - University
+      required: false
+    - id: 19
+      name: nominator_comments
+      label: Nominator Comments
+      hint: null
+      type: text
+      options: []
+      required: false

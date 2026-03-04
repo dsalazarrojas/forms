@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Technology Access For Rural Students Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_location
+      label: school_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_district_id
+      label: school_district_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_survey_response
+      label: student_survey_response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: device_access
+      label: device_access
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop Computer
+      - Laptop
+      - Tablet
+      - Smartphone
+      - 'Other:'
+      - 'Other:'
+      - 'Other:'
+      required: false
+    - id: 7
+      name: internet_access
+      label: internet_access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - 'Other:'
+      - 'Other:'
+      - 'Other:'
+      required: false
+    - id: 8
+      name: device_availability
+      label: device_availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 9
+      name: school_technology_availability
+      label: school_technology_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: teacher_technology_availability
+      label: teacher_technology_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: student_internet_access
+      label: student_internet_access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: teacher_internet_access
+      label: teacher_internet_access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: school_wired_network
+      label: school_wired_network
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: school_wifi
+      label: school_wifi
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: school_mobile_network
+      label: school_mobile_network
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: school_other_technology
+      label: school_other_technology
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - 'Other:'
+      required: false
+    - id: 17
+      name: teacher_device_access
+      label: teacher_device_access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - 'Other:'
+      required: false
+    - id: 18
+      name: teacher_device_availability
+      label: teacher_device_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 19
+      name: student_other_technology
+      label: student_other_technology
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - 'Other:'
+      required: false
+    - id: 20
+      name: student_other_device
+      label: student_other_device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - 'Other:'
+      required: false
+    - id: 21
+      name: student_device_availability
+      label: student_device_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 22
+      name: teacher_other_device
+      label: teacher_other_device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - 'Other:'
+      required: false
+    - id: 23
+      name: teacher_other_device_availability
+      label: teacher_other_device_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 24
+      name: student_other_device_availability
+      label: student_other_device_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback On Work Hours Policy
+    pages:
+    - id: 1
+      name: form_instructions
+      label: Form Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_hours
+      label: What are your work hours?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hours_start
+      label: Start hour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hours_end
+      label: End hour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_days
+      label: How many days do you work?
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: work_hours_often
+      label: How often do you work?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 5 hours a week
+      - 5-10 hours a week
+      - More than 10 hours a week
+      required: false
+    - id: 8
+      name: work_hours_frequency
+      label: How do you feel about working long hours?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 9
+      name: work_hours_satisfaction
+      label: Satisfaction level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: work_hours_adequacy
+      label: Adequacy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_hours_flexibility
+      label: Flexibility
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: please_add_your_feedback_here
+      label: Please add your feedback here.
+      hint: null
+      type: text
+      options: []
+      required: false

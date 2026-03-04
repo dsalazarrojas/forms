@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Medical Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergic to penicillin
+      - Allergic to ibuprofen
+      - Allergic to shellfish
+      required: true
+    - id: 6
+      name: medical_condition
+      label: Medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

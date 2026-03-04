@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Seasonal Employment Application
+    pages:
+    - id: 1
+      name: section_applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Best email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applied_for
+      label: Position applied for
+      hint: Role you are applying to
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability_start
+      label: Availability start date
+      hint: Earliest start date available
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: availability_end
+      label: Availability end date
+      hint: Last date available during season
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: certifications
+      label: Certifications held
+      hint: e.g., CSCS, First aid, Forklift
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prior_experience_years
+      label: Prior experience years
+      hint: Years of relevant construction experience
+      type: number
+      options: []
+      required: false

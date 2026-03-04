@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lab Experience Feedback Survey
+    pages:
+    - id: 1
+      name: session_name
+      label: session_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_facilities
+      label: facilities
+      hint: null
+      type: select_one
+      options:
+      - Lab facilities were adequate
+      - Lab facilities were good
+      - Lab facilities were fair
+      - Lab facilities were poor
+      required: true
+    - id: 4
+      name: session_equipment
+      label: equipment
+      hint: null
+      type: select_one
+      options:
+      - The lab equipment was adequate
+      - The lab equipment was good
+      - The lab equipment was fair
+      - The lab equipment was poor
+      required: true
+    - id: 5
+      name: session_instructor
+      label: instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_quality
+      label: session_quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

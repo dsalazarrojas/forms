@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Concepts Quiz
+    pages:
+    - id: 1
+      name: science_concepts_quiz
+      label: What is your favorite science subject?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: science_concepts_2
+      label: What is your age in years?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: science_concepts_3
+      label: How do you prefer to learn science?
+      hint: null
+      type: select_multiple
+      options:
+      - reading
+      - hands-on experimentation
+      - video tutorials
+      - lectures
+      required: false
+    - id: 4
+      name: science_concepts_4
+      label: What is your email address?
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: science_concepts_5
+      label: What is your contact phone number?
+      hint: Please enter your contact number
+      type: text
+      options: []
+      required: false

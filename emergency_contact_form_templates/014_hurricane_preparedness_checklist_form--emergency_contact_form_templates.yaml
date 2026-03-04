@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hurricane Preparedness Checklist Form
+    pages:
+    - id: 1
+      name: hurricane_preparedness_checklist_form
+      label: Emergency Plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: supplies
+      label: Inventory Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Provide emergency contact information
+      type: select_one
+      options:
+      - Name
+      - Phone
+      - Email
+      required: false

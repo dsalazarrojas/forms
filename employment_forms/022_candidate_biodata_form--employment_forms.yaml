@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Biodata Form
+    pages:
+    - id: 1
+      name: personal_data_section
+      label: -- Personal Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: For diversity and identification purposes
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Other
+      required: true
+    - id: 6
+      name: nationality
+      label: Nationality
+      hint: Country of citizenship
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: id_passport_number
+      label: National ID or Passport Number
+      hint: Used for background verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Primary mobile or home phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: permanent_address
+      label: Permanent Address
+      hint: Full home address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: family_details_section
+      label: -- Family Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: father_name
+      label: Father's Name
+      hint: Full name of your father
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mother_name
+      label: Mother's Name
+      hint: Full name of your mother
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dependents_count
+      label: Number of Dependents
+      hint: Children or other relatives you support
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Person
+      hint: Who should we notify in an emergency
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_rel
+      label: Emergency Contact Relationship
+      hint: e.g. Spouse, Parent, Friend
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: professional_background_section
+      label: -- Professional Background --
+      hint: Current career status
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_job_title
+      label: Current Job Title
+      hint: If unemployed, please state N/A
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: current_employer
+      label: Current Employer
+      hint: Your current organization
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: academic_qualification
+      label: Highest Academic Qualification
+      hint: Your most advanced degree
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: languages_spoken
+      label: Key Languages Spoken
+      hint: Select all that you speak fluently
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Other
+      required: true
+    - id: 23
+      name: relocate_willingness
+      label: Willingness to Relocate
+      hint: Are you open to moving for the role
+      type: select_one
+      options:
+      - true
+      - false
+      - Negotiable
+      required: true
+    - id: 24
+      name: biodata_confirmation
+      label: I confirm the biodata is accurate
+      hint: My signature confirms all details are true
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

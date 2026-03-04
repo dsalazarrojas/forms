@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_transformation_pulse_survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Corporate Transformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role in the Company
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''CEO''}'
+      - Team Lead
+      - Employee
+      required: false
+    - id: 3
+      name: department
+      label: Department(s) Affiliated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''HR''}'
+      - Finance
+      - Marketing
+      - Sales
+      - IT
+      required: false
+    - id: 4
+      name: sentiment
+      label: Current Sentiment
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: confidence
+      label: Confidence in Change Initiatives
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 7
+      name: concerns
+      label: Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false

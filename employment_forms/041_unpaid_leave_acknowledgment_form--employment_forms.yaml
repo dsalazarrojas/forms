@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unpaid Leave Acknowledgment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sick Leave
+      - Maternity Leave
+      - Parental Leave
+      - Family Leave
+      - Vacation Leave
+      - Bereavement Leave
+      required: true
+    - id: 6
+      name: number_of_days_taken
+      label: Number Of Days Taken
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: leave_approved_by
+      label: Leave Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approved_by_name
+      label: Approved By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Acknowledged
+      - Not Signed
+      required: true
+    - id: 16
+      name: leave_type_approved
+      label: Leave Type Approved
+      hint: null
+      type: select_multiple
+      options:
+      - Leave approved
+      - Leave Not Approved
+      - Not Applicable
+      required: false
+    - id: 17
+      name: date_approved_approved
+      label: Date Approved Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: leave_type_approved_date
+      label: Leave Type Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: leave_approved
+      label: Leave Approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Acknowledged
+      - Not Signed
+      required: true
+    - id: 21
+      name: reason_for_leave_approved
+      label: Reason For Leave Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_approved
+      label: Notes Approved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submission_date_approved
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_approved
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false

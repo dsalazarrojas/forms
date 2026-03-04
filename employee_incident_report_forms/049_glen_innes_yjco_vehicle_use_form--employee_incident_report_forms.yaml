@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Glen Innes YJCO Vehicle Use Form
+    pages:
+    - id: 1
+      name: vehicle_use_details
+      label: Vehicle Use Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_inspection_report
+      label: Vehicle Inspection Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submitters_signature
+      label: Submitter's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR File Completion Form
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: employee_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Marketing
+      - Operations
+      - Sales
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_document_1
+      label: Employee Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_document_2
+      label: Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_acknowledgment_1
+      label: Policy Acknowledgment 1
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: true
+    - id: 15
+      name: policy_acknowledgment_2
+      label: Policy Acknowledgment 2
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: true
+    - id: 16
+      name: policy_acknowledgment_3
+      label: Policy Acknowledgment 3
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 17
+      name: policy_acknowledgment_4
+      label: Policy Acknowledgment 4
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 18
+      name: employee_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: employee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employee_extension
+      label: Extension
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: employee_start_date_time
+      label: Start Date and Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: employee_end_date_time
+      label: End Date and Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: policy_acknowledgment_5
+      label: Policy Acknowledgment 5
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 24
+      name: policy_acknowledgment_6
+      label: Policy Acknowledgment 6
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 25
+      name: policy_acknowledgment_7
+      label: Policy Acknowledgment 7
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false

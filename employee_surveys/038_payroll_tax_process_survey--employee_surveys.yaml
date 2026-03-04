@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Tax Process Survey
+    pages:
+    - id: 1
+      name: payrol_tax_process_survey
+      label: payroll_tax_process_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: select_one
+      options:
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      required: false
+    - id: 7
+      name: tax_return_frequency
+      label: tax_return_frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 8
+      name: payment_schedule
+      label: payment_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tax_filing_status
+      label: tax_filing_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: payroll_tax_process_survey
+      label: payroll_tax_process_survey
+      hint: null
+      type: date
+      options: []
+      required: false

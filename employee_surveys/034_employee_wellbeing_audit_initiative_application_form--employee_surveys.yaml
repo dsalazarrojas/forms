@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Wellbeing Audit Initiative Application Form
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info_page
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: true
+    - id: 3
+      name: email_page
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_page
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title_page
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location_page
+      label: Location
+      hint: Enter your location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_status_page
+      label: Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Working from office''}'
+      - '{''value'': ''Working from home''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: wellbeing_issue_page
+      label: Wellbeing Issue
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physical Health''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: wellbeing_issue_description_page
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_page
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Submit and Get Help''}'
+      - '{''value'': ''Submit and Review''}'
+      - '{''value'': ''Submit and Review and Get Help''}'
+      required: true

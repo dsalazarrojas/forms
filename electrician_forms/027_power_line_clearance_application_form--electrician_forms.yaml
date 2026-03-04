@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Line Clearance Application Form
+    pages:
+    - id: 1
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_company
+      label: customer_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_work_type_details
+      label: customer_work_type_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completion_date
+      label: completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Observation Form
+    pages:
+    - id: 1
+      name: observation_intro
+      label: -- Child Care Observation Form --
+      hint: Document child development and behavior observations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_months
+      label: Age in months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: observation_date
+      label: Observation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: observation_time
+      label: Observation time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: observer_name
+      label: Observer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: observer_role
+      label: Observer role
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Aide
+      - Parent
+      - Caregiver
+      - Specialist
+      required: true
+    - id: 9
+      name: activity_observed
+      label: Activity or setting observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: duration_minutes
+      label: Duration of observation (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: physical_development
+      label: Physical development observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: motor_skills
+      label: Gross and fine motor skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cognitive_development
+      label: Cognitive development and learning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: language_development
+      label: Language and communication skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_emotional
+      label: Social and emotional development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: peer_interaction
+      label: Interaction with peers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: adult_interaction
+      label: Interaction with adults
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: play_behavior
+      label: Play behavior and interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attention_span
+      label: Attention span and engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: challenges_noted
+      label: Challenges or concerns observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: strengths_noted
+      label: Strengths and abilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_steps
+      label: Recommended next steps or follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parent_communication
+      label: Information to share with parents
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_life_balance_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_life_balance_scale
+      label: Work Life Balance Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Low''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Very High''}'
+      required: false
+    - id: 4
+      name: job_demand
+      label: Job demand
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: work_life_balance_impact
+      label: Work Life Balance Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_life_balance_priority
+      label: Work life balance priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: time_spend
+      label: Time Spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: work_life_balance_score
+      label: Work life balance score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: work_life_balance_index
+      label: Work life balance index
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Low''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Very High''}'
+      required: false
+    - id: 11
+      name: work_life_balance_average
+      label: Work life balance average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_life_balance_total
+      label: Work life balance total
+      hint: null
+      type: number
+      options: []
+      required: false

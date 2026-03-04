@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Compete Agreement Declaration Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: form_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_term
+      label: Agreement Term
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: non_compete_agreement
+      label: Non Compete Agreement
+      hint: This is a non compete agreement.
+      type: select_one
+      options:
+      - '{''value'': ''I agree'', ''label'': ''I agree''}'
+      - '{''value'': ''I do not agree'', ''label'': ''I do not agree''}'
+      required: true
+    - id: 9
+      name: date_of_declaration
+      label: Date Of Declaration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incentive Claim Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: period
+      label: Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: amount_claimed
+      label: Amount Claimed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incentive_type
+      label: Incentive Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: amount_approved
+      label: Amount Approved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: claimant
+      label: Claimant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Diversity Survey Form
+    pages:
+    - id: 1
+      name: employee_demographics
+      label: Employee Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - African American or Black
+      - Asian or Asian American or Pacific Islander
+      - White
+      - Hispanic or Latino
+      - Native American or Alaskan Native
+      - Other
+      - Prefer not to answer
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Other
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Other
+      required: false
+    - id: 8
+      name: work_arrangement
+      label: Work Arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Remote work
+      - On-site
+      - Hybrid
+      - Other
+      required: true
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_performance
+      label: Job Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Needs improvement
+      - Average
+      - Unsatisfactory
+      required: false
+    - id: 11
+      name: department_headquarters
+      label: Department Headquarters
+      hint: null
+      type: select_one
+      options:
+      - HQ
+      - Remote office
+      - Both
+      - Other
+      required: false

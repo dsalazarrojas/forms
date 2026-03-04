@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reliability Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 2
+      name: reliability_character
+      label: Character
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: trustworthiness
+      label: Trustworthiness
+      hint: null
+      type: select_multiple
+      options:
+      - Trustworthy
+      - Somewhat trustworthy
+      - Not very trustworthy
+      required: false
+    - id: 4
+      name: merchandise_handling
+      label: Consignment
+      hint: null
+      type: select_one
+      options:
+      - Consignment
+      - No Consignment
+      required: false
+    - id: 5
+      name: equipment_handling
+      label: Handle Equipment
+      hint: null
+      type: select_one
+      options:
+      - Handle
+      - Not Handle
+      required: false
+    - id: 6
+      name: money_handling
+      label: Handle Money
+      hint: null
+      type: select_one
+      options:
+      - Handle
+      - Not Handle
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

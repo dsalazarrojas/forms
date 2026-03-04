@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math And AI Experience Survey
+    pages:
+    - id: 1
+      name: math_proficiency
+      label: Math Proficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: ai_tool_usage
+      label: AI Tool Usage
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: ai_task_integration
+      label: Integrating AI into tasks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: math_education_background
+      label: Math education background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ai_proficiency
+      label: AI Proficiency
+      hint: null
+      type: number
+      options: []
+      required: false

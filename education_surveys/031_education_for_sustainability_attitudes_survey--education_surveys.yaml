@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education For Sustainability Attitudes Survey
+    pages:
+    - id: 1
+      name: educator_roles
+      label: What role do you currently play as an educator?
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher
+      - Researcher
+      - Manager
+      - Administrator
+      - Other
+      - Student
+      required: false
+    - id: 2
+      name: current_attitudes
+      label: How do you perceive the role of education for sustainable development?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 3
+      name: current_challenges
+      label: What are some current challenges you face when teaching about sustainability?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: other_role
+      label: Is there another role you play as an educator?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: other_role_comments
+      label: Other role comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

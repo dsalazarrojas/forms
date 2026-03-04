@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Learning Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: remote_learning_effectiveness_evaluation_form
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_learning_program_title
+      label: remote learning program title
+      hint: Please enter the title of the remote learning program being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: remote_learning_program_duration
+      label: remote learning program duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: remote_learning_program_frequency
+      label: remote learning program frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_from_students
+      label: feedback from students
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: feedback_from_educators
+      label: feedback from educators
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: overall_effectiveness
+      label: overall effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remote_learning_improvements
+      label: remote learning improvements
+      hint: What are some areas that could be improved
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: remote_learning_benefits
+      label: benefits of remote learning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommendations
+      label: recommendations
+      hint: What are some recommendations for educators and students
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: evaluation_form_conclusion
+      label: evaluation form conclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: submit_button_2
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: evaluation_form_conclusion_2
+      label: evaluation form conclusion 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: evaluation_form_conclusion_3
+      label: evaluation form conclusion 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_time
+      label: submission time
+      hint: When do you submit your answers
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: submitted by
+      hint: Who submitted this form
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_form_conclusion_4
+      label: evaluation form conclusion 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_submitted_by
+      label: form submitted by
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 23
+      name: form_submitted_at
+      label: form submitted at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: submit_time
+      label: submit time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: submitted_user
+      label: submitted user
+      hint: null
+      type: text
+      options: []
+      required: true

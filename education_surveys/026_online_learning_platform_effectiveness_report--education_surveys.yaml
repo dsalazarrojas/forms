@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Platform Effectiveness Report
+    pages:
+    - id: 1
+      name: platform_effectiveness_report_1
+      label: Platform Effectiveness Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_satisfaction_1
+      label: User Satisfaction
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outcomes_1
+      label: Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''High''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Low''}'
+      required: false
+    - id: 4
+      name: improvement_needs_1
+      label: Improvement Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: platform_effectiveness_1
+      label: Platform Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: platform_effectiveness_1_1
+      label: Platform Effectiveness 1
+      hint: null
+      type: text
+      options: []
+      required: false

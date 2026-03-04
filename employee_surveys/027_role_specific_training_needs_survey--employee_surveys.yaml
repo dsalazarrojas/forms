@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: role_specific_training_needs_survey
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_location
+      label: Current Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_needs
+      label: What are your training needs for this role?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills_assessed
+      label: What skills are being assessed in this role?
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership/Management
+      - Communication
+      - Data Analysis
+      - Project Management
+      - Time Management
+      - Problem Solving
+      - Team Collaboration
+      - Adaptability
+      - Creativity
+      - Adaptability
+      required: true
+    - id: 5
+      name: training_topics
+      label: What training topics would you like to see in the future?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership/Management
+      - Presentation
+      - Time Management
+      - Project Management
+      - Data Analysis
+      - Problem Solving
+      - Teamwork
+      - Goal Setting
+      required: true
+    - id: 6
+      name: training_frequency
+      label: How often do you want training to be offered?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

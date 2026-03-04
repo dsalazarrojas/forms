@@ -1,0 +1,53 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Student Trip Form
+    pages:
+    - id: 1
+      name: order_tickets
+      label: order_tickets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_check_out_time
+      label: select_check_out_time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''08:00''}'
+      - '{''value'': 720}'
+      - '{''value'': 960}'
+      required: false
+    - id: 3
+      name: select_meal_preferences
+      label: select_meal_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Breakfast''}'
+      - '{''value'': ''Lunch''}'
+      - '{''value'': ''Dinner''}'
+      required: false
+    - id: 4
+      name: enter_contact_information
+      label: enter_contact_information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In Person''}'
+      required: false

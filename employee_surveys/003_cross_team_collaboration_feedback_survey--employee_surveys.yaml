@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cross Team Collaboration Feedback Survey
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_level
+      label: How do you rate the level of collaboration within your team?
+      hint: null
+      type: select_one
+      options:
+      - Team collaboration is excellent
+      - Team collaboration is good
+      - Team collaboration is average
+      - Team collaboration is bad
+      - Team collaboration is very bad
+      required: false
+    - id: 3
+      name: collaboration_frequency
+      label: How often do you collaborate with other teams?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 4
+      name: communication_channel
+      label: What is your primary communication channel with your team?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Chat
+      - Video call
+      required: false
+    - id: 5
+      name: feedback
+      label: Do you have any additional feedback to provide?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: text
+      options: []
+      required: false

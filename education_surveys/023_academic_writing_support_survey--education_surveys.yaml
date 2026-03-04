@@ -1,0 +1,167 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Writing Support Survey
+    pages:
+    - id: 1
+      name: section_service_usage
+      label: -- Service Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: support_type_received
+      label: Type of support received
+      hint: Primary service utilized
+      type: select_one
+      options:
+      - One-on-one Consultation
+      - Writing Workshop
+      - Online Guide or Resources
+      - Peer Group Review
+      required: true
+    - id: 3
+      name: date_of_session
+      label: Approximate Date of Last Session
+      hint: When did you last use our service?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_quality
+      label: -- Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: counselor_expertise
+      label: Rate the expertise of the writing counselor
+      hint: Knowledge and professionalism
+      type: select_one
+      options:
+      - Expert
+      - Knowledgeable
+      - Basic
+      - Inadequate
+      required: true
+    - id: 6
+      name: helpfulness_of_feedback
+      label: How helpful was the feedback provided on your draft?
+      hint: Impact on your work
+      type: select_one
+      options:
+      - Extremely Helpful
+      - Helpful
+      - Somewhat Helpful
+      - Not Helpful
+      required: true
+    - id: 7
+      name: clarity_of_advice
+      label: Was the advice clear and easy to implement?
+      hint: Practicality of suggestions
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Confusing
+      - Very Confusing
+      required: true
+    - id: 8
+      name: section_impact
+      label: -- Impact on Writing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confidence_improvement
+      label: Did the session improve your writing confidence?
+      hint: Personal growth
+      type: select_one
+      options:
+      - Significantly
+      - Slightly
+      - No Change
+      required: true
+    - id: 10
+      name: grade_impact
+      label: Do you feel the support improved your grades or results?
+      hint: Academic outcome
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Too early to tell
+      required: true
+    - id: 11
+      name: areas_of_improvement
+      label: Select areas where you improved most
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Grammar and Mechanics
+      - Argument Structure
+      - Citations and Formatting
+      - Clarity of Expression
+      required: true
+    - id: 12
+      name: section_accessibility
+      label: -- Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: appointment_ease
+      label: How easy was it to book an appointment?
+      hint: Scheduling process
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      required: true
+    - id: 14
+      name: section_suggestions
+      label: -- Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: suggested_resources
+      label: What additional resources should the writing center provide?
+      hint: e.g. more workshops, video tutorials
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_final
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: recommend_to_others
+      label: Would you recommend this service to a peer?
+      hint: Advocacy
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

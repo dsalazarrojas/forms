@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Readiness Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: Enter any relevant contact information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact_person
+      label: emergency_contact_person
+      hint: Enter any emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: recovery_time
+      label: recovery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: recovery_plan
+      label: recovery_plan
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: backup_data
+      label: backup_data
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: recovery_equipment
+      label: recovery_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: backup_equipment
+      label: backup_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Generators
+      - Backup Power Systems
+      - Air Conditioning Systems
+      required: true
+    - id: 13
+      name: other_provisions
+      label: other_provisions
+      hint: Enter other provisions or equipment
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: backup_provisions
+      label: backup_provisions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: other_backup_provisions
+      label: other_backup_provisions
+      hint: null
+      type: select_multiple
+      options:
+      - Backup Power Systems
+      - Backup Generators
+      required: false
+    - id: 16
+      name: backup_provisions_type
+      label: backup_provisions_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: backup_provisions_status
+      label: backup_provisions_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: backup_provisions_status_2
+      label: backup_provisions_status_2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: backup_provisions_status_3
+      label: backup_provisions_status_3
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: backup_provisions_status_4
+      label: backup_provisions_status_4
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: backup_provisions_status_5
+      label: backup_provisions_status_5
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: recovery_plan_status
+      label: recovery_plan_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: backup_provisions_status_6
+      label: backup_provisions_status_6
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: backup_provisions_status_7
+      label: backup_provisions_status_7
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: backup_provisions_status_8
+      label: backup_provisions_status_8
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

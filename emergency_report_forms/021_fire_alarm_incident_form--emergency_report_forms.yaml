@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_alarm_incident_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: alarm_level
+      label: Alarm Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: alarm_type
+      label: Alarm Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: alarm_location
+      label: Alarm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: alarm_description
+      label: Alarm Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_responders
+      label: Responders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: investigation_notes
+      label: Investigation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_outcome
+      label: Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

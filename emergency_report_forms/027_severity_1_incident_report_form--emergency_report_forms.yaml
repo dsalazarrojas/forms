@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Severity 1 Incident Report Form
+    pages:
+    - id: 1
+      name: incident_title
+      label: Incident Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''name'': ''Low'', ''value'': ''low''}'
+      required: true
+    - id: 6
+      name: incident_respondent
+      label: Respondent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''IT'', ''value'': ''it''}'
+      - '{''id'': 2, ''name'': ''Operations'', ''value'': ''operations''}'
+      - '{''id'': 3, ''name'': ''Management'', ''value'': ''management''}'
+      required: true
+    - id: 7
+      name: incident_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Critical'', ''value'': ''critical''}'
+      - '{''id'': 2, ''name'': ''High'', ''value'': ''high''}'
+      - '{''id'': 3, ''name'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 4, ''name'': ''Low'', ''value'': ''low''}'
+      required: true
+    - id: 8
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open'', ''value'': ''open''}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''closed''}'
+      - '{''id'': 4, ''name'': ''Reopened'', ''value'': ''reopened''}'
+      required: true
+    - id: 9
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Fixed'', ''value'': ''fixed''}'
+      - '{''id'': 2, ''name'': ''Not Fixed'', ''value'': ''not_fixed''}'
+      required: true
+    - id: 16
+      name: incident_reopened_by
+      label: Reopened By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''IT'', ''value'': ''it''}'
+      - '{''id'': 2, ''name'': ''Operations'', ''value'': ''operations''}'
+      - '{''id'': 3, ''name'': ''Management'', ''value'': ''management''}'
+      required: false
+    - id: 17
+      name: incident_closed_at
+      label: Closed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: incident_due_by
+      label: Due By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: incident_status_history
+      label: Status History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_tags_history
+      label: Tags History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_comments_history
+      label: Comments History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_attachment_history
+      label: Attachments History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reopened_by_history
+      label: Reopened By History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''IT'', ''value'': ''it''}'
+      - '{''id'': 2, ''name'': ''Operations'', ''value'': ''operations''}'
+      - '{''id'': 3, ''name'': ''Management'', ''value'': ''management''}'
+      required: false
+    - id: 25
+      name: incident_close_reason
+      label: Close Reason
+      hint: null
+      type: text
+      options: []
+      required: false

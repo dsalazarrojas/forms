@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Evacuation Plan Evaluation Form
+    pages:
+    - id: 1
+      name: emergency_contact_form_templates_form_title
+      label: Emergency Contact Form Templates Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_form_templates_form_description
+      label: Emergency Contact Form Templates Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_form_templates_form_category
+      label: Emergency Contact Form Templates Form Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: emergency_contact_form_templates_form_category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_form_templates_form_version
+      label: Emergency Contact Form Templates Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: disaster_evacuation_plan_evaluation_form_title
+      label: Disaster Evacuation Plan Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: disaster_evacuation_plan_evaluation_form_description
+      label: Disaster Evacuation Plan Evaluation Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: disaster_evacuation_plan_evaluation_form_category
+      label: Disaster Evacuation Plan Evaluation Form Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: disaster_evacuation_plan_evaluation_form_form_category
+      label: Disaster Evacuation Plan Evaluation Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: disaster_evacuation_plan_evaluation_form_version
+      label: Disaster Evacuation Plan Evaluation Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Assigned User
+      - chatjimmy
+      required: true
+    - id: 12
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contacts
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contacts_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contacts_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: disaster_type
+      label: Disaster Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: drill_type
+      label: Drill Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_form_templates_form_notes
+      label: Emergency Contact Form Templates Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: disaster_evacuation_plan_evaluation_form_notes
+      label: Disaster Evacuation Plan Evaluation Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_form_templates_form_rating
+      label: Emergency Contact Form Templates Form Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 24
+      name: emergency_contact_form_templates_form_rating_comment
+      label: Emergency Contact Form Templates Form Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

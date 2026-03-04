@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_passion_feedback_form
+    pages:
+    - id: 1
+      name: team_passion_feedback_form
+      label: team_passion_feedback_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: job_satisfaction_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction_level
+      label: job_satisfaction_level_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_dynamics
+      label: team_dynamics_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team_dynamics_options
+      label: team_dynamics_options_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

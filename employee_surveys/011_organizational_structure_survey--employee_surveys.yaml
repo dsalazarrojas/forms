@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Structure Survey
+    pages:
+    - id: 1
+      name: employee_surveys
+      label: Employee Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_surveys_1
+      label: Employee Surveys 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organizational_structure
+      label: Organizational Structure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_satisfactions
+      label: Employee Satisfactions
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: employee_satisfactions_1
+      label: Employee Satisfactions 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organizational_structure_1
+      label: Organizational Structure 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: organizational_structure_2
+      label: Organizational Structure 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

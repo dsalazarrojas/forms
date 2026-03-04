@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Structure Survey
+    pages:
+    - id: 1
+      name: course_organizer
+      label: Course Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_length
+      label: Course Length
+      hint: Enter in weeks
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 6
+      name: course_topics
+      label: Course Topics
+      hint: null
+      type: select_multiple
+      options:
+      - topic1
+      - topic2
+      - topic3
+      required: true
+    - id: 7
+      name: course_format
+      label: Course Format
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: instructor_availability
+      label: Instructor Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: course_end_date
+      label: Course End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: instructor_bio
+      label: Instructor Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_image_url
+      label: Course Image URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: course_video_url
+      label: Course Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_file_url
+      label: Course File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_survey_comments
+      label: Course Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: course_survey_feedback
+      label: Course Survey Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: instructor_contact
+      label: Instructor Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: course_venue
+      label: Course Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: course_email
+      label: Course E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: course_address
+      label: Course Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: course_outlines
+      label: Course Outlines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_evaluations
+      label: Evaluations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_evaluations_list
+      label: Evaluations List
+      hint: null
+      type: select_multiple
+      options:
+      - evaluation1
+      - evaluation2
+      - evaluation3
+      required: true
+    - id: 25
+      name: course_evaluations_details
+      label: Evaluations Details
+      hint: null
+      type: text
+      options: []
+      required: false

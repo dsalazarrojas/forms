@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: direct_deposit_account_selection
+    pages:
+    - id: 1
+      name: direct_deposit_account_selection_form
+      label: Direct Deposit Account Selection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: direct_deposit_account_selection
+      label: Direct Deposit Account Selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 12345}'
+      - '{''value'': 67890}'
+      required: false
+    - id: 5
+      name: bank_account_number
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: direct_deposit_authorization
+      label: Direct Deposit Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

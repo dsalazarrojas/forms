@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Accessibility Perception Survey
+    pages:
+    - id: 1
+      name: page1
+      label: Employee Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 2
+      name: question1
+      label: manager_approachability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: Responsiveness
+      hint: null
+      type: select_one
+      options:
+      - Responsive
+      - Not very responsive
+      - Neither Responsive nor Not responsive
+      required: false
+    - id: 4
+      name: question3
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Clear
+      - Somewhat clear
+      - Somewhat unclear
+      - Completely unclear
+      required: false
+    - id: 5
+      name: question4
+      label: approachability
+      hint: null
+      type: select_one
+      options:
+      - Very approachable
+      - Somewhat approachable
+      - Not approachable at all
+      required: false
+    - id: 6
+      name: question5
+      label: open_door
+      hint: null
+      type: select_multiple
+      options:
+      - Always open
+      - Sometimes open
+      - Rarely open
+      required: false
+    - id: 7
+      name: question6
+      label: meeting_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: manager_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: email_response
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question10
+      label: manager_availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available to work
+      - Somewhat available to work
+      - Not available to work
+      required: false

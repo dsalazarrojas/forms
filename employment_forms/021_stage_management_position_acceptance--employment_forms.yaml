@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Management Position Acceptance
+    pages:
+    - id: 1
+      name: stage_management_position_acceptance_form
+      label: stage-management-position-acceptance-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_title
+      label: position-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_offer_date
+      label: job-offer-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contract_period
+      label: contract-period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pay_period_start
+      label: pay-period-start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pay_period_end
+      label: pay-period-end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: agreement_signature_date
+      label: agreement-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contract_signature_date
+      label: contract-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: role_expectations
+      label: role-expectations
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: job_offer_details
+      label: job-offer-details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: job_offer_email
+      label: job-offer-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: stage_management_union_approval
+      label: stage-management-union-approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 14
+      name: theatre_acceptance_confirmation
+      label: theatre-acceptance-confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: job_approval
+      label: job-approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: role_signature
+      label: role-signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: contract_signer
+      label: contract-signer
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: contract_period_units
+      label: contract-period-units
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: contract_period_duration
+      label: contract-period-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: pay_period_units
+      label: pay-period-units
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: pay_period_duration
+      label: pay-period-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: pay_period_frequency
+      label: pay-period-frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 23
+      name: pay_period_start_date
+      label: pay-period-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: pay_period_end_date
+      label: pay-period-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: pay_period_wage
+      label: pay-period-wage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: pay_period_benefits
+      label: pay-period-benefits
+      hint: null
+      type: select_one
+      options:
+      - Benefits Included
+      - Benefits Not Included
+      required: true

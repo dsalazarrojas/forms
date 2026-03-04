@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Voice Participation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What's your role at the company?
+      hint: Please select your role.
+      type: select_one
+      options:
+      - Manager
+      - Individual Contributor
+      - Team Lead
+      required: false
+    - id: 2
+      name: engagement
+      label: How do you feel about company engagement and culture?
+      hint: Please select one of the following options.
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree Nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 3
+      name: communication
+      label: How would you rate the quality of communication within your team?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: feedback
+      label: Do you have any feedback or suggestions for improvements?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: What is your work email address?
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: What is your work phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: What is your expected return date?
+      hint: Please enter a date in YYYY-MM-DD format.
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: What is your availability in 24-hour format (HH -MM)?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Do you have any additional comments or feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: What department do you work in?
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - IT
+      - Marketing
+      - Finance
+      - Operations
+      - Management
+      - Sales
+      - Customer Support
+      - Development
+      required: false

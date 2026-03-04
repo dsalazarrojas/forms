@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Burnout Leave Of Absence Form
+    pages:
+    - id: 1
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hours_requested
+      label: Hours Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_note
+      label: Employee Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: store_manager_note
+      label: Store Manager Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: people_team_note
+      label: People Team Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: people_team_signature
+      label: People Team Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: store_id
+      label: Store ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: store_manager_id
+      label: Store Manager ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: people_team_id
+      label: People Team ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: store_location_2
+      label: Store Location 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reason_2
+      label: Reason 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: true

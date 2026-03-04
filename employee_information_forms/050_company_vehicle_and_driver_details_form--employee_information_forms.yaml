@@ -1,0 +1,425 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Vehicle And Driver Details Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_vehicle
+      label: -- Vehicle Information --
+      hint: Vehicle details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_assigned
+      label: Have you been assigned a company vehicle?
+      hint: Vehicle assignment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary color
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: 17-digit VIN
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_license_plate
+      label: License Plate Number
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_registration_state
+      label: Registration State
+      hint: Where registered
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_assignment_date
+      label: Vehicle Assignment Date
+      hint: When assigned
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: section_driver
+      label: -- Driver Information --
+      hint: License details
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: drivers_license_number
+      label: Driver's License Number
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: drivers_license_state
+      label: Driver's License State
+      hint: Issuing state
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: drivers_license_expiry
+      label: Driver's License Expiry Date
+      hint: When it expires
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: license_class
+      label: License Class
+      hint: Class type
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      - Class D
+      - Other
+      - Not applicable
+      required: false
+    - id: 24
+      name: license_restrictions
+      label: Any License Restrictions?
+      hint: Restrictions if any
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_history
+      label: -- Driving History --
+      hint: Your driving record
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: violations_history
+      label: Do you have any driving violations in the past 3 years?
+      hint: Violations
+      type: select_one
+      options:
+      - false
+      - Yes, 1 violation
+      - Yes, 2 violations
+      - Yes, 3+ violations
+      required: false
+    - id: 27
+      name: violations_details
+      label: If yes, please provide details
+      hint: Violation details
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: accidents_history
+      label: Have you been in any accidents in the past 3 years?
+      hint: Accidents
+      type: select_one
+      options:
+      - false
+      - Yes, 1 accident
+      - Yes, 2 accidents
+      - Yes, 3+ accidents
+      required: false
+    - id: 29
+      name: accidents_details
+      label: If yes, please provide details
+      hint: Accident details
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: suspended_license
+      label: Has your license ever been suspended or revoked?
+      hint: License status
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 31
+      name: suspended_license_details
+      label: If yes, please provide details
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_usage
+      label: -- Vehicle Usage --
+      hint: How you use the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: primary_use
+      label: Primary Use of Vehicle
+      hint: Main purpose
+      type: select_one
+      options:
+      - Business only
+      - Primarily business
+      - Business and personal (authorized)
+      - Personal use only
+      required: false
+    - id: 34
+      name: typical_routes
+      label: Typical Routes/Destinations
+      hint: Where you drive
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: average_weekly_mileage
+      label: Average Weekly Mileage
+      hint: Miles per week
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: overnight_parking
+      label: Where is the vehicle parked overnight?
+      hint: Parking location
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: section_maintenance
+      label: -- Maintenance --
+      hint: Vehicle maintenance
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: When last serviced
+      type: date
+      options: []
+      required: false
+    - id: 39
+      name: last_maintenance_type
+      label: Last Maintenance Type
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: next_maintenance_due
+      label: Next Maintenance Due
+      hint: When due
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: current_issues
+      label: Are there any current vehicle issues?
+      hint: Problems
+      type: select_one
+      options:
+      - false
+      - Yes, minor
+      - Yes, major
+      required: false
+    - id: 42
+      name: issues_details
+      label: If yes, please describe
+      hint: Issue details
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: section_insurance
+      label: -- Insurance --
+      hint: Insurance information
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: insurance_expiry
+      label: Insurance Expiry Date
+      hint: When it expires
+      type: date
+      options: []
+      required: false
+    - id: 46
+      name: section_agreement
+      label: -- Driver Agreement --
+      hint: Terms and conditions
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: agree_safe_driving
+      label: I agree to practice safe driving at all times
+      hint: Safety commitment
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: false
+    - id: 48
+      name: agree_traffic_laws
+      label: I agree to obey all traffic laws and regulations
+      hint: Legal compliance
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: false
+    - id: 49
+      name: agree_vehicle_care
+      label: I agree to take proper care of the vehicle
+      hint: Vehicle maintenance
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: false
+    - id: 50
+      name: agree_report_incidents
+      label: I agree to report any accidents or incidents immediately
+      hint: Incident reporting
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: false
+    - id: 51
+      name: agree_personal_use
+      label: I understand unauthorized personal use is prohibited
+      hint: Use policy
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: false
+    - id: 52
+      name: employee_signature
+      label: Employee Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 54
+      name: manager_approval
+      label: Manager Approval
+      hint: To be completed by manager
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: fleet_manager_review
+      label: Fleet Manager Review
+      hint: To be completed by fleet manager
+      type: text
+      options: []
+      required: false

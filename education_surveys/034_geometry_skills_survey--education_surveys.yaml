@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geometry Skills Survey
+    pages:
+    - id: 1
+      name: geometry_survey_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: geometry_survey_2
+      label: What is your class
+      hint: null
+      type: select_one
+      options:
+      - Geometry
+      - Algebra
+      - Calculus
+      - Other
+      required: false
+    - id: 3
+      name: geometry_survey_3
+      label: What is your confidence level in geometry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: geometry_survey_4
+      label: What is your favorite geometry topic
+      hint: null
+      type: select_multiple
+      options:
+      - Triangles
+      - Circles
+      - Polygons
+      required: false
+    - id: 5
+      name: geometry_survey_5
+      label: What challenges do you face with geometry
+      hint: null
+      type: select_one
+      options:
+      - Difficulty understanding concepts
+      - Difficulty applying skills
+      - Difficulty solving problems
+      - Other
+      required: true
+    - id: 6
+      name: geometry_survey_6
+      label: How many hours do you typically study for geometry each week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: geometry_survey_7
+      label: How many times do you practice solving problems in geometry each week
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 times
+      - 3-5 times
+      - 6-10 times
+      - More than 10 times
+      required: true
+    - id: 8
+      name: geometry_survey_8
+      label: How do you feel about the importance of geometry in math
+      hint: null
+      type: select_one
+      options:
+      - Not important
+      - Somewhat important
+      - Very important
+      - Extremely important
+      required: true
+    - id: 9
+      name: geometry_survey_9
+      label: What topics do you want to learn more about in geometry
+      hint: null
+      type: select_multiple
+      options:
+      - Triangles
+      - Circles
+      - Polygons
+      - Angles
+      required: false
+    - id: 10
+      name: geometry_survey_10
+      label: What resources do you use to learn geometry
+      hint: null
+      type: select_multiple
+      options:
+      - Textbook
+      - Online resources
+      - Teacher
+      - Other
+      required: false

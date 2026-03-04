@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Winter Assessment Survey
+    pages:
+    - id: 1
+      name: student_winter_assessment_survey
+      label: How was your winter term experience?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: academic_support
+      label: How would you rate the support of your academic advisors?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: course_materials
+      label: How would you rate the effectiveness of the course materials provided?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_performance
+      label: How would you rate the performance of your instructor?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: What was your overall experience in the winter term?
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handoff Preferences Survey
+    pages:
+    - id: 1
+      name: shift_preferences
+      label: Shift Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Text
+      - Email
+      - In-app
+      required: false
+    - id: 3
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_lead_contact
+      label: Team Lead Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Slack
+      - In-app
+      required: false
+    - id: 5
+      name: communication_priority
+      label: Communication Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_off
+      label: Time Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_method_improvement
+      label: Communication Method Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: improvement_area
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: action_item
+      label: Action Items
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: action_item_2
+      label: Action Items 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: action_item_3
+      label: Action Items 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shift_handoff_process
+      label: Shift Handoff Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: team_handoff_process
+      label: Team Handoff Process
+      hint: null
+      type: note
+      options: []
+      required: false

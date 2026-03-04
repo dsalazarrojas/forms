@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Deposit Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: direct_deposit_employer
+      label: Direct Deposit Employer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: direct_deposit_bank
+      label: Direct Deposit Bank
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: direct_deposit_routing
+      label: Direct Deposit Routing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: direct_deposit_account
+      label: Direct Deposit Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: direct_deposit_frequency
+      label: Direct Deposit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false

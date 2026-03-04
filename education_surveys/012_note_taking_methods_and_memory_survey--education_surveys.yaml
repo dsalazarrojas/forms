@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Note Taking Methods And Memory Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Start of Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: note_taking_methods
+      label: What methods do you use when taking notes?
+      hint: null
+      type: select_multiple
+      options:
+      - Longhand writing
+      - Audio recording
+      - Mind mapping
+      - Typing
+      - Other
+      required: false
+    - id: 3
+      name: note_taking_frequency
+      label: How frequently do you take notes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: memory_retention
+      label: How well do you think you retain information when taking notes?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: false
+    - id: 5
+      name: memory_retention_methods
+      label: Which methods help with memory retention?
+      hint: null
+      type: select_multiple
+      options:
+      - Mind maps
+      - Flash cards
+      - Mnemonics
+      - Chunking
+      - Self quizzing
+      - Other
+      required: false
+    - id: 6
+      name: memory_retention_difficulty
+      label: What difficulty do you find in remembering the information?
+      hint: null
+      type: select_multiple
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 7
+      name: memory_retention_time
+      label: How much time do you spend on remembering information?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_end
+      label: End of Survey
+      hint: null
+      type: note
+      options: []
+      required: false

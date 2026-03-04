@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_drill_report_form
+    pages:
+    - id: 1
+      name: drill_date
+      label: Drill Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: drill_location
+      label: Drill Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: drill_time
+      label: Drill Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: observer_count
+      label: Observer Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: safety_standards_met
+      label: Safety Standards Met
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_improvements
+      label: Recommended Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: drill_conducted_by
+      label: Drill Conducted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

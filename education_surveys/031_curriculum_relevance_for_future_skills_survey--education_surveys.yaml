@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Relevance For Future Skills Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: second_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: future_skills
+      label: future_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: future_skills_list
+      label: future_skills_list
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: drag_and_drop
+      label: drag_and_drop
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: future_skills_important
+      label: future_skills_important
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: future_skills_important_list
+      label: future_skills_important_list
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 9
+      name: drag_and_drop_list
+      label: drag_and_drop_list
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

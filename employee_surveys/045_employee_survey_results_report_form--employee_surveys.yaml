@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Survey Results Report Form
+    pages:
+    - id: 1
+      name: survey_results
+      label: Survey Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestion_areas
+      label: Suggestion Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: action_points
+      label: Action Points
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: action_points_comments
+      label: Action Points Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: suggested_improvements_comments
+      label: Suggested Improvements Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: action_plan_comments
+      label: Action Plan Comments
+      hint: null
+      type: text
+      options: []
+      required: false

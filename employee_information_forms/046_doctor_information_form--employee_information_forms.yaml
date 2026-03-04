@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: doctor_information_form
+    pages:
+    - id: 1
+      name: doctor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doctor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_nickname
+      label: Nickname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: doctor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: doctor_contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: doctor_specialty
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: doctor_license_number
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: doctor_license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: doctor_board_certification
+      label: Board Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: doctor_degree
+      label: Degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: doctor_worked_at
+      label: Worked At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: doctor_languages_spoken
+      label: Languages Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: doctor_education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false

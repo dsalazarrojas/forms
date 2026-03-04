@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: exam_preparation_resource_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your role at the educational institution?
+      hint: null
+      type: select_one
+      options:
+      - role_1
+      - role_2
+      - role_3
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: study_materials
+      label: What study materials have you used for this course?
+      hint: null
+      type: select_multiple
+      options:
+      - study_material_1
+      - study_material_2
+      - study_material_3
+      required: false
+    - id: 4
+      name: resource_utility
+      label: How useful were the resources provided?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resource_utility
+      label: resource_utility
+      hint: On a scale of 0-5, how satisfied are you with the resources provided?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any additional feedback for the educators?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false

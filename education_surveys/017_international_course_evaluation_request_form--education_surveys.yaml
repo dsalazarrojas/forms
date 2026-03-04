@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Course Evaluation Request Form
+    pages:
+    - id: 1
+      name: session_rating
+      label: Session rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 3
+      name: session_topics
+      label: What topic(s) did you find most valuable?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: course_materials
+      label: Were the course materials helpful?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: course_presentation
+      label: Was the course presentation clear and engaging?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: instructor
+      label: How would you rate your instructor?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: course_duration
+      label: How long did you find the course to be?
+      hint: null
+      type: select_one
+      options:
+      - Too short
+      - About right
+      - Too long
+      required: false
+    - id: 8
+      name: feedback
+      label: Any other comments or feedback about the course?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_rating_1
+      label: Session rating 1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: overall_satisfaction_1
+      label: Overall satisfaction 1
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 13
+      name: session_topics_1
+      label: What topic(s) did you find most valuable 1?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: course_materials_1
+      label: Were the course materials helpful 1?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: course_presentation_1
+      label: Was the course presentation clear and engaging 1?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: instructor_1
+      label: How would you rate your instructor 1?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: course_duration_1
+      label: How long did you find the course to be 1?
+      hint: null
+      type: select_one
+      options:
+      - Too short
+      - About right
+      - Too long
+      required: false
+    - id: 18
+      name: feedback_1
+      label: Any other comments or feedback about the course 1?
+      hint: null
+      type: note
+      options: []
+      required: false

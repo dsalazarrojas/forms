@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: sdms_registration_form_questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: password_confirmation
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: sdm_level
+      label: SDM Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 12
+      name: sdm_experience
+      label: SDM Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 13
+      name: sdm_specialty
+      label: SDM Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - SDM 1
+      - SDM 2
+      - SDM 3
+      required: true
+    - id: 14
+      name: sdm_status
+      label: SDM Status
+      hint: null
+      type: select_one
+      options:
+      - Inactive
+      - Active
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Education
+      - Personal
+      - Work
+      required: true
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: sdm_education
+      label: SDM Education
+      hint: null
+      type: select_multiple
+      options:
+      - Primary
+      - High School
+      - College
+      - University
+      required: true
+    - id: 19
+      name: sdm_certification
+      label: SDM Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Certified SDM
+      - Certified SDM-Intermediate
+      - Certified SDM-Advanced
+      required: true
+    - id: 20
+      name: sdm_license
+      label: SDM License
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: sdm_registration_type
+      label: SDM Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 22
+      name: sdm_registration_date
+      label: SDM Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: sdm_registration_time
+      label: SDM Registration Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Discovery Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_member_type
+      label: Team Member Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_member_type_options
+      label: Team Member Type Options
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Individual'', ''value'': ''individual''}'
+      - '{''text'': ''Team'', ''value'': ''team''}'
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: department_options
+      label: Department Options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Accounting'', ''value'': ''accounting''}'
+      - '{''text'': ''Engineering'', ''value'': ''engineering''}'
+      - '{''text'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''text'': ''Sales'', ''value'': ''sales''}'
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title_options
+      label: Job Title Options
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Software Engineer'', ''value'': ''software_engineer''}'
+      - '{''text'': ''Accountant'', ''value'': ''accountant''}'
+      - '{''text'': ''Marketing Manager'', ''value'': ''marketing_manager''}'
+      - '{''text'': ''Sales Manager'', ''value'': ''sales_manager''}'
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_team_member_type
+      label: Manager Team Member Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: manager_team_member_type_options
+      label: Manager Team Member Type Options
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Individual'', ''value'': ''individual''}'
+      - '{''text'': ''Team'', ''value'': ''team''}'
+      required: true
+    - id: 17
+      name: reporting_manager_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: reporting_manager_phone
+      label: Reporting Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_manager_job_title
+      label: Reporting Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reporting_manager_team_member_type
+      label: Reporting Manager Team Member Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: reporting_manager_team_member_type_options
+      label: Reporting Manager Team Member Type Options
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Individual'', ''value'': ''individual''}'
+      - '{''text'': ''Team'', ''value'': ''team''}'
+      required: true
+    - id: 23
+      name: manager_reporting_level
+      label: Reporting Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 24
+      name: manager_reporting_level_options
+      label: Manager Reporting Level Options
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Direct Report'', ''value'': ''direct_report''}'
+      - '{''text'': ''Team Manager'', ''value'': ''team_manager''}'
+      - '{''text'': ''No Reports'', ''value'': ''no_reports''}'
+      required: false
+    - id: 25
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

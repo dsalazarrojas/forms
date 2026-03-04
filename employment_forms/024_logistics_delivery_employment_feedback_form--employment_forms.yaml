@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Delivery Employment Feedback Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Logistics
+      - Operations
+      - Management
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_on_delivery_operations
+      label: Feedback On Delivery Operations
+      hint: Be as specific as possible
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Communication
+      - Teamwork
+      required: false
+    - id: 7
+      name: job_experience
+      label: Job Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback_on_job_experience
+      label: Feedback On Job Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_opportunities_job_experience
+      label: Improvement Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Communication
+      - Teamwork
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating_details
+      label: Rating Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: improvement_plan
+      label: Improvement Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_points
+      label: Action Points
+      hint: null
+      type: select_multiple
+      options:
+      - Improve delivery time
+      - Reduce errors
+      - Improve communication
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

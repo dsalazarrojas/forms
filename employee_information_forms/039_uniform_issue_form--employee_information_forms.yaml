@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Issue Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: issue_quantity
+      label: Issue Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: uniform_type
+      label: Uniform Type
+      hint: null
+      type: select_one
+      options:
+      - uniform1
+      - uniform2
+      - uniform3
+      required: false
+    - id: 6
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - equipment1
+      - equipment2
+      required: false
+    - id: 7
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

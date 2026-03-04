@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Withdrawal Survey
+    pages:
+    - id: 1
+      name: personal_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: who_filled
+      label: Who Filled Out This Form
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Parent
+      - Other
+      required: false
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: thoughts
+      label: Thoughts
+      hint: This school has been a positive experience
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_point
+      label: Grade Point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: grade_scale
+      label: Grade Scale
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - F
+      required: false
+    - id: 7
+      name: grade_note
+      label: Grade Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: disappointments
+      label: Disappointments
+      hint: null
+      type: select_multiple
+      options:
+      - School Workloads
+      - Lack of Support
+      - Tooประกased
+      - Other (Please Specify)
+      required: false
+    - id: 9
+      name: reason_leaving
+      label: Why Are They Leaving
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of interest
+      - Family Move
+      - Health Reasons
+      - Other (Please Specify)
+      required: false

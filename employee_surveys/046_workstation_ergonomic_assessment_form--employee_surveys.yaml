@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Ergonomic Assessment Form
+    pages:
+    - id: 1
+      name: workspace
+      label: workspace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workstation
+      label: workstation
+      hint: null
+      type: select_one
+      options:
+      - Ergo Chair
+      - Adjustable Desk
+      - Task Light
+      - Monitor Arm
+      required: false
+    - id: 4
+      name: ergo_rating
+      label: ergo
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: worktime
+      label: worktime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: workhours
+      label: workhours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ergonomic_rating
+      label: ergonomic_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ergonomic_comments
+      label: ergonomic_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ergonomic_score
+      label: ergonomic_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: workstation_ergonomic_score
+      label: workstation_ergonomic_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_jobtitle
+      label: employee_jobtitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workstation_location
+      label: workstation_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_jobtitle
+      label: supervisor_jobtitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_department
+      label: supervisor_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: ergo_comments
+      label: ergo_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: workstation_comments
+      label: workstation_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: workstation_status
+      label: workstation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: false
+    - id: 23
+      name: workstation_status_comments
+      label: workstation_status_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: ergonomic_recommendations
+      label: ergonomic_recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

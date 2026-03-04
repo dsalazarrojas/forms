@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Academy Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: goals
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Tap
+      - Jazz
+      - Ballroom
+      required: false
+    - id: 5
+      name: class_date
+      label: class date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: class_time
+      label: class time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_email
+      label: parent email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Online Banking
+      required: false
+    - id: 12
+      name: payment_frequency
+      label: payment frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Fortnightly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 13
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: class_preferences
+      label: class preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Jazz
+      - Ballet
+      - Tap
+      - Contemporary
+      - Ballroom
+      required: false
+    - id: 16
+      name: student_level
+      label: student level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 17
+      name: additional_classes
+      label: additional classes
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_number
+      label: emergency contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergy
+      label: allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: first_language
+      label: first language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 24
+      name: parent_language
+      label: parent language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 25
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

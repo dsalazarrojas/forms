@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: power_outage_survival_guide
+    pages:
+    - id: 1
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_alternate_name
+      label: Alternate Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_alternate_phone
+      label: Alternate Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship_alternate
+      label: Alternate Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_alternate_email
+      label: Alternate Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_alternate_address
+      label: Alternate Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: household_name
+      label: Household Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: household_type
+      label: Household Type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Multi-family home
+      - Apartment
+      required: true
+    - id: 13
+      name: household_size
+      label: Household Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 14
+      name: household_type_details
+      label: Household Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: household_number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: household_needs
+      label: Household Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: household_needs_details
+      label: Household Needs Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_alternate_name_2
+      label: Alternate Contact Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship_2
+      label: Alternate Contact Relationship 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_alternate_phone_2
+      label: Alternate Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_alternate_email_2
+      label: Alternate Contact Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_alternate_address_2
+      label: Alternate Contact Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: household_needs_urgent
+      label: Household Needs Urgent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: household_needs_emergency
+      label: Household Needs Emergency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: household_needs_non_emergency
+      label: Household Needs Non-Emergency
+      hint: null
+      type: number
+      options: []
+      required: false

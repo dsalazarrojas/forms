@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Carcinogenesis Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_student_data
+      label: -- Student and Quiz Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name_quiz
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_session_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: quiz_evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Pre-test (Before Module)
+      - Post-test (After Module)
+      - Practice Quiz
+      required: true
+    - id: 5
+      name: section_quiz_questions
+      label: -- Knowledge Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_01_definition
+      label: Question 1 - Which best defines a carcinogen
+      hint: null
+      type: select_one
+      options:
+      - A substance that promotes cell growth
+      - A substance capable of causing cancer in living tissue
+      - A chemical that causes immediate toxicity
+      - A virus that replicates in DNA
+      required: true
+    - id: 7
+      name: question_02_dna_damage
+      label: Question 2 - What is the primary type of DNA damage caused by genotoxic
+        carcinogens
+      hint: null
+      type: select_one
+      options:
+      - Point Mutations
+      - DNA Adducts
+      - Chromosomal Translocation
+      - All of the Above
+      required: true
+    - id: 8
+      name: question_03_examples
+      label: Question 3 - Select known chemical carcinogens
+      hint: null
+      type: select_multiple
+      options:
+      - Asbestos
+      - Benzene
+      - Aflatoxin B1
+      - Sodium Chloride
+      - Glucose
+      required: true
+    - id: 9
+      name: question_04_stages
+      label: Question 4 - What are the three stages of carcinogenesis
+      hint: null
+      type: select_one
+      options:
+      - Mutation, Growth, Spread
+      - Initiation, Promotion, Progression
+      - Damage, Repair, Replication
+      - Activation, Binding, Division
+      required: true
+    - id: 10
+      name: question_05_metabolism
+      label: Question 5 - Metabolism of procarcinogens usually occurs in which organ
+      hint: null
+      type: select_one
+      options:
+      - Kidneys
+      - Lungs
+      - Liver
+      - Spleen
+      required: true
+    - id: 11
+      name: section_feedback_score
+      label: -- Results and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_confidence_level
+      label: How confident are you in your answers
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 13
+      name: question_clarity_rating
+      label: Rating of question clarity
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Confusing
+      required: false
+    - id: 14
+      name: internal_score_staff
+      label: Final Score (Percentage)
+      hint: Staff Use Only
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: instructor_eval_comments
+      label: Instructor Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

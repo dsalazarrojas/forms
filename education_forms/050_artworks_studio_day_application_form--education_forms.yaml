@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artworks Studio Day Application Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: current_school
+      label: Current School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_level
+      label: Grade or Education Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: studio_day_date
+      label: Studio Day Date Applying For
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: primary_art_interest
+      label: Primary Art Interest or Medium
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Drawing
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Ceramics
+      - Mixed Media
+      - Printmaking
+      - Textiles
+      required: true
+    - id: 10
+      name: art_experience
+      label: Experience Level in Art
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 11
+      name: prior_studio_days
+      label: Prior Studio Day Participation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Time
+      required: false
+    - id: 12
+      name: art_goals
+      label: Art Goals or Interests
+      hint: What do you want to explore or learn
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: favorite_artists
+      label: Favorite Artists or Inspirations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshops_interested
+      label: Workshops or Classes Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Painting Workshop
+      - Drawing Workshop
+      - Sculpture Workshop
+      - Photography Workshop
+      - Digital Art Workshop
+      - Ceramics Workshop
+      - Mixed Media Workshop
+      required: true
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: For minors
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: media_release
+      label: Permission for Photos or Media Use
+      hint: null
+      type: select_one
+      options:
+      - Yes, with name
+      - Yes, anonymous only
+      - 'No'
+      required: true
+    - id: 21
+      name: additional_information
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

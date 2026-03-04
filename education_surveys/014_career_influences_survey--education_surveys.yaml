@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Influences Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - "18-25"
+          - "26-35"
+          - "36-45"
+          - "46-55"
+          - "56-65"
+          - "65+"
+        required: true
+      - id: 3
+        name: education_level
+        label: Current Education Level
+        hint: null
+        type: select_one
+        options:
+          - High School Student
+          - In College
+          - Recent Graduate
+          - Working Professional
+          - Returning to School
+          - Other
+        required: true
+      - id: 4
+        name: field_of_study
+        label: Field of Study or Current Industry
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: career_satisfied
+        label: Are You Satisfied with Your Career Choice?
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Unsatisfied
+          - Very Unsatisfied
+          - Still exploring
+        required: true
+      - id: 6
+        name: family_influence
+        label: How Much Did Family Influence Your Career Choice?
+        hint: null
+        type: select_one
+        options:
+          - Very much - strongly influenced me
+          - Somewhat - had moderate influence
+          - A little - minor influence
+          - Not at all - no influence
+          - Unsure - unclear how much
+        required: true
+      - id: 7
+        name: family_expectations
+        label: Family Career Expectations
+        hint: What did your family expect from you?
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: family_support
+        label: Does Your Family Support Your Career Path?
+        hint: null
+        type: select_one
+        options:
+          - "Yes - very supportive"
+          - "Mostly - generally supportive"
+          - "Neutral - neither supportive nor unsupportive"
+          - "No - unsupportive"
+          - "Mixed - some family members supportive, others not"
+        required: true
+      - id: 9
+        name: mentor_influence
+        label: Mentors or Role Models Influence
+        hint: How much have mentors shaped your career?
+        type: select_one
+        options:
+          - Very much - had a key mentor
+          - Somewhat - had helpful guidance
+          - A little - influenced but not critical
+          - Not at all - no mentor relationship
+          - N/A - haven't had a mentor
+        required: true
+      - id: 10
+        name: mentor_example
+        label: If Yes - Who Were Your Key Mentors or Role Models?
+        hint: Describe their influence on your career choice
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: education_influence
+        label: How Much Did Education Influence Your Career?
+        hint: Teachers, courses, schools, universities
+        type: select_one
+        options:
+          - Very much - directly shaped my path
+          - Somewhat - provided important guidance
+          - A little - some influence
+          - Not much - limited role
+          - Not at all - no real influence
+        required: true
+      - id: 12
+        name: teachers_role
+        label: Impact of Specific Teachers or Counselors
+        hint: How did educators influence you?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: internship_influence
+        label: Did Internships or Work Experience Influence Your Career?
+        hint: null
+        type: select_one
+        options:
+          - "Yes - significantly influenced my choice"
+          - "Yes - confirmed my direction"
+          - "Somewhat - provided helpful insight"
+          - "No - limited influence"
+          - "N/A - haven't had internship or work experience"
+        required: true
+      - id: 14
+        name: peer_influence
+        label: Influence of Peers and Friends
+        hint: How much did peers influence your path?
+        type: select_one
+        options:
+          - Very much - they guided my choice
+          - Somewhat - we influenced each other
+          - A little - minor influence
+          - Not at all - no influence
+          - N/A - no peer influence
+        required: true
+      - id: 15
+        name: social_media_influence
+        label: Did Social Media or Online Resources Influence Your Career Choice?
+        hint: null
+        type: select_one
+        options:
+          - "Yes - very much"
+          - "Yes - somewhat"
+          - "No - minimal influence"
+          - "No - not at all"
+        required: false
+      - id: 16
+        name: personal_interests
+        label: Did Your Personal Interests Drive Your Career Choice?
+        hint: How much did you follow your passion?
+        type: select_one
+        options:
+          - Very much - followed my passion
+          - Mostly - interests guided me
+          - Somewhat - interests had some role
+          - A little - interests were secondary
+          - Not at all - driven by other factors
+        required: true
+      - id: 17
+        name: financial_influence
+        label: How Much Did Financial Considerations Influence You?
+        hint: Salary potential, job security, benefits
+        type: select_one
+        options:
+          - Very much - primary factor
+          - Somewhat - important consideration
+          - Moderate - one of several factors
+          - A little - minor consideration
+          - Not at all - not a factor
+        required: true
+      - id: 18
+        name: job_market_influence
+        label: Job Market and Employment Trends Influence
+        hint: Did you choose based on available jobs?
+        type: select_one
+        options:
+          - Very much - chose field with strong job market
+          - Somewhat - considered job availability
+          - Moderate - one of several factors
+          - A little - minor consideration
+          - Not at all - ignored job market
+        required: false
+      - id: 19
+        name: societal_factors
+        label: Societal or Cultural Factors Influencing Your Choice
+        hint: Gender expectations, cultural traditions, etc.
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: current_career_alignment
+        label: Does Your Current Career Align with Your Original Influences?
+        hint: How well does your job match what influenced you?
+        type: select_one
+        options:
+          - Perfect alignment - exactly what I expected
+          - Good alignment - mostly matches
+          - Partial alignment - some differences
+          - Poor alignment - quite different
+          - Very different - not what I imagined
+        required: false
+      - id: 21
+        name: career_regrets
+        label: Do You Have Regrets About Your Career Choice?
+        hint: null
+        type: select_one
+        options:
+          - "No - very satisfied"
+          - "Mostly no - generally happy"
+          - "Some - would change a few things"
+          - "Yes - significant regrets"
+          - "Very much - major regrets"
+        required: true
+      - id: 22
+        name: additional_insights
+        label: Additional Insights About Career Influences
+        hint: Any other factors or stories about your choice?
+        type: text
+        options: []
+        required: false

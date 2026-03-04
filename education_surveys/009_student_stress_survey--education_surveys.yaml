@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Stress Survey
+    pages:
+    - id: 1
+      name: main_questions
+      label: Main Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How often do you feel stressed?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Sometimes
+      - Often
+      - Almost Always
+      required: true
+    - id: 3
+      name: question2
+      label: What activities cause you most stress?
+      hint: null
+      type: select_multiple
+      options:
+      - Watching TV
+      - Playing sports
+      - Hanging out with friends
+      - Homework
+      required: true
+    - id: 4
+      name: question3
+      label: Do you exercise regularly?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Rarely
+      required: true
+    - id: 5
+      name: question4
+      label: How would you describe your current level of stress?
+      hint: null
+      type: select_multiple
+      options:
+      - Not at all stressed
+      - A little stressed
+      - Somewhat stressed
+      - Very stressed
+      required: true
+    - id: 6
+      name: main_summary
+      label: Summarize your feelings
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: stress_score
+      label: Stress Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: main_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question5
+      label: Do you have a family history of stress?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: question6
+      label: Do you have a history of anxiety?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: question7
+      label: Do you have a history of depression?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: question8
+      label: Do you have a history of trauma?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: question9
+      label: Have you experienced bullying.reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: main_ending
+      label: Thank you for completing this survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: question10
+      label: Are you satisfied with your school life?
+      hint: null
+      type: select_multiple
+      options:
+      - Not satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Satisfied
+      required: false
+    - id: 17
+      name: question11
+      label: Have you experienced physical symptoms of stress?
+      hint: null
+      type: select_multiple
+      options:
+      - Headaches
+      - Fatigue
+      - Insomnia
+      - Stomach issues
+      required: false
+    - id: 18
+      name: question12
+      label: Do you feel lonely?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Somewhat
+      - Often
+      required: false
+    - id: 19
+      name: question13
+      label: Do you have difficulty sleeping?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Sometimes
+      - Frequently
+      required: false
+    - id: 20
+      name: question14
+      label: How satisfied are you with your school life?
+      hint: null
+      type: select_multiple
+      options:
+      - Not at all
+      - A little
+      - Somewhat
+      - Very
+      required: false
+    - id: 21
+      name: question15
+      label: Are you satisfied with your teachers?
+      hint: null
+      type: select_multiple
+      options:
+      - Not satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Satisfied
+      required: false
+    - id: 22
+      name: question16
+      label: Do you have a support system?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: question17
+      label: Do you have a stress management plan?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: question18
+      label: Do you know how to manage stress?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: question19
+      label: Do you have any other comments?
+      hint: Please provide any additional comments or concerns.
+      type: note
+      options: []
+      required: false

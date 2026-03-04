@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Department Incident Report
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - FIRE
+      - EMERGENCY
+      - FALSE ALARM
+      - OTHER
+      required: false
+    - id: 2
+      name: situation_found
+      label: situation_found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: officer_in_charge
+      label: officer_in_charge
+      hint: null
+      type: select_one
+      options:
+      - Officer A
+      - Officer B
+      - Officer C
+      required: false
+    - id: 4
+      name: units_involved
+      label: units_involved
+      hint: null
+      type: select_multiple
+      options:
+      - Unit 1
+      - Unit 2
+      - Unit 3
+      required: false
+    - id: 5
+      name: call_number
+      label: call_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: call_date
+      label: call_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: call_time
+      label: call_time
+      hint: null
+      type: time
+      options: []
+      required: false

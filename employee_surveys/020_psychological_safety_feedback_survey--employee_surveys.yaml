@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: psychological_safety_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: feedback_scale
+      label: feedback_scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: team
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rating
+      label: rating
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: rating_average
+      label: rating_average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: prophets_rating
+      label: prophets_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: comments_count
+      label: comments_count
+      hint: null
+      type: number
+      options: []
+      required: false

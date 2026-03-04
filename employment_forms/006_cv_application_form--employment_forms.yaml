@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applying_for
+      label: Position Applying For
+      hint: Job title you are interested in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you begin work
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected annual salary range
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 9
+      name: years_of_experience
+      label: Years of Experience
+      hint: Total years in relevant field
+      type: select_one
+      options:
+      - Entry level (0-1 years)
+      - Junior (1-3 years)
+      - Mid-level (3-5 years)
+      - Senior (5-10 years)
+      - Expert (10+ years)
+      required: true
+    - id: 10
+      name: current_employer
+      label: Current Employer
+      hint: Company name or 'N/A' if unemployed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_job_title
+      label: Current Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: key_skills
+      label: Key Skills
+      hint: List your main professional skills
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Languages and proficiency level
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cv_upload_note
+      label: CV Upload
+      hint: Please attach your CV as a PDF or Word document
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cover_letter_note
+      label: Cover Letter Upload
+      hint: Attach a cover letter if available
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - Yes, upon request
+      - Yes, included with CV
+      - Not at this time
+      required: true
+    - id: 17
+      name: work_authorization
+      label: Work Authorization Status
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - Citizen
+      - Permanent Resident
+      - Work Visa Holder
+      - Require sponsorship
+      required: true
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About This Position
+      hint: Source of job listing
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - Social media
+      - Employee referral
+      - Recruiter
+      - Other
+      required: false
+    - id: 19
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

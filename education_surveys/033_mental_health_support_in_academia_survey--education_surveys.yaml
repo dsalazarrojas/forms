@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Support In Academia Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_services
+      label: campus_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: barriers
+      label: barriers
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

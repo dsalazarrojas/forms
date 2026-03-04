@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paramedic Call Log Submission
+    pages:
+    - id: 1
+      name: call_details
+      label: Call Details
+      hint: Enter call details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_administered
+      label: Medication Administered
+      hint: Enter medication administered
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interventions_performed
+      label: Interventions Performed
+      hint: Enter interventions performed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: outcome
+      label: Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: call_location
+      label: Call Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: paramedic_name
+      label: Paramedic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: paramedic_id
+      label: Paramedic ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: paramedic_unit
+      label: Paramedic Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: paramedic_shift
+      label: Paramedic Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: paramedic_supervisor
+      label: Paramedic Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Ambulance'', ''value'': ''ambulance''}'
+      - '{''id'': 2, ''label'': ''Police'', ''value'': ''police''}'
+      - '{''id'': 3, ''label'': ''Fire'', ''value'': ''fire''}'
+      required: false
+    - id: 23
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

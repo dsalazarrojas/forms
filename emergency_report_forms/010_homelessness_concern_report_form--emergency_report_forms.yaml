@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homelessness Concern Report Form
+    pages:
+    - id: 1
+      name: emergency_report_form_page
+      label: Homelessness Concern Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: Enter client details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: report_details
+      label: Report Details
+      hint: Enter report details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_info
+      label: Witness Info
+      hint: Witness information is required if witness is not present
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_info_witness_present
+      label: Witness Present
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: witness_info_witness_contact
+      label: Witness Contact
+      hint: If witness is present, enter contact information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_info_witness_contact_relationship
+      label: Witness Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Stranger
+      required: false
+    - id: 13
+      name: witness_info_witness_notes
+      label: Witness Notes
+      hint: Notes about the witness
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: witness_info_witness_present_hint
+      label: Witness Present Hint
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: witness_info_witness_present_hint
+      label: Witness Present 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: witness_info_witness_present_hint
+      label: Witness Present 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

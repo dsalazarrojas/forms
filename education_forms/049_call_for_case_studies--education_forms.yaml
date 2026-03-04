@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call For Case Studies
+    pages:
+    - id: 1
+      name: author_header
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_institution
+      label: Institution or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: author_position
+      label: Position or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_study_header
+      label: -- Case Study Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: case_study_title
+      label: Case Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: subject_organization
+      label: Subject Organization or Entity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: case_study_description
+      label: Case Study Description
+      hint: Overview of the case
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: focus_area
+      label: Primary Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Business Strategy
+      - Operations Management
+      - Marketing
+      - Finance
+      - Technology
+      - Human Resources
+      - Sustainability
+      - Innovation
+      - Other
+      required: true
+    - id: 11
+      name: keywords
+      label: Keywords
+      hint: Comma separated, up to 5
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: methodology_header
+      label: -- Research Methodology --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: research_methodology
+      label: Research Methodology
+      hint: How was the case study conducted?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: data_sources
+      label: Data Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Interviews
+      - Surveys
+      - Documents
+      - Observations
+      - Financial records
+      - Other
+      required: true
+    - id: 15
+      name: time_period
+      label: Time Period Covered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: findings_header
+      label: -- Key Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: key_findings
+      label: Key Findings or Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: lessons_learned
+      label: Lessons Learned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations or Implications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: document_header
+      label: -- Document Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: word_count
+      label: Estimated Word Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submission_format
+      label: Submission Format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - Google Docs
+      - Other
+      required: true
+    - id: 23
+      name: approval_statement
+      label: I confirm this work is original and approved for publication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

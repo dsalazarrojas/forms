@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_importance_rating_survey
+    pages:
+    - id: 1
+      name: job_importance_rating
+      label: Job Importance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_job_satisfaction
+      label: Employee Job Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_priorities
+      label: Employee Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Priorities1
+      - Priorities2
+      - Priorities3
+      required: false
+    - id: 4
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false

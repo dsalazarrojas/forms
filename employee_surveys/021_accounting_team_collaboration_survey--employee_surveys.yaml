@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Team Collaboration Survey
+    pages:
+    - id: 1
+      name: intro
+      label: -- Collaboration assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Role within the team
+      hint: Job title or function
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_size
+      label: Team size
+      hint: Number of people in your accounting team
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_effectiveness
+      label: Communication effectiveness
+      hint: Rate how effectively the team communicates
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Very ineffective
+      required: true
+    - id: 5
+      name: task_distribution_fairness
+      label: Task distribution fairness
+      hint: Is work distributed fairly across the team
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 6
+      name: collaboration_tools_used
+      label: Collaboration tools used
+      hint: Tools used for communication and task tracking
+      type: select_multiple
+      options:
+      - Email
+      - Slack or Teams
+      - Project management tool
+      - Shared drives
+      required: false
+    - id: 7
+      name: obstacles_to_collaboration
+      label: Obstacles to collaboration
+      hint: Describe up to three obstacles affecting teamwork
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Practical suggestions to improve collaboration
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: willingness_to_participate
+      label: Willingness to participate in workshops
+      hint: Would you join activities to improve teamwork
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback about team collaboration
+      type: text
+      options: []
+      required: false

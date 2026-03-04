@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Medical Service Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '{''id'': 10, ''name'': ''emergency_contact_10'', ''label'': 10}'
+      - '{''id'': 11, ''name'': ''emergency_contact_11'', ''label'': 11}'
+      required: false
+    - id: 10
+      name: emergency_contact_2
+      label: '2'
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '{''id'': 10, ''name'': ''emergency_contact_10'', ''label'': 10}'
+      - '{''id'': 12, ''name'': ''emergency_contact_12'', ''label'': 12}'
+      - '{''id'': 13, ''name'': ''emergency_contact_13'', ''label'': 13}'
+      required: false
+    - id: 11
+      name: emergency_contact_3
+      label: '3'
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '{''id'': 10, ''name'': ''emergency_contact_10'', ''label'': 10}'
+      - '{''id'': 11, ''name'': ''emergency_contact_11'', ''label'': 11}'
+      - '{''id'': 12, ''name'': ''emergency_contact_12'', ''label'': 12}'
+      - '{''id'': 13, ''name'': ''emergency_contact_13'', ''label'': 13}'
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_provider
+      label: Medical provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false

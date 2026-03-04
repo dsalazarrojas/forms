@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Data Sheet Template
+    pages:
+    - id: 1
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_id
+      label: department_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: department_ids
+      label: department_ids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes_text
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_code
+      label: employee_code
+      hint: null
+      type: text
+      options: []
+      required: false

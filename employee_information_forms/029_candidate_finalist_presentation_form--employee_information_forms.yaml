@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Finalist Presentation Form
+    pages:
+    - id: 1
+      name: finalist_overview_section
+      label: -- Finalist Overview --
+      hint: Introducing the top choice
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: finalist_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: presented_job_title
+      label: Job Title for Presentation
+      hint: The role being filled
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_client_name
+      label: Client Name
+      hint: Name of the hiring organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presenting_recruiter
+      label: Recruiter or Agent Name
+      hint: Your name as the presenter
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: presentation_date
+      label: Date of Presentation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: qualifications_fit_section
+      label: -- Qualifications and Fit --
+      hint: Highlights of the candidate's profile
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: experience_summary_brief
+      label: Summary of Relevant Experience
+      hint: Briefly explain how they fit the role's requirements
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: technical_competencies_list
+      label: Key Technical Competencies
+      hint: Most important tools and skills
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: soft_skills_list
+      label: Key Soft Skills
+      hint: e.g. communication, leadership
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: education_summary_field
+      label: Educational Background Summary
+      hint: Degrees and relevant certifications
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_case_section
+      label: -- Business Case --
+      hint: Sell the candidate!
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: unique_value_prop
+      label: Unique Value Proposition
+      hint: Why this candidate over other applicants
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: culture_alignment_rating
+      label: Alignment with Client Culture
+      hint: How well do they fit the team and values
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Neutral
+      required: true
+    - id: 15
+      name: compensation_section
+      label: -- Compensation and Expectations --
+      hint: Addressing the financials
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: candidate_salary_expectation
+      label: Candidate's Expected Salary
+      hint: Annual package desired by the candidate
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: client_budget_value
+      label: Client's Budgeted Salary
+      hint: Maximum budget for this role
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: variance_rationale
+      label: Rationale for Salary Variance
+      hint: If the candidate exceeds budget, explain why they are worth the investment
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: relocation_check
+      label: Relocation Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 20
+      name: notice_period_text
+      label: Notice Period
+      hint: e.g. 2 weeks, 1 month, or Available Immediately
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: recruiter_final_recommendation_section
+      label: -- Final Recommendation --
+      hint: Your expert opinion
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: final_recruiter_assessment
+      label: Recruiter's Final Assessment
+      hint: Overall closing statement on the candidate
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: presentation_priority
+      label: Priority Level
+      hint: How urgently should the client review this profile
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 24
+      name: submission_confirmation_date
+      label: Submission Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness For Duty Form
+    pages:
+    - id: 1
+      name: employee_incident
+      label: employee Incident
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: return_to_work
+      label: return To Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Limited
+      - Unable To Work
+      required: false
+    - id: 4
+      name: medical_clearance
+      label: medical clearance
+      hint: null
+      type: select_multiple
+      options:
+      - Medical clearance
+      - Medical clearance
+      - Medical clearance
+      required: false
+    - id: 5
+      name: supervisor_signature
+      label: supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false

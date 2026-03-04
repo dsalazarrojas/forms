@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Cultural Learning Experience Survey
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: reflection_date
+      label: Reflection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: country_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: country_current
+      label: Country of Current Study Abroad or Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - Study Abroad
+      - Exchange
+      - International Project
+      required: false
+    - id: 6
+      name: language
+      label: Primary Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Other
+      required: false
+    - id: 7
+      name: duration
+      label: Length of Stay
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reflection
+      label: Reflection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_comments
+      label: Evaluation Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommendation
+      label: Would you recommend this experience?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: participant_supervisor
+      label: Participant Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_supervisor_email
+      label: Participant Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: participant_supervisor_phone
+      label: Participant Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_supervisor_program
+      label: Participant Supervisor Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_supervisor_department
+      label: Participant Supervisor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_supervisor_job_title
+      label: Participant Supervisor Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: host_institution
+      label: Host Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: program_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: false

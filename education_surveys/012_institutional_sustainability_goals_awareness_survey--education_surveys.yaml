@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Institutional Sustainability Goals Awareness Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      required: true
+    - id: 4
+      name: engagement
+      label: Engagement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: general_info_hint
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_follow_up_hint
+      label: Staff Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: engagement_hint
+      label: Engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: communication_channels_hint
+      label: Communication Channels
+      hint: null
+      type: text
+      options: []
+      required: false

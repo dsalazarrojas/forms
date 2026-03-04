@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: MPH Concentration Change Survey
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: concentration_requested
+      label: concentration_requested
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: rationale
+      label: rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: advisor_name
+      label: advisor_name
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 5
+      name: advisor_comment
+      label: advisor_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false

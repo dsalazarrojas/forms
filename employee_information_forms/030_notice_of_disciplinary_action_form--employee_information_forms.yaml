@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notice Of Disciplinary Action Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: action_summary
+      label: Action Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: disciplinary_action_taken
+      label: Disciplinary Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Verbal Warning
+      - Written Warning
+      - Final Warning
+      - Suspension
+      - Termination
+      required: false

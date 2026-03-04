@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Learning Community Registration Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: school_website
+      label: School Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: interests
+      label: Member interests
+      hint: null
+      type: select_multiple
+      options:
+      - Environmental Education
+      - Community Engagement
+      - Sustainable Living
+      - Other
+      required: false
+    - id: 7
+      name: participation_preferences
+      label: Member participation preferences
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Online
+      - Both
+      required: false
+    - id: 8
+      name: member_education_level
+      label: Member education level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - Other
+      required: false
+    - id: 9
+      name: member_occupation
+      label: Member occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Staff
+      - Community Member
+      required: false
+    - id: 10
+      name: member_address
+      label: Member Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

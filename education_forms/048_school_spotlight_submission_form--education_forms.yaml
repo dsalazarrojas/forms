@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Spotlight Submission Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_website
+      label: school-website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_address
+      label: school-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_type
+      label: school-type
+      hint: null
+      type: select_one
+      options:
+      - '{''School Type'': ''Primary''}'
+      - '{''School Type'': ''Secondary''}'
+      - '{''School Type'': ''Tertiary''}'
+      required: false
+    - id: 5
+      name: school_story
+      label: school-story
+      hint: Please share a story about your school
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_achievement
+      label: school-achievement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_media
+      label: school-media
+      hint: Share a link to a video or a photo of your school
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_email
+      label: school-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: school_phone
+      label: school-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_category
+      label: school-category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 11
+      name: school_other
+      label: school-other
+      hint: null
+      type: note
+      options: []
+      required: false

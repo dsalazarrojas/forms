@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: RBT/BCBA Information Submission
+    pages:
+    - id: 1
+      name: rbt_bcbasubmissionpage
+      label: Rbt/Bcba Information Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rbt_certificate_status
+      label: Rbt Certificate Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: bcba_certification
+      label: Bcba Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      required: false
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false

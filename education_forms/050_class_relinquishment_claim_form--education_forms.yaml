@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Relinquishment Claim Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your student ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_year
+      label: Academic Year
+      hint: Current school year
+      type: select_one
+      options:
+      - 2025-2026
+      - 2026-2027
+      - 2027-2028
+      required: true
+    - id: 7
+      name: semester_term
+      label: Semester or Term
+      hint: Current term
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Winter Term
+      required: true
+    - id: 8
+      name: class_name
+      label: Class Name to Relinquish
+      hint: Which class you are giving up
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: class_code
+      label: Class Code or Number
+      hint: e.g. MATH101
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_name
+      label: Instructor Name
+      hint: Current instructor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relinquishment_reason
+      label: Reason for Relinquishment
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Schedule conflict
+      - Changed major or focus
+      - Course too difficult
+      - Course not as expected
+      - Personal reasons
+      - Medical reasons
+      - Financial reasons
+      - Work commitment
+      - Family obligations
+      - Other
+      required: true
+    - id: 12
+      name: reason_details
+      label: Please Explain Your Reason
+      hint: Provide more details
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_grade
+      label: Current Grade in Class
+      hint: If known
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - F
+      - Pass
+      - Fail
+      - Incomplete
+      - Not yet graded
+      required: false
+    - id: 14
+      name: weeks_completed
+      label: How Many Weeks Completed
+      hint: Into the semester
+      type: select_one
+      options:
+      - Week 1-2
+      - Week 3-4
+      - Week 5-6
+      - Week 7-8
+      - Week 9-10
+      - Week 11-12
+      - Week 13+
+      - Before semester started
+      required: true
+    - id: 15
+      name: replacement_class
+      label: Do You Plan to Take a Replacement Class
+      hint: Same semester
+      type: select_one
+      options:
+      - Yes, already selected
+      - Yes, still deciding
+      - No, not replacing
+      - Unsure
+      required: true
+    - id: 16
+      name: replacement_class_name
+      label: Replacement Class Name
+      hint: If you have one selected
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: graduation_impact
+      label: Will This Affect Your Graduation Timeline
+      hint: Select if applicable
+      type: select_one
+      options:
+      - Yes, will delay graduation
+      - No, still on track
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 18
+      name: advisor_consultation
+      label: Have You Consulted With Your Advisor
+      hint: About this decision
+      type: select_one
+      options:
+      - Yes, advisor approved
+      - Yes, pending approval
+      - No, will consult
+      - No, not required
+      required: true
+    - id: 19
+      name: advisor_name
+      label: Academic Advisor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: financial_aid_impact
+      label: Have You Checked Financial Aid Impact
+      hint: Will this affect your aid
+      type: select_one
+      options:
+      - Yes, no impact
+      - Yes, may have impact
+      - No, not checked
+      - Not applicable
+      required: true
+    - id: 21
+      name: refund_requested
+      label: Are You Requesting a Refund
+      hint: For tuition or fees
+      type: select_one
+      options:
+      - Yes, full refund
+      - Yes, partial refund
+      - No refund requested
+      - Unsure of policy
+      required: true
+    - id: 22
+      name: future_enrollment
+      label: Do You Plan to Retake This Class
+      hint: In the future
+      type: select_one
+      options:
+      - Yes, next semester
+      - Yes, future semester
+      - No, not retaking
+      - Unsure
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

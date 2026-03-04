@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: employer_impact_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: initiative_rating
+      label: Initiative Ratings
+      hint: How would you rate each of the initiatives?
+      type: select_multiple
+      options:
+      - Initiative 1
+      - Initiative 2
+      - Initiative 3
+      - Initiative 4
+      required: true
+    - id: 3
+      name: engagement_level
+      label: Engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: productivity_level
+      label: Productivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: What do you think we could improve?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact Information
+      hint: Enter your email address if you would like to be entered into a drawing
+        for a gift card.
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Student Co Authorship Publication Consent Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_names
+      label: Student Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: co_author_status
+      label: Co-author Status
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Student
+      - Both
+      required: false
+    - id: 4
+      name: co_author_status_other
+      label: Co-author Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_college_research_program
+      label: School College Research Program
+      hint: null
+      type: select_one
+      options:
+      - School
+      - College
+      - Research Program
+      required: false
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: publication_type
+      label: Publication Type
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - Paper
+      - Research Report
+      required: false
+    - id: 8
+      name: teacher_consent
+      label: Teacher Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: student_consent
+      label: Student Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

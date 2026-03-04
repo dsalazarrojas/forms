@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Issue Form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      required: false
+    - id: 5
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: issue_tags
+      label: Issue Tags
+      hint: null
+      type: select_multiple
+      options:
+      - bug
+      - feature
+      required: false
+    - id: 7
+      name: issue_reported_by
+      label: Issue Reported By
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Internal Team
+      required: false
+    - id: 8
+      name: issue_reported_date
+      label: Issue Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: issue_reported_time
+      label: Issue Reported Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Quarantine Employee Leave Form
+    pages:
+    - id: 1
+      name: employee_name_full
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title_text
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_provider_name
+      label: Name of Advising Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: provider_license_no
+      label: Medical Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quarantine_advice_desc
+      label: Brief Summary of Quarantine Advice
+      hint: Why was quarantine recommended?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_start_date_val
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_end_date_val
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: paid_leave_type_cat
+      label: Type of Leave to be Applied
+      hint: null
+      type: select_one
+      options:
+      - Emergency Paid Sick Leave
+      - Vacation/PTO
+      - FFCRA Leave
+      - Unpaid Leave
+      required: true
+    - id: 9
+      name: medical_advice_cert_yn
+      label: I certify that I have been advised by a healthcare provider to self-quarantine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true
+    - id: 10
+      name: provider_contact_no
+      label: Healthcare Provider Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hr_auth_name_val
+      label: HR Authorization Name
+      hint: To be completed by HR department
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_sig_ack
+      label: Employee Acknowledgment and Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

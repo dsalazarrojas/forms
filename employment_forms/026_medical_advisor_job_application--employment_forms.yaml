@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Advisor Job Application
+    pages:
+    - id: 1
+      name: job_application_form
+      label: Job Application Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_applying
+      label: Reason for Applying
+      hint: Reason for applying
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expected_salary
+      label: Expected Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: available_to_start
+      label: Available to Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sick Leave Donation Survey
+    pages:
+    - id: 1
+      name: sick_leave_donation_survey
+      label: sick-leave-donation-survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sentiment
+      label: how-do-you-feel-about-the-sick-leave-donation-program
+      hint: null
+      type: select_one
+      options:
+      - very negative
+      - negative
+      - neutral
+      - positive
+      - very positive
+      required: false
+    - id: 3
+      name: concerns
+      label: what-concerns-do-you-have-about-the-sick-leave-donation-program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_support
+      label: how-much-overall-support-do-you-give-to-the-sick-leave-donation-program
+      hint: null
+      type: select_one
+      options:
+      - strongly disagree
+      - disagree
+      - not sure
+      - neutral
+      - agree
+      - strongly agree
+      required: false
+    - id: 5
+      name: department
+      label: which-department-do-you-work-in
+      hint: null
+      type: select_multiple
+      options:
+      - sales
+      - marketing
+      - customer-service
+      - it-and-software
+      - finance
+      - human-resources
+      - executive-and-management
+      - operations
+      required: false
+    - id: 6
+      name: question_1
+      label: question-1
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 7
+      name: question_2
+      label: question-2
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 8
+      name: question_3
+      label: question-3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_4
+      label: question-4
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false

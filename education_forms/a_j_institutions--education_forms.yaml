@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A/B Testing Calculator
+    pages:
+    - id: 1
+      name: section_header_experiment
+      label: "--- Experiment Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experiment_name
+      label: Experiment name or ID
+      hint: Keep short and descriptive
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: Experiment owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: metric_of_interest
+      label: Primary metric of interest
+      hint: e.g., Conversion rate, CTR, Revenue per visitor
+      type: select_one
+      options:
+        - Conversion rate
+        - Click-through rate (CTR)
+        - Revenue per visitor
+        - Engagement time
+        - Bounce rate
+      required: true
+    - id: 5
+      name: test_type
+      label: Test type
+      hint: null
+      type: select_one
+      options:
+        - A/B
+        - A/B/n
+        - Holdout vs Variant
+      required: true
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End date
+      hint: Leave blank if ongoing
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: variant_a_visitors
+      label: Variant A - total visitors
+      hint: Whole number of unique visitors
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: variant_b_visitors
+      label: Variant B - total visitors
+      hint: Whole number of unique visitors
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: variant_a_conversions
+      label: Variant A - conversions
+      hint: Number of conversions for metric_of_interest
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: variant_b_conversions
+      label: Variant B - conversions
+      hint: Number of conversions for metric_of_interest
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: significance_level
+      label: Desired significance level
+      hint: Common choices for statistical tests
+      type: select_one
+      options:
+        - 90%
+        - 95%
+        - 99%
+      required: true
+    - id: 13
+      name: difference_magnitude_decimal
+      label: Minimum detectable effect (percent points)
+      hint: Enter as decimal (e.g., 0.02 = 2%)
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: statistical_notes
+      label: Notes for statistical assumptions
+      hint: Document any pooling, stratification, or corrections
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_comments
+      label: Reviewer or analyst comments
+      hint: Use for interpretation or recommended next steps
+      type: text
+      options: []
+      required: false

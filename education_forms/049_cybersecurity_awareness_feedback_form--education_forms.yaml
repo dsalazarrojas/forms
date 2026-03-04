@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Awareness Feedback Form
+    pages:
+    - id: 1
+      name: training_effectiveness
+      label: How effective do you feel the training was?
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Not effective
+      - Unsure
+      required: false
+    - id: 2
+      name: feedback
+      label: What suggestions do you have for our cybersecurity awareness training
+        program?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Do you have any comments or suggestions about the training?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_level
+      label: What level of training were you attending?
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: attended_training
+      label: Have you attended any other cybersecurity training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: attended_training_other
+      label: If yes, how many other trainings have you attended?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: attended_training_type
+      label: If yes, what type of training were you attending?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: attended_training_provider
+      label: If yes, who provided the training?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attended_training_frequency
+      label: How many times have you attended this type of training?
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 times
+      - 5 or more times
+      required: false
+    - id: 12
+      name: training_location
+      label: Where was the training held?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: training_duration
+      label: How many hours did the training last?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: false
+    - id: 14
+      name: training_date
+      label: When was the training held?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: training_time
+      label: What time of day was the training held?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: participant_rating
+      label: How likely are you to participate in future cybersecurity trainings?
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Not very likely
+      - Not likely at all
+      required: false
+    - id: 17
+      name: participant_satisfaction
+      label: How satisfied are you with the training?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Not satisfied at all
+      required: false
+    - id: 18
+      name: participant_interest
+      label: How interested are you in participating in future cybersecurity trainings?
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not very interested
+      - Not interested at all
+      required: false
+    - id: 19
+      name: participant_concerns
+      label: Do you have any concerns about cybersecurity?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: participant_suggestions
+      label: Do you have any suggestions for improving our cybersecurity awareness
+        training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: participant_comments
+      label: Do you have any comments about the training?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: feedback_form_completed
+      label: Is this the end of the feedback form?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: false

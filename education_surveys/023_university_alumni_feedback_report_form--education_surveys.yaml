@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Alumni Feedback Report Form
+    pages:
+    - id: 1
+      name: university_experiences
+      label: University Experiences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: areas_of_interest
+      label: Areas of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Alumni Relations
+      - Continuing Education
+      - Career Development
+      required: true
+    - id: 4
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: future_engagement
+      label: Future Engagement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

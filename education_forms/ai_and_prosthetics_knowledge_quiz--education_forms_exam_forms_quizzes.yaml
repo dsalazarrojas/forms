@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI And Prosthetics Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Use a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution or organization
+      hint: e.g., university, clinic, research lab
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Your role
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Student
+      - Researcher
+      - Clinician
+      - Educator
+      - Other
+      required: true
+    - id: 6
+      name: completion_date
+      label: Date of completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_quiz
+      label: '--- AI & Prosthetics Knowledge Quiz ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: q1_ai_technique
+      label: Which AI technique is most commonly used for prosthetic limb control?
+      hint: Choose one
+      type: select_one
+      options:
+      - Pattern recognition
+      - Reinforcement learning
+      - Neural networks
+      - Genetic algorithms
+      required: true
+    - id: 9
+      name: q2_primary_benefit
+      label: What is the primary benefit of AI in prosthetic design?
+      hint: Choose one
+      type: select_one
+      options:
+      - Improved fit
+      - Reduced cost
+      - Enhanced functionality
+      - Faster production
+      required: true
+    - id: 10
+      name: q3_features_encountered
+      label: Which of the following AI-driven features have you encountered in prosthetic
+        devices? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Adaptive gait control
+      - Predictive maintenance
+      - Real-time sensory feedback
+      - Automated fitting
+      - Energy harvesting
+      required: false
+    - id: 11
+      name: q4_confidence_rating
+      label: On a scale of 1-5, how would you rate your confidence in using AI-powered
+        prosthetics?
+      hint: 1 = very low, 5 = very high
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: q5_patient_benefit_estimate
+      label: Estimated percentage of patients who would benefit from AI integration
+        in prosthetics (0-100%)
+      hint: Enter a value between 0 and 100
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: q6_satisfaction
+      label: How satisfied are you with the AI And Prosthetics Knowledge Quiz?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: q7_helpful_aspects
+      label: Which aspects of the quiz were most helpful? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Clear questions
+      - Relevant content
+      - Engaging format
+      - Time-efficient
+      - Challenging
+      required: false
+    - id: 15
+      name: open_feedback
+      label: What improvements would you suggest for future quizzes?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Any additional comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_portal_feedback_form
+    pages:
+    - id: 1
+      name: portal_satisfaction
+      label: How would you rate your satisfaction with the portal?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feature_usage
+      label: Which features do you use regularly?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: technical_issues
+      label: Do you have any technical issues with the portal?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: feedback
+      label: Please provide any additional feedback or comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: Which school do you attend?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: class
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: student_id
+      label: Student ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Medication Client Agreement
+    pages:
+    - id: 1
+      name: emergency_medication_client_agreement
+      label: Emergency Medication Client Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medication_list
+      label: medications
+      hint: List the medications the client is taking
+      type: select_multiple
+      options:
+      - Iodine
+      - Advair
+      - Acetate
+      - Acetazide
+      required: false
+    - id: 5
+      name: medication_frequency
+      label: frequency
+      hint: List how often the medication is taken
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 6
+      name: dosage
+      label: dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dosage_unit
+      label: Dosage Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_administration
+      label: administration
+      hint: How the medication will be administered
+      type: select_one
+      options:
+      - Oral
+      - Injection
+      - Topical
+      - Nasal
+      required: false
+    - id: 10
+      name: allergies
+      label: allergies
+      hint: List any allergies
+      type: select_multiple
+      options:
+      - Food
+      - Dust
+      - Pet
+      - Insect
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone_number
+      label: contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_relationship
+      label: contact_relationship
+      hint: How is the client related to the contact?
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Parent/Guardian-Other
+      - Grandparent
+      - Caregiver
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

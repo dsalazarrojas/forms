@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_team_communication_assessment_form
+    pages:
+    - id: 1
+      name: page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_frequency
+      label: communication_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: frequency_rating
+      label: communication_rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_2
+      label: page_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      - Chat
+      - Video Conference
+      required: false
+    - id: 6
+      name: page_3
+      label: page_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_size
+      label: team_size
+      hint: How many people are in your team?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_size_rating
+      label: team_size_rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: communication_effectiveness
+      label: communication_effectiveness
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false

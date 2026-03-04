@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Feedback Channel Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: manager_email
+      label: manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_channel
+      label: feedback channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_channel_options
+      label: feedback channels
+      hint: null
+      type: select_one
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      - Channel 4
+      - Channel 5
+      - Channel 6
+      - Channel 7
+      - Channel 8
+      - Channel 9
+      - Channel 10
+      - Channel 11
+      - Channel 12
+      - Channel 13
+      - Channel 14
+      - Channel 15
+      - Channel 16
+      - Channel 17
+      - Channel 18
+      - Channel 19
+      - Channel 20
+      - Channel 21
+      - Channel 22
+      - Channel 23
+      - Channel 24
+      - Channel 25
+      required: false
+    - id: 8
+      name: feedback_channels
+      label: feedback channels
+      hint: null
+      type: select_multiple
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      - Channel 4
+      - Channel 5
+      - Channel 6
+      - Channel 7
+      - Channel 8
+      - Channel 9
+      - Channel 10
+      - Channel 11
+      - Channel 12
+      - Channel 13
+      - Channel 14
+      - Channel 15
+      - Channel 16
+      - Channel 17
+      - Channel 18
+      - Channel 19
+      - Channel 20
+      - Channel 21
+      - Channel 22
+      - Channel 23
+      - Channel 24
+      - Channel 25
+      required: false
+    - id: 9
+      name: feedback_message
+      label: feedback message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_message_2
+      label: feedback message 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: feedback_2
+      label: feedback 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

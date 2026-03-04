@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Record Sheet
+    pages:
+    - id: 1
+      name: shift_record_sheet
+      label: shift_record_sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject
+      label: subject
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Math''}'
+      - '{''id'': 2, ''label'': ''Science''}'
+      - '{''id'': 3, ''label'': ''English''}'
+      required: false
+    - id: 3
+      name: tutor
+      label: tutor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Jim''}'
+      required: false
+    - id: 4
+      name: hours
+      label: hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shift_date
+      label: shift_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false

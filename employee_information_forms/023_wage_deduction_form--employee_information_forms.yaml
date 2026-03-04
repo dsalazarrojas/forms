@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wage Deduction Form
+    pages:
+    - id: 1
+      name: wage_deduction_form_1
+      label: Deduction Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Percentage
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: executive_program_project_submission
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: file1
+      label: File 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file2
+      label: File 2
+      hint: null
+      type: text
+      options: []
+      required: true

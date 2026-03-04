@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_assessment_analytics_collection_consent_form
+    pages:
+    - id: 1
+      name: digital_assessment_analytics_collection_consent_form_page_1
+      label: digital_assessment_analytics_collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_collect
+      label: consent_to_collect
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Agent Employment Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Currently employed
+      - Unemployed
+      - Pursuing education
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Associate's degree
+      - Bachelor's degree
+      - Master's degree
+      - Doctorate degree
+      required: false
+    - id: 6
+      name: license
+      label: License
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 7
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Not certified
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

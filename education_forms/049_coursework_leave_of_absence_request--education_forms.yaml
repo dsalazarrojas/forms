@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coursework Leave Of Absence Request
+    pages:
+    - id: 1
+      name: courseware_leave_request
+      label: Coursework Leave Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_identifier
+      label: Course Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Leave of Absence
+      - Other
+      - Other (Specify)
+      required: true
+    - id: 9
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false

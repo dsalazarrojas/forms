@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nervous System Knowledge Assessment
+    pages:
+    - id: 1
+      name: nervous_system_knowledge_assessment
+      label: What do you know about the nervous system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nervous_system_components
+      label: What are the components of the nervous system?
+      hint: null
+      type: select_multiple
+      options:
+      - Cerebral cortex
+      - Spinal cord
+      - Brainstem
+      - Reticular formation
+      required: true
+    - id: 3
+      name: nervous_system_functions
+      label: What functions does the nervous system perform?
+      hint: null
+      type: select_one
+      options:
+      - Sensory input
+      - Motor output
+      - Regulates body functions
+      - Regulates emotions
+      required: false
+    - id: 4
+      name: nervous_system_structures
+      label: What are the main structures of the nervous system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nervous_system_pathways
+      label: Describe the neural pathways of the nervous system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nervous_system_disorders
+      label: What disorders affect the nervous system?
+      hint: null
+      type: select_multiple
+      options:
+      - Epilepsy
+      - Parkinson's disease
+      - Stroke
+      - Alzheimer's disease
+      required: false
+    - id: 7
+      name: feedback_nervous_system_knowledge_assessment
+      label: What do you think about this knowledge assessment form?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: nervous_system_knowledge_assessment_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

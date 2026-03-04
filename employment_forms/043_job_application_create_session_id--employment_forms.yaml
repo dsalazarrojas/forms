@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Application Create Session ID
+    pages:
+    - id: 1
+      name: job_application_create_session_id
+      label: Job Application Create Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_application_create_session_id_email_link
+      label: Email Link
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: job_application_create_session_id_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_application_create_session_id_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Employment Forms
+      - Other Forms
+      required: false
+    - id: 5
+      name: job_application_create_session_id_submitted_at
+      label: Subscribed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_application_create_session_id_submitted_time
+      label: Subscribed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: job_application_create_session_id_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - draft
+      - active
+      - inactive
+      - deleted
+      required: false
+    - id: 8
+      name: job_application_create_session_id_form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

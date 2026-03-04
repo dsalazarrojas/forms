@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Presentation Handout Form
+    pages:
+    - id: 1
+      name: presenter_applicant
+      label: Presenter Applicant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presenter_name
+      label: presenter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone_type
+      label: contact_phone_type
+      hint: null
+      type: select_one
+      options:
+      - mobile
+      - landline
+      required: true
+    - id: 6
+      name: presentation_date
+      label: presentation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: presentation_time
+      label: presentation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: agreement
+      label: agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: presentation_location
+      label: presentation_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: presentation_topic
+      label: presentation_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: presentation_type
+      label: presentation_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: presenter_experience
+      label: presenter_experience
+      hint: null
+      type: text
+      options: []
+      required: false

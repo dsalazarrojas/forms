@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: out_of_class_tracking_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Student name is required
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_out_of_class
+      label: Date Out of Class
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_out_of_class
+      label: Reason Out of Class
+      hint: Please provide a reason for the student being out of class
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: class_name
+      label: Class Name
+      hint: Class name is required
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_attendance_id
+      label: Student Attendance ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_name_2
+      label: Another Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: reason_out_of_class_2
+      label: Another Reason Out of Class
+      hint: Another reason for the student being out of class
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: class_start_date
+      label: Class Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: class_end_date
+      label: Class End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: false
+    - id: 17
+      name: student_attendance_status
+      label: Student Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Absent
+      - Late
+      - Tardy
+      required: false
+    - id: 18
+      name: teacher_attendance_status
+      label: Teacher Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Absent
+      - Late
+      - Tardy
+      required: false
+    - id: 19
+      name: class_location
+      label: Class Location
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: false
+    - id: 20
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Extra Credit
+      - Exam
+      required: false
+    - id: 21
+      name: class_status
+      label: Class Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: Any additional notes about the class
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      required: false
+    - id: 24
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Pass/Fail
+      - Incomplete
+      required: false

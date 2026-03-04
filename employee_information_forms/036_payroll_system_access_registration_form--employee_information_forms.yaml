@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll System Access Registration Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: employee_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payroll_system_approvals
+      label: payroll_system_approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_levels
+      label: access_levels
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: false
+    - id: 4
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_manager
+      label: employee_manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''label'': ''Manager 3''}'
+      required: false
+    - id: 14
+      name: job_manager
+      label: job_manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Job Manager 1''}'
+      - '{''id'': 2, ''label'': ''Job Manager 2''}'
+      - '{''id'': 3, ''label'': ''Job Manager 3''}'
+      required: false
+    - id: 15
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: false
+    - id: 16
+      name: department_head
+      label: department_head
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Department Head 1''}'
+      - '{''id'': 2, ''label'': ''Department Head 2''}'
+      - '{''id'': 3, ''label'': ''Department Head 3''}'
+      required: false
+    - id: 17
+      name: payroll_manager
+      label: payroll_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Payroll Manager 1''}'
+      - '{''id'': 2, ''label'': ''Payroll Manager 2''}'
+      - '{''id'': 3, ''label'': ''Payroll Manager 3''}'
+      required: false
+    - id: 18
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 19
+      name: access_level2
+      label: access_level2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: false
+    - id: 20
+      name: access_level3
+      label: access_level3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: false
+    - id: 21
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 24
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false

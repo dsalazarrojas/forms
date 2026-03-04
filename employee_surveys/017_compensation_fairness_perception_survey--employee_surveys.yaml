@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Fairness Perception Survey
+    pages:
+      - id: 1
+        name: fairness_intro_header
+        label: -- Assessing Pay Fairness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: internal_equity_perception
+        label: I believe my pay is fair compared to my colleagues in similar roles
+        hint: Perception of internal equity
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 3
+        name: external_equity_perception
+        label: I believe my pay is fair compared to people in similar roles outside the company
+        hint: Perception of external market equity
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 4
+        name: pay_criteria_clarity
+        label: I clearly understand the criteria used to determine my pay
+        hint: Clarity of salary determination
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Vague
+          - Very Vague
+        required: true
+      - id: 5
+        name: review_process_fairness
+        label: How fair do you find the annual compensation review process?
+        hint: Fairness of the procedure
+        type: select_one
+        options:
+          - Very Fair
+          - Fair
+          - Neutral
+          - Unfair
+          - Very Unfair
+        required: true
+      - id: 6
+        name: trust_in_leadership_comp
+        label: I trust that leadership makes fair decisions regarding compensation
+        hint: Level of trust in decision-makers
+        type: select_one
+        options:
+          - Complete Trust
+          - Some Trust
+          - Neutral
+          - Little Trust
+          - No Trust
+        required: true
+      - id: 7
+        name: communication_satisfaction_comp
+        label: How satisfied are you with the way compensation changes are communicated?
+        hint: Satisfaction with the communication process
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: motivation_impact_pay
+        label: My current compensation level motivates me to perform at my best
+        hint: Impact of pay on motivation
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 9
+        name: frequency_of_pay_talks
+        label: How often do you discuss your compensation with your manager?
+        hint: Frequency of discussions
+        type: select_one
+        options:
+          - At every review (Annually)
+          - Twice a year
+          - Quarterly
+          - Rarely or Never
+        required: true
+      - id: 10
+        name: fairness_improvement_suggestion
+        label: What is one thing the organization could do to improve the fairness of pay?
+        hint: Open feedback for leadership
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: survey_completion_date_fairness
+        label: Date of Completion
+        hint: Select today's date
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Detailed Registration Form
+    pages:
+    - id: 1
+      name: summer_camp_name
+      label: Summer Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: camp_dates
+      label: Camp Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Summer Camp Dates 1
+      - Summer Camp Dates 2
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_contact
+      label: Participant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: camp_director_email
+      label: Camp Director Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_special_needs
+      label: Participant Special Needs
+      hint: null
+      type: select_one
+      options:
+      - Participant has special needs
+      - No special needs
+      required: false
+    - id: 9
+      name: participant_medical_condition
+      label: Participant Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false

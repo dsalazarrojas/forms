@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Benefits Feedback Form
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: What do you think about our current health benefits program?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction with our health benefits program
+      hint: Please select one of the following options
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: improvement_opportunities
+      label: What opportunities for improvement do you see?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Do you have any additional comments or feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Is this email address valid?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Is this phone number valid?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of feedback
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time of feedback
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: has_health_benefits
+      label: Do you have health benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true

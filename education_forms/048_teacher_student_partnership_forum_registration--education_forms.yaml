@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher-student-partnership-forum-registration
+    pages:
+    - id: 1
+      name: teacher
+      label: teacher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school
+      label: school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student
+      label: student
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

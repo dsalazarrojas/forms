@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yearbook Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Student is in 5th
+      - Student is in 6th
+      - Student is in 7th
+      - Student is in 8th
+      - Student is in 9th
+      - Student is in 10th
+      - Student is in 11th
+      - Student is in 12th
+      - Student is in 13th
+      - Student is in 14th
+      - Student is in 15th
+      - Student is in 16th
+      required: false
+    - id: 5
+      name: teacher_name
+      label: Teacher's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_email
+      label: Teacher's Email
+      hint: null
+      type: email
+      options: []
+      required: false

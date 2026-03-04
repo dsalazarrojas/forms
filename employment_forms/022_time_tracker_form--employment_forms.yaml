@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Tracker Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_start_time
+      label: Work start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: work_end_time
+      label: Work end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: break_time
+      label: Break time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_description
+      label: Work description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_notes
+      label: Work notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 9
+      name: work_hours
+      label: Work hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: overtime
+      label: Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: break_duration
+      label: Break duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: employee_email
+      label: Employee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: Employee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_address
+      label: Company address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_phone
+      label: Company phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company_email
+      label: Company email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: task_name
+      label: Task name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: task_id
+      label: Task id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: work_date
+      label: Work date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true

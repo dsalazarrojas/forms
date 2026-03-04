@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Recognition Vote
+    pages:
+    - id: 1
+      name: nomination
+      label: nomination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nomination_reason
+      label: nomination_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: name_of_nominated
+      label: name_of_nominated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: impact
+      label: impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nomination_type
+      label: nomination_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: nomination_details
+      label: nomination_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: nomination_status
+      label: nomination_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nominee_job_title
+      label: Nominee Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: nominee_department
+      label: Nominee Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: nominee_manager
+      label: Nominee Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: nominee_manager_email
+      label: Nominee Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: nominee_manager_phone
+      label: Nominee Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: nominee_position
+      label: Nominee Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: nomination_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: text
+      options: []
+      required: true

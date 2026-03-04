@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Implicit Association Test Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: iat_survey_consent
+      label: participant_consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 3
+      name: iat_survey_consent
+      label: participant_consent_2
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 4
+      name: demographic_info
+      label: participant_info
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option9
+      - option10
+      required: false
+    - id: 5
+      name: demographic_info2
+      label: participant_info_2
+      hint: null
+      type: select_multiple
+      options:
+      - option11
+      - option12
+      - option13
+      - option14
+      required: false
+    - id: 6
+      name: iat_survey_responses
+      label: association_test
+      hint: null
+      type: select_multiple
+      options:
+      - option15
+      - option16
+      - option17
+      required: false
+    - id: 7
+      name: iat_survey_responses_2
+      label: association_test_2
+      hint: null
+      type: select_multiple
+      options:
+      - option18
+      - option19
+      - option20
+      required: false
+    - id: 8
+      name: iat_survey_responses_3
+      label: association_test_3
+      hint: null
+      type: select_multiple
+      options:
+      - option21
+      - option22
+      required: false
+    - id: 9
+      name: iat_survey_responses_4
+      label: association_test_4
+      hint: null
+      type: select_multiple
+      options:
+      - option23
+      - option24
+      required: false
+    - id: 10
+      name: iat_survey_responses_5
+      label: association_test_5
+      hint: null
+      type: select_multiple
+      options:
+      - option25
+      - Other
+      required: false
+    - id: 11
+      name: iat_survey_responses_6
+      label: association_test_6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

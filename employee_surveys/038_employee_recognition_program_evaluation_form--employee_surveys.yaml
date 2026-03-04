@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Program Evaluation Form
+    pages:
+    - id: 1
+      name: employee_survey_form
+      label: Employee Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recognition_programs
+      label: Recognition Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monetary''}'
+      - '{''value'': ''Non-monetary''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 3
+      name: program_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: recognition_frequency
+      label: Recognition Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement_form
+      label: Acknowledgement Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly Agree''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Strongly Disagree''}'
+      - '{''value'': ''Unknown''}'
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Pay Period Submission
+    pages:
+    - id: 1
+      name: regular_hours
+      label: Regular Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overtime_hours
+      label: Overtime Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pay_cycle
+      label: Pay Cycle
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_multiple
+      options:
+      - Pay Period 1
+      - Pay Period 2
+      - Pay Period 3
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Center Evaluation Form
+    pages:
+    - id: 1
+      name: exhibit_interest
+      label: What exhibits do you enjoy most at our center?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: program_experience
+      label: What programs do you participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: overall_experience
+      label: Overall experience at our center?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: staff_interaction
+      label: How often do you interact with our staff?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Do you have any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: exhibit_quality
+      label: What do you think of the exhibit quality?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: exhibit_suggestions
+      label: Have you any exhibit suggestions?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_suggestions
+      label: Have you any program suggestions?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: exhibit_rating
+      label: How do you rate the exhibits?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: program_rating
+      label: How do you rate the programs?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: overall_rating
+      label: Overall rating of our center?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false

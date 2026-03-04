@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Saving Attitudes Survey
+    pages:
+    - id: 1
+      name: school_safety_programs
+      label: School Safety Programs
+      hint: null
+      type: select_one
+      options:
+      - CPR training is not available
+      - Basic First Aid training is not available
+      - Emergency Preparedness programs are not available
+      - First Aid kits are not available
+      - Automated External Defibrillators (AEDs) are not available
+      - CPR training is not available
+      - First Aid training programs are not available
+      required: false
+    - id: 2
+      name: first_aid_confidence
+      label: First Aid Confidence
+      hint: null
+      type: select_multiple
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not confident at all
+      - Somewhat confident
+      - Very confident
+      - Not confident
+      required: false
+    - id: 3
+      name: cpr_confidence
+      label: CPR Confidence
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not confident at all
+      - Somewhat confident
+      - Very confident
+      required: false
+    - id: 4
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_one
+      options:
+      - First aid training
+      - CPR training
+      - First aid and CPR training
+      - Neither first aid nor CPR training
+      required: false
+    - id: 5
+      name: school_support
+      label: School Support
+      hint: null
+      type: select_multiple
+      options:
+      - School nurse
+      - School security
+      - School janitor
+      - School principal
+      - School district
+      - School administration
+      - School teachers
+      - School students
+      required: false
+    - id: 6
+      name: first_aid_kits
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid kits
+      - Automated External Defibrillators (AEDs)
+      - Both first aid kits and AEDs
+      - Neither first aid kits nor AEDs
+      required: false
+    - id: 7
+      name: cpr_equipment
+      label: CPR Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - CPR equipment
+      - AEDs
+      - Both CPR equipment and AEDs
+      - Neither CPR equipment nor AEDs
+      required: false
+    - id: 8
+      name: cpr_procedures
+      label: CPR Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Adult CPR
+      - Child CPR
+      - Infant CPR
+      - All of the above
+      - None
+      required: false
+    - id: 9
+      name: emergency_plan
+      label: Emergency Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Plan
+      - Automated External Defibrillator (AED)
+      - Both emergency plan and AED
+      - Neither emergency plan nor AED
+      required: false
+    - id: 10
+      name: cpr_location
+      label: CPR Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_plan_location
+      label: Emergency Plan Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - Schools
+      - Workplace
+      - Community centers
+      - Home
+      - Workplace or schools
+      - Schools or community centers
+      - All of the above
+      required: false
+    - id: 13
+      name: training_date
+      label: Training Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: first_aid_kit_location
+      label: First Aid Kit Location
+      hint: null
+      type: select_one
+      options:
+      - In the school office
+      - In the school nurse's office
+      - In the school gym
+      - In the school cafeteria
+      - In other locations within the school
+      - In the school parking lot
+      - Not applicable
+      required: false
+    - id: 15
+      name: last_training_date
+      label: Last Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cpr_certification
+      label: CPR Certification
+      hint: null
+      type: select_one
+      options:
+      - CPR certification is not available
+      - Basic CPR certification is not available
+      - Advanced CPR certification is not available
+      - CPR certification is available
+      - Basic CPR certification is available
+      - Advanced CPR certification is available
+      - Both basic and advanced CPR certification is available
+      required: false
+    - id: 18
+      name: training_hours_per_year
+      label: Training Hours per Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: school_id
+      label: School ID
+      hint: null
+      type: select_one
+      options:
+      - '001'
+      - '002'
+      - '003'
+      - '004'
+      - '005'
+      - '006'
+      - '007'
+      - 008
+      - 009
+      - '010'
+      - '011'
+      - '012'
+      - '013'
+      - '014'
+      - '015'
+      - '016'
+      - '017'
+      - 018
+      - 019
+      - '020'
+      - '021'
+      - '022'
+      - '023'
+      - '024'
+      - '025'
+      required: false

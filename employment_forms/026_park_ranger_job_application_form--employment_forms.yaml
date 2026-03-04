@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Park Ranger Job Application Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume_upload
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: Available to work on weekends
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Available on Weekends
+      - Available on Weeknights
+      required: true
+    - id: 9
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Ranger
+      - Conservation Officer
+      - Park Ranger
+      - Conservation Officer (Ranger)
+      required: true
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Parks and Recreation
+      - Parks and Wildlife
+      - Parks and Conservation
+      - Conservation and Wildlife
+      required: true
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Mountain Park
+      - Beach Park
+      - City Park
+      - State Park
+      required: true
+    - id: 16
+      name: shifts
+      label: Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Morning and Afternoon
+      - Varies
+      required: true
+    - id: 17
+      name: hours
+      label: Hours
+      hint: Available to work 8-4 or 4-12
+      type: select_multiple
+      options:
+      - 8-4
+      - 4-12
+      - Varies
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_employed
+      label: Emergency Contact Employed
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Not Employed
+      required: true
+    - id: 24
+      name: emergency_contact_employed_type
+      label: Emergency Contact Employed Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: null
+      type: text
+      options: []
+      required: false

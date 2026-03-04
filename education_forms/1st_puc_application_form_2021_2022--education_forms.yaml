@@ -1,0 +1,182 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1st PUC Application Form 2021 2022
+    pages:
+    - id: 1
+      name: section_header_applicant_info
+      label: '--- Applicant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, but useful for urgent updates
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Choose the option that best describes you
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: age
+      label: Age
+      hint: Calculated from date of birth
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: home_address
+      label: Home address
+      hint: Include city, state and postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: application_date
+      label: Application date
+      hint: Date you are submitting this form
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: document_type
+      label: Type of application
+      hint: Select the reason for this submission
+      type: select_one
+      options:
+      - New application
+      - Renewal
+      - Transfer
+      - Amendment
+      required: true
+    - id: 11
+      name: purpose
+      label: Purpose or reason for applying
+      hint: Briefly describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: course_choice
+      label: Course of interest
+      hint: Select the PU course you wish to pursue
+      type: select_one
+      options:
+      - PCMB
+      - PCMC
+      - CEBA
+      - SEBA
+      required: true
+    - id: 13
+      name: exam_preference
+      label: Integrated exam preference
+      hint: Choose one if applicable
+      type: select_one
+      options:
+      - JEE
+      - NEET
+      - CET
+      - None
+      required: true
+    - id: 14
+      name: previous_school_name
+      label: Name of your previous school
+      hint: Include full official name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_school_board
+      label: Board of your previous school
+      hint: e.g., CBSE, ICSE, State
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: previous_year
+      label: Year of completion of previous PU
+      hint: 4-digit year (e.g., 2020)
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: previous_year_marks
+      label: Percentage of marks in previous PU
+      hint: Enter a number between 0 and 100
+      type: decimal
+      options: []
+      required: true
+    - id: 18
+      name: subjects_taken
+      label: Subjects taken in previous PU
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - English
+      - Hindi
+      required: true
+    - id: 19
+      name: supporting_documents
+      label: Supporting documents (list)
+      hint: List any documents you will submit (e.g., marksheet, ID proof)
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Share any other information that may help us process your application
+      type: text
+      options: []
+      required: false

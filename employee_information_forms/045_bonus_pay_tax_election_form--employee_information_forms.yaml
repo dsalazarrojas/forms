@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bonus Pay Tax Election Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pay_period_date
+      label: Pay Period for Bonus
+      hint: Month and year
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bonus_amount
+      label: Gross Bonus Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: filing_status
+      label: Federal Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married Filing Jointly
+      - Married Filing Separately
+      - Head of Household
+      - Qualifying Widow(er)
+      required: true
+    - id: 8
+      name: withholding_method
+      label: Bonus Tax Withholding Method
+      hint: null
+      type: select_one
+      options:
+      - Aggregate Method
+      - Separate Method
+      - No Withholding
+      - Custom Amount
+      required: true
+    - id: 9
+      name: aggregate_method_selection
+      label: Aggregate Method Details
+      hint: If selected above
+      type: select_one
+      options:
+      - Withhold as Regular Pay
+      - Withhold at Flat Rate
+      - Other
+      - Not Applicable
+      required: false
+    - id: 10
+      name: separate_method_rate
+      label: Separate Method Withholding Rate
+      hint: Percentage if selected
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: custom_withholding_amount
+      label: Custom Withholding Amount
+      hint: Dollar amount to withhold
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: federal_tax_withholding
+      label: Federal Income Tax Withholding
+      hint: null
+      type: select_one
+      options:
+      - Withhold Standard Amount
+      - Withhold Extra Amount
+      - No Federal Withholding
+      - Custom Amount
+      required: true
+    - id: 13
+      name: federal_extra_withholding
+      label: Additional Federal Withholding
+      hint: Per paycheck in dollars
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: state_tax_withholding
+      label: State Income Tax Withholding
+      hint: null
+      type: select_one
+      options:
+      - Withhold Based on Form W-4
+      - Withhold Extra Amount
+      - No State Withholding
+      - Custom Amount
+      - Not Applicable
+      required: true
+    - id: 15
+      name: state_name
+      label: State of Residence
+      hint: If state tax applies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state_extra_withholding
+      label: Additional State Withholding
+      hint: Per paycheck in dollars
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: local_tax_withholding
+      label: Local Tax Withholding
+      hint: null
+      type: select_one
+      options:
+      - Withhold Based on Form
+      - No Local Withholding
+      - Custom Amount
+      - Not Applicable
+      required: true
+    - id: 18
+      name: medicare_withholding
+      label: Medicare Withholding
+      hint: Additional Medicare Tax
+      type: select_one
+      options:
+      - Standard
+      - Additional 0.9 percent
+      - Custom
+      - Not Applicable
+      required: true
+    - id: 19
+      name: social_security_withholding
+      label: Social Security Withholding
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Custom Amount
+      - Not Applicable
+      required: true
+    - id: 20
+      name: fica_withholding_rate
+      label: FICA Combined Rate
+      hint: Employee's rate
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: 401k_contribution
+      label: 401(k) Contribution Election
+      hint: null
+      type: select_one
+      options:
+      - Standard Percentage
+      - Maximum Allowed
+      - Custom Amount
+      - None
+      - Not Applicable
+      required: true
+    - id: 22
+      name: 401k_amount
+      label: 401(k) Contribution Amount
+      hint: Dollar amount or percentage
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_deductions
+      label: Other Deductions or Elections
+      hint: List any additional deductions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_confirmation
+      label: I confirm the above elections are accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 25
+      name: election_date
+      label: Date of Election
+      hint: null
+      type: date
+      options: []
+      required: true

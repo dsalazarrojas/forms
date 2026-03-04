@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Examination Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance
+      label: performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: promotion_recommendations
+      label: promotion_recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Promote to Manager
+      - Promote to Senior
+      - Promote to Other
+      required: false
+    - id: 5
+      name: strengths
+      label: strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: responsibility_recommendations
+      label: responsibility_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Services Price List
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Enter contact information for the request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Commercial
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time_window
+      label: Preferred Time Window
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 8
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: service_price_currency
+      label: Service Price Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

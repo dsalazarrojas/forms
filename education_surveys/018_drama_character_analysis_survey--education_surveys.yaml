@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drama Character Analysis Survey
+    pages:
+    - id: 1
+      name: drama_character_analysis_survey_page_1
+      label: drama_character_analysis_survey_page_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: character_motivation
+      label: character motivation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: character_development
+      label: character_development
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: theme_relevance
+      label: theme relevance
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_critique
+      label: group_critique
+      hint: null
+      type: note
+      options: []
+      required: false

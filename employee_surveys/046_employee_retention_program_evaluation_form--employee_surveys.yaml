@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Program Evaluation Form
+    pages:
+    - id: 1
+      name: employee_retention_program
+      label: Employee Survey
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 2
+      name: employee_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_contact
+      label: Manager Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: retention_initiatives
+      label: Retention Initiatives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: retention_effectiveness
+      label: Retention Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: retention_initiatives_satisfaction
+      label: Retention Initiatives Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: retention_plan
+      label: Retention Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: retention_goal
+      label: Retention Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: retention_objective
+      label: Retention Objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_retention_initiatives
+      label: Manager Retention Initiatives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_satisfaction_level
+      label: Employee Satisfaction Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: retention_commitment
+      label: Retention Commitment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: retention_involvement
+      label: Retention Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: retention_satisfaction
+      label: Retention Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_retention_program
+      label: Employee Retention Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ecosystem And Food Chain Survey
+    pages:
+    - id: 1
+      name: education_level
+      label: What Is Your Highest Level Of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - Some College
+      - Other
+      required: false
+    - id: 2
+      name: ecosystem_nowledge
+      label: How Familiar Are You With Ecosystems
+      hint: null
+      type: select_one
+      options:
+      - Familiar
+      - Somewhat Familiar
+      - Not Familiar
+      - Very Familiar
+      required: false
+    - id: 3
+      name: food_chain_concept
+      label: How Do You Understand The Food Chain
+      hint: null
+      type: select_multiple
+      options:
+      - Producers
+      - Consumers
+      - Decomposers
+      - All of the above
+      required: false
+    - id: 4
+      name: survey_time
+      label: How Much Time Do You Spend On The Following Activities Per Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teaching_practices
+      label: What Are Some Common Teaching Practices You Have Used In The Classroom
+      hint: null
+      type: select_multiple
+      options:
+      - Lecturing
+      - Storytelling
+      - Role Playing
+      - All of the above
+      required: false
+    - id: 6
+      name: teaching_materials
+      label: What Are Some Common Teaching Materials You Have Used In The Classroom
+      hint: null
+      type: select_multiple
+      options:
+      - Pictures
+      - Videos
+      - Textbooks
+      - All of the above
+      required: false
+    - id: 7
+      name: teaching_goals
+      label: What Are Some Common Goals Of Teaching
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching Ecosystem Concepts
+      - Teaching Food Chain Concepts
+      - Teaching Critical Thinking
+      - All of the above
+      required: false
+    - id: 8
+      name: survey_length
+      label: How Long Would You Like The Survey To Be
+      hint: null
+      type: select_one
+      options:
+      - 10 Minutes
+      - ประก์ 15 Minutes'
+      - 30 Minutes
+      - 60 Minutes
+      required: false
+    - id: 9
+      name: survey_frequency
+      label: How Often Would You Like To Take The Survey
+      hint: null
+      type: select_one
+      options:
+      - Once a Month
+      - Once a Quarter
+      - Once a Semester
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_facility_inspection_report
+    pages:
+    - id: 1
+      name: facility_inspection
+      label: facility_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - 08
+      - 09
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issues_found
+      label: issues_found
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical issues
+      - Fire safety issues
+      - Maintenance issues
+      - Security issues
+      - Other
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

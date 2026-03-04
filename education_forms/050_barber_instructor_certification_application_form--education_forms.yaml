@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Instructor Certification Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: barber_license_number
+      label: Current Barber License Number
+      hint: Your license ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_state
+      label: License State
+      hint: State where licensed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_status
+      label: License Status
+      hint: Is your license current?
+      type: select_one
+      options:
+      - Active and Current
+      - Active but Renewal Due
+      - Expired
+      - Inactive
+      required: true
+    - id: 10
+      name: years_barbering
+      label: Years of Barbering Experience
+      hint: Total years in profession
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: previous_teaching
+      label: Previous Teaching or Training Experience
+      hint: Any teaching experience?
+      type: select_one
+      options:
+      - Yes - Extensive
+      - Yes - Some
+      - false
+      - Informal Training Only
+      required: true
+    - id: 12
+      name: teaching_experience_details
+      label: Teaching Experience Details
+      hint: Describe your teaching background
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education_level
+      label: Highest Education Level
+      hint: Select your education level
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Other
+      required: true
+    - id: 14
+      name: certifications_held
+      label: Other Professional Certifications
+      hint: Select any additional certs
+      type: select_multiple
+      options:
+      - Barbering Instructor Cert
+      - Master Barber
+      - Color Specialist
+      - Advanced Techniques
+      - Business Management
+      - Professional Development
+      required: false
+    - id: 15
+      name: specializations
+      label: Areas of Specialization
+      hint: What are you an expert in?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: teaching_interests
+      label: Subjects You Want to Teach
+      hint: Select areas of interest
+      type: select_multiple
+      options:
+      - Basic Hair Cutting
+      - Advanced Techniques
+      - Beard Work
+      - Business Skills
+      - Customer Service
+      - Sanitation and Safety
+      - Esthetics
+      - Professional Development
+      required: true
+    - id: 17
+      name: institution_type
+      label: Preferred Teaching Institution
+      hint: Where would you like to teach?
+      type: select_one
+      options:
+      - Barbering School
+      - Community College
+      - Vocational Institute
+      - Corporate Training
+      - Independent Instructor
+      - Any of the Above
+      required: true
+    - id: 18
+      name: communication_skills
+      label: Communication and Presentation Skills
+      hint: How would you rate yourself?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Needs Development
+      required: true
+    - id: 19
+      name: curriculum_development
+      label: Curriculum Development Experience
+      hint: Have you developed curriculum?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Willing to Learn
+      required: true
+    - id: 20
+      name: motivation
+      label: Why Do You Want to Be an Instructor?
+      hint: Describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: background_check
+      label: Background Check Authorization
+      hint: Do you consent to background check?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: professional_references
+      label: Professional References Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Provide Later
+      required: true
+    - id: 23
+      name: reference_names
+      label: Reference Names and Contact Info
+      hint: Provide at least 3 references
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

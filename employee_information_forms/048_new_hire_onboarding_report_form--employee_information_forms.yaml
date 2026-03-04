@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Onboarding Report Form
+    pages:
+    - id: 1
+      name: new_hire_onboarding_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_hire_department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: new_hire_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_hire_manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_hire_date_hired
+      label: date_hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: new_hire_job_title_id
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - Account Executive
+      - Account Manager
+      - Account Specialist
+      required: false
+    - id: 7
+      name: new_hire_department_id
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - Sales
+      - IT
+      required: false
+    - id: 8
+      name: new_hire_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: new_hire_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: new_hire_job_location
+      label: job_location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - Onsite
+      - Hybrid
+      required: false
+    - id: 11
+      name: new_hire_shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: new_hire_termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false

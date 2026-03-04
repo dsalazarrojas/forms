@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Wildlife Sighting Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: species
+      label: Species
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: species_type
+      label: Species Type
+      hint: null
+      type: select_one
+      options:
+      - Common Name
+      - Scientific Name
+      - Common Name/Scientific Name
+      required: false
+    - id: 5
+      name: common_name
+      label: Common Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scientific_name
+      label: Scientific Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sighting_details
+      label: Sighting Details
+      hint: Describe the sighting in as much detail as possible.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: photo_count
+      label: Number of Photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: photo_comment
+      label: Photo Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: conservation_interest
+      label: Conservation Interest
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: conservation_group
+      label: Conservation Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_conservation_group
+      label: Other Conservation Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_conservation_group_comment
+      label: Other Conservation Group Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: researcher_comments
+      label: Researcher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: photo_credit
+      label: Photo Credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_credit_comment
+      label: Photo Credit Comment
+      hint: null
+      type: text
+      options: []
+      required: false

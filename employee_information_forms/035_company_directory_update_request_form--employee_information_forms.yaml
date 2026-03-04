@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Directory Update Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Full name for directory
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier if available
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_email
+      label: New email address
+      hint: Email to update in the directory
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: new_phone
+      label: New phone number
+      hint: Mobile or desk phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_title
+      label: New job title
+      hint: Updated title to display
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_location
+      label: New office or location
+      hint: Office address or remote
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_update
+      label: Reason for update
+      hint: Optional context for the change
+      type: text
+      options: []
+      required: false

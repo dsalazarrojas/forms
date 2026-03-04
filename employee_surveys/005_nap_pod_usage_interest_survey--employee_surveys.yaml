@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nap Pod Usage Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interested_in_nap_pods
+      label: interested_in_nap_pods
+      hint: null
+      type: select_multiple
+      options:
+      - nap_pods_on_campus
+      - nap_pods_in_my_office
+      - nap_pods_in_my_home
+      required: false
+    - id: 3
+      name: preferred_usage_time
+      label: preferred_usage_time
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - lunch
+      - other
+      required: false
+    - id: 4
+      name: nap_pod_frequency
+      label: nap_pod_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: nap_pod_duration
+      label: nap_pod_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: nap_pod_location
+      label: nap_pod_location
+      hint: null
+      type: select_multiple
+      options:
+      - campus
+      - office
+      - home
+      required: false
+    - id: 7
+      name: nap_pod_frequency_comments
+      label: nap_pod_frequency_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: interested_in_nap_pods_frequency
+      label: interested_in_nap_pods_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 11
+      name: nap_pod_type
+      label: nap_pod_type
+      hint: null
+      type: select_one
+      options:
+      - nap_pod
+      - nap_pod
+      - other
+      required: false
+    - id: 12
+      name: nap_pod_features
+      label: nap_pod_features
+      hint: null
+      type: select_multiple
+      options:
+      - temperature_control
+      - white_noise
+      - quiet
+      - nap_mat
+      required: false
+    - id: 13
+      name: nap_pod_features_comments
+      label: nap_pod_features_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nap_pod_features_frequency
+      label: nap_pod_features_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 15
+      name: nap_pod_features_comments
+      label: nap_pod_features_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nap_pod_frequency_reason
+      label: nap_pod_frequency_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nap_pod_frequency_reason_comments
+      label: nap_pod_frequency_reason_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nap_pod_features_reason
+      label: nap_pod_features_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: nap_pod_features_reason_comments
+      label: nap_pod_features_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nap_pod_favourite_time
+      label: nap_pod_favourite_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: nap_pod_favourite_time_comments
+      label: nap_pod_favourite_time_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: nap_pod_favourite_frequency
+      label: nap_pod_favourite_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 23
+      name: nap_pod_favourite_frequency_comments
+      label: nap_pod_favourite_frequency_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: nap_pod_favourite_location
+      label: nap_pod_favourite_location
+      hint: null
+      type: select_one
+      options:
+      - nap_pod
+      - nap_pod
+      - other
+      required: false
+    - id: 25
+      name: nap_pod_favourite_location_comments
+      label: nap_pod_favourite_location_comments
+      hint: null
+      type: text
+      options: []
+      required: false

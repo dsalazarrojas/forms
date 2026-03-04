@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Reform Assessment Quiz
+    pages:
+    - id: 1
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - Government
+      - Public Charter
+      - Private
+      - Special
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_grade_level
+      label: School Grade Level
+      hint: What is your school's grade level?
+      type: select_multiple
+      options:
+      - Elementary
+      - Middle
+      - High
+      - All
+      required: false
+    - id: 4
+      name: school_subject_area
+      label: School Subject Area
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - Science
+      - English
+      - All
+      required: false
+    - id: 5
+      name: assessment_method
+      label: Assessment Method
+      hint: How do you currently assess student performance?
+      type: select_multiple
+      options:
+      - Standardized
+      - Project-Based
+      - Portfolio-Based
+      - Other
+      required: false
+    - id: 6
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Irregular
+      - As Needed
+      - Other
+      required: false
+    - id: 7
+      name: assessment_method_other
+      label: Assessment Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_date
+      label: Date of Assessment
+      hint: Date of last assessment (MM/DD/YYYY)
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assessment_time
+      label: Time of Assessment
+      hint: "Time of last assessment (HH:MM AM/PM)"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: assessment_location
+      label: Location of Assessment
+      hint: null
+      type: select_one
+      options:
+      - School
+      - District
+      - State
+      - Region
+      required: false
+    - id: 11
+      name: stakeholders
+      label: Stakeholders Involved in the Assessment
+      hint: List all stakeholders involved in the assessment
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stakeholder_count
+      label: Number of Stakeholders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: stakeholder_role
+      label: Stakeholder Role
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Administrator
+      - Parent
+      - Other
+      required: false
+    - id: 14
+      name: stakeholder_opinions
+      label: Stakeholder Opinions on Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - No Opinion
+      required: false
+    - id: 15
+      name: reform_ideas
+      label: Reform Ideas
+      hint: List reform ideas for your school or district
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reform_barriers
+      label: Reform Barriers
+      hint: List barriers to implementing reform ideas
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reform_opinions
+      label: Stakeholder Opinions on Reform
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false

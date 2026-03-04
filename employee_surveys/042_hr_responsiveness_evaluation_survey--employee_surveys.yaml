@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Responsiveness Evaluation Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: response_speed
+      label: How fast do you typically receive responses from HR
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: professionalism
+      label: How would you rate the professionalism of HR
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Poor''}'
+      required: false
+    - id: 4
+      name: effectiveness
+      label: How would you rate the effectiveness of HR
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Poor''}'
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Phone''}'
+      - '{''option2'': ''Email''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 9
+      name: response_time
+      label: How much time do you have to respond to HR
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: professionalism_comments
+      label: Any comments on professionalism
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: time_comments
+      label: Any comments on time taken
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_feedback
+      label: Any other comments or suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

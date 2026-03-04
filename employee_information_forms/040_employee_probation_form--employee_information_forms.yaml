@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Probation Form
+    pages:
+    - id: 1
+      name: new_hire_name
+      label: new hire name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_position
+      label: job position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: performance_rating
+      label: performance rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: probation_period
+      label: probation period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_notes
+      label: feedback notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_evaluation
+      label: date of last evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_last_evaluation
+      label: time of last evaluation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_by
+      label: evaluation by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_performance
+      label: overall performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: areas_of_improvement
+      label: areas of improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: recommended_training
+      label: recommended training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Curriculum Feedback Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: School Curriculum Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: Parent Information
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - Teacher
+      required: false
+    - id: 3
+      name: student_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: curriculum_effectiveness
+      label: Curriculum Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Neither effective nor ineffective
+      - Not at all effective
+      required: false
+    - id: 7
+      name: curriculum_relevance
+      label: Curriculum Relevance
+      hint: null
+      type: select_one
+      options:
+      - Very relevant
+      - Somewhat relevant
+      - Neither relevant nor irrelevant
+      - Not at all relevant
+      required: false
+    - id: 8
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: survey_footer
+      label: Survey Footer
+      hint: null
+      type: time
+      options: []
+      required: false

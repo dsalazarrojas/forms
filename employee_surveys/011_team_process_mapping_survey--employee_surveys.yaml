@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Process Mapping Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_workflow
+      label: Team workflow
+      hint: Describe your team's current processes and responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges
+      label: Current challenges
+      hint: What are some challenges your team faces
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: What ideas do you have for improving your workflow
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_goals
+      label: Team goals
+      hint: What are your team's goals
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_structure
+      label: Team structure
+      hint: null
+      type: select_multiple
+      options:
+      - Team Leader
+      - Team Member
+      - Other
+      required: false
+    - id: 7
+      name: team_size
+      label: Team size
+      hint: How many people are on your team?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_location
+      label: Team location
+      hint: null
+      type: select_multiple
+      options:
+      - Remote
+      - In-person
+      - Hybrid
+      required: false
+    - id: 9
+      name: team_hours
+      label: Team hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: team_leaves
+      label: Team leaves
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: team_lead
+      label: Team lead
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 12
+      name: team_member
+      label: Team member
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 13
+      name: team_email
+      label: Team email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: team_phone
+      label: Team phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_notes
+      label: Team notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: team_lead_email
+      label: Team lead email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: team_lead_phone
+      label: Team lead phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_lead_notes
+      label: Team lead notes
+      hint: null
+      type: note
+      options: []
+      required: false

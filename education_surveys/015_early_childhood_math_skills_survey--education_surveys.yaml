@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: early_childhood_math_skills_survey
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_age
+      label: parent_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 6
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: child_grade
+      label: Child's Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 13
+      name: math_proficiency
+      label: Math Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 14
+      name: reading_proficiency
+      label: Reading Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 15
+      name: writing_proficiency
+      label: Writing Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 16
+      name: number_line
+      label: Number Line
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: number_line_brief
+      label: Number Line Brief
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: number_line_score
+      label: Number Line Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: addition_subtrah
+      label: Addition/Subtraction
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 20
+      name: addition_score
+      label: Addition Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: subtraction_subtrah
+      label: Subtraction
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: true
+    - id: 22
+      name: subtraction_score
+      label: Subtraction Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: counting_up
+      label: Counting Up
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pre-K''}'
+      - '{2: ''K-1''}'
+      - '{3: ''K-2''}'
+      - '{4: ''K-3''}'
+      - '{5: ''K-4''}'
+      required: false
+    - id: 24
+      name: counting_score
+      label: Counting Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: counting_brief
+      label: Counting Brief
+      hint: null
+      type: note
+      options: []
+      required: false

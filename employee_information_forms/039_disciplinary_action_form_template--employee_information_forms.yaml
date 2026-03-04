@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Form Template
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: Provide details about the incident.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: Enter employee ID.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_incident
+      label: Date Of Incident
+      hint: Enter date of incident.
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_incident
+      label: Time Of Incident
+      hint: Enter time of incident.
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: Describe the action taken.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: disciplinary_action_date
+      label: Disciplinary Action Date
+      hint: Enter date of disciplinary action.
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_signature
+      label: Employee Signature
+      hint: Employee signature is required.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: Manager signature is required.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_disciplinary_action
+      label: Reason For Disciplinary Action
+      hint: State reason for disciplinary action.
+      type: note
+      options: []
+      required: false

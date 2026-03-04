@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stay Connected With Our Organization
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_preferences
+      label: Email Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''label'': ''No email''}'
+      - '{''id'': 5.2, ''label'': ''Weekly''}'
+      - '{''id'': 5.3, ''label'': ''Daily''}'
+      required: true
+    - id: 6
+      name: updates
+      label: Updates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6.1, ''label'': True}'
+      - '{''id'': 6.2, ''label'': False}'
+      required: false
+    - id: 7
+      name: events
+      label: Events
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': True}'
+      - '{''id'': 7.2, ''label'': False}'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16.1, ''label'': ''Email Marketing Forms''}'
+      - '{''id'': 16.2, ''label'': ''Other''}'
+      required: true
+    - id: 17
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_id_2
+      label: Form ID 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_title_2
+      label: Form Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user_2
+      label: Assigned User 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_2
+      label: Submitted By 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date_2
+      label: Submitted Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: submitted_time_2
+      label: Submitted Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 27
+      name: assigned_date_2
+      label: Assigned Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: assigned_time_2
+      label: Assigned Time 2
+      hint: null
+      type: time
+      options: []
+      required: false

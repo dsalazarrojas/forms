@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acknowledgment Of Policy Handbook
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_handbook_received
+      label: Date Handbook Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: handbook_version
+      label: Handbook Version
+      hint: null
+      type: select_one
+      options:
+      - v2024.1
+      - v2025.2
+      - v2026.1
+      required: true
+    - id: 5
+      name: ack_header
+      label: -- Acknowledgment Statements --
+      hint: Please check each item below
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: read_and_understood
+      label: I confirm I have read and understood the policies
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true
+    - id: 7
+      name: at_will_employment_acknowledgment
+      label: I understand the at-will nature of my employment
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I need clarification
+      required: true
+    - id: 8
+      name: confidentiality_agreement
+      label: I agree to maintain company confidentiality
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: employee_electronic_signature
+      label: Employee Electronic Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: employee_email_for_confirmation
+      label: Employee Email for Confirmation
+      hint: A copy of this acknowledgment will be sent here
+      type: email
+      options: []
+      required: true

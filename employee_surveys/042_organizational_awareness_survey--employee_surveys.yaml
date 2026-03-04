@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organizational_values
+      label: What are the core values of our organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organizational_objectives
+      label: What are our organizational objectives?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_level_of_awareness
+      label: What is the current level of awareness of our organizational values among
+        employees?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expected_level_of_awareness
+      label: What is the expected level of awareness of our organizational values
+        among employees?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_channels
+      label: What communication channels do you currently use to stay informed about
+        the organization's values and objectives?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - email
+      - intranet
+      - manager
+      - social_media
+      - team_meeting
+      - newsletters
+      required: false
+    - id: 7
+      name: feedback_on_awareness
+      label: What kind of feedback do you get from your manager regarding our organizational
+        values?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 8
+      name: organizational_awareness_level
+      label: How would you rate the level of awareness of our organizational values
+        among employees?
+      hint: null
+      type: number
+      options: []
+      required: false

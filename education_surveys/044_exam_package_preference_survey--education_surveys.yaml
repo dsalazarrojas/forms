@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Package Preference Survey
+    pages:
+    - id: 1
+      name: student_exam_goals
+      label: What are your exam goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_interests
+      label: What type of exam package are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: study_format
+      label: What study format do you prefer
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 4
+      name: package_preference
+      label: What exam package do you prefer
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: exam_duration
+      label: What is the desired exam duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exam_start_time
+      label: What is the desired start time of the exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: exam_end_time
+      label: What is the desired end time of the exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Do you have any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

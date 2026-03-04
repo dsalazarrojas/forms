@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Consciousness In Curriculum Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: curriculum_coverage
+      label: curriculum coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Option 1''}'
+      - '{''text'': ''Option 2''}'
+      - '{''text'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: improvement_ideas
+      label: improvement ideas
+      hint: What ideas do you have for improvement?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: curriculum_coverage_topics
+      label: curriculum coverage topics
+      hint: What are the environmental education topics you cover in your curriculum?
+      type: select_multiple
+      options:
+      - '{''text'': ''Climate Change''}'
+      - '{''text'': ''Ecosystem Services''}'
+      - '{''text'': ''Human health''}'
+      - '{''text'': ''Biodiversity''}'
+      required: true
+    - id: 5
+      name: staff_training
+      label: staff training
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Option 1''}'
+      - '{''text'': ''Option 2''}'
+      - '{''text'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: curriculum_coverage_implementation
+      label: curriculum coverage implementation
+      hint: How do you implement environmental education in your curriculum?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: curriculum_coverage_evaluation
+      label: curriculum coverage evaluation
+      hint: How do you evaluate environmental education in your curriculum?
+      type: select_one
+      options:
+      - '{''text'': ''Option 1''}'
+      - '{''text'': ''Option 2''}'
+      - '{''text'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_education
+      label: staff education
+      hint: What environmental education do your staff receive?
+      type: select_multiple
+      options:
+      - '{''text'': ''Option 1''}'
+      - '{''text'': ''Option 2''}'
+      - '{''text'': ''Option 3''}'
+      required: true
+    - id: 10
+      name: form_submission
+      label: form submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_completion
+      label: form completion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_completion_time
+      label: form completion time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: staff_feedback
+      label: staff feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_information
+      label: additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_information
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false

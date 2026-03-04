@@ -1,0 +1,322 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Entrance Exam Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Other
+      required: true
+    - id: 12
+      name: high_school_name
+      label: High School Name
+      hint: Current or recent school
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: high_school_address
+      label: High School Address
+      hint: School address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: graduation_date
+      label: Expected Graduation Date
+      hint: When graduating
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: exam_type
+      label: Exam Type
+      hint: Which exam taking
+      type: select_one
+      options:
+      - College Entrance Exam A
+      - College Entrance Exam B
+      - Placement Exam
+      - Proficiency Exam
+      - Other
+      required: true
+    - id: 16
+      name: exam_date
+      label: Preferred Exam Date
+      hint: When to take exam
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: exam_location
+      label: Preferred Exam Location
+      hint: Testing center
+      type: select_one
+      options:
+      - Main Campus
+      - North Campus
+      - Downtown Center
+      - Online Proctored
+      - Regional Testing Center
+      required: true
+    - id: 18
+      name: exam_time
+      label: Preferred Exam Time
+      hint: Time of day
+      type: select_one
+      options:
+      - Morning 8AM-10AM
+      - Late Morning 10AM-12PM
+      - Afternoon 1PM-3PM
+      - Late Afternoon 3PM-5PM
+      required: true
+    - id: 19
+      name: accommodations_needed
+      label: Testing Accommodations Needed
+      hint: Special accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: accommodations_type
+      label: Type of Accommodations
+      hint: What is needed
+      type: select_multiple
+      options:
+      - Extended Time
+      - Separate Room
+      - Reader
+      - Scribe
+      - Large Print
+      - Braille
+      - Sign Language Interpreter
+      - Breaks as Needed
+      - Other
+      required: false
+    - id: 21
+      name: accommodations_documentation
+      label: Accommodations Documentation
+      hint: Upload documentation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: gpa
+      label: Current GPA
+      hint: Unweighted GPA
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: class_rank
+      label: Class Rank
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sat_score
+      label: SAT Score
+      hint: If already taken
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: act_score
+      label: ACT Score
+      hint: If already taken
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: intended_major
+      label: Intended Major
+      hint: Field of interest
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: exam_fee
+      label: Exam Fee Payment
+      hint: Fee amount
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: fee_waiver
+      label: Fee Waiver Request
+      hint: Do you need waiver
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: payment_method
+      label: Payment Method
+      hint: How paying
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Fee Waiver
+      required: true
+    - id: 30
+      name: photo_upload
+      label: Upload Photo
+      hint: For exam ID
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: id_type
+      label: Type of ID You Will Bring
+      hint: Valid identification
+      type: select_one
+      options:
+      - Passport
+      - Driver License
+      - State ID
+      - School ID
+      - Other Government ID
+      required: true
+    - id: 32
+      name: id_number
+      label: ID Number
+      hint: ID identifier
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: calculator_use
+      label: Will You Use a Calculator
+      hint: If allowed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: prep_courses
+      label: Have You Taken Exam Prep Courses
+      hint: Preparation
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning To
+      required: false
+    - id: 35
+      name: previous_attempts
+      label: Number of Previous Exam Attempts
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: how_heard
+      label: How Did You Hear About This Exam
+      hint: Information source
+      type: select_one
+      options:
+      - High School Counselor
+      - Website
+      - Friend or Family
+      - Teacher
+      - Other
+      required: true
+    - id: 37
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to exam policies
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true

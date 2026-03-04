@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_employee_onboarding_form
+    pages:
+    - id: 1
+      name: employee_email
+      label: IT Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_status
+      label: it_employee_onboarding_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Started
+      - In Progress
+      required: true
+    - id: 3
+      name: completed_tasks
+      label: onboarding_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: it_employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_onboarding
+      label: it_employee_onboarding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_onboarding
+      label: it_employee_onboarding_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_of_completion
+      label: it_employee_completion_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: it_employee_comments
+      label: it_employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: it_employee_onboarding_tasks_completed
+      label: it_employee_onboarding_tasks_completed
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppe_hazard_assessment_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: select_one
+      options:
+      - PPE Area 1
+      - PPE Area 2
+      - PPE Area 3
+      - PPE Area 4
+      - PPE Area 5
+      required: true
+    - id: 6
+      name: ppe_type
+      label: PPE Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hard hat
+      - Safety glasses
+      - Safety harness
+      - Safety glasses with a face shield
+      - Respirator with filter
+      - Safety vest
+      - Steel-toed boots
+      - Safety harness with a fall arrest system
+      required: true
+    - id: 7
+      name: ppe_inspection_frequency
+      label: PPE Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ppe_inspection_last_date
+      label: PPE Inspection Last Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: ppe_inspection_next_date
+      label: PPE Inspection Next Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Pending Review
+      - Completed
+      - Revised
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ppe_hazard_level
+      label: PPE Hazard Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Critical
+      required: true
+    - id: 18
+      name: hazard_description
+      label: Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recommended_ppe
+      label: Recommended PPE
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: ppe_prohibited
+      label: PPE Prohibited
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 21
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_date
+      label: Supervisor Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_date
+      label: Employee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

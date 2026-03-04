@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: film_production_family_leave_of_absence_form
+    pages:
+    - id: 1
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_start_date
+      label: Leave Start Date
+      hint: Date of leave start
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_duration
+      label: Leave Duration
+      hint: Number of days
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Sick Leave
+      - Maternity Leave
+      - Paternity Leave
+      - Parental Leave
+      - Bereavement Leave
+      - Family and Medical Leave
+      required: false
+    - id: 6
+      name: leave_details
+      label: Leave Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      - Pending
+      required: false
+    - id: 8
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_manager_confirmation
+      label: Production Manager Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

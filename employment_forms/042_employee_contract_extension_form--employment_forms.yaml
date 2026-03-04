@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Contract Extension Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 6
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: employee_salary
+      label: Employee Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement_number
+      label: Agreement Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: extension_reason
+      label: Extension Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employer_notes
+      label: Employer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Rejected
+      - Cancelled
+      required: true
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contract_number_prefix
+      label: Contract Number Prefix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_grievance_settlement_agreement
+    pages:
+    - id: 1
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grievance_status
+      label: Grievance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: settlement_outcomes
+      label: Settlement Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mutual_agreement
+      label: Mutual Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: employer_agreement
+      label: Employer Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_agreement
+      label: Employee Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: complaintant_details
+      label: Complaintant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: settlement_details
+      label: Settlement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_terms
+      label: Other Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_representative
+      label: Employer Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_representative
+      label: Employee Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_parties
+      label: Other Parties
+      hint: null
+      type: text
+      options: []
+      required: false

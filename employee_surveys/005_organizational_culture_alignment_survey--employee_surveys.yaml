@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Culture Alignment Survey
+    pages:
+    - id: 1
+      name: employee_surname
+      label: Employee Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_given_name
+      label: Employee Given Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_family_name
+      label: Employee Family Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: false
+    - id: 5
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: employee_job_title
+      label: Employee Job Title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      - Leader
+      - Other
+      required: false
+    - id: 7
+      name: employee_manager_name
+      label: Employee Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Leader
+      - Other
+      required: false
+    - id: 9
+      name: employee_cultural_identity_score
+      label: Employee Cultural Identity Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_cultural_identity_score
+      label: Team Cultural Identity Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: departmentalization
+      label: Departmentalization
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: team_support
+      label: Team Support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: manager_leadership
+      label: Manager Leadership
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: independent_contractor_information_form
+    pages:
+    - id: 1
+      name: main
+      label: main_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contract_info
+      label: contract_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_number
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone|''}'
+      - '{''value'': ''email|''}'
+      required: false
+    - id: 4
+      name: tax_id
+      label: tax_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''net_30|''}'
+      - '{''value'': ''gross_30|''}'
+      - '{''value'': ''net_60|''}'
+      - '{''value'': ''gross_60|''}'
+      - '{''value'': ''net_90|''}'
+      - '{''value'': ''gross_90|''}'
+      required: false
+    - id: 6
+      name: contract_start
+      label: contract_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_end
+      label: contract_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_notes
+      label: contract_notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''hourly|''}'
+      - '{''value'': ''flat_fee|''}'
+      - '{''value'': ''project_fee|''}'
+      - '{''value'': ''milestone_fee|''}'
+      required: false
+    - id: 9
+      name: contract_terms
+      label: contract_terms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''yes|''}'
+      - '{''value'': ''no|''}'
+      required: false
+    - id: 10
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''weekly|''}'
+      - '{''value'': ''bi_weekly|''}'
+      - '{''value'': ''bi_monthly|''}'
+      - '{''value'': ''bi_quarterly|''}'
+      - '{''value'': ''bi_annually|''}'
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''check|''}'
+      - '{''value'': ''direct_deposit|''}'
+      - '{''value'': ''bank_transfer|''}'
+      required: false
+    - id: 12
+      name: tax_id_type
+      label: tax_id_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''social_security|''}'
+      - '{''value'': ''ein|''}'
+      - '{''value'': ''other|''}'
+      required: false
+    - id: 13
+      name: tax_id_number
+      label: tax_id_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contract_duration
+      label: contract_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms_frequency
+      label: payment_terms_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''weekly|''}'
+      - '{''value'': ''bi_weekly|''}'
+      - '{''value'': ''bi_monthly|''}'
+      - '{''value'': ''bi_quarterly|''}'
+      - '{''value'': ''bi_annually|''}'
+      required: false
+    - id: 18
+      name: payment_terms_method
+      label: payment_terms_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''check|''}'
+      - '{''value'': ''direct_deposit|''}'
+      - '{''value'': ''bank_transfer|''}'
+      required: false
+    - id: 19
+      name: payment_terms_amount
+      label: payment_terms_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_terms_note
+      label: payment_terms_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contract_notes
+      label: contract_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contractor_address
+      label: contractor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contractor_city
+      label: contractor_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contractor_state
+      label: contractor_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contractor_zip
+      label: contractor_zip
+      hint: null
+      type: number
+      options: []
+      required: false

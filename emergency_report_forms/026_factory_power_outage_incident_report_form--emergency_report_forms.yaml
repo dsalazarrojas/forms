@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Power Outage Incident Report Form
+    pages:
+    - id: 1
+      name: factory_power_outage_incident
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: power_outage_cause
+      label: What was the cause of the power outage?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: power_outage_duration
+      label: How long did the power outage last?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: power_outage_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: power_outage_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: power_outage_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: power_outage_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: affected_areas
+      label: Affected Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: power_outage_employees_affected
+      label: Number of Employees Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: power_outage_maintenance_status
+      label: Outage Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - On Site
+      - Off Site
+      - Both
+      required: false
+    - id: 11
+      name: power_outage_follow_up_status
+      label: Follow up Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Not Done
+      - Not Started
+      required: false
+    - id: 12
+      name: power_outage_follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: power_outage_follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: power_outage_follow_up_person
+      label: Follow up Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: power_outage_follow_up_note
+      label: Follow up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: power_outage_reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: power_outage_reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Operations
+      - Other
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: power_outage_reporting_team
+      label: Reporting Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: power_outage_reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: power_outage_reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: power_outage_last_update
+      label: Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: power_outage_last_update_by
+      label: Last Update By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: power_outage_last_update_note
+      label: Last Update Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: power_outage_follow_up_note
+      label: Follow up Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Staff Shift Scheduling Form
+    pages:
+    - id: 1
+      name: daycare_staff_shift_scheduling_form
+      label: staff_scheduling_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_scheduling_info
+      label: staff_scheduling_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_shifts
+      label: schedule_shifts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_shifts
+      label: select_shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: available_time
+      label: available_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: selected_date
+      label: selected_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shift_details
+      label: shift_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: select_shift_time
+      label: select_shift_time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: select_shift_day
+      label: select_shift_day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_shift_start_time
+      label: select_shift_start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

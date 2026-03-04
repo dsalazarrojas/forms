@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_preparedness_checklist_form
+    pages:
+    - id: 1
+      name: create_your_own_emergency_preparedness_checklist_form
+      label: create_your_own_emergency_preparedness_checklist_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ensure_readiness_for_unexpected_situations
+      label: ensure_readiness_for_unexpected_situations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: allow_for_effective_planning_and_data_collection
+      label: allow_for_effective_planning_and_data_collection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: ensure_readiness_for_unexpected_situations_how_do_you_plan
+      label: ensure_readiness_for_unexpected_situations_how_do_you_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_preparedness_checklist_form_description
+      label: emergency_preparedness_checklist_form_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assign_tool
+      label: assign_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_tool_id
+      label: assigned_tool_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: category_id
+      label: category_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

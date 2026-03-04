@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technological Readiness Assessment
+    pages:
+    - id: 1
+      name: device_access
+      label: Device Access
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile Phone
+      - Desktop Computer
+      - Laptop
+      - Tablet
+      - Other
+      required: true
+    - id: 2
+      name: internet_reliability
+      label: Internet Reliability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: digital_confidence
+      label: Digital Confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Basic''}'
+      - '{''text'': ''Intermediate''}'
+      - '{''text'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: device_age
+      label: Age of Devices
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: support_resources
+      label: Support Resources
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: true
+    - id: 7
+      name: student_support
+      label: Student Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: true
+    - id: 8
+      name: device_issues
+      label: Device Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''No Issues''}'
+      - '{''text'': ''Minor Issues''}'
+      - '{''text'': ''Major Issues''}'
+      required: true
+    - id: 9
+      name: online_learning
+      label: Online Learning Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: true
+    - id: 10
+      name: blended_learning
+      label: Blended Learning Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 11
+      name: other_device_issues
+      label: Other Device Issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: device_type
+      label: Type of Device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Mobile Phone''}'
+      - '{''text'': ''Desktop Computer''}'
+      - '{''text'': ''Laptop''}'
+      - '{''text'': ''Tablet''}'
+      required: false
+    - id: 13
+      name: device_condition
+      label: Condition of Device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''New''}'
+      - '{''text'': ''Used''}'
+      - '{''text'': ''Refurbished''}'
+      required: false
+    - id: 14
+      name: internet_speed
+      label: Internet Speed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Fast''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Slow''}'
+      required: false
+    - id: 15
+      name: online_support
+      label: Online Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 16
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Hardware Issues''}'
+      - '{''text'': ''Software Issues''}'
+      required: false
+    - id: 17
+      name: network_issues
+      label: Network Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Connection Issues''}'
+      - '{''text'': ''Slow Speed''}'
+      required: false
+    - id: 18
+      name: other_issues
+      label: Other Issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: teacher_experience
+      label: Teacher Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: true
+    - id: 20
+      name: student_experience
+      label: Student Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: true
+    - id: 21
+      name: teacher_training
+      label: Teacher Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: false
+    - id: 22
+      name: teacher_support_training
+      label: Teacher Support Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: false
+    - id: 23
+      name: student_support_training
+      label: Student Support Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: false
+    - id: 24
+      name: teacher_guidance
+      label: Teacher Guidance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: true
+    - id: 25
+      name: student_guidance
+      label: Student Guidance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: true

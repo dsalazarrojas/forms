@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Injury Declaration Form
+    pages:
+    - id: 1
+      name: injury_declaration_form
+      label: Employee Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employee Name'', ''value'': ''employee_name''}'
+      - '{''label'': ''Job Title'', ''value'': ''job_title''}'
+      - '{''label'': ''Contact Information'', ''value'': ''contact_information''}'
+      required: false
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: injury_description
+      label: Injury Description
+      hint: A detailed description of the incident and injury
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sprains and Strains'', ''value'': ''sprains_and_strains''}'
+      - '{''label'': ''Muscle Strains'', ''value'': ''muscle_strains''}'
+      - '{''label'': ''Bone Fractures'', ''value'': ''bone_fractures''}'
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_attention_needed
+      label: Medical Attention Needed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: corporate-initiative-engagement-poll
+    pages:
+    - id: 1
+      name: company_initiatives
+      label: What are the company initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - Initiative 1
+      - Initiative 2
+      - Initiative 3
+      required: true
+    - id: 2
+      name: awareness_level
+      label: Awareness level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 3
+      name: participation_interest
+      label: Participation interest
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: communications_channel
+      label: Communications channel
+      hint: Provide the name of the communication channel.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: communication_frequency
+      label: Communication frequency
+      hint: How often do you communicate with the team about the initiative?
+      type: text
+      options: []
+      required: true

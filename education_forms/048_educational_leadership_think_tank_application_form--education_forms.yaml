@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Educational Leadership Think Tank Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      - '{''label'': ''Principal/Dean'', ''value'': ''principal-dean''}'
+      - '{''label'': ''Superintendent/Dean'', ''value'': ''superintendent-dean''}'
+      required: true
+    - id: 4
+      name: school
+      label: school-name
+      hint: School Name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: motivation_statement
+      label: motivation_statement
+      hint: Motivation Statement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cv
+      label: cv
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: motivation_statement_justification
+      label: motivation_statement_justification
+      hint: Motivation Justification
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cv_justification
+      label: cv_justification
+      hint: CV Justification
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: application_statement
+      label: application_statement
+      hint: Application Statement
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: role_other
+      label: other-role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      - '{''label'': ''Principal/Dean'', ''value'': ''principal-dean''}'
+      - '{''label'': ''Superintendent/Dean'', ''value'': ''superintendent-dean''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: school_other
+      label: other-school-name
+      hint: null
+      type: text
+      options: []
+      required: false

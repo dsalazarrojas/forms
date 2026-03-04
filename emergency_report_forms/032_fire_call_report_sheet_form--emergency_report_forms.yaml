@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Call Report Sheet Form
+    pages:
+    - id: 1
+      name: fire_call_date
+      label: Fire Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: fire_station
+      label: Fire Station
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fire Station 1''}'
+      - '{''value'': ''Fire Station 2''}'
+      - '{''value'': ''Fire Station 3''}'
+      required: false
+    - id: 3
+      name: engine_company
+      label: Engine Company
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Engine 1''}'
+      - '{''value'': ''Engine 2''}'
+      - '{''value'': ''Engine 3''}'
+      required: false
+    - id: 4
+      name: fire_department
+      label: Fire Department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fire Department 1''}'
+      - '{''value'': ''Fire Department 2''}'
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fire''}'
+      - '{''value'': ''Rescue''}'
+      - '{''value'': ''Medical''}'
+      required: false
+    - id: 6
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 7
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Location 1''}'
+      - '{''value'': ''Location 2''}'
+      - '{''value'': ''Location 3''}'
+      required: false
+    - id: 9
+      name: reporting_officer_name
+      label: Reporting Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_officer_number
+      label: Reporting Officer Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reporting_unit
+      label: Reporting Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Unit 1''}'
+      - '{''value'': ''Unit 2''}'
+      - '{''value'': ''Unit 3''}'
+      required: false
+    - id: 15
+      name: reporting_officer_notes
+      label: Reporting Officer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fire_callsheet_number
+      label: Fire Call Sheet Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''Busy''}'
+      required: false
+    - id: 19
+      name: officer_in_charge
+      label: Officer in Charge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Officer 1''}'
+      - '{''value'': ''Officer 2''}'
+      - '{''value'': ''Officer 3''}'
+      required: false
+    - id: 20
+      name: unit_location
+      label: Unit Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Location 1''}'
+      - '{''value'': ''Location 2''}'
+      - '{''value'': ''Location 3''}'
+      required: false
+    - id: 21
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 24
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Resolved''}'
+      required: false
+    - id: 25
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false

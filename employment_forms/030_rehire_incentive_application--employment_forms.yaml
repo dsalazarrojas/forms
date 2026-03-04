@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehire Incentive Application
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_code
+      label: Job Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '10000000'
+      - '10000001'
+      - '10000002'
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_hire
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rehire_date
+      label: Rehire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_rehire
+      label: Reason for Rehire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - HR Department
+      - Team Lead
+      required: true
+    - id: 14
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Supervisor
+      required: true
+    - id: 15
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - Director
+      required: true
+    - id: 16
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: rehire_incentive_amount
+      label: Rehire Incentive Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: rehire_incentive_currency
+      label: Rehire Incentive Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 19
+      name: rehire_incentive_notes
+      label: Rehire Incentive Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_1
+      label: Submitted By 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_2
+      label: Submitted By 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to_1
+      label: Submitted To 1
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Other
+      required: false

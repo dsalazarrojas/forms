@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Outreach Program Success Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: What is this survey about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Workshop
+      - Seminar
+      - Webinar
+      - Other
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Number of attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_satisfaction
+      label: How satisfied are you with the event?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 7
+      name: reasons
+      label: reasons
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Interesting content
+      - Good speaker
+      - Well-organized
+      - Good networking opportunities
+      - Other
+      required: false
+    - id: 8
+      name: suggestions
+      label: Do you have any suggestions for future events?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Do you have any other feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: Rate your experience
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: will_recommend
+      label: Would you recommend this event to a colleague?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 15
+      name: will_attend_next_event
+      label: Will you attend the next event?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 16
+      name: follow_up_info
+      label: Would you like to be contacted for follow-up information?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 17
+      name: follow_up_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Other
+      required: false
+    - id: 18
+      name: other_follow_up_info
+      label: Other follow-up information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_questions
+      label: Additional questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_email
+      label: Follow-up email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_phone
+      label: Follow-up phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_other
+      label: Follow-up other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 25
+      name: contact_preferred
+      label: Preferred method of contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Other
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editor Application Form Template
+    pages:
+    - id: 1
+      name: channel_name
+      label: Channel name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: youtube_channel_id
+      label: youtube_channel_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Gaming''}'
+      - '{''value'': ''Music''}'
+      - '{''value'': ''Vlogging''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: equipment_used
+      label: equipment_used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Adobe Premiere''}'
+      - '{''value'': ''Avid''}'
+      - '{''value'': ''Davinci''}'
+      required: false
+    - id: 7
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bachelor''}'
+      - '{''value'': ''Masters''}'
+      - '{''value'': ''PhD''}'
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: availability_2
+      label: availability_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: youtube_url
+      label: youtube_url
+      hint: null
+      type: text
+      options: []
+      required: false

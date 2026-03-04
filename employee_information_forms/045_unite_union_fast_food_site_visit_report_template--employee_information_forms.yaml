@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unite Union Fast Food Site Visit Report Template
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: site_address
+      label: site address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: union_officials_attending
+      label: union officials attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: site_manager_name
+      label: site manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: site_manager_title
+      label: site manager title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_manager_contact
+      label: site manager contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: union_officials_notes
+      label: union officials notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: union_officials_signature
+      label: union officials signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: site_visit_date
+      label: site visit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: site_visit_time
+      label: site visit time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: site_visit_comment
+      label: site visit comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Copywriter Job Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: portfolio_info
+      label: Portfolio Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: personal_statement
+      label: Personal Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: portfolio_files
+      label: Portfolio Files
+      hint: null
+      type: select_multiple
+      options:
+      - Example Video
+      - Other
+      required: true
+    - id: 8
+      name: portfolio_review
+      label: Portfolio Review
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: media_assets
+      label: Media Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: job_application_status
+      label: Job Application Status
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

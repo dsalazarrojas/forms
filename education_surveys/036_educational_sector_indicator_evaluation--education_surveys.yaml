@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Sector Indicator Evaluation
+    pages:
+    - id: 1
+      name: education_survey_sector_id
+      label: education survey sector id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sector
+      label: Sector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sector 1''}'
+      - '{''id'': 2, ''name'': ''Sector 2''}'
+      - '{''id'': 3, ''name'': ''Sector 3''}'
+      required: false
+    - id: 3
+      name: indicator
+      label: Indicator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Method 1''}'
+      - '{''id'': 2, ''name'': ''Method 2''}'
+      - '{''id'': 3, ''name'': ''Method 3''}'
+      required: false
+    - id: 6
+      name: evaluation_method_other
+      label: Evaluation Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: false
+    - id: 10
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''User 2''}'
+      - '{''id'': 3, ''name'': ''User 3''}'
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''User 2''}'
+      - '{''id'': 3, ''name'': ''User 3''}'
+      required: false
+    - id: 14
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: false
+    - id: 15
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Status 1''}'
+      - '{''id'': 2, ''name'': ''Status 2''}'
+      - '{''id'': 3, ''name'': ''Status 3''}'
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Information Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal information --
+      hint: Provide basic applicant contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied
+      label: Position applied for
+      hint: Job title being applied to
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resume_upload
+      label: Resume upload filename
+      hint: Indicate uploaded file name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: portfolio_link
+      label: Portfolio or professional website
+      hint: Provide URL if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability to start
+      hint: Earliest start date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: References
+      hint: List two professional references with contact details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Any other information applicant wishes to provide
+      type: text
+      options: []
+      required: false

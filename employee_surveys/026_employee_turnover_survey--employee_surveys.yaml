@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Turnover Survey
+    pages:
+    - id: 1
+      name: employee_turnover_survey_form
+      label: Section 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_2
+      label: Reason for Leaving
+      hint: Describe the reason you are leaving the company, including the date.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_3
+      label: What was the main reason you are leaving this company?
+      hint: null
+      type: select_one
+      options:
+      - I want to pursue another opportunity within the company
+      - I want to start my own business
+      - I want to be closer to family/friends
+      - I want to relocate to a new city
+      - I have health reasons
+      - I have a family emergency
+      - My job was eliminated
+      - I have another job offer
+      - I am not happy with management
+      - I am not happy with compensation
+      - I am not happy with company culture
+      - I have a personal reason
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: section_4
+      label: Section 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: section_5
+      label: Reason for Leaving (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_6
+      label: Section 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: section_7
+      label: How many years did you work at the organization?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: false
+    - id: 8
+      name: section_8
+      label: How many years did you work at the organization?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_9
+      label: Section 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: section_10
+      label: Section 10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: section_11
+      label: Section 11
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: section_12
+      label: Section 12
+      hint: null
+      type: text
+      options: []
+      required: false

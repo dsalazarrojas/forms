@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Mobility Outgoing Application
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 6
+      name: host_institution
+      label: host_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mobility_type
+      label: mobility_type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 8
+      name: application_status
+      label: application_status
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false

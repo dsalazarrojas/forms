@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Clearance Form
+    pages:
+    - id: 1
+      name: employee_medical_info
+      label: Employee Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_health_issues
+      label: Health Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: clearance_type
+      label: Clearance Type
+      hint: null
+      type: select_one
+      options:
+      - Cancer
+      - Allergy
+      - Injury
+      required: false
+    - id: 4
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_clearance_date
+      label: Medical Clearance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_clearance_by
+      label: Medical Clearance By
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: false
+    - id: 7
+      name: medical_clearance_details
+      label: Medical Clearance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_title
+      label: Healthcare Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false

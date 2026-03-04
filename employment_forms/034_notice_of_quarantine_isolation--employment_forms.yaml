@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notice Of Quarantine/Isolation
+    pages:
+    - id: 1
+      name: notice_of_quarantine_isolation
+      label: notice of quarantine isolation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: notice_of_exposure
+      label: notice of exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_exposure
+      label: date of exposure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_exposure
+      label: time of exposure
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location_of_exposure
+      label: location of exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notice_type
+      label: notice type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: notice_of_quarantine_isolation_type
+      label: notice of quarantine or isolation type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: reason_for_positive_result
+      label: reason for positive result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_positive_result
+      label: date of positive result
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_positive_result
+      label: time of positive result
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: location_of_positive_result
+      label: location of positive result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true

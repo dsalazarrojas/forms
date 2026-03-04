@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Grievance Form
+    pages:
+    - id: 1
+      name: employee_grievance_form_page_1
+      label: employee_grievance_form_page_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_grievance_form_page_2
+      label: employee_grievance_form_page_2_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: reporting_officer
+      label: reporting_officer_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Smith''}'
+      required: false
+    - id: 4
+      name: grievance_description
+      label: grievance_description_label
+      hint: A description of the issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grievance_details
+      label: grievance_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_evidence
+      label: supporting_evidence_label
+      hint: Upload any supporting evidence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: employee_name_label
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_title
+      label: employee_title_label
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_department
+      label: employee_department_label
+      hint: Enter the department you belong to
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: employee_email_label
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: employee_phone_label
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false

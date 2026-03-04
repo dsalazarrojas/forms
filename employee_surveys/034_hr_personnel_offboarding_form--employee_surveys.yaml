@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Personnel Offboarding Form
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: exit_interview
+      label: Exit Interview
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_property_returns
+      label: Company Property Returns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: company_property_return_details
+      label: Company Property Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_equipment_returns
+      label: Employee Equipment Returns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: employee_equipment_return_details
+      label: Employee Equipment Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_vehicle_returns
+      label: Employee Vehicle Returns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: employee_vehicle_return_details
+      label: Employee Vehicle Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_assets_returns
+      label: Company Assets Returns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: company_assets_return_details
+      label: Company Assets Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_assets_remarks
+      label: Company Assets Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_returns
+      label: Other Returns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: other_returns_details
+      label: Other Returns Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: final_checklist
+      label: Final Checklist
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: date_offboarded
+      label: Date Offboarded
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

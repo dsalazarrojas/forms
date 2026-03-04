@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Opinion Survey On School Phone Policies
+    pages:
+    - id: 1
+      name: school_phone_policies
+      label: School Phone Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Student''}'
+      - '{''id'': 2, ''label'': ''Teacher''}'
+      - '{''id'': 3, ''label'': ''Staff''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: opinion
+      label: What is your opinion?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement
+      label: Do you agree with the current school phone policy?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree''}'
+      - '{''id'': 2, ''label'': ''Somewhat Agree''}'
+      - '{''id'': 3, ''label'': ''Neither Agree nor Disagree''}'
+      - '{''id'': 4, ''label'': ''Somewhat Disagree''}'
+      - '{''id'': 5, ''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 6
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false

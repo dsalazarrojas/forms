@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Biology And Genetics Survey
+    pages:
+    - id: 1
+      name: course_info
+      label: -- Course Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: academic_level
+      label: Academic level
+      hint: Undergraduate or graduate
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Postgraduate
+      - Professional
+      required: true
+    - id: 4
+      name: topic_comprehension
+      label: Comprehension of genetics topics
+      hint: Rate understanding after course
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: lab_experience_quality
+      label: Lab experience quality
+      hint: Rate lab exercises and supervision
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 6
+      name: recommended_resources
+      label: Recommended resources
+      hint: Suggest readings or tools
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: future_topics_interest
+      label: Future topics of interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CRISPR and gene editing
+      - Genomics data analysis
+      - Molecular techniques
+      - Population genetics
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall satisfaction rating
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Feedback for instructors
+      type: text
+      options: []
+      required: false

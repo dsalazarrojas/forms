@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Learning Facilitation Experience Survey
+    pages:
+    - id: 1
+      name: session_id
+      label: session_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: facilitation_experience
+      label: facilitation_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges_encountered
+      label: challenges_encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: effective_peer_learning_model
+      label: effective_peer_learning_model
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Effective''}'
+      - '{''label'': ''Not Effective''}'
+      required: false
+    - id: 6
+      name: rating_of_effectiveness
+      label: rating_of_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facilitation_time
+      label: facilitation_time
+      hint: null
+      type: time
+      options: []
+      required: false

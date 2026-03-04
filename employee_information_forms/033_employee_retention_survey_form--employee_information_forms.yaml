@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_retention_survey_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department_id
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: manager_id
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question1
+      label: What is your job satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: question2
+      label: How do you feel about your work environment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question3
+      label: How satisfied are you with your pay?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: question4
+      label: Overall satisfaction with company policies?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: question5
+      label: How likely is it that you will stay with this company?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: question6
+      label: What do you like/dislike about your job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question7
+      label: What is your job role in the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question8
+      label: How can we improve this form?
+      hint: null
+      type: text
+      options: []
+      required: false

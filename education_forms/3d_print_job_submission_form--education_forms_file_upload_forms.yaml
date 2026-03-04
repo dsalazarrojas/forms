@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Print Job Submission Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid institutional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: e.g., Mechanical Engineering
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: Optional if you are not a student
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: year_of_study
+      label: Year of study
+      hint: Select your current academic year
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: false
+    - id: 7
+      name: section_header_job
+      label: '--- Job Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job title
+      hint: Short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_description
+      label: Job description
+      hint: Briefly describe the purpose of the print
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date you are submitting the job
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: estimated_print_time
+      label: Estimated print time (hours)
+      hint: Enter in hours, e.g., 3.5
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: layer_height
+      label: Layer height (mm)
+      hint: 'Typical values: 0.1–0.3 mm'
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: support_needed
+      label: Support needed
+      hint: Select the level of support required
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Full
+      required: true
+    - id: 14
+      name: print_priority
+      label: Print priority
+      hint: Choose the urgency of the job
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 15
+      name: section_header_material
+      label: '--- Material Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: material_type
+      label: Material type
+      hint: Select the primary material
+      type: select_one
+      options:
+      - PLA
+      - ABS
+      - PETG
+      - Nylon
+      - TPU
+      - Resin
+      required: true
+    - id: 17
+      name: post_processing
+      label: Post-processing steps
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sanding
+      - Painting
+      - Polishing
+      - None
+      required: false
+    - id: 18
+      name: section_header_shipping
+      label: '--- Shipping & Billing ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: shipping_address
+      label: Shipping address
+      hint: Full address where the print should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_method
+      label: Shipping method
+      hint: Choose how the print will be delivered
+      type: select_one
+      options:
+      - Campus Pickup
+      - Campus Delivery
+      - External Delivery
+      required: true
+    - id: 21
+      name: section_header_additional
+      label: '--- Additional Notes ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: Any extra information you want to provide
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirm_terms
+      label: I confirm that the file is not copyrighted and follows guidelines
+      hint: Check to confirm you have read the guidelines
+      type: select_one
+      options:
+      - I confirm
+      required: true

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: series_analysis_evaluation_quiz
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: characters
+      label: Characters
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 3
+      name: themes
+      label: Themes
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 4
+      name: plot
+      label: plot
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reflection
+      label: Reflection
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 6
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false

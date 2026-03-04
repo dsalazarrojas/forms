@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Fairness Survey
+    pages:
+    - id: 1
+      name: recognition_fairness_intro
+      label: Academic Recognition Fairness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Institution
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - Faculty member
+      - Graduate student
+      - Undergraduate student
+      - Administrative staff
+      - Postdoctoral researcher
+      - Visiting scholar
+      - Other
+      required: true
+    - id: 3
+      name: years_at_institution
+      label: Years at This Institution
+      hint: How long have you been affiliated with this institution?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department_college
+      label: Department or College
+      hint: Your primary department or college affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recognition_fairness_perception
+      label: Perception of Recognition Fairness
+      hint: How fairly do you believe recognition is distributed at your institution?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: recognition_criteria_transparency
+      label: Transparency of Recognition Criteria
+      hint: How transparent are the criteria for receiving recognition? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recognition_process_equity
+      label: Equity in Recognition Process
+      hint: How equitable do you perceive the recognition process to be? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: demographic_bias_perception
+      label: Perception of Demographic Bias
+      hint: Do you perceive bias based on demographics in recognition decisions? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gender_representation_in_recognition
+      label: Gender Representation in Recognition
+      hint: How well do you think gender diversity is represented in recognition?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: race_ethnicity_representation_in_recognition
+      label: Race/Ethnicity Representation in Recognition
+      hint: How well do you think racial/ethnic diversity is represented in recognition?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: career_stage_representation_in_recognition
+      label: Career Stage Representation in Recognition
+      hint: How well do you think early-career scholars are represented in recognition?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: recognition_opportunities_awareness
+      label: Awareness of Recognition Opportunities
+      hint: How well do you think people know about recognition opportunities? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: recognition_application_process
+      label: Fairness of Application Process
+      hint: How fair do you perceive the application process for recognition? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: recognition_decision_making_process
+      label: Fairness of Decision-Making Process
+      hint: How fair do you perceive the decision-making process for recognition?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: recognition_outcomes_satisfaction
+      label: Satisfaction with Recognition Outcomes
+      hint: How satisfied are you with the outcomes of recognition processes? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: What would improve fairness in academic recognition at your institution?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about recognition fairness?
+      type: text
+      options: []
+      required: false

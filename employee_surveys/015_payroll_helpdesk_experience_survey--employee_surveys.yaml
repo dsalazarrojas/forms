@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Helpdesk Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is the current status of the request?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resolution_time
+      label: How long did it take to resolve the request?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: professionalism
+      label: What was the professionalism of the person handling the request?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfactory''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: issue_resolution
+      label: How was the issue resolved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Resolved''}'
+      - '{''label'': ''Partially Resolved''}'
+      - '{''label'': ''Completely Resolved''}'
+      required: false
+    - id: 5
+      name: response_time
+      label: What was the response time?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 30 minutes''}'
+      - '{''label'': ''30 minutes to 1 hour''}'
+      - '{''label'': ''1 hour to 4 hours''}'
+      - '{''label'': ''4 hours or more''}'
+      required: false
+    - id: 6
+      name: professionalism_rating
+      label: Professionalism Rating
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

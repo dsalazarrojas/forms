@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Lesson Feedback Form
+    pages:
+    - id: 1
+      name: music_lesson_feedback_form_page1
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: Was the lesson engaging?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Unsure''}'
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: Was the instructor knowledgeable about the subject?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Unsure''}'
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_question_3
+      label: Did you feel supported?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Unsure''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: music_instrument
+      label: What instrument do you play?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Piano''}'
+      - '{''id'': 2, ''text'': ''Guitar''}'
+      - '{''id'': 3, ''text'': ''Violin''}'
+      - '{''id'': 4, ''text'': ''Drums''}'
+      - '{''id'': 5, ''text'': ''Other''}'
+      required: false
+    - id: 11
+      name: instructor_name
+      label: Instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instructor_email
+      label: Instructor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: instructor_phone
+      label: Instructor phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: instructor_instrument
+      label: Instructor instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instructor_experience
+      label: Instructor experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: student_instrument
+      label: Student instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_level
+      label: Student level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_experience
+      label: Student experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: lesson_type
+      label: Lesson type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Private''}'
+      - '{''id'': 2, ''text'': ''Group''}'
+      - '{''id'': 3, ''text'': ''Online''}'
+      required: false
+    - id: 20
+      name: lesson_date
+      label: Lesson date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: lesson_time
+      label: Lesson time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: lesson_duration
+      label: Lesson duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lesson_notes
+      label: Lesson notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: next_lesson
+      label: Next lesson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_at
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

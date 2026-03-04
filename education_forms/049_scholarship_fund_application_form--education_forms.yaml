@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Fund Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scholarship_type
+      label: scholarship_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full-Ride''}'
+      - '{''value'': ''Partial-Scholarship''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: application_status
+      label: application_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: updated_on
+      label: updated_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_user
+      label: submitted_by_user
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Jim''}'
+      required: false
+    - id: 14
+      name: submitted_to_user
+      label: submitted_to_user
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jim''}'
+      required: false
+    - id: 15
+      name: submitted_by_department
+      label: submitted_by_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Education''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Marketing''}'
+      required: false
+    - id: 16
+      name: submitted_to_department
+      label: submitted_to_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Education''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Marketing''}'
+      required: false
+    - id: 17
+      name: submitted_to_group
+      label: submitted_to_group
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Department 1''}'
+      - '{''value'': ''Department 2''}'
+      - '{''value'': ''Department 3''}'
+      required: false

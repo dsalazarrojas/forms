@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outside Employment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: reporting_manager_phone
+      label: Reporting Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reporting_manager_job_title
+      label: Reporting Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reporting_location
+      label: Reporting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_manager_location
+      label: Reporting Manager Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_manager_department
+      label: Reporting Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: outside_employment_start_date
+      label: Outside Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: outside_employment_end_date
+      label: Outside Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: outside_employment_end_date_reason
+      label: Outside Employment End Reason
+      hint: null
+      type: select_one
+      options:
+      - No change
+      - Change of Job
+      - Change of Residence
+      - Retirement
+      - Recreation
+      - Education
+      - Family and family
+      - Other
+      required: false
+    - id: 15
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Sales
+      - Marketing
+      - Finance
+      - Production
+      - Other
+      required: false
+    - id: 16
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: text
+      options: []
+      required: false
