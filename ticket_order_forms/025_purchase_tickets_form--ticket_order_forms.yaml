@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Tickets Form
+    pages:
+    - id: 1
+      name: ticket_form
+      label: Ticket Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_count
+      label: ticket_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gift_registry
+      label: gift_registry
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 10, ''label'': 5}'
+      - '{''value'': 25, ''label'': 10}'
+      required: false
+    - id: 4
+      name: purchase_tickets
+      label: purchase_tickets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: available_tickets
+      label: available_tickets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: gift_registry_settings
+      label: gift_registry_settings
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 10, ''label'': 5}'
+      - '{''value'': 25, ''label'': 10}'
+      - '{''value'': 0, ''label'': ''Unrestricted''}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''submit'', ''label'': ''Submit''}'
+      - '{''value'': ''cancel'', ''label'': ''Cancel''}'
+      required: false
+    - id: 8
+      name: errors
+      label: errors
+      hint: null
+      type: note
+      options: []
+      required: false

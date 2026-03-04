@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Tracking Summary Report Form
+    pages:
+    - id: 1
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client
+      label: Client
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project
+      label: Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: task
+      label: Task
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: worked_hours
+      label: Worked Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: break_duration
+      label: Break Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

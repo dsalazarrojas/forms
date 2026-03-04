@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Care Transport Debrief
+    pages:
+    - id: 1
+      name: transport_time
+      label: transport_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: transport_date
+      label: transport_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: critical_care_team
+      label: critical_care_team
+      hint: null
+      type: select_one
+      options:
+      - Critical Care Team 1
+      - Critical Care Team 2
+      - Critical Care Team 3
+      required: false
+    - id: 4
+      name: team_member
+      label: team_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_condition
+      label: patient_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: critical_care_procedure
+      label: critical_care_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

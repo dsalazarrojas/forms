@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aerial Rescue Skills Assessment
+    pages:
+    - id: 1
+      name: candidate_information_section
+      label: Candidate Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: Full Name
+      hint: Enter the candidate's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_id
+      label: Candidate ID
+      hint: Unique identifier for the candidate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_department_unit
+      label: Department or Unit
+      hint: Which department or unit does the candidate belong to?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_certifications
+      label: Current Certifications
+      hint: List any current certifications relevant to aerial rescue
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment_information_section
+      label: Assessment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: Date when the assessment is being conducted
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: assessment_location
+      label: Assessment Location
+      hint: Where is the assessment taking place?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assessor_credentials
+      label: Assessor Credentials
+      hint: Qualifications or credentials of the assessor
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: equipment_preparation_section
+      label: Equipment Preparation and Safety
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: equipment_inspection_performed
+      label: Equipment Inspection Performed
+      hint: Did the candidate properly inspect all equipment before use?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 13
+      name: equipment_selection_appropriateness
+      label: Equipment Selection Appropriateness
+      hint: Did the candidate select appropriate equipment for the scenario?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 14
+      name: safety_protocol_adherence
+      label: Safety Protocol Adherence
+      hint: How well did the candidate follow safety protocols?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 15
+      name: technical_skills_section
+      label: Technical Skills Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: knot_tying_proficiency
+      label: Knot Tying Proficiency
+      hint: How proficient is the candidate in essential rescue knots?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 17
+      name: rigging_system_setup
+      label: Rigging System Setup
+      hint: How well did the candidate set up the rigging system?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 18
+      name: communication_with_team
+      label: Communication with Team Members
+      hint: How effectively did the candidate communicate with team members?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 19
+      name: problem_solving_under_pressure
+      label: Problem Solving Under Pressure
+      hint: How well did the candidate solve problems during the exercise?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 20
+      name: scenario_based_assessment_section
+      label: Scenario-Based Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: scenario_complexity_level
+      label: Scenario Complexity Level
+      hint: What was the complexity level of the assessment scenario?
+      type: select_one
+      options:
+        - Basic
+        - Intermediate
+        - Advanced
+        - Expert
+      required: true
+    - id: 22
+      name: victim_extraction_technique
+      label: Victim Extraction Technique
+      hint: How effectively did the candidate perform the victim extraction?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 23
+      name: emergency_response_time
+      label: Emergency Response Time
+      hint: How quickly did the candidate respond to emergency situations?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 24
+      name: decision_making_accuracy
+      label: Decision Making Accuracy
+      hint: How accurate were the candidate's decisions during the scenario?
+      type: select_one
+      options:
+        - Excellent
+        - Proficient
+        - Needs Improvement
+        - Unsatisfactory
+      required: true
+    - id: 25
+      name: overall_performance_evaluation
+      label: Overall Performance Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: overall_competency_rating
+      label: Overall Competency Rating
+      hint: Overall rating of the candidate's competency in aerial rescue skills
+      type: select_one
+      options:
+        - Exceeds Standards
+        - Meets Standards
+        - Partially Meets Standards
+        - Does Not Meet Standards
+      required: true
+    - id: 27
+      name: recommendations_for_improvement
+      label: Recommendations for Improvement
+      hint: Specific areas where the candidate needs improvement
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: certification_decision
+      label: Certification Decision
+      hint: Based on the assessment, should the candidate receive certification?
+      type: select_one
+      options:
+        - Certified
+        - Conditionally Certified
+        - Requires Retesting
+        - Not Certified
+      required: true
+    - id: 29
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Electronic signature of the assessor
+      type: text
+      options: []
+      required: true

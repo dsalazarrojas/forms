@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Preferences Questionnaire
+    pages:
+    - id: 1
+      name: travel_preferences_questionnaire_intro
+      label: travel-preferences-questionnaire-intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_preferences_questionnaire_category
+      label: travel-preferences-questionnaire-category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_preferences_questionnaire_duration
+      label: travel-preferences-questionnaire-duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_preferences_questionnaire_priority
+      label: travel-preferences-questionnaire-priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_preferences_questionnaire_priority_1
+      label: travel-preferences-questionnaire-priority-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_preferences_questionnaire_priority_2
+      label: travel-preferences-questionnaire-priority-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_preferences_questionnaire_priority_3
+      label: travel-preferences-questionnaire-priority-3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_preferences_questionnaire_priority_4
+      label: travel-preferences-questionnaire-priority-4
+      hint: null
+      type: text
+      options: []
+      required: false

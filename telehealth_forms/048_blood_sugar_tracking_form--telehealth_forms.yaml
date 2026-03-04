@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Sugar Tracking Form
+    pages:
+    - id: 1
+      name: tracking_header
+      label: Blood Sugar Tracking Form
+      hint: Log your blood glucose readings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: diabetes_type
+      label: Diabetes Type
+      hint: If diagnosed
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Gestational
+      - Prediabetes
+      - Not Diagnosed
+      required: true
+    - id: 5
+      name: tracking_date
+      label: Tracking Date
+      hint: Date of reading
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reading_time
+      label: Reading Time
+      hint: When was reading taken
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: glucose_level
+      label: Glucose Level
+      hint: In mg/dL
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reading_type
+      label: Reading Type
+      hint: When was this taken
+      type: select_one
+      options:
+      - Fasting
+      - Before Breakfast
+      - After Breakfast
+      - Before Lunch
+      - After Lunch
+      - Before Dinner
+      - After Dinner
+      - Bedtime
+      - Middle of Night
+      required: true
+    - id: 9
+      name: meal_carbs
+      label: Meal Carbohydrates
+      hint: Grams of carbs if known
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: meal_description
+      label: Meal Description
+      hint: What did you eat
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insulin_dose
+      label: Insulin Dose
+      hint: Units taken
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: insulin_type
+      label: Insulin Type
+      hint: Type of insulin
+      type: select_one
+      options:
+      - Rapid Acting
+      - Short Acting
+      - Intermediate
+      - Long Acting
+      - Mixed
+      - Not Applicable
+      required: false
+    - id: 13
+      name: medication_taken
+      label: Oral Medication Taken
+      hint: Diabetes medications
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 14
+      name: medication_name
+      label: Medication Name
+      hint: List medications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exercise_today
+      label: Exercise Today
+      hint: Did you exercise
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: exercise_type
+      label: Exercise Type
+      hint: What type of activity
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: symptoms
+      label: Symptoms
+      hint: Any symptoms experienced
+      type: select_multiple
+      options:
+      - None
+      - Shakiness
+      - Sweating
+      - Hunger
+      - Dizziness
+      - Confusion
+      - Fatigue
+      - Blurred Vision
+      - Headache
+      required: false
+    - id: 18
+      name: stress_level
+      label: Stress Level
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: illness
+      label: Feeling Ill
+      hint: Are you sick
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: target_range
+      label: Target Range
+      hint: Your personal target
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Who monitors your care
+      type: text
+      options: []
+      required: false

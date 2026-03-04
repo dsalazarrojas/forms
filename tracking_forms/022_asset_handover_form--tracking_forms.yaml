@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Handover Form
+    pages:
+    - id: 1
+      name: handover_date
+      label: Handover Date
+      hint: Date of transfer
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: handover_time
+      label: Handover Time
+      hint: Time of transfer
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: from_employee_name
+      label: From Employee Name
+      hint: Current holder
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: from_employee_id
+      label: From Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: from_department
+      label: From Department
+      hint: Current department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: to_employee_name
+      label: To Employee Name
+      hint: Receiving employee
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: to_employee_id
+      label: To Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: to_department
+      label: To Department
+      hint: Receiving department
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_type
+      label: Asset Type
+      hint: Category of asset
+      type: select_one
+      options:
+      - Laptop Computer
+      - Desktop Computer
+      - Mobile Phone
+      - Tablet
+      - Vehicle
+      - Office Equipment
+      - Tools
+      - Access Card
+      - Keys
+      - Other
+      required: true
+    - id: 10
+      name: asset_description
+      label: Asset Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: asset_id
+      label: Asset ID
+      hint: Company asset tag
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: serial_number
+      label: Serial Number
+      hint: Manufacturer serial
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: brand_model
+      label: Brand and Model
+      hint: Make and model
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: asset_condition
+      label: Asset Condition
+      hint: Current state
+      type: select_one
+      options:
+      - Excellent - Like New
+      - Good - Minor Wear
+      - Fair - Moderate Wear
+      - Poor - Significant Wear
+      - Damaged
+      required: true
+    - id: 15
+      name: accessories_included
+      label: Accessories Included
+      hint: What comes with it
+      type: select_multiple
+      options:
+      - Charger
+      - Battery
+      - Case or Bag
+      - Cables
+      - Manuals
+      - Original Box
+      - None
+      required: true
+    - id: 16
+      name: accessories_notes
+      label: Accessories Notes
+      hint: Describe accessories
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: existing_damage
+      label: Existing Damage or Issues
+      hint: Note any problems
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: asset_value
+      label: Asset Value
+      hint: Current value
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: handover_reason
+      label: Reason for Handover
+      hint: Why transferring
+      type: select_one
+      options:
+      - New Employee Onboarding
+      - Role Change
+      - Employee Departure
+      - Equipment Upgrade
+      - Temporary Assignment
+      - Replacement
+      - Other
+      required: true
+    - id: 20
+      name: handover_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: it_approval
+      label: IT Department Approval
+      hint: If applicable
+      type: select_one
+      options:
+      - Approved
+      - Not Required
+      - Pending
+      required: true
+    - id: 22
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Manager approval
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 23
+      name: from_signature
+      label: From Employee Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: to_signature
+      label: To Employee Signature
+      hint: Type name to acknowledge receipt
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

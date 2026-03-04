@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Document Authorization Form
+    pages:
+    - id: 1
+      name: parent_information
+      label: Parent Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parent_permission_to_travel
+      label: Parent Permission to Travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: travel_document_type
+      label: Travel Document Type
+      hint: null
+      type: select_one
+      options:
+      - Travel Passport
+      - State ID
+      - Visa
+      required: true
+    - id: 4
+      name: travel_document_number
+      label: Travel Document Number
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - ID Card
+      - Visa
+      required: true
+    - id: 5
+      name: travel_start_date
+      label: Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_end_date
+      label: Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_arrangements
+      label: Travel Arrangements
+      hint: null
+      type: number
+      options: []
+      required: true

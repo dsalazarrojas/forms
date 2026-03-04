@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blockchain Procurement Transparency Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Blockchain Procurement Transparency Survey
+        hint: Help us understand blockchain adoption in procurement
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company or agency name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: industry
+        label: Industry Sector
+        hint: Your industry
+        type: select_one
+        options:
+          - Government
+          - Manufacturing
+          - Retail
+          - Healthcare
+          - Finance
+          - Technology
+          - Logistics
+          - Other
+        required: true
+      - id: 5
+        name: job_role
+        label: Job Role
+        hint: Your position
+        type: select_one
+        options:
+          - Procurement Manager
+          - Supply Chain Director
+          - IT Manager
+          - Executive
+          - Analyst
+          - Consultant
+          - Other
+        required: true
+      - id: 6
+        name: organization_size
+        label: Organization Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1-50
+          - 51-200
+          - 201-500
+          - 501-1000
+          - 1001-5000
+          - Over 5000
+        required: true
+      - id: 7
+        name: blockchain_awareness
+        label: Blockchain Awareness Level
+        hint: How familiar are you with blockchain
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of It
+          - Not Familiar
+        required: true
+      - id: 8
+        name: current_blockchain_use
+        label: Current Blockchain Use
+        hint: Is your organization using blockchain
+        type: select_one
+        options:
+          - Yes In Production
+          - Pilot Phase
+          - Planning Stage
+          - Not Using
+          - Evaluating
+        required: true
+      - id: 9
+        name: procurement_challenges
+        label: Current Procurement Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Lack of Transparency
+          - Supplier Verification
+          - Contract Management
+          - Payment Delays
+          - Fraud Prevention
+          - Traceability Issues
+          - Compliance Tracking
+        required: true
+      - id: 10
+        name: transparency_importance
+        label: Importance of Transparency
+        hint: Rate importance in procurement
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Less Important
+          - Not Important
+        required: true
+      - id: 11
+        name: blockchain_benefits
+        label: Perceived Blockchain Benefits
+        hint: What benefits do you expect
+        type: select_multiple
+        options:
+          - Increased Transparency
+          - Better Traceability
+          - Reduced Fraud
+          - Faster Transactions
+          - Lower Costs
+          - Improved Compliance
+          - Better Supplier Relations
+        required: true
+      - id: 12
+        name: implementation_barriers
+        label: Implementation Barriers
+        hint: What prevents adoption
+        type: select_multiple
+        options:
+          - High Cost
+          - Technical Complexity
+          - Lack of Expertise
+          - Regulatory Uncertainty
+          - Integration Issues
+          - Resistance to Change
+          - Not a Priority
+        required: true
+      - id: 13
+        name: budget_allocation
+        label: Budget for Blockchain
+        hint: Is budget allocated
+        type: select_one
+        options:
+          - Yes Allocated
+          - Under Review
+          - Not Allocated
+          - Not Sure
+        required: true
+      - id: 14
+        name: timeline_expectation
+        label: Implementation Timeline
+        hint: When might you implement
+        type: select_one
+        options:
+          - Within 6 Months
+          - 6-12 Months
+          - 1-2 Years
+          - 2-5 Years
+          - No Plans
+        required: true
+      - id: 15
+        name: vendor_preference
+        label: Vendor Selection Criteria
+        hint: What matters most
+        type: select_one
+        options:
+          - Cost
+          - Features
+          - Security
+          - Vendor Reputation
+          - Integration Capability
+          - Support Services
+        required: true
+      - id: 16
+        name: regulatory_compliance
+        label: Regulatory Compliance Needs
+        hint: How important is compliance
+        type: select_one
+        options:
+          - Critical
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 17
+        name: data_privacy_concerns
+        label: Data Privacy Concerns
+        hint: Level of concern
+        type: select_one
+        options:
+          - Very Concerned
+          - Concerned
+          - Neutral
+          - Not Concerned
+        required: true
+      - id: 18
+        name: training_needs
+        label: Training Requirements
+        hint: Will staff need training
+        type: select_one
+        options:
+          - Extensive Training
+          - Some Training
+          - Minimal Training
+          - No Training
+        required: true
+      - id: 19
+        name: success_metrics
+        label: Success Metrics
+        hint: How will you measure success
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false

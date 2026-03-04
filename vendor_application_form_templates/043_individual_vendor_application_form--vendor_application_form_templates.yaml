@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: individual_vendor_application_form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 6
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      required: true
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_profile
+      label: Vendor Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 11
+      name: vendor_category
+      label: Vendor Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 12
+      name: vendor_subcategory
+      label: Vendor Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      - Subcategory 3
+      required: true
+    - id: 13
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vendor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: vendor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: website
+      label: Website
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      required: true
+    - id: 17
+      name: vendor_social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      required: false
+    - id: 18
+      name: vendor_license_number
+      label: Vendor License Number
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: vendor_certifications
+      label: Vendor Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vendor_services_offered
+      label: Services Offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vendor_employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Freelance
+      required: true
+    - id: 22
+      name: vendor_annual_salary
+      label: Annual Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vendor_hours_worked
+      label: Hours Worked
+      hint: null
+      type: select_one
+      options:
+      - Less than 20
+      - 20-40
+      - 41-60
+      required: true
+    - id: 24
+      name: vendor_sick_leave
+      label: Sick Leave
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: vendor_health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

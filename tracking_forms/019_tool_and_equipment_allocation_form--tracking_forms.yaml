@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool And Equipment Allocation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_name
+      label: project name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''project_a''}'
+      - '{''value'': ''project_b''}'
+      required: false
+    - id: 3
+      name: equipment_requested
+      label: equipment requested
+      hint: please enter equipment name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: due_date
+      label: due date
+      hint: when is it due back
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_manager
+      label: project manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''site_a''}'
+      - '{''value'': ''site_b''}'
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_id
+      label: project id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_status
+      label: equipment status
+      hint: status of equipment
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: due_time
+      label: due time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: tool_status
+      label: tool status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: project_status
+      label: project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_type
+      label: equipment type
+      hint: type of equipment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_id
+      label: location id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to_id
+      label: assigned to id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: due_date_time
+      label: due date time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: project_type
+      label: project type
+      hint: null
+      type: text
+      options: []
+      required: false

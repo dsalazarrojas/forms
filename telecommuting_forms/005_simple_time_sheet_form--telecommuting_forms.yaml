@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Time Sheet Form
+    pages:
+    - id: 1
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project
+      label: project
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: work_performed
+      label: Work Performed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false

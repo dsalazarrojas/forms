@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Therapy Research Grant Application
+    pages:
+    - id: 1
+      name: research_proposal
+      label: Research Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: research_focus_areas
+      label: Research Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      required: true
+    - id: 6
+      name: research_justification
+      label: Research Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_objectives
+      label: Research Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_justification
+      label: Budget Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documents_description
+      label: Supporting Documents Description
+      hint: null
+      type: text
+      options: []
+      required: false

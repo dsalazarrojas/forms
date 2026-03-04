@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Unreturned Item Report
+    pages:
+    - id: 1
+      name: office_name
+      label: Office Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_department
+      label: School Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - Equipment
+      - Materials
+      - Library
+      - Other
+      required: true
+    - id: 4
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: borrower_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: borrowed_date
+      label: Borrowed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: returned_date
+      label: Returned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: select_one
+      options:
+      - Not Available
+      - Not Used
+      - Other
+      required: true
+    - id: 11
+      name: asset_number
+      label: Asset Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Contacted
+      - Follow Up Needed
+      required: true
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In Person
+      required: true
+    - id: 17
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: borrower_signature
+      label: Borrower Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: office_email
+      label: Office Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_by
+      label: Follow Up By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Lost
+      - Found
+      - In Transit
+      - Other
+      required: true
+    - id: 24
+      name: asset_condition_notes
+      label: Asset Condition Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: note
+      options: []
+      required: false

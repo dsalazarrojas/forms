@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Satisfaction Survey
+    pages:
+    - id: 1
+      name: trainee_satisfaction
+      label: Overall trainee satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: training_effectiveness
+      label: How effective do you feel the training was?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: trainer_satisfaction
+      label: How satisfied are you with the trainer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: trainer_knowledge
+      label: How knowledgeable was the trainer?
+      hint: null
+      type: select_one
+      options:
+      - Extremely knowledgeable
+      - Somewhat knowledgeable
+      - Not very knowledgeable
+      required: false
+    - id: 5
+      name: material_support
+      label: Was the training material useful?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_management
+      label: How well was the time managed?
+      hint: null
+      type: select_one
+      options:
+      - Very well
+      - Somewhat well
+      - Not very well
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

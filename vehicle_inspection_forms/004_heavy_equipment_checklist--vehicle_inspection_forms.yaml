@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heavy Equipment Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: operating_hours
+      label: Operating Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: condition
+      label: condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: maintenance_history
+      label: maintenance history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: maintenance_last
+      label: maintenance last
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: safety equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_signs
+      label: safety signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fire_hydrant
+      label: Fire Hydrant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hydraulic_fluid_level
+      label: Hydraulic Fluid Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: differential
+      label: Differential
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: brakes
+      label: Brakes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: tires
+      label: Tires
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: seatbelts
+      label: Seatbelts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: safety_labels
+      label: Safety Labels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: safety_labels_location
+      label: Safety Labels Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: safety_labels_last
+      label: Safety Labels Last
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: fire_hydrant_location
+      label: Fire Hydrant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: oil_type
+      label: Oil Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: hydraulic_fuild_level_location
+      label: Hydraulic Fluid Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 25
+      name: hydraulic_fuild_last
+      label: Hydraulic Fluid Level Last
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

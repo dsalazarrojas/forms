@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: public-awareness-of-sustainable-tourism-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What do you know about sustainable tourism?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: awareness
+      label: What level of awareness do you have about sustainable tourism?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''Somewhat High''}'
+      - '{''label'': ''Somewhat Low''}'
+      - '{''label'': ''Very Low''}'
+      required: false
+    - id: 3
+      name: attitudes
+      label: Which of the following do you believe is the most important aspect of
+        sustainable tourism?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Environmental''}'
+      - '{''label'': ''Social''}'
+      - '{''label'': ''Economic''}'
+      - '{''label'': ''Cultural''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Do you have any feedback or suggestions for sustainable tourism practices?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: education
+      label: What level of education do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bachelor''}'
+      - '{''label'': ''Masters''}'
+      - '{''label'': ''PhD''}'
+      - '{''label'': ''Others''}'
+      required: false
+    - id: 10
+      name: occupation
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company
+      label: Which company/organization do you represent?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact
+      label: What is your role in the company/organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: What is your location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rating
+      label: How would you rate your level of interest in sustainable tourism?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 16
+      name: knowledge
+      label: What is your level of knowledge about sustainable tourism?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 17
+      name: agreement
+      label: Do you agree or disagree with the following statements about sustainable
+        tourism?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''I disagree''}'
+      - '{''label'': ''Neither agree nor disagree''}'
+      required: false
+    - id: 18
+      name: satisfaction
+      label: How satisfied are you with sustainable tourism?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Somewhat Unsatisfied''}'
+      - '{''label'': ''Very Unsatisfied''}'
+      required: false
+    - id: 19
+      name: travel
+      label: How often do you travel?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-5 times a year''}'
+      - '{''label'': ''6-10 times a year''}'
+      - '{''label'': ''11-20 times a year''}'
+      - '{''label'': ''21-30 times a year''}'
+      - '{''label'': ''More than 30 times a year''}'
+      required: false

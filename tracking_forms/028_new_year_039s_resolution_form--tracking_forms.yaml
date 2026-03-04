@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year's Resolution Form
+    pages:
+    - id: 1
+      name: resolution_name
+      label: Resolution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Tracking Forms
+      - Entertainment Forms
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: objective
+      label: Objective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: intention
+      label: Intention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: habit
+      label: Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_type
+      label: Resolution Type
+      hint: null
+      type: select_one
+      options:
+      - Goals
+      - Habits
+      - Intentions
+      required: true
+    - id: 8
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: resolution_frequency
+      label: Resolution Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 11
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: resolution_email
+      label: Resolution Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: resolution_phone
+      label: Resolution Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
+      required: true
+    - id: 15
+      name: resolution_tags
+      label: Resolution Tags
+      hint: null
+      type: text
+      options: []
+      required: false

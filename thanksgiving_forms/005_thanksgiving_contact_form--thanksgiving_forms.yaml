@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_contact_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category-1'', ''label'': ''Category 1'', ''description'':
+        ''Category 1 description''}'
+      - '{''id'': 2, ''name'': ''category-2'', ''label'': ''Category 2'', ''description'':
+        ''Category 2 description''}'
+      required: false

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Timecard Submission
+    pages:
+    - id: 1
+      name: work_dates
+      label: Work Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_details
+      label: Job Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Production'', ''value'': ''Production''}'
+      - '{''label'': ''Agency'', ''value'': ''Agency''}'
+      - '{''label'': ''Model'', ''value'': ''Model''}'
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agency Personal Information Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: passport_number
+      label: passport_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nationality
+      label: nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''American'', ''label'': ''American''}'
+      - '{''value'': ''British'', ''label'': ''British''}'
+      - '{''value'': ''Canadian'', ''label'': ''Canadian''}'
+      - '{''value'': ''German'', ''label'': ''German''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male'', ''label'': ''Male''}'
+      - '{''value'': ''Female'', ''label'': ''Female''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: country_of_residence
+      label: country_of_residence
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Canada'', ''label'': ''Canada''}'
+      - '{''value'': ''United States'', ''label'': ''United States''}'
+      - '{''value'': ''Mexico'', ''label'': ''Mexico''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: travel_agency_name
+      label: travel_agency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency_email
+      label: travel_agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_license
+      label: travel_agency_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_physical_location
+      label: travel_agency_physical_location
+      hint: null
+      type: text
+      options: []
+      required: false

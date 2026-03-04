@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Technology Adoption Farmer Insights Survey
+    pages:
+    - id: 1
+      name: farmer_name
+      label: Farmer name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: region
+      label: Region
+      hint: Geographic region or district
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_size
+      label: Farm size in hectares
+      hint: Approximate cultivated area
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: awareness_of_technology
+      label: Awareness of new agricultural technologies
+      hint: Are you aware of recent technologies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: adoption_status
+      label: Adoption status
+      hint: Current use of new technology
+      type: select_one
+      options:
+      - Not aware
+      - Aware but not using
+      - Using partially
+      - Fully using
+      required: true
+    - id: 6
+      name: main_barriers
+      label: Main barriers to adoption
+      hint: Cost, training, availability, trust, or other
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: perceived_benefits
+      label: Perceived benefits
+      hint: Productivity, cost savings, labor reduction, or quality
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_interest
+      label: Interest in training or demonstration
+      hint: Would you participate in hands-on training
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 9
+      name: financing_interest
+      label: Interest in financing options for technology
+      hint: Would access to credit increase adoption
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback on technology adoption
+      type: text
+      options: []
+      required: false

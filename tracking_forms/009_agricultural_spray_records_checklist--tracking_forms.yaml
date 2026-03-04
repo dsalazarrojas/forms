@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Spray Records Checklist
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: Name of the spray operator
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Name of the farm
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: spray_date
+      label: Spray Date
+      hint: Date of spray application
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: spray_time
+      label: Spray Time
+      hint: Time of application start
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: field_name
+      label: Field Name or ID
+      hint: Field being treated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: field_size
+      label: Field Size (acres)
+      hint: Size of area treated
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: crop_treated
+      label: Crop Being Treated
+      hint: Type of crop
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: crop_growth_stage
+      label: Crop Growth Stage
+      hint: Current stage of crop development
+      type: select_one
+      options:
+      - Seedling
+      - Vegetative
+      - Flowering
+      - Fruiting
+      - Maturing
+      required: true
+    - id: 9
+      name: target_pest
+      label: Target Pest or Weed
+      hint: Pest or weed being controlled
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_name_1
+      label: Product Name 1
+      hint: First pesticide or herbicide used
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: epa_number_1
+      label: EPA Registration Number 1
+      hint: EPA number for product 1
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: amount_used_1
+      label: Amount Used 1
+      hint: Quantity of product 1 used
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_1
+      label: Unit 1
+      hint: Unit of measurement
+      type: select_one
+      options:
+      - oz
+      - lb
+      - gal
+      - pt
+      - qt
+      required: true
+    - id: 14
+      name: product_name_2
+      label: Product Name 2
+      hint: Second product if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: epa_number_2
+      label: EPA Registration Number 2
+      hint: EPA number for product 2
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: amount_used_2
+      label: Amount Used 2
+      hint: Quantity of product 2 used
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_water_used
+      label: Total Water Used (gallons)
+      hint: Total volume of water
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: application_rate
+      label: Application Rate (gallons per acre)
+      hint: Rate of application
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: equipment_used
+      label: Equipment Used
+      hint: Type of spray equipment
+      type: select_one
+      options:
+      - Boom sprayer
+      - Air blast sprayer
+      - Backpack sprayer
+      - Handheld sprayer
+      - Aerial application
+      - Other
+      required: true
+    - id: 20
+      name: equipment_id
+      label: Equipment ID Number
+      hint: Equipment identification
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: wind_speed
+      label: Wind Speed (mph)
+      hint: Wind speed during application
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: wind_direction
+      label: Wind Direction
+      hint: Direction wind was blowing
+      type: select_one
+      options:
+      - North
+      - Northeast
+      - East
+      - Southeast
+      - South
+      - Southwest
+      - West
+      - Northwest
+      required: true
+    - id: 23
+      name: temperature
+      label: Temperature (Fahrenheit)
+      hint: Air temperature during application
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: relative_humidity
+      label: Relative Humidity (%)
+      hint: Humidity percentage
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: reentry_interval
+      label: Re-entry Interval (hours)
+      hint: Hours before workers can re-enter
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: preharvest_interval
+      label: Pre-harvest Interval (days)
+      hint: Days until harvest is allowed
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: ppe_used
+      label: Personal Protective Equipment Used
+      hint: Select all PPE worn
+      type: select_multiple
+      options:
+      - Long-sleeved shirt
+      - Long pants
+      - Chemical-resistant gloves
+      - Boots
+      - Goggles or face shield
+      - Respirator
+      - Apron
+      - Hat
+      required: true
+    - id: 28
+      name: buffer_zones_observed
+      label: Buffer Zones Observed
+      hint: Were required buffer zones maintained
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 29
+      name: drift_precautions
+      label: Drift Precautions Taken
+      hint: Select all precautions used
+      type: select_multiple
+      options:
+      - Low pressure application
+      - Drift reduction nozzles
+      - Appropriate boom height
+      - Wind speed check
+      - Buffer zones
+      - None
+      required: true
+    - id: 30
+      name: container_disposal
+      label: Container Disposal Method
+      hint: How were containers disposed
+      type: select_one
+      options:
+      - Triple rinsed and recycled
+      - Returned to dealer
+      - Disposed per regulations
+      - Other
+      required: true
+    - id: 31
+      name: incidents_or_spills
+      label: Incidents or Spills
+      hint: Were there any spills or incidents
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: incident_description
+      label: Incident Description
+      hint: Describe any incidents that occurred
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Digital signature of supervisor
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: checklist_completed
+      label: Checklist Completed
+      hint: Is this checklist complete
+      type: select_one
+      options:
+      - Yes, all items completed
+      - No, items pending
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Installer Work Report
+    pages:
+    - id: 1
+      name: job_sites
+      label: job_sites
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: weekly_activities
+      label: weekly_activities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: incidents
+      label: incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_team
+      label: assigned_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_site
+      label: job_site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: weeks_completed
+      label: weeks_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hours_per_week
+      label: hours_per_week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

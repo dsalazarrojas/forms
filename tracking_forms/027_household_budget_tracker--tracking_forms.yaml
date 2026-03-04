@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Budget Tracker
+    pages:
+    - id: 1
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_expenses
+      label: Household Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_savings
+      label: Household Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: household_income_date
+      label: Income Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: household_expenses_date
+      label: Expenses Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: household_savings_date
+      label: Savings Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: household_budget_goal
+      label: Budget Goal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: household_bills
+      label: Bills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: household_entertainment
+      label: Entertainment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: household_transportation
+      label: Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: household_food
+      label: Food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: household_housing
+      label: Housing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: household_health
+      label: Health
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: household_savings_goal
+      label: Savings Goal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: household_budget
+      label: Budget
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: household_budget_frequency
+      label: Budget Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: household_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: household_income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: household_expenses_frequency
+      label: Expenses Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: household_budget_status
+      label: Budget Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: monitoring_responsibility_and_area_form
+    pages:
+    - id: 1
+      name: zone
+      label: monitoring_zone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: responsibility
+      label: selected_responsibility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

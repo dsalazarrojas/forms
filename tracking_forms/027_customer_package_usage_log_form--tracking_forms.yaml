@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Package Usage Log Form
+    pages:
+    - id: 1
+      name: customer_package_usage_log_form_1
+      label: Customer Package Usage Log Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_package_id
+      label: Customer Package ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: usage_hours
+      label: Usage Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: customer_package_notes
+      label: Customer Package Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_package_tracking_status
+      label: Customer Package Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree with the terms and conditions
+      - I have not read and do not agree with the terms and conditions
+      required: false

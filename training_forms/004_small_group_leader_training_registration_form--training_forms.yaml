@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_group_leader_training_registration_form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: training_length
+      label: Training Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_start_time
+      label: Training Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: training_end_time
+      label: Training End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: training_notes
+      label: Training Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Training Risk Assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_areas
+      label: Risk Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Risk of Injury or Illness
+      - Risk of Property Damage
+      - Risk of Financial Loss
+      - Risk of Equipment Damage
+      - Risk of Injury or Illness
+      - Risk of Loss of Productivity
+      - Risk of Loss of Resources
+      - Risk of Environmental Damage
+      required: false
+    - id: 3
+      name: specific_incident
+      label: Specific Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false

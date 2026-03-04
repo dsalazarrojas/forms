@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Attendee Satisfaction Poll
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_attended
+      label: Session Attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: speaker_name
+      label: Speaker
+      hint: Please provide speaker name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speaker_topic
+      label: Speaker Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: session_quality
+      label: Session Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: speaker_reported
+      label: Speaker
+      hint: null
+      type: select_multiple
+      options:
+      - Speaker 1
+      - Speaker 2
+      - Speaker 3
+      required: true
+    - id: 9
+      name: content_relevance
+      label: Relevance of Content
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: speaker_value
+      label: Speaker
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Very Poor
+      required: true
+    - id: 11
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: food_service
+      label: Food Service
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Very Poor
+      required: true
+    - id: 13
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_attended_venue
+      label: Session Attended Venue
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 18
+      name: session_attended_room
+      label: Session Attended Room
+      hint: null
+      type: select_multiple
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      required: false
+    - id: 19
+      name: speaker_attendee_rating
+      label: Speaker Attended Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Very Poor
+      required: false
+    - id: 20
+      name: session_quality_rating
+      label: Session Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: speaker_content_value
+      label: Speaker Content
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Very Poor
+      required: false
+    - id: 22
+      name: overall_attendee_satisfaction
+      label: Overall Attendee Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: overall_speaker_satisfaction
+      label: Overall Speaker Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: session_venue_rating
+      label: Session Venue
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Very Poor
+      required: false
+    - id: 25
+      name: overall_venue_satisfaction
+      label: Overall Venue Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

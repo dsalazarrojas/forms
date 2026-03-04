@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-private-lesson-enrollment-form
+    pages:
+    - id: 1
+      name: private_lesson_enrollment_form
+      label: private lesson enrollment form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lesson_duration
+      label: lesson duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lesson_fees
+      label: lesson fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_agreement
+      label: instructor agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_agreement
+      label: student agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

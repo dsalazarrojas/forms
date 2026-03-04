@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Vacuum Product Comparison Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: robot_vacuum_brand
+      label: Robot Vacuum Brand
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''iRobot''}'
+      - '{''value'': ''Neato''}'
+      - '{''value'': ''Samsung''}'
+      required: false
+    - id: 3
+      name: feature_importance
+      label: Most Important Feature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Suction Power''}'
+      - '{''value'': ''Navigation''}'
+      - '{''value'': ''Charging Time''}'
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Navigation System''}'
+      required: false
+    - id: 4
+      name: feature_importance_2
+      label: Second Most Important Feature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Suction Power''}'
+      - '{''value'': ''Navigation''}'
+      - '{''value'': ''Charging Time''}'
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Navigation System''}'
+      required: false
+    - id: 5
+      name: purchase_satisfaction
+      label: Purchase Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      required: false
+    - id: 6
+      name: purchase_driver
+      label: Why You Purchased
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: purchase_driver_2
+      label: Purchase Driver 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: purchase_driver_3
+      label: Purchase Driver 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 9
+      name: purchase_driver_4
+      label: Purchase Driver 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 10
+      name: purchase_driver_5
+      label: Purchase Driver 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''0-500''}'
+      - '{''value'': ''500-1000''}'
+      - '{''value'': ''1000-2000''}'
+      - '{''value'': ''2000-3000''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: feature_preference
+      label: Feature Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Suction Power''}'
+      - '{''value'': ''Navigation''}'
+      - '{''value'': ''Charging Time''}'
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Navigation System''}'
+      required: false
+    - id: 13
+      name: model
+      label: Robot Vacuum Model
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''iRobot''}'
+      - '{''value'': ''Neato''}'
+      - '{''value'': ''Samsung''}'
+      required: false
+    - id: 14
+      name: model_2
+      label: Model 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''iRobot''}'
+      - '{''value'': ''Neato''}'
+      - '{''value'': ''Samsung''}'
+      required: false
+    - id: 15
+      name: model_3
+      label: Model 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: model_4
+      label: Model 4
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''iRobot''}'
+      - '{''value'': ''Neato''}'
+      - '{''value'': ''Samsung''}'
+      required: false
+    - id: 17
+      name: model_5
+      label: Model 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: purchase_satisfaction_2
+      label: Purchase Satisfaction 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      required: false
+    - id: 19
+      name: purchase_satisfaction_3
+      label: Purchase Satisfaction 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      required: false
+    - id: 20
+      name: purchase_driver_2
+      label: Purchase Driver 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 21
+      name: purchase_driver_3
+      label: Purchase Driver 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 22
+      name: purchase_driver_4
+      label: Purchase Driver 4
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 23
+      name: purchase_driver_5
+      label: Purchase Driver 5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 24
+      name: purchase_driver_6
+      label: Purchase Driver 6
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Price''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Product Reviews''}'
+      - '{''value'': ''Brand''}'
+      required: false
+    - id: 25
+      name: purchase_driver_7
+      label: Purchase Driver 7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

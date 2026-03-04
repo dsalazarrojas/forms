@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guardian Task Management Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: due_date_1
+      label: Due Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: due_date_2
+      label: Due Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: status_1
+      label: Status 1
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: status_2
+      label: Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false

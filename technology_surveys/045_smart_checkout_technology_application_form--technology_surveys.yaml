@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Checkout Technology Application Form
+    pages:
+    - id: 1
+      name: smart_checkout_technology_application
+      label: smart_checkout_technology_application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_fitting
+      label: business_fitting
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_likely'', ''label'': ''very_likely''}'
+      - '{''value'': ''somewhat_likely'', ''label'': ''somewhat_likely''}'
+      - '{''value'': ''not_likely'', ''label'': ''not_likely''}'
+      required: false
+    - id: 3
+      name: rollout_timing
+      label: rollout_timing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: operational_needs
+      label: operational_needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''operational_needs_1'', ''label'': ''operational_needs_1''}'
+      - '{''value'': ''operational_needs_2'', ''label'': ''operational_needs_2''}'
+      required: false
+    - id: 5
+      name: business_fit
+      label: business_fit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_good'', ''label'': ''very_good''}'
+      - '{''value'': ''somewhat_good'', ''label'': ''somewhat_good''}'
+      - '{''value'': ''not_good'', ''label'': ''not_good''}'
+      required: false
+    - id: 6
+      name: review_request
+      label: review_request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: review_response
+      label: review_response
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''approved'', ''label'': ''approved''}'
+      - '{''value'': ''rejected'', ''label'': ''rejected''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 11
+      name: business_fit_score
+      label: business_fit_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: operational_needs_score
+      label: operational_needs_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: operational_needs_1_score
+      label: operational_needs_1_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: operational_needs_2_score
+      label: operational_needs_2_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: rollout_timing_score
+      label: rollout_timing_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: review_request_score
+      label: review_request_score
+      hint: null
+      type: number
+      options: []
+      required: false

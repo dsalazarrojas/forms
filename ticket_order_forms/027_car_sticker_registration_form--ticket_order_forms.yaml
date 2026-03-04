@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Sticker Registration Form
+    pages:
+    - id: 1
+      name: registrant_information
+      label: -- REGISTRANT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: license_plate_number
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: license_plate_state
+      label: License plate state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: registration_details
+      label: -- REGISTRATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: sticker_type
+      label: Sticker type
+      hint: null
+      type: select_one
+      options:
+      - Parking Permit
+      - Resident Sticker
+      - Commuter Pass
+      - Campus Parking
+      - Event Pass
+      - Decal
+      required: true
+    - id: 20
+      name: sticker_duration
+      label: Sticker validity period
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Semester
+      - Monthly
+      - Weekly
+      - Daily
+      - Event Only
+      required: true
+    - id: 21
+      name: valid_from_date
+      label: Sticker valid from date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: valid_to_date
+      label: Sticker expiration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: sticker_cost
+      label: Sticker registration fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Online Payment
+      - Cash
+      - Bank Transfer
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional notes or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: F1 Grand Prix Ticket Booking
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair Accessible
+      - Sign Language Interpretation
+      - Wheelchair Accessible Restroom
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grandstand
+      - Pit Lane
+      - Pit Stand
+      required: false
+    - id: 8
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: false

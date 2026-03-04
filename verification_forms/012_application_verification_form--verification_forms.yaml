@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Verification Form
+    pages:
+    - id: 1
+      name: verification_date
+      label: Verification Date
+      hint: Date of verification request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of applicant being verified
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: Email address of applicant
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied
+      label: Position Applied
+      hint: Position the applicant is being considered for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: verification_type
+      label: Verification Type
+      hint: What is being verified
+      type: select_one
+      options:
+      - Education
+      - Work Experience
+      - Skills
+      - Certification
+      - All of the Above
+      required: true
+    - id: 7
+      name: verifier_name
+      label: Verifier Name
+      hint: Name of person providing verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: verifier_title
+      label: Verifier Title
+      hint: Job title of verifier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: verifier_organization
+      label: Verifier Organization
+      hint: Organization or institution name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: verifier_email
+      label: Verifier Email
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: verifier_phone
+      label: Verifier Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relationship_to_applicant
+      label: Relationship to Applicant
+      hint: How do you know the applicant
+      type: select_one
+      options:
+      - Direct Supervisor
+      - Professor or Instructor
+      - HR Representative
+      - Colleague
+      - Academic Advisor
+      - Other
+      required: true
+    - id: 13
+      name: relationship_duration
+      label: Relationship Duration
+      hint: How long have you known the applicant
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 14
+      name: education_institution
+      label: Education Institution
+      hint: Name of educational institution
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: degree_obtained
+      label: Degree Obtained
+      hint: Degree or certification earned
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: graduation_date
+      label: Graduation Date
+      hint: Date of graduation or completion
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: gpa_or_honors
+      label: GPA or Honors
+      hint: Grade point average or honors received
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employment_dates
+      label: Employment Dates
+      hint: Start and end dates of employment
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title_held
+      label: Job Title Held
+      hint: Position title held by applicant
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_responsibilities
+      label: Job Responsibilities
+      hint: Main responsibilities of the applicant
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: skills_verified
+      label: Skills Verified
+      hint: Select skills you can verify
+      type: select_multiple
+      options:
+      - Technical Skills
+      - Communication Skills
+      - Leadership Skills
+      - Problem Solving
+      - Teamwork
+      - Time Management
+      - Analytical Skills
+      required: false
+    - id: 22
+      name: performance_rating
+      label: Performance Rating
+      hint: How would you rate their performance
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 23
+      name: attendance_record
+      label: Attendance Record
+      hint: Rate their attendance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 24
+      name: eligibility_for_rehire
+      label: Eligibility for Rehire
+      hint: Would you rehire or recommend them
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other verification details
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: verification_accuracy
+      label: Verification Accuracy
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: verifier_signature
+      label: Verifier Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

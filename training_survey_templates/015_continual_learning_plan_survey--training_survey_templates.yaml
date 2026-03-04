@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continual Learning Plan Survey
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Human Resources
+          - Information Technology
+          - Marketing
+          - Sales
+          - Operations
+          - Finance
+          - Customer Service
+          - Research and Development
+          - Other
+        required: true
+      - id: 4
+        name: position_title
+        label: Position Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: years_with_organization
+        label: Years with Organization
+        hint: Tenure
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10+ years
+        required: true
+      - id: 6
+        name: current_skill_level
+        label: Current Skill Level
+        hint: Self-assessed proficiency
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 7
+        name: learning_goals
+        label: Learning Goals
+        hint: What do you want to learn?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: skill_areas_of_interest
+        label: Skill Areas of Interest
+        hint: Select areas you want to develop
+        type: select_multiple
+        options:
+          - Leadership
+          - Communication
+          - Technical skills
+          - Project management
+          - Data analysis
+          - Customer service
+          - Sales techniques
+          - Software proficiency
+          - Creative skills
+          - Industry knowledge
+        required: true
+      - id: 9
+        name: preferred_learning_method
+        label: Preferred Learning Method
+        hint: How do you learn best?
+        type: select_multiple
+        options:
+          - Online courses
+          - In-person training
+          - Workshops
+          - Conferences
+          - Mentoring
+          - Self-study
+          - On-the-job training
+          - Webinars
+        required: true
+      - id: 10
+        name: learning_time_availability
+        label: Learning Time Availability
+        hint: Hours per week for learning
+        type: select_one
+        options:
+          - 1-2 hours
+          - 2-5 hours
+          - 5-10 hours
+          - 10+ hours
+        required: true
+      - id: 11
+        name: training_budget_needed
+        label: Training Budget Needed
+        hint: Estimated cost for your development
+        type: select_one
+        options:
+          - Under $500
+          - $500-$1000
+          - $1000-$2500
+          - $2500-$5000
+          - Over $5000
+        required: false
+      - id: 12
+        name: certification_interest
+        label: Certification Interest
+        hint: Are you interested in certifications?
+        type: select_one
+        options:
+          - Yes, actively pursuing
+          - Yes, in the future
+          - No, not interested
+        required: true
+      - id: 13
+        name: certification_type
+        label: Certification Type
+        hint: Which certifications?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: career_aspirations
+        label: Career Aspirations
+        hint: Where do you see yourself in 5 years?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: development_support_needed
+        label: Development Support Needed
+        hint: What support do you need?
+        type: select_multiple
+        options:
+          - Time off for training
+          - Financial assistance
+          - Access to resources
+          - Mentor assignment
+          - Flexible schedule
+          - Study materials
+        required: true
+      - id: 16
+        name: previous_training_completed
+        label: Previous Training Completed
+        hint: List recent training
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: training_barriers
+        label: Training Barriers
+        hint: What prevents you from learning?
+        type: select_multiple
+        options:
+          - Lack of time
+          - Cost
+          - No available courses
+          - Workload
+          - Family commitments
+          - Lack of motivation
+          - None
+        required: false
+      - id: 18
+        name: manager_support
+        label: Manager Support
+        hint: Does your manager support your development?
+        type: select_one
+        options:
+          - Very supportive
+          - Somewhat supportive
+          - Neutral
+          - Not supportive
+        required: true
+      - id: 19
+        name: learning_timeline
+        label: Learning Timeline
+        hint: When do you want to start?
+        type: select_one
+        options:
+          - Immediately
+          - Within 1 month
+          - Within 3 months
+          - Within 6 months
+          - Within 1 year
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false

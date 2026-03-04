@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Play Ticket Release Form
+    pages:
+    - id: 1
+      name: play_ticket_release_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_performance
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ticket_quantity
+      label: Quantity
+      hint: Enter the number of tickets
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

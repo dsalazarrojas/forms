@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Itinerary Template
+    pages:
+    - id: 1
+      name: travel_itinerary_template_page
+      label: travel_itinerary_template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_agent_info
+      label: travel_agent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: travel_dates2
+      label: travel_dates2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false

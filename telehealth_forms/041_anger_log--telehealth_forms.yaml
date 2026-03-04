@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anger Log
+    pages:
+    - id: 1
+      name: section_log_header
+      label: -- Daily Anger Tracking Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name / ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: anger_intensity_1_to_10
+      label: Rate Anger Intensity (1 to 10)
+      hint: 1 - Minimal to 10 - Explosive
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: trigger_what_happened_just_before
+      label: Trigger - What happened just before the anger?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physical_sensations
+      label: Physical Sensations Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rapid Heartbeat
+      - Clenched Fists
+      - Sweating
+      - Muscle Tension
+      - Headache
+      - Shortness of Breath
+      required: false
+    - id: 9
+      name: automatic_thoughts_what_were_you_thinking
+      label: Automatic Thoughts - What were you thinking?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_reaction_management
+      label: -- Reaction and Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: behavior_what_did_you_do
+      label: Behavior - What did you do or say?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coping_skills_used
+      label: Coping Skills Used
+      hint: null
+      type: select_multiple
+      options:
+      - Deep Breathing
+      - Counting to Ten
+      - Walking Away
+      - Positive Self-Talk
+      - Distraction
+      - None
+      required: false
+    - id: 13
+      name: outcome_how_did_it_end
+      label: Outcome - How did the situation end?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feelings_after_the_incident
+      label: Primary Feeling After the Incident
+      hint: null
+      type: select_one
+      options:
+      - Relieved
+      - Regretful
+      - Still Angry
+      - Exhausted
+      - Neutral
+      required: true

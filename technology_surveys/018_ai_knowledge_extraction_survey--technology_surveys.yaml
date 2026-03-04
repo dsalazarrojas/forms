@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Knowledge Extraction Survey
+    pages:
+    - id: 1
+      name: --project_details--
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Full name of the person completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Organization or team name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role or job title
+      hint: Your primary role related to AI work
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: use_cases
+      label: Primary AI use cases
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data extraction
+      - Document summarization
+      - Knowledge base construction
+      - Question answering
+      - Automation of workflows
+      required: true
+    - id: 6
+      name: data_sources
+      label: Primary data sources
+      hint: Select up to three main data sources
+      type: select_multiple
+      options:
+      - Internal documents
+      - Databases and tables
+      - Support tickets
+      - Email archives
+      - Web pages
+      required: true
+    - id: 7
+      name: extraction_frequency
+      label: Extraction frequency
+      hint: How often extractions occur
+      type: select_one
+      options:
+      - One time
+      - Daily
+      - Weekly
+      - Monthly
+      - On demand
+      required: true
+    - id: 8
+      name: extraction_accuracy_goal
+      label: Target accuracy or confidence threshold
+      hint: For example 90 for 90 percent
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: common_challenges
+      label: Common challenges encountered
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Noisy data
+      - Unstructured formats
+      - Data privacy concerns
+      - Lack of annotations
+      - Integration complexity
+      required: true
+    - id: 10
+      name: desired_outputs
+      label: Desired output formats
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Structured records
+      - Summaries
+      - Knowledge graph
+      - Search index
+      - API responses
+      required: true
+    - id: 11
+      name: additional_feedback
+      label: Additional feedback or notes
+      hint: Anything else the team should know
+      type: text
+      options: []
+      required: false

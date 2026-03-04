@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Interference Impact Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_one
+      options:
+      - Drone A
+      - Drone B
+      - Drone C
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: first_contact
+      label: First Contact?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: second_contact
+      label: Second Contact?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: third_contact
+      label: Third Contact?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number to contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: drone_location
+      label: Drone Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Birthday Checklist
+    pages:
+    - id: 1
+      name: baby_name
+      label: Baby Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: party_date
+      label: Party Date
+      hint: When is the birthday party?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: party_organizer
+      label: Party Organizer Name
+      hint: Who is planning the party?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: party_location
+      label: Party Location
+      hint: Home, venue, park, etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_invitations
+      label: -- Invitations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: invitations_sent
+      label: Invitations Sent?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In progress
+      - Not yet
+      required: true
+    - id: 8
+      name: rsvp_deadline
+      label: RSVP Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: section_decorations
+      label: -- Decorations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: balloons_purchased
+      label: Balloons Purchased?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: false
+    - id: 11
+      name: streamers_banners
+      label: Streamers and Banners?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: false
+    - id: 12
+      name: table_setup
+      label: Table Setup and Linens?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: false
+    - id: 13
+      name: cake_ordered
+      label: Cake Ordered?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Homemade planned
+      required: true
+    - id: 14
+      name: cake_flavor
+      label: Cake Flavor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_food
+      label: -- Food and Drinks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: food_menu_planned
+      label: Food Menu Planned?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In progress
+      - false
+      required: false
+    - id: 17
+      name: drinks_prepared
+      label: Drinks Prepared?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In progress
+      - Not yet
+      required: false
+    - id: 18
+      name: section_entertainment
+      label: -- Entertainment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: activities_planned
+      label: Activities Planned?
+      hint: Games, music, entertainment
+      type: select_one
+      options:
+      - true
+      - In progress
+      - false
+      required: false
+    - id: 20
+      name: entertainment_booked
+      label: Entertainment or DJ Booked?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Self-providing
+      required: false
+    - id: 21
+      name: section_favors
+      label: -- Party Favors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: favors_purchased
+      label: Party Favors Purchased?
+      hint: Goodie bags, gifts, toys
+      type: select_one
+      options:
+      - true
+      - In progress
+      - Not yet
+      required: false
+    - id: 23
+      name: photographer
+      label: Photographer Arranged?
+      hint: For memories
+      type: select_one
+      options:
+      - true
+      - false
+      - Will use phone
+      required: false
+    - id: 24
+      name: supplies_checklist
+      label: Party Supplies Checklist
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plates and napkins
+      - Cups and utensils
+      - Centerpieces
+      - Party hats
+      - Noisemakers
+      - Thank you cards
+      - Candles
+      - Gift table setup
+      required: false
+    - id: 25
+      name: notes
+      label: Additional Notes or Reminders
+      hint: null
+      type: text
+      options: []
+      required: false

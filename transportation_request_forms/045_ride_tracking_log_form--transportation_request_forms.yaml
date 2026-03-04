@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ride Tracking Log Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: prophets_id
+      label: Prophets ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_start
+      label: Date Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_end
+      label: Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_start
+      label: Time Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_end
+      label: Time End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: ride_start_location
+      label: Ride Start Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: ride_end_location
+      label: Ride End Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

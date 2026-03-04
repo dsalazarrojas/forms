@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight_crew_training_check_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: crew_rating
+      label: Crew Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: emergency_procedure_rating
+      label: Emergency Procedure Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_rating
+      label: Communication Rating
+      hint: null
+      type: select_one
+      options:
+      - Emergency Communication
+      - Routine Communication
+      - Limited Communication
+      required: false
+    - id: 5
+      name: teamwork_rating
+      label: Teamwork Rating
+      hint: null
+      type: number
+      options: []
+      required: false

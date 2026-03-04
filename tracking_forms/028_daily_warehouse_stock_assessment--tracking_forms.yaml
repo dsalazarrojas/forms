@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Warehouse Stock Assessment
+    pages:
+    - id: 1
+      name: daily_warehouse_stock_assessment_form
+      label: Daily Warehouse Stock Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Warehouse 1
+      - Warehouse 2
+      - Warehouse 3
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: stock_type
+      label: Stock Type
+      hint: null
+      type: select_multiple
+      options:
+      - Stock
+      - Inventory
+      - Supplies
+      required: true
+    - id: 5
+      name: stock_item
+      label: Stock Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_stock
+      label: Current Stock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: received_stock
+      label: Received Stock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: discrepancies_stock
+      label: Stock Discrepancies
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Request Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: Full name of employee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Sales
+      - Marketing
+      - Operations
+      - Information Technology
+      - Customer Service
+      - Research and Development
+      - Executive
+      - Other
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: Name of your manager
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_arrangement
+      label: Work Arrangement
+      hint: Select your work arrangement
+      type: select_one
+      options:
+      - Fully Remote
+      - Hybrid
+      - Occasional Remote Work
+      - Travel Required
+      - Temporary Remote Need
+      required: true
+    - id: 11
+      name: equipment_requested
+      label: Equipment Requested
+      hint: Select equipment needed
+      type: select_multiple
+      options:
+      - Laptop Computer
+      - Desktop Computer
+      - Monitor
+      - Keyboard
+      - Mouse
+      - Laptop Stand
+      - Webcam
+      - Headset
+      - Docking Station
+      - External Hard Drive
+      - Tablet
+      - Other
+      required: true
+    - id: 12
+      name: primary_use
+      label: Primary Use
+      hint: What will equipment be used for
+      type: select_one
+      options:
+      - Daily Work Tasks
+      - Software Development
+      - Data Analysis
+      - Design Work
+      - Video Conferencing
+      - Travel
+      - Training
+      - Other
+      required: true
+    - id: 13
+      name: current_equipment
+      label: Current Equipment
+      hint: Do you have any company equipment already
+      type: select_one
+      options:
+      - No Equipment
+      - Laptop Only
+      - Desktop Only
+      - Some Equipment
+      - Full Setup
+      required: true
+    - id: 14
+      name: equipment_issues
+      label: Current Equipment Issues
+      hint: Describe any issues with current equipment
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: specifications_needed
+      label: Specifications Needed
+      hint: Any specific technical requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: software_requirements
+      label: Software Requirements
+      hint: List software you need to run
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: request_justification
+      label: Request Justification
+      hint: Explain why you need this equipment
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: duration_needed
+      label: Duration Needed
+      hint: How long will you need equipment
+      type: select_one
+      options:
+      - Permanent
+      - 6 Months or More
+      - 3 to 6 Months
+      - 1 to 3 Months
+      - Less than 1 Month
+      - Temporary
+      required: true
+    - id: 19
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should equipment be delivered
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need equipment
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: setup_assistance_needed
+      label: Setup Assistance Needed
+      hint: Do you need help with setup
+      type: select_one
+      options:
+      - Yes, Full Setup
+      - Yes, Remote Setup
+      - No, I Can Self-Install
+      required: true
+    - id: 22
+      name: return_date
+      label: Expected Return Date
+      hint: When will equipment be returned if temporary
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved this request
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Yet Requested
+      required: true
+    - id: 24
+      name: request_status
+      label: Request Status
+      hint: Current request status
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Approved
+      - Ordered
+      - Shipped
+      - Delivered
+      - Rejected
+      required: true

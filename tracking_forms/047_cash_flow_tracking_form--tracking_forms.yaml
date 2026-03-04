@@ -1,0 +1,412 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Tracking Form
+    pages:
+    - id: 1
+      name: tracking_header
+      label: Cash Flow Tracking Form
+      hint: Record and monitor all cash inflows and outflows
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tracking_id
+      label: Tracking ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_date
+      label: Entry Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_info
+      label: Business Information
+      hint: Company details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_name
+      label: Bank Account Name
+      hint: Account identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: Last 4 digits
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transaction_info
+      label: Transaction Information
+      hint: Entry details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: transaction_date
+      label: Transaction Date
+      hint: When occurred
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: transaction_type
+      label: Transaction Type
+      hint: Inflow or outflow
+      type: select_one
+      options:
+      - Cash inflow
+      - Cash outflow
+      required: true
+    - id: 11
+      name: transaction_category
+      label: Transaction Category
+      hint: Classification
+      type: select_one
+      options:
+      - Operating activity
+      - Investing activity
+      - Financing activity
+      required: true
+    - id: 12
+      name: transaction_description
+      label: Transaction Description
+      hint: What is this for
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reference_number
+      label: Reference Number
+      hint: Check invoice or receipt
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How transacted
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit card
+      - Debit card
+      - Wire transfer
+      - ACH
+      - Online payment
+      - Other
+      required: true
+    - id: 15
+      name: counterparty
+      label: Counterparty Name
+      hint: Who with
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: counterparty_type
+      label: Counterparty Type
+      hint: Category
+      type: select_one
+      options:
+      - Customer
+      - Vendor
+      - Employee
+      - Lender
+      - Investor
+      - Government
+      - Other
+      required: false
+    - id: 17
+      name: amount
+      label: Transaction Amount
+      hint: Dollar value
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: running_balance
+      label: Running Balance
+      hint: Balance after transaction
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: subcategory
+      label: Subcategory
+      hint: More specific
+      type: select_one
+      options:
+      - Sales revenue
+      - Customer payment
+      - Interest income
+      - Investment income
+      - Other income
+      - Operating expense
+      - Payroll
+      - Rent
+      - Utilities
+      - Inventory
+      - Equipment
+      - Loan payment
+      - Tax payment
+      - Owner draw
+      - Other
+      required: true
+    - id: 20
+      name: project_code
+      label: Project Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: department_code
+      label: Department Code
+      hint: Cost center
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tax_applicable
+      label: Is Tax Applicable
+      hint: Tax status
+      type: select_one
+      options:
+      - Yes - included
+      - Yes - additional
+      - No - not taxable
+      - No - exempt
+      required: false
+    - id: 23
+      name: tax_amount
+      label: Tax Amount
+      hint: Tax value
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Transaction Notes
+      hint: Additional details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: receipt_attached
+      label: Is Receipt Attached
+      hint: Documentation
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - No - not available
+      - No - not applicable
+      required: false
+    - id: 26
+      name: approved
+      label: Is Transaction Approved
+      hint: Authorization status
+      type: select_one
+      options:
+      - Yes - pre-approved
+      - Yes - post-approved
+      - Pending approval
+      - Not required
+      required: false
+    - id: 27
+      name: approved_by
+      label: Approved By
+      hint: Approver name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: approval_date
+      label: Approval Date
+      hint: When approved
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: reconciled
+      label: Is Transaction Reconciled
+      hint: Bank match
+      type: select_one
+      options:
+      - Yes - reconciled
+      - No - pending
+      - No - discrepancy
+      required: false
+    - id: 30
+      name: reconciliation_date
+      label: Reconciliation Date
+      hint: When reconciled
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: entered_by
+      label: Entered By
+      hint: Person recording
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: entry_timestamp
+      label: Entry Timestamp
+      hint: When entered
+      type: time
+      options: []
+      required: false
+    - id: 33
+      name: periodic_summary
+      label: Periodic Summary
+      hint: Totals for period
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: period_total_inflows
+      label: Total Inflows for Period
+      hint: Sum of inflows
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: period_total_outflows
+      label: Total Outflows for Period
+      hint: Sum of outflows
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: period_net_flow
+      label: Net Cash Flow for Period
+      hint: Net change
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: period_start_balance
+      label: Balance at Period Start
+      hint: Opening
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: period_end_balance
+      label: Balance at Period End
+      hint: Closing
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: variance_analysis
+      label: Variance Analysis
+      hint: Budget vs actual
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: budgeted_inflows
+      label: Budgeted Inflows
+      hint: Planned
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: actual_inflows
+      label: Actual Inflows
+      hint: Realized
+      type: number
+      options: []
+      required: false
+    - id: 42
+      name: inflow_variance
+      label: Inflow Variance
+      hint: Difference
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: budgeted_outflows
+      label: Budgeted Outflows
+      hint: Planned
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: actual_outflows
+      label: Actual Outflows
+      hint: Realized
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: outflow_variance
+      label: Outflow Variance
+      hint: Difference
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: variance_explanation
+      label: Explanation of Significant Variances
+      hint: Commentary
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: flags_alerts
+      label: Flags and Alerts
+      hint: Issues to note
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: unusual_transaction
+      label: Is This an Unusual Transaction
+      hint: Anomaly flag
+      type: select_one
+      options:
+      - No - normal
+      - Yes - one-time
+      - Yes - requires review
+      - Yes - error
+      required: false
+    - id: 49
+      name: follow_up_needed
+      label: Is Follow-Up Needed
+      hint: Action required
+      type: select_one
+      options:
+      - No - complete
+      - Yes - minor
+      - Yes - urgent
+      required: false
+    - id: 50
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: Action items
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suitcase Checklist
+    pages:
+    - id: 1
+      name: suitcase_contents_1
+      label: Contents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_documents_1
+      label: Travel Documents
+      hint: Passport, ID card, etc.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: clothing_1
+      label: Clothing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: accessories_1
+      label: Accessories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: toiletries_1
+      label: Toiletries
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

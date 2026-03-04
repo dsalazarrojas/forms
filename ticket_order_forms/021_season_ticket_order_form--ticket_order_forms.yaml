@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Season Ticket Order Form
+    pages:
+    - id: 1
+      name: season_ticket_order_form
+      label: Season Ticket Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: season_ticket_order_form_tickets
+      label: Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-4 tickets'', ''label'': ''1-4 tickets''}'
+      - '{''value'': ''5-8 tickets'', ''label'': ''5-8 tickets''}'
+      - '{''value'': ''9-12 tickets'', ''label'': ''9-12 tickets''}'
+      - '{''value'': ''13-16 tickets'', ''label'': ''13-16 tickets''}'
+      required: false
+    - id: 3
+      name: season_ticket_order_form_payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''check'', ''label'': ''Check''}'
+      - '{''value'': ''cash'', ''label'': ''Cash''}'
+      required: false
+    - id: 4
+      name: season_ticket_order_form_billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: season_ticket_order_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: season_ticket_order_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: season_ticket_order_form_additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: season_ticket_order_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

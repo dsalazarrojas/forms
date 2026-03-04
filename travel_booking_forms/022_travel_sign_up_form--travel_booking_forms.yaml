@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel-sign-up-form
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Airplane
+      - Train
+      - Ship
+      - Bus
+      required: true
+    - id: 5
+      name: travel_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: travel_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

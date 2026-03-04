@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: risk_perception_benchmark_survey
+    pages:
+    - id: 1
+      name: risk_perception_scale
+      label: risk_perception_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: technology_sector
+      label: technology_sector
+      hint: null
+      type: select_one
+      options:
+      - Information Technology
+      - Internet of Things
+      - Artificial Intelligence
+      - Cybersecurity
+      - Cloud Computing
+      required: false
+    - id: 4
+      name: industry_subsector
+      label: industry_subsector
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Healthcare
+      - Retail
+      - Automotive
+      - Education
+      - Real Estate
+      - Other
+      required: false
+    - id: 5
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Public
+      - Non-Profit
+      required: false
+    - id: 7
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - Asia
+      - Europe
+      - North America
+      - Latin America
+      - Africa
+      - Oceania
+      required: false
+    - id: 8
+      name: industry_experience
+      label: industry_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 9
+      name: risk_perception
+      label: risk_perception
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: risk_frequency
+      label: risk_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      - Never
+      required: false

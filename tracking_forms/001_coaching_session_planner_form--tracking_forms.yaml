@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Planner Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Enter the client's first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email Address
+      hint: Primary email for session communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone Number
+      hint: Best contact number for reminders
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: Select the planned session date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: Preferred time for the coaching session
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: Choose the format of this session
+      type: select_one
+      options:
+      - In-person
+      - Video Call
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 7
+      name: session_duration
+      label: Session Duration
+      hint: Expected length of the session
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
+      required: true
+    - id: 8
+      name: coaching_goals
+      label: Primary Coaching Goals
+      hint: What does the client want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: focus_areas
+      label: Focus Areas for This Session
+      hint: Select areas to prioritize
+      type: select_multiple
+      options:
+      - Goal Setting
+      - Time Management
+      - Work-Life Balance
+      - Career Development
+      - Confidence Building
+      - Stress Management
+      - Communication Skills
+      - Leadership Skills
+      required: true
+    - id: 10
+      name: previous_session_notes
+      label: Previous Session Notes Review
+      hint: Key points from last session to reference
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_preparation
+      label: Client Preparation Notes
+      hint: What should the client prepare before the session
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resources_needed
+      label: Resources or Materials Needed
+      hint: Any tools, documents, or resources required
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_location
+      label: Session Location
+      hint: Physical address or video link
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Any accessibility needs or special considerations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_needed
+      label: Follow-up Session Needed
+      hint: Schedule a follow-up after this session
+      type: select_one
+      options:
+      - true
+      - false
+      - To Be Determined
+      required: true

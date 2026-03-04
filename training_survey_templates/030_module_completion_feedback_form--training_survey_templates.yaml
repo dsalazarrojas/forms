@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Module Completion Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Learner Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: module_completion_rating
+      label: How would you rate this module?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: completion_status
+      label: Have you completed the module?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: time_spent
+      label: How much time did you spend on this module?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: difficulty_level
+      label: How difficult was this module?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: confidence_level
+      label: How confident do you feel about the module content?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: suggestions
+      label: Do you have any suggestions for this module?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_submission
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_submission
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: module_id
+      label: Module ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: module_name
+      label: Module Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: module_version
+      label: Module Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_timestamp
+      label: Submission Timestamp
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_user
+      label: Submitted by user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: module_status
+      label: Module Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: true
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: email_sent
+      label: Email sent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: email_sent_by
+      label: Email sent by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email_sent_on
+      label: Email sent on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: email_cc
+      label: Email CC
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: email_cc_list
+      label: Email CC List
+      hint: null
+      type: text
+      options: []
+      required: false

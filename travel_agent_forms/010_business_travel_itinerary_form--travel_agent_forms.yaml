@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Itinerary Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the traveler
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your company employee number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_email
+      label: Employee Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Employee Phone
+      hint: Contact number during travel
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email for approvals
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: trip_purpose
+      label: Trip Purpose
+      hint: Select the primary purpose
+      type: select_one
+      options:
+      - Client Meeting
+      - Conference
+      - Training
+      - Site Visit
+      - Sales Call
+      - Other Business
+      required: true
+    - id: 9
+      name: trip_destination
+      label: Destination City and Country
+      hint: Where are you traveling to
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: departure_date
+      label: Departure Date
+      hint: When are you leaving
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: return_date
+      label: Return Date
+      hint: When are you returning
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: departure_city
+      label: Departure City
+      hint: Where are you leaving from
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: transportation_type
+      label: Primary Transportation Type
+      hint: Select main mode of transport
+      type: select_one
+      options:
+      - Air
+      - Car Rental
+      - Train
+      - Bus
+      - Combination
+      required: true
+    - id: 14
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Will you need hotel accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      - Already Booked
+      required: true
+    - id: 15
+      name: hotel_details
+      label: Hotel Details if Applicable
+      hint: Name and confirmation number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: estimated_budget
+      label: Estimated Travel Budget
+      hint: Total expected costs
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: travelers_count
+      label: Number of Travelers
+      hint: How many people are traveling
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: Any special needs or considerations
+      type: text
+      options: []
+      required: false

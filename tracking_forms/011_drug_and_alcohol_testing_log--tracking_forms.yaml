@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drug And Alcohol Testing Log
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_tested
+      label: Date Tested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: testing_type
+      label: Testing Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: shift_id
+      label: Shift ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: test_date_time
+      label: Test Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: result_explanation
+      label: Result Explanation
+      hint: null
+      type: text
+      options: []
+      required: false

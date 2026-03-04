@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibit Team Apparel Request Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shirt_size
+      label: shirt_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 3
+      name: shirt_color
+      label: shirt_color
+      hint: null
+      type: select_multiple
+      options:
+      - blue
+      - red
+      - green
+      required: false
+    - id: 4
+      name: shirt_quantity
+      label: shirt_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pants_size
+      label: pants_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 6
+      name: pants_color
+      label: pants_color
+      hint: null
+      type: select_multiple
+      options:
+      - blue
+      - red
+      - green
+      required: false
+    - id: 7
+      name: pants_quantity
+      label: pants_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: jacket_size
+      label: jacket_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 9
+      name: jacket_color
+      label: jacket_color
+      hint: null
+      type: select_multiple
+      options:
+      - blue
+      - red
+      - green
+      required: false
+    - id: 10
+      name: jacket_quantity
+      label: jacket_quantity
+      hint: null
+      type: number
+      options: []
+      required: false

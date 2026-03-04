@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pomodoro Timer Workflow Tracker
+    pages:
+    - id: 1
+      name: session_start_time
+      label: Session start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: session_duration
+      label: Session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_done_today
+      label: Work done today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: focused_time_spent
+      label: Focused time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: break_time_spent
+      label: Break time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_time_spent
+      label: Total time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_frequency
+      label: Session frequency
+      hint: null
+      type: select_one
+      options:
+      - Pomodoro
+      - Short session
+      - Long session
+      required: false
+    - id: 8
+      name: session_goal
+      label: Session goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submissions
+      label: Form submissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

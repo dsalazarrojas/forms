@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rail Ticket Booking Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: departure_station
+      label: Departure Station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_station
+      label: Arrival Station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - First Class
+      - Second Class
+      - Third Class
+      required: false
+    - id: 5
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: passenger_email
+      label: Passenger Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: passenger_phone
+      label: Passenger Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Booked
+      - Cancelled
+      required: false
+    - id: 11
+      name: passenger_note
+      label: Passenger Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Training And Flight Testing Safety Form
+    pages:
+    - id: 1
+      name: section_flight_meta
+      label: -- Flight and Pilot Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flight_date
+      label: Date of Flight
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: Tail number (e.g. N12345)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pilot_name
+      label: Pilot Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor or Examiner Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_operation_details
+      label: -- Operation Details --
+      hint: Information about the flight profile
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: operation_type
+      label: Type of Operation
+      hint: Select the primary purpose
+      type: select_one
+      options:
+      - Dual Training Flight
+      - Solo Training Flight
+      - Proficiency Check/Check Ride
+      - Maintenance Test Flight (Functional)
+      - Experimental/Developmental Testing
+      required: true
+    - id: 8
+      name: block_times
+      label: Total Flight Time
+      hint: In decimal hours (e.g. 1.2)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: preflight_status
+      label: Pre-flight Inspection Completed?
+      hint: As per AFM/POH
+      type: select_one
+      options:
+      - Yes, Thoroughly completed
+      - No, Limited inspection
+      - No, Deferred
+      required: true
+    - id: 10
+      name: safety_briefing
+      label: Safety and Crew Briefing Completed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Fully briefed
+      - No, Partial briefing
+      - Not applicable
+      required: true
+    - id: 11
+      name: souls_on_board
+      label: Number of People on Board
+      hint: Total count (Pilots, Crew, Pax)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fuel_status_start
+      label: Starting Fuel on Board
+      hint: In Gallons or Lbs
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: maneuvers_performed
+      label: Maneuvers Performed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stalls (Power On/Off)
+      - Steep Turns
+      - Slow Flight
+      - Emergency Descents/Procedures
+      - Unusual Attitude Recovery
+      - Take-offs and Landings
+      required: false
+    - id: 14
+      name: section_safety_outcomes
+      label: -- Safety and Maintenance Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: safety_incidents
+      label: Safety Incidents or Concerns
+      hint: Describe any anomalies or scares during flight
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: aircraft_status_end
+      label: Final Aircraft Status
+      hint: After flight completion
+      type: select_one
+      options:
+      - Airworthy - No Squawks
+      - Airworthy - Minor Squawks Noted
+      - Not Airworthy - Maintenance Required
+      - Grounded - Urgent Issue
+      required: true
+    - id: 17
+      name: pilot_digital_signature
+      label: Pilot Digital Signature
+      hint: Type your full name to certify the flight record
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Story Template
+    pages:
+    - id: 1
+      name: story_title
+      label: story_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story_description
+      label: story_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: story_points
+      label: story_points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: story_tags
+      label: story_tags
+      hint: null
+      type: select_one
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false
+    - id: 5
+      name: story_priority
+      label: story_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: story_priority_value
+      label: story_priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 8
+      name: story_start_date
+      label: story_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: story_start_time
+      label: story_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: story_duration
+      label: story_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: story_status
+      label: story_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 12
+      name: story_status_value
+      label: story_status_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: story_comments
+      label: story_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: story_export
+      label: story_export
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: story_export_filename
+      label: story_export_filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: story_export_filetype
+      label: story_export_filetype
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: false

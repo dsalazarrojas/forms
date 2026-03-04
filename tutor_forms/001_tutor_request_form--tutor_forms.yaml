@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tutor_subjects
+      label: Tutor Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - Mathematics
+      - Biology
+      - Physics
+      - English
+      - Computer Science
+      - History
+      - Chemistry
+      - Physics
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter student email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

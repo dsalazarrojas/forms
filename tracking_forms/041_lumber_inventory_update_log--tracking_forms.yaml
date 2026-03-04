@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lumber Inventory Update Log
+    pages:
+    - id: 1
+      name: main_form
+      label: Lumber Inventory Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: yard_update
+      label: Yard Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: warehouse_update
+      label: Warehouse Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inventory_update
+      label: Inventory Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stock_balance
+      label: Stock Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: yard_update_type
+      label: Update Type
+      hint: null
+      type: select_one
+      options:
+      - New Stock Arrival
+      - Stock Removal
+      - Adjustment
+      required: false
+    - id: 9
+      name: warehouse_update
+      label: Warehouse
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse A
+      - Warehouse B
+      - Warehouse C
+      required: true
+    - id: 10
+      name: lumber_type
+      label: Lumber Type
+      hint: null
+      type: select_one
+      options:
+      - Softwoods
+      - Hardwoods
+      - Plywood
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Operations Manager
+      - Production Supervisor
+      - Inventory Clerk
+      required: false
+    - id: 19
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to_phone
+      label: Assigned To Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_at_phone
+      label: Submitted At Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_at_date
+      label: Submitted At Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: shift_realignment_time_off_request_form
+    pages:
+    - id: 1
+      name: time_off_request
+      label: Time Off Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shift_start_date
+      label: Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_date
+      label: Shift End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shift_realignment_request
+      label: Shift Realignment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shift_overlap
+      label: Shift Overlap
+      hint: null
+      type: number
+      options: []
+      required: false

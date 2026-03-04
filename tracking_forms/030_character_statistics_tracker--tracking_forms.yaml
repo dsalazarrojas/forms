@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Statistics Tracker
+    pages:
+    - id: 1
+      name: header
+      label: -- Character Statistics Tracker --
+      hint: Record and monitor ongoing character statistics for campaigns
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_name
+      label: character name
+      hint: name of the character being tracked
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_number
+      label: session number
+      hint: index or date of session
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: experience_gained
+      label: experience gained
+      hint: xp gained in this session
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: health_current
+      label: health current
+      hint: current health points
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resources_collected
+      label: resources collected
+      hint: loot or currency collected
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: milestones
+      label: milestones
+      hint: achieved milestones or level ups
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status_effects
+      label: status effects
+      hint: temporary conditions impacting character
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: additional notes about the session
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recorded_by
+      label: recorded by
+      hint: name of person recording statistics
+      type: text
+      options: []
+      required: false

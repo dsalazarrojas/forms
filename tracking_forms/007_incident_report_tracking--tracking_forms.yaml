@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: incident_report_tracking_form
+      label: incident report tracking form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_report
+      label: incident report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''active''}'
+      - '{''id'': 2, ''label'': ''inactive''}'
+      - '{''id'': 3, ''label'': ''resolved''}'
+      required: false
+    - id: 8
+      name: incident_type
+      label: incident type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reported_by
+      label: incident reported by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reported_to
+      label: incident reported to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_category
+      label: incident category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_subcategory
+      label: incident subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_severity
+      label: incident severity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_priority
+      label: incident priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reported_by_user
+      label: incident reported by user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reported_by_email
+      label: incident reported by email
+      hint: null
+      type: email
+      options: []
+      required: false

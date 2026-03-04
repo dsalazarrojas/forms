@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Portion Tracker Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_page_header
+      label: Which of the following items did you eat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: breakfast_item
+      label: Breakfast Item
+      hint: null
+      type: select_one
+      options:
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      required: false
+    - id: 4
+      name: breakfast_servings
+      label: How many servings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: first_page_separator
+      label: _______________________________________
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lunch_item
+      label: Lunch Item
+      hint: null
+      type: select_one
+      options:
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      required: false
+    - id: 7
+      name: lunch_servings
+      label: How many servings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: first_page_separator
+      label: _______________________________________
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dinner_item
+      label: Dinner Item
+      hint: null
+      type: select_one
+      options:
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      required: false
+    - id: 10
+      name: dinner_servings
+      label: How many servings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: first_page_separator
+      label: _______________________________________
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: snacks
+      label: Snacks
+      hint: null
+      type: select_multiple
+      options:
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      - Apples
+      - Carrots
+      - Oranges
+      - Bananas
+      required: false
+    - id: 13
+      name: snacks_servings
+      label: How many servings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: first_page_footer
+      label: Please let us know if you have any questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_page_footer
+      label: _______________________________________
+      hint: null
+      type: text
+      options: []
+      required: false

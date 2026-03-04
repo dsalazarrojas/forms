@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Tracking Equipment Service Request
+    pages:
+    - id: 1
+      name: equipment_issue_reported
+      label: Equipment Issue Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upload_evidence
+      label: Upload Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_priority
+      label: Maintenance Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: tracking_device_status
+      label: Tracking Device Status
+      hint: null
+      type: select_multiple
+      options:
+      - Functional
+      - Maintenance Required
+      - Lost/Destroyed
+      required: false
+    - id: 6
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conservation_team
+      label: Conservation Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

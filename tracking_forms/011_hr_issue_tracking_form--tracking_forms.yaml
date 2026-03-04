@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Issue Tracking Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - Issue
+      - Concern
+      - Complaint
+      - Other
+      required: true
+    - id: 3
+      name: division
+      label: Division
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Finance
+      - HR
+      - Management
+      - Operations
+      - Sales
+      required: true
+    - id: 4
+      name: problem_type
+      label: Problem Type
+      hint: null
+      type: select_multiple
+      options:
+      - Recruiting
+      - Hiring
+      - Training
+      - Benefits
+      - Payroll
+      - Other
+      required: true
+    - id: 5
+      name: employee
+      label: Employee
+      hint: null
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      - Employee 4
+      - Employee 5
+      - Employee 6
+      - Employee 7
+      - Employee 8
+      - Employee 9
+      - Employee 10
+      - Employee 11
+      - Employee 12
+      - Employee 13
+      - Employee 14
+      - Employee 15
+      - Employee 16
+      - Employee 17
+      - Employee 18
+      - Employee 19
+      - Employee 20
+      - Employee 21
+      - Employee 22
+      - Employee 23
+      - Employee 24
+      - Employee 25
+      required: true
+    - id: 6
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: investigation_department
+      label: Investigation Department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Management
+      - Operations
+      - Sales
+      required: true
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Resolved
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Recruiting
+      - Hiring
+      - Training
+      - Benefits
+      - Payroll
+      required: false
+    - id: 15
+      name: subcategory
+      label: Sub Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      - Employee 4
+      - Employee 5
+      - Employee 6
+      - Employee 7
+      - Employee 8
+      - Employee 9
+      - Employee 10
+      - Employee 11
+      - Employee 12
+      - Employee 13
+      - Employee 14
+      - Employee 15
+      required: true
+    - id: 19
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Resolved
+      required: false
+    - id: 20
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 25
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Margin Monitoring Log
+    pages:
+    - id: 1
+      name: margin_check_date
+      label: Margin Check Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: margin_check_id
+      label: Margin Check ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: account_code
+      label: Account Code
+      hint: null
+      type: select_one
+      options:
+      - Account 1
+      - Account 2
+      - Account 3
+      required: true
+    - id: 4
+      name: margin_check_amount
+      label: Margin Check Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flag
+      label: Flag
+      hint: null
+      type: select_multiple
+      options:
+      - Flag 1
+      - Flag 2
+      required: true
+    - id: 7
+      name: flag_reason
+      label: Flag Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: margin_check_status
+      label: Margin Check Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 9
+      name: margin_check_comments
+      label: Margin Check Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: margin_check_user_id
+      label: Margin Check User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: margin_check_user_name
+      label: Margin Check User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: margin_check_date_time
+      label: Margin Check Date Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: margin_check_time_zone
+      label: Margin Check Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: margin_check_time_zone_id
+      label: Margin Check Time Zone ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: margin_check_time_zone_name
+      label: Margin Check Time Zone Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: margin_check_status_comments
+      label: Margin Check Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: margin_check_status_id
+      label: Margin Check Status ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: margin_check_status_name
+      label: Margin Check Status Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: margin_check_status_time
+      label: Margin Check Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: margin_check_status_time_zone
+      label: Margin Check Status Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: margin_check_status_comment
+      label: Margin Check Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: margin_check_status_id_comment
+      label: Margin Check Status ID Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: margin_check_flagged_by
+      label: Margin Check Flagged By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: margin_check_flagged_by
+      label: Margin Check Flagged By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: margin_check_flagged_time
+      label: Margin Check Flagged Time
+      hint: null
+      type: time
+      options: []
+      required: false

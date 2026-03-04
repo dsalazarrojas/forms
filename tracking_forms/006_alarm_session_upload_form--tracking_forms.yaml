@@ -1,0 +1,185 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Alarm Session Upload Form
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: Unique identifier for this alarm session
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alarm_system_id
+      label: Alarm System ID
+      hint: ID of the alarm system that triggered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_name
+      label: Location Name
+      hint: Name of the protected location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location_address
+      label: Location Address
+      hint: Full address of the alarm location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: alarm_date
+      label: Alarm Date
+      hint: Date when alarm was triggered
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: alarm_time
+      label: Alarm Time
+      hint: Time when alarm was triggered
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: alarm_type
+      label: Alarm Type
+      hint: Type of alarm triggered
+      type: select_one
+      options:
+      - Intrusion/Break-in
+      - Fire/Smoke
+      - Carbon Monoxide
+      - Panic/Duress
+      - Glass Break
+      - Motion Detected
+      - Door/Window Open
+      - System Tamper
+      - Low Battery
+      - Communication Loss
+      required: true
+    - id: 8
+      name: alarm_zone
+      label: Alarm Zone
+      hint: Zone or sensor that triggered
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: alarm_priority
+      label: Alarm Priority
+      hint: Severity level of the alarm
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - Informational
+      required: true
+    - id: 10
+      name: alarm_status
+      label: Alarm Status
+      hint: Current status of this alarm
+      type: select_one
+      options:
+      - New
+      - Acknowledged
+      - In Progress
+      - Resolved
+      - False Alarm
+      required: true
+    - id: 11
+      name: triggered_by
+      label: Triggered By
+      hint: What or who triggered the alarm
+      type: select_one
+      options:
+      - Sensor
+      - Manual Panic
+      - System Test
+      - Unknown
+      required: false
+    - id: 12
+      name: response_team_notified
+      label: Response Team Notified
+      hint: Was the response team contacted?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Pending
+      required: true
+    - id: 13
+      name: response_time
+      label: Response Time
+      hint: Time when response team arrived
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: incident_description
+      label: Incident Description
+      hint: Detailed description of the alarm event
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: actions_taken
+      label: Actions Taken
+      hint: What actions were taken in response
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evidence_files
+      label: Evidence Files
+      hint: Upload any supporting documents or images
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: video_footage_available
+      label: Video Footage Available
+      hint: Is there video evidence?
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 18
+      name: uploaded_by
+      label: Uploaded By
+      hint: Name of person uploading this session
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: upload_date
+      label: Upload Date
+      hint: Date of this upload
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

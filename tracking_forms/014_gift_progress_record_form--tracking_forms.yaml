@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Progress Record Form
+    pages:
+    - id: 1
+      name: non_profit_organization
+      label: Non Profit Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_type
+      label: Gift Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gift_amount
+      label: Gift Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gift_value
+      label: Gift Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: non_profit_organization_id
+      label: Non Profit Organization ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_status
+      label: Gift Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: tracking_method
+      label: Tracking Method
+      hint: null
+      type: select_multiple
+      options:
+      - Mail
+      - Phone
+      - Email
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

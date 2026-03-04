@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Informationistency Form
+    pages:
+    - id: 1
+      name: travel_information_form
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_locations
+      label: travel_locations
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 6
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Corporate Business
+      - Event
+      - Meeting
+      required: false
+    - id: 7
+      name: travel_purpose
+      label: travel_pistency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false

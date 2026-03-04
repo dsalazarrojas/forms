@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warranty Claim Form
+    pages:
+    - id: 1
+      name: warranty_claim_form
+      label: Warranty Claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: Product Description
+      hint: Please describe the problem you are experiencing with your product.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: proof_of_purchace
+      label: Proof of Purchase
+      hint: A receipt, invoice, or other proof of purchase document
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_details
+      label: Claim Details
+      hint: Please provide as much detail as possible about the issue you are experiencing.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Closed
+      required: false
+    - id: 10
+      name: warranty_claim
+      label: Warranty Claim
+      hint: null
+      type: select_multiple
+      options:
+      - Claim for a new product
+      - Claim for a repaired product
+      - Claim for a replacement product
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment_image
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      - User3
+      required: false
+    - id: 18
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false

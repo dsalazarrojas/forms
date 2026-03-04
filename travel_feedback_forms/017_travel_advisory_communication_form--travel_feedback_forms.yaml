@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Advisory Communication Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: travel_advisory
+      label: travel_advisory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_protocol
+      label: travel_protocol
+      hint: null
+      type: select_one
+      options:
+      - Travel Advisories
+      - Travel Protocols
+      required: true
+    - id: 5
+      name: safety_info
+      label: safety_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_updates
+      label: travel_updates
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_updates_date
+      label: travel_updates_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

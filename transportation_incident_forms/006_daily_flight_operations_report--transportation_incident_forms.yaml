@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Flight Operations Report
+    pages:
+    - id: 1
+      name: flight_operations
+      label: Flight Operations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_id
+      label: Flight ID
+      hint: Enter your Flight ID
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Flight 1''}'
+      - '{''id'': 2, ''label'': ''Flight 2''}'
+      required: false
+    - id: 3
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_operation
+      label: Date of Operation
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_departure
+      label: Time of Departure
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: actual_time_of_departure
+      label: Actual Time of Departure
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: actual_time_of_arrival
+      label: Actual Time of Arrival
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: flight_duration
+      label: Flight Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Scheduled''}'
+      - '{''id'': 2, ''label'': ''Delayed''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - '{''id'': 4, ''label'': ''Diverted''}'
+      required: false
+    - id: 11
+      name: reason_for_delay
+      label: Reason for Delay
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Weather''}'
+      - '{''id'': 2, ''label'': ''Air Traffic''}'
+      - '{''id'': 3, ''label'': ''Aircraft''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false

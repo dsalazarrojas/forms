@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Networking Workshops Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_questions
+      label: workshop_questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 4
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

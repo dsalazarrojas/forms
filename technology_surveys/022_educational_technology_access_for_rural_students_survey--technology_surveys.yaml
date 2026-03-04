@@ -1,0 +1,282 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Educational Technology Access For Rural Students Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Educational Technology Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technology_access
+      label: What technology do you have access to at home?
+      hint: null
+      type: select_one
+      options:
+      - Home Computer
+      - Tablet
+      - Smartphone
+      - Internet
+      - None
+      required: true
+    - id: 3
+      name: internet_access
+      label: Access to internet at home
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Don't know
+      required: true
+    - id: 4
+      name: educational_equipment
+      label: Do you have access to any educational technology?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: school_technology
+      label: What type of technology do you have access to at school?
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Tablet
+      - Desktop computer
+      - Mobile device
+      required: true
+    - id: 6
+      name: internet_speed
+      label: How fast is your internet connection at home?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 Mbps
+      - 1-5 Mbps
+      - 5-10 Mbps
+      - 10-20 Mbps
+      - 20-50 Mbps
+      - Faster than 50 Mbps
+      required: true
+    - id: 7
+      name: device_age
+      label: How old is your main computer or laptop?
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-15 years
+      - 15-20 years
+      - Older than 20 years
+      required: true
+    - id: 8
+      name: school_equipment
+      label: What technology equipment is available at school?
+      hint: null
+      type: select_multiple
+      options:
+      - Computers
+      - Tablets or laptops
+      - Smartphones or mobile devices
+      - Printers
+      - Other
+      - None
+      required: true
+    - id: 9
+      name: teacher_support
+      label: How would you rate the support from your teachers?
+      hint: null
+      type: select_one
+      options:
+      - Very supportive
+      - Somewhat supportive
+      - Neutral
+      - Somewhat unhelpful
+      - Very unhelpful
+      required: true
+    - id: 10
+      name: family_support
+      label: How would you rate the support from your family?
+      hint: null
+      type: select_one
+      options:
+      - Very supportive
+      - Somewhat supportive
+      - Neutral
+      - Somewhat unhelpful
+      - Very unhelpful
+      required: true
+    - id: 11
+      name: school_environment
+      label: How would you rate your school's support for technology use?
+      hint: null
+      type: select_one
+      options:
+      - Very supportive
+      - Somewhat supportive
+      - Neutral
+      - Somewhat unhelpful
+      - Very unhelpful
+      required: true
+    - id: 12
+      name: parental_support
+      label: How would you rate the support from your parents?
+      hint: null
+      type: select_one
+      options:
+      - Very supportive
+      - Somewhat supportive
+      - Neutral
+      - Somewhat unhelpful
+      - Very unhelpful
+      required: true
+    - id: 13
+      name: school_network
+      label: How would you rate your school's internet network?
+      hint: null
+      type: select_one
+      options:
+      - Very fast
+      - Somewhat fast
+      - Neutral
+      - Somewhat slow
+      - Very slow
+      required: true
+    - id: 14
+      name: student_device
+      label: Is your school providing a device for you to use in class?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: internet_device
+      label: Do you have a device that belongs to you to use during class?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: school_device
+      label: Is the device provided to you free?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: student_device_age
+      label: How long is your device provided?
+      hint: null
+      type: select_one
+      options:
+      - All year long
+      - Half year
+      - Quarter year
+      - Not provided
+      required: true
+    - id: 18
+      name: device_type
+      label: What type of device do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Tablet
+      - Laptop
+      - Desktop computer
+      required: true
+    - id: 19
+      name: student_device_cost
+      label: Who pays for your device?
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Parent
+      - Other
+      - Self
+      required: true
+    - id: 20
+      name: student_device_status
+      label: What condition is your device in?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: student_device_problems
+      label: What problems do you face with your device?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: teacher_device
+      label: Does your school provide a device for your teacher?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: teacher_device_age
+      label: How long do you think your school provides devices for teachers?
+      hint: null
+      type: select_one
+      options:
+      - All year long
+      - Half year
+      - Quarter year
+      - Not provided
+      required: true
+    - id: 24
+      name: teacher_device_type
+      label: What type of device do your teachers use?
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Desktop computer
+      - Mobile device
+      required: true
+    - id: 25
+      name: teacher_device_cost
+      label: Who pays for your teachers' devices?
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Self
+      - Parent
+      - Other
+      required: true

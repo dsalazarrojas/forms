@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Security Shift Checklist
+    pages:
+    - id: 1
+      name: shift_details
+      label: Shift Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: security_personnel
+      label: Security Personnel
+      hint: List all personnel on shift, including their names and job titles
+      type: select_multiple
+      options:
+      - '{''value'': ''John Doe, Security Officer''}'
+      - '{''value'': ''Jane Doe, Security Officer''}'
+      - '{''value'': ''Jim Smith, Security Officer''}'
+      required: false
+    - id: 3
+      name: shift_changeovers
+      label: Shift Changeovers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: security_incident
+      label: Security Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: security_shift_notes
+      label: Security Shift Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift_status
+      label: Shift Status
+      hint: Open, In Progress, Completed
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      required: false

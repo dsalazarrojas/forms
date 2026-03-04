@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: moving_expense_details_form_template
+    pages:
+    - id: 1
+      name: moving_expense_details
+      label: moving_expense_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rent
+      label: rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: utilities
+      label: utilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: other_expenses
+      label: other_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: move_in_expenses
+      label: move_in_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: move_out_expenses
+      label: move_out_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: utilities_included
+      label: utilities_included
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: rent_included
+      label: rent_included
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

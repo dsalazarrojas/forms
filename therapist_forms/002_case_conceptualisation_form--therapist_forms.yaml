@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Conceptualisation Form
+    pages:
+      - id: 1
+        name: section_personal_information
+        label: -- Personal information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of birth
+        hint: Use yyyy-mm-dd format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: presenting_problems
+        label: Presenting problems
+        hint: Describe current concerns and symptoms
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: history_and_context
+        label: History and contextual factors
+        hint: Relevant medical, social, and family history
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: current_functioning
+        label: Current functioning and strengths
+        hint: Daily functioning, occupation, supports
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: risk_assessment
+        label: Risk assessment
+        hint: Suicidal ideas, harm to others, safety concerns
+        type: select_one
+        options:
+          - Low
+          - Moderate
+          - High
+        required: true
+      - id: 8
+        name: formulation_summary
+        label: Formulation summary
+        hint: Brief biopsychosocial conceptualisation
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: goals_of_treatment
+        label: Goals of treatment
+        hint: Short and long term goals
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: recommended_interventions
+        label: Recommended interventions
+        hint: Therapy approaches and referral recommendations
+        type: select_multiple
+        options:
+          - Cognitive behavioural therapy
+          - Psychodynamic therapy
+          - Family therapy
+          - Medication review
+          - Referral to specialist
+        required: false

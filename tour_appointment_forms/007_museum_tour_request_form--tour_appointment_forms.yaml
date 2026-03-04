@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Tour Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_date
+      label: tour_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tour_time
+      label: tour_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tour_request_details
+      label: tour_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tour_requester
+      label: tour_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tour_requester_relationship
+      label: tour_requester_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Teacher''}'
+      - '{''label'': ''Student''}'
+      required: false
+    - id: 10
+      name: tour_requester_contact
+      label: tour_requester_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tour_booking_request
+      label: tour_booking_request
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Request a booking''}'
+      - '{''label'': ''Confirm a booking''}'
+      required: false
+    - id: 12
+      name: tour_booking_confirmation
+      label: tour_booking_confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirmed''}'
+      - '{''label'': ''Not Confirmed''}'
+      required: false
+    - id: 13
+      name: tour_cancel_reason
+      label: tour_cancel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

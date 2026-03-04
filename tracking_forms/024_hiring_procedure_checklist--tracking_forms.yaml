@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hiring Procedure Checklist
+    pages:
+    - id: 1
+      name: job_posting
+      label: Job Posting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_sourcing
+      label: Candidate Sourcing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: interview_schedule
+      label: Interview Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: offer_creation
+      label: Offer Creation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_hire_onboarding
+      label: New Hire Onboarding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

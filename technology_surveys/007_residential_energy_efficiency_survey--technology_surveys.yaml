@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Energy Efficiency Survey
+    pages:
+    - id: 1
+      name: household_energy_use
+      label: Household Energy Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: energy_sources
+      label: Energy Sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: energy_upgrade
+      label: Energy Upgrades
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: efficiency_improvement
+      label: Efficiency Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_energy_usage
+      label: Home Energy Usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: survey_completed
+      label: Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: auditor_notes
+      label: Auditor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: housing_program
+      label: Housing Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: upgrade_costs
+      label: Upgrade Costs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: energy_use_data
+      label: Energy Use Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: energy_upgrade_status
+      label: Energy Upgrade Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: energy_upgrade_date
+      label: Energy Upgrade Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: energy_use_frequency
+      label: Energy Use Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: energy_savings
+      label: Energy Savings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: energy_efficiency_measures
+      label: Energy Efficiency Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: energy_use_data_source
+      label: Energy Use Data Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: energy_upgrade_type
+      label: Energy Upgrade Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: total_energy_cost
+      label: Total Energy Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: energy_savings_cost
+      label: Energy Savings Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: efficiency_improvement_notes
+      label: Efficiency Improvements Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: auditor_notes_text_area
+      label: Auditor Notes Text Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: energy_use_frequency_text
+      label: Energy Use Frequency Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: auditor_comments
+      label: Auditor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

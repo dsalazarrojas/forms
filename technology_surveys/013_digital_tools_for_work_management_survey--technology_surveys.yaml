@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Tools For Work Management Survey
+    pages:
+    - id: 1
+      name: digital_tools_for_work_management_survey
+      label: digital_tools_for_work_management_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Technology Surveys
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

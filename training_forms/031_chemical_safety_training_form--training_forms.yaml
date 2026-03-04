@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Safety Training Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of trainee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: Date of training completion
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_type
+      label: Training Type
+      hint: Type of safety training
+      type: select_one
+      options:
+      - Initial chemical safety training
+      - Annual refresher
+      - Hazardous waste handling
+      - Emergency response
+      - PPE usage
+      - Spill response
+      - Other
+      required: true
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: Name of the trainer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: trainer_qualifications
+      label: Trainer Qualifications
+      hint: Trainer credentials
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_duration
+      label: Training Duration
+      hint: How long was the training
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - Full day
+      - Multiple days
+      required: true
+    - id: 11
+      name: training_format
+      label: Training Format
+      hint: How was training delivered
+      type: select_one
+      options:
+      - In-person classroom
+      - Online course
+      - Hands-on practical
+      - Video presentation
+      - Combination
+      required: true
+    - id: 12
+      name: topics_covered
+      label: Topics Covered
+      hint: Select all topics covered
+      type: select_multiple
+      options:
+      - Chemical hazard identification
+      - Safety Data Sheets (SDS)
+      - Personal Protective Equipment (PPE)
+      - Safe handling procedures
+      - Storage requirements
+      - Emergency procedures
+      - Spill response
+      - Waste disposal
+      - First aid measures
+      - Regulatory compliance
+      required: true
+    - id: 13
+      name: chemicals_covered
+      label: Specific Chemicals Covered
+      hint: List any specific chemicals discussed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: written_test_required
+      label: Was Written Test Required
+      hint: Did training include a test
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: test_score
+      label: Test Score
+      hint: Score achieved if applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: passing_score
+      label: Passing Score
+      hint: Required passing score
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: practical_demonstration
+      label: Practical Demonstration Required
+      hint: Was hands-on demonstration required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: demonstration_passed
+      label: Demonstration Passed
+      hint: Did trainee pass practical demonstration
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 19
+      name: ppe_fitting
+      label: PPE Fitting Completed
+      hint: Was proper PPE fitting verified
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 20
+      name: training_materials_provided
+      label: Were Training Materials Provided
+      hint: Did you receive training materials
+      type: select_one
+      options:
+      - Yes, comprehensive materials
+      - Yes, basic materials
+      - No materials provided
+      required: true
+    - id: 21
+      name: trainee_understanding
+      label: Trainee Understanding
+      hint: How well does trainee understand the material
+      type: select_one
+      options:
+      - Excellent understanding
+      - Good understanding
+      - Adequate understanding
+      - Needs review
+      - Poor understanding
+      required: true
+    - id: 22
+      name: additional_training_needed
+      label: Is Additional Training Needed
+      hint: Does trainee need more training
+      type: select_one
+      options:
+      - No, fully trained
+      - Yes, minor topics
+      - Yes, significant topics
+      - Yes, complete retraining
+      required: true
+    - id: 23
+      name: additional_training_details
+      label: Additional Training Details
+      hint: Specify what additional training is needed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certification_issued
+      label: Was Certification Issued
+      hint: Did trainee receive certification
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: certification_expiry
+      label: Certification Expiry Date
+      hint: When does certification expire
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: trainee_signature
+      label: Trainee Signature
+      hint: I confirm I completed this training
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 27
+      name: trainer_signature
+      label: Trainer Signature
+      hint: I confirm this trainee completed training
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 28
+      name: training_record_date
+      label: Record Date
+      hint: Date this record was created
+      type: date
+      options: []
+      required: true

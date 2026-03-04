@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Resource Request Form
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resource_requesting_unit
+      label: Resource Requesting Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

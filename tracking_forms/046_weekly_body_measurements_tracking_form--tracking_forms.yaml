@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_body_measurements_tracking_form
+    pages:
+    - id: 1
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: measurements
+      label: Measurements
+      hint: null
+      type: select_multiple
+      options:
+      - Chest
+      - Waist
+      - Hip
+      - Neck
+      - Shoulder
+      - Hip
+      - Chest
+      - Waist
+      - Hip
+      - Hip
+      required: false
+    - id: 3
+      name: measurement_values
+      label: Measurement Values
+      hint: Enter measurement values
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false

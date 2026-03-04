@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Timesheet Template
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Information
+      hint: Enter employee details
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_info_2
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Marketing Manager
+      - Sales Manager
+      - HR Generalist
+      - Intern
+      - Data Analyst
+      - Software Developer
+      - Quality Analyst
+      - Customer Support
+      - Finance Manager
+      required: false
+    - id: 4
+      name: hours_worked
+      label: Hours Worked
+      hint: Enter hours worked for the week
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: break_hours
+      label: Break Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: work_date
+      label: Work Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Enter any comments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_number
+      label: Manager Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Development
+      - Marketing
+      - Accounting
+      - IT
+      - Customer Support
+      - Finance
+      required: false
+    - id: 17
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Marketing Manager
+      - Sales Manager
+      - Finance Manager
+      - IT Manager
+      - HR Manager
+      - Operations Manager
+      - Quality Manager
+      - Customer Support Manager
+      required: false
+    - id: 18
+      name: review_date
+      label: Review Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      - Pending
+      required: false
+    - id: 21
+      name: notes2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: comments2
+      label: Comments
+      hint: Add any comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_comments
+      label: Review Comments
+      hint: Add any comments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      - On Vacation
+      required: false

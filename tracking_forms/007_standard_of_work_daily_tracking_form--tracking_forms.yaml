@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Of Work Daily Tracking Form
+    pages:
+    - id: 1
+      name: daily_tracking_form
+      label: Daily Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tracking_operations
+      label: Tracking Operations
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''selected'': True}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: progress_updates
+      label: Progress Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: daily_tasks
+      label: Daily Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Task 1''}'
+      - '{''id'': 2, ''label'': ''Task 2''}'
+      - '{''id'': 3, ''label'': ''Task 3''}'
+      - '{''id'': 4, ''label'': ''Task 4''}'
+      required: false
+    - id: 5
+      name: productivity_measurements
+      label: Productivity Measurements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: daily_notes
+      label: Daily Notes
+      hint: null
+      type: note
+      options: []
+      required: false

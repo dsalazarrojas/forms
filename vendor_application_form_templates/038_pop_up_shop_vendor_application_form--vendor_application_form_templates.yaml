@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: pop_up_shop_vendor_application_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_size
+      label: Order Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_start_date
+      label: Start Date
+      hint: Select start date of your order
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_end_date
+      label: End Date
+      hint: Select end date of your order
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: other_details
+      label: Other Details
+      hint: Please provide any other relevant details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vendor_license_number
+      label: Vendor License Number
+      hint: Enter your vendor license number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_license_exp_date
+      label: License Expiration Date
+      hint: Select license expiration date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vendor_license_type
+      label: Vendor License Type
+      hint: Select your vendor license type
+      type: select_one
+      options:
+      - License
+      - Other
+      required: false
+    - id: 12
+      name: vendor_license_status
+      label: Vendor License Status
+      hint: Select your current license status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

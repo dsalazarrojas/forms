@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camera Demo Request Survey
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company or Organization
+      hint: Name of your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your role or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Media and Entertainment
+      - Corporate Business
+      - Government
+      - Non-profit
+      - Retail
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - Over 1000 employees
+      required: true
+    - id: 8
+      name: camera_type_interest
+      label: Type of Camera Solution You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Conference room camera
+      - PTZ camera
+      - Webcam for desktop
+      - 360-degree camera
+      - Security camera
+      - Broadcast camera
+      - Action camera
+      - Other
+      required: true
+    - id: 9
+      name: primary_use_case
+      label: Primary Use Case
+      hint: What will you primarily use the camera for
+      type: select_one
+      options:
+      - Video conferencing
+      - Live streaming
+      - Recording presentations
+      - Security monitoring
+      - Content creation
+      - Surveillance
+      - Training and education
+      - Other
+      required: true
+    - id: 10
+      name: room_size
+      label: Room Size for Camera Installation
+      hint: Select the typical room size
+      type: select_one
+      options:
+      - Small huddle room (1-4 people)
+      - Medium conference room (5-10 people)
+      - Large conference room (11-20 people)
+      - Auditorium or large venue (20+ people)
+      - Multiple rooms
+      required: false
+    - id: 11
+      name: current_equipment
+      label: Do you currently have camera equipment
+      hint: Select your current status
+      type: select_one
+      options:
+      - No - first time purchase
+      - Yes - looking to upgrade
+      - Yes - need additional units
+      - Yes - replacing faulty equipment
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget per camera
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1001-$2500
+      - $2501-$5000
+      - $5001-$10000
+      - Over $10000
+      required: false
+    - id: 13
+      name: preferred_demo_date
+      label: Preferred Demo Date
+      hint: When would you like to see the demo
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_demo_time
+      label: Preferred Demo Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: demo_location
+      label: Demo Location Preference
+      hint: How would you like to receive the demo
+      type: select_one
+      options:
+      - Virtual demo via video call
+      - In-person at our office
+      - Visit your showroom
+      - Webinar or group demo
+      required: true
+    - id: 16
+      name: attendees
+      label: Number of Attendees for Demo
+      hint: How many people will attend
+      type: select_one
+      options:
+      - 1-2 people
+      - 3-5 people
+      - 6-10 people
+      - More than 10 people
+      required: false
+    - id: 17
+      name: technical_requirements
+      label: Specific Technical Requirements
+      hint: Any specific features you need
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: decision_timeline
+      label: When do you plan to make a decision
+      hint: Select your timeline
+      type: select_one
+      options:
+      - Immediate - within 2 weeks
+      - 1 month
+      - 2-3 months
+      - 4-6 months
+      - Just researching
+      required: true
+    - id: 19
+      name: decision_makers
+      label: Are you the decision maker
+      hint: Select your role
+      type: select_one
+      options:
+      - Yes - I make the final decision
+      - I am part of the decision team
+      - I am researching for my team
+      - Other
+      required: true
+    - id: 20
+      name: additional_questions
+      label: Questions or Comments
+      hint: Anything you would like to ask before the demo
+      type: text
+      options: []
+      required: false

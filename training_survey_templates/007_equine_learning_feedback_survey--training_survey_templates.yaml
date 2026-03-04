@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equine Learning Feedback Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session_details
+      label: session_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructor_info
+      label: instructor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

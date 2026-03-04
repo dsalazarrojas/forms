@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doggie Meet & Greet Info Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_birthday
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pet_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Labrador
+      - Golden
+      - Beagle
+      - Poodle
+      - Other
+      required: false
+    - id: 5
+      name: owner_first_name
+      label: Owner First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_last_name
+      label: Owner Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false

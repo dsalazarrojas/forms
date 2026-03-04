@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Acknowledgement
+    pages:
+    - id: 1
+      name: patient_consent_form
+      label: Patient Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vaccine_administered
+      label: Vaccine Administered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Pfizer
+      - Moderna
+      required: true
+    - id: 5
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vaccine_administered_by
+      label: Vaccine Administered By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_administered
+      label: Date Administered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_administered
+      label: Time Administered
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: vaccine_lot_number
+      label: Vaccine Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: medical_practice_address
+      label: Medical Practice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_practice_phone
+      label: Medical Practice Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_practice_email
+      label: Medical Practice Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vaccine_administered_by_title
+      label: Vaccine Administered By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vaccine_administered_by_first_name
+      label: Vaccine Administered By First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vaccine_administered_by_last_name
+      label: Vaccine Administered By Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vaccine_administered_by_title_position
+      label: Vaccine Administered By Title
+      hint: null
+      type: text
+      options: []
+      required: false

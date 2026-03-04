@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Request Form
+    pages:
+    - id: 1
+      name: expense_request_form_1
+      label: expense_request_form_label_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_type
+      label: expense_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Expense Type:'
+      - Other
+      required: false
+    - id: 3
+      name: expense_date
+      label: expense_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_description
+      label: expense_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: amount_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: submit_label
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 7
+      name: date
+      label: date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: expense_id
+      label: expense_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category_label
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rail Ticket Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: departure_station
+      label: Departure Station
+      hint: null
+      type: select_one
+      options:
+      - Berlin Central Station
+      - New York Station
+      - Los Angeles Station
+      required: false
+    - id: 6
+      name: arrival_station
+      label: Arrival Station
+      hint: null
+      type: select_one
+      options:
+      - Berlin Central Station
+      - New York Station
+      - Los Angeles Station
+      required: false
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: seat_class
+      label: Seat Class
+      hint: null
+      type: select_one
+      options:
+      - First Class
+      - Second Class
+      - Third Class
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketplace_seller_payment_setup
+    pages:
+    - id: 1
+      name: seller_id
+      label: seller_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: seller_name
+      label: seller_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_email
+      label: seller_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: seller_phone
+      label: seller_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payout_method
+      label: payout_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payout_frequency
+      label: payout_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: payout_amount
+      label: payout_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bank_account_details
+      label: bank_account_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_id
+      label: tax_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tax_excluded_amount
+      label: tax_excluded_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vat
+      label: vat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: payment_schedule
+      label: payment_schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false

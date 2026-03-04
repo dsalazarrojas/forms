@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Delivery Report
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: Enter the date of the delivery
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: Enter the time of the delivery
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_itemized
+      label: Material Itemized
+      hint: Select the material being delivered
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 6
+      name: delivery_status
+      label: Delivery Status
+      hint: Select the status of the delivery
+      type: select_one
+      options:
+      - Delivered
+      - Pending
+      - Cancelled
+      required: false
+    - id: 7
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

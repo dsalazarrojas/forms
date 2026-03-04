@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: muscle_car_offer_request_form
+    pages:
+    - id: 1
+      name: muscle_car_make
+      label: muscle car make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: muscle_car_model
+      label: muscle car model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: transmission
+      label: transmission
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      required: true
+    - id: 6
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Black
+      required: true
+    - id: 7
+      name: interior
+      label: interior
+      hint: null
+      type: select_one
+      options:
+      - Leather
+      - Cloth
+      required: true
+    - id: 8
+      name: exterior
+      label: exterior
+      hint: null
+      type: select_multiple
+      options:
+      - Chrome Wheels
+      - Alloys
+      required: true
+    - id: 9
+      name: drive_type
+      label: drive type
+      hint: null
+      type: select_one
+      options:
+      - 2WD
+      - 4WD
+      required: true
+    - id: 10
+      name: engine_size
+      label: engine size
+      hint: null
+      type: select_one
+      options:
+      - 4.0L
+      - 4.5L
+      required: true
+    - id: 11
+      name: drive_train_type
+      label: drive train type
+      hint: null
+      type: select_one
+      options:
+      - RWD
+      - AWD
+      required: true
+    - id: 12
+      name: drive_train_config
+      label: drive train config
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Rear
+      required: true

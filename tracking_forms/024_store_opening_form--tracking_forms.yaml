@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Opening Form
+    pages:
+    - id: 1
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_type
+      label: store_type
+      hint: null
+      type: select_one
+      options:
+      - New Store
+      - Existing Store
+      required: true
+    - id: 6
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_city
+      label: store_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: store_state
+      label: store_state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AS
+      - AZ
+      - CA
+      - CO
+      - CT
+      - DC
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - PR
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: true
+    - id: 9
+      name: store_country
+      label: store_country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Other
+      required: true
+    - id: 10
+      name: store_opening_date
+      label: store_opening_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: store_opening_time
+      label: store_opening_time
+      hint: null
+      type: time
+      options: []
+      required: false

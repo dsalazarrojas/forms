@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pilgrimage Participation Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: group
+      label: travel_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dates_attending
+      label: dates_attending
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time_attending
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Group''}'
+      - '{''label'': ''Family''}'
+      required: false
+    - id: 9
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: participant_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_booking_status
+      label: travel_booking_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 15
+      name: accommodation_request
+      label: accommodation_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accommodation_arrangement
+      label: accommodation_arrangement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_document
+      label: travel_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

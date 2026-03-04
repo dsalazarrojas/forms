@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Attendance Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: attendee
+      label: Attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attended
+      label: Attended
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_meeting_type
+      label: Safety Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
+      required: false
+    - id: 17
+      name: safety_meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily'', ''label'': ''Daily''}'
+      - '{''value'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
+      - '{''value'': ''never'', ''label'': ''Never''}'
+      required: false
+    - id: 18
+      name: safety_meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 19
+      name: safety_meeting_description
+      label: Meeting Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendee_count
+      label: Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: meeting_date_end
+      label: Meeting Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''completed'', ''label'': ''Completed''}'
+      required: false
+    - id: 24
+      name: meeting_start_time
+      label: Meeting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: meeting_end_time
+      label: Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false

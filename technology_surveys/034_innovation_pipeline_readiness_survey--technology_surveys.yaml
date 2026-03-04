@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: innovation_pipeline_readiness_survey
+    pages:
+    - id: 1
+      name: welcome_message
+      label: Welcome Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - Innovation Pipeline Team
+      - Innovation Pipeline Manager
+      - Other
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Product Development
+      - IT
+      - Finance
+      - Operations
+      - Other
+      required: false
+    - id: 4
+      name: innovation_maturity
+      label: innovation_maturity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: readiness_for_innovation
+      label: readiness_for_innovation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: innovation_pipeline_score
+      label: innovation_pipeline_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: innovation_pipeline_level
+      label: innovation_pipeline_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1 - Awareness
+      - Level 2 - Understanding
+      - Level 3 - Development
+      - Level 4 - Deployment
+      - Level 5 - Sustainability
+      required: true
+    - id: 8
+      name: current_process
+      label: current_process
+      hint: null
+      type: select_one
+      options:
+      - Agile
+      - Waterfall
+      - Hybrid
+      required: true
+    - id: 9
+      name: readiness_for_innovation_score
+      label: readiness_for_innovation_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: readiness_for_innovation_impact
+      label: readiness_for_innovation_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: innovation_pipeline_readiness_score
+      label: innovation_pipeline_readiness_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: readiness_for_innovation_impact_description
+      label: readiness_for_innovation_impact_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: innovation_pipeline_readiness_comment
+      label: innovation_pipeline_readiness_comment
+      hint: null
+      type: text
+      options: []
+      required: false

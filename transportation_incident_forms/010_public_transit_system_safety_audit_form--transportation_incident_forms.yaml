@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: public_transit_system_safety_audit_form
+    pages:
+    - id: 1
+      name: station_name
+      label: Station Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: station_address
+      label: Station Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: station_location
+      label: Station Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Station''}'
+      - '{''id'': 2, ''name'': ''Stop''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 4
+      name: transit_vehicle_type
+      label: Transit Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Bus''}'
+      - '{''id'': 2, ''name'': ''Train''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: safety_issues
+      label: Safety Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_needed
+      label: Action Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_inspector_name
+      label: Safety Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_inspector_date
+      label: Safety Inspector Date
+      hint: null
+      type: date
+      options: []
+      required: false

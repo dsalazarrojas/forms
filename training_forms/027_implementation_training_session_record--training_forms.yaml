@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: implementation-training-session-record-form
+    pages:
+    - id: 1
+      name: session_id
+      label: session-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: session_name
+      label: session-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: session-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: session-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: topic_1
+      label: topic-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: topic_2
+      label: topic-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: topic_3
+      label: topic-3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participants
+      label: participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_notes
+      label: session-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_trainer
+      label: assigned-trainer
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: assigned_consultant
+      label: assigned-consultant
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: assigned_consultant2
+      label: assigned-consultant2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: assigned_hr
+      label: assigned-hr
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: session_status
+      label: session-status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

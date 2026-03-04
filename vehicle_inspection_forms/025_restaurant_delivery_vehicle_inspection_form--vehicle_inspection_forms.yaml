@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_delivery_vehicle_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Truck''}'
+      - '{''id'': 3, ''label'': ''Bike''}'
+      required: false
+    - id: 3
+      name: photo_documentation
+      label: photo_documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: signed_inspection
+      label: signed_inspection
+      hint: Signed inspection report submitted by
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Supervisor''}'
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspection_date
+      label: inspection_date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: false

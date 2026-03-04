@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Time Sheet Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of employee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pay_period_start
+      label: Pay Period Start Date
+      hint: Beginning of pay period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pay_period_end
+      label: Pay Period End Date
+      hint: End of pay period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Employer name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Project worked on
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Position or trade
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: day_1_date
+      label: Day 1 Date
+      hint: First day of period
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: day_1_hours
+      label: Day 1 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: day_1_overtime
+      label: Day 1 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: day_2_date
+      label: Day 2 Date
+      hint: Second day
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: day_2_hours
+      label: Day 2 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: day_2_overtime
+      label: Day 2 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: day_3_date
+      label: Day 3 Date
+      hint: Third day
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: day_3_hours
+      label: Day 3 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: day_3_overtime
+      label: Day 3 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: day_4_date
+      label: Day 4 Date
+      hint: Fourth day
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: day_4_hours
+      label: Day 4 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: day_4_overtime
+      label: Day 4 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: day_5_date
+      label: Day 5 Date
+      hint: Fifth day
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: day_5_hours
+      label: Day 5 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: day_5_overtime
+      label: Day 5 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: day_6_date
+      label: Day 6 Date
+      hint: Sixth day
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: day_6_hours
+      label: Day 6 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: day_6_overtime
+      label: Day 6 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: day_7_date
+      label: Day 7 Date
+      hint: Seventh day
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: day_7_hours
+      label: Day 7 Hours
+      hint: Hours worked
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: day_7_overtime
+      label: Day 7 Overtime
+      hint: Overtime hours
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: total_regular_hours
+      label: Total Regular Hours
+      hint: Sum of regular hours
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: total_overtime_hours
+      label: Total Overtime Hours
+      hint: Sum of overtime
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: total_hours
+      label: Total Hours
+      hint: Total all hours
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: vacation_hours
+      label: Vacation Hours Used
+      hint: PTO taken
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: sick_hours
+      label: Sick Hours Used
+      hint: Sick leave taken
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: holiday_hours
+      label: Holiday Hours
+      hint: Holiday pay
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: per_diem_hours
+      label: Per Diem Hours
+      hint: Travel time if applicable
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: notes
+      label: Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: employee_signature
+      label: Employee Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

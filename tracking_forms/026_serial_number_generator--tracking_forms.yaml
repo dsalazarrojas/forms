@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Serial Number Generator
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: prefix
+      label: Prefix
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: suffix
+      label: Suffix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prefix_length
+      label: Prefix Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pad_to
+      label: Pad To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: start_pad
+      label: Start Pad
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: length_prefix
+      label: Length Prefix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: start_pad_length
+      label: Start Pad Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: end_pad
+      label: End Pad
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pad_char
+      label: Pad Char
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: start_pad_length
+      label: Start Pad Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: length_suffix
+      label: Length Suffix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suffix_length
+      label: Suffix Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: prefix_type
+      label: Prefix Type
+      hint: null
+      type: select_one
+      options:
+      - Alpha
+      - Numeric
+      - Uppercase
+      - Lowercase
+      - Uppercase Alpha
+      - Numeric Alpha
+      required: true
+    - id: 19
+      name: pad_type
+      label: Pad Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Prefix
+      - Suffix
+      - Both
+      required: false
+    - id: 20
+      name: char_pad_type
+      label: Char Pad Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Pad with Space
+      - Pad with Dot
+      - Pad with Dash
+      required: false

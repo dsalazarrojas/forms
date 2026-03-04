@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: energy_infrastructure_innovation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: company_list
+      label: company_list
+      hint: null
+      type: select_one
+      options:
+      - Utility Company
+      - Energy Company
+      - Other Company
+      - Research Institute
+      - Government Agency
+      - University/College
+      required: false
+    - id: 4
+      name: innovation_priorities
+      label: innovation_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation in renewable energy technologies
+      - Innovation in energy storage and grid management
+      - Innovation in energy efficiency and smart buildings
+      - Innovation in grid resiliency and disaster response
+      - Other
+      required: false
+    - id: 5
+      name: barriers
+      label: barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Regulations
+      - Lack of investment
+      - Lack of data and analytics
+      - Other
+      required: false
+    - id: 6
+      name: successful_projects
+      label: successful_projects
+      hint: null
+      type: select_multiple
+      options:
+      - Grid-scale solar
+      - Energy efficiency in buildings
+      - Community-based energy systems
+      - Energy storage systems
+      - Other
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

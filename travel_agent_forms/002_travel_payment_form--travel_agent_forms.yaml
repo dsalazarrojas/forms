@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_payment_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_group
+      label: Travel Group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Pending
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cash
+      - Credit Card
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_phone
+      label: Travel Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_email
+      label: Travel Agency Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_agency_comments
+      label: Travel Agency Comments
+      hint: null
+      type: text
+      options: []
+      required: false

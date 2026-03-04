@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reiki Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: e_signed_date
+      label: E-Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: e_signed_signature
+      label: E-Signed Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_info
+      label: Client Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: therapist_info
+      label: Therapist Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: e_signed_by
+      label: E-Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: e_signed_at
+      label: E-Signed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: e_signed_ip
+      label: E-Signed IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - Therapist
+      - Client
+      required: false
+    - id: 17
+      name: reiki_level
+      label: Reiki Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 18
+      name: reiki_style
+      label: Reiki Style
+      hint: null
+      type: select_multiple
+      options:
+      - Usui
+      - Jampa
+      - Shoden
+      required: false
+    - id: 19
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 15-30min
+      - 30-60min
+      - 60+min
+      required: false
+    - id: 20
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Regular
+      - As-Needed
+      required: false
+    - id: 21
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: session_note
+      label: Session Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reiki_notes
+      label: Reiki Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: client_statement
+      label: Client Statement
+      hint: null
+      type: text
+      options: []
+      required: false

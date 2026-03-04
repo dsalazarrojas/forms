@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trip Tracking Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trip_notes
+      label: Trip Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trip_status
+      label: Trip Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: trip_purpose
+      label: Trip Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

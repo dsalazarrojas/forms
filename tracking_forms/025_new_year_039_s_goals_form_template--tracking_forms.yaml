@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year's Goals Form Template
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goal_name
+      label: goal_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goal_type
+      label: goal_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''short_term''}'
+      - '{''id'': 2, ''value'': ''long_term''}'
+      - '{''id'': 3, ''value'': ''financial''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: target_completion_date
+      label: target_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: progress_status
+      label: progress_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''not_started''}'
+      - '{''id'': 2, ''value'': ''in_progress''}'
+      - '{''id'': 3, ''value'': ''done''}'
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: XP/FR Points Update Form
+    pages:
+    - id: 1
+      name: user
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: surname
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_adjustment
+      label: Reason For Adjustment
+      hint: Please provide a clear reason for the adjustment.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: Please enter contact details.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_details
+      label: Reason Details
+      hint: More details about the reason for adjustment.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: adjust_reason
+      label: Adjustment Reason
+      hint: null
+      type: select_one
+      options:
+      - Reason For Adjustment
+      - Other
+      required: true
+    - id: 8
+      name: adjust_type
+      label: Adjustment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Adjustment Type 1
+      - Adjustment Type 2
+      - Adjustment Type 3
+      required: true
+    - id: 9
+      name: user_points
+      label: User Points
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: points
+      label: Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

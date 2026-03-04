@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Intake Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Virtual Intake Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_type_options
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Virtual
+      - In-person
+      - Phone
+      required: false
+    - id: 6
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: consent_details
+      label: Consent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact
+      label: preferred_contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 13
+      name: preferred_contact_options
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 14
+      name: client_details
+      label: client_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_frequency
+      label: session_frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Every 2 weeks
+      - Every 4 weeks
+      required: false
+    - id: 17
+      name: session_frequency_options
+      label: Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Every 2 weeks
+      - Every 4 weeks
+      required: false
+    - id: 18
+      name: client_preferences_options
+      label: Client Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      required: false
+    - id: 19
+      name: session_status
+      label: session_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false

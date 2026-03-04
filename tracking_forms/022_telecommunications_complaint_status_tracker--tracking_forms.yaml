@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Complaint Status Tracker
+    pages:
+    - id: 1
+      name: complaint_details
+      label: complaint_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In progress
+      required: false
+    - id: 3
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assigned_technician
+      label: Assigned technician
+      hint: null
+      type: select_one
+      options:
+      - Joe
+      - Jane
+      - John
+      required: false
+    - id: 5
+      name: complaint_type
+      label: Complaint type
+      hint: null
+      type: select_multiple
+      options:
+      - Hardware
+      - Software
+      - Other
+      required: false
+    - id: 6
+      name: resolution_time
+      label: Resolution time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_updated_by
+      label: Last updated by
+      hint: null
+      type: select_one
+      options:
+      - Support team
+      - Customer
+      - Technician
+      required: false
+    - id: 8
+      name: customer_contact_info
+      label: Customer contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: complaint_priority
+      label: Complaint Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Not done
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_details
+      label: Follow-up details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resolution_date
+      label: Resolution date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: Follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_by
+      label: Follow-up by
+      hint: null
+      type: select_one
+      options:
+      - Support team
+      - Customer
+      - Technician
+      required: false
+    - id: 18
+      name: next_step
+      label: Next step
+      hint: null
+      type: select_one
+      options:
+      - Follow-up
+      - Resolve
+      - Done
+      required: false
+    - id: 19
+      name: resolution_status
+      label: Resolution status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 20
+      name: follow_up_frequency
+      label: Follow-up frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 21
+      name: follow_up_notes
+      label: Follow-up notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: complaint_status
+      label: Complaint Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 23
+      name: customer_feedback
+      label: Customer feedback
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Unsatisfied
+      - Neutral
+      required: false
+    - id: 24
+      name: follow_up_by
+      label: Follow-up by
+      hint: null
+      type: select_one
+      options:
+      - Support team
+      - Customer
+      - Technician
+      required: false
+    - id: 25
+      name: follow_up_frequency
+      label: Follow-up frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

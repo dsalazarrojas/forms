@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Course Interest Survey
+    pages:
+    - id: 1
+      name: training_course_interest_survey
+      label: Course Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: topic_selection
+      label: Select Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Topic A
+      - Topic B
+      - Topic C
+      required: false
+    - id: 3
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_interest
+      label: Date Of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_interest
+      label: Time Of Interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

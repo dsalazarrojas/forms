@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Capture Requirements Survey
+    pages:
+    - id: 1
+      name: time_capture_requirements_survey_page_1
+      label: What is the name of the project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: project description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: project_lead
+      label: project lead
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_manager
+      label: project manager
+      hint: null
+      type: select_one
+      options:
+      - Project Lead
+      - Project Manager
+      required: true
+    - id: 5
+      name: team_lead
+      label: team lead
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Project Manager
+      - Other
+      required: true
+    - id: 6
+      name: time_capture_system_name
+      label: time capture system name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: time_format
+      label: time format
+      hint: null
+      type: select_one
+      options:
+      - 24 hour format
+      - 12 hour format
+      - AM/PM format
+      required: true
+    - id: 8
+      name: time_capture_period
+      label: time capture period
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: time_entry_duration
+      label: time entry duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: time_entry_frequency
+      label: time entry frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 11
+      name: time_entry_time_zone
+      label: time entry time zone
+      hint: null
+      type: select_one
+      options:
+      - UTC-5
+      - UTC-8
+      - UTC-9
+      - UTC-10
+      - UTC-11
+      - UTC-12
+      - UTC-13
+      - UTC-14
+      - UTC-15
+      required: true
+    - id: 12
+      name: time_entry_time_zone_offset
+      label: time entry time zone offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time_entry_start_date
+      label: time entry start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_entry_start_time
+      label: time entry start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: time_entry_end_date
+      label: time entry end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time_entry_end_time
+      label: time entry end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: time_entry_notes
+      label: time entry notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: time_entry_tags
+      label: time entry tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: time_entry_attachments
+      label: time entry attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: time_entry_comments
+      label: time entry comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_entry_private
+      label: time entry private
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: time_entry_read_only
+      label: time entry read only
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: time_entry_require_comments
+      label: time entry require comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: time_entry_require_attachments
+      label: time entry require attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: time_entry_reporting_frequency
+      label: reporting frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true

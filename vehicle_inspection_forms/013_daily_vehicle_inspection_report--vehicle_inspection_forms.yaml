@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Report
+    pages:
+    - id: 1
+      name: vehicle_description
+      label: Vehicle Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: vehicle_inspection_item_1
+      label: Vehicle Inspection Item 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: vehicle_inspection_item_2
+      label: Vehicle Inspection Item 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: vehicle_inspection_item_3
+      label: Vehicle Inspection Item 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: vehicle_inspection_item_4
+      label: Vehicle Inspection Item 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: vehicle_inspection_item_5
+      label: Vehicle Inspection Item 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: vehicle_inspection_item_6
+      label: Vehicle Inspection Item 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: vehicle_inspection_item_7
+      label: Vehicle Inspection Item 7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: vehicle_inspection_item_8
+      label: Vehicle Inspection Item 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: vehicle_inspection_item_9
+      label: Vehicle Inspection Item 9
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: vehicle_inspection_item_10
+      label: Vehicle Inspection Item 10
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: vehicle_comments
+      label: Vehicle Comments
+      hint: null
+      type: text
+      options: []
+      required: false

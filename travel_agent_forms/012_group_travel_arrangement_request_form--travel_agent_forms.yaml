@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Travel Arrangement Request Form
+    pages:
+    - id: 1
+      name: group_travel_arrangement_request_form
+      label: Traveler Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_arrangement_details
+      label: Travel Arrangement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_airport
+      label: Departure Airport
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: return_airport
+      label: Return Airport
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: trip_type
+      label: Trip Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Business''}'
+      - '{''value'': ''Leisure''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Personal''}'
+      required: false
+    - id: 9
+      name: accommodation_preference
+      label: Accommodation Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hotel''}'
+      - '{''value'': ''Resort''}'
+      - '{''value'': ''Hostel''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Rejected''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Done''}'
+      required: false
+    - id: 24
+      name: submitted
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned
+      label: Assigned
+      hint: null
+      type: text
+      options: []
+      required: false

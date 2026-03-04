@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Price Tracking Form
+    pages:
+    - id: 1
+      name: region
+      label: region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: update_frequency
+      label: update_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 7
+      name: fuel_price
+      label: fuel_price
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baggage Drop Off Time Confirmation Form
+    pages:
+    - id: 1
+      name: section_traveler
+      label: -- Traveler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: traveler_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: confirmation_number
+      label: Confirmation/Booking Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      Label: Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: section_flight
+      label: -- Flight Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: flight_number
+      Label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: departure_date
+      Label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: departure_time
+      Label: Scheduled Departure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: origin_airport
+      Label: Departure Airport Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: destination_airport
+      Label: Destination Airport Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: airline_name
+      Label: Airline Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_baggage
+      label: -- Baggage Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: num_pieces
+      Label: Number of Baggage Pieces
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: baggage_description
+      Label: Baggage Description
+      hint: Type and color of each piece
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: total_weight
+      Label: Total Weight (in pounds)
+      hint: null
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: baggage_tags
+      Label: Baggage Tag Numbers (if available)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_dropoff
+      label: -- Drop-Off Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dropoff_date
+      Label: Requested Drop-Off Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: dropoff_time
+      Label: Requested Drop-Off Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: dropoff_location
+      Label: Drop-Off Location/Counter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: dropoff_address
+      Label: Full Drop-Off Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_requests
+      Label: Special Requests or Handling Instructions
+      hint: Fragile, valuable items, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_agreement
+      Label: I Confirm the Above Information is Accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 25
+      name: submit_confirmation
+      Label: Drop-Off Time Confirmation Submitted
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

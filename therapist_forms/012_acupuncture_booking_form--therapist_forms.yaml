@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Booking Form
+    pages:
+    - id: 1
+      name: contact_details_header
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_selection_header
+      label: -- Service Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: acupuncture_service
+      label: Select Service
+      hint: null
+      type: select_one
+      options:
+      - Traditional Chinese Medicine (TCM) Acupuncture
+      - Cosmetic Acupuncture / Facial Rejuvenation
+      - Sports Injury / Dry Needling
+      - Stress and Anxiety Relief Session
+      - Fertility Support Session
+      required: true
+    - id: 7
+      name: add_on_services
+      label: Optional Add-on Services
+      hint: null
+      type: select_multiple
+      options:
+      - Cupping Therapy
+      - Gua Sha
+      - Moxibustion
+      - Herbal Consultation
+      - Infrared Heat Therapy
+      required: false
+    - id: 8
+      name: booking_preference_date
+      label: Requested Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: booking_preference_time
+      label: Requested Booking Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location_preference
+      label: Clinic Location
+      hint: null
+      type: select_one
+      options:
+      - North Wellness Center
+      - Southside Clinic
+      - East Bay Studio
+      required: true
+    - id: 11
+      name: additional_info_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: health_concerns
+      label: Specific Health Concerns or Goals
+      hint: What would you like to achieve from this session?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Current Medications or Supplements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pacemakers_metal
+      label: Do you have a pacemaker or any metal implants?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (Please describe below)
+      required: true
+    - id: 15
+      name: implants_description
+      label: Description of Implants (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: booking_confirmation_method
+      label: Preferred Confirmation Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      required: true

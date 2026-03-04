@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_food_basket_registration_form
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option1''}'
+      - '{''id'': 2, ''label'': ''option2''}'
+      - '{''id'': 3, ''label'': ''option3''}'
+      required: false
+    - id: 9
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option1''}'
+      - '{''id'': 2, ''label'': ''option2''}'
+      - '{''id'': 3, ''label'': ''option3''}'
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

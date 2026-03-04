@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Security Redress Application Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: traveler_info
+      label: traveler_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Airline
+      - Hotel
+      - Car Rental
+      - Train
+      - Bus
+      required: false
+    - id: 7
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 9
+      name: reason_decline
+      label: Reason for Decline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason_approved
+      label: Reason for Approve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - Support Team 1
+      - Support Team 2
+      - Support Team 3
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_user_agent
+      label: Submitter User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_os
+      label: Submitter OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_browser
+      label: Submitter Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_device
+      label: Submitter Device
+      hint: null
+      type: text
+      options: []
+      required: false

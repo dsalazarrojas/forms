@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Onboarding Form
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Carrier Onboarding Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dot_number
+      label: DOT Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mc_number
+      label: MC Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_primary_contact
+      label: -- Primary Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: admin_contact_name
+      label: Primary Admin Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: admin_email
+      label: Admin Email
+      hint: for official onboarding communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: admin_phone
+      label: Admin Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_operational
+      label: -- Operational Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: fleet_type
+      label: Primary Fleet Type
+      hint: null
+      type: select_one
+      options:
+      - Asset-Based
+      - Brokerage
+      - Both
+      - Owner-Operator
+      required: true
+    - id: 11
+      name: hazmat_carrier
+      label: Are you a Hazmat certified carrier?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: regions_served
+      label: Regions Served
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Northeast
+      - Southeast
+      - Midwest
+      - Southwest
+      - West
+      - Canada
+      - Mexico
+      required: true
+    - id: 13
+      name: preferred_commodity
+      label: Preferred Commodity Types
+      hint: items you primarily transport
+      type: select_multiple
+      options:
+      - Food and Beverage
+      - Industrial
+      - Electronics
+      - Retail
+      - Automotive
+      - Chemical
+      - Pharma
+      required: true
+    - id: 14
+      name: section_doc_submission
+      label: -- Documentation Submission --
+      hint: confirm availability of documents
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: scac_certificate_uploaded
+      label: SCAC Certificate available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 16
+      name: safety_rating_upload
+      label: FMCSA Safety Rating screenshot available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: w9_upload_status
+      label: W-9 Form available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: section_compliance
+      label: -- Compliance Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: fmcsa_compliance
+      label: I certify that my company is in full compliance with FMCSA regulations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: drug_alcohol_policy
+      label: Do you have a drug and alcohol testing policy?
+      hint: in accordance with DOT requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: eld_compliant
+      label: Are all your vehicles ELD compliant?
+      hint: Electronic Logging Device compliance
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 22
+      name: section_ack
+      label: -- Onboarding Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: onboarding_terms
+      label: I acknowledge the onboarding requirements and company standards
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: authorized_signature
+      label: Authorized Representative Signature
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Click & Meet Form
+    pages:
+    - id: 1
+      name: appointment_header
+      label: -- Appointment Scheduling --
+      hint: Please select a time to meet with your therapist.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: therapist_selection
+      label: Select Therapist
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith (CBT)
+      - Dr. Johnson (Family Therapy)
+      - Sarah Williams (Trauma Specialist)
+      - Michael Brown (General Counseling)
+      required: true
+    - id: 6
+      name: meeting_date
+      label: Preferred Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: meeting_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (09-00 AM - 12-00 PM)
+      - Afternoon (12-00 PM - 03-00 PM)
+      - Late Afternoon (03-00 PM - 06-00 PM)
+      - Evening (06-00 PM - 08-00 PM)
+      required: true
+    - id: 8
+      name: session_type
+      label: Type of Session
+      hint: null
+      type: select_one
+      options:
+      - Initial Consultation
+      - Regular Follow-up
+      - Crisis Intervention
+      - Group Session
+      required: true
+    - id: 9
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-person (Office)
+      - Video Call (Telehealth)
+      - Phone Call
+      required: true
+    - id: 10
+      name: primary_concerns
+      label: Primary concerns you wish to discuss
+      hint: Briefly describe what brings you to therapy today
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_info
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: intake_notes
+      label: Any additional notes for the therapist?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirmation_policy
+      label: I understand the 24-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: footer_note
+      label: -- We look forward to seeing you --
+      hint: null
+      type: note
+      options: []
+      required: false

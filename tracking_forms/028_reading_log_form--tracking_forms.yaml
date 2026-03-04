@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading Log Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_spent_reading
+      label: time_spent_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reading_level
+      label: reading_level
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 4
+      name: comprehension
+      label: comprehension
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reading_habits
+      label: reading_habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

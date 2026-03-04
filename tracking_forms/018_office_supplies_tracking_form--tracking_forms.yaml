@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Supplies Tracking Form
+    pages:
+    - id: 1
+      name: office_supplies_tracking_form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_supplies_tracking_form_supply_type
+      label: Supply Type
+      hint: null
+      type: select_multiple
+      options:
+      - Paper
+      - Pens
+      - Pencils
+      - Paper
+      - Stapler
+      - Stapler
+      required: false
+    - id: 3
+      name: office_supplies_tracking_form_current_stock
+      label: Current Stock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: office_supplies_tracking_form_last_replenished
+      label: Last Replenish
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: office_supplies_tracking_form_next_replenishment_due
+      label: Next Replenishment Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: office_supplies_tracking_form_last_replenish_date
+      label: Last Replenishment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: office_supplies_tracking_form_last_replenish_by
+      label: Last Replenish By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: office_supplies_tracking_form_replenishment_frequency
+      label: Replenishment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: office_supplies_tracking_form_replenishment_status
+      label: Replenishment Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      required: false
+    - id: 10
+      name: office_supplies_tracking_form_reorder_threshold
+      label: Reorder Threshold
+      hint: null
+      type: number
+      options: []
+      required: false

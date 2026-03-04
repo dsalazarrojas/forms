@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Deal Submission Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submitter_details
+      label: submitter_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      - option_6
+      - option_7
+      - option_8
+      required: false
+    - id: 5
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      - option_6
+      - option_7
+      - option_8
+      required: true
+    - id: 6
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_price
+      label: travel_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: travel_agency_notes
+      label: travel_agency_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_email
+      label: travel_agency_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: terms_agreed
+      label: terms_agreed
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      - option_6
+      required: false
+    - id: 15
+      name: review_agreed
+      label: review_agreed
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      - option_6
+      required: false

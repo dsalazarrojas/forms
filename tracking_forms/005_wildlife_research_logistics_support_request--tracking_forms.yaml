@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Research Logistics Support Request
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Conservation
+      - Research
+      - Wildlife Management
+      - Other
+      required: false
+    - id: 3
+      name: team_members
+      label: team_members
+      hint: List team members
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 4
+      name: project_location
+      label: project_location
+      hint: Provide project location
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_start_date
+      label: project_start_date
+      hint: Project start date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: project_end_date
+      hint: Project end date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: team_lead_email
+      label: team_lead_email
+      hint: Team lead email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: team_lead_phone
+      label: team_lead_phone
+      hint: Team lead phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_institution
+      label: research_institution
+      hint: Research institution
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: project_description
+      hint: Project description
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: study_area
+      label: study_area
+      hint: Study area
+      type: select_one
+      options:
+      - National Park
+      - Wildlife Reserve
+      - Other
+      required: false
+    - id: 12
+      name: field_support_requirements
+      label: field_support_requirements
+      hint: Field support requirements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: field_crew_size
+      label: field_crew_size
+      hint: Field crew size
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: field_equipment
+      label: field_equipment
+      hint: Field equipment requirements
+      type: select_multiple
+      options:
+      - Binoculars
+      - Compass
+      - Camera
+      - Other
+      required: false
+    - id: 15
+      name: field_diet_support
+      label: field_diet_support
+      hint: Field diet support
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: field_water_support
+      label: field_water_support
+      hint: Field water support
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: field_first_aid
+      label: field_first_aid
+      hint: Field first aid
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: field_shelter_type
+      label: field_shelter_type
+      hint: Field shelter type
+      type: text
+      options: []
+      required: false

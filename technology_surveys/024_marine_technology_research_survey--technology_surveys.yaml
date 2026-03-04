@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: marine_technology_research_survey
+    pages:
+    - id: 1
+      name: marine_technology_research_interests
+      label: what_are_your_interests_in_marine_technology
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role_in_marine_technology
+      label: what_is_your_role_in_marine_technology
+      hint: null
+      type: select_one
+      options:
+      - marine_engineer
+      - marine_technologist
+      - researcher
+      required: true
+    - id: 3
+      name: focus_areas_of_marine_technology
+      label: what_areas_of_marine_technology_do_you_focus_on
+      hint: null
+      type: select_multiple
+      options:
+      - marine_sustainability
+      - ocean_acoustics
+      - coastal_engineering
+      required: true
+    - id: 4
+      name: common_challenges_in_marine_technology
+      label: what_are_common_challenges_in_your_marine_technology_work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suggestions_for_marine_technology_planning
+      label: do_you_have_any_suggestions_for_marine_technology_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: which_tool_were_you_assigned
+      hint: null
+      type: select_one
+      options:
+      - chat_jimmy
+      - other
+      required: true
+    - id: 9
+      name: other_tools_used
+      label: what_other_tools_did_you_use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: marine_technology_research_survey_form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - technology_surveys
+      - marine_science
+      - general
+      required: true
+    - id: 15
+      name: marine_technology_research_survey_form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - marine_technology_research_survey--technology_surveys
+      - marine_technology_research_survey--general
+      - marine_technology_research_survey--marine_science
+      required: true
+    - id: 18
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_form
+      label: assigned_form
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 20
+      name: assigned_survey
+      label: assigned_survey
+      hint: null
+      type: select_one
+      options:
+      - marine_technology_research_survey
+      - other
+      required: false
+    - id: 21
+      name: assigned_form_id
+      label: assigned_form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: assigned_form_version
+      label: assigned_form_version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Review Time Off Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Legal
+      - Human Resources
+      - Operations
+      - Sales
+      - Finance
+      - IT
+      - Marketing
+      - Other
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_off_type
+      label: Time Off Type
+      hint: Type of leave
+      type: select_one
+      options:
+      - Vacation
+      - Sick leave
+      - Personal day
+      - Family leave
+      - Medical leave
+      - Bereavement
+      - Jury duty
+      - Military leave
+      - Other
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: First day off
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: Last day off
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_days_requested
+      label: Total Days Requested
+      hint: Number of days
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: When will you return?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_request
+      label: Reason for Request
+      hint: Why are you requesting time off?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: active_contracts
+      label: Active Contracts
+      hint: List contracts you are working on
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contract_review_status
+      label: Contract Review Status
+      hint: Status of contract reviews
+      type: select_one
+      options:
+      - All reviews complete
+      - Some reviews pending
+      - Critical reviews pending
+      - No active contracts
+      required: true
+    - id: 14
+      name: pending_deadlines
+      label: Pending Deadlines
+      hint: Any deadlines during absence?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: coverage_arrangements
+      label: Coverage Arrangements
+      hint: Who will cover for you?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: handover_notes
+      label: Handover Notes
+      hint: Instructions for coverage
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: urgent_matters
+      label: Urgent Matters
+      hint: Any urgent issues to address?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_notifications
+      label: Client Notifications
+      hint: Have clients been notified?
+      type: select_one
+      options:
+      - Yes, all notified
+      - Some notified
+      - Not applicable
+      - No, will notify
+      required: true
+    - id: 19
+      name: availability_during_time_off
+      label: Availability During Time Off
+      hint: Will you be reachable?
+      type: select_one
+      options:
+      - Completely unavailable
+      - Available for emergencies only
+      - Limited availability
+      - Fully available
+      required: true
+    - id: 20
+      name: emergency_contact_method
+      label: Emergency Contact Method
+      hint: How to reach you if needed?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_approval
+      label: Manager Approval
+      hint: Manager name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      - Requires revision
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

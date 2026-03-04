@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Training Risk Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_area_of_application
+      label: Risk Area of Application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_type_of_incident
+      label: Type of Incident
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_likelyhood
+      label: Risk Likelyhood
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: risk_precedent
+      label: Risk Precedent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_control_measurements
+      label: Risk Control Measurements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_control_measurements_2
+      label: Risk Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: risk_control_measurements_3
+      label: Risk Control Measurements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: risk_control_measurements_4
+      label: Risk Control Measurements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

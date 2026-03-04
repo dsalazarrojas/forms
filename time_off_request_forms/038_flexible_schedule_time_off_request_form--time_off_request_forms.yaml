@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: flexible_schedule_time_off_request_form
+    pages:
+    - id: 1
+      name: schedule_start_date
+      label: Schedule Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: schedule_end_date
+      label: Schedule End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: schedule_duration
+      label: Schedule Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: schedule_frequency
+      label: Schedule Frequency
+      hint: null
+      type: select_one
+      options:
+      - Flexible 1 day
+      - Flexible 3 days
+      - Flexible 5 days
+      required: false
+    - id: 5
+      name: work_arrangement
+      label: Work Arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Work From Home
+      - Flexible Schedule
+      - Compressed Schedule
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_requesting
+      label: Reason for Requesting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Manager Approval
+      - Director Approval
+      - HR Approval
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: false
+    - id: 11
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false

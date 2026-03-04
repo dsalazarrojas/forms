@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Day Sales Report Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity_sold
+      label: Quantity Sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sales_channel
+      label: Sales Channel
+      hint: null
+      type: select_one
+      options:
+      - Channel A
+      - Channel B
+      - Channel C
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Person A
+      - Sales Person B
+      - Sales Person C
+      required: false
+    - id: 13
+      name: sales_person_note
+      label: Sales Person Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sales_status
+      label: Sales Status
+      hint: null
+      type: select_one
+      options:
+      - Status A
+      - Status B
+      - Status C
+      required: false
+    - id: 15
+      name: sales_status_note
+      label: Sales Status Note
+      hint: null
+      type: note
+      options: []
+      required: false

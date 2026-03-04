@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Satisfaction Survey
+    pages:
+    - id: 1
+      name: travel_satisfaction_survey
+      label: travel satisfaction survey
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: travel_feedback_form
+      label: Travel Feedback Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: traveler_experience
+      label: Traveler Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_note
+      label: travel_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Digital Access Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name (Optional)
+      hint: Your name if you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: children_count
+      label: Number of Children Under 18
+      hint: Children in household
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: device_computer
+      label: Do You Have a Computer or Laptop
+      hint: Desktop or laptop computer
+      type: select_one
+      options:
+      - Yes, Multiple
+      - Yes, One
+      - false
+      required: true
+    - id: 6
+      name: device_tablet
+      label: Do You Have a Tablet
+      hint: iPad or similar device
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: device_smartphone
+      label: Do You Have a Smartphone
+      hint: Mobile phone with internet
+      type: select_one
+      options:
+      - Yes, Multiple
+      - Yes, One
+      - false
+      required: true
+    - id: 8
+      name: internet_access
+      label: Do You Have Internet at Home
+      hint: Home internet connection
+      type: select_one
+      options:
+      - Yes, High Speed
+      - Yes, Basic
+      - Yes, Mobile Hotspot Only
+      - false
+      required: true
+    - id: 9
+      name: internet_provider
+      label: Internet Service Provider
+      hint: Your current provider
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: internet_cost
+      label: Monthly Internet Cost
+      hint: Approximate monthly cost
+      type: select_one
+      options:
+      - Less than $30
+      - $30-$50
+      - $51-$75
+      - $76-$100
+      - More than $100
+      - Free or Subsidized
+      - Not Sure
+      required: false
+    - id: 11
+      name: internet_reliability
+      label: How Reliable Is Your Internet
+      hint: Rate your connection reliability
+      type: select_one
+      options:
+      - Very Reliable
+      - Mostly Reliable
+      - Sometimes Unreliable
+      - Often Unreliable
+      - Very Unreliable
+      required: true
+    - id: 12
+      name: internet_speed
+      label: Is Your Internet Speed Adequate
+      hint: For your household needs
+      type: select_one
+      options:
+      - More Than Adequate
+      - Adequate
+      - Barely Adequate
+      - Inadequate
+      - Not Sure
+      required: true
+    - id: 13
+      name: primary_use
+      label: Primary Internet Uses
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Work from Home
+      - School or Education
+      - Email
+      - Social Media
+      - Video Streaming
+      - Online Shopping
+      - Telehealth
+      - Job Searching
+      - Government Services
+      required: true
+    - id: 14
+      name: digital_skills
+      label: Digital Skills Confidence
+      hint: How confident are you with technology?
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident at All
+      required: true
+    - id: 15
+      name: training_interest
+      label: Interested in Digital Training
+      hint: Would you like to learn digital skills?
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: true
+    - id: 16
+      name: training_topics
+      label: Training Topics of Interest
+      hint: What would you like to learn?
+      type: select_multiple
+      options:
+      - Basic Computer Skills
+      - Internet Safety
+      - Email Usage
+      - Video Conferencing
+      - Online Job Applications
+      - Social Media
+      - Online Banking
+      - Telehealth Usage
+      required: false
+    - id: 17
+      name: affordability_barrier
+      label: Is Cost a Barrier to Access
+      hint: Does cost prevent you from getting internet?
+      type: select_one
+      options:
+      - Yes, Major Barrier
+      - Yes, Minor Barrier
+      - false
+      required: true
+    - id: 18
+      name: low_income_program
+      label: Are You Aware of Low-Income Internet Programs
+      hint: Programs like Affordable Connectivity Program
+      type: select_one
+      options:
+      - Yes, Currently Enrolled
+      - Yes, But Not Enrolled
+      - No, Not Aware
+      required: true

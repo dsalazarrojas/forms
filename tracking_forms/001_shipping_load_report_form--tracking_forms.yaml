@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Load Report Form
+    pages:
+    - id: 1
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: shipment_id
+      label: Shipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trailer_number
+      label: Trailer Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: prophets
+      label: Prophet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Joe Doe'', ''value'': ''Joe Doe''}'
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: warehouse_location
+      label: Warehouse Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''NYC'', ''value'': ''NYC''}'
+      - '{''id'': 2, ''name'': ''LAX'', ''value'': ''LAX''}'
+      - '{''id'': 3, ''name'': ''JFK'', ''value'': ''JFK''}'
+      required: false
+    - id: 7
+      name: carrier_id
+      label: Carrier ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Transit'', ''value'': ''In Transit''}'
+      - '{''id'': 2, ''name'': ''Delivered'', ''value'': ''Delivered''}'
+      - '{''id'': 3, ''name'': ''Picked Up'', ''value'': ''Picked Up''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: notes_2
+      label: More Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: shipment_type
+      label: Shipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: shipment_date_range
+      label: Shipment Date Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: prophets_2
+      label: Another Prophet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

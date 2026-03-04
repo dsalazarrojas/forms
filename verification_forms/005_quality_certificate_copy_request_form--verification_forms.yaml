@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Certificate Copy Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_details
+      label: Applicant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: Delivery preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certificate_number
+      label: Certificate number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: certificate_date
+      label: Certificate date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: certificate_copy
+      label: Certificate copy
+      hint: null
+      type: select_multiple
+      options:
+      - Xerox
+      - Original
+      - Copy
+      required: false

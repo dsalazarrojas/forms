@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Intake Form
+    pages:
+    - id: 1
+      name: book_appointment
+      label: Book Appointment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: massage_type
+      label: Massage Type
+      hint: Select a massage style
+      type: select_one
+      options:
+      - Massage Oil
+      - Swedish
+      - Deep Tissue
+      - Sports
+      required: true
+    - id: 4
+      name: duration
+      label: How long would you like the massage to be?
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 5
+      name: frequency
+      label: How often would you like to book?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Regularly (every 1-2 weeks)
+      - Irregular
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: massage_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

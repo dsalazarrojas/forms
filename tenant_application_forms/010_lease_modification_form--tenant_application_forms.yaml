@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_modification_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Lease Modification Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Tenant Application Forms
+      - Real Estate Agent Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Make modifications easily with Jotform!
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_id
+      label: lease_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: select_one
+      options:
+      - Changes to Existing Lease
+      - Other
+      required: false
+    - id: 6
+      name: requested_changes
+      label: requested_changes
+      hint: null
+      type: select_multiple
+      options:
+      - Lease Term
+      - Rent
+      - Move-in Date
+      - Other
+      required: false
+    - id: 7
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: current_lease_term
+      label: current_lease_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: requested_lease_term
+      label: requested_lease_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: current_rent
+      label: current_rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: requested_rent
+      label: requested_rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_id
+      label: agent_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_package_feedback_survey
+    pages:
+    - id: 1
+      name: package_details
+      label: package_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating_package
+      label: rating_package
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_service
+      label: rating_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rated_5_stars
+      label: rated_5_stars
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_value
+      label: rating_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: package_improvement
+      label: package_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - price
+      - content
+      - design
+      - service
+      - other
+      - other
+      required: false
+    - id: 10
+      name: service_improvement
+      label: service_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - communication
+      - response_time
+      - price
+      - other
+      - other
+      required: false
+    - id: 11
+      name: travel_experience
+      label: travel_experience
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

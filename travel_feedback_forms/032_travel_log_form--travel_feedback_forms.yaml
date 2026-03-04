@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Log Form
+    pages:
+    - id: 1
+      name: travel_log_form
+      label: travel_log_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destinations
+      label: destinations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stay_duration
+      label: stay_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transport
+      label: transport
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: activity
+      label: activity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: food_expenses
+      label: food_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: transport_expenses
+      label: transport_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_expenses
+      label: other_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_expenses
+      label: total_expenses
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Date Calculation Form
+    pages:
+    - id: 1
+      name: date_calculation_form
+      label: Date Calculation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_start_date
+      label: form_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: form_end_date
+      label: form_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: form_days_to_calculate
+      label: form_days_to_calculate
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: form_add_days
+      label: form_add_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_subtract_days
+      label: form_subtract_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_result
+      label: result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_result_description
+      label: result_description
+      hint: null
+      type: text
+      options: []
+      required: false

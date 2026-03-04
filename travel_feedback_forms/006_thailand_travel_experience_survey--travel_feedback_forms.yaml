@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thailand Travel Experience Survey
+    pages:
+    - id: 1
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Beach
+      - Cultural
+      - Foodie
+      - Nature
+      - Shopping
+      - Other
+      required: true
+    - id: 4
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Beach
+      - Cultural
+      - Foodie
+      - Nature
+      - Shopping
+      - Other
+      required: true
+    - id: 5
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trip_cost
+      label: Trip Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false

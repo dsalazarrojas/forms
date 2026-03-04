@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Ethics Committee Workshop Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_evaluation_score
+      label: Workshop Evaluation Score (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workshop_attendance_rating
+      label: Workshop Attendance Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: workshop_content_rating
+      label: Workshop Content Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: workshop_presentation
+      label: Workshop Presentation Style
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: instructor_facilitation_technique
+      label: Instructor Facilitation Technique
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: material_provided
+      label: Materials Provided
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: workshop_length
+      label: Workshop Length
+      hint: null
+      type: select_multiple
+      options:
+      - Too long
+      - Just right
+      - Too short
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

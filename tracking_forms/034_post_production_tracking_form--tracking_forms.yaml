@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Production Tracking Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acquisition_format
+      label: Acquisition Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''PDF''}'
+      - '{''id'': 2, ''label'': ''Word''}'
+      - '{''id'': 3, ''label'': ''Excel''}'
+      required: false
+    - id: 3
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: agency_details
+      label: Agency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deliverables
+      label: Deliverables
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Design''}'
+      - '{''id'': 2, ''label'': ''Development''}'
+      - '{''id'': 3, ''label'': ''Production''}'
+      required: false
+    - id: 6
+      name: post_hours_budget
+      label: Post Hours Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: agency_contact_email
+      label: Agency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: agency_contact_phone
+      label: Agency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: internal_contact_email
+      label: Internal Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: internal_contact_phone
+      label: Internal Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false

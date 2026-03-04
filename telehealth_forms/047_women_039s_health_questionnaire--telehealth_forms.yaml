@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women's Health Questionnaire
+    pages:
+    - id: 1
+      name: routine_check
+      label: Routine Check
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: med_history
+      label: Medical History
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: med_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: med_allergies
+      label: Med Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: med_prescriptions
+      label: Med Prescriptions
+      hint: Please list all current medications
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: social_history
+      label: Social History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_info
+      label: Family Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: med_notes
+      label: Med Notes
+      hint: null
+      type: text
+      options: []
+      required: false

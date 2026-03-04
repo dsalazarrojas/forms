@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motor Carrier Registration Form
+    pages:
+    - id: 1
+      name: carrier_details
+      label: Carrier Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: carrier_type
+      label: Carrier Type
+      hint: null
+      type: select_one
+      options:
+      - Motor Carrier
+      - Non-Motor Carrier
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: license
+      label: License
+      hint: null
+      type: select_one
+      options:
+      - License 1
+      - License 2
+      - License 3
+      required: false
+    - id: 8
+      name: license_number
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: license_expiration
+      label: License Expiration
+      hint: null
+      type: date
+      options: []
+      required: false

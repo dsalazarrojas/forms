@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: waste_manifest_tracker_form
+    pages:
+    - id: 1
+      name: shipment_id
+      label: Shipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipment_type
+      label: Shipment Type
+      hint: null
+      type: select_one
+      options:
+      - Hazardous Materials
+      - Non-Hazardous Materials
+      required: false
+    - id: 6
+      name: shipment_notes
+      label: Shipment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: driver_id
+      label: Driver ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_phone
+      label: Driver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Delivered
+      - Pending
+      required: false
+    - id: 11
+      name: shipment_status_reason
+      label: Shipment Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipper_id
+      label: Shipper ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false

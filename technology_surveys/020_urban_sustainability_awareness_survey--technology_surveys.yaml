@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Sustainability Awareness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_level
+      label: How aware are you about urban sustainability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: current_sustainability_practices
+      label: What are you currently doing to contribute to urban sustainability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: future_sustainability_practices
+      label: What do you plan to do in the future to contribute to urban sustainability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: knowledge_areas
+      label: Which of the following areas of knowledge about urban sustainability
+        are you familiar with
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: behaviors
+      label: What behaviors do you currently exhibit to contribute to urban sustainability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: interest_areas
+      label: Which areas of urban sustainability do you have an interest in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: demographic_info
+      label: Demographic Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: demographic_urban_area
+      label: Urban Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: demographic_urban_area_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: demographic_urban_area_other_input
+      label: Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: demographic_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: demographic_gender_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: demographic_gender_other_input
+      label: Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: demographic_education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 19
+      name: demographic_education_level_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: demographic_education_level_other_input
+      label: Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: demographic_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: demographic_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: demographic_employment_status_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: demographic_employment_status_other_input
+      label: Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: demographic_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: false

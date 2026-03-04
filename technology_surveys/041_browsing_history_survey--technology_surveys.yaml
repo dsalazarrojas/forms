@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Browsing History Survey
+    pages:
+    - id: 1
+      name: respondent_age_group
+      label: Respondent age group
+      hint: Select the age range
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 34
+      - 35 to 54
+      - 55 and over
+      required: false
+    - id: 2
+      name: primary_browser
+      label: Primary browser
+      hint: Browser most commonly used
+      type: select_one
+      options:
+      - Chrome
+      - Safari
+      - Firefox
+      - Edge
+      required: true
+    - id: 3
+      name: average_daily_browsing_hours
+      label: Average daily browsing hours
+      hint: Typical hours spent browsing per day
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: privacy_concerns
+      label: Privacy concerns
+      hint: Level of concern about browsing privacy
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 5
+      name: common_device
+      label: Common device
+      hint: Device most often used for browsing
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Mobile
+      - Tablet
+      required: true
+    - id: 6
+      name: cleared_history_frequency
+      label: Cleared history frequency
+      hint: How often browsing history is cleared
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 7
+      name: use_of_private_mode
+      label: Use of private mode
+      hint: Frequency of using private browsing modes
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback about browsing habits
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garment Waste Audit Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waste_location
+      label: wastelocation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: waste_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waste_quantities
+      label: wastelocationwastemethod
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: disposal_methods
+      label: disposal_method
+      hint: null
+      type: select_one
+      options:
+      - Textile Reuse
+      - Downcycling
+      - Upcycling
+      - Incineration
+      - Recycling
+      - Landfill
+      - Other
+      required: true
+    - id: 6
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_ideas
+      label: improvementideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_status
+      label: submissionstatus
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Not Started
+      required: true

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firewood Update Submission
+    pages:
+    - id: 1
+      name: firewood_type
+      label: wood_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Cancelled
+      - In progress
+      - Shipped
+      - Received
+      required: false
+    - id: 4
+      name: photo_url
+      label: photo_url
+      hint: null
+      type: text
+      options: []
+      required: false

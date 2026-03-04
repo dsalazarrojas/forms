@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Ride Quality Survey Form
+    pages:
+    - id: 1
+      name: ride_quality_form_section
+      label: ride_quality_form_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_1
+      label: what_were_your_overall_feelings_about_your_trip
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: service_quality
+      label: how_would_you_rate_the_service_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Somewhat Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: cleanliness
+      label: how_would_you_rate_the_cleanliness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Somewhat Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 5
+      name: communication
+      label: how_would_you_rate_the_communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Somewhat Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 6
+      name: on_time
+      label: how_would_you_rate_the_on_time_service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Somewhat Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 7
+      name: overall_experience
+      label: how_would_you_rate_your_overall_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Somewhat Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 8
+      name: will_recommend
+      label: will_you_recommend_this_service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: improvement_areas
+      label: what_are_your_comments_or_improvement_areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: would_you_like_to_provide_your_email_or_phone_number
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone Number''}'
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

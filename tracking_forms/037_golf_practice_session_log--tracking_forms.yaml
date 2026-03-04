@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Golf Practice Session Log
+    pages:
+    - id: 1
+      name: date
+      label: Golf Practice Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Full Swing
+      - Short Game
+      - Par 3
+      - Putting
+      - Other
+      required: false
+    - id: 3
+      name: focus_area
+      label: Focus Area
+      hint: null
+      type: select_multiple
+      options:
+      - Grip
+      - Stance
+      - Flexibility
+      - Strength
+      - Power
+      - Accuracy
+      required: false
+    - id: 4
+      name: self_assessment
+      label: Self-Assessment
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Add notes about this session
+      type: note
+      options: []
+      required: false

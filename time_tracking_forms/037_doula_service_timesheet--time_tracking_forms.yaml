@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doula Service Timesheet
+    pages:
+    - id: 1
+      name: doula_service_timesheet_form
+      label: Doula Service Timesheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: visit_details
+      label: Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_session
+      label: Client Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doula_name
+      label: Doula Name
+      hint: null
+      type: text
+      options: []
+      required: false

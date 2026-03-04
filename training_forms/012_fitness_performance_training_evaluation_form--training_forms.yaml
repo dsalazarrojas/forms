@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Performance Training Evaluation Form
+    pages:
+    - id: 1
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: workout_name
+      label: Workout Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: intensity
+      label: Intensity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exercise_type
+      label: Exercise Type
+      hint: null
+      type: select_multiple
+      options:
+      - Squat
+      - Deadlift
+      - Bench Press
+      - etc.
+      required: false
+    - id: 5
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sets
+      label: Sets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reps
+      label: Reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rest_time
+      label: Rest Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trainer_comments
+      label: Trainer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

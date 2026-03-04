@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: product release planning survey
+    pages:
+    - id: 1
+      name: product_release_planning_survey
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_planning_survey
+      label: What are your primary goals for this release?
+      hint: null
+      type: select_multiple
+      options:
+      - Feature prioritization
+      - Release readiness
+      - Communication
+      required: true
+    - id: 3
+      name: release_planning_survey_readiness
+      label: On a scale of 0-5, how ready are you for this release?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: release_planning_survey_communication
+      label: How confident are you in your team's ability to communicate effectively
+        for this release?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: release_planning_survey_feedback
+      label: What do you think is the biggest risk for this release?
+      hint: Please provide details
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_planning_survey_feature_prioritization
+      label: Prioritize features for this release
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: release_planning_survey_communication_plan
+      label: Do you have a communication plan in place for this release?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: release_planning_survey_additional_feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: release_planning_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: release_planning_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: release_planning_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: release_planning_survey_confirmation
+      label: Is this your first time participating in a product launch?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: release_planning_survey_survey_confirmation
+      label: Have you taken the survey in this category before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 14
+      name: release_planning_survey_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Technology Surveys
+      - Other
+      required: false
+    - id: 15
+      name: release_planning_survey_form
+      label: Form
+      hint: null
+      type: select_one
+      options:
+      - Technology Surveys
+      - Other
+      required: false
+    - id: 16
+      name: release_planning_survey_product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Product Release Planning Survey
+      - Other
+      required: true
+    - id: 17
+      name: release_planning_survey_launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: release_planning_survey_product_manager
+      label: Product Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: release_planning_survey_product_manager_email
+      label: Product Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: release_planning_survey_product_manager_phone
+      label: Product Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: release_planning_survey_product_manager_comments
+      label: Comments for Product Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_planning_survey_product_manager_confirmation
+      label: Have you confirmed with the Product Manager?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: release_planning_survey_launch_manager
+      label: Launch Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: release_planning_survey_launch_manager_email
+      label: Launch Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: release_planning_survey_launch_manager_phone
+      label: Launch Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: true

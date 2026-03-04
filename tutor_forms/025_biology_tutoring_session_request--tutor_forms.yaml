@@ -1,0 +1,313 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biology Tutoring Session Request
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: Enter your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: Your school or personal email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Your current grade or year
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - College Freshman
+      - College Sophomore
+      - College Junior
+      - College Senior
+      - Graduate Student
+      - Adult Learner
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: Name of your school or institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tutoring_needs
+      label: Tutoring Needs
+      hint: Tell us about your biology tutoring needs
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: biology_topics
+      label: Biology Topics Needing Help
+      hint: Select all areas you need help with
+      type: select_multiple
+      options:
+      - Cell Biology
+      - Genetics and Heredity
+      - Evolution
+      - Ecology and Environment
+      - Human Anatomy
+      - Human Physiology
+      - Plant Biology
+      - Microbiology
+      - Biochemistry
+      - Molecular Biology
+      - AP Biology Exam Prep
+      - General Biology
+      - Other
+      required: true
+    - id: 10
+      name: current_grade
+      label: Current Grade in Biology
+      hint: Your current grade or performance level
+      type: select_one
+      options:
+      - A (90-100%)
+      - B (80-89%)
+      - C (70-79%)
+      - D (60-69%)
+      - F (Below 60%)
+      - Not Currently Enrolled
+      - Just Need Extra Help
+      required: true
+    - id: 11
+      name: specific_challenges
+      label: Specific Challenges
+      hint: What concepts are you struggling with
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tutoring_goals
+      label: Tutoring Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Improve Overall Grade
+      - Prepare for Upcoming Exam
+      - Understand Difficult Concepts
+      - Complete Homework Assignments
+      - Lab Report Help
+      - Study Skills Development
+      - Test Anxiety Reduction
+      - College Prep
+      required: true
+    - id: 13
+      name: upcoming_exams
+      label: Upcoming Exams or Deadlines
+      hint: List any upcoming tests or due dates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_preferences
+      label: Session Preferences
+      hint: How would you like tutoring sessions
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: session_format
+      label: Preferred Session Format
+      hint: In-person or online
+      type: select_one
+      options:
+      - In-Person
+      - Online Video Call
+      - Either Format
+      - Hybrid
+      required: true
+    - id: 16
+      name: preferred_days
+      label: Preferred Days
+      hint: Select your available days
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 17
+      name: preferred_times
+      label: Preferred Times
+      hint: Select your available times
+      type: select_multiple
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 4 PM)
+      - Evening (4 PM - 8 PM)
+      - Late Evening (8 PM - 10 PM)
+      required: true
+    - id: 18
+      name: session_frequency
+      label: Desired Session Frequency
+      hint: How often do you want sessions
+      type: select_one
+      options:
+      - One-Time Session
+      - Once Per Week
+      - Twice Per Week
+      - Three Times Per Week
+      - As Needed Before Exams
+      required: true
+    - id: 19
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long should each session be
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 1 Hour
+      - 1.5 Hours
+      - 2 Hours
+      required: true
+    - id: 20
+      name: tutor_preference
+      label: Tutor Preference
+      hint: Do you have a tutor preference
+      type: select_one
+      options:
+      - No Preference
+      - Prefer Undergraduate Tutor
+      - Prefer Graduate Tutor
+      - Prefer PhD Tutor
+      - Prefer Specific Tutor
+      required: true
+    - id: 21
+      name: preferred_tutor_name
+      label: Preferred Tutor Name
+      hint: If you have a specific request
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: learning_style
+      label: Your Learning Style
+      hint: How do you learn best
+      type: select_one
+      options:
+      - Visual Learner
+      - Auditory Learner
+      - Reading/Writing Learner
+      - Kinesthetic Learner
+      - Mixed Style
+      - Not Sure
+      required: false
+    - id: 23
+      name: previous_tutoring
+      label: Previous Tutoring Experience
+      hint: Have you had a biology tutor before
+      type: select_one
+      options:
+      - Yes - Very Helpful
+      - Yes - Somewhat Helpful
+      - Yes - Not Helpful
+      - No - First Time
+      required: true
+    - id: 24
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Help us improve outreach
+      type: select_one
+      options:
+      - School Counselor
+      - Teacher Recommendation
+      - Friend or Classmate
+      - Online Search
+      - Social Media
+      - Flyer or Advertisement
+      - Parent
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need tutoring
+      type: select_one
+      options:
+      - As Soon As Possible
+      - Within One Week
+      - Within Two Weeks
+      - Flexible Timing
+      required: true
+    - id: 27
+      name: parent_guardian_info
+      label: Parent or Guardian Information
+      hint: For students under 18
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 30
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: agreement
+      label: Agreement
+      hint: Confirm your interest
+      type: select_one
+      options:
+      - I am interested in biology tutoring and would like to be contacted
+      - I understand a tutor will contact me to schedule
+      required: true

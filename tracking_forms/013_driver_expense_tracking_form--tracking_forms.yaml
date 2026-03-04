@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Expense Tracking Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Fuel
+      - Mileage
+      - Tolls
+      required: false
+    - id: 3
+      name: fuel_cost
+      label: Fuel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tolls_cost
+      label: Tolls Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_trip
+      label: Date Of Trip
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_trip
+      label: Time Of Trip
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: Please describe the trip
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: trip_distance
+      label: Trip Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Van
+      - Motorcycle
+      - Truck
+      required: false
+    - id: 15
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Diesel
+      - Gasoline
+      - Hybrid
+      required: false
+    - id: 16
+      name: driver_location
+      label: Driver Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trip_cost
+      label: Trip Cost
+      hint: Trip cost
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Good, Bad
+      type: select_one
+      options:
+      - Good
+      - Bad
+      required: false
+    - id: 19
+      name: driver_hours
+      label: Driver Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: driver_speed
+      label: Driver Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: trip_distance_unit
+      label: Trip Distance Unit
+      hint: null
+      type: select_one
+      options:
+      - miles
+      - km
+      - miles
+      - km
+      required: false
+    - id: 22
+      name: trip_cost_unit
+      label: Trip Cost Unit
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - eur
+      - gbp
+      required: false
+    - id: 23
+      name: trip_expense
+      label: Trip Expense
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_expense
+      label: Vehicle Expense
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Audit Checklist
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: admin
+      label: Admin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_status
+      label: Building Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: equipment_checklist
+      label: Equipment Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: facility_checklist
+      label: Facility Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: site_admin
+      label: Site Admin
+      hint: null
+      type: text
+      options: []
+      required: false

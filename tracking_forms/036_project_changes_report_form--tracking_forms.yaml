@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Changes Report Form
+    pages:
+    - id: 1
+      name: project_changes_report_form_page1
+      label: Project Changes Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_changes_change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_changes_change_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_changes_change_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_changes_change_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

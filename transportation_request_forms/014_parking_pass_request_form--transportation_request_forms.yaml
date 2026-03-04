@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Pass Request Form
+    pages:
+    - id: 1
+      name: parking_pass_request_form
+      label: parking pass request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: parking pass name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: reason for the pass
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expected_start
+      label: expected start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expected_end
+      label: expected end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 7
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Log Form
+    pages:
+    - id: 1
+      name: log_date
+      label: Log Entry Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: Which grade
+      type: select_one
+      options:
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: Which course
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: Teacher
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assignment_title
+      label: Assignment Title
+      hint: Name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_description
+      label: Assignment Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_category
+      label: Assignment Category
+      hint: Type
+      type: select_one
+      options:
+      - Homework
+      - Classwork
+      - Project
+      - Lab
+      - Quiz
+      - Test
+      - Essay
+      - Presentation
+      required: true
+    - id: 10
+      name: date_assigned
+      label: Date Assigned
+      hint: When given
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: When due
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: When turned in
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: Submission Status
+      hint: Current state
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Submitted
+      - Graded
+      - Returned for Revision
+      required: true
+    - id: 14
+      name: on_time_submission
+      label: Was Submission On Time
+      hint: Timeliness
+      type: select_one
+      options:
+      - 'Yes'
+      - No - Late
+      - No - Not Submitted
+      required: true
+    - id: 15
+      name: days_late
+      label: Number of Days Late
+      hint: If late
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: time_spent_hours
+      label: Time Spent in Hours
+      hint: How long took
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: points_possible
+      label: Points Possible
+      hint: Max score
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: points_earned
+      label: Points Earned
+      hint: Actual score
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: grade_received
+      label: Grade Received
+      hint: Letter grade
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: weight_percentage
+      label: Assignment Weight Percentage
+      hint: How much counts
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: completion_quality
+      label: Completion Quality
+      hint: How well done
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Incomplete
+      required: false
+    - id: 22
+      name: help_received
+      label: Help Received
+      hint: Support used
+      type: select_multiple
+      options:
+      - None
+      - Teacher Office Hours
+      - Tutoring Center
+      - Study Group
+      - Online Resources
+      - Parent Help
+      - Peer Help
+      required: true
+    - id: 23
+      name: challenges_faced
+      label: Challenges Faced
+      hint: Difficulties
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Takeaways
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: goals_for_next
+      label: Goals for Next Assignment
+      hint: Improvement plans
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: teacher_feedback_received
+      label: Was Teacher Feedback Received
+      hint: Got comments
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 27
+      name: feedback_notes
+      label: Feedback Notes
+      hint: Summary of feedback
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: student_reflection
+      label: Student Reflection
+      hint: Self assessment
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: logged_by
+      label: Logged By
+      hint: Who entered
+      type: text
+      options: []
+      required: true

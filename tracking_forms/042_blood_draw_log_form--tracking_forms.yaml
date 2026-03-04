@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Draw Log Form
+    pages:
+    - id: 1
+      name: log_header
+      label: Blood Draw Log Form
+      hint: Record blood draw details for tracking
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: draw_date
+      label: Draw Date
+      hint: When was blood drawn
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: draw_time
+      label: Draw Time
+      hint: Time of draw
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: phlebotomist_name
+      label: Phlebotomist Name
+      hint: Who performed draw
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phlebotomist_id
+      label: Phlebotomist ID
+      hint: Staff ID number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: draw_location
+      label: Draw Location
+      hint: Where was draw performed
+      type: select_one
+      options:
+      - Main Laboratory
+      - Satellite Clinic
+      - Patient Room
+      - Emergency Department
+      - Outpatient Center
+      - Home Visit
+      required: true
+    - id: 10
+      name: draw_site
+      label: Draw Site
+      hint: Which vein was used
+      type: select_one
+      options:
+      - Right Antecubital
+      - Left Antecubital
+      - Right Hand
+      - Left Hand
+      - Right Foot
+      - Left Foot
+      - Other
+      required: true
+    - id: 11
+      name: number_of_tubes
+      label: Number of Tubes
+      hint: How many tubes collected
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tube_types
+      label: Tube Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - EDTA Purple
+      - Serum Separator Gold
+      - Sodium Citrate Blue
+      - Heparin Green
+      - Fluoride Gray
+      - Blood Culture
+      required: true
+    - id: 13
+      name: total_volume
+      label: Total Volume in mL
+      hint: Approximate total
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: draw_method
+      label: Draw Method
+      hint: How was blood drawn
+      type: select_one
+      options:
+      - Syringe
+      - Vacutainer
+      - Butterfly
+      - Line Draw
+      - Finger Stick
+      required: true
+    - id: 15
+      name: needle_gauge
+      label: Needle Gauge
+      hint: Size used
+      type: select_one
+      options:
+      - 21G
+      - 22G
+      - 23G
+      - 25G
+      - Other
+      required: false
+    - id: 16
+      name: attempts_required
+      label: Number of Attempts
+      hint: How many tries
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: complications
+      label: Complications
+      hint: Any issues during draw
+      type: select_one
+      options:
+      - None
+      - Hematoma
+      - Excessive Bleeding
+      - Patient Fainted
+      - Difficult Draw
+      - Other
+      required: true
+    - id: 18
+      name: complication_notes
+      label: Complication Notes
+      hint: Describe if any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_tolerance
+      label: Patient Tolerance
+      hint: How did patient tolerate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: samples_sent_to
+      label: Samples Sent To
+      hint: Which lab department
+      type: select_multiple
+      options:
+      - Chemistry
+      - Hematology
+      - Microbiology
+      - Blood Bank
+      - Immunology
+      - External Lab
+      required: true
+    - id: 21
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of tests
+      type: select_one
+      options:
+      - Routine
+      - ASAP
+      - STAT
+      - Timed
+      required: true
+    - id: 22
+      name: special_handling
+      label: Special Handling Required
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

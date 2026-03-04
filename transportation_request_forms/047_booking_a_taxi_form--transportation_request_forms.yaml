@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking A Taxi Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For driver coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pickup_address
+      label: Pickup Address
+      hint: Full street address for pickup
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pickup_city
+      label: Pickup City
+      hint: City for pickup
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pickup_postal_code
+      label: Pickup Postal Code
+      hint: Postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pickup_landmark
+      label: Pickup Landmark
+      hint: Any landmark near pickup
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dropoff_address
+      label: Drop-off Address
+      hint: Full street address for drop-off
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dropoff_city
+      label: Drop-off City
+      hint: City for drop-off
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dropoff_postal_code
+      label: Drop-off Postal Code
+      hint: Postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pickup_date
+      label: Pickup Date
+      hint: When do you need pickup
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: pickup_time
+      label: Pickup Time
+      hint: What time for pickup
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: trip_type
+      label: Trip Type
+      hint: Select trip type
+      type: select_one
+      options:
+      - One Way
+      - Round Trip
+      - Multiple Stops
+      - Hourly Hire
+      required: true
+    - id: 14
+      name: return_date
+      label: Return Date
+      hint: For round trip
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: return_time
+      label: Return Time
+      hint: For round trip
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: How many passengers
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Select vehicle preference
+      type: select_one
+      options:
+      - Standard Sedan
+      - Luxury Sedan
+      - SUV
+      - Minivan
+      - Wheelchair Accessible
+      required: true
+    - id: 18
+      name: luggage_count
+      label: Number of Luggage Pieces
+      hint: How many bags
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs
+      type: select_multiple
+      options:
+      - Child Seat
+      - Pet Friendly
+      - Extra Luggage Space
+      - Wheelchair Access
+      - None
+      required: false
+    - id: 20
+      name: flight_number
+      label: Flight Number
+      hint: If airport pickup
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Mobile Payment
+      - Corporate Account
+      required: true
+    - id: 22
+      name: estimated_fare
+      label: Estimated Fare
+      hint: Approximate cost
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I Agree to Booking Terms
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

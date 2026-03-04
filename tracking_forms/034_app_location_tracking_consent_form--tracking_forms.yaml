@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Location Tracking Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_id
+      label: User ID or Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tracking_purpose_note
+      label: -- Purpose of Tracking --
+      hint: We use location data to provide nearby service recommendations and improve
+        navigation accuracy
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gps_consent
+      label: I consent to GPS tracking while the app is in use
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 7
+      name: background_location_consent
+      label: I consent to background location tracking
+      hint: Allows features to work even when the app is closed
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 8
+      name: revocation_understanding
+      label: I understand I can revoke this permission at any time in app settings
+      hint: null
+      type: select_multiple
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 9
+      name: data_retention_agreement
+      label: I agree to the data retention policy (30 days)
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 10
+      name: privacy_policy_ack
+      label: I have read and agree to the Privacy Policy
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 11
+      name: digital_signature
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

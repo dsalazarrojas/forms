@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Itinerary Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Name of your direct manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_purpose
+      label: Purpose of Travel
+      hint: Why are you traveling?
+      type: select_one
+      options:
+      - Client meeting or presentation
+      - Conference or training
+      - Sales or business development
+      - Site visit or inspection
+      - Project implementation
+      - Internal meeting
+      - Networking event
+      - Other business purpose
+      required: true
+    - id: 7
+      name: travel_start_date
+      label: Departure Date
+      hint: When do you leave?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: travel_end_date
+      label: Return Date
+      hint: When do you return?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: departure_city
+      label: Departure City
+      hint: Where are you traveling from?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: destination_city
+      label: Destination City
+      hint: Where are you traveling to?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: destination_country
+      label: Destination Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: transportation_mode
+      label: Primary Transportation
+      hint: How will you travel?
+      type: select_one
+      options:
+      - Air travel
+      - Car or rental
+      - Train
+      - Bus
+      - Multiple modes
+      required: true
+    - id: 13
+      name: accommodation_needed
+      label: Hotel or Accommodation Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, hotel accommodation
+      - Yes, client/partner hosted
+      - Yes, other arrangement
+      - No overnight stay
+      required: true
+    - id: 14
+      name: hotel_preference
+      label: Hotel Preference or Booking
+      hint: Preferred hotel chain or hotel
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_budget
+      label: Estimated Travel Budget
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: attendees
+      label: Others Traveling With You
+      hint: Names of other employees
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements or Needs
+      hint: Dietary, accessibility, preferences
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: passport_visa_needed
+      label: Passport or Visa Required
+      hint: null
+      type: select_one
+      options:
+      - Yes, visa needed
+      - Yes, passport only
+      - No documents needed
+      - Unsure
+      required: true
+    - id: 19
+      name: pre_trip_briefing
+      label: Pre-Trip Briefing or Preparation
+      hint: Do you need orientation or briefing?
+      type: select_one
+      options:
+      - Yes, briefing needed
+      - Yes, materials to review
+      - No briefing needed
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

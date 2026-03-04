@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cluster Analysis Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: analyst_name
+      label: Analyst or Consultant Name
+      hint: Person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: analyst_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_organization
+      label: Client Organization Name
+      hint: Company requesting analysis
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: analysis_objective
+      label: Analysis Objective
+      hint: What are you trying to achieve
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dataset_size
+      label: Estimated Dataset Size
+      hint: Number of records or observations
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: data_dimensions
+      label: Number of Variables or Features
+      hint: Dimensions in the data
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: data_type
+      label: Primary Data Type
+      hint: Select the type of data
+      type: select_one
+      options:
+      - Numerical Only
+      - Categorical Only
+      - Mixed Numerical and Categorical
+      - Time Series
+      - Other
+      required: true
+    - id: 10
+      name: clustering_algorithm
+      label: Preferred Clustering Algorithm
+      hint: Select algorithm preference
+      type: select_one
+      options:
+      - K-Means
+      - Hierarchical
+      - DBSCAN
+      - GMM
+      - No Preference
+      required: true
+    - id: 11
+      name: expected_clusters
+      label: Expected Number of Clusters
+      hint: How many groups do you expect
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: business_constraints
+      label: Business Constraints or Requirements
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: data_quality
+      label: Data Quality Assessment
+      hint: How clean is the data
+      type: select_one
+      options:
+      - High Quality, Minimal Cleaning
+      - Moderate Quality, Some Cleaning Needed
+      - Low Quality, Significant Cleaning Required
+      - Unknown
+      required: true
+    - id: 14
+      name: timeline
+      label: Project Timeline
+      hint: When is analysis needed
+      type: select_one
+      options:
+      - ASAP
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Flexible
+      required: true
+    - id: 15
+      name: deliverables
+      label: Expected Deliverables
+      hint: What outputs are needed
+      type: text
+      options: []
+      required: false

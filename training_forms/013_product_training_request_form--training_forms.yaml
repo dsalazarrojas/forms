@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Training Request Form
+    pages:
+    - id: 1
+      name: product_training_request_form
+      label: Product Training Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_title
+      label: Product Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_version
+      label: Product Version
+      hint: Version of the product
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_user
+      label: Requested User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_manager
+      label: Training Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Contact phone number for further communication
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

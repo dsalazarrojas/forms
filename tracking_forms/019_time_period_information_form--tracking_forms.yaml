@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Period Information Form
+    pages:
+    - id: 1
+      name: time_period_id
+      label: Time Period ID
+      hint: Unique Time Period ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: time_period_status
+      label: time_period_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Project Start
+      - Project In Progress
+      - Project End
+      required: true
+    - id: 9
+      name: time_period_notes
+      label: time_period_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: team_members
+      label: team_members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: team_lead_email
+      label: team_lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: team_lead_phone
+      label: team_lead_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: project_manager_phone
+      label: project_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter
+      label: submitters
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: true

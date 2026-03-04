@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Timesheet And Tracking Form
+    pages:
+    - id: 1
+      name: timesheet_form
+      label: Timesheet Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clock_in
+      label: Clock In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: clock_out
+      label: Clock Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lunch_break
+      label: Lunch Break
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: total_hours_worked
+      label: Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      required: false
+    - id: 7
+      name: time_zone_other
+      label: time_zone_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_zone_offset
+      label: Time Zone Offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - user1
+      - user2
+      required: false
+    - id: 11
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

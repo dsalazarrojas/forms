@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Questionnaire
+    pages:
+    - id: 1
+      name: relationship_status
+      label: What is the current relationship status?
+      hint: null
+      type: select_one
+      options:
+      - Both partners are married
+      - In a civil union
+      - In a domestic partnership
+      - Engaged
+      - In an open relationship
+      - Separated or divorced
+      - Widowed
+      - Not applicable
+      - Other
+      required: false
+    - id: 2
+      name: communication_style
+      label: How would you describe the communication style between you and your partner?
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: conflict_resolution
+      label: How would you describe your partner's conflict resolution style?
+      hint: null
+      type: select_one
+      options:
+      - Collaborative
+      - Avoidant
+      - Competitive
+      - Compromise
+      - Other
+      required: false
+    - id: 4
+      name: relationship_satisfaction
+      label: How satisfied are you with your current relationship?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: relationship_expectations
+      label: What are your expectations for your relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_challenges
+      label: What are some common challenges that prevent you from communicating effectively
+        with your partner?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_goals
+      label: What are your primary goals for this relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship_duration
+      label: How long have you been in your current relationship?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 9
+      name: relationship_history
+      label: What happened to your last relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relationship_future
+      label: What do you see for the future of this relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relationship_type
+      label: What type of relationship do you have?
+      hint: null
+      type: select_one
+      options:
+      - Romantic
+      - Friendship
+      - Family
+      - Other
+      required: false
+    - id: 12
+      name: relationship_intensity
+      label: How intense or passionate is this relationship?
+      hint: null
+      type: select_one
+      options:
+      - Highly
+      - Moderately
+      - Not very intense
+      required: false
+    - id: 13
+      name: relationship_satisfaction_scale
+      label: How satisfied are you with your current relationship?
+      hint: On a scale from 1-10, where 1 is very dissatisfied and 10 is very satisfied
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: relationship_commitment
+      label: How committed are you to your partner?
+      hint: null
+      type: select_one
+      options:
+      - Very committed
+      - Somewhat committed
+      - Not very committed
+      required: false
+    - id: 15
+      name: relationship_fidelity
+      label: What level of fidelity do you maintain in your relationship?
+      hint: null
+      type: select_one
+      options:
+      - 100%
+      - 90-99%
+      - 75-89%
+      - 50-74%
+      - 25-49%
+      - 1-24%
+      - Less than 1%
+      required: false
+    - id: 16
+      name: relationship_frequency
+      label: How often do you and your partner meet in person?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 17
+      name: relationship_distance
+      label: What distance is between you and your partner?
+      hint: null
+      type: select_one
+      options:
+      - Less than 100 miles
+      - 100-200 miles
+      - 200-500 miles
+      - More than 500 miles
+      required: false
+    - id: 18
+      name: relationship_duration_2
+      label: How long have you been in your current relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: relationship_status_2
+      label: What is the current relationship status?
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Engaged
+      - Separated
+      - Divorced
+      - Widowed
+      - It's complicated
+      required: false
+    - id: 20
+      name: relationship_satisfaction_2
+      label: How satisfied are you with your current relationship?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 21
+      name: relationship_expectations_2
+      label: What are your expectations for your relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: relationship_goals_2
+      label: What are your primary goals for your relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: relationship_challenges_2
+      label: What are some common challenges that prevent you from communicating effectively
+        with your partner?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: relationship_history_2
+      label: What happened to your last relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: relationship_future_2
+      label: What do you see for the future of your relationship?
+      hint: null
+      type: text
+      options: []
+      required: false

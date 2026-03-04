@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 45 Stop & Shop Vendor Application
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: '--- Applicant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will use this to send your application status
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code (e.g., +1 555-123-4567)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Home address
+      hint: Include street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: application_date
+      label: Application date
+      hint: Date you are submitting this form
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_vendor
+      label: '--- Vendor Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vendor_name
+      label: Vendor or business name
+      hint: The name under which you operate
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_type
+      label: Business structure
+      hint: Select the legal form of your business
+      type: select_one
+      options:
+      - Individual
+      - LLC
+      - Corporation
+      - Non-Profit
+      - Cooperative
+      required: true
+    - id: 11
+      name: license_number
+      label: Business license number
+      hint: Provide the official license ID
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: website
+      label: Website URL
+      hint: "Include https:// prefix if applicable"
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: social_media
+      label: Primary social media handle
+      hint: e.g., @yourbrand on Instagram or Facebook
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_categories
+      label: Product categories you will sell
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food & Beverage
+      - Handmade Crafts
+      - Art & Prints
+      - Jewelry
+      - Clothing & Accessories
+      - Home Decor
+      - Tech Gadgets
+      - Health & Wellness
+      - Pet Supplies
+      - Other
+      required: true
+    - id: 15
+      name: booth_size_preference
+      label: Preferred booth size
+      hint: Choose the size that best fits your display needs
+      type: select_one
+      options:
+      - Small (2x2 ft)
+      - Medium (4x4 ft)
+      - Large (6x6 ft)
+      - Custom
+      required: true
+    - id: 16
+      name: booth_location_preference
+      label: Preferred booth location
+      hint: Select where you would like to be positioned
+      type: select_one
+      options:
+      - Front Entrance
+      - Side Alley
+      - Back Entrance
+      - Near Stage
+      required: true
+    - id: 17
+      name: prior_vendor_experience
+      label: Have you sold at a vendor or craft show before?
+      hint: Select "Yes" if you have prior experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: years_in_business
+      label: Years in business
+      hint: How many full years have you been operating
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: estimated_revenue
+      label: Estimated revenue per event
+      hint: Provide an approximate amount in USD
+      type: decimal
+      options: []
+      required: true
+    - id: 20
+      name: insurance_requirement
+      label: Do you carry liability insurance?
+      hint: Required for all vendors selling consumables
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: liability_insurance_details
+      label: Liability insurance details
+      hint: Include policy number and provider
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: health_and_safety_compliance
+      label: Health & Safety compliance status
+      hint: Indicate your compliance level
+      type: select_one
+      options:
+      - Fully Compliant
+      - Partial Compliance
+      - Not Compliant
+      required: true
+    - id: 23
+      name: food_handling_certification
+      label: Food handling certification
+      hint: If you sell food, provide certification status
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Not Applicable
+      required: true
+    - id: 24
+      name: additional_requirements
+      label: Any special equipment or space requirements
+      hint: e.g., need electrical outlet, refrigeration, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Use this space to share anything else we should know
+      type: text
+      options: []
+      required: false

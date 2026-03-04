@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Therapy Quote Form
+    pages:
+    - id: 1
+      name: quote_request
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: Select one or more
+      type: select_one
+      options:
+      - Massage
+      - Chiropractic
+      - Acupuncture
+      - Other
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pricing_details
+      label: Pricing Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 10
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_details
+      label: Follow up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_session_type
+      label: Other Session Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_session_details
+      label: Other Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: practitioner_info
+      label: Practitioner Info
+      hint: null
+      type: text
+      options: []
+      required: true

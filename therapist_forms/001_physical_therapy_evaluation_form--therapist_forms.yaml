@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Evaluation Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physical_evaluation
+      label: Physical Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Excellent''}'
+      - '{''id'': 5, ''label'': ''Bad''}'
+      required: false
+    - id: 4
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: physical_function
+      label: Physical Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: range_of_motion
+      label: Range of Motion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Limited''}'
+      - '{''id'': 4, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: muscle_strengthening
+      label: Muscle Strengthening
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: muscle_strengthening_frequency
+      label: Muscle Strengthening Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

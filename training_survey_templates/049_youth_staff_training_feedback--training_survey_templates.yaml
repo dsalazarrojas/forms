@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Staff Training Feedback
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_suggestions
+      label: Training Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trainer_effectiveness
+      label: Trainer Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_rating
+      label: Session Rating
+      hint: Select a session
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 5
+      name: trainer_rating
+      label: Trainer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: areas_to_improve
+      label: Areas to Improve
+      hint: Select areas to improve
+      type: select_multiple
+      options:
+      - Communication Skills
+      - Leadership Skills
+      - Training Content
+      - Other
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Item Return Confirmation
+    pages:
+    - id: 1
+      name: rental_item_return_confirmation
+      label: Return Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_details
+      label: Item Details
+      hint: Enter item details here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_details
+      label: User Details
+      hint: Enter user details here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_date_time
+      label: Rental Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_date_time
+      label: Return Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - new
+      - used
+      - damaged
+      - good
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

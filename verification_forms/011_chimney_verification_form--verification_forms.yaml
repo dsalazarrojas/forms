@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chimney Verification Form
+    pages:
+    - id: 1
+      name: verification_information
+      label: Verification Information
+      hint: Basic details about this verification
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: verification_date
+      label: Date of Verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: verifier_name
+      label: Verifier Name
+      hint: Certified inspector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: verifier_company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: verifier_license
+      label: License or Certification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: homeowner_information
+      label: Homeowner Information
+      hint: Property owner details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: homeowner_name
+      label: Homeowner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: homeowner_phone
+      label: Homeowner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: homeowner_email
+      label: Homeowner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: chimney_details
+      label: Chimney Details
+      hint: System information
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: chimney_type
+      label: Chimney Type
+      hint: null
+      type: select_one
+      options:
+      - Masonry
+      - Prefabricated
+      - Metal
+      - Stone
+      - Brick
+      required: true
+    - id: 13
+      name: number_of_flues
+      label: Number of Flues
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fuel_type
+      label: Primary Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Gas
+      - Oil
+      - Pellet
+      - Coal
+      - Other
+      required: true
+    - id: 15
+      name: last_cleaning_date
+      label: Date of Last Chimney Cleaning
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: safety_verification
+      label: Safety Verification Checklist
+      hint: Mark each verified item
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: flue_verified
+      label: Flue Liner Verified Safe
+      hint: No cracks or damage
+      type: select_one
+      options:
+      - Yes, verified
+      - No, issues found
+      - Not accessible
+      required: true
+    - id: 18
+      name: cap_verified
+      label: Chimney Cap Present and Secure
+      hint: null
+      type: select_one
+      options:
+      - Yes, verified
+      - No, missing
+      - No, damaged
+      required: true
+    - id: 19
+      name: flashing_verified
+      label: Flashing Intact and Sealed
+      hint: null
+      type: select_one
+      options:
+      - Yes, verified
+      - No, issues found
+      - Not accessible
+      required: true
+    - id: 20
+      name: masonry_verified
+      label: Masonry Structurally Sound
+      hint: No significant deterioration
+      type: select_one
+      options:
+      - Yes, verified
+      - No, issues found
+      - Minor issues noted
+      required: true
+    - id: 21
+      name: damper_verified
+      label: Damper Operational
+      hint: Opens and closes properly
+      type: select_one
+      options:
+      - Yes, verified
+      - No, inoperable
+      - No, missing
+      required: true
+    - id: 22
+      name: clearance_verified
+      label: Proper Clearances Verified
+      hint: From combustible materials
+      type: select_one
+      options:
+      - Yes, verified
+      - No, issues found
+      - Not applicable
+      required: true
+    - id: 23
+      name: draft_verified
+      label: Proper Draft Confirmed
+      hint: null
+      type: select_one
+      options:
+      - Yes, verified
+      - No, draft issues
+      - Unable to test
+      required: true
+    - id: 24
+      name: carbon_monoxide_check
+      label: Carbon Monoxide Test Passed
+      hint: null
+      type: select_one
+      options:
+      - Yes, passed
+      - No, detected
+      - Not tested
+      required: true
+    - id: 25
+      name: verification_result
+      label: Verification Result
+      hint: Overall determination
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: system_status
+      label: Chimney System Status
+      hint: null
+      type: select_one
+      options:
+      - Safe and efficient
+      - Safe with minor recommendations
+      - Conditional - repairs needed
+      - Unsafe - do not use
+      required: true
+    - id: 27
+      name: safe_for_use
+      label: Is the chimney safe for immediate use
+      hint: null
+      type: select_one
+      options:
+      - Yes, safe for use
+      - Yes, with precautions
+      - No, repairs required
+      - No, unsafe
+      required: true
+    - id: 28
+      name: restrictions_noted
+      label: Any Usage Restrictions
+      hint: Describe limitations if any
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: repairs_required
+      label: Repairs Required Before Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Chimney cleaning
+      - Cap replacement
+      - Flashing repair
+      - Masonry repair
+      - Liner repair
+      - Damper repair
+      - Crown repair
+      - Structural repair
+      required: true
+    - id: 30
+      name: recommendations
+      label: Additional Recommendations
+      hint: Suggested improvements
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: next_inspection_date
+      label: Recommended Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: verification_statement
+      label: Verification Statement
+      hint: I certify this chimney has been verified
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: verifier_signature
+      label: Verifier Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: homeowner_signature
+      label: Homeowner Acknowledgment
+      hint: Acknowledgment of verification results
+      type: text
+      options: []
+      required: true

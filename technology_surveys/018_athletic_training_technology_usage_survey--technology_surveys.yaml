@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Technology Usage Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization/Institution
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Your Role
+      hint: Your position or title
+      type: select_one
+      options:
+      - Athletic Trainer
+      - Coach
+      - Medical Staff
+      - Administrator
+      - Support Staff
+      - Other
+      required: true
+    - id: 6
+      name: experience_years
+      label: Years of Experience
+      hint: In your current field
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: work_setting
+      label: Work Setting
+      hint: Primary work environment
+      type: select_one
+      options:
+      - High School
+      - College/University
+      - Professional
+      - Clinic
+      - Hospital
+      - Other
+      required: true
+    - id: 8
+      name: technology_adoption
+      label: -- Technology Adoption --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_tech_adoption
+      label: Overall Technology Adoption
+      hint: How would you rate your organization's tech adoption?
+      type: select_one
+      options:
+      - Very Behind
+      - Behind
+      - Average
+      - Advanced
+      - Leading Edge
+      required: true
+    - id: 10
+      name: personal_tech_comfort
+      label: Personal Technology Comfort Level
+      hint: How comfortable are you with technology?
+      type: select_one
+      options:
+      - Very Uncomfortable
+      - Uncomfortable
+      - Neutral
+      - Comfortable
+      - Very Comfortable
+      required: true
+    - id: 11
+      name: electronic_medical_records
+      label: Electronic Medical Records Usage
+      hint: How often do you use EMR systems?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 12
+      name: video_analysis_software
+      label: Video Analysis Software Usage
+      hint: Frequency of use for motion analysis
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 13
+      name: wearable_technology
+      label: Wearable Technology Usage
+      hint: GPS watches, heart rate monitors, etc.
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 14
+      name: rehabilitation_software
+      label: Rehabilitation/Exercise Software
+      hint: Frequency of use for rehab tracking
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 15
+      name: communication_tools
+      label: Digital Communication Tools
+      hint: Email, messaging apps, video conferencing
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 16
+      name: perceptions_benefits
+      label: -- Technology Perceptions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tech_improves_care
+      label: Technology improves quality of care
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 18
+      name: tech_increases_efficiency
+      label: Technology increases work efficiency
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: tech_time_consuming
+      label: Technology is time-consuming to use
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: tech_cost_barrier
+      label: Cost is a barrier to technology adoption
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: tech_training_needed
+      label: Better training on technology is needed
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 22
+      name: barriers_challenges
+      label: Barriers and Challenges
+      hint: What are the main barriers to technology adoption?
+      type: select_multiple
+      options:
+      - Cost
+      - Lack of Training
+      - Time Constraints
+      - Resistance to Change
+      - Technical Issues
+      - Lack of Support
+      - Privacy Concerns
+      - None
+      required: true
+    - id: 23
+      name: desired_technologies
+      label: Desired Technologies
+      hint: What technologies would you like to use?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: technology_recommendations
+      label: Technology Recommendations
+      hint: Any recommendations for technology adoption?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback on technology in athletic training
+      type: text
+      options: []
+      required: false

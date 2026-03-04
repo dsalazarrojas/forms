@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ventilation Planning Survey
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: space_description
+      label: Space Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: space_size
+      label: Space Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: space_height
+      label: Space Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: system_description
+      label: System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''System 1''}'
+      - '{''id'': 2, ''label'': ''System 2''}'
+      - '{''id'': 3, ''label'': ''System 3''}'
+      required: false
+    - id: 7
+      name: system_capacity
+      label: System Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: system_location
+      label: System Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: system_notes
+      label: System Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: designer_name
+      label: Designer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: designer_email
+      label: Designer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: designer_phone
+      label: Designer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: designer_notes
+      label: Designer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: engineer_name
+      label: Engineer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: engineer_email
+      label: Engineer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: engineer_phone
+      label: Engineer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: engineer_notes
+      label: Engineer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: other_names
+      label: Other Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Engineer''}'
+      - '{''id'': 2, ''label'': ''Project Manager''}'
+      required: false
+    - id: 24
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''On Hold''}'
+      required: false
+    - id: 25
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Conflict Awareness Survey
+    pages:
+    - id: 1
+      name: conflict_awareness
+      label: Conflict Awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: information_sources
+      label: Information Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: perceived_consequences
+      label: Perceived Consequences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: public_perception
+      label: Public Perception
+      hint: This is a date field
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: public_perception_hint
+      label: More information about public perception
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: conflict_location
+      label: Conflict Location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 9
+      name: conflict_type
+      label: Conflict Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: conflict_description
+      label: Conflict Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conflict_date
+      label: Conflict Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: resolution_type
+      label: Resolution Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Consent Waiver Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: service_provider_name
+      label: Service Provider Name
+      hint: Organization or individual
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: What services will you receive?
+      type: select_one
+      options:
+      - Counseling Services
+      - Coaching Services
+      - Consulting Services
+      - Training Services
+      - Wellness Services
+      - Educational Services
+      - Other
+      required: true
+    - id: 12
+      name: service_description
+      label: Service Description
+      hint: Brief description of services
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_start_date
+      label: Service Start Date
+      hint: When do services begin?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: risks_understanding
+      label: I Understand There May Be Risks Associated with These Services
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 15
+      name: risks_description
+      label: Potential Risks Include
+      hint: Select all that may apply
+      type: select_multiple
+      options:
+      - Emotional Discomfort
+      - Psychological Stress
+      - Physical Discomfort
+      - Time Commitment
+      - Financial Cost
+      - No Guarantee of Results
+      - Other
+      required: true
+    - id: 16
+      name: voluntary_participation
+      label: My Participation Is Voluntary
+      hint: You may withdraw at any time
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 17
+      name: liability_waiver
+      label: I Waive Claims Against the Service Provider
+      hint: Liability release
+      type: select_one
+      options:
+      - I Waive All Claims
+      - I Do Not Waive Claims
+      required: true
+    - id: 18
+      name: assumption_of_risk
+      label: I Assume All Risks Associated with Participation
+      hint: Risk assumption
+      type: select_one
+      options:
+      - I Assume All Risks
+      - I Do Not Assume Risks
+      required: true
+    - id: 19
+      name: medical_clearance
+      label: I Am Medically Cleared to Participate
+      hint: Health status confirmation
+      type: select_one
+      options:
+      - Yes, I Am Cleared
+      - No, I Need Clearance
+      - Not Applicable
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Any conditions affecting participation
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related to you?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: information_accuracy
+      label: I Confirm All Information Provided Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 25
+      name: agreement_terms
+      label: I Agree to All Terms and Conditions
+      hint: Full agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 26
+      name: consent_date
+      label: Consent Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: If client is a minor
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: If client is a minor
+      type: text
+      options: []
+      required: false

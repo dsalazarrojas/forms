@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Produce Inventory Survey
+    pages:
+    - id: 1
+      name: non_produce_inventory_survey_form
+      label: Item Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stock_levels
+      label: Stock Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: non_produce_inventory_survey_restocking_needs
+      label: Restocking Needs
+      hint: null
+      type: select_one
+      options:
+      - Item
+      - Non-Item
+      required: false
+    - id: 4
+      name: non_produce_inventory_restocking_needs_frequency
+      label: Restocking Needs Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: non_produce_inventory_restocking_needs_quantity
+      label: Restocking Needs Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: non_produce_inventory_restocking_needs_unit
+      label: Restocking Needs Unit
+      hint: null
+      type: select_one
+      options:
+      - Each
+      - Eaches
+      - Case
+      - Cases
+      required: false
+    - id: 7
+      name: non_produce_inventory_reorder_point
+      label: Reorder Point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: non_produce_inventory_reorder_frequency
+      label: Reorder Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: non_produce_inventory_reorder_point_quantity
+      label: Reorder Point Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: non_produce_inventory_survey_note
+      label: Survey Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: non_produce_inventory_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: non_produce_inventory_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

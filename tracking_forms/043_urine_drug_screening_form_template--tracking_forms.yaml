@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urine Drug Screening Form Template
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: sample_id
+      label: sample_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: test_panel
+      label: test_panel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: test_result
+      label: test_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: test_result_comments
+      label: test_result_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: test_date_performed
+      label: test_date_performed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: test_time_performed
+      label: test_time_performed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: test_location
+      label: test_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: test_result_notes
+      label: test_result_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: healthcare_provider_signature
+      label: healthcare_provider_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: result_reviewed_by
+      label: result_reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: result_reviewed_by_signature
+      label: result_reviewed_by_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: test_ordered_by
+      label: test_ordered_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: test_ordered_by_position
+      label: test_ordered_by_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: test_ordered_by_signature
+      label: test_ordered_by_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_ordered
+      label: date_ordered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: test_ordered_by_phone
+      label: test_ordered_by_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: test_ordered_by_email
+      label: test_ordered_by_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: lab_id
+      label: lab_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: test_date_shipped
+      label: test_date_shipped
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: test_date_received_in_lab
+      label: test_date_received_in_lab
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: lab_id_shipped
+      label: lab_id_shipped
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Task Management Board
+    pages:
+    - id: 1
+      name: board_header
+      label: -- Task details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: task_title
+      label: Task title
+      hint: Short descriptive title for the task
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: task_description
+      label: Task description
+      hint: Detailed description of the work to be done
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_to
+      label: Assigned to
+      hint: Person or team responsible for the task
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: priority
+      label: Priority
+      hint: Select the task priority
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 6
+      name: status
+      label: Status
+      hint: Current status of the task
+      type: select_one
+      options:
+      - Backlog
+      - In progress
+      - Blocked
+      - Completed
+      required: true
+    - id: 7
+      name: start_date
+      label: Start date
+      hint: When work on the task should begin
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: due_date
+      label: Due date
+      hint: Target completion date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: estimated_hours
+      label: Estimated hours
+      hint: Estimated effort in hours
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tags
+      label: Tags
+      hint: Labels to categorize the task
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: related_documents
+      label: Related documents
+      hint: Reference document names or links
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: progress_updates
+      label: Progress updates
+      hint: Short updates on task progress
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: completion_notes
+      label: Completion notes
+      hint: Final notes upon task completion
+      type: text
+      options: []
+      required: false

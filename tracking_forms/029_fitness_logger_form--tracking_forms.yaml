@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Logger Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_logged
+      label: Date Logged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exercise_name
+      label: Exercise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Strength''}'
+      - '{''name'': ''Cardio''}'
+      - '{''name'': ''Flexibility''}'
+      - '{''name'': ''Endurance''}'
+      - '{''name'': ''Core''}'
+      - '{''name'': ''Power''}'
+      - '{''name'': ''Balance''}'
+      - '{''name'': ''Flexibility''}'
+      - '{''name'': ''Stretching''}'
+      - '{''name'': ''Balance''}'
+      - '{''name'': ''Core''}'
+      - '{''name'': ''Endurance''}'
+      - '{''name'': ''Strength''}'
+      - '{''name'': ''Power''}'
+      - '{''name'': ''Cardio''}'
+      required: true
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: weight_lbs
+      label: Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: reps
+      label: Reps
+      hint: null
+      type: number
+      options: []
+      required: false

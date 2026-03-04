@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: DAT Trainee Survey
+    pages:
+    - id: 1
+      name: trainee_survey_page_1
+      label: Training Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: survey_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: survey_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_trainee_id
+      label: Trainee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trainee_survey_page_2
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: trainee_survey_page_3
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: trainee_survey_page_4
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true

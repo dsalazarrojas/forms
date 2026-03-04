@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Car Purchase Checklist
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: select_multiple
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - General Motors
+      - Nissan
+      required: false
+    - id: 2
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_plate_number
+      label: Vehicle plate number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_vehicle_identification_number
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_vehicle_condition
+      label: Vehicle condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_vehicle_previous_owners
+      label: Vehicle previous owners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_vehicle_milage
+      label: Vehicle mileage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_inspection_done
+      label: Vehicle inspection done
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: vehicle_inspections
+      label: Vehicle inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: vehicle_inspection_results
+      label: Vehicle inspection results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_inspection_photos
+      label: Vehicle inspection photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_inspection_reports
+      label: Vehicle inspection reports
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_sale_date
+      label: Vehicle sale date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_sale_price
+      label: Vehicle sale price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_previous_sales
+      label: Vehicle previous sales
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: vehicle_warranty
+      label: Vehicle warranty
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Partial
+      - None
+      required: false
+    - id: 19
+      name: vehicle_insurance
+      label: Vehicle insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: vehicle_registration
+      label: Vehicle registration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: vehicle_purchase_order_number
+      label: Vehicle purchase order number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_delivery_date
+      label: Vehicle delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_delivery_status
+      label: Vehicle delivery status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: vehicle_vehicle_notes
+      label: Vehicle notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_sale_manager_notes
+      label: Sale manager notes
+      hint: null
+      type: text
+      options: []
+      required: false

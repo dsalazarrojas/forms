@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Face Recognition Feedback Form
+    pages:
+    - id: 1
+      name: face_recognition_experience
+      label: Face Recognition Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Your Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: face_recognition_system_performance
+      label: Face Recognition System Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: face_recognition_accuracy
+      label: Face Recognition Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: face_recognition_speed
+      label: Face Recognition Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: face_recognition_ease_of_use
+      label: Face Recognition Ease of Use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very easy''}'
+      - '{''id'': 2, ''label'': ''Somewhat easy''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat difficult''}'
+      - '{''id'': 5, ''label'': ''Very difficult''}'
+      required: false
+    - id: 8
+      name: face_recognition_helpfulness
+      label: Face Recognition Helpfulness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very helpful''}'
+      - '{''id'': 2, ''label'': ''Somewhat helpful''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat unhelpful''}'
+      - '{''id'': 5, ''label'': ''Very unhelpful''}'
+      required: false
+    - id: 9
+      name: face_recognition_confidence
+      label: Face Recognition Confidence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: face_recognition_security_concerns
+      label: Face Recognition Security Concerns
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: face_recognition_security_confidence
+      label: Face Recognition Security Confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

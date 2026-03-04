@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_challenge
+    pages:
+    - id: 1
+      name: challenge_title
+      label: Weekly Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Tracking Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Weekly Challenge, updated for clients to challenge themselves.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - assigned_tool
+      - Other
+      required: true
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

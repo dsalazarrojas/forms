@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Cybersecurity Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: practice_location
+      label: Practice Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_practices
+      label: Number of Practices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cybersecurity_lead_person
+      label: Cybersecurity Lead Person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email_domain
+      label: Email Domain
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: security_concerns
+      label: Security Concerns
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: security_concerns_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cybersecurity_measures
+      label: Cybersecurity Measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: measures_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: training_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_response_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: incident_reporting_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_response_plan
+      label: Incident Response Plan
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 17
+      name: incident_response_plan_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: data_backup
+      label: Data Backup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: data_backup_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: data_backup_policy
+      label: Data Backup Policy
+      hint: null
+      type: date
+      options: []
+      required: false

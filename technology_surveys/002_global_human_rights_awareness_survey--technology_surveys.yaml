@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Human Rights Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: human_rights_definition
+      label: Human Rights Definition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rights_and_freedoms
+      label: Rights and Freedoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rights_basis
+      label: Rights Basis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: impact_on_society
+      label: Impact on Society
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: human_rights_violations
+      label: Human Rights Violations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: human_rights_violations_locations
+      label: Human Rights Violations Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: impact_on_individuals
+      label: Impact on Individuals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: human_rights_violations_countries
+      label: Human Rights Violations Countries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: impact_on_gender
+      label: Impact on Gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: impact_on_age
+      label: Impact on Age
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

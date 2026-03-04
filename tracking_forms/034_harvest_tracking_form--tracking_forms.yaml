@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: harvest_tracking_form--tracking_forms
+    pages:
+    - id: 1
+      name: farm_id
+      label: Farm Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: plant_id
+      label: Plant Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_harvested
+      label: Date Harvested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: harvested_by
+      label: Harvested By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_harvested
+      label: Quantity Harvested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: harvested_on
+      label: Harvested On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: harvested_by_phone
+      label: Harvested By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: farm_notes
+      label: Farm Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: tracking_form_status
+      label: Tracking Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Completed
+      required: true
+    - id: 12
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: farm_address
+      label: Farm Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: farm_city
+      label: Farm City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: farm_state
+      label: Farm State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: farm_zip
+      label: Farm Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: farm_phone
+      label: Farm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: farm_email
+      label: Farm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: farm_latitude
+      label: Farm Latitude
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: farm_longitude
+      label: Farm Longitude
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: farm_altitude
+      label: Farm Altitude
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: weather_station
+      label: Weather Station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: weather_data
+      label: Weather Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: farm_weather_station_latitude
+      label: Weather Station Latitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: farm_weather_station_longitude
+      label: Weather Station Longitude
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: graphics_configuration_survey
+    pages:
+    - id: 1
+      name: general_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gpu_usage
+      label: Graphics Settings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: display_needs
+      label: Display Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gpu_model
+      label: GPU Model
+      hint: null
+      type: select_one
+      options:
+      - AMD Radeon
+      - NVIDIA GeForce
+      - Other
+      required: false
+    - id: 7
+      name: gpu_usage_level
+      label: GPU Usage Level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: display_resolutions
+      label: Display Resolutions
+      hint: null
+      type: select_multiple
+      options:
+      - 1080p
+      - 1440p
+      - 2160p
+      required: false
+    - id: 9
+      name: display_refresh_rate
+      label: Display Refresh Rate
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '120'
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Neutral
+      - Very Satisfied
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gpu_usage_comments
+      label: Comments on GPU usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: display_needs_comments
+      label: Comments on Display Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_satisfaction_comments
+      label: Comments on Overall Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

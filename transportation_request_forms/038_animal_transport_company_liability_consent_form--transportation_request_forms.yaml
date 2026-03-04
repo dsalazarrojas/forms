@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Transport Company Liability Consent Form
+    pages:
+    - id: 1
+      name: section_owner_info
+      label: -- Owner Information --
+      hint: Details of animal owner
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_address
+      label: Street Address
+      hint: Residential address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Alternate contact person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Alternate phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_animal_info
+      label: -- Animal Information --
+      hint: Details about the animal being transported
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: animal_name
+      label: Animal Name
+      hint: Pet's name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: animal_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Reptile
+      - Horse
+      - Exotic Animal
+      - Other
+      required: true
+    - id: 12
+      name: animal_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: animal_age
+      label: Age
+      hint: Age of animal
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: animal_weight
+      label: Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: animal_gender
+      label: Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 16
+      name: animal_microchip
+      label: Microchip Number
+      hint: Identification if available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_transport_details
+      label: -- Transport Details --
+      hint: Information about the transport
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: pickup_location
+      label: Pickup Location
+      hint: Where animal will be picked up
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: dropoff_location
+      label: Dropoff Location
+      hint: Where animal will be delivered
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: pickup_date
+      label: Pickup Date
+      hint: Date of transport
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: pickup_time
+      label: Pickup Time
+      hint: Time for pickup
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: estimated_travel_time
+      label: Estimated Travel Time (hours)
+      hint: Approximate duration
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: transport_type
+      label: Type of Transport
+      hint: How animal will be transported
+      type: select_one
+      options:
+      - Ground Transport
+      - Air Transport
+      - Sea Transport
+      - Combination
+      - Other
+      required: true
+    - id: 24
+      name: special_requirements
+      label: Special Transport Requirements
+      hint: Climate control, crating, etc
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_health_info
+      label: -- Health Information --
+      hint: Medical details about animal
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any health issues
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: current_medications
+      label: Current Medications
+      hint: Any medications being taken
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: allergies_or_sensitivities
+      label: Allergies or Sensitivities
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_feeding_instructions
+      label: Special Feeding Instructions
+      hint: Diet requirements
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: veterinary_clearance
+      label: Veterinary Clearance for Transport
+      hint: Animal is healthy for transport
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 31
+      name: section_liability
+      label: -- Liability and Consent --
+      hint: Important acknowledgments
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: acknowledge_risks
+      label: Acknowledge Transport Risks
+      hint: Understand risks involved in transport
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 33
+      name: accept_liability_waiver
+      label: Accept Liability Waiver
+      hint: Release company from liability
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 34
+      name: understand_care_standards
+      label: Understand Care Standards
+      hint: Acknowledge standard care practices
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 35
+      name: insurance_coverage
+      label: Have Pet Insurance or Alternative Coverage
+      hint: Do you have insurance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 36
+      name: section_consent
+      label: -- Final Consent --
+      hint: Agreement to transport terms
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: consent_transport
+      label: I Consent to the Animal Transport
+      hint: Authorize transport of animal
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 38
+      name: agree_to_terms
+      label: I Agree to All Terms and Conditions
+      hint: Accept all liability terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 39
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: additional_notes
+      label: Additional Notes or Instructions
+      hint: Any other information for transporter
+      type: text
+      options: []
+      required: false

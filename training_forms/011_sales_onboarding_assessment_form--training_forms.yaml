@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Onboarding Assessment Form
+    pages:
+    - id: 1
+      name: onboarding_questions
+      label: onboarding-questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: sales_knowledge
+      label: sales-knowledge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sales_skills
+      label: sales-skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: sales_strategies
+      label: sales-strategies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sales_product_knowledge
+      label: sales-product-knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: onboarding_questions_2
+      label: onboarding-questions-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: sales_training_questions_answers
+      label: sales-training-questions-answers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_training_schedule
+      label: product-training-schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: next_steps
+      label: next-steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Selling Lead Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_business_name
+      label: customer_business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: policy_type_options
+      label: policy_type
+      hint: null
+      type: select_multiple
+      options:
+      - Auto
+      - Home
+      - Life
+      - Health
+      required: true
+    - id: 7
+      name: insurance_agent
+      label: insurance_agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: insurance_agent_options
+      label: insurance_agent
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      - Janice Doe
+      required: true
+    - id: 9
+      name: date_of_application
+      label: date_of_application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_application
+      label: time_of_application
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: policy_status_options
+      label: policy_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_state_abbreviation
+      label: customer_state_abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_phone_extension
+      label: customer_phone_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_fax
+      label: customer_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_company
+      label: insurance_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_reference
+      label: customer_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

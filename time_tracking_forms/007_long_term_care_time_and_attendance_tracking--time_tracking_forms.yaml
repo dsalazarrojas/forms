@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Term Care Time And Attendance Tracking
+    pages:
+    - id: 1
+      name: home_care_agency
+      label: Home Care Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shifts
+      label: Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Caregiver 1
+      - Caregiver 2
+      - Caregiver 3
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

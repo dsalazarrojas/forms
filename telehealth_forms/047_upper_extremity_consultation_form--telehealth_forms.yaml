@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Upper Extremity Consultation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: symptom_descriptions
+      label: Symptom Descriptions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pain_locations
+      label: Pain Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - MRI
+      - CT scan
+      - Ultrasound
+      - X-Ray
+      required: false
+    - id: 11
+      name: follow_up_scheduling
+      label: Follow up Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

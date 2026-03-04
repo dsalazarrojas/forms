@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Services Schedule Preference
+    pages:
+    - id: 1
+      name: schedule_form
+      label: Schedule Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Evening
+      - Night
+      - Weekend
+      required: true
+    - id: 3
+      name: schedule_start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: schedule_end_time
+      label: End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: break_length
+      label: Break Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: schedule_constrain_start_time
+      label: Constrain Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule_constrain_end_time
+      label: Constrain End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: constraint
+      label: Constrain
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Evening
+      - Night
+      - Weekend
+      required: true
+    - id: 10
+      name: staff_availability
+      label: Staff Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: schedule_availability
+      label: Schedule Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: on_call
+      label: On Call
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: rotation
+      label: Rotation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: schedule_frequency
+      label: Schedule Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: emergency_services_1
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

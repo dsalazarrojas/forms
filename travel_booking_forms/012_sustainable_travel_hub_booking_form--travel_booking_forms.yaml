@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Travel Hub Booking Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stay_dates
+      label: Stay Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single occupancy
+      - Double Occupancy
+      - Family Occupancy
+      required: false
+    - id: 6
+      name: sustainability_preferences
+      label: Sustainability Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Eco-friendly
+      - Low Carbon Footprint
+      - No preferences
+      required: false

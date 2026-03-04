@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: cruise_parental_consent_form
+    pages:
+    - id: 1
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: Parent E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: minor_name
+      label: Minor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: minor_date_of_birth
+      label: Minor Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: minor_gender
+      label: Minor Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - Other
+      required: false
+    - id: 8
+      name: cruise_name
+      label: Cruise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: cruise_duration
+      label: Cruise Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cruise_location
+      label: Cruise Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agent_comment
+      label: Travel Agent Comment
+      hint: null
+      type: note
+      options: []
+      required: false

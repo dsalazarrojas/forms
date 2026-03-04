@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Efficiency Tracker Order Form
+    pages:
+    - id: 1
+      name: machine_efficiency_tracker_order_form
+      label: Machine Efficiency Tracker Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_monitoring_tool_id
+      label: machine monitoring tool id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: machine_monitoring_tool_type
+      label: machine monitoring tool type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: machine_monitoring_tool_model
+      label: machine monitoring tool model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: machine_monitoring_tool_serial_number
+      label: machine monitoring tool serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false

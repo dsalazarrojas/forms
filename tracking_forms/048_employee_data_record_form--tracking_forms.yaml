@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Data Record Form
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Software Engineer''}'
+      - '{''id'': 2, ''name'': ''Data Scientist''}'
+      - '{''id'': 3, ''name'': ''Manager''}'
+      required: false
+    - id: 4
+      name: job_role
+      label: job_role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Software Development''}'
+      - '{''id'': 2, ''name'': ''Data Analysis''}'
+      - '{''id'': 3, ''name'': ''Project Management''}'
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_id
+      label: manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Resigned''}'
+      required: false

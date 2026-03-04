@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_location_media_submission
+    pages:
+    - id: 1
+      name: media_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: media_url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false

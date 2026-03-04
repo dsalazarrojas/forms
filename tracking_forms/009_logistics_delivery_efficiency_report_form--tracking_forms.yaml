@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Delivery Efficiency Report Form
+    pages:
+    - id: 1
+      name: delivery_route
+      label: delivery_route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_id
+      label: driver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: document_delay
+      label: document_delay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: on_time_delivery
+      label: on_time_delivery
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reason_not_delivered
+      label: reason_not_delivered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_status
+      label: document_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

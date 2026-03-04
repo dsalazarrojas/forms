@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Sales Report Form
+    pages:
+    - id: 1
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: sales_region
+      label: Sales Region
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''North''}'
+      - '{''id'': 2, ''name'': ''South''}'
+      - '{''id'': 3, ''name'': ''East''}'
+      - '{''id'': 4, ''name'': ''West''}'
+      required: true
+    - id: 3
+      name: total_revenue
+      label: Total Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Jim''}'
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Bob''}'
+      - '{''id'': 2, ''name'': ''Alice''}'
+      - '{''id'': 3, ''name'': ''Mike''}'
+      required: false

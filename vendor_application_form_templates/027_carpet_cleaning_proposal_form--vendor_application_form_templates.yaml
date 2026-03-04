@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpet Cleaning Proposal Form
+    pages:
+    - id: 1
+      name: section_company_profile
+      label: -- Company Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_license
+      label: Business License and Registration Number
+      hint: required for verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_experience
+      label: -- Service Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: primary_service_areas
+      label: Service Locations
+      hint: cities and regions covered
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_type
+      label: Type of Equipment Used
+      hint: null
+      type: select_one
+      options:
+      - Truck-mounted
+      - Portable
+      - Both
+      required: true
+    - id: 11
+      name: cleaning_methods
+      label: Cleaning Methods Offered
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Steam Cleaning
+      - Dry Cleaning
+      - Shampooing
+      - Bonnet Cleaning
+      - Encapsulation
+      required: true
+    - id: 12
+      name: section_proposal_details
+      label: -- Project Proposal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: estimated_sqft
+      label: Estimated Square Footage
+      hint: choose the best range
+      type: select_one
+      options:
+      - Under 500
+      - 500 to 1500
+      - 1500 to 3000
+      - 3000 to 5000
+      - Over 5000
+      required: true
+    - id: 14
+      name: type_of_facility
+      label: Type of Facility
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial Office
+      - Retail
+      - Industrial
+      - Educational
+      - Hospitality
+      required: true
+    - id: 15
+      name: carpet_type
+      label: Primary Carpet Type
+      hint: null
+      type: select_one
+      options:
+      - Loop Pile
+      - Cut Pile
+      - Berber
+      - Nylon
+      - Polyester
+      - Wool
+      - Synthetic
+      required: true
+    - id: 16
+      name: special_treatments_included
+      label: Included Special Treatments
+      hint: select all that are part of this proposal
+      type: select_multiple
+      options:
+      - Stain Removal
+      - Deodorizing
+      - Sanitizing
+      - Pet Odor Treatment
+      - Fabric Protection
+      required: false
+    - id: 17
+      name: section_pricing
+      label: -- Pricing and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: estimated_cost
+      label: Total Estimated Proposal Cost
+      hint: numeric value only
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - GBP
+      - AUD
+      required: true
+    - id: 20
+      name: payment_terms
+      label: Preferred Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 15
+      - Net 30
+      - COD
+      - Pre-payment
+      required: true
+    - id: 21
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: section_compliance
+      label: -- Insurance and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: liability_insurance
+      label: Do you carry active general liability insurance?
+      hint: documentation may be requested
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: workers_comp
+      label: Do you carry workers' compensation insurance?
+      hint: if applicable to your staff
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 25
+      name: proposal_declaration
+      label: I certify the information provided is accurate and I am authorized to
+        submit this proposal
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

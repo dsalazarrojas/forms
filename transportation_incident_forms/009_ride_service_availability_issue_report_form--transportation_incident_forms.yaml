@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ride Service Availability Issue Report Form
+    pages:
+    - id: 1
+      name: report_issue
+      label: Report Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: problem_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_name
+      label: service name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: service type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Flight
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_status
+      label: service status
+      hint: null
+      type: select_one
+      options:
+      - On time
+      - Delayed
+      - Cancelled
+      - Unknown
+      required: false
+    - id: 9
+      name: report_date
+      label: report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rider_id
+      label: rider id
+      hint: null
+      type: number
+      options: []
+      required: false

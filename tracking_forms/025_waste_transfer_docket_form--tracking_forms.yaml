@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Transfer Docket Form
+    pages:
+    - id: 1
+      name: waste_transfer_docket_form
+      label: Waste Transfer Docket Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: generator_id
+      label: Generator ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transporter_id
+      label: Transporter ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity_transferred
+      label: Quantity Transferred
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: waste_characteristics
+      label: Waste Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: receiver_id
+      label: Receiver ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit_form'', ''label'': ''Submit Form''}'
+      - '{''id'': 2, ''name'': ''decline_form'', ''label'': ''Decline Form''}'
+      - '{''id'': 3, ''name'': ''save_draft'', ''label'': ''Save Draft''}'
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: confirm_submit
+      label: Confirm Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''confirm_submit_form'', ''label'': ''Confirm Submit
+        Form''}'
+      - '{''id'': 2, ''name'': ''confirm_decline_form'', ''label'': ''Confirm Decline
+        Form''}'
+      required: false
+    - id: 14
+      name: confirm_email_address
+      label: Confirm Email Address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''confirm_email'', ''label'': ''Confirm Email''}'
+      - '{''id'': 2, ''name'': ''confirm_phone'', ''label'': ''Confirm Phone Number''}'
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone Number
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''confirm_phone'', ''label'': ''Confirm Phone Number''}'
+      - '{''id'': 2, ''name'': ''confirm_email'', ''label'': ''Confirm Email''}'
+      required: false

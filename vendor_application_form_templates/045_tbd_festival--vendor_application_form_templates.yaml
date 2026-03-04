@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: tbd-festival
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_information
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_information
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vendor_city
+      label: Vendor City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_state
+      label: Vendor State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_zip
+      label: Vendor Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vendor_country
+      label: Vendor Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vendor_fax
+      label: Vendor Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vendor_tax_id
+      label: Vendor Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vendor_vat_id
+      label: Vendor Vat ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vendor_gst_id
+      label: Vendor Gst ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vendor_terms
+      label: Vendor Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - cancelled
+      - on-hold
+      required: true
+    - id: 25
+      name: order_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

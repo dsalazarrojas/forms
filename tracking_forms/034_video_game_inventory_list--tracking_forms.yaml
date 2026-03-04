@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Game Inventory List
+    pages:
+    - id: 1
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - PlayStation
+      - Nintendo
+      - Xbox
+      - PC
+      - Other
+      required: false
+    - id: 3
+      name: release_year
+      label: Release Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_price
+      label: Game Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seller_contact
+      label: Seller Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_image
+      label: Game Image
+      hint: null
+      type: select_multiple
+      options:
+      - url
+      - base64
+      - external_url
+      required: false
+    - id: 14
+      name: game_video
+      label: Game Video
+      hint: null
+      type: select_multiple
+      options:
+      - url
+      - base64
+      - external_url
+      required: false

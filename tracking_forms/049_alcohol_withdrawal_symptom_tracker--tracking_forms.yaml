@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Withdrawal Symptom Tracker
+    pages:
+    - id: 1
+      name: section_tracking_info
+      label: -- Withdrawal Tracking Entry --
+      hint: For recovery programs and counselor review
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_reference_id
+      label: Patient Reference ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: track_date
+      label: Date of Tracking
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: track_time
+      label: Time of Entry
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_physical_symptoms
+      label: -- Physical Symptoms --
+      hint: Rate the severity from 0 (None) to 5 (Severe)
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tremors_shaking
+      label: Tremors or Shaking
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sweating_nausea
+      label: Nausea or Excessive Sweating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: headache_intensity
+      label: Headache Intensity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: heart_rate_palpitations
+      label: Rapid Heart Rate or Palpitations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_psychological
+      label: -- Psychological Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: anxiety_agitation
+      label: Anxiety or Agitation Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: insomnia_sleep
+      label: Difficulty Sleeping (Insomnia)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: irritability_mood
+      label: Irritability or Mood Swings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: confusion_disorientation
+      label: Confusion or Disorientation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_vitals
+      label: -- Vital Signs (If monitored) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: blood_pressure
+      label: Blood Pressure (e.g. 120/80)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: body_temperature
+      label: Body Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_summary_tracker
+      label: -- Summary and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: craving_intensity_tracker
+      label: Intensity of Cravings
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: medication_taken
+      label: Withdrawal Medication Taken?
+      hint: If prescribed
+      type: select_one
+      options:
+      - Yes (As prescribed)
+      - false
+      - N/A
+      required: true
+    - id: 21
+      name: additional_symptom_notes
+      label: Additional Notes for Counselor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assistance_required_now
+      label: Do you require immediate medical assistance?
+      hint: If yes, contact emergency services immediately
+      type: select_one
+      options:
+      - Yes (Urgently)
+      - false
+      required: true

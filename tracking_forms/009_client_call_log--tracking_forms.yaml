@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Call Log
+    pages:
+    - id: 1
+      name: call_date
+      label: Call Date
+      hint: Date of the call
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: call_time
+      label: Call Time
+      hint: Time the call occurred
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: client_first_name
+      label: Client First Name
+      hint: First name of caller
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_last_name
+      label: Client Last Name
+      hint: Last name of caller
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: Email address of caller
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone Number
+      hint: Phone number used for call
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_company
+      label: Client Company
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: call_type
+      label: Call Type
+      hint: Nature of the call
+      type: select_one
+      options:
+      - Inbound Call
+      - Outbound Call
+      - Voicemail
+      - Missed Call
+      - Callback Request
+      required: true
+    - id: 9
+      name: call_category
+      label: Call Category
+      hint: Primary purpose of call
+      type: select_one
+      options:
+      - Sales Inquiry
+      - Customer Support
+      - Billing Question
+      - Technical Support
+      - General Inquiry
+      - Complaint
+      - Compliment
+      - Appointment Scheduling
+      - Follow-Up
+      - Other
+      required: true
+    - id: 10
+      name: call_duration
+      label: Call Duration
+      hint: How long was the call?
+      type: select_one
+      options:
+      - Under 1 minute
+      - 1-5 minutes
+      - 5-10 minutes
+      - 10-20 minutes
+      - 20-30 minutes
+      - Over 30 minutes
+      required: true
+    - id: 11
+      name: staff_member
+      label: Staff Member Handling Call
+      hint: Who took the call?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: call_summary
+      label: Call Summary
+      hint: Brief description of the call
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_concerns
+      label: Client Concerns or Questions
+      hint: Specific issues raised
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_items
+      label: Action Items
+      hint: Tasks that need to be completed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of follow-up
+      type: select_one
+      options:
+      - Low - No Rush
+      - Medium - Within Week
+      - High - Within 48 Hours
+      - Urgent - Immediate
+      required: true
+    - id: 16
+      name: follow_up_required
+      label: Is Follow-Up Required?
+      hint: Does this need additional action?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: When should we follow up?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_assigned_to
+      label: Follow-Up Assigned To
+      hint: Who will handle follow-up?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: call_outcome
+      label: Call Outcome
+      hint: Result of the call
+      type: select_one
+      options:
+      - Issue Resolved
+      - Information Provided
+      - Appointment Scheduled
+      - Referral Made
+      - Escalated to Supervisor
+      - Callback Scheduled
+      - No Resolution
+      - Other
+      required: true
+    - id: 20
+      name: client_satisfaction
+      label: Client Satisfaction Level
+      hint: How satisfied did they seem?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: log_entry_date
+      label: Log Entry Date
+      hint: Date this log was created
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Transfer Booking Form Disney Transfer
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hotel_name
+      label: Hotel Name
+      hint: Name of your Disney hotel
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hotel_confirmation
+      label: Hotel Confirmation Number
+      hint: Your reservation confirmation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: arrival_date
+      label: Arrival Date
+      hint: Date you are arriving
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: arrival_time
+      label: Estimated Arrival Time
+      hint: Expected time at airport
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: flight_number
+      label: Flight Number
+      hint: Your arriving flight number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: How many people need transfer
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: special_requirements
+      label: Special Requests or Requirements
+      hint: Car seat, mobility assistance, etc
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: return_transfer
+      label: Return Transfer Needed
+      hint: Do you need transfer back to airport
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: departure_date
+      label: Departure Date
+      hint: Date returning to airport
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: departure_time
+      label: Preferred Pickup Time
+      hint: What time to pick you up
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: departure_flight
+      label: Departure Flight Number
+      hint: Your departing flight number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_type
+      label: Vehicle Type Preferred
+      hint: Type of vehicle preferred
+      type: select_one
+      options:
+      - Standard Sedan
+      - SUV
+      - Luxury Vehicle
+      - Van (6+ passengers)
+      - Any
+      required: true
+    - id: 17
+      name: parking_location
+      label: Parking Location at Airport
+      hint: Which airport are you using
+      type: select_one
+      options:
+      - MCO - Orlando International
+      - SFB - Sanford International
+      - Other
+      required: true
+    - id: 18
+      name: driver_meet_location
+      label: Preferred Driver Meeting Location
+      hint: Ground level pickup or baggage claim
+      type: select_one
+      options:
+      - Ground Level
+      - Baggage Claim
+      - Hotel Lobby
+      - Other Location
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - At Pickup
+      required: true
+    - id: 20
+      name: special_occasion
+      label: Special Occasion or Celebration
+      hint: Honeymoon, birthday, anniversary, etc
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agree_terms
+      label: Agree to Terms and Conditions
+      hint: Accept booking terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

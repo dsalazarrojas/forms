@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Verification Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: insurance_card_number
+      label: Insurance Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Medicare
+      - Medicaid
+      - Tricare
+      - Champus
+      required: true
+    - id: 5
+      name: insurance_start_date
+      label: Insurance Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: insurance_end_date
+      label: Insurance End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: provider_license_number
+      label: Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_insurance
+      label: Other Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Medicare
+      - Medicaid
+      - Tricare
+      - Champus
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

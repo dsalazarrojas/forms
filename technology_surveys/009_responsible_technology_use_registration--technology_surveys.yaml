@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsible Technology Use Registration
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''School''}'
+      - '{''id'': 2, ''label'': ''Nonprofit''}'
+      - '{''id'': 3, ''label'': ''Training Team''}'
+      required: true
+    - id: 5
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: training_hours
+      label: Hours Trained
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      - '{''id'': 4, ''label'': ''Expert''}'
+      - '{''id'': 5, ''label'': ''Master''}'
+      required: true
+    - id: 10
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Active''}'
+      - '{''id'': 3, ''label'': ''Expired''}'
+      - '{''id'': 4, ''label'': ''Not Available''}'
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

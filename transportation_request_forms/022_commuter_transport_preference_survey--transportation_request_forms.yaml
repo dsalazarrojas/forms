@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Commuter Transport Preference Survey
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Respondent role
+        hint: Employee, student, or resident
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: usual_commute_mode
+        label: Usual commute mode
+        hint: Choose the primary mode of transport
+        type: select_one
+        options: [Car, Public transit, Bike, Walk, Carpool, Remote]
+        required: true
+      - id: 3
+        name: commute_distance
+        label: Average commute distance
+        hint: Approximate one way distance in miles or km
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: satisfaction_with_transit
+        label: Satisfaction with current transport options
+        hint: Rate your satisfaction
+        type: select_one
+        options: [Very satisfied, Satisfied, Neutral, Dissatisfied, Very dissatisfied]
+        required: false
+      - id: 5
+        name: preferred_improvements
+        label: Preferred improvements to commute
+        hint: Select or describe desired changes
+        type: select_multiple
+        options: [More frequent transit, Safer bike lanes, More parking, Flexible hours]
+        required: false
+      - id: 6
+        name: willing_to_shift
+        label: Willingness to shift commute mode
+        hint: Consider alternatives if incentives provided
+        type: select_one
+        options: [Yes, Maybe, No]
+        required: false

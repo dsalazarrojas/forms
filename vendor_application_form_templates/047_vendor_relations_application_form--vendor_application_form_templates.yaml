@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Relations Application Form
+    pages:
+    - id: 1
+      name: vendor_information
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Select One'': ''Service''}'
+      - Product
+      - Both
+      required: false
+    - id: 6
+      name: vendor_category
+      label: Vendor Category
+      hint: null
+      type: select_one
+      options:
+      - '{''Select One'': ''Technology''}'
+      - Manufacturing
+      - Other
+      required: false
+    - id: 7
+      name: business_size
+      label: Business Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Select Multiple'': ''Small''}'
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: business_website
+      label: Business Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vendor_relationship_type
+      label: Vendor Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Select Multiple'': ''New''}'
+      - Existing
+      required: false
+    - id: 13
+      name: vendor_manager
+      label: Vendor Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Log Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: origin
+      label: origin
+      hint: null
+      type: select_one
+      options:
+      - New York City
+      - San Francisco
+      - Los Angeles
+      required: true
+    - id: 4
+      name: destination
+      label: destination
+      hint: null
+      type: select_multiple
+      options:
+      - New York City
+      - San Francisco
+      - Los Angeles
+      required: true
+    - id: 5
+      name: departure_date
+      label: departure-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: stay_duration
+      label: stay-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transport
+      label: transport
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Flight
+      - Train
+      required: true
+    - id: 8
+      name: travel_agency
+      label: travel-agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: activity
+      label: activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trip_budget
+      label: trip-budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_comments
+      label: form-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_at
+      label: form-submitted-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_submitted_by
+      label: form-submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_created_at
+      label: form-created-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_last_updated_at
+      label: form-last-updated-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_status
+      label: form-status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      required: false
+    - id: 20
+      name: form_comments
+      label: form-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: activity_type
+      label: activity-type
+      hint: null
+      type: select_one
+      options:
+      - Hiking
+      - Swimming
+      - Shopping
+      required: false
+    - id: 22
+      name: activity_details
+      label: activity-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: activity_date
+      label: activity-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: trip_details
+      label: trip-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_assigned_to
+      label: form-assigned-to
+      hint: null
+      type: text
+      options: []
+      required: false

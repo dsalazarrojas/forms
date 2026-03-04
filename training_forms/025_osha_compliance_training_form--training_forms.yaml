@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: osha_compliance_training_form
+    pages:
+    - id: 1
+      name: training_session_id
+      label: Training Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_session_date
+      label: Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: training_facility
+      label: Training Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: training_attendance
+      label: Training Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: training_certificate
+      label: Training Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: training_location_address
+      label: Training Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_location_city
+      label: Training Location City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_location_state
+      label: Training Location State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_location_zip
+      label: Training Location Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: training_session_notes
+      label: Training Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: training_session_status
+      label: Training Session Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - completed
+      - cancelled
+      required: true
+    - id: 24
+      name: training_session_status_reason
+      label: Training Session Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: trainer_signature
+      label: Trainer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

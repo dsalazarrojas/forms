@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Technology Feedback Survey
+    pages:
+    - id: 1
+      name: section_product_use
+      label: -- Product Use and Feedback --
+      hint: Responses are anonymous to encourage candid feedback
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product or tool name
+      hint: Which product or feature are you reviewing
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_score
+      label: Overall satisfaction 0 to 10
+      hint: 0 is very dissatisfied and 10 is very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: biggest_issue
+      label: Biggest issue encountered
+      hint: Describe the primary problem you faced
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feature_request
+      label: Feature requests or improvements
+      hint: What change would most improve your experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: usability_rating
+      label: Usability rating
+      hint: How easy is it to complete core tasks
+      type: select_one
+      options:
+      - Very difficult
+      - Somewhat difficult
+      - Neutral
+      - Somewhat easy
+      - Very easy
+      required: false
+    - id: 7
+      name: environment
+      label: Environment used
+      hint: Device and platform where you used the product
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_permission
+      label: Allow follow up if we need clarification
+      hint: Leave blank to remain anonymous
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

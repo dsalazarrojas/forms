@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accreditations
+    pages:
+    - id: 1
+      name: accreditation_name
+      label: Accreditation Name
+      hint: Name of the specific certification or standard
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issuing_authority
+      label: Issuing Authority
+      hint: Organization granting the accreditation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_status
+      label: Current Status
+      hint: Where are you in the process?
+      type: select_one
+      options:
+      - Planning
+      - Documentation
+      - Site Visit
+      - Pending Decision
+      - Approved
+      - Expired
+      required: true
+    - id: 4
+      name: renewal_deadline
+      label: Renewal Deadline
+      hint: Date by which current accreditation expires
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: required_evidence
+      label: Required Evidence
+      hint: Select documents already collected
+      type: select_multiple
+      options:
+      - Self-Study Report
+      - Financial Audits
+      - Faculty CVs
+      - Student Outcomes
+      - Safety Records
+      required: false
+    - id: 6
+      name: assigned_compliance_officer
+      label: Assigned Compliance Officer
+      hint: Internal lead for this project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: progress_percentage
+      label: Progress Percentage
+      hint: 0 to 100
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: milestone_header
+      label: -- Milestone Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: milestone_reached
+      label: Last Milestone Reached
+      hint: null
+      type: select_one
+      options:
+      - Application Submitted
+      - Fee Paid
+      - Review Scheduled
+      required: false
+    - id: 10
+      name: external_consultant_name
+      label: External Consultant Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: internal_contact_email
+      label: Internal Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Session Log
+    pages:
+    - id: 1
+      name: consultant_name
+      label: Consultant Name
+      hint: Name of the consultant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_email
+      label: Consultant Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: Date of the session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_start_time
+      label: Start Time
+      hint: Session start time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: session_end_time
+      label: End Time
+      hint: Session end time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: Duration in minutes
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Name of the client
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_company
+      label: Client Company
+      hint: Client organization
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_type
+      label: Session Type
+      hint: Type of session
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow-up Session
+      - Strategy Session
+      - Review Meeting
+      - Training Session
+      - Workshop
+      - Check-in Call
+      - Other
+      required: true
+    - id: 10
+      name: session_format
+      label: Session Format
+      hint: How was the session conducted
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - Email
+      - Other
+      required: true
+    - id: 11
+      name: session_location
+      label: Session Location
+      hint: Where was the session held
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendees
+      label: Attendees
+      hint: List all attendees
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: session_objectives
+      label: Session Objectives
+      hint: What were the goals of this session
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: topics_discussed
+      label: Topics Discussed
+      hint: Main topics covered
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: key_discussion_points
+      label: Key Discussion Points
+      hint: Summary of main discussion points
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_concerns
+      label: Client Concerns Raised
+      hint: Any concerns or issues raised
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendations_given
+      label: Recommendations Provided
+      hint: Summary of advice given
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: action_items
+      label: Action Items
+      hint: List action items from the session
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: action_items_owner
+      label: Action Item Owners
+      hint: Who is responsible for each action
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_items_deadline
+      label: Action Items Deadline
+      hint: When are actions due
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_required
+      label: Is Follow-up Required
+      hint: Select if follow-up is needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Scheduled follow-up date
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_type
+      label: Follow-up Type
+      hint: Type of follow-up
+      type: select_one
+      options:
+      - Another Session
+      - Email Check-in
+      - Phone Call
+      - Send Materials
+      - Other
+      required: false
+    - id: 24
+      name: client_satisfaction
+      label: Client Satisfaction Level
+      hint: Rate perceived client satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 25
+      name: session_notes
+      label: Additional Notes
+      hint: Any other observations or notes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: next_steps
+      label: Next Steps
+      hint: What happens next
+      type: text
+      options: []
+      required: false

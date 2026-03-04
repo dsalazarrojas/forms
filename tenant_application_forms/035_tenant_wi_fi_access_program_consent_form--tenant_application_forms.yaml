@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Wi-Fi Access Program Consent Form
+    pages:
+    - id: 1
+      name: tenant_wifi_access_program_consent_form
+      label: Tenant Wi-Fi Access Program Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agreement
+      label: Agreement
+      hint: I have read and understand the terms of the Tenant Wi-Fi Access Program
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

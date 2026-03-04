@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agency Feedback Form
+    pages:
+    - id: 1
+      name: travel_agency_feedback
+      label: How was your stay?
+      hint: Rate your stay!
+      type: select_one
+      options:
+      - Good
+      - Bad
+      required: false
+    - id: 2
+      name: travel_agency_feedback_question_1
+      label: What type of travel do you usually take?
+      hint: null
+      type: select_multiple
+      options:
+      - Beach
+      - City
+      - Outdoors
+      required: false
+    - id: 3
+      name: travel_agency_feedback_question_2
+      label: How would you rate your experience?
+      hint: Rate your experience!
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: Please describe your experience.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: travel_agency_feedback_question_3
+      label: Would you recommend our agency to a friend?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

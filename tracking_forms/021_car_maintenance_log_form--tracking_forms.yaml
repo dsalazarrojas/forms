@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Maintenance Log Form
+    pages:
+    - id: 1
+      name: vehicle_identification_header
+      label: -- Vehicle Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make_model_log
+      label: Car Make and Model
+      hint: Identify the vehicle being logged
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_year_log
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_vin_log
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_record_header
+      label: -- Service Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_date
+      label: Date of Service
+      hint: When was the service performed?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_mileage
+      label: Mileage at Service
+      hint: Odometer reading during service
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: service_type_log
+      label: Type of Service Performed
+      hint: Select the primary service
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Brake Service
+      - Battery Replacement
+      - Fluid Check/Top-off
+      - Filter Replacement
+      - Major Repair
+      - Routine Inspection
+      required: true
+    - id: 9
+      name: service_description
+      label: Description of Work Done
+      hint: Briefly describe the service details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parts_replaced
+      label: Parts Replaced (If any)
+      hint: List any parts that were replaced
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_cost
+      label: Total Cost of Service ($)
+      hint: Amount paid for parts and labor
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: service_provider_name
+      label: Service Provider / Shop Name
+      hint: Where was the work done?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_provider_location
+      label: Service Provider Location
+      hint: City or address of the shop
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_service_due_date
+      label: Next Service Due Date
+      hint: Recommended date for the next service
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_service_due_mileage
+      label: Next Service Due Mileage
+      hint: Recommended mileage for the next service
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_log_acknowledgement
+      label: I acknowledge the maintenance log entry
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: signature_confirmation_log
+      label: Type your name for maintenance log confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_log_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the log entry
+      type: text
+      options: []
+      required: false

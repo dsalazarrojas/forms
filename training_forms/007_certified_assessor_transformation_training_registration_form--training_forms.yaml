@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certified Assessor Transformation Training Registration Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Training Registration --
+      hint: Register for the certified assessor transformation training program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: employer or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: used for training materials and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_track
+      label: program track
+      hint: select the training pathway
+      type: select_one
+      options:
+      - Fundamentals
+      - Advanced Assessor
+      - Refresher
+      required: true
+    - id: 7
+      name: start_date
+      label: preferred start date
+      hint: choose from available session dates
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: prerequisites_completed
+      label: prerequisites completed
+      hint: confirm completion of required prerequisites
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: dietary_requirements
+      label: dietary requirements
+      hint: enter any food restrictions for in-person sessions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_confirmation
+      label: payment confirmation
+      hint: payment method or invoice reference
+      type: text
+      options: []
+      required: true

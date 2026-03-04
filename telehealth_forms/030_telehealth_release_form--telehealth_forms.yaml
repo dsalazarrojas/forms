@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Release Form
+    pages:
+    - id: 1
+      name: telehealth_release_form
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_signatures
+      label: Get Patient Signatures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: release_treatment
+      label: Release Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

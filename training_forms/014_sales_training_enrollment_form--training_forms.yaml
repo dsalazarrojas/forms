@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_training_enrollment_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - sales training
+      - leadership training
+      - product knowledge
+      - other
+      required: true
+    - id: 5
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: true
+    - id: 6
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_department
+      label: Participant Department
+      hint: null
+      type: text
+      options: []
+      required: false

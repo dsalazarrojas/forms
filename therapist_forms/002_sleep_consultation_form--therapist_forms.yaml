@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleep_consultation_form
+    pages:
+    - id: 1
+      name: sleep_consultation_form
+      label: sleep_consultation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sleep_schedule
+      label: sleep_schedule
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: sleep_disorders
+      label: sleep_disorders
+      hint: null
+      type: select_multiple
+      options:
+      - insomnia
+      - sleep_apnea
+      - sleep_deprivation
+      - sleep_wake
+      - restless_legs_syndrome
+      required: true
+    - id: 5
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sleep_onset_latency
+      label: sleep_onset_latency
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      - none
+      required: true
+    - id: 7
+      name: sleep_quality_advice
+      label: sleep_quality_advice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sleep_schedule_advice
+      label: sleep_schedule_advice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sleep_disorders_advice
+      label: sleep_disorders_advice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sleep_duration_advice
+      label: sleep_duration_advice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sleep_onset_latency_advice
+      label: sleep_onset_latency_advice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sleep_consultation_form_comments
+      label: sleep_consultation_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false

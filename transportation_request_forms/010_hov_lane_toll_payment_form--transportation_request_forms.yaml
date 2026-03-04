@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOV Lane Toll Payment Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      required: false
+    - id: 3
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bus
+      - Truck
+      - Motorcycle
+      required: false
+    - id: 5
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_plate
+      label: Vehicle Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: toll_payment_amount
+      label: Toll Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: trip_start_time
+      label: Trip Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: trip_end_time
+      label: Trip End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trip_length
+      label: Trip Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trip_distance
+      label: Trip Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trip_route
+      label: Trip Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trip_start_point
+      label: Trip Start Point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trip_end_point
+      label: Trip End Point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: toll_operator
+      label: Toll Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: trip_number
+      label: Trip Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 20
+      name: payment_reference
+      label: Payment Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_capacity
+      label: Vehicle Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_passengers
+      label: Total Passengers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_fare
+      label: Total Fare
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: toll_rate
+      label: Toll Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

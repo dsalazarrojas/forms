@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practicum Log Submission Form
+    pages:
+    - id: 1
+      name: practicum_log
+      label: Practicum Log Submission Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: practicum_hours
+      label: Practicum Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: practicum_activities
+      label: Practicum Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reflections
+      label: Reflections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisory_meetings
+      label: Supervisory Meetings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: documentation
+      label: Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: practicum_start
+      label: Practicum Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: practicum_end
+      label: Practicum End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: practicum_location
+      label: Practicum Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practicum_supervisors
+      label: Supervisors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Photo Upload Form
+    pages:
+    - id: 1
+      name: user
+      label: username
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: photo
+      label: photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - Event Organizer
+      - Nonprofit
+      - School
+      - Business
+      - Event Manager
+      required: false
+    - id: 10
+      name: assigned_team
+      label: assigned team
+      hint: null
+      type: select_multiple
+      options:
+      - Event Planning Team
+      - Marketing Team
+      - Social Media Team
+      - Sales Team
+      - Support Team
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Form Designer
+      - Form Reviewer
+      - Form Approver
+      required: false
+    - id: 12
+      name: output_file
+      label: output file
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - JSON
+      - YAML
+      required: false
+    - id: 13
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_form_id
+      label: assigned form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Thanksgiving Forms
+      - Christmas Forms
+      - Summer Camp Forms
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chair Massage Registration Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client's birth date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city_state_zip
+      label: City, State, Zip Code
+      hint: Location information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: first_time_client
+      label: First Time With Our Service
+      hint: Are you a new client
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Word of Mouth
+      - Social Media
+      - Google Search
+      - Website
+      - Advertisement
+      - Existing Client Referral
+      - Other
+      required: false
+    - id: 9
+      name: preferred_appointment_day
+      label: Preferred Day for Appointment
+      hint: Best day for you
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 10
+      name: preferred_appointment_time
+      label: Preferred Time for Appointment
+      hint: Best time of day
+      type: select_one
+      options:
+      - Early Morning - 6-9am
+      - Morning - 9am-12pm
+      - Afternoon - 12-3pm
+      - Late Afternoon - 3-6pm
+      - Evening - 6pm+
+      required: true
+    - id: 11
+      name: preferred_duration
+      label: Preferred Massage Duration
+      hint: Length of session
+      type: select_one
+      options:
+      - 15 minutes
+      - 20 minutes
+      - 30 minutes
+      - 45 minutes
+      required: true
+    - id: 12
+      name: massage_areas
+      label: Areas of Focus for Massage
+      hint: Select areas you want worked on
+      type: select_multiple
+      options:
+      - Neck and Shoulders
+      - Upper Back
+      - Lower Back
+      - Arms
+      - Hands
+      - Full Body
+      - Trigger Points
+      required: true
+    - id: 13
+      name: pressure_preference
+      label: Pressure Preference
+      hint: How firm would you like the massage
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Firm
+      - Very Firm
+      - No Preference
+      required: false
+    - id: 14
+      name: health_conditions
+      label: Health Conditions or Injuries
+      hint: Any relevant medical information
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pain_areas
+      label: Specific Pain or Problem Areas
+      hint: Where do you experience pain
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: To oils, lotions, or other products
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_list
+      label: Current Medications
+      hint: For safety awareness
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: communication_preferences
+      label: Communication Preference
+      hint: How would you like us to contact you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - No Preference
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How you prefer to pay
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

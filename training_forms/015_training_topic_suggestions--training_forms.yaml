@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_topic_suggestions
+    pages:
+    - id: 1
+      name: page_1
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic_format
+      label: topic_format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_interest
+      label: participant_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

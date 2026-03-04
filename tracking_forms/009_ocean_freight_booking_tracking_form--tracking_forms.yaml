@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ocean Freight Booking Tracking Form
+    pages:
+    - id: 1
+      name: booking_number
+      label: Booking Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipper_company
+      label: Shipper Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: freight_forwarder
+      label: Freight Forwarder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: freight_forwarder_company
+      label: Freight Forwarder Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: freight_container
+      label: Freight Container
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: freight_status
+      label: Freight Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: container_number
+      label: Container Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: shipper_notes
+      label: Shipper Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: freight_notes
+      label: Freight Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tracking_number
+      label: Tracking Number
+      hint: Tracking number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipper_signature
+      label: Shipper Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: shipper_signature_date
+      label: Shipper Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_agent_credit_card_authorization_form
+    pages:
+    - id: 1
+      name: credit_card_number
+      label: credit_card_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: cvv
+      label: cvv
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: card_type
+      label: card_type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: true
+    - id: 5
+      name: authorized_by
+      label: authorized_by
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - James
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: true

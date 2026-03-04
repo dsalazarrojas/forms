@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Knowledge Assessment Form
+    pages:
+    - id: 1
+      name: workshop_knowledge_assessment_form
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_details
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_details
+      label: session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_details
+      label: attended_session
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 7
+      name: session_outcomes
+      label: workshop_knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_outcomes
+      label: sessionistency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trainer_evaluation
+      label: trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_evaluation
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_evaluation
+      label: overall
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: additional_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

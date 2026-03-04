@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioning Daily Requisition Report Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of worker
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of work
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift
+      label: Shift
+      hint: Work shift
+      type: select_one
+      options:
+      - Morning (6AM-2PM)
+      - Afternoon (2PM-10PM)
+      - Night (10PM-6AM)
+      - Day shift (8AM-5PM)
+      - Other
+      required: true
+    - id: 5
+      name: job_site
+      label: Job Site Location
+      hint: Address or location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: Customer or site contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_type
+      label: Type of Work
+      hint: Primary work performed
+      type: select_one
+      options:
+      - New installation
+      - Repair
+      - Maintenance
+      - Replacement
+      - Inspection
+      - Emergency service
+      required: true
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: Type of AC equipment
+      type: select_one
+      options:
+      - Central AC
+      - Heat pump
+      - Ductless mini-split
+      - Window unit
+      - Commercial rooftop
+      - Chiller
+      - Other
+      required: true
+    - id: 9
+      name: equipment_brand
+      label: Equipment Brand
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_description
+      label: Work Description
+      hint: Detailed description of work performed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: materials_used
+      label: Materials Used
+      hint: List materials consumed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: refrigerant_type
+      label: Refrigerant Type
+      hint: Type of refrigerant if used
+      type: select_one
+      options:
+      - R-22
+      - R-410A
+      - R-32
+      - R-134a
+      - R-454B
+      - Not applicable
+      required: false
+    - id: 13
+      name: refrigerant_amount
+      label: Refrigerant Amount Added (lbs)
+      hint: Pounds of refrigerant added
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: parts_replaced
+      label: Parts Replaced
+      hint: List any parts replaced
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parts_part_numbers
+      label: Part Numbers
+      hint: Part numbers if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tools_used
+      label: Tools and Equipment Used
+      hint: List major tools used
+      type: select_multiple
+      options:
+      - Manifold gauge set
+      - Vacuum pump
+      - Leak detector
+      - Multimeter
+      - Thermometer
+      - Recovery machine
+      - Tubing tools
+      - Power tools
+      required: true
+    - id: 17
+      name: hours_worked
+      label: Hours Worked
+      hint: Total hours on job
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: start_time
+      label: Start Time
+      hint: Work start time
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: end_time
+      label: End Time
+      hint: Work end time
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: system_status
+      label: System Status After Work
+      hint: Current system condition
+      type: select_one
+      options:
+      - Fully operational
+      - Operational with limitations
+      - Not operational, parts needed
+      - Not operational, further work needed
+      - Pending customer decision
+      required: true
+    - id: 21
+      name: test_results
+      label: Test Results
+      hint: Pressures, temperatures, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_issues
+      label: Safety Issues Encountered
+      hint: Any safety concerns
+      type: select_one
+      options:
+      - None
+      - Minor, resolved on site
+      - Major, requires follow-up
+      - Work stopped due to safety
+      required: true
+    - id: 23
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: Customer response to work
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Not available
+      required: true
+    - id: 24
+      name: follow_up_needed
+      label: Follow-up Visit Needed
+      hint: Is return visit required
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Yes, to be scheduled
+      - false
+      required: true
+    - id: 25
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Scheduled return date
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: Miles driven for this job
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Reporting supervisor
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: employee_signature
+      label: Employee Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true

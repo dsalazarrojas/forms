@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: FinOps Tool Evaluation Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: finops_tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tool_url
+      label: Tool URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tool_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Cloud Cost Management''}'
+      - '{''name'': ''Cloud Performance Monitoring''}'
+      - '{''name'': ''Cloud Security and Compliance''}'
+      - '{''name'': ''Cloud Service Management''}'
+      - '{''name'': ''Cloud Scalability''}'
+      - '{''name'': ''Cloud Migration''}'
+      - '{''name'': ''FinOps Tool''}'
+      - '{''name'': ''Other''}'
+      required: true
+    - id: 5
+      name: tool_rating
+      label: Rate this tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''High''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Low''}'
+      - '{''name'': ''''}'
+      required: true
+    - id: 6
+      name: tool_ease_of_use
+      label: Ease of Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Very Easy''}'
+      - '{''name'': ''Somewhat Easy''}'
+      - '{''name'': ''Somewhat Difficult''}'
+      - '{''name'': ''Very Difficult''}'
+      - '{''name'': ''''}'
+      required: true
+    - id: 7
+      name: tool_value_for_money
+      label: Value For Money
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Very Good''}'
+      - '{''name'': ''Somewhat Good''}'
+      - '{''name'': ''Somewhat Bad''}'
+      - '{''name'': ''Very Bad''}'
+      - '{''name'': ''''}'
+      required: true
+    - id: 8
+      name: tool_support
+      label: Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Very Good''}'
+      - '{''name'': ''Somewhat Good''}'
+      - '{''name'': ''Somewhat Bad''}'
+      - '{''name'': ''Very Bad''}'
+      - '{''name'': ''''}'
+      required: true
+    - id: 9
+      name: tool_roadmap
+      label: Roadmap
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Very Good''}'
+      - '{''name'': ''Somewhat Good''}'
+      - '{''name'': ''Somewhat Bad''}'
+      - '{''name'': ''Very Bad''}'
+      - '{''name'': ''''}'
+      required: true
+    - id: 10
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_recommendation
+      label: Would you recommend this tool?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Yes''}'
+      - '{''name'': ''No''}'
+      - '{''name'': ''''}'
+      required: false
+    - id: 12
+      name: form_end
+      label: Form End
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cost Management''}'
+      - '{''name'': ''Performance Management''}'
+      - '{''name'': ''Security Management''}'
+      - '{''name'': ''Migration Management''}'
+      - '{''name'': ''FinOps Tool''}'
+      - '{''name'': ''''}'
+      required: true
+    - id: 14
+      name: tool_provider
+      label: Tool Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tool_version
+      label: Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tool_purchase_year
+      label: Purchase Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tool_cost
+      label: Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: user_title
+      label: Your Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

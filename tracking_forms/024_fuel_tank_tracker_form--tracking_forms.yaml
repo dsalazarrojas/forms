@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: fuel_tank_tracker_form
+    pages:
+    - id: 1
+      name: tank_id
+      label: Tank Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tank_name
+      label: tank_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user1''}'
+      - '{''id'': 2, ''name'': ''user2''}'
+      - '{''id'': 2, ''name'': ''user3''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''user1''}'
+      - '{''id'': 2, ''name'': ''user2''}'
+      - '{''id'': 2, ''name'': ''user3''}'
+      required: false

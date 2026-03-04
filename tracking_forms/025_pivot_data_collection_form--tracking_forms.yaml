@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: pivot_data_collection_form
+    pages:
+    - id: 1
+      name: data_sources
+      label: Data Sources
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: row_fields
+      label: Row Fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: column_fields
+      label: Column Fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: aggregation_details
+      label: Aggregation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_sources
+      label: Data Sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: aggregation_method
+      label: Aggregation Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: aggregation_type
+      label: Aggregation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: aggregation_type
+      label: Aggregation Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: row_fields
+      label: Row Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: column_fields
+      label: Column Fields
+      hint: null
+      type: text
+      options: []
+      required: false

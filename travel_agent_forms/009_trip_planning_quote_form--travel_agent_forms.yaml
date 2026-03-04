@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trip Planning Quote Form
+    pages:
+    - id: 1
+      name: trip_planning_quote_form
+      label: travel_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: travel_agent_details
+      label: travel_agent_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quote_request
+      label: quote_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quote_details
+      label: quote_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_agent_services
+      label: travel_agent_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent_comments
+      label: travel_agent_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agent_agreement
+      label: travel_agent_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: client_agreement
+      label: client_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: travel_agent_terms_and_conditions
+      label: travel_agent_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: client_terms_and_conditions
+      label: client_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: travel_agreements
+      label: travel_agreements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: trip_planning_quote_form
+      label: trip_planning_quote_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: other_travel_agent_fields
+      label: other_travel_agent_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: other_travel_agent_services
+      label: other_travel_agent_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: other_travel_agent_comments
+      label: other_travel_agent_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_travel_agent_agreements
+      label: other_travel_agent_agreements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: other_client_fields
+      label: other_client_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: other_client_terms_and_conditions
+      label: other_client_terms_and_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: travel_agent_signature
+      label: travel_agent_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: text
+      options: []
+      required: false

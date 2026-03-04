@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: network_and_internet_assessment
+    pages:
+    - id: 1
+      name: network_and_internet_assessment_network_quality
+      label: network_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Bad''}'
+      required: true
+    - id: 2
+      name: network_and_internet_assessment_connectivity_issues
+      label: connectivity_issues
+      hint: Describe the problems you are experiencing with your connectivity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: network_and_internet_assessment_devices
+      label: devices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Laptop''}'
+      - '{''id'': 2, ''label'': ''Smartphone''}'
+      - '{''id'': 3, ''label'': ''Desktop''}'
+      required: false
+    - id: 4
+      name: network_and_internet_assessment_issues
+      label: issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: network_and_internet_assessment_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: network_and_internet_assessment_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: network_and_internet_assessment_additional_info
+      label: additional_info
+      hint: Any other comments you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: network_and_internet_assessment_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true

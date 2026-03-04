@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Vendor Application Form
+    pages:
+    - id: 1
+      name: vendor_company_name
+      label: Vendor or company name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For correspondence and contracts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_description
+      label: Description of services or products
+      hint: Brief summary of offerings
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: insurance_and_licensing
+      label: Insurance and licensing status
+      hint: Indicate coverage and license numbers
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: available_dates
+      label: Available dates for events
+      hint: Provide date range or typical availability
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: Professional references
+      hint: List two references with contact info
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_terms
+      label: Agreement to vendor terms
+      hint: Accept church vendor policies
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

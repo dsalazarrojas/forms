@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teledermatology Patient Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teledermatology_visit_date
+      label: Teledermatology Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: teledermatology_visit_type
+      label: Teledermatology Visit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_diagnosis
+      label: Medical Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_scheduled
+      label: Follow-Up Scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: follow_up_provider
+      label: Follow-Up Provider
+      hint: null
+      type: text
+      options: []
+      required: false

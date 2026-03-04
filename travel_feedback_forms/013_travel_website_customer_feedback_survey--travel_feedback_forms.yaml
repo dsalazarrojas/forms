@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Website Customer Feedback Survey
+    pages:
+    - id: 1
+      name: travel_website_customer_feedback_survey_form
+      label: Travel Website Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_booking_id
+      label: travel_booking_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_booking_date
+      label: travel_booking_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_booking_location
+      label: travel_booking_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_booking_type
+      label: travel_booking_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_booking_outlet
+      label: travel_booking_outlet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_booking_experience
+      label: travel_booking_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_experience_rating
+      label: travel_experience_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: travel_experience_comment
+      label: travel_experience_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_website_experience
+      label: travel_website_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: travel_website_experience_rating
+      label: travel_experience_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

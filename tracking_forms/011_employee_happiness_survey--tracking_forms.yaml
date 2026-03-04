@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Happiness Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_satisfaction
+      label: Team Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_security
+      label: Job Security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: benefits
+      label: Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_satisfaction_frequency
+      label: How often do you feel satisfied with your job
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: general_info_2
+      label: General Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_info
+      label: Manager Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department_info
+      label: Department Information
+      hint: null
+      type: text
+      options: []
+      required: false

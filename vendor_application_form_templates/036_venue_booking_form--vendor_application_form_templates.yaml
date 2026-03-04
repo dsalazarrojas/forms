@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Venue Booking Form
+    pages:
+    - id: 1
+      name: venue_booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: venue_type
+      label: Venue Type
+      hint: null
+      type: select_one
+      options:
+      - Hotels
+      - Restaurants
+      - Bars
+      - Theaters
+      required: true
+    - id: 3
+      name: venue_name
+      label: Venue Name
+      hint: Name of Venue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: venue_capacity
+      label: Venue Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: Number of Guests
+      hint: Enter the number of guests
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Name of Event
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone Number
+      type: text
+      options: []
+      required: false

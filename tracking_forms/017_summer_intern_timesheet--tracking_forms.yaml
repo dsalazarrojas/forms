@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Intern Timesheet
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: finish_time
+      label: Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: lunch_break_start
+      label: Lunch Break Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: lunch_break_finish
+      label: Lunch Break Finish
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: activities
+      label: Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tasks
+      label: Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: true

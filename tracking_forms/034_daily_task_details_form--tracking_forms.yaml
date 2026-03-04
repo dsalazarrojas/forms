@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Task Details Form
+    pages:
+    - id: 1
+      name: daily_task_details
+      label: Daily Task Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_name
+      label: Task Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_date
+      label: Task Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: task_start_time
+      label: Task Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: task_end_time
+      label: Task End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: task_duration
+      label: Task Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: task_tags
+      label: Task Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: task_location
+      label: Task Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

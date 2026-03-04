@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Source Configuration Survey
+    pages:
+    - id: 1
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_title
+      label: Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: config_frequency
+      label: Configuration Frequency
+      hint: null
+      type: select_one
+      options:
+      - Configuration Daily
+      - Configuration Monthly
+      - Configuration Quarterly
+      - Other ( specify below )
+      required: false
+    - id: 5
+      name: config_frequency_other
+      label: Other ( specify )
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: config_challenges
+      label: Configuration Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: config_challenges_1
+      label: Inadequate Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: config_challenges_2
+      label: Lack Of Clear Processes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: config_challenges_3
+      label: Lack Of Tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: config_improvements
+      label: Configuration Improvements
+      hint: null
+      type: select_one
+      options:
+      - Prioritize Training
+      - Improve Processes
+      - Provide Tools
+      required: false
+    - id: 11
+      name: config_improvements_1
+      label: Prioritize
+      hint: null
+      type: select_one
+      options:
+      - Increase
+      - Decrease
+      required: false
+    - id: 12
+      name: config_improvements_2
+      label: Improve
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: config_improvements_3
+      label: Provide
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: feedback_comments
+      label: Additional Feedback Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: feedback_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: feedback_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: feedback_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: config_version
+      label: Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: config_version_1
+      label: '1'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: config_version_2
+      label: '2'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: config_version_3
+      label: '3'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: config_version_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: config_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: config_last_updated_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: config_last_updated_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

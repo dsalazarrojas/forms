@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Maintenance Weighbridge Log
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_number_plate
+      label: Vehicle Number Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_id
+      label: Site ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_time
+      label: Maintenance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_comment
+      label: Supervisor Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facilities_comment
+      label: Facilities Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false

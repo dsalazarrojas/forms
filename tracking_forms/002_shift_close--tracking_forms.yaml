@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Close
+    pages:
+    - id: 1
+      name: sales_made
+      label: Sales Made
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: sales_return
+      label: sales_return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inventory_details
+      label: Inventory Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: refunds
+      label: Refunds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shift_notes
+      label: Shift Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: close_time
+      label: Close Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: shift_close_comments
+      label: Shift Close Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_return_details
+      label: Sales Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_close_time
+      label: Manager Close Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sales
+      label: Sales
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inventory_in
+      label: Inventory In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: inventory_out
+      label: Inventory Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cash_drawer
+      label: Cash Drawer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: change
+      label: Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tendered
+      label: Tendered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tendered_amount
+      label: Tendered Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sales_total
+      label: Sales Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shift_close_reason
+      label: Shift Close Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: shift_close_status
+      label: Shift Close Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Tracker Form
+    pages:
+    - id: 1
+      name: time_tracker_form
+      label: time_tracker_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_spent_on_task
+      label: time_spent_on_task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task
+      label: task
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project
+      label: project
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_spent_on_task_description
+      label: time_spent_on_task_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_spent_on_task_time_spent
+      label: time_spent_on_task_time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_on_project_description
+      label: time_spent_on_project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time_spent_on_project_time_spent
+      label: time_spent_on_project_time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

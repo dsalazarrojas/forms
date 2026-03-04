@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Trip Feedback Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Trip Feedback Survey
+      hint: Help us improve by sharing your travel experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: traveler_info
+      label: -- Traveler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trip_details
+      label: -- Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trip_type
+      label: Type of Trip
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Business
+      - Adventure
+      - Beach Resort
+      - Cultural Tour
+      - Cruise
+      - Other
+      required: true
+    - id: 8
+      name: destination
+      label: Destination Country or Region
+      hint: Where did you travel?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: trip_duration
+      label: Trip Duration
+      hint: Number of days
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: select_one
+      options:
+      - January - March
+      - April - June
+      - July - September
+      - October - December
+      required: false
+    - id: 11
+      name: number_of_travelers
+      label: Number of Travelers
+      hint: How many people traveled?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: travel_party
+      label: Who traveled with you?
+      hint: null
+      type: select_multiple
+      options:
+      - Solo
+      - Spouse or Partner
+      - Family with Children
+      - Friends
+      - Group Tour
+      required: false
+    - id: 13
+      name: planning_section
+      label: -- Planning and Booking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: booking_experience
+      label: Overall booking experience with our agency
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 15
+      name: staff_helpfulness
+      label: Our staff was helpful in planning your trip
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: planning_timeline
+      label: Time needed for planning and booking
+      hint: How much advance notice did you need?
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - 3+ months
+      required: false
+    - id: 17
+      name: flight_satisfaction
+      label: -- Flight Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: flight_rating
+      label: Rate your flight experience
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 19
+      name: flight_comfort
+      label: Comfort level during flights
+      hint: null
+      type: select_one
+      options:
+      - Very Uncomfortable
+      - Uncomfortable
+      - Okay
+      - Comfortable
+      - Very Comfortable
+      required: true
+    - id: 20
+      name: airline_service
+      label: Airline service quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 21
+      name: accommodation_section
+      label: -- Accommodation Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: accommodation_rating
+      label: Rate your accommodation
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 23
+      name: accommodation_vs_expectations
+      label: Accommodation met or exceeded expectations
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 24
+      name: cleanliness
+      label: Cleanliness of accommodation
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 25
+      name: activities_section
+      label: -- Activities and Attractions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: activities_satisfaction
+      label: Satisfaction with available activities
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 27
+      name: activity_recommendations
+      label: Did you receive good activity recommendations?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 28
+      name: highlight_activity
+      label: What was the best activity or experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: overall_section
+      label: -- Overall Trip Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: overall_satisfaction
+      label: Overall satisfaction with your trip
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true

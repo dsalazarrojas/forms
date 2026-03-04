@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Services Agreement Form
+    pages:
+    - id: 1
+      name: telehealth_services_agreement
+      label: I consent to receive telehealth services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_consent
+      label: I understand that telehealth services may involve
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: patient_consent_2
+      label: I understand that my telehealth provider
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: If I am experiencing a medical emergency
+      hint: null
+      type: select_one
+      options:
+      - Please call 911
+      - Contact my emergency contact
+      - Contact my telehealth provider
+      required: false
+    - id: 5
+      name: emergency_contact_2
+      label: Contact person
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency contact person 1
+      - Emergency contact person 2
+      - Emergency contact person 3
+      required: false
+    - id: 6
+      name: emergency_contact_3
+      label: Contact information
+      hint: Please include phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: telehealth_services
+      label: I am interested in the following telehealth services
+      hint: null
+      type: select_multiple
+      options:
+      - Video visits
+      - Phone calls
+      - Messaging
+      required: false
+    - id: 8
+      name: telehealth_services_2
+      label: Which of the following telehealth services do you need or want
+      hint: null
+      type: select_multiple
+      options:
+      - Medication management
+      - Disease management
+      - Chronic condition management
+      required: false
+    - id: 9
+      name: telehealth_provider
+      label: I would like to schedule with a telehealth provider who
+      hint: null
+      type: select_one
+      options:
+      - Speaks my language
+      - Has my insurance
+      - Has experience with my condition
+      required: false
+    - id: 10
+      name: telehealth_provider_2
+      label: What type of telehealth provider would you like to schedule with
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse practitioner
+      - P.A.
+      required: false
+    - id: 11
+      name: telehealth_provider_3
+      label: What is your preferred method of communication
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Video
+      - Messaging
+      required: false
+    - id: 12
+      name: telehealth_provider_4
+      label: How soon would you like to schedule your telehealth appointment
+      hint: null
+      type: select_one
+      options:
+      - Same day
+      - Next day
+      - This week
+      required: false
+    - id: 13
+      name: telehealth_provider_5
+      label: On which days are you available for telehealth services
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 14
+      name: telehealth_provider_6
+      label: What time of day are you available for telehealth services
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false

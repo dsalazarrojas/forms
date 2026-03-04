@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_experience_house_booking_form
+    pages:
+    - id: 1
+      name: user_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_request_1
+      label: Breakfast
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 8
+      name: special_request_2
+      label: Special Request 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: stay_type
+      label: Stay Type
+      hint: null
+      type: select_one
+      options:
+      - Stay Type 1
+      - Stay Type 2
+      - Stay Type 3
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false

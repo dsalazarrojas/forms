@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Detection Dog Daily Training Record Form
+    pages:
+    - id: 1
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Dog Walking
+      - Obedience Training
+      - Scent Work
+      - Tracking
+      - Recall
+      - Agility Training
+      - Protection Training
+      - Socialization
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: training_area
+      label: Training Area
+      hint: null
+      type: select_multiple
+      options:
+      - Back Yard
+      - Field
+      - Park
+      - Training Field
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: training_notes
+      label: Training Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trained_with
+      label: Trained With
+      hint: null
+      type: select_multiple
+      options:
+      - Owner
+      - Trainer
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: trainer
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trained_by
+      label: Trained By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dog_name
+      label: Dog Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dog_age
+      label: Dog Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: dog_weight
+      label: Dog Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: dog_height
+      label: Dog Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weather
+      label: Weather
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - Attachments
+      - Links to Photos
+      required: false
+    - id: 19
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Attachments
+      - Links to Attachments
+      required: false
+    - id: 20
+      name: videos
+      label: Videos
+      hint: null
+      type: select_multiple
+      options:
+      - Videos
+      - Links to Videos
+      required: false
+    - id: 21
+      name: training_notes
+      label: Training Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: next_training_date
+      label: Next Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_training_time
+      label: Next Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: next_training_location
+      label: Next Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_training_type
+      label: Next Training Type
+      hint: null
+      type: select_one
+      options:
+      - Dog Walking
+      - Obedience Training
+      - Scent Work
+      - Tracking
+      - Recall
+      - Agility Training
+      - Protection Training
+      - Socialization
+      - Other (please specify)
+      required: false

@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Donor Data Protection Awareness Survey
+    pages:
+    - id: 1
+      name: donor_data_protection_survey
+      label: Donor Data Protection Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: consent_to_data_collection
+      label: Do you consent to our data collection practices?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''agree''}'
+      - '{''value'': ''decline''}'
+      required: false
+    - id: 4
+      name: data_collection_purpose
+      label: What is the purpose of your data collection?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''marketing''}'
+      - '{''value'': ''fundraising''}'
+      - '{''value'': ''research''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 5
+      name: data_privacy_practices
+      label: What do you understand about our data protection practices?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_sharing
+      label: Do you share your data with third parties?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 7
+      name: data_security
+      label: How secure is your data?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_secure''}'
+      - '{''value'': ''somewhat_secure''}'
+      - '{''value'': ''not_secure_at_all''}'
+      required: false
+    - id: 8
+      name: data_control
+      label: Do you have control over your data?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''complete_control''}'
+      - '{''value'': ''limited_control''}'
+      - '{''value'': ''no_control''}'
+      required: false
+    - id: 9
+      name: data_retention
+      label: How long do we retain your data?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''indefinite''}'
+      - '{''value'': ''finite''}'
+      required: false
+    - id: 10
+      name: data_deletion
+      label: How long do we delete your data?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''never''}'
+      - '{''value'': ''on_request''}'
+      - '{''value'': ''1_year''}'
+      required: false
+    - id: 11
+      name: data_access
+      label: Access to your data?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''you''}'
+      - '{''value'': ''staff''}'
+      - '{''value'': ''third_party''}'
+      required: false
+    - id: 12
+      name: data_transfer
+      label: Data transfer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 13
+      name: data_compliance
+      label: Compliance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''GDPR''}'
+      - '{''value'': ''CCPA''}'
+      - '{''value'': ''HIPAA''}'
+      required: false
+    - id: 14
+      name: data_analytics
+      label: Do you want us to use data for analysis?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 15
+      name: data_automation
+      label: Do you want automation of our data practices?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 16
+      name: data_security_measures
+      label: What do you think is the most important security measure?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: data_security_measures_2
+      label: What do you think is the next most important security measure?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

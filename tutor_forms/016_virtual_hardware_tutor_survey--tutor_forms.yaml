@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Hardware Tutor Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: Virtual Hardware Tutor Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_reasons
+      label: satisfaction_reasons
+      hint: null
+      type: select_multiple
+      options:
+      - technical_issues
+      - content_quality
+      - interface_clarity
+      required: false
+    - id: 4
+      name: technical_issues
+      label: technical_issues
+      hint: null
+      type: select_multiple
+      options:
+      - audio_issues
+      - video_issues
+      - connection_issues
+      required: false
+    - id: 5
+      name: learning_impact
+      label: learning_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

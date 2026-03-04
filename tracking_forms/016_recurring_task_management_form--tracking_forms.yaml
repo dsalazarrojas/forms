@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recurring Task Management Form
+    pages:
+    - id: 1
+      name: recurring_task_form
+      label: recurring_task_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assignee
+      label: assignee
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reminder
+      label: reminder
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '7'
+      - '30'
+      required: false
+    - id: 6
+      name: repeat
+      label: repeat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 8
+      name: recurrence
+      label: recurrence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: recurrence_interval
+      label: recurrence_interval
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 10
+      name: recurrence_frequency
+      label: recurrence_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 11
+      name: due_by
+      label: due_by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: repeat_type
+      label: repeat_type
+      hint: null
+      type: select_one
+      options:
+      - minute
+      - hour
+      - day
+      - week
+      required: false
+    - id: 13
+      name: repeat_until
+      label: repeat_until
+      hint: null
+      type: select_one
+      options:
+      - never
+      - next occurrence
+      - next available
+      required: false
+    - id: 14
+      name: repeat_by
+      label: repeat_by
+      hint: null
+      type: select_one
+      options:
+      - never
+      - next occurrence
+      - next available
+      required: false
+    - id: 15
+      name: repeat_frequency
+      label: repeat_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: repeat_time
+      label: repeat_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technology Survey
+    pages:
+    - id: 1
+      name: technology_usage_home
+      label: Technology Usage Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tech_tools_used_for_classwork
+      label: Technology Tools Used
+      hint: null
+      type: select_multiple
+      options:
+      - calculator
+      - computer
+      - tablet
+      - smartphone
+      required: false
+    - id: 3
+      name: technology_help_at_home
+      label: Technology Help At Home
+      hint: null
+      type: select_one
+      options:
+      - father
+      - mother
+      - teacher
+      - parent
+      required: false
+    - id: 4
+      name: student_computer_access
+      label: Student Computer Access
+      hint: How many computers do you have at home?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_internet_access
+      label: Student Internet Access
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: classroom_computer_access
+      label: Classroom Computer Access
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: technology_used_for_classwork
+      label: Technology Used For Classwork
+      hint: null
+      type: select_multiple
+      options:
+      - math
+      - reading
+      - science
+      - writing
+      required: false
+    - id: 8
+      name: time_spent_on_devices
+      label: Time Spent On Devices
+      hint: How many hours do you spend on a device per day?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: devices_in_bedroom
+      label: Devices In Bedroom
+      hint: null
+      type: select_multiple
+      options:
+      - tv
+      - computer
+      - tablet
+      - video_game_consoles
+      required: false
+    - id: 10
+      name: parental_controls
+      label: Parental Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: technology_used_for_fun
+      label: Technology Used For Fun
+      hint: null
+      type: select_multiple
+      options:
+      - games
+      - social_media
+      - videos
+      - music
+      required: false

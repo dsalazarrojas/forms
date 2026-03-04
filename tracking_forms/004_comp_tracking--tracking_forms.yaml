@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comp Tracking
+    pages:
+    - id: 1
+      name: tracker_header
+      label: -- Compensation and Performance Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Identification Number
+      hint: Enter the unique ID for the employee being tracked
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: track_date
+      label: Effective Date of Change
+      hint: Date when the new compensation takes effect
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_annual_salary
+      label: Current Annual Salary
+      hint: Existing base salary before adjustments
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: adjustment_type
+      label: Type of Adjustment
+      hint: Reason for the compensation change
+      type: select_one
+      options:
+      - Merit Increase
+      - Market Adjustment
+      - Promotion
+      - Cost of Living (COLA)
+      - Bonus Payment
+      required: true
+    - id: 6
+      name: adjustment_percentage
+      label: Adjustment Percentage
+      hint: Percentage increase (e.g., 3.5)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: new_annual_salary
+      label: New Annual Salary
+      hint: Total base salary after adjustment
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: performance_rating
+      label: Latest Performance Rating
+      hint: Most recent annual review score
+      type: select_one
+      options:
+      - 1 - Unsatisfactory
+      - 2 - Developing
+      - 3 - Proficient
+      - 4 - Exceeds Expectations
+      - 5 - Outstanding
+      required: true
+    - id: 9
+      name: manager_approval_name
+      label: Approving Manager Name
+      hint: Full name of the manager authorizing this change
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: hr_review_status
+      label: HR Review Status
+      hint: Current status of the tracking record
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Rejected
+      - More Information Required
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Justification Notes
+      hint: Provide additional context for this compensation adjustment
+      type: text
+      options: []
+      required: false

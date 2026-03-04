@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clean Technology Feedback Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: -- Clean Technology Feedback Survey --
+        hint: Thank you for participating in our clean tech feedback survey.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: technology_type
+        label: Which clean technology are you evaluating?
+        hint: null
+        type: select_one
+        options:
+          - Solar Power
+          - Wind Energy
+          - Electric Vehicles
+          - Energy Storage/Batteries
+          - Smart Grid Solutions
+          - Water Purification
+          - Other
+        required: true
+      - id: 3
+        name: usage_duration
+        label: How long have you been using this technology?
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - More than 3 years
+        required: true
+      - id: 4
+        name: overall_satisfaction
+        label: Overall Satisfaction Level
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 5
+        name: performance_rating
+        label: Performance and Reliability Rating
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: cost_effectiveness
+        label: Do you find this technology cost-effective?
+        hint: null
+        type: select_one
+        options:
+          - Yes, highly cost-effective
+          - Yes, reasonably cost-effective
+          - Neutral
+          - No, not cost-effective
+        required: true
+      - id: 7
+        name: ease_of_use
+        label: Ease of operation and maintenance
+        hint: null
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Moderate
+          - Difficult
+        required: true
+      - id: 8
+        name: environmental_impact_rating
+        label: Perceived environmental impact
+        hint: null
+        type: select_one
+        options:
+          - Very Positive
+          - Positive
+          - Minimal
+          - Not sure
+        required: false
+      - id: 9
+        name: primary_benefit
+        label: What is the primary benefit you've experienced?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: major_challenges
+        label: What are the major challenges or drawbacks?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: improvement_suggestions
+        label: How could this technology be improved?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: recommend_likelihood
+        label: Likelihood to recommend this technology to others
+        hint: null
+        type: select_one
+        options:
+          - Highly Likely
+          - Likely
+          - Unlikely
+          - Highly Unlikely
+        required: true
+      - id: 13
+        name: future_adoption_interest
+        label: Are you considering adopting other clean technologies?
+        hint: null
+        type: select_one
+        options:
+          - Yes, within 1 year
+          - Yes, within 3 years
+          - Maybe
+          - No
+        required: false
+      - id: 14
+        name: respondent_email
+        label: Email Address (optional)
+        hint: If you'd like to receive the survey results
+        type: email
+        options: []
+        required: false
+      - id: 15
+        name: survey_footer
+        label: -- Thank you for your feedback! --
+        hint: Your input helps drive clean tech innovation.
+        type: note
+        options: []
+        required: false

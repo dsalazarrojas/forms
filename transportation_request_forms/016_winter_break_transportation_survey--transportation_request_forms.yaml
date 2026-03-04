@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Break Transportation Survey
+    pages:
+    - id: 1
+      name: winter_break_transportation_survey
+      label: Transportation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campus_location
+      label: Campus
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''University of Winter''}'
+      - '{''value'': ''Winter Campus''}'
+      - '{''value'': ''Other Campus''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_arrangement
+      label: Travel Arrangements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Private Vehicle''}'
+      - '{''value'': ''Public Transportation''}'
+      - '{''value'': ''Carpool''}'
+      - '{''value'': ''Other Arrangement''}'
+      required: false
+    - id: 5
+      name: travel_method
+      label: Travel Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Drive''}'
+      - '{''value'': ''Fly''}'
+      - '{''value'': ''Train''}'
+      - '{''value'': ''Bus''}'
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_participants
+      label: Travel Participants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Staff''}'
+      - '{''value'': ''Faculty''}'
+      - '{''value'': ''Students''}'
+      - '{''value'': ''Other Participant''}'
+      required: false
+    - id: 9
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: school_participants
+      label: School
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Primary School''}'
+      - '{''value'': ''Secondary School''}'
+      - '{''value'': ''Other School''}'
+      required: false
+    - id: 13
+      name: campus_participants
+      label: Campus
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Primary Campus''}'
+      - '{''value'': ''Secondary Campus''}'
+      - '{''value'': ''Other Campus''}'
+      required: false
+    - id: 14
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One-time''}'
+      - '{''value'': ''Repeatedly''}'
+      - '{''value'': ''Multiple times''}'
+      required: false
+    - id: 16
+      name: travel_group
+      label: Travel Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Group A''}'
+      - '{''value'': ''Group B''}'
+      - '{''value'': ''Other Group''}'
+      required: false

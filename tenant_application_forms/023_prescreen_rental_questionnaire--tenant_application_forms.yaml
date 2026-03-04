@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: prescreen_rental_questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_history
+      label: rental_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: income_verification
+      label: Income verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rental_history_2
+      label: Rental history 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_verification
+      label: Employment verification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rental_history_3
+      label: Rental history 3
+      hint: null
+      type: text
+      options: []
+      required: false

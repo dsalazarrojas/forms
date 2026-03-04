@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Quote Link Tree
+    pages:
+    - id: 1
+      name: travel_quote_link_tree_form
+      label: Travel Quote Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: director
+      label: Director
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travelers
+      label: Travelers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quote_type
+      label: Quote Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quote_start_date
+      label: Quote Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quote_end_date
+      label: Quote End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quote_duration
+      label: Quote Duration
+      hint: null
+      type: time
+      options: []
+      required: false

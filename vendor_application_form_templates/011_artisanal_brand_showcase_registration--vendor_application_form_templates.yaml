@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artisanal Brand Showcase Registration
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Artisanal Business
+      hint: null
+      type: select_one
+      options:
+      - Handmade Crafts
+      - Jewelry
+      - Textiles
+      - Food and Beverages
+      - Home Decor
+      - Fashion
+      - Other
+      required: true
+    - id: 3
+      name: business_registered
+      label: Business Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - In Process
+      - Sole Proprietor
+      - Not Registered
+      required: true
+    - id: 4
+      name: primary_contact
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_description
+      label: Product Description
+      hint: Describe your artisanal products
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: production_methods
+      label: Production Methods or Techniques
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sustainability_practices
+      label: Sustainability Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: previous_markets
+      label: Previous Market or Event Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: booth_size_required
+      label: Booth Size Required
+      hint: null
+      type: select_one
+      options:
+      - Small - 4x4
+      - Medium - 6x6
+      - Large - 8x8
+      - Premium - 10x10
+      - Multiple Booths
+      required: true
+    - id: 14
+      name: electricity_needed
+      label: Electricity or Utilities Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: brand_images
+      label: Brand Logo or Product Images
+      hint: Attach or provide URLs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram, Facebook, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participation_fee
+      label: Application or Participation Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: agreement_accepted
+      label: I Agree to the Vendor Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

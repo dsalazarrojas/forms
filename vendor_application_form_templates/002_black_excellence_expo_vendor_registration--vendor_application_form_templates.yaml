@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Excellence Expo Vendor Registration
+    pages:
+    - id: 1
+      name: section_vendor_information
+      label: -- Vendor information --
+      hint: Basic business details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_business_name
+      label: Business name
+      hint: Legal or trade name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary representative at the expo
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For registration and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Best number to reach representative
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_categories
+      label: Product categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Apparel
+      - Food and Beverage
+      - Health and Beauty
+      - Home Goods
+      - Art and Crafts
+      - Services
+      required: true
+    - id: 7
+      name: booth_size_requested
+      label: Booth size requested
+      hint: Specify an approximate footprint in feet
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: electricity_required
+      label: Electricity required
+      hint: Will the booth need power
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: insurance_provided
+      label: Proof of insurance provided
+      hint: Upload instructions will follow after submission
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: arrival_date
+      label: Expected arrival date for setup
+      hint: Date vendor plans to arrive for setup
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment method for booth fee
+      hint: Choose preferred payment option
+      type: select_one
+      options:
+      - Invoice
+      - Credit card
+      - Bank transfer
+      required: true
+    - id: 12
+      name: additional_requirements
+      label: Additional requirements
+      hint: Anything else event team should know
+      type: text
+      options: []
+      required: false

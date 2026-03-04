@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Taxi Booking Form
+    pages:
+    - id: 1
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: select_fare
+      label: Select Fare
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''5-10 km''}'
+      - '{''id'': 2, ''label'': ''10-20 km''}'
+      - '{''id'': 3, ''label'': ''More than 20 km''}'
+      required: false
+    - id: 5
+      name: choose_trip
+      label: Choose Trip
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: select_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

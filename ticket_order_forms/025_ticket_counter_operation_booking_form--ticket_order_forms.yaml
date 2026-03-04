@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Counter Operation Booking Form
+    pages:
+    - id: 1
+      name: ticket_counter_operation_form
+      label: Ticket Counter Operation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ticket 1
+      - Ticket 2
+      - Ticket 3
+      required: false
+    - id: 3
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - default-tool-1
+      - default-tool-2
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - not_submitted
+      - pending
+      required: false

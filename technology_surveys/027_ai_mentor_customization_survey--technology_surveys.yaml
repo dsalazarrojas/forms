@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Mentor Customization Survey
+    pages:
+    - id: 1
+      name: user_profile_header
+      label: --- Personalize Your AI Mentor ---
+      hint: Help us tailor your AI mentoring experience to your unique needs.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_domain
+      label: Primary Field of Study / Interest
+      hint: What do you want to be mentored in?
+      type: select_one
+      options:
+      - label: Software Development / Coding
+        value: coding
+      - label: Business Strategy & Entrepreneurship
+        value: business
+      - label: Creative Writing & Content
+        value: writing
+      - label: Data Science & Analytics
+        value: data_science
+      - label: Personal Growth & Wellness
+        value: wellness
+      - label: Academic Research
+        value: research
+      required: true
+    - id: 4
+      name: skill_level_baseline
+      label: Current Skill Level in this Domain
+      hint: null
+      type: select_one
+      options:
+      - label: Novice (Just starting)
+        value: novice
+      - label: Intermediate (Have foundational knowledge)
+        value: intermediate
+      - label: Advanced (Proficient / Professional)
+        value: advanced
+      - label: Expert (Specialized / Lead role)
+        value: expert
+      required: true
+    - id: 5
+      name: mentorship_style_header
+      label: --- Mentorship Style & Tone ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_style
+      label: Preferred Mentorship Style
+      hint: How should the AI interact with you?
+      type: select_one
+      options:
+      - label: Encouraging & Supportive (Positive reinforcement)
+        value: supportive
+      - label: Direct & Critical (No-nonsense feedback)
+        value: direct
+      - label: Socratic (Guides you with questions)
+        value: socratic
+      - label: Analytical (Data and evidence focused)
+        value: analytical
+      required: true
+    - id: 7
+      name: mentor_tone
+      label: Desired Mentor Tone
+      hint: null
+      type: select_one
+      options:
+      - label: Professional / Formal
+        value: professional
+      - label: Casual / Friendly
+        value: casual
+      - label: Academic / Serious
+        value: academic
+      - label: Quirky / Humorous
+        value: quirky
+      required: true
+    - id: 8
+      name: interaction_frequency
+      label: How often do you want 'Proactive' check-ins from your mentor?
+      hint: null
+      type: select_one
+      options:
+      - label: Daily (Morning/Evening Sync)
+        value: daily
+      - label: Twice Weekly
+        value: biweekly
+      - label: Weekly Summary
+        value: weekly
+      - label: Never (I will initiate all contact)
+        value: on_demand
+      required: true
+    - id: 9
+      name: customization_details_header
+      label: --- Content and Logistics ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: specific_goals
+      label: What are your top 3 specific goals for this mentorship?
+      hint: e.g., "Complete my first React app", "Improve leadership communication"
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: depth_of_response
+      label: Preferred Depth of Technical Explanations
+      hint: null
+      type: select_one
+      options:
+      - label: High-level / Conceptual
+        value: high_level
+      - label: Standard / Balanced
+        value: standard
+      - label: Deep-dive / Technical details
+        value: deep_dive
+      required: true
+    - id: 12
+      name: preferred_input_method
+      label: Preferred Interaction Method
+      hint: null
+      type: select_multiple
+      options:
+      - label: Text Chat
+        value: text
+      - label: Voice / Audio Messages
+        value: voice
+      - label: Code Review / Code Snippets
+        value: code
+      - label: Visual / Diagrams
+        value: visual
+      required: true
+    - id: 13
+      name: tool_integrations
+      label: Which tools should the AI Mentor integrate with?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Google Calendar
+        value: calendar
+      - label: GitHub / GitLab
+        value: github
+      - label: Notion / Obsidian
+        value: docs
+      - label: Slack / Discord
+        value: chat_apps
+      required: false
+    - id: 14
+      name: data_memory_preference
+      label: Conversation Memory & Privacy
+      hint: null
+      type: select_one
+      options:
+      - label: Full Memory (Retain all context indefinitely)
+        value: full_memory
+      - label: Session-only Memory (Forget after each topic)
+        value: session_only
+      - label: Personalized (Keep goals, forget small talk)
+        value: personalized
+      required: true
+    - id: 15
+      name: primary_language
+      label: Preferred Interaction Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Email (to sync your preferences across devices)
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: survey_completion_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

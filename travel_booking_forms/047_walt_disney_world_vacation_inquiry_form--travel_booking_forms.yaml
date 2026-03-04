@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Walt Disney World Vacation Inquiry Form
+    pages:
+    - id: 1
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_party
+      label: Travel Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Family'', ''value'': ''family''}'
+      - '{''label'': ''Couple'', ''value'': ''couple''}'
+      - '{''label'': ''Solo'', ''value'': ''solo''}'
+      - '{''label'': ''Group'', ''value'': ''group''}'
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_length
+      label: Travel Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_hotel
+      label: Preferred Hotel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': "Disney''s Grand Floridian Resort & Spa", ''value'': ''disneys_grand_floridian_resort_and_spa''}'
+      - '{''label'': "Disney''s Polynesian Resort", ''value'': ''disneys_polynesian_resort''}'
+      - '{''label'': "Disney''s BoardWalk", ''value'': ''disneys_boardwalk''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_date_range
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: special_request_2
+      label: Special Request 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_request_3
+      label: Special Request 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Domestic'', ''value'': ''domestic''}'
+      - '{''label'': ''International'', ''value'': ''international''}'
+      - '{''label'': ''National'', ''value'': ''national''}'
+      required: false
+    - id: 19
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Florida'', ''value'': ''florida''}'
+      - '{''label'': ''California'', ''value'': ''california''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 20
+      name: additional_travelers
+      label: Additional Travelers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: arrival_airport
+      label: Arrival Airport
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Orlando International'', ''value'': ''orlando_international''}'
+      - '{''label'': ''Tampa International'', ''value'': ''tampa_international''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 22
+      name: travel_currency
+      label: Travel Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USD'', ''value'': ''usd''}'
+      - '{''label'': ''Euro'', ''value'': ''euro''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 23
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Disney Travel Agency'', ''value'': ''disney_travel_agency''}'
+      - '{''label'': ''Another Agency'', ''value'': ''another_agency''}'
+      required: false
+    - id: 24
+      name: travel_agent_name
+      label: Travel Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm_travel_agent
+      label: Confirm Travel Agent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 26
+      name: confirm_travel_agent_name
+      label: Confirm Travel Agent Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 27
+      name: travel_currency_2
+      label: Travel Currency 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USD'', ''value'': ''usd''}'
+      - '{''label'': ''Euro'', ''value'': ''euro''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 28
+      name: special_request_4
+      label: Special Request 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_request_5
+      label: Special Request 5
+      hint: null
+      type: text
+      options: []
+      required: false

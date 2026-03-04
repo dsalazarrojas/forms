@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Inventory Information Record Form
+    pages:
+    - id: 1
+      name: home_inventory_info
+      label: Home Inventory Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tracking_form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - Tracking Forms
+      - Other Forms
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sync_app
+      label: Sync with
+      hint: Select 100+ apps you can sync with
+      type: select_multiple
+      options:
+      - Google Sheets
+      - Microsoft Excel
+      required: false
+    - id: 6
+      name: home_inventory_info_2
+      label: More info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tracking_form_data
+      label: Tracking form data
+      hint: Enter data from other forms
+      type: select_one
+      options:
+      - Tracking Form 1
+      - Tracking Form 2
+      required: false

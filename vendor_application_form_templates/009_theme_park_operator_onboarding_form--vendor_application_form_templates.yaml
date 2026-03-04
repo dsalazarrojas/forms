@@ -1,0 +1,409 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Operator Onboarding Form
+    pages:
+    - id: 1
+      name: operator_details
+      label: Operator Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: documentation_details
+      label: Documentation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_info
+      label: Vendor Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: operator_contact
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: operator_address
+      label: Operator Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: operator_phone
+      label: Operator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operator_license
+      label: Operator License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: onboard_date
+      label: Onboard Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: onboard_time
+      label: Onboard Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: onboard_status
+      label: Onboard Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 12
+      name: onboard_notes
+      label: Onboard Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: onboard_review
+      label: Onboard Review
+      hint: null
+      type: select_one
+      options:
+      - Not Verified
+      - Verified
+      - Pending
+      required: true
+    - id: 14
+      name: onboard_decision
+      label: Onboard Decision
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Onhold
+      required: true
+    - id: 15
+      name: onboard_comments
+      label: Onboard Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: onboard_date2
+      label: Onboard Date2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: onboard_time2
+      label: Onboard Time2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: onboard_status2
+      label: Onboard Status2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 19
+      name: onboard_notes2
+      label: Onboard Notes2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: onboard_review2
+      label: Onboard Review2
+      hint: null
+      type: select_one
+      options:
+      - Not Verified
+      - Verified
+      - Pending
+      required: false
+    - id: 21
+      name: onboard_decision2
+      label: Onboard Decision2
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Onhold
+      required: false
+    - id: 22
+      name: onboard_comments2
+      label: Onboard Comments2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: onboard_date3
+      label: Onboard Date3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: onboard_time3
+      label: Onboard Time3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: onboard_status3
+      label: Onboard Status3
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 26
+      name: onboard_notes3
+      label: Onboard Notes3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: onboard_review3
+      label: Onboard Review3
+      hint: null
+      type: select_one
+      options:
+      - Not Verified
+      - Verified
+      - Pending
+      required: false
+    - id: 28
+      name: onboard_decision3
+      label: Onboard Decision3
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Onhold
+      required: false
+    - id: 29
+      name: onboard_comments3
+      label: Onboard Comments3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: onboard_date4
+      label: Onboard Date4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: onboard_time4
+      label: Onboard Time4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 32
+      name: onboard_status4
+      label: Onboard Status4
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 33
+      name: onboard_notes4
+      label: Onboard Notes4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: onboard_review4
+      label: Onboard Review4
+      hint: null
+      type: select_one
+      options:
+      - Not Verified
+      - Verified
+      - Pending
+      required: false
+    - id: 35
+      name: onboard_decision4
+      label: Onboard Decision4
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Onhold
+      required: false
+    - id: 36
+      name: onboard_comments4
+      label: Onboard Comments4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: onboard_date5
+      label: Onboard Date5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 38
+      name: onboard_time5
+      label: Onboard Time5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 39
+      name: onboard_status5
+      label: Onboard Status5
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 40
+      name: onboard_notes5
+      label: Onboard Notes5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: onboard_review5
+      label: Onboard Review5
+      hint: null
+      type: select_one
+      options:
+      - Not Verified
+      - Verified
+      - Pending
+      required: false
+    - id: 42
+      name: onboard_decision5
+      label: Onboard Decision5
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Onhold
+      required: false
+    - id: 43
+      name: onboard_comments5
+      label: Onboard Comments5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: onboard_date6
+      label: Onboard Date6
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: onboard_time6
+      label: Onboard Time6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 46
+      name: onboard_status6
+      label: Onboard Status6
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 47
+      name: onboard_notes6
+      label: Onboard Notes6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: onboard_review6
+      label: Onboard Review6
+      hint: null
+      type: select_one
+      options:
+      - Not Verified
+      - Verified
+      - Pending
+      required: false
+    - id: 49
+      name: onboard_decision6
+      label: Onboard Decision6
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Onhold
+      required: false
+    - id: 50
+      name: onboard_comments6
+      label: Onboard Comments6
+      hint: null
+      type: text
+      options: []
+      required: false

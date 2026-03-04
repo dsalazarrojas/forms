@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Report
+    pages:
+    - id: 1
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector
+      label: Inspectors Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_id
+      label: Vehicle Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Car
+      - Truck
+      required: true
+    - id: 5
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: engine_oil_level
+      label: Engine Oil Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: transmission_oil_level
+      label: Transmission Oil Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: coolant_level
+      label: Coolant Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: brake_status
+      label: Brake Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: tire_status
+      label: Tire Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: suspension_status
+      label: Suspension Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: steering_status
+      label: Steering Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: frame_status
+      label: Frame Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: wheel_status
+      label: Wheel Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: body_status
+      label: Body Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: glass_status
+      label: Glass Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: electrical_system_status
+      label: Electrical System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: safety_belt_status
+      label: Safety Belt Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: parking_brake_status
+      label: Parking Brake Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: parking_brake_warning
+      label: Parking Brake Warning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

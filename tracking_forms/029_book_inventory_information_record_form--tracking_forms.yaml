@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Inventory Information Record Form
+    pages:
+    - id: 1
+      name: record_date
+      label: Record Date
+      hint: Date of inventory record
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: librarian_name
+      label: Librarian Name
+      hint: Name of recording librarian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: branch_name
+      label: Library Branch
+      hint: Which branch is this for
+      type: select_one
+      options:
+      - Main Branch
+      - Downtown Branch
+      - Westside Branch
+      - Eastside Branch
+      - North Branch
+      - South Branch
+      required: true
+    - id: 4
+      name: section_name
+      label: Library Section
+      hint: Which section of library
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Children
+      - Young Adult
+      - Reference
+      - Periodicals
+      - Multimedia
+      - Archives
+      required: true
+    - id: 5
+      name: shelf_range
+      label: Shelf Range
+      hint: Which shelves were counted
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_books_counted
+      label: Total Books Counted
+      hint: Total number of books on shelves
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: books_checked_out
+      label: Books Currently Checked Out
+      hint: Number of books from this section checked out
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: books_on_hold
+      label: Books On Hold
+      hint: Number of books currently on hold
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: books_in_processing
+      label: Books In Processing
+      hint: New books being processed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: books_needing_repair
+      label: Books Needing Repair
+      hint: Books that need maintenance
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: books_lost_or_missing
+      label: Books Lost or Missing
+      hint: Books that cannot be located
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: new_additions_this_period
+      label: New Books Added This Period
+      hint: Number of new books added
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: books_weeded
+      label: Books Weeded or Removed
+      hint: Books removed from collection
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: inventory_method
+      label: Inventory Method Used
+      hint: How was inventory conducted
+      type: select_one
+      options:
+      - Manual Count
+      - Barcode Scanner
+      - RFID Scan
+      - Partial Sample
+      - Full Audit
+      required: true
+    - id: 15
+      name: inventory_accuracy
+      label: Inventory Accuracy Rate
+      hint: Percentage accuracy of records
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: discrepancies_found
+      label: Were Discrepancies Found
+      hint: Select if differences were found
+      type: select_one
+      options:
+      - Yes Significant
+      - Yes Minor
+      - No Discrepancies
+      required: true
+    - id: 17
+      name: discrepancy_notes
+      label: Notes on Discrepancies
+      hint: Describe any discrepancies found
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: condition_assessment
+      label: Overall Collection Condition
+      hint: Rate the overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: preservation_needs
+      label: Preservation Needs Identified
+      hint: Any preservation issues
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: space_utilization
+      label: Shelf Space Utilization
+      hint: How full are the shelves
+      type: select_one
+      options:
+      - Under 50 percent Full
+      - 50-75 percent Full
+      - 75-90 percent Full
+      - Over 90 percent Full
+      - Need Expansion
+      required: true
+    - id: 21
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations for improvement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_inventory_date
+      label: Next Scheduled Inventory Date
+      hint: When is next inventory
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_review
+      label: Supervisor Review Required
+      hint: Does this need supervisor review
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: recorder_signature
+      label: Recorder Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ferry Ticket Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form
+      label: Reservation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_info
+      label: Passenger Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Business
+      - First
+      required: false
+    - id: 7
+      name: number_of_passengers
+      label: Number Of Passengers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Deposit
+      - PayPal
+      required: false
+    - id: 11
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_booking
+      label: Confirm Booking
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: confirm_pickup
+      label: Confirm Pickup
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: confirm_return
+      label: Confirm Return
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: confirm_travel_class
+      label: Confirm Travel Class
+      hint: null
+      type: select_multiple
+      options:
+      - Economy
+      - Business
+      - First
+      required: false
+    - id: 18
+      name: confirm_number_of_passengers
+      label: Confirm Number Of Passengers
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      required: false
+    - id: 19
+      name: confirm_departure_time
+      label: Confirm Departure Time
+      hint: null
+      type: select_multiple
+      options:
+      - '480'
+      - '540'
+      - '600'
+      required: false
+    - id: 20
+      name: confirm_return_time
+      label: Confirm Return Time
+      hint: null
+      type: select_multiple
+      options:
+      - '480'
+      - '540'
+      - '600'
+      required: false
+    - id: 21
+      name: confirm_departure_date
+      label: Confirm Departure Date
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-03-01'
+      - '2024-03-02'
+      - '2024-03-03'
+      required: false
+    - id: 22
+      name: confirm_return_date
+      label: Confirm Return Date
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-03-01'
+      - '2024-03-02'
+      - '2024-03-03'
+      required: false
+    - id: 23
+      name: confirm_travel_date
+      label: Confirm Travel Date
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-03-01'
+      - '2024-03-02'
+      - '2024-03-03'
+      required: false
+    - id: 24
+      name: confirm_number_of_travelers
+      label: Confirm Number Of Travelers
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: Submit the form
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: its_turkey_day_thanksgiving_forms
+    pages:
+    - id: 1
+      name: turkey_dinner_guests
+      label: Turkey Dinner Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: main_course
+      label: Main Course
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: side_dishes
+      label: Side Dishes
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: dessert_course
+      label: Dessert Course
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: drinks
+      label: Drinks
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

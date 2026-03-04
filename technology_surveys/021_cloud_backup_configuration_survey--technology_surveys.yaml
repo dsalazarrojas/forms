@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Backup Configuration Survey
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department - Team
+      hint: IT Operations, Infrastructure, etc
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_current
+      label: -- Current Backup Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_backup_solution
+      label: Current backup solution provider
+      hint: Vendor name or service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_using_solution
+      label: Years using current solution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: data_volume
+      label: Approximate data volume backed up - TB
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: backup_frequency
+      label: Backup frequency
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Daily
+      - Multiple times daily
+      - Weekly
+      - Custom
+      required: true
+    - id: 11
+      name: rto_requirement
+      label: Recovery Time Objective - RTO
+      hint: Maximum acceptable downtime
+      type: select_one
+      options:
+      - Minutes
+      - Hours
+      - Less than 1 day
+      - 1-7 days
+      - No specific requirement
+      required: true
+    - id: 12
+      name: rpo_requirement
+      label: Recovery Point Objective - RPO
+      hint: Maximum acceptable data loss
+      type: select_one
+      options:
+      - Real-time
+      - Under 1 hour
+      - 1-24 hours
+      - 1-7 days
+      - No specific requirement
+      required: true
+    - id: 13
+      name: section_satisfaction
+      label: -- Current Solution Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall satisfaction with current solution
+      hint: Rate from 1 (very unsatisfied) to 5 (very satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reliability_rating
+      label: Reliability and uptime rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: ease_of_use
+      label: Ease of use and management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: support_quality
+      label: Quality of vendor support
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: section_challenges
+      label: -- Current Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_challenges
+      label: Main challenges with current backup
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Complexity
+      - Performance
+      - Scalability
+      - Support
+      - Compliance
+      - Recovery speed
+      - None
+      required: true
+    - id: 20
+      name: challenge_details
+      label: Describe main challenges in detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_upgrade
+      label: -- Upgrade and Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: considering_upgrade
+      label: Considering backup solution upgrade?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - 'No'
+      - Undecided
+      required: true
+    - id: 23
+      name: upgrade_timeline
+      label: Upgrade timeline if applicable
+      hint: null
+      type: select_one
+      options:
+      - Next 3 months
+      - 3-6 months
+      - 6-12 months
+      - 12+ months
+      - No specific timeline
+      required: false
+    - id: 24
+      name: important_features
+      label: Most important features for new solution
+      hint: null
+      type: text
+      options: []
+      required: false

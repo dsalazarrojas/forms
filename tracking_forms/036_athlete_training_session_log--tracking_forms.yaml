@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Training Session Log
+    pages:
+    - id: 1
+      name: session_details_header
+      label: -- Training Session Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: training_date
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: training_type
+      label: Primary Type of Training
+      hint: Select the main focus of the session
+      type: select_one
+      options:
+      - Strength and Weight Training
+      - Conditioning and Cardio
+      - Technical Skills Development
+      - Tactical and Game Play
+      - Recovery and Mobility
+      - Other
+      required: true
+    - id: 7
+      name: intensity_volume_header
+      label: -- Session Intensity and Volume --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rpe_rating
+      label: Rate of Perceived Exertion - RPE
+      hint: 1 is Very Easy, 10 is Max Effort
+      type: select_one
+      options:
+      - 1 - Very Easy
+      - 2
+      - 3
+      - 4
+      - 5 - Moderate
+      - 6
+      - 7 - Hard
+      - 8
+      - 9 - Very Hard
+      - 10 - Max Effort
+      required: true
+    - id: 9
+      name: training_volume
+      label: Total Volume
+      hint: e.g. Total sets and reps, or distance covered
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: key_exercises
+      label: Key Exercises Performed
+      hint: List the main movements or drills
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: physiological_header
+      label: -- Physiological Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: avg_heart_rate
+      label: Average Heart Rate - bpm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: peak_heart_rate
+      label: Peak Heart Rate Recorded - bpm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: calories_burned
+      label: Estimated Calories Burned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: qualitative_feedback_header
+      label: -- Qualitative Session Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overall_session_feel
+      label: How did you feel overall during the session?
+      hint: null
+      type: select_one
+      options:
+      - Great - High energy
+      - Good - Solid performance
+      - Average - Standard session
+      - Struggling - Low energy
+      - Poor - High fatigue or pain
+      required: true
+    - id: 17
+      name: pain_discomfort_notes
+      label: Any pain or discomfort during the session?
+      hint: Describe location and intensity
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: technical_focus_points
+      label: Technical Focus or Key Learning Points
+      hint: What did you learn or improve today?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_session_goals
+      label: Specific Goals for Next Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coach_notes
+      label: Coach Feedback or Notes
+      hint: To be filled by coach if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: log_submission_date
+      label: Date of Log Submission
+      hint: null
+      type: date
+      options: []
+      required: true

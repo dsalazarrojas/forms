@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicaid_trip_validation_log
+    pages:
+    - id: 1
+      name: medicaid_trip_validation_log_page
+      label: medicaid_trip_validation_log_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rider_info
+      label: rider_info_section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_details
+      label: trip_details_section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: signature_field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_of_trip
+      label: trip_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: time_of_return
+      label: trip_return_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: address_from
+      label: pickup_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address_to
+      label: drop_off_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_trip
+      label: trip_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_return
+      label: trip_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: driver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rider_phone
+      label: rider_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: signature_1
+      label: signature_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature_2
+      label: signature_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signature_3
+      label: signature_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature_4
+      label: signature_4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: signature_5
+      label: signature_5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: signature_6
+      label: signature_6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trip_status
+      label: trip_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      required: false
+    - id: 22
+      name: trip_number
+      label: trip_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: trip_date_range
+      label: trip_date_range
+      hint: null
+      type: select_multiple
+      options:
+      - Past week
+      - Past two weeks
+      - Past four weeks
+      - Past month
+      - Past six weeks
+      - Past two months
+      - Past three months
+      - Past three months and 30 days
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: trip_id
+      label: trip_id
+      hint: null
+      type: text
+      options: []
+      required: false

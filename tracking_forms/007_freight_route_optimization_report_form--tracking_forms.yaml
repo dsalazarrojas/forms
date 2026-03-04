@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Route Optimization Report Form
+    pages:
+    - id: 1
+      name: route_details
+      label: Route Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route_id
+      label: Route Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: origin
+      label: Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: route_type
+      label: Route Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highway''}'
+      - '{''value'': ''Railway''}'
+      - '{''value'': ''Waterway''}'
+      required: false
+    - id: 5
+      name: distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transport_time
+      label: Transport Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: transport_date
+      label: Transport Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Logistics''}'
+      - '{''value'': ''Operations''}'
+      - '{''value'': ''Management''}'
+      required: false
+    - id: 10
+      name: improvement_recommendations
+      label: Improvement Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: route_issues
+      label: Route Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issues_description
+      label: Issues Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: route_issues_type
+      label: Route Issues Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Traffic Jam''}'
+      - '{''value'': ''Weather Conditions''}'
+      - '{''value'': ''Road Conditions''}'
+      required: false
+    - id: 14
+      name: route_issues_date
+      label: Route Issues Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: route_issues_time
+      label: Route Issues Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: route_affected
+      label: Route Affected
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: route_affected_reason
+      label: Route Affected Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: route_status
+      label: Route Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 19
+      name: transport_id
+      label: Transport Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: driver_id
+      label: Driver Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Trucking''}'
+      - '{''value'': ''Rail''}'
+      - '{''value'': ''Ship''}'
+      required: false
+    - id: 22
+      name: transport_number
+      label: Transport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

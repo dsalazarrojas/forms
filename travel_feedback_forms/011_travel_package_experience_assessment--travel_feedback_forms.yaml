@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_package_experience_assessment
+    pages:
+    - id: 1
+      name: travel_package_experience
+      label: travel_package_experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      - '{''label'': ''Very good'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Poor'', ''value'': 2}'
+      - '{''label'': ''Terrible'', ''value'': 1}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Domestic'', ''value'': ''Domestic''}'
+      - '{''label'': ''International'', ''value'': ''International''}'
+      - '{''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 9
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_travel
+      label: time_of_travel
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Hotel'', ''value'': ''Hotel''}'
+      - '{''label'': ''Hostel'', ''value'': ''Hostel''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 13
+      name: travel_agent_info
+      label: travel_agent_info
+      hint: null
+      type: note
+      options: []
+      required: false

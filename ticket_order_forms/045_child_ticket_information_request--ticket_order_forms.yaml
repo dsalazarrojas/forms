@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Ticket Information Request
+    pages:
+    - id: 1
+      name: section_event_requester_info
+      label: -- Event and Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Name of Event
+      hint: e.g., Summer Festival, Puppet Show
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Person requesting tickets
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_ticket_details
+      label: -- Ticket Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: child_ticket_count
+      label: Number of Child Tickets Requested
+      hint: Enter whole number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: age_category_select
+      label: Child Age Category
+      hint: For pricing and seating
+      type: select_one
+      options:
+      - label: Under 2 years - Free Entry
+        value: infant
+      - label: 2 to 12 years - Child Rate
+        value: child
+      - label: 13 to 17 years - Junior Rate
+        value: junior
+      required: true
+    - id: 7
+      name: section_specific_needs
+      label: -- Specific Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: accessible_seating_status
+      label: Do you require accessible seating?
+      hint: For wheelchairs or limited mobility
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 9
+      name: stroller_access_status
+      label: Will you be bringing a stroller?
+      hint: Helps with venue planning
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 10
+      name: section_contact_delivery
+      label: -- Contact for Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_email
+      label: Email for Ticket Delivery
+      hint: Electronic tickets will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: alerts_phone
+      label: Phone Number for SMS Alerts
+      hint: For event updates and reminders
+      type: text
+      options: []
+      required: false

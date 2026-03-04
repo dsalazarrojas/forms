@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Inventory Movement Form
+    pages:
+    - id: 1
+      name: department_from
+      label: department_from
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: department_to
+      label: department_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_quantity
+      label: item_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transaction
+      label: date_of_transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: item_status
+      label: item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: item_status_reason
+      label: item_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item_comment
+      label: item_comment
+      hint: null
+      type: text
+      options: []
+      required: false

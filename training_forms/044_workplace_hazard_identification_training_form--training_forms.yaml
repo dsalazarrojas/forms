@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Hazard Identification Training Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Risk'', ''value'': ''Risk''}'
+      - '{''label'': ''Hazard'', ''value'': ''Hazard''}'
+      - '{''label'': ''Injury'', ''value'': ''Injury''}'
+      required: false
+    - id: 3
+      name: risk_factors_description
+      label: description
+      hint: Please provide a description of the identified hazard
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: control_measures
+      label: control_measures
+      hint: Describe the control measures taken or recommended
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reporting_procedure
+      label: reporting_procedure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Reporting'', ''value'': ''Reporting''}'
+      - '{''label'': ''Investigation'', ''value'': ''Investigation''}'
+      - '{''label'': ''Corrective action'', ''value'': ''Corrective action''}'
+      required: false
+    - id: 6
+      name: training_materials
+      label: training_materials
+      hint: What training materials were used
+      type: select_one
+      options:
+      - '{''label'': ''Video'', ''value'': ''Video''}'
+      - '{''label'': ''Presentation'', ''value'': ''Presentation''}'
+      - '{''label'': ''Manual'', ''value'': ''Manual''}'
+      required: false
+    - id: 7
+      name: training_location
+      label: training_location
+      hint: Location of the training session
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_date
+      label: training_date
+      hint: Date of the training session
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_time
+      label: training_time
+      hint: Time of the training session
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trained_employees
+      label: trained_employees
+      hint: Number of employees trained
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trained_supervisors
+      label: trained_supervisors
+      hint: Number of supervisors trained
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trained_management
+      label: trained_management
+      hint: Number of management staff trained
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: evaluation
+      label: evaluation
+      hint: How would you rate the effectiveness of the training session
+      type: select_one
+      options:
+      - '{''label'': ''Effective'', ''value'': ''Effective''}'
+      - '{''label'': ''Not effective'', ''value'': ''Not effective''}'
+      - '{''label'': ''Somewhat effective'', ''value'': ''Somewhat effective''}'
+      required: false
+    - id: 14
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: Comments about the training session
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_facilitator
+      label: training_facilitator
+      hint: Name of the training facilitator
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

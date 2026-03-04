@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Uniform Order Form
+    pages:
+    - id: 1
+      name: troop_number
+      label: Troop Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Cash''}'
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: item_name
+      label: Item Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Shirt''}'
+      - '{''name'': ''Pants''}'
+      - '{''name'': ''Hat''}'
+      - '{''name'': ''Scarf''}'
+      required: false

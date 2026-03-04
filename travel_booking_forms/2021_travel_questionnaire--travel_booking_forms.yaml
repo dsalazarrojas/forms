@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Travel Questionnaire
+    pages:
+    - id: 1
+      name: welcome_message
+      label: Welcome Back to Travel! Help us plan your perfect 2021 getaway by sharing
+        your preferences below.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As it appears on your passport or ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Primary contact for travel deals and itineraries
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside US/Canada
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: departure_city
+      label: Home airport or city of departure
+      hint: e.g., "New York JFK" or "London Heathrow"
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_of_travelers
+      label: Number of travelers
+      hint: Including yourself
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: traveler_composition
+      label: Traveler details
+      hint: e.g., "2 adults, 2 children ages 6 and 9" or "Solo traveler"
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_trip_preferences
+      label: '--- Trip Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trip_type
+      label: Primary purpose of travel
+      hint: null
+      type: select_one
+      options:
+      - Leisure/Vacation
+      - Honeymoon/Anniversary
+      - Family vacation
+      - Adventure/Expedition
+      - Business with leisure extension
+      - Group tour
+      required: true
+    - id: 10
+      name: preferred_destinations
+      label: Destinations of interest (select all that apply)
+      hint: Choose your top regions for 2021
+      type: select_multiple
+      options:
+      - Caribbean/Mexico
+      - Europe (Western)
+      - Europe (Eastern/Mediterranean)
+      - Asia-Pacific
+      - Central/South America
+      - Africa/Middle East
+      - Domestic USA/Canada
+      - Alaska/Nordic regions
+      - South Pacific Islands
+      required: true
+    - id: 11
+      name: travel_timing_2021
+      label: Preferred travel months in 2021
+      hint: When are you hoping to travel?
+      type: select_multiple
+      options:
+      - Spring 2021 (Mar-May)
+      - Summer 2021 (Jun-Aug)
+      - Fall 2021 (Sep-Nov)
+      - Winter/Holidays 2021 (Dec)
+      - Flexible/Anytime
+      required: true
+    - id: 12
+      name: trip_duration
+      label: Expected trip duration
+      hint: null
+      type: select_one
+      options:
+      - Weekend getaway (2-3 days)
+      - Week-long trip (5-7 days)
+      - Extended vacation (10-14 days)
+      - Two to three weeks
+      - Long-term (1 month+)
+      required: true
+    - id: 13
+      name: budget_per_person
+      label: Budget range per person (excluding flights)
+      hint: Helps us match you with appropriate packages
+      type: select_one
+      options:
+      - Economy ($500-$1,500)
+      - Moderate ($1,500-$3,000)
+      - Premium ($3,000-$5,000)
+      - Luxury ($5,000-$8,000)
+      - Ultra-luxury ($8,000+)
+      - Undecided/Need guidance
+      required: true
+    - id: 14
+      name: accommodation_preference
+      label: Preferred accommodation styles
+      hint: Select all that match your style
+      type: select_multiple
+      options:
+      - All-inclusive resort
+      - Boutique/luxury hotel
+      - Vacation rental (Airbnb/Vrbo)
+      - Cruise ship
+      - Eco-lodge/Nature retreat
+      - Hostel/Budget hotel
+      - Villa/Private home
+      required: false
+    - id: 15
+      name: activity_interests
+      label: Activities of interest
+      hint: What experiences are you seeking?
+      type: select_multiple
+      options:
+      - Beach/Relaxation
+      - Cultural immersion/Historical sites
+      - Food/Wine/Culinary tours
+      - Outdoor adventures (hiking, diving, etc)
+      - Wildlife/Safari
+      - Shopping/Urban exploration
+      - Wellness/Spa/Yoga retreat
+      - Nightlife/Entertainment
+      required: false
+    - id: 16
+      name: section_health_safety
+      label: '--- Health & Safety Planning ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vaccination_status
+      label: COVID-19 vaccination status
+      hint: For destination entry requirement planning
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated (in progress)
+      - Planning to vaccinate before travel
+      - Not vaccinated (medical exemption)
+      - Prefer not to disclose
+      required: false
+    - id: 18
+      name: travel_insurance_interest
+      label: Interest in comprehensive travel insurance
+      hint: Including cancellation and medical coverage
+      type: select_one
+      options:
+      - Yes, required for booking
+      - Considering it/Quote requested
+      - No, will self-insure
+      - Unsure/Need more information
+      required: true
+    - id: 19
+      name: flexibility_level
+      label: Booking flexibility preference
+      hint: How important are refundable/changeable bookings?
+      type: select_one
+      options:
+      - Essential - Only booking fully refundable options
+      - High preference - Flexible change policies
+      - Moderate - Standard terms acceptable
+      - Low - Best price is priority
+      required: true
+    - id: 20
+      name: previous_travel_experience
+      label: Previous travel with our agency?
+      hint: null
+      type: select_one
+      options:
+      - First-time customer
+      - Traveled with us 1-2 times before
+      - Regular customer (3+ trips)
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special requests or additional information
+      hint: Dietary restrictions, accessibility needs, celebration details, or specific
+        bucket-list items
+      type: text
+      options: []
+      required: false

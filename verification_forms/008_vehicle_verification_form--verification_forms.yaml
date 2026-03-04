@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_verification_form
+    pages:
+    - id: 1
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: make
+      label: Make
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Audi''}'
+      - '{''label'': ''BMW''}'
+      - '{''label'': ''Toyota''}'
+      required: false
+    - id: 3
+      name: model_year
+      label: Model Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 5
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Truck''}'
+      - '{''label'': ''SUV''}'
+      required: false
+    - id: 6
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_insurance_status
+      label: Vehicle Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 8
+      name: vehicle_last_inspection_date
+      label: Vehicle Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_last_mileage_reading
+      label: Vehicle Last Mileage Reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_last_servicing_date
+      label: Vehicle Last Servicing Date
+      hint: null
+      type: date
+      options: []
+      required: false

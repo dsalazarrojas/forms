@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Database Form
+    pages:
+    - id: 1
+      name: vehicle_registration_form
+      label: Vehicle Registration Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_year_model
+      label: vehicle_year_model
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year_of_purchase
+      label: Year Of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_mileage
+      label: vehicle_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Destroyed
+      required: true
+    - id: 9
+      name: vehicle_owner
+      label: vehicle_owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_notes
+      label: vehicle_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_phone_number
+      label: vehicle_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_license_plate
+      label: vehicle_license_plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_tag_number
+      label: vehicle_tag_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_tag_color
+      label: vehicle_tag_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_registration_date
+      label: vehicle_registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_year_of_last_service
+      label: vehicle_year_of_last_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_maintenence_record
+      label: vehicle_maintenence_record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_insurance
+      label: vehicle_insurance
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - None
+      required: false
+    - id: 19
+      name: vehicle_vehicle_type
+      label: vehicle_vehicle_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: vehicle_last_service_miles
+      label: vehicle_last_service_miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_last_service_date
+      label: vehicle_last_service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_next_service_miles
+      label: vehicle_next_service_miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_next_service_date
+      label: vehicle_next_service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_last_service_revenue
+      label: vehicle_last_service_revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_last_service_cost
+      label: vehicle_last_service_cost
+      hint: null
+      type: number
+      options: []
+      required: false

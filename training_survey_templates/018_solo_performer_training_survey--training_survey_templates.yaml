@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solo Performer Training Survey
+    pages:
+    - id: 1
+      name: solo_performer_discipline
+      label: Solo Performer Discipline
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Tap
+      - Jazz
+      - Modern
+      - Contemporary
+      - Hip-Hop
+      - Other
+      required: true
+    - id: 2
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Daily
+      required: true
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - Private Lessons
+      - Group Lessons
+      - Workshops
+      - Online Courses
+      - Residential Programs
+      required: true
+    - id: 5
+      name: support_needs
+      label: Support Needs
+      hint: What support do you need from your studio or dance organization?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: training_habits
+      label: Training Habits
+      hint: What do you do during your training sessions?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media
+      label: social_media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: studio_name
+      label: studio_name
+      hint: null
+      type: text
+      options: []
+      required: true

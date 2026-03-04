@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cinema Ticket Order Form
+    pages:
+    - id: 1
+      name: section_header_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_cinema_selection
+      label: -- Cinema Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cinema_location
+      label: Select Cinema Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown Theater
+      - Mall Complex
+      - Suburban Location
+      - Airport Location
+      - Premium IMAX
+      required: true
+    - id: 7
+      name: section_header_movie_selection
+      label: -- Movie Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: movie_format
+      label: Movie Format
+      hint: null
+      type: select_one
+      options:
+      - 2D Standard
+      - 3D
+      - IMAX
+      - Dolby Cinema
+      - Premium Large Format
+      required: true
+    - id: 10
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: show_time
+      label: Show Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: section_header_tickets
+      label: -- Ticket Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: adult_tickets
+      label: Number of Adult Tickets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: child_tickets
+      label: Number of Child Tickets
+      hint: Ages 3-12
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: senior_tickets
+      label: Number of Senior Tickets
+      hint: Ages 65+
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: student_tickets
+      label: Number of Student Tickets
+      hint: With valid student ID
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_seating
+      label: -- Seating Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: seating_preference
+      label: Seating Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard seating
+      - Premium seating
+      - Accessibility seating
+      - No preference
+      required: false
+    - id: 19
+      name: accessible_seating
+      label: Accessibility Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: section_header_concessions
+      label: -- Concessions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: add_concessions
+      label: Would You Like to Add Concessions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: popcorn_quantity
+      label: Popcorn (quantity and size)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: beverage_quantity
+      label: Beverages (quantity and size)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: candy_items
+      label: Candy or Snacks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Online banking
+      - Mobile payment
+      - Gift card
+      required: true
+    - id: 27
+      name: promo_code
+      label: Promotion or Discount Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: membership_number
+      label: Membership or Loyalty Program Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_header_delivery
+      label: -- Delivery Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Print at home
+      - Mobile ticket
+      - Will call pickup
+      - Email delivery
+      required: true

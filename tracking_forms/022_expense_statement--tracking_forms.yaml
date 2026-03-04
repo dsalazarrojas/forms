@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Statement
+    pages:
+    - id: 1
+      name: expense_statement_form
+      label: Expense Statement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: true
+    - id: 4
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_submitted_by
+      label: Expense Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

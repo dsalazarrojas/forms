@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_annotation_survey
+    pages:
+    - id: 1
+      name: image_upload
+      label: Upload Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: annotation_details
+      label: Annotation Details
+      hint: null
+      type: select_multiple
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: annotation_time
+      label: Annotation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: annotation_date
+      label: Annotation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: upload_description
+      label: Upload Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_tags
+      label: Upload Tags
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 11
+      name: upload_categories
+      label: Upload Categories
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: false
+    - id: 12
+      name: upload_files
+      label: Upload Files
+      hint: null
+      type: select_multiple
+      options:
+      - file_1
+      - file_2
+      - file_3
+      required: false

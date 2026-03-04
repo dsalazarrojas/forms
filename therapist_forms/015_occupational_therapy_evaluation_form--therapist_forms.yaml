@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occupational Therapy Evaluation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: chief_complaint_brief
+      label: Chief Complaint Brief
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cognitive_functional_screening
+      label: Cognitive Functional Screening
+      hint: null
+      type: select_one
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      required: true
+    - id: 9
+      name: cognitive_functional_screening_brief
+      label: Cognitive Functional Screening Brief
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: physical_functional_screening
+      label: Physical Functional Screening
+      hint: null
+      type: select_multiple
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      required: true
+    - id: 11
+      name: occupational_therapy_goals
+      label: Occupational Therapy Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_visit_details
+      label: Home Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_health_conditions
+      label: Other Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_card_number
+      label: Insurance Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: insurance_payer
+      label: Insurance Payer
+      hint: null
+      type: text
+      options: []
+      required: false

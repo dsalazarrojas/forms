@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Housing Alliance Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_address
+      label: Current Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_household
+      label: -- Household Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: household_size
+      label: Total Household Size
+      hint: Number of people who will live in the unit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: annual_income
+      label: Total Annual Household Income
+      hint: Before taxes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: housing_status
+      label: Current Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Renting
+      - Homeowner
+      - Living with family/friends
+      - Temporary Shelter
+      - Unhoused
+      required: true
+    - id: 10
+      name: application_reason
+      label: Primary Reason for Housing Application
+      hint: null
+      type: select_one
+      options:
+      - Financial Hardship
+      - Disability Access Needs
+      - Overcrowding
+      - Displacement or Eviction
+      - Seeking First Home
+      required: true
+    - id: 11
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 12
+      name: housing_preference
+      label: Preferred Housing Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Studio Apartment
+      - 1 Bedroom
+      - 2 Bedroom
+      - 3+ Bedroom
+      - ADA Accessible Unit
+      required: true
+    - id: 13
+      name: background_check_consent
+      label: I consent to a background and credit check
+      hint: Required for application processing
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 14
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

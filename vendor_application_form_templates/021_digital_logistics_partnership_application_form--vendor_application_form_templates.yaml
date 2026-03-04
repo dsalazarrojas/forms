@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Logistics Partnership Application Form
+    pages:
+    - id: 1
+      name: services
+      label: Services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - Logistics Provider 1
+      - Logistics Provider 2
+      - Logistics Provider 3
+      required: true
+    - id: 3
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: documents
+      label: Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_areas
+      label: Service Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

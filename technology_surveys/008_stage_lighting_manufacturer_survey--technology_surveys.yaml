@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: stage_lighting_manufacturer_survey
+    pages:
+    - id: 1
+      name: stage_lighting_manufacturer
+      label: stage_lighting_manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: capacity
+      label: capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stage_lighting_markets
+      label: stage_lighting_markets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stage_lighting_challenges
+      label: stage_lighting_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stage_lighting_trends
+      label: stage_lighting_trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stage_lighting_products
+      label: stage_lighting_products
+      hint: null
+      type: select_one
+      options:
+      - stage_lighting
+      - dimmer_systems
+      - led
+      - other
+      required: false
+    - id: 7
+      name: market_trends
+      label: market_trends
+      hint: null
+      type: select_multiple
+      options:
+      - market_trends_1
+      - market_trends_2
+      - market_trends_3
+      required: false
+    - id: 8
+      name: market_capacity
+      label: market_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: research_partnerships
+      label: research_partnerships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: industry_analysis
+      label: industry_analysis
+      hint: null
+      type: text
+      options: []
+      required: false

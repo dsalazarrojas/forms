@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Survey
+    pages:
+    - id: 1
+      name: travel_agent_survey
+      label: travel_agent_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category_select
+      label: travel_agent_survey_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_agent_survey_description
+      label: travel_agent_survey_description
+      hint: null
+      type: text
+      options: []
+      required: false

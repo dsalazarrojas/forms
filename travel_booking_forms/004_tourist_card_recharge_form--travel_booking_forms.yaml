@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Card Recharge Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Canada
+      - China
+      - France
+      - Germany
+      - India
+      - Indonesia
+      - Japan
+      - Malaysia
+      - Mexico
+      - Nigeria
+      - Pakistan
+      - South Africa
+      - South Korea
+      - United Kingdom
+      - United States
+      - Vietnam
+      - Singapore
+      required: false
+    - id: 5
+      name: nationality_other
+      label: Nationality Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Canada
+      - China
+      - France
+      - Germany
+      - India
+      - Indonesia
+      - Japan
+      - Malaysia
+      - Mexico
+      - Nigeria
+      - Pakistan
+      - South Africa
+      - South Korea
+      - United Kingdom
+      - United States
+      - Vietnam
+      - Singapore
+      required: false
+    - id: 11
+      name: nationality_id_number
+      label: National ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: nationality_id_type
+      label: ID Type
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - Driving License
+      - National ID
+      required: false
+    - id: 14
+      name: id_issue_date
+      label: ID Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: nationality_id_expiry_date
+      label: ID Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: nationality_id_issue_authority
+      label: National ID Issue Authority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nationality_id_issue_place
+      label: ID Issue Place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: nationality_id_issue_country
+      label: ID Issue Country
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Belgium
+      - Canada
+      - China
+      - France
+      - Germany
+      - Hong Kong
+      - India
+      - Indonesia
+      - Japan
+      - Malaysia
+      - Mexico
+      - Nigeria
+      - Pakistan
+      - Singapore
+      - South Africa
+      - South Korea
+      - United Kingdom
+      - United States
+      - Vietnam
+      required: false
+    - id: 19
+      name: nationality_id_expiry_authority
+      label: ID Expiry Authority
+      hint: null
+      type: select_one
+      options:
+      - Police
+      - Authority
+      - Government
+      required: false
+    - id: 20
+      name: nationality_id_number_issue_place
+      label: ID Number Issue Place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: nationality_id_number_issue_country
+      label: ID Number Issue Country
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Belgium
+      - Canada
+      - China
+      - France
+      - Germany
+      - Hong Kong
+      - India
+      - Indonesia
+      - Japan
+      - Malaysia
+      - Mexico
+      - Nigeria
+      - Pakistan
+      - Singapore
+      - South Africa
+      - South Korea
+      - United Kingdom
+      - United States
+      - Vietnam
+      required: false
+    - id: 22
+      name: nationality_id_number_issue_authority
+      label: ID Number Issue Authority
+      hint: null
+      type: select_one
+      options:
+      - Police
+      - Authority
+      - Government
+      required: false
+    - id: 23
+      name: nationality_id_expiry_date_issue_date
+      label: ID Expiry Date Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: nationality_id_renewal_date
+      label: ID Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: nationality_id_renewal_authority
+      label: National ID Renewal Authority
+      hint: null
+      type: select_one
+      options:
+      - Police
+      - Authority
+      - Government
+      required: false

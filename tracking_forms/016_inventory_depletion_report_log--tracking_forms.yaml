@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Depletion Report Log
+    pages:
+    - id: 1
+      name: inventory_depletion_report_log_form_1
+      label: inventory_depletion_report_log_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: write_off_date_1
+      label: write_off_date_1_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stock_item_1
+      label: stock_item_1_label
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 4
+      name: quantity_1
+      label: quantity_1_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_1
+      label: reason_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: location_1
+      label: location_1_label
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: notes_1
+      label: notes_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool_1
+      label: assigned_tool_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: created_by_1
+      label: created_by_1_label
+      hint: null
+      type: text
+      options: []
+      required: false

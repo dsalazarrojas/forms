@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pet Eye Contact Observation Log
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: eye_condition
+      label: Eye Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Redness''}'
+      - '{''label'': ''Discharge''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 4
+      name: eye_condition_details
+      label: Eye Condition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Direct''}'
+      - '{''label'': ''Indirect''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 6
+      name: contact_area
+      label: Contact Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Comfortable''}'
+      - '{''label'': ''Somewhat Comfortable''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Uncomfortable''}'
+      - '{''label'': ''Very Uncomfortable''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 8
+      name: eye_condition_change
+      label: Eye Condition Change
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Improved''}'
+      - '{''label'': ''No Change''}'
+      - '{''label'': ''Worsened''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

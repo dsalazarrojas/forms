@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fusion Intensive Feedback Survey
+    pages:
+    - id: 1
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: take_away
+      label: Key Takeaways
+      hint: What were some of the key takeaways from this session?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: What could be improved on in future sessions?
+      type: text
+      options: []
+      required: false

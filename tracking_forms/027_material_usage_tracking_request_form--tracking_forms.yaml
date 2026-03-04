@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Usage Tracking Request Form
+    pages:
+    - id: 1
+      name: material_usage_request_form
+      label: Material Usage Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: material_name
+      label: Material Name
+      hint: Enter the material name.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Plastic
+      - Ceramic
+      - Glass
+      - Leather
+      - Fabric
+      - Stone
+      - Ceramic
+      required: true
+    - id: 4
+      name: requested_amount
+      label: Requested Amount
+      hint: Enter the requested amount.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_of_measurement
+      label: Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - oz
+      - lb
+      - kg
+      - g
+      - ml
+      - L
+      - cm
+      - in
+      - mm
+      required: true
+    - id: 6
+      name: supplier
+      label: Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supplier_email
+      label: Supplier Email
+      hint: Enter the supplier email.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Marketing
+      - Sales
+      - Purchasing
+      required: true
+    - id: 10
+      name: employee
+      label: Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date_of_request
+      label: Date of Request
+      hint: Date of Request
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_request
+      label: Time of Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: purpose
+      label: Purpose of Request
+      hint: Enter the purpose of this request.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false

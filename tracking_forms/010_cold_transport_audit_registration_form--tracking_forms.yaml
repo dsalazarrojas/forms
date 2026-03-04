@@ -1,0 +1,366 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Transport Audit Registration Form
+    pages:
+    - id: 1
+      name: auditor_name
+      label: Auditor Full Name
+      hint: Name of person conducting audit
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: auditor_email
+      label: Auditor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: auditor_phone
+      label: Auditor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization Name
+      hint: Company or agency
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: audit_date
+      label: Audit Date
+      hint: Date of audit
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_type
+      label: Audit Type
+      hint: Type of audit being conducted
+      type: select_one
+      options:
+      - Routine Scheduled Audit
+      - Random Spot Check
+      - Complaint Investigation
+      - Pre-Qualification Audit
+      - Annual Recertification
+      - Incident Response
+      - Regulatory Compliance
+      required: true
+    - id: 7
+      name: carrier_name
+      label: Carrier or Transport Company Name
+      hint: Company being audited
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: carrier_contact
+      label: Carrier Contact Person
+      hint: Main contact at carrier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: carrier_email
+      label: Carrier Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: carrier_phone
+      label: Carrier Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_id
+      label: Vehicle ID or Number
+      hint: Vehicle identifier
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Type of transport vehicle
+      type: select_one
+      options:
+      - Refrigerated Van
+      - Refrigerated Box Truck
+      - Reefer Trailer
+      - Insulated Container
+      - Air Cargo Container
+      - Ocean Reefer Container
+      - Rail Car
+      - Small Delivery Van
+      required: true
+    - id: 13
+      name: vehicle_manufacturer
+      label: Vehicle Manufacturer
+      hint: Brand name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: refrigeration_unit_type
+      label: Refrigeration Unit Type
+      hint: Cooling system type
+      type: select_one
+      options:
+      - Diesel Powered
+      - Electric
+      - Hybrid
+      - Cryogenic
+      - Eutectic Plates
+      - Other
+      required: true
+    - id: 16
+      name: refrigeration_unit_model
+      label: Refrigeration Unit Model
+      hint: Model number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: temperature_range_capability
+      label: Temperature Range Capability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Frozen Below 0°F
+      - Deep Freeze -10°F to 0°F
+      - Frozen 0°F to 10°F
+      - Refrigerated 32°F to 40°F
+      - Cool 40°F to 50°F
+      - Controlled 50°F to 60°F
+      required: true
+    - id: 18
+      name: cargo_type
+      label: Type of Cargo Transported
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fresh Produce
+      - Frozen Foods
+      - Dairy Products
+      - Meat and Poultry
+      - Seafood
+      - Pharmaceuticals
+      - Vaccines
+      - Biological Samples
+      - Chemicals
+      - Flowers
+      - Other
+      required: true
+    - id: 19
+      name: temperature_monitoring_device
+      label: Temperature Monitoring Device
+      hint: Type of monitoring equipment
+      type: select_one
+      options:
+      - Digital Data Logger
+      - Analog Recorder
+      - Real-Time GPS Tracker
+      - Manual Thermometer
+      - Temperature Indicator
+      - None
+      required: true
+    - id: 20
+      name: calibration_status
+      label: Monitoring Device Calibration Status
+      hint: Is device calibrated
+      type: select_one
+      options:
+      - Current and Valid
+      - Expired
+      - Not Calibrated
+      - Unknown
+      required: true
+    - id: 21
+      name: last_calibration_date
+      label: Last Calibration Date
+      hint: Date of last calibration
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: pre_trip_inspection
+      label: Pre-Trip Inspection Completed
+      hint: Was inspection done
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Documented
+      required: true
+    - id: 23
+      name: temperature_log_reviewed
+      label: Temperature Logs Reviewed
+      hint: Were logs available
+      type: select_one
+      options:
+      - Yes Complete
+      - Yes Partial
+      - No Logs Available
+      required: true
+    - id: 24
+      name: temperature_deviations
+      label: Temperature Deviations Found
+      hint: Any excursions detected
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      - Unknown
+      required: true
+    - id: 25
+      name: deviation_details
+      label: Deviation Details
+      hint: Describe any deviations
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: vehicle_cleanliness
+      label: Vehicle Cleanliness Rating
+      hint: Condition of vehicle interior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 27
+      name: odor_present
+      label: Unusual Odors Present
+      hint: Any strange smells
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: door_seals_condition
+      label: Door Seals Condition
+      hint: State of door gaskets
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 29
+      name: airflow_obstructions
+      label: Airflow Obstructions
+      hint: Any blockages found
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 30
+      name: cargo_loading_pattern
+      label: Cargo Loading Pattern
+      hint: How cargo is arranged
+      type: select_one
+      options:
+      - Proper with Air Channels
+      - Adequate
+      - Overloaded
+      - Blocking Airflow
+      - Improper
+      required: true
+    - id: 31
+      name: driver_training_verified
+      label: Driver Cold Chain Training Verified
+      hint: Training documentation
+      type: select_one
+      options:
+      - Yes Current
+      - Yes Expired
+      - No Training
+      - Not Verified
+      required: true
+    - id: 32
+      name: emergency_procedures
+      label: Emergency Procedures Documented
+      hint: Breakdown procedures
+      type: select_one
+      options:
+      - Yes Available
+      - Yes Not Available
+      - false
+      required: true
+    - id: 33
+      name: compliance_issues
+      label: Compliance Issues Found
+      hint: List any issues
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: corrective_actions_required
+      label: Corrective Actions Required
+      hint: Actions needed
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: overall_audit_result
+      label: Overall Audit Result
+      hint: Final assessment
+      type: select_one
+      options:
+      - Pass
+      - Pass with Minor Issues
+      - Conditional Pass
+      - Fail
+      - Critical Fail
+      required: true
+    - id: 36
+      name: auditor_comments
+      label: Auditor Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: follow_up_required
+      label: Follow-Up Audit Required
+      hint: Is re-audit needed
+      type: select_one
+      options:
+      - true
+      - false
+      - To Be Determined
+      required: true
+    - id: 38
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: Scheduled re-audit date
+      type: date
+      options: []
+      required: false

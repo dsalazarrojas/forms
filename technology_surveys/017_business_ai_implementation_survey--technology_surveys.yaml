@@ -1,0 +1,293 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business AI Implementation Survey
+    pages:
+      - id: 1
+        name: organization_info
+        label: Organization Information
+        hint: About your organization
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: Organization Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: industry
+        label: Industry
+        hint: Your industry sector
+        type: select_one
+        options:
+        - Technology
+        - Healthcare
+        - Finance
+        - Manufacturing
+        - Retail
+        - Education
+        - Government
+        - Professional Services
+        - Other
+        required: true
+      - id: 4
+        name: organization_size
+        label: Organization Size
+        hint: Number of employees
+        type: select_one
+        options:
+        - 1-10 employees
+        - 11-50 employees
+        - 51-200 employees
+        - 201-500 employees
+        - 501-1000 employees
+        - More than 1000 employees
+        required: true
+      - id: 5
+        name: respondent_role
+        label: Your Role
+        hint: Your position in the organization
+        type: select_one
+        options:
+        - C-Level Executive
+        - Director
+        - Manager
+        - IT Professional
+        - Analyst
+        - Consultant
+        - Other
+        required: true
+      - id: 6
+        name: ai_adoption_status
+        label: AI Adoption Status
+        hint: What is your current AI adoption status
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: current_ai_usage
+        label: Current AI Usage
+        hint: How is your organization using AI
+        type: select_one
+        options:
+        - Not Using AI
+        - Exploring AI Options
+        - Pilot Projects
+        - Limited Implementation
+        - Widespread Implementation
+        - AI-First Organization
+        required: true
+      - id: 8
+        name: ai_investment_timeline
+        label: AI Investment Timeline
+        hint: When did you start investing in AI
+        type: select_one
+        options:
+        - Not Yet
+        - Planning to Start
+        - Less than 1 Year
+        - 1-2 Years
+        - 2-5 Years
+        - More than 5 Years
+        required: true
+      - id: 9
+        name: ai_budget
+        label: Annual AI Budget
+        hint: Approximate annual AI investment
+        type: select_one
+        options:
+        - No Budget
+        - Under $10,000
+        - $10,000-$50,000
+        - $50,000-$100,000
+        - $100,000-$500,000
+        - More than $500,000
+        required: false
+      - id: 10
+        name: ai_applications
+        label: AI Applications
+        hint: Where are you implementing AI
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: ai_use_cases
+        label: AI Use Cases
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Customer Service Chatbots
+        - Data Analytics
+        - Process Automation
+        - Predictive Maintenance
+        - Fraud Detection
+        - Personalization
+        - Content Generation
+        - Image Recognition
+        - Natural Language Processing
+        - Not Using AI
+        required: true
+      - id: 12
+        name: department_leading_ai
+        label: Department Leading AI Implementation
+        hint: Which department leads AI efforts
+        type: select_one
+        options:
+        - IT
+        - Data Science
+        - Operations
+        - Marketing
+        - Customer Service
+        - Multiple Departments
+        - No Dedicated Leadership
+        required: false
+      - id: 13
+        name: ai_goals
+        label: AI Goals
+        hint: What are your primary AI objectives
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: primary_goal
+        label: Primary AI Goal
+        hint: Main objective for AI implementation
+        type: select_one
+        options:
+        - Cost Reduction
+        - Efficiency Improvement
+        - Revenue Growth
+        - Customer Experience Enhancement
+        - Competitive Advantage
+        - Innovation
+        - Risk Management
+        required: true
+      - id: 15
+        name: expected_roi
+        label: Expected ROI Timeline
+        hint: When do you expect to see returns
+        type: select_one
+        options:
+        - Already Seeing Returns
+        - Within 6 Months
+        - 6-12 Months
+        - 1-2 Years
+        - 2-5 Years
+        - Uncertain
+        required: true
+      - id: 16
+        name: ai_challenges
+        label: AI Challenges
+        hint: What challenges have you faced
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: implementation_challenges
+        label: Implementation Challenges
+        hint: Select all challenges encountered
+        type: select_multiple
+        options:
+        - High Costs
+        - Lack of Skilled Talent
+        - Data Quality Issues
+        - Integration Complexity
+        - Security Concerns
+        - Regulatory Compliance
+        - Change Resistance
+        - Unclear ROI
+        - None
+        required: true
+      - id: 18
+        name: data_readiness
+        label: Data Readiness
+        hint: How ready is your data for AI
+        type: select_one
+        options:
+        - Very Ready
+        - Mostly Ready
+        - Somewhat Ready
+        - Not Ready
+        - Very Unprepared
+        required: true
+      - id: 19
+        name: ai_results
+        label: AI Results
+        hint: What results have you achieved
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: satisfaction_with_ai
+        label: Satisfaction with AI Results
+        hint: How satisfied are you with AI outcomes
+        type: select_one
+        options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        - Not Applicable
+        required: true
+      - id: 21
+        name: measurable_benefits
+        label: Measurable Benefits Achieved
+        hint: Select benefits you have realized
+        type: select_multiple
+        options:
+        - Cost Savings
+        - Time Savings
+        - Revenue Increase
+        - Improved Accuracy
+        - Better Customer Satisfaction
+        - Employee Productivity Gains
+        - Faster Decision Making
+        - None Yet
+        required: true
+      - id: 22
+        name: future_ai_plans
+        label: Future AI Plans
+        hint: What are your plans for AI
+        type: select_one
+        options:
+        - Expand Current AI Usage
+        - Maintain Current Level
+        - Reduce AI Investment
+        - Discontinue AI
+        - Just Starting
+        - Evaluating Options
+        required: true
+      - id: 23
+        name: additional_investment
+        label: Planned Additional Investment
+        hint: Do you plan to increase AI investment
+        type: select_one
+        options:
+        - Significant Increase
+        - Moderate Increase
+        - Slight Increase
+        - Maintain Current
+        - Decrease
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights about your AI journey
+        type: text
+        options: []
+        required: false

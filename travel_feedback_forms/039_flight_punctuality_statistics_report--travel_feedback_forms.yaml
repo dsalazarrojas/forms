@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Punctuality Statistics Report
+    pages:
+    - id: 1
+      name: flight_punctuality_statistics_report
+      label: Flight Punctuality Statistics Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: airline_id
+      label: airline
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Airline A''}'
+      - '{''id'': 2, ''label'': ''Airline B''}'
+      - '{''id'': 3, ''label'': ''Airline C''}'
+      required: true
+    - id: 3
+      name: flight_date
+      label: flight_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: delay_reason
+      label: delay_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delay_type
+      label: delay_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Delayed''}'
+      - '{''id'': 2, ''label'': ''Cancelled''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: flight_status
+      label: flight_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''On Time''}'
+      - '{''id'': 2, ''label'': ''Delayed''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 10
+      name: delay_duration
+      label: delay_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: flight_id
+      label: flight_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: airport_id
+      label: airport_id
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Notes Collection Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1000, ''text'': ''Category A''}'
+      - '{''id'': 1001, ''text'': ''Category B''}'
+      required: false
+    - id: 3
+      name: form_priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1002, ''text'': ''Low''}'
+      - '{''id'': 1003, ''text'': ''Medium''}'
+      - '{''id'': 1004, ''text'': ''High''}'
+      required: false
+    - id: 4
+      name: form_file
+      label: Attach Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_note
+      label: Form Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Torque Specification Survey
+    pages:
+    - id: 1
+      name: torque_specification_values
+      label: Torque Specification Values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: torque_units
+      label: Units Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: common_challenges
+      label: Common Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: common_challenges_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: torque_standards
+      label: Standards Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: torque_value_range
+      label: Torque Value Range
+      hint: null
+      type: number
+      options: []
+      required: false

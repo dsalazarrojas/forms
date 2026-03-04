@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cab Service Feedback Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_date
+      label: Trip date
+      hint: Date of the cab ride
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pickup_location
+      label: Pickup location
+      hint: Address or landmark
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dropoff_location
+      label: Drop off location
+      hint: Address or landmark
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: driver_professionalism
+      label: Driver professionalism rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_cleanliness
+      label: Vehicle cleanliness rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: overall_experience
+      label: Overall experience
+      hint: Select overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: Improvements or praise
+      type: text
+      options: []
+      required: false

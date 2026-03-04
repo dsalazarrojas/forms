@@ -1,0 +1,366 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Cancellation Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For cancellation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reservation_information
+      label: Reservation Information
+      hint: Details of your reservation
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Original pickup date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_end_date
+      label: Rental End Date
+      hint: Original return date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pickup_location
+      label: Pickup Location
+      hint: Where you were to pick up
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_category
+      label: Vehicle Category
+      hint: Class of vehicle reserved
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cancellation_details
+      label: Cancellation Details
+      hint: Information about your cancellation
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cancellation_date
+      label: Cancellation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: cancellation_time
+      label: Cancellation Time
+      hint: Time of cancellation request
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: Why are you cancelling?
+      type: select_one
+      options:
+      - Change of plans
+      - Found alternative transportation
+      - Price too high
+      - Vehicle not available
+      - Schedule conflict
+      - Emergency
+      - Illness
+      - Weather conditions
+      - Travel cancelled
+      - Other
+      required: true
+    - id: 20
+      name: cancellation_reason_details
+      label: Cancellation Reason Details
+      hint: Please elaborate
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cancellation_type
+      label: Cancellation Type
+      hint: What type of cancellation?
+      type: select_one
+      options:
+      - Full cancellation
+      - Partial cancellation
+      - Modify reservation
+      - Postpone rental
+      required: true
+    - id: 22
+      name: rebooking_interest
+      label: Rebooking Interest
+      hint: Do you plan to rebook?
+      type: select_one
+      options:
+      - Yes - will rebook soon
+      - Maybe - considering
+      - No - not planning to
+      required: true
+    - id: 23
+      name: preferred_rebooking_date
+      label: Preferred Rebooking Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: refund_information
+      label: Refund Information
+      hint: Refund details
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_made
+      label: Was Payment Made?
+      hint: Did you already pay?
+      type: select_one
+      options:
+      - Yes - full payment
+      - Yes - deposit only
+      - No - not yet
+      required: true
+    - id: 26
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount paid
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How did you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      - Not applicable
+      required: false
+    - id: 28
+      name: refund_requested
+      label: Refund Requested
+      hint: Are you requesting a refund?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 29
+      name: refund_amount
+      label: Refund Amount Expected
+      hint: Expected amount
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: refund_method
+      label: Refund Method
+      hint: How should refund be processed?
+      type: select_one
+      options:
+      - Same as original payment
+      - Credit for future rental
+      - Check by mail
+      - Not applicable
+      required: false
+    - id: 31
+      name: cancellation_fee_acknowledgment
+      label: Cancellation Fee Acknowledgment
+      hint: Do you understand fees?
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - please explain
+      required: true
+    - id: 32
+      name: feedback
+      label: Feedback
+      hint: Your feedback about our service
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: satisfaction_rating
+      label: Overall Satisfaction
+      hint: How satisfied were you?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 34
+      name: booking_experience
+      label: Booking Experience
+      hint: How was the booking process?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 35
+      name: reason_not_satisfied
+      label: Reason for Dissatisfaction
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: would_recommend
+      label: Would You Recommend Us
+      hint: Would you recommend to others?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: false
+    - id: 37
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Mobile app
+      - Search engine
+      - Social media
+      - Travel agent
+      - Friend/Family
+      - Advertisement
+      - Previous rental
+      - Other
+      required: false
+    - id: 38
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: contact_preference
+      label: Contact Preference
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - No contact needed
+      required: true
+    - id: 40
+      name: cancellation_confirmation
+      label: Cancellation Confirmation
+      hint: Confirm you want to cancel
+      type: select_one
+      options:
+      - Yes - please cancel my reservation
+      - No - do not cancel
+      required: true
+    - id: 41
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: Confirm your request
+      type: select_one
+      options:
+      - I hereby confirm this cancellation request
+      - I do not confirm
+      required: true
+    - id: 42
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

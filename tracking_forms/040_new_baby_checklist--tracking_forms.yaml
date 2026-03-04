@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Baby Checklist
+    pages:
+    - id: 1
+      name: new_baby_checklist_name
+      label: New Baby Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: baby_gender
+      label: Baby Gender
+      hint: null
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      required: false
+    - id: 3
+      name: baby_born_date
+      label: Baby Born Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: baby_born_time
+      label: Baby Born Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: mom_weight
+      label: Mom Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mom_height
+      label: Mom Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: baby_born_weight
+      label: Baby Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: baby_born_length
+      label: Baby Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feeding_frequency
+      label: Feeding Frequency
+      hint: How often do you feed the baby?
+      type: select_multiple
+      options:
+      - Every 2-3 hours
+      - Every 3-4 hours
+      - Every 4-6 hours
+      - Every 6-8 hours
+      required: false
+    - id: 10
+      name: diaper_changes
+      label: Diaper Changes
+      hint: How many times in 24 hours
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vaccinations
+      label: Vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: birth_weight_unit
+      label: Birth Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      required: false
+    - id: 14
+      name: birth_length_unit
+      label: Birth Length Unit
+      hint: null
+      type: select_one
+      options:
+      - in
+      - cm
+      required: false
+    - id: 15
+      name: new_baby_checklist_name
+      label: New Baby Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: baby_drops_official_weight
+      label: Baby Drops Official Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: baby_drops_official_length
+      label: Baby Drops Official Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: mom_height_unit
+      label: Mom Height Unit
+      hint: null
+      type: select_one
+      options:
+      - ft
+      - m
+      required: false
+    - id: 19
+      name: feeding_time
+      label: Feeding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: baby_drops_official_feeding_frequency
+      label: Baby Drops Official Feeding Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 2-3 hours
+      - Every 3-4 hours
+      - Every 4-6 hours
+      - Every 6-8 hours
+      required: false
+    - id: 21
+      name: baby_drops_official_diaper_changes
+      label: Baby Drops Official Diaper Changes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

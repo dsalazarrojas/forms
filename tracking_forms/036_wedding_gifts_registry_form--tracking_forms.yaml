@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Gifts Registry Form
+    pages:
+    - id: 1
+      name: get_started
+      label: Get Started
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gift_request
+      label: Gift Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gift_wish_list
+      label: Gift Wish List
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: gift_value
+      label: Gift Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: wedding_location
+      label: Wedding Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: gift_sender
+      label: Gift Sender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

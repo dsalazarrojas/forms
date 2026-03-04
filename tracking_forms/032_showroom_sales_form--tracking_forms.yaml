@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Showroom Sales Form
+    pages:
+    - id: 1
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_agent
+      label: Sales Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Salesperson 1''}'
+      - '{''value'': ''Salesperson 2''}'
+      - '{''value'': ''Salesperson 3''}'
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Like New''}'
+      - '{''value'': ''Used''}'
+      - '{''value'': ''Certified Pre-Owned''}'
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sales_agent_comments
+      label: Sales Agent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_notes
+      label: Sales Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Terms 1''}'
+      - '{''value'': ''Terms 2''}'
+      - '{''value'': ''Terms 3''}'
+      required: false
+    - id: 16
+      name: sales_type
+      label: Sales Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sale''}'
+      - '{''value'': ''Trade''}'
+      required: false
+    - id: 17
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 18
+      name: warranty_end_date
+      label: Warranty End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: warranty_start_date
+      label: Warranty Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Salesperson 1''}'
+      - '{''value'': ''Salesperson 2''}'
+      - '{''value'': ''Salesperson 3''}'
+      required: false
+    - id: 21
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sales_location
+      label: Sales Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false

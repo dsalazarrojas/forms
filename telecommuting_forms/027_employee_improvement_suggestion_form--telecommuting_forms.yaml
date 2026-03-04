@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_improvement_suggestion_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''IT''}'
+      required: false
+    - id: 5
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: Your manager's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

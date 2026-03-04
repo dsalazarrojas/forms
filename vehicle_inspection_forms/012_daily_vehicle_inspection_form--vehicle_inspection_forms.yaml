@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_inspection_form_1
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_inspection_form_2
+      label: Engine Oil Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_inspection_form_3
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_inspection_form_4
+      label: Brake Pads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_inspection_form_5
+      label: Air Conditioning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_inspection_form_6
+      label: Tire Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspection_form_7
+      label: Vehicle Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_inspection_form_8
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supermarket Product Pricing Tracker Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shelf_number
+      label: Shelf Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price_date
+      label: Price Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: false
+    - id: 6
+      name: price_change_type
+      label: Price Change Type
+      hint: null
+      type: select_multiple
+      options:
+      - Increase
+      - Decrease
+      - No Change
+      required: false
+    - id: 7
+      name: previous_price
+      label: Previous Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price_diff
+      label: Price Diff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: product_code
+      label: Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

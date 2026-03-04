@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Bake Sale Pre Order Form
+    pages:
+    - id: 1
+      name: pre_order_form
+      label: Pre Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item
+      label: Item
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

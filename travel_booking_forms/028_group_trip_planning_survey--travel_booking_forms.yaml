@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Trip Planning Survey
+    pages:
+    - id: 1
+      name: group_trip_planning_survey_page_1
+      label: Group Travel Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_start_date
+      label: Trip Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: trip_end_date
+      label: Trip End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: budget_allocation
+      label: Budget Allocation
+      hint: What percentage would you like to allocate to accommdation, food, etc?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget_amount
+      label: Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trip_priority
+      label: Trip Priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: group_members
+      label: Group Members
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 13
+      name: trip_description
+      label: Trip Description
+      hint: null
+      type: text
+      options: []
+      required: false

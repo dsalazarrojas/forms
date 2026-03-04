@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Tracker Worksheet
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 7
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: renewal_notes
+      label: Renewal Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: subscription_notes
+      label: Subscription Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: renewal_date_remarks
+      label: Renewal Date Remarks
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: renewal_frequency
+      label: Renewal Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: renewal_spendings
+      label: Renewal Spendings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: subscription_spendings
+      label: Subscription Spendings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

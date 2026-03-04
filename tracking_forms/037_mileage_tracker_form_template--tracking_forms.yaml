@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: mileage_tracker_form_template
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Reimbursement
+      - Tax Deduction
+      - Other
+      required: false
+    - id: 6
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Other
+      required: false
+    - id: 9
+      name: total_miles
+      label: Total Miles
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

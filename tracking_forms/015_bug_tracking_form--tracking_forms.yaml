@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracking Form
+    pages:
+      - id: 1
+        name: tester_name
+        label: Tester Name
+        hint: Name of tester or reporter
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: test_date
+        label: Test Date
+        hint: Date of testing
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: application
+        label: Application Under Test
+        hint: Name of application
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: build_version
+        label: Build Version
+        hint: Version or build number
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: test_environment
+        label: Test Environment
+        hint: Testing environment
+        type: select_one
+        options:
+          - Local Development
+          - QA Environment
+          - Staging
+          - UAT
+          - Production
+        required: true
+      - id: 7
+        name: bug_severity
+        label: Bug Severity
+        hint: Severity level
+        type: select_one
+        options:
+          - S1 - Critical
+          - S2 - High
+          - S3 - Medium
+          - S4 - Low
+          - S5 - Cosmetic
+        required: true
+      - id: 8
+        name: bug_priority
+        label: Bug Priority
+        hint: Priority level
+        type: select_one
+        options:
+          - P1 - Immediate
+          - P2 - High
+          - P3 - Normal
+          - P4 - Low
+          - P5 - Backlog
+        required: true
+      - id: 9
+        name: bug_status
+        label: Bug Status
+        hint: Current status
+        type: select_one
+        options:
+          - New
+          - Open
+          - In Progress
+          - Resolved
+          - Closed
+          - Reopened
+        required: true
+      - id: 10
+        name: browser
+        label: Browser
+        hint: Browser used
+        type: select_one
+        options:
+          - Chrome Latest
+          - Firefox Latest
+          - Safari Latest
+          - Edge Latest
+          - Other
+          - Not Applicable
+        required: false
+      - id: 11
+        name: operating_system
+        label: Operating System
+        hint: OS used
+        type: select_one
+        options:
+          - Windows 11
+          - Windows 10
+          - macOS
+          - Ubuntu
+          - Other Linux
+          - iOS
+          - Android
+        required: false
+      - id: 12
+        name: bug_title
+        label: Bug Title
+        hint: Short descriptive title
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: bug_description
+        label: Bug Description
+        hint: Detailed description
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: steps_to_reproduce
+        label: Steps to Reproduce
+        hint: Detailed steps
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: expected_result
+        label: Expected Result
+        hint: Expected behavior
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: actual_result
+        label: Actual Result
+        hint: Actual behavior
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: test_data
+        label: Test Data Used
+        hint: Any specific test data
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: evidence
+        label: Evidence Attached
+        hint: Screenshots or logs
+        type: select_one
+        options:
+          - Yes - Screenshots
+          - Yes - Screen Recording
+          - Yes - Log Files
+          - Yes - Multiple
+          - No
+        required: false
+      - id: 19
+        name: related_bugs
+        label: Related Bugs
+        hint: Any related bug IDs
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: notes
+        label: Additional Notes
+        hint: Any other information
+        type: text
+        options: []
+        required: false

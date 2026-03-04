@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule Your Fitness Testing Appointment
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_info
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_time_slots
+      label: Preferred Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      required: false
+    - id: 4
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: available_dates_2
+      label: Available Dates 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: trainer_intake_forms
+      label: Trainer Intake Forms
+      hint: null
+      type: select_one
+      options:
+      - Form 1
+      - Form 2
+      - Form 3
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional notes about the client
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

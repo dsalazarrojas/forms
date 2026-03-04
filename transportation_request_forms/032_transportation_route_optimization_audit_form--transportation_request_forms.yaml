@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Route Optimization Audit Form
+    pages:
+    - id: 1
+      name: origin_city
+      label: Origin City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination_city
+      label: Destination City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: route_distance
+      label: Route Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: travel_speed
+      label: Travel Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Buses
+      - Trucks
+      - Cars
+      required: false
+    - id: 8
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gas
+      - Diesel
+      - Electric
+      required: true
+    - id: 9
+      name: route_notes
+      label: Route Notes
+      hint: null
+      type: note
+      options: []
+      required: false

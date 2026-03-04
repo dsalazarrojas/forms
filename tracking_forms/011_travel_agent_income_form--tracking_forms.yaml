@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Income Form
+    pages:
+    - id: 1
+      name: travel_agent_income_form
+      label: travel_agent_income_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agencies
+      label: travel_agencies
+      hint: null
+      type: select_one
+      options:
+      - agency_1
+      - agency_2
+      required: false
+    - id: 3
+      name: income_date
+      label: income_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: income_amount
+      label: income_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_account
+      label: expense_account
+      hint: null
+      type: select_one
+      options:
+      - account_1
+      - account_2
+      required: false
+    - id: 6
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      required: false
+    - id: 7
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

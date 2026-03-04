@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Behavior Tracking Form
+    pages:
+    - id: 1
+      name: student_behavior_form_1
+      label: general_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_behavior_form_2
+      label: during_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_behavior_form_6
+      label: during_certain_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tracking_form_hours
+      label: tracking_form_hours
+      hint: null
+      type: select_multiple
+      options:
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: assigned_teacher
+      label: assigned_teacher
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      required: false
+    - id: 9
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: false

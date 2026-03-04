@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Transportation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the child
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the child
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Address of the child
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Contact number of the child
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transport
+      label: Date of Transport
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_transport
+      label: Time of Transport
+      hint: Time of transport for the child
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: mode_transport
+      label: Mode of Transport
+      hint: null
+      type: select_one
+      options:
+      - Taxi
+      - Bus
+      - Train
+      - Car
+      required: true
+    - id: 8
+      name: daycare_center
+      label: Daycare Center
+      hint: Name of the daycare center
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_relationship
+      label: Relationship to Guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: ERP Platform Selection Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: erp_platform_selection_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_id
+      label: vendor_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_website
+      label: vendor_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_status
+      label: vendor_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''text'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''text'': ''Inactive''}'
+      required: false
+    - id: 9
+      name: vendor_evaluations
+      label: vendor_evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''positive'', ''text'': ''Positive''}'
+      - '{''id'': 2, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      - '{''id'': 3, ''name'': ''negative'', ''text'': ''Negative''}'
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_form_submitted
+      label: evaluation_form_submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vendor_form_submitted
+      label: vendor_form_submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vendor_form_comments
+      label: vendor_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vendor_form_comments_2
+      label: vendor_form_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false

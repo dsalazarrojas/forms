@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Software Training Survey
+    pages:
+    - id: 1
+      name: participant_feedback
+      label: What did you learn from this training session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_suggestion
+      label: Do you have any suggestions for future training sessions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_improvement
+      label: How can we improve future training sessions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_feedback
+      label: How would you rate the instructor?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall satisfaction with the training session?
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Satisfied
+      - Very satisfied
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

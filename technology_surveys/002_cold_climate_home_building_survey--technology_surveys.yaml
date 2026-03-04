@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cold Climate Home Building Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Full Name
+        hint: Your name or organization name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_type
+        label: Respondent Type
+        hint: Select your role in the building process
+        type: select_one
+        options:
+          - Home Builder
+          - Architect
+          - Designer
+          - Homeowner
+          - Engineer
+          - Contractor
+          - Other
+        required: true
+      - id: 3
+        name: organization_name
+        label: Organization Name
+        hint: Company or organization you represent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: Contact email for follow-up
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: building_location
+        label: Building Location Region
+        hint: Geographic area where building is located
+        type: select_one
+        options:
+          - Northern Canada
+          - Alaska
+          - Scandinavia
+          - Northern Europe
+          - Russia
+          - Mountain Regions
+          - Other Cold Climate
+        required: true
+      - id: 6
+        name: home_type
+        label: Type of Home Being Built
+        hint: Select the home type
+        type: select_one
+        options:
+          - Single Family Detached
+          - Townhouse
+          - Duplex
+          - Modular Home
+          - Log Home
+          - Custom Design
+        required: true
+      - id: 7
+        name: insulation_type
+        label: Primary Insulation Type Used
+        hint: Main insulation material for the building envelope
+        type: select_one
+        options:
+          - Spray Foam
+          - Fiberglass Batt
+          - Cellulose
+          - Rigid Foam Board
+          - Mineral Wool
+          - Structural Insulated Panels
+          - Other
+        required: true
+      - id: 8
+        name: insulation_r_value
+        label: Target R-Value for Walls
+        hint: Recommended R-value for wall insulation
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: heating_system
+        label: Primary Heating System
+        hint: Main heating system for the home
+        type: select_one
+        options:
+          - Forced Air Furnace
+          - Radiant Floor Heating
+          - Heat Pump
+          - Boiler System
+          - Wood Stove
+          - Electric Baseboard
+          - Geothermal
+        required: true
+      - id: 10
+        name: heating_fuel
+        label: Heating Fuel Type
+        hint: Primary fuel source for heating
+        type: select_one
+        options:
+          - Natural Gas
+          - Propane
+          - Electricity
+          - Heating Oil
+          - Wood
+          - Pellets
+          - Geothermal
+        required: true
+      - id: 11
+        name: window_type
+        label: Window Type Selected
+        hint: Window specifications for cold climate
+        type: select_one
+        options:
+          - Triple-Pane
+          - Double-Pane Low-E
+          - Quadruple-Pane
+          - Double-Pane Standard
+        required: true
+      - id: 12
+        name: air_sealing_methods
+        label: Air Sealing Methods Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Spray Foam Sealing
+          - Caulking
+          - Weather Stripping
+          - House Wrap
+          - Vapor Barrier
+          - Tape and Membrane
+          - Gaskets
+        required: true
+      - id: 13
+        name: ventilation_system
+        label: Ventilation System Type
+        hint: Mechanical ventilation approach
+        type: select_one
+        options:
+          - HRV - Heat Recovery Ventilator
+          - ERV - Energy Recovery Ventilator
+          - Exhaust Only
+          - Supply Only
+          - Natural Ventilation
+          - None
+        required: true
+      - id: 14
+        name: foundation_type
+        label: Foundation Type
+        hint: Foundation design for cold climate
+        type: select_one
+        options:
+          - Frost-Protected Shallow Foundation
+          - Full Basement
+          - Slab on Grade
+          - Crawl Space
+          - Pilings
+        required: true
+      - id: 15
+        name: roof_design
+        label: Roof Design Considerations
+        hint: Special roof features for snow and ice
+        type: select_multiple
+        options:
+          - Ice and Water Shield
+          - Snow Guards
+          - Heated Gutters
+          - Steep Pitch
+          - Metal Roofing
+          - Green Roof
+          - Solar Panels
+        required: false
+      - id: 16
+        name: biggest_challenge
+        label: Biggest Building Challenge in Cold Climate
+        hint: Describe the main challenge faced
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: energy_efficiency_priority
+        label: Energy Efficiency Priority Level
+        hint: How important is energy efficiency
+        type: select_one
+        options:
+          - Highest Priority
+          - High Priority
+          - Moderate Priority
+          - Low Priority
+          - Not a Priority
+        required: true
+      - id: 18
+        name: budget_range
+        label: Construction Budget Range
+        hint: Select the budget category
+        type: select_one
+        options:
+          - Under $200,000
+          - $200,000 - $400,000
+          - $400,000 - $600,000
+          - $600,000 - $800,000
+          - $800,000 - $1,000,000
+          - Over $1,000,000
+        required: false
+      - id: 19
+        name: additional_comments
+        label: Additional Comments or Recommendations
+        hint: Share any other insights for cold climate building
+        type: text
+        options: []
+        required: false

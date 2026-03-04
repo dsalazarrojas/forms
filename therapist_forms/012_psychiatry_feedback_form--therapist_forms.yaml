@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychiatry Feedback Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_text
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit_time
+      label: Date Of Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 16
+      name: medical_record_id
+      label: Medical Record Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: therapist_id
+      label: Therapist Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: doctor_id
+      label: Doctor Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_location
+      label: Patient Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_one
+      options:
+      - Medical Record
+      - Medical Record
+      - Medical Record
+      required: false

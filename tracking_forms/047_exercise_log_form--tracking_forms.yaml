@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: exercise_log_form
+    pages:
+    - id: 1
+      name: session_name
+      label: session_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercises_list
+      label: exercises_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sync_with_app
+      label: sync_with_app
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Google Fit''}'
+      - '{''label'': ''Apple Health''}'
+      - '{''label'': ''Fitbit''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: sync_frequency
+      label: sync_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 9
+      name: synced_with_app
+      label: synced_with_app
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 10
+      name: sync_status
+      label: sync_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Syncing''}'
+      - '{''label'': ''Not Synced''}'
+      required: false
+    - id: 11
+      name: app_id
+      label: app_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sync_api_key
+      label: sync_api_key
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: synced_at
+      label: synced_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: synced_with_app_name
+      label: synced_with_app_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: synced_error
+      label: synced_error
+      hint: null
+      type: note
+      options: []
+      required: false

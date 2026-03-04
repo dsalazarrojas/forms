@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Lock Security Perception Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Smart Lock Security Perception
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: trust
+      label: Trust Level
+      hint: On a scale of 1-5, what is your level of trust for smart locks?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: concerns
+      label: Concerns
+      hint: Select up to 3 concerns.
+      type: select_multiple
+      options:
+      - '{''label'': ''Security''}'
+      - '{''label'': ''Cost''}'
+      - '{''label'': ''Aesthetics''}'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: How satisfied are you with your current smart lock?
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Private''}'
+      - '{''label'': ''Public''}'
+      required: false
+    - id: 11
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-10''}'
+      - '{''label'': ''11-50''}'
+      - '{''label'': ''51-200''}'
+      - '{''label'': ''201-1000''}'
+      - '{''label'': ''1001-5000''}'
+      - '{''label'': ''5001-10000''}'
+      - '{''label'': 10001}'
+      - '{''label'': ''10000+''}'
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

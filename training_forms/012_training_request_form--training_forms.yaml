@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Request Form
+    pages:
+    - id: 1
+      name: training_request_form
+      label: Training Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Training for new hire
+      - Training for promotion
+      - Other
+      required: false
+    - id: 5
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_requesting_training
+      label: reason for requesting training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

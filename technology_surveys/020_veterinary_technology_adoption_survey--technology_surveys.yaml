@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Technology Adoption Survey
+    pages:
+    - id: 1
+      name: survey_practice_ownership
+      label: is_survey_practice_ownership
+      hint: null
+      type: select_one
+      options:
+      - Practice
+      - Clinic
+      - Hospital
+      - Other
+      required: false
+    - id: 2
+      name: technology_adoption_benefits
+      label: what_are_the_benefits_of_adopting_new_technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: common_barriers_to_adopting_new_technology
+      label: what_are_common_barriers_to_adopting_new_technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: future_interest_in_new_technologies
+      label: future_interest_in_new_technologies
+      hint: null
+      type: select_multiple
+      options:
+      - AI/Artificial Intelligence
+      - Telemedicine/Telehealth
+      - Mobile/Remote Access/Assessment
+      - 3D Printing
+      - Other
+      required: false
+    - id: 5
+      name: technology_usage
+      label: technology_usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: technology_adoption_barriers
+      label: technology_adoption_barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: practice_size
+      label: practice_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Very Large
+      required: false
+    - id: 8
+      name: years_in_practice
+      label: years_in_practice
+      hint: null
+      type: number
+      options: []
+      required: false

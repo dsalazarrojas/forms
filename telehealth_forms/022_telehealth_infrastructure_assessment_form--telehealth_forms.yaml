@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Infrastructure Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: telehealth_infrastructure
+      label: telehealth_infrastructure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ratings_what_improve
+      label: ratings_what_improve
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''What we do well'', ''label'': ''What we do well''}'
+      - '{''value'': ''What we need to improve'', ''label'': ''What we need to improve''}'
+      - '{''value'': "What we don''t do well", ''label'': "What we don''t do well"}'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

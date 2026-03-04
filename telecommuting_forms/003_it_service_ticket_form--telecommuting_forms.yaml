@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Service Ticket Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: issue_time
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: issue_details
+      label: issue_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: solution
+      label: solution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Other
+      required: true
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false

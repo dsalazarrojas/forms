@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transit Temperature Control Checklist
+    pages:
+    - id: 1
+      name: in_transit_temperature_checks
+      label: In Transit Temperature Checks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: document_inspections
+      label: Document Inspections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_and_time_of_check
+      label: Date And Time Of Check
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: temperature_limit
+      label: Temperature Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: responsible_person
+      label: Responsible Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: shipment_status_description
+      label: Shipment Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipment_status_note
+      label: Shipment Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: document_version
+      label: Document Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: last_updated_on
+      label: Last Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_updated_at
+      label: Last Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Light Pollution Awareness Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: What do you see in the night sky?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_use
+      label: What do you use for lighting in your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 3
+      name: nighttime_lighting
+      label: How much nighttime lighting do you use for outdoor activities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: skyglow
+      label: How much does skyglow affect your life?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: community_feedback
+      label: What can we do to improve nighttime lighting in our community?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submission_confirmation
+      label: How much time have you spent on this form?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email_input
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Holiday Time Off Form
+    pages:
+    - id: 1
+      name: holiday_request
+      label: religious_holiday_time_off_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_off
+      label: date_off
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_off_reason
+      label: time_off_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''HR''}'
+      - '{''name'': ''Accounting''}'
+      - '{''name'': ''Marketing''}'
+      - '{''name'': ''Sales''}'
+      - '{''name'': ''Support''}'
+      - '{''name'': ''Management''}'
+      required: false
+    - id: 7
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Approve''}'
+      - '{''name'': ''Deny''}'
+      - '{''name'': ''Forward to supervisor''}'
+      required: false
+    - id: 8
+      name: time_off_start_date
+      label: time_off_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_off_end_date
+      label: time_off_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_off_duration
+      label: time_off_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_location
+      label: employee_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: religious_holiday
+      label: religious_holiday
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Christmas''}'
+      - '{''name'': "New Year''s Day"}'
+      - '{''name'': ''Good Friday''}'
+      - '{''name'': ''Easter Monday''}'
+      - '{''name'': ''Easter Tuesday''}'
+      - '{''name'': ''Easter Wednesday''}'
+      - '{''name'': ''Easter Thursday''}'
+      - '{''name'': ''Easter Friday''}'
+      - '{''name'': ''Easter Saturday''}'
+      - '{''name'': ''Easter Sunday''}'
+      - '{''name'': ''Eid al-Fitr''}'
+      - '{''name'': ''Eid al-Adha''}'
+      - '{''name'': ''Diwali''}'
+      - '{''name'': ''Hanukkah''}'
+      - '{''name'': ''Rosh Hashanah''}'
+      - '{''name'': ''Sukkot''}'
+      - '{''name'': ''Thanksgiving Day''}'
+      - '{''name'': ''Thanksgiving Night''}'
+      - '{''name'': ''Christmas Day''}'
+      - '{''name'': ''Christmas Night''}'
+      - '{''name'': "New Year''s Day Eve"}'
+      - '{''name'': "New Year''s Day Morning"}'
+      - '{''name'': ''Nowruz''}'
+      - '{''name'': ''Chinese New Year''}'
+      - '{''name'': "Chinese New Year''s Eve"}'
+      - '{''name'': "Chinese New Year''s Morning"}'
+      - '{''name'': ''Nowruz Day''}'
+      - '{''name'': ''Nowruz Night''}'
+      - '{''name'': ''Nowruz Morning''}'
+      - '{''name'': ''Nowruz Evening''}'
+      - '{''name'': ''Nowruz Afternoon''}'
+      - '{''name'': ''Nowruz Afternoon''}'
+      - '{''name'': ''Nowruz Afternoon''}'
+      - '{''name'': ''Hanukkah Day''}'
+      - '{''name'': ''Hanukkah Night''}'
+      - '{''name'': ''Hanukkah Morning''}'
+      - '{''name'': ''Hanukkah Evening''}'
+      - '{''name'': ''Hanukkah Afternoon''}'
+      - '{''name'': ''Hanukkah Afternoon''}'
+      required: false
+    - id: 16
+      name: time_off_requester_name
+      label: time_off_requester_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: time_off_requester_email
+      label: time_off_requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: time_off_requester_phone
+      label: time_off_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department_manager
+      label: department_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_off_requester_address
+      label: time_off_requester_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: time_off_requester_location
+      label: time_off_requester_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: time_off_requester_title
+      label: time_off_requester_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false

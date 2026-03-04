@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Log
+    pages:
+    - id: 1
+      name: property_name
+      label: property_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_date
+      label: activity_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: activity_type
+      label: activity_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: activity_description
+      label: activity_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: maintenance_description
+      label: maintenance_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

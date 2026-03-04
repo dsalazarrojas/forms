@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Feedback Form
+    pages:
+    - id: 1
+      name: planning_a_trip
+      label: Planning a trip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_afterwards
+      label: feedback afterwards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tourists_and_adventurers
+      label: tourists and adventurers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      required: false
+    - id: 4
+      name: want_to_live_their_trace_behind
+      label: want to live their trace behind
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      required: true

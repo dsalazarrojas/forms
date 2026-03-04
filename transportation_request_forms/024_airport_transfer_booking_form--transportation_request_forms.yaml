@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Transfer Booking Form
+    pages:
+    - id: 1
+      name: section_passenger
+      label: -- Passenger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_transfer
+      label: -- Transfer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - Airport to Destination
+      - Destination to Airport
+      - Round Trip
+      required: true
+    - id: 7
+      name: flight_number
+      label: Flight Number
+      hint: For tracking delays
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_date
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: travel_time
+      label: Preferred Pickup/Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: pickup_location
+      label: Pickup Location
+      hint: e.g. Airport name or Hotel name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dropoff_location
+      label: Drop-off Location
+      hint: e.g. Destination address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: passenger_count
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: luggage_count
+      label: Total Luggage Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_type
+      label: Preferred Vehicle Class
+      hint: null
+      type: select_one
+      options:
+      - Standard Sedan
+      - Business Sedan
+      - Minivan (7 Seats)
+      - Large Van (15 Seats)
+      required: true
+    - id: 15
+      name: section_payment
+      label: -- Payment and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests (e.g. child seat)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_option
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Pre-pay by Credit Card
+      - Pay Cash to Driver
+      - Pay by Link (Email)
+      required: true
+    - id: 18
+      name: booking_confirmation
+      label: I agree to the transfer terms and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

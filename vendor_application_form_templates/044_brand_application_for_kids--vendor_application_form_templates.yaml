@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Application For Kids
+    pages:
+    - id: 1
+      name: section_header_child
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Age
+      hint: Years old
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_header_parent
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_email
+      label: Parent Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relationship
+      label: Relationship to Child
+      hint: Parent, guardian, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_collaboration
+      label: -- Collaboration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: collaboration_type
+      label: Type of Collaboration Interested In
+      hint: What role child would have
+      type: select_one
+      options:
+      - Product testing
+      - Social media features
+      - Commercial or advertisement
+      - Event appearance
+      - Brand ambassador
+      - Multiple opportunities
+      required: true
+    - id: 12
+      name: section_header_experience
+      label: -- Experience and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: previous_experience
+      label: Previous Brand or Media Experience
+      hint: Has child worked with brands before
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Limited experience
+      - First time
+      required: true
+    - id: 14
+      name: section_header_social
+      label: -- Social Media and Influence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: social_media_accounts
+      label: Social Media Accounts
+      hint: Platforms child uses
+      type: select_multiple
+      options:
+      - TikTok
+      - Instagram
+      - YouTube
+      - Snapchat
+      - Facebook
+      - Twitter
+      - Other
+      required: false
+    - id: 16
+      name: follower_count
+      label: Total Follower Count
+      hint: Combined followers if applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_interests
+      label: -- Interests and Talents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: interests
+      label: Child Interests and Hobbies
+      hint: What the child enjoys
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_talents
+      label: Special Talents or Skills
+      hint: What makes this child unique
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_consent
+      label: -- Parental Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: parental_consent
+      label: I give consent for my child to participate
+      hint: Check to authorize participation
+      type: select_one
+      options:
+      - I fully consent
+      - I need more information
+      - I do not consent
+      required: true

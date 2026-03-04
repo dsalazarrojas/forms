@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Management Training Form
+    pages:
+    - id: 1
+      name: trainee_name
+      label: Trainee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trainee_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: trainee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization Name
+      hint: Charity or nonprofit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_role
+      label: Current Role
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience_level
+      label: Event Management Experience
+      hint: Years of experience
+      type: select_one
+      options:
+      - No experience
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - More than 5 years
+      required: true
+    - id: 7
+      name: training_track
+      label: Training Track
+      hint: Focus area
+      type: select_one
+      options:
+      - Beginner fundamentals
+      - Intermediate planning
+      - Advanced management
+      - Leadership track
+      required: true
+    - id: 8
+      name: training_topics
+      label: Topics of Interest
+      hint: Select areas to learn
+      type: select_multiple
+      options:
+      - Event planning basics
+      - Budget management
+      - Volunteer coordination
+      - Sponsorship acquisition
+      - Marketing and promotion
+      - Risk management
+      - Post-event evaluation
+      - Technology tools
+      required: true
+    - id: 9
+      name: training_format
+      label: Preferred Training Format
+      hint: How to learn
+      type: select_one
+      options:
+      - Online self-paced
+      - Live virtual sessions
+      - In-person workshop
+      - Hybrid combination
+      required: true
+    - id: 10
+      name: availability
+      label: Training Availability
+      hint: When available
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      required: true
+    - id: 11
+      name: learning_goals
+      label: Learning Goals
+      hint: What you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_types
+      label: Types of Events You Manage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fundraising galas
+      - Community outreach
+      - Charity runs or walks
+      - Auctions
+      - Conferences
+      - Workshops
+      - Virtual events
+      - Other
+      required: true
+    - id: 13
+      name: team_size
+      label: Typical Team Size
+      hint: Number of volunteers
+      type: select_one
+      options:
+      - Just myself
+      - 2 to 5 people
+      - 6 to 15 people
+      - 16 to 50 people
+      - More than 50 people
+      required: true
+    - id: 14
+      name: budget_range
+      label: Typical Event Budget
+      hint: Budget range managed
+      type: select_one
+      options:
+      - Under $5000
+      - $5000 to $25000
+      - $25001 to $100000
+      - $100001 to $500000
+      - Over $500000
+      required: true
+    - id: 15
+      name: certification_interest
+      label: Interested in Certification
+      hint: Upon completion
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - false
+      required: true
+    - id: 16
+      name: additional_needs
+      label: Additional Training Needs
+      hint: Other topics
+      type: text
+      options: []
+      required: false

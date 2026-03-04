@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Screening Form The Conduit
+    pages:
+    - id: 1
+      name: conduit_screening_header
+      label: -- Participant Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conduit_participant_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conduit_email
+      Label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: conduit_phone
+      label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: conduit_screening_date
+      Label: Screening Date
+      hint: Date of this screening
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: conduit_organization
+      label: Organization or Department
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conduit_symptom_screening_header
+      Label: -- COVID-19 Symptom Screening --
+      hint: Please answer honestly
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: conduit_fever
+      label: Do You Have a Fever
+      hint: Temperature of 100.4F or higher
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 9
+      name: conduit_cough
+      Label: Do You Have a Cough
+      hint: New or persistent cough
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 10
+      name: conduit_difficulty_breathing
+      label: Difficulty Breathing
+      hint: Shortness of breath
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 11
+      name: conduit_loss_taste_smell
+      Label: Loss of Taste or Smell
+      hint: New loss of taste or smell
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 12
+      name: conduit_muscle_pain
+      label: Muscle or Body Aches
+      hint: Unusual muscle aches
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 13
+      name: conduit_headache
+      Label: Headache
+      hint: Unusual headache
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 14
+      name: conduit_sore_throat
+      label: Sore Throat
+      hint: Throat pain or irritation
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 15
+      name: conduit_nausea_diarrhea
+      Label: Nausea, Vomiting, or Diarrhea
+      hint: Gastrointestinal symptoms
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 16
+      name: conduit_exposure_header
+      label: -- Exposure Assessment --
+      hint: Your exposure to COVID-19
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: conduit_close_contact
+      Label: Close Contact with Confirmed Case
+      hint: Been within 6 feet of someone positive
+      type: select_one
+      options:
+        - No contact
+        - Yes, contact within 14 days
+        - Yes, contact within 48 hours
+      required: true
+    - id: 18
+      name: conduit_contact_details
+      label: If Exposed, Provide Contact Details
+      hint: Details about exposure
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: conduit_positive_test_header
+      Label: -- Test Results --
+      hint: Your COVID-19 test history
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: conduit_tested_positive
+      label: Have You Tested Positive for COVID-19
+      hint: Any positive COVID test
+      type: select_one
+      options:
+        - Never tested positive
+        - Previously tested positive - recovered
+        - Recently tested positive
+      required: true
+    - id: 21
+      name: conduit_positive_test_date
+      Label: Date of Positive Test
+      hint: When did you test positive
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: conduit_recovery_date
+      label: Date of Recovery if Applicable
+      hint: When you recovered
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: conduit_screening_result
+      Label: Screening Result
+      hint: Based on responses provided
+      type: select_one
+      options:
+        - Passed screening - clear
+        - Failed screening - refer for testing
+        - Refer to healthcare provider
+        - Recommend isolation
+      required: true
+    - id: 24
+      name: conduit_recommendations
+      label: Recommended Actions
+      hint: Any actions recommended
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: conduit_screening_completed
+      Label: Screening Completed By
+      hint: Name of screener
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: forest_eco_retreat_booking_form
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: guests_count
+      label: Guests Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid
+      - Paid
+      - Partially Paid
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_booking
+      label: Confirm Booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 17
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - No Reason
+      - Weather Conditions
+      - Personal Reason
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Early Check-in
+      - Late Check-out
+      - Special Equipment
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Partial
+      - None
+      required: false
+    - id: 20
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Agreed
+      - Declined
+      required: false
+    - id: 21
+      name: booking_reference
+      label: Booking Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: booking_source
+      label: Booking Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: booking_source_other
+      label: Other Booking Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: booking_date_time
+      label: Booking Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Enrollment Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: developer_program
+      label: Developer Program
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''program_1''}'
+      - '{''value'': ''program_2''}'
+      required: true
+    - id: 5
+      name: partnership
+      label: Partnership
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''partnership_1''}'
+      - '{''value'': ''partnership_2''}'
+      required: true
+    - id: 6
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''access_1''}'
+      - '{''value'': ''access_2''}'
+      required: true

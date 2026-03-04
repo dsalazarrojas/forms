@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vessel Weather Capability Assessment
+    pages:
+    - id: 1
+      name: vessel_type
+      label: Vessel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Commercial Vessel''}'
+      - '{''id'': 2, ''label'': ''Private Vessel''}'
+      - '{''id'': 3, ''label'': ''Military Vessel''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Wind''}'
+      - '{''id'': 2, ''label'': ''Wave''}'
+      - '{''id'': 3, ''label'': ''Sea State''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: operating_area
+      label: Operating Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crew_size
+      label: Crew Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weather_rating
+      label: Weather Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weather_notes
+      label: Weather Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vessel_condition
+      label: Vessel Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Satisfactory''}'
+      - '{''id'': 2, ''label'': ''Unsatisfactory''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 8
+      name: crew_condition
+      label: Crew Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Satisfactory''}'
+      - '{''id'': 2, ''label'': ''Unsatisfactory''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 9
+      name: operating_area_note
+      label: Operating Area Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

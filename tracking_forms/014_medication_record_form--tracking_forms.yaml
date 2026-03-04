@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_record_form
+    pages:
+    - id: 1
+      name: medications_taken
+      label: medications_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: dosages
+      label: dosages_taken
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - Other
+      required: false
+    - id: 3
+      name: days
+      label: days_taken
+      hint: Enter the number of days you have taken the medication
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: fill_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: started_on
+      label: started_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: completed_on
+      label: completed_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_fill_date
+      label: next_fill_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: Enter notes regarding your medication intake
+      type: note
+      options: []
+      required: false

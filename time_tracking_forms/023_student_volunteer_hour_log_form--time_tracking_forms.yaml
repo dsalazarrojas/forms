@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Volunteer Hour Log Form
+    pages:
+    - id: 1
+      name: form_category
+      label: time_tracking_forms
+      hint: null
+      type: select_one
+      options:
+      - Time Tracking Forms
+      - Other
+      required: false
+    - id: 2
+      name: form_description
+      label: A Student Volunteer Hour Log Form is a dynamic solution designed to track
+        and record the hours a student has volunteered.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: student_volunteer_hours_form
+      label: Student Volunteer Hour Log Form
+      hint: null
+      type: select_one
+      options:
+      - Student Volunteer Hour Log Form
+      - Other
+      required: false
+    - id: 4
+      name: student_volunteer_hours
+      label: student_volunteer_hours
+      hint: Enter the number of hours volunteered
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_volunteer_hours_ordinal
+      label: student_volunteer_hours_ordinal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_hours_earned
+      label: Volunteer Hours Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

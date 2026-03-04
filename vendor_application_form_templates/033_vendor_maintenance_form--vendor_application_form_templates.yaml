@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Maintenance Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: vendor_expenses
+      label: Vendor Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vendor_reimbursement
+      label: Vendor Reimbursement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 10
+      name: vendor_comments
+      label: Vendor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jimsbot
+      - otherbot
+      required: false

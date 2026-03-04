@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expedited Boarding Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: passenger_type
+      label: Passenger Type
+      hint: null
+      type: select_one
+      options:
+      - Infant
+      - Child
+      - Adult
+      required: false
+    - id: 4
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - Visa
+      - ID
+      required: false
+    - id: 5
+      name: document_number
+      label: Document Number
+      hint: Please enter your passport number or ID number.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Business
+      - First
+      required: false
+    - id: 9
+      name: flight_number
+      label: Flight Number
+      hint: Please enter your flight number.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flight_date
+      label: Flight Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: boarding_number
+      label: Boarding Number
+      hint: Please enter your boarding number.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency
+      label: Travel Agency
+      hint: Please select your travel agency.
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: false
+    - id: 13
+      name: travel_agent
+      label: Travel Agent
+      hint: Please select your travel agent.
+      type: select_multiple
+      options:
+      - Agent A
+      - Agent B
+      - Agent C
+      required: false
+    - id: 14
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_number
+      label: Contact Number
+      hint: Please enter your contact number.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_address
+      label: Email Address
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: address
+      label: Address
+      hint: Please enter your address.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: Please select your country.
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: zip
+      label: Zip
+      hint: Please enter your zip.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: document_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false

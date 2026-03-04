@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: okta_verification_training_survey
+    pages:
+    - id: 1
+      name: training_quality
+      label: what_was_the_training_quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: training_clarity
+      label: how_clear_was_the_training
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: confidence_level
+      label: how_confident_did_you_feel_at_the_end
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 4
+      name: participant_name
+      label: prophets_name
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: prophets_supervisor_name
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 8
+      name: supervisor_title
+      label: supervisor_title
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 9
+      name: okta_training
+      label: prophets_okta_training
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 10
+      name: training_length
+      label: training_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: session_date
+      label: training_session_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: prophets_email
+      label: prophets_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: prophets_phone
+      label: prophets_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: prophets_comments
+      label: prophets_comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: okta_session_id
+      label: prophets_okta_session_id
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 16
+      name: session_notes
+      label: prophets_session_notes
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 17
+      name: training_notes
+      label: prophets_training_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: prophets_comments
+      label: prophets_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: okta_survey_id
+      label: prophets_okta_survey_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: okta_survey_id
+      label: prophets_okta_survey_id
+      hint: null
+      type: text
+      options: []
+      required: false

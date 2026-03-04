@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Screening Questionnaire
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_family_history
+      label: -- Family Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: family_covid
+      label: Has anyone in your family been diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: family_member_affected
+      label: Relationship to family member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_health_conditions
+      label: Does your family have a history of chronic health conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: section_personal_medical
+      label: -- Personal Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: chronic_conditions
+      label: Do you have any chronic health conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - Respiratory disease
+      - Kidney disease
+      - Liver disease
+      - Cancer
+      - Immunocompromised
+      - None
+      - Other
+      required: true
+    - id: 13
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_covid_screening
+      label: -- COVID-19 Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: covid_diagnosis
+      label: Have you been diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Possibly
+      required: true
+    - id: 17
+      name: covid_diagnosis_date
+      label: Date of diagnosis (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: current_symptoms
+      label: Do you currently have COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 19
+      name: symptoms_list
+      label: If yes, describe symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Prefer not to answer
+      required: true
+    - id: 21
+      name: section_lifestyle
+      label: -- Lifestyle Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: smoking
+      label: Do you smoke?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Former smoker
+      required: false
+    - id: 23
+      name: exercise
+      label: How often do you exercise?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - 1-2 times per week
+      - 3-4 times per week
+      - Daily
+      required: false

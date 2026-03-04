@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee English Language Training Needs Assessment Survey
+    pages:
+    - id: 1
+      name: training_needs_assessment_survey
+      label: English Language Training Needs Assessment Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: english_language_training_needs
+      label: English Language Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: english_language_programs
+      label: English Language Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: english_language_needs_assessment
+      label: English Language Needs Assessment
+      hint: null
+      type: select_one
+      options:
+      - Native English speaker
+      - Basic English
+      - Intermediate English
+      - Advanced English
+      - Proficient in English
+      required: false
+    - id: 5
+      name: training_goals_priority
+      label: Training Goals Priority
+      hint: null
+      type: select_one
+      options:
+      - Improve communication skills
+      - Enhance team collaboration
+      - Boost productivity
+      - Increase job satisfaction
+      - Improve English language skills
+      required: false
+    - id: 6
+      name: english_language_learning_goals
+      label: English Language Learning Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve reading skills
+      - Improve writing skills
+      - Improve speaking skills
+      - Improve listening skills
+      - Improve grammar skills
+      - Improve vocabulary
+      required: false
+    - id: 7
+      name: review_submissions
+      label: Review submissions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false

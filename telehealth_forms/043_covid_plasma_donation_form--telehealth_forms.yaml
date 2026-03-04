@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Plasma Donation Form
+    pages:
+    - id: 1
+      name: plasma_donor_header
+      label: -- Donor Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: plasma_donor_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: plasma_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: plasma_donor_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: plasma_donor_phone
+      Label: Phone Number
+      hint: Your contact phone number
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: plasma_donor_address
+      label: Street Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: plasma_donor_city_state_zip
+      Label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: plasma_blood_type
+      label: Blood Type
+      hint: Your ABO blood type
+      type: select_one
+      options:
+        - O positive
+        - O negative
+        - A positive
+        - A negative
+        - B positive
+        - B negative
+        - AB positive
+        - AB negative
+        - Unknown
+      required: true
+    - id: 9
+      name: plasma_covid_history_header
+      Label: -- COVID-19 Illness History --
+      hint: Your COVID-19 infection details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: plasma_covid_positive_date
+      label: Date of Positive COVID-19 Test
+      hint: When you tested positive
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: plasma_covid_hospitalized
+      Label: Were You Hospitalized for COVID-19
+      hint: Hospital admission required
+      type: select_one
+      options:
+        - Yes, hospitalized
+        - No, not hospitalized
+        - Unsure
+      required: true
+    - id: 12
+      name: plasma_covid_recovery_date
+      label: Date of Recovery or Test Negativity
+      hint: When you recovered from COVID-19
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: plasma_symptom_severity
+      Label: Severity of COVID-19 Illness
+      hint: How severe was your illness
+      type: select_one
+      options:
+        - Severe
+        - Moderate
+        - Mild
+        - Asymptomatic
+      required: true
+    - id: 14
+      name: plasma_antibody_testing_header
+      label: -- Antibody Testing --
+      hint: Your COVID-19 antibody status
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: plasma_antibody_tested
+      Label: Have You Been Antibody Tested
+      hint: COVID-19 antibody test performed
+      type: select_one
+      options:
+        - Yes, tested
+        - No, not tested
+        - Unsure
+      required: true
+    - id: 16
+      name: plasma_antibody_result
+      label: Antibody Test Result
+      hint: Results of antibody testing
+      type: select_one
+      options:
+        - Positive for antibodies
+        - Negative for antibodies
+        - Inconclusive
+        - Not tested
+      required: false
+    - id: 17
+      name: plasma_antibody_test_date
+      Label: Date of Antibody Test
+      hint: When was antibody test performed
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: plasma_health_screening_header
+      label: -- Health Screening --
+      hint: Your health information
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: plasma_current_illness
+      Label: Currently Ill or Have Symptoms
+      hint: Any current illness or symptoms
+      type: select_one
+      options:
+        - No current illness
+        - Have symptoms
+        - Unsure
+      required: true
+    - id: 20
+      name: plasma_medications
+      label: Current Medications
+      hint: List medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: plasma_medical_conditions
+      Label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: plasma_vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Vaccinated
+        - Not vaccinated
+        - Partially vaccinated
+        - Prefer not to disclose
+      required: true
+    - id: 23
+      name: plasma_consent_header
+      Label: -- Donation Consent --
+      hint: Your consent to plasma donation
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: plasma_understand_donation
+      label: I Understand the Plasma Donation Process
+      hint: You understand donation procedure
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 25
+      name: plasma_authorize_donation
+      Label: I Authorize COVID-19 Plasma Donation
+      hint: You authorize plasma collection
+      type: select_one
+      options:
+        - I authorize donation
+        - I do not authorize
+      required: true

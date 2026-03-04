@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Archive Log
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Full name of the person contacted
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_company
+      label: Company/Organization
+      hint: Company name of the contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_type
+      label: Contact Type
+      hint: Select the type of contact
+      type: select_one
+      options:
+      - Customer
+      - Vendor/Partner
+      - Internal Employee
+      - Potential Lead
+      - Other
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Primary email for the contact
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best phone number for the contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_communication_details
+      label: -- Communication Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: communication_date
+      label: Communication Date
+      hint: When did the contact occur?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: communication_time
+      label: Communication Time
+      hint: Time of the contact
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: communication_channel
+      label: Communication Channel
+      hint: How was the contact made?
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Video Meeting
+      - In-person Meeting
+      - LinkedIn/Social Media
+      - Chat/Instant Message
+      required: true
+    - id: 11
+      name: summary_of_communication
+      label: Summary of Communication
+      hint: Brief overview of the discussion
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_follow_up
+      label: -- Follow-up and Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_required
+      label: Follow-up Required?
+      hint: Does this contact need further action?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: follow_up_action_item
+      label: Follow-up Action Item
+      hint: What is the next step?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_due_date
+      label: Follow-up Due Date
+      hint: When should the follow-up be completed?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: Name of the team member responsible
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: Current status of the contact entry
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      - Archived
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for the archive
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: log_entry_date
+      label: Log Entry Date
+      hint: Date this record was created
+      type: date
+      options: []
+      required: true

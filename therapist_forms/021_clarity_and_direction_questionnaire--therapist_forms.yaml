@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clarity And Direction Questionnaire
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date of Session or Questionnaire
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: clarity_header
+      label: -- Current Clarity Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: clarity_rating
+      label: How clear are you about your current life direction - scale 1-10
+      hint: 1 = completely unclear, 10 = very clear
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: clarity_areas
+      label: Areas where you feel most unclear - select all
+      hint: null
+      type: select_multiple
+      options:
+      - Career direction
+      - Relationships
+      - Life purpose
+      - Financial goals
+      - Personal growth
+      - Health and wellness
+      - Education
+      - Family matters
+      - Spiritual direction
+      - Other
+      required: false
+    - id: 7
+      name: goals_header
+      label: -- Goals and Aspirations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_goals
+      label: What are your primary goals for the next 6 months
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: long_term_goals
+      label: Long-term goals for the next 2-5 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: goal_clarity
+      label: How clear are these goals to you
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Mostly clear
+      - Somewhat clear
+      - Not clear at all
+      required: true
+    - id: 11
+      name: obstacles_header
+      label: -- Challenges and Obstacles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: main_challenges
+      label: What are your main challenges right now
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: challenge_impact
+      label: How much impact do these challenges have on your life - scale 1-10
+      hint: 1 = minimal impact, 10 = major impact
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: perceived_obstacles
+      label: What obstacles do you perceive to achieving your goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: strengths_header
+      label: -- Strengths and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: personal_strengths
+      label: What are your greatest personal strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: available_resources
+      label: Available resources or support systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: strengths_utilization
+      label: How well are you utilizing your strengths
+      hint: null
+      type: select_one
+      options:
+      - Very well
+      - Adequately
+      - Could be better
+      - Not utilizing them
+      required: false
+    - id: 19
+      name: action_header
+      label: -- Next Steps and Action Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: desired_outcomes
+      label: What outcomes would you like from our work together
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: action_steps
+      label: First action steps you plan to take
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: readiness_level
+      label: Your readiness level for making changes
+      hint: null
+      type: select_one
+      options:
+      - Very ready
+      - Ready
+      - Somewhat ready
+      - Not ready yet
+      required: true

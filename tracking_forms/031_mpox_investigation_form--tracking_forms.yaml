@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Investigation Form
+    pages:
+    - id: 1
+      name: case_identifier
+      label: Mpox Case Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_onset
+      label: Date of Onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_age
+      label: Patient Age
+      hint: Age of the patient
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_trace_form
+      label: Contact Trace Form
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Case confirmed in the household
+      - Case confirmed in the community
+      - Case confirmed in a healthcare setting
+      required: false
+    - id: 5
+      name: travel_history
+      label: Travel History
+      hint: Country of travel, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_confirmation_status
+      label: Case Confirmation Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Confirmed
+      - Likely Confirmed
+      - Likely Not Confirmed
+      required: false
+    - id: 7
+      name: contact_trace_form_status
+      label: Contact Trace Form Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 8
+      name: laboratory_test_form
+      label: Laboratory Test Form
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending Results
+      required: false
+    - id: 9
+      name: case_confirmation_date
+      label: Case Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: case_confirmation_time
+      label: Case Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: contact_trace_form_completion_date
+      label: Contact Trace Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_trace_form_completion_time
+      label: Contact Trace Form Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: patient_location
+      label: Patient Location
+      hint: Current or recent location of patient
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Patient Address
+      hint: Current or recent address of patient
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: household_contacts
+      label: Household Contacts
+      hint: List all contacts in the household
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: household_contacts_count
+      label: Household Contacts Count
+      hint: Number of household contacts
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: community_contacts
+      label: Community Contacts
+      hint: List all contacts in the community
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: community_contacts_count
+      label: Community Contacts Count
+      hint: Number of community contacts
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: travel_history_1
+      label: Travel History 1
+      hint: Country of first travel in last 30 days
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_prophets
+      label: Travel Prophets
+      hint: List all travel prophets
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_history_2
+      label: Travel History 2
+      hint: Country of second travel in last 30 days
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_prophets_2
+      label: Travel Prophets 2
+      hint: List all travel prophets
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_symptoms
+      label: Patient Symptoms
+      hint: List all symptoms
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_symptoms_affected
+      label: Patient Symptoms Affected
+      hint: Number of symptoms
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: investigation_status
+      label: Investigation Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false

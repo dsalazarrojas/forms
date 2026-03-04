@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traveling Preferences Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Start of the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: destination
+      hint: Where would you like to go?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Leisure
+      - Adventure
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_frequency
+      label: travel_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 8
+      name: travel_style
+      label: travel_style
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Relaxed
+      - Balanced
+      required: false
+    - id: 9
+      name: travel_partner
+      label: travel_partner
+      hint: null
+      type: select_multiple
+      options:
+      - Solo
+      - With friend
+      - With Family
+      required: false
+    - id: 10
+      name: communication_style
+      label: communication_style
+      hint: null
+      type: select_multiple
+      options:
+      - Directly
+      - Email
+      - Chat
+      required: false
+    - id: 11
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Resort
+      - Hostel
+      required: false
+    - id: 12
+      name: transport_method
+      label: transport_method
+      hint: null
+      type: select_multiple
+      options:
+      - Flight
+      - Train
+      - Bus
+      required: false
+    - id: 13
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: survey_end
+      label: End of the survey
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tea Party Checklist
+    pages:
+    - id: 1
+      name: tea_party_details
+      label: Tea Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: food_beverages
+      label: Food and Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: decorations
+      label: Decorations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dress_code
+      label: Dress Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parking
+      label: Parking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - None
+      - Veggie
+      required: false
+    - id: 12
+      name: drink_preferences
+      label: Drink Preferences
+      hint: null
+      type: select_one
+      options:
+      - Alcohol
+      - No Alcohol
+      - None
+      - Soft Drink
+      required: false
+    - id: 13
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tea_party_date
+      label: Tea Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tea_party_time
+      label: Tea Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: food_budget
+      label: Food Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: decorations_budget
+      label: Decoration Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tea_party_id
+      label: Tea Party ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tea_party_status
+      label: Tea Party Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

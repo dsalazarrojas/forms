@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Distribution Release Form
+    pages:
+    - id: 1
+      name: recipient_name
+      label: Recipient Full Name
+      hint: Full name of person receiving books
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recipient_email
+      label: Recipient Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: Select type of organization
+      type: select_one
+      options:
+      - School
+      - Library
+      - Nonprofit
+      - Community Center
+      - Religious Organization
+      - Individual
+      - Other
+      required: true
+    - id: 6
+      name: distribution_date
+      label: Distribution Date
+      hint: Date books were distributed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: distribution_location
+      label: Distribution Location
+      hint: Where was the distribution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: distributor_name
+      label: Distributor Name
+      hint: Name of person distributing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_titles
+      label: Titles of Books Distributed
+      hint: List all book titles
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: total_quantity
+      label: Total Quantity of Books
+      hint: Number of books distributed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: book_condition
+      label: Condition of Books
+      hint: Select the condition
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Good
+      - Fair
+      - Used Acceptable
+      required: true
+    - id: 12
+      name: book_categories
+      label: Book Categories
+      hint: Select categories of books
+      type: select_multiple
+      options:
+      - Fiction
+      - Non-Fiction
+      - Children Books
+      - Young Adult
+      - Educational
+      - Reference
+      - Religious
+      - Other
+      required: false
+    - id: 13
+      name: age_group
+      label: Target Age Group
+      hint: Who are the books intended for
+      type: select_one
+      options:
+      - Children 0-5
+      - Children 6-10
+      - Young Adults 11-17
+      - Adults 18 Plus
+      - All Ages
+      required: true
+    - id: 14
+      name: purpose_of_distribution
+      label: Purpose of Distribution
+      hint: Why are these books being distributed
+      type: select_one
+      options:
+      - Educational Program
+      - Community Outreach
+      - Donation
+      - Sale
+      - Library Collection
+      - Personal Use
+      required: true
+    - id: 15
+      name: recipient_acknowledgment
+      label: I Acknowledge Receipt of Books
+      hint: By selecting yes you confirm receipt
+      type: select_one
+      options:
+      - Yes I confirm receipt
+      - No I did not receive
+      required: true
+    - id: 16
+      name: books_in_good_condition
+      label: Books Received in Good Condition
+      hint: Confirm books are in acceptable condition
+      type: select_one
+      options:
+      - Yes All Good
+      - Yes Most Good
+      - Some Damage Noted
+      - Significant Damage
+      required: true
+    - id: 17
+      name: damage_notes
+      label: Notes on Any Damage
+      hint: Describe any damage found
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: intended_use
+      label: Intended Use of Books
+      hint: How will these books be used
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_required
+      label: Is Follow Up Required
+      hint: Select if follow up is needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: recipient_signature
+      label: Recipient Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: distributor_signature
+      label: Distributor Signature
+      hint: Type distributor full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_signature
+      label: Witness Signature
+      hint: Type witness full name as signature
+      type: text
+      options: []
+      required: false

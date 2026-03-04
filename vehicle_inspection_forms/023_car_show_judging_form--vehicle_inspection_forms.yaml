@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Show Judging Form
+    pages:
+    - id: 1
+      name: judge_information
+      label: -- JUDGE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: judge_name
+      label: Judge name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: judge_id_number
+      label: Judge ID number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: judging_category
+      label: Judging category
+      hint: The category this judge is evaluating
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_entry_information
+      label: -- VEHICLE ENTRY INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: entry_number
+      label: Entry number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_name
+      label: Vehicle owner name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exterior_condition
+      label: -- EXTERIOR CONDITION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: paint_finish_rating
+      label: Paint finish quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: body_condition_rating
+      label: Body condition and alignment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: trim_rating
+      label: Chrome, trim, and moldings
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: wheels_tires_rating
+      label: Wheels and tires condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: glass_lights_rating
+      label: Glass and lights condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: interior_condition
+      label: -- INTERIOR CONDITION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: upholstery_rating
+      label: Upholstery condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: dashboard_rating
+      label: Dashboard and panel condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: carpets_mats_rating
+      label: Carpets and floor mats
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: mechanical_appearance
+      label: -- MECHANICAL APPEARANCE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: engine_appearance_rating
+      label: Engine appearance and cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: undercarriage_rating
+      label: Undercarriage condition (visible areas)
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: overall_impression
+      label: Overall impression and scoring
+      hint: null
+      type: number
+      options: []
+      required: true

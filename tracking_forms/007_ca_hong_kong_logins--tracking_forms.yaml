@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ca Hong Kong Logins
+    pages:
+      - id: 1
+        name: technician_name
+        label: Technician Name
+        hint: Name of person making this entry
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: entry_date
+        label: Entry Date
+        hint: Date of this log entry
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: entry_time
+        label: Entry Time
+        hint: Time of this log entry
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: system_name
+        label: System Name
+        hint: Name of the system being accessed
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: system_id
+        label: System ID
+        hint: System identification number
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: login_type
+        label: Login Type
+        hint: Type of access being logged
+        type: select_one
+        options:
+          - Initial Login
+          - Password Reset
+          - Account Recovery
+          - Privilege Escalation
+          - Emergency Access
+          - Routine Maintenance
+        required: true
+      - id: 7
+        name: access_level
+        label: Access Level
+        hint: Level of access granted
+        type: select_one
+        options:
+          - Read Only
+          - Standard User
+          - Power User
+          - Administrator
+          - Root Access
+        required: true
+      - id: 8
+        name: username
+        label: Username
+        hint: Account username used
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: workstation_id
+        label: Workstation ID
+        hint: Computer or terminal identifier
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: ip_address
+        label: IP Address
+        hint: Source IP address if applicable
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: reason_for_access
+        label: Reason for Access
+        hint: Purpose of this login session
+        type: select_one
+        options:
+          - Scheduled maintenance
+          - Troubleshooting
+          - System update
+          - User support
+          - Security audit
+          - Configuration change
+          - Other
+        required: true
+      - id: 12
+        name: changes_made
+        label: Changes Made
+        hint: Describe any changes performed during session
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: issues_encountered
+        label: Issues Encountered
+        hint: Any problems or anomalies observed
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: session_duration
+        label: Session Duration
+        hint: Approximate length of login session
+        type: select_one
+        options:
+          - Less than 15 minutes
+          - 15-30 minutes
+          - 30 minutes to 1 hour
+          - 1-2 hours
+          - Over 2 hours
+        required: false
+      - id: 15
+        name: logout_time
+        label: Logout Time
+        hint: Time when session ended
+        type: time
+        options: []
+        required: false
+      - id: 16
+        name: supervisor_notification
+        label: Supervisor Notification Required
+        hint: Does this login require supervisor awareness
+        type: select_one
+        options:
+          - Yes, notified
+          - Yes, pending notification
+          - No
+        required: false
+      - id: 17
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

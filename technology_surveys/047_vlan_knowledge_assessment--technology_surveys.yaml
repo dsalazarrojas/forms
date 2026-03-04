@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: vlan_knowledge_assessment
+    pages:
+    - id: 1
+      name: vlan_config
+      label: vlan_config
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vlan_id
+      label: vlan_id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vlan_name
+      label: vlan_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vlan_status
+      label: vlan_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: vlan_type
+      label: vlan_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vlan_ports
+      label: vlan_ports
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vlan_trunking
+      label: vlan_trunking
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vlan_ports_config
+      label: vlan_ports_config
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vlan_trunking_config
+      label: vlan_trunking_config
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vlan_trunking_status
+      label: vlan_trunking_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: vlan_readiness
+      label: vlan_readiness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: vlan_config_difficulty
+      label: vlan_config_difficulty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

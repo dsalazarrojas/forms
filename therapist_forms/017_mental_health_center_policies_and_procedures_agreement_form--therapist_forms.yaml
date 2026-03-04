@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Center Policies And Procedures Agreement Form
+    pages:
+    - id: 1
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: policies_read
+      label: have_you_read_and_understood_our_policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: emergency_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone_number
+      label: emergency_contact_phone_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: policies_signed
+      label: signed_above
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: therapist_agreement
+      label: as_a_therapist_i_agree_to_follow_our_policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

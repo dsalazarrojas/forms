@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gnyc Meeting Tracker
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: participant
+      label: Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_engagement
+      label: Stakeholder Engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

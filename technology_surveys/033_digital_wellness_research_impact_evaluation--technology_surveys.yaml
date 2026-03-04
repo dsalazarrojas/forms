@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Wellness Research Impact Evaluation
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: digital_habits
+      label: Digital Habits
+      hint: What were the participants’ digital habits prior to the program?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ratings_participant_experience
+      label: Ratings Participant Experience
+      hint: How would you rate your experience in the program?
+      type: select_one
+      options:
+      - Improved my life
+      - Made no difference
+      - Worsened my life
+      required: false
+    - id: 5
+      name: feedback_participant_experience
+      label: Feedback Participant Experience
+      hint: Please provide any feedback on your experience in the program.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ratings_program
+      label: Ratings Program
+      hint: How would you rate the program overall?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: feedback_program
+      label: Feedback Program
+      hint: Please provide any feedback on the program.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ratings_researcher
+      label: Ratings Researcher
+      hint: How would you rate the researcher’s performance?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 13
+      name: feedback_researcher
+      label: Feedback Researcher
+      hint: Please provide any feedback on the researcher’s performance.
+      type: text
+      options: []
+      required: false

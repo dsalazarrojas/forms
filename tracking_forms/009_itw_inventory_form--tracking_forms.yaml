@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: itw_inventory_form
+    pages:
+    - id: 1
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_type
+      label: item type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 3
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_location
+      label: Item Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_note
+      label: Item Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_email
+      label: Item Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: item_phone
+      label: Item Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_date
+      label: Item Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: item_time
+      label: Item Time
+      hint: null
+      type: time
+      options: []
+      required: false

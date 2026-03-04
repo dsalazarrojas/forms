@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Hour Meter Log
+    pages:
+    - id: 1
+      name: truck_hour_meter_log
+      label: Truck Hour Meter Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: engine_hours
+      label: Engine Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: routes_completed
+      label: Routes Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: driver_experience
+      label: Driver Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_consumed
+      label: Fuel Consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: driver_rating
+      label: Driver Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Poor'', ''label'': ''Poor''}'
+      - '{''id'': 2, ''name'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 9, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 10, ''name'': ''Excellent'', ''label'': ''Excellent''}'
+      required: false
+    - id: 9
+      name: route_details
+      label: Route Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

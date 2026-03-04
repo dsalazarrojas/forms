@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Diagnostic Survey
+    pages:
+    - id: 1
+      name: system_performance
+      label: system_performance
+      hint: null
+      type: select_one
+      options:
+      - System Performance
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 2
+      name: system_issue
+      label: system_issue
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: system_issue_description
+      label: system_issue_description
+      hint: Please describe the problem
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_problem_area
+      label: system_problem_area
+      hint: null
+      type: select_one
+      options:
+      - Performance
+      - Security
+      - Reliability
+      - Usability
+      - Support
+      required: false
+    - id: 5
+      name: system_issue_severity
+      label: system_issue_severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 6
+      name: system_reboot
+      label: system_reboot
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: system_crash
+      label: system_crash
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: system_average_uptime
+      label: system_average_uptime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: system_last_uptime
+      label: system_last_uptime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: system_downtime
+      label: system_downtime
+      hint: null
+      type: time
+      options: []
+      required: false

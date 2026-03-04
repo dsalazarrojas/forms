@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Timesheet Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: estimated_hours
+      label: Estimated Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: actual_hours
+      label: Actual Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_equipment_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_survey
+      label: how_satisfied
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purchase_intent
+      label: purchase_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 4
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_score
+      label: purchase_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: camera_body_type
+      label: camera_body_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''DSLR''}'
+      - '{''label'': ''Mirrorless''}'
+      - '{''label'': ''Action''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: purchase_camera_body_type
+      label: purchase_camera_body_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''DSLR''}'
+      - '{''label'': ''Mirrorless''}'
+      - '{''label'': ''Action''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: lens_type
+      label: lens_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Prime''}'
+      - '{''label'': ''Zoom''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: purchase_lens_type
+      label: purchase_lens_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Prime''}'
+      - '{''label'': ''Zoom''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: purchase_time
+      label: purchase_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: price_range
+      label: price_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: purchase_price_range
+      label: purchase_price_range
+      hint: null
+      type: number
+      options: []
+      required: false

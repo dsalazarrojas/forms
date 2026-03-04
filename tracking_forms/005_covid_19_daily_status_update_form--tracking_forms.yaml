@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Daily Status Update Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: covid_19_vaccine_received
+      label: COVID-19 Vaccine Received
+      hint: Check if you have received COVID-19 Vaccine?
+      type: select_one
+      options:
+      - Not Received
+      - Received
+      - Unknown
+      required: true
+    - id: 6
+      name: vaccination_date
+      label: Vaccination Date
+      hint: Vaccination Date (if received)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_dose_number
+      label: Number of Doses
+      hint: null
+      type: number
+      options: []
+      required: false

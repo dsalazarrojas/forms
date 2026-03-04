@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Progress Note Form
+    pages:
+    - id: 1
+      name: progress_note_form_1
+      label: Employee Updates
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: progress_note_form_2
+      label: Employer Updates
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: progress_note_form_3
+      label: Projects Updated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: progress_note_form_4
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: progress_note_form_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: progress_note_form_6
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: progress_note_form_7
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: progress_note_form_8
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

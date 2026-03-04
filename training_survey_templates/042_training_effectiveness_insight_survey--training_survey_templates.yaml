@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Insight Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - L&D
+      - Operations
+      - Admin
+      - IT
+      required: false
+    - id: 2
+      name: training_type
+      label: Which training category do you belong to?
+      hint: null
+      type: select_one
+      options:
+      - Compliance Training
+      - Leadership Development
+      - Soft Skills
+      - Technical Skills
+      - Mandatory
+      required: false
+    - id: 3
+      name: training_program
+      label: How would you rate the quality of this training program?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_outcome
+      label: What was the outcome of this training?
+      hint: null
+      type: select_multiple
+      options:
+      - Improved skills
+      - Changed behavior
+      - Increased motivation
+      - Enhanced job satisfaction
+      - Increased productivity
+      required: false
+    - id: 5
+      name: feedback
+      label: Do you want to provide feedback on this training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: What was your experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_value
+      label: What value did this training add to your work?
+      hint: null
+      type: select_multiple
+      options:
+      - Improved performance
+      - Increased efficiency
+      - Enhanced creativity
+      - Better collaboration
+      - Better time management
+      required: false
+    - id: 8
+      name: training_satisfaction
+      label: How satisfied are you with this training?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Do you have any additional comments about this training?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

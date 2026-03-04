@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daily Life Chatbot Interaction Survey
+    pages:
+    - id: 1
+      name: form_intro
+      label: Form Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: daily_usage
+      label: How often do you use the chatbot?
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Several times a day
+      - Rarely
+      - Never
+      required: true
+    - id: 3
+      name: interaction_method
+      label: Which interaction method do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Text
+      - Voice
+      - None
+      required: true
+    - id: 4
+      name: chatbot_response
+      label: How helpful was the chatbot response?
+      hint: null
+      type: select_one
+      options:
+      - Very helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not helpful at all
+      required: true
+    - id: 5
+      name: chatbot_tone
+      label: How often do you find the chatbot tone natural?
+      hint: null
+      type: select_one
+      options:
+      - Always natural
+      - Sometimes natural
+      - Rarely natural
+      - Never natural
+      required: true
+    - id: 6
+      name: chatbot_features
+      label: How important is it for the chatbot to have these features?
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduling
+      - Reminders
+      - Task management
+      - None
+      required: true
+    - id: 7
+      name: user_satisfaction
+      label: How satisfied are you with the chatbot?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not satisfied at all
+      required: true
+    - id: 8
+      name: time_spend
+      label: How much time do you spend using the chatbot?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 minute
+      - 1-5 minutes
+      - 5-10 minutes
+      - 10-30 minutes
+      - More than 30 minutes
+      required: true
+    - id: 9
+      name: improvement_suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_details
+      label: Would you like to be contacted for further questions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false

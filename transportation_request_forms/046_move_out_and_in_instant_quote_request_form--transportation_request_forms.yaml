@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Move Out And In Instant Quote Request Form
+    pages:
+    - id: 1
+      name: move_out_and_in_instant_quote_request_form
+      label: Move Out And In Instant Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_out_address
+      label: Move Out Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: move_in_address
+      label: Move In Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: move_out_type
+      label: Move Out Type
+      hint: null
+      type: select_one
+      options:
+      - In and Out
+      - Out Only
+      - In Only
+      required: false
+    - id: 7
+      name: move_out_services
+      label: Move Out Services
+      hint: null
+      type: select_multiple
+      options:
+      - Packing
+      - Unpacking
+      - Cleaning
+      required: false
+    - id: 8
+      name: move_in_services
+      label: Move In Services
+      hint: null
+      type: select_multiple
+      options:
+      - Packing
+      - Unpacking
+      - Cleaning
+      required: false
+    - id: 9
+      name: move_type
+      label: Move Type
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Interstate
+      - International
+      required: false
+    - id: 10
+      name: move_distance
+      label: Move Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: move_weight
+      label: Move Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: move_description
+      label: Move Description
+      hint: Brief description of move out/in services
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: move_quote
+      label: Move Quote
+      hint: null
+      type: text
+      options: []
+      required: false

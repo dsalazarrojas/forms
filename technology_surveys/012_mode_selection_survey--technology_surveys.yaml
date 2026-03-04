@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: mode_selection_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our mode selection survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mode
+      label: preferred_mode
+      hint: null
+      type: select_multiple
+      options:
+      - Internet
+      - Mobile
+      - Email
+      required: true
+    - id: 3
+      name: frequency
+      label: usage_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_unsatisfied
+      - very_unhappy
+      required: true
+    - id: 5
+      name: suggestion
+      label: suggestion_for_mode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mode_suggestion
+      label: mode_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mode_suggestion_2
+      label: mode_suggestion_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mode_suggestion_3
+      label: mode_suggestion_3
+      hint: null
+      type: text
+      options: []
+      required: false

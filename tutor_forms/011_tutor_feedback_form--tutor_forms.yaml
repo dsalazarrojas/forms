@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Feedback Form
+    pages:
+    - id: 1
+      name: class_taught
+      label: Class Taught
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_performance
+      label: Student Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_on_class
+      label: Feedback On Class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_on_tutor
+      label: Feedback On Tutor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_on_materials
+      label: Feedback On Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

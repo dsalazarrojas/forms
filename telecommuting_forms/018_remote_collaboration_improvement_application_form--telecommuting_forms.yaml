@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_collaboration_improvement_application_form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_arrangement
+      label: Work Arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Flexible work arrangements
+      - Flexible work schedules
+      - Remote work options
+      - Flexible work locations
+      - Compressed work schedules
+      - Flexible work hours
+      required: false
+    - id: 4
+      name: preferred_work_arrangement
+      label: Preferred Work Arrangement
+      hint: null
+      type: select_one
+      options:
+      - Flexible work arrangements
+      - Flexible work schedules
+      - Remote work options
+      - Flexible work locations
+      - Compressed work schedules
+      - Flexible work hours
+      required: false
+    - id: 5
+      name: work_from_home
+      label: Work From Home
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 6
+      name: travel_to_office
+      label: Travel to Office
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 7
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 8
+      name: collaboration_method
+      label: Collaboration Method
+      hint: null
+      type: select_one
+      options:
+      - Video call
+      - Phone call
+      - Instant message
+      - Email
+      - In-person meeting
+      required: false
+    - id: 9
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: collaboration_length
+      label: Collaboration Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Phone call
+      required: false
+    - id: 12
+      name: collaboration_status
+      label: Collaboration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Pending
+      required: false
+    - id: 13
+      name: collaboration_priority
+      label: Collaboration Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 14
+      name: collaboration_start_date
+      label: Collaboration Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

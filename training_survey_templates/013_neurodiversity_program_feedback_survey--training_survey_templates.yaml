@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neurodiversity Program Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_id
+      label: session-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: attended_sessions
+      label: attended-sessions
+      hint: List the sessions you attended
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_type
+      label: session-type
+      hint: null
+      type: select_one
+      options:
+      - Open Discussion
+      - Training Session
+      - Workgroup
+      - Workshop
+      - Webinar
+      required: true
+    - id: 12
+      name: session_topic
+      label: session-topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_date
+      label: session-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: session_time
+      label: session-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: session_duration
+      label: session-duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: rating_sessions
+      label: rating-sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: suggestions_for_improvement
+      label: suggestions-for-improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attended_by
+      label: attended-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_on_sessions
+      label: comments-on-sessions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rating_attendee_satisfaction
+      label: rating-attendee-satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: rating_instructor_satisfaction
+      label: rating-instructor-satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: rating_materials_provision
+      label: rating-materials-provision
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: suggestions_for_improvement_attendee
+      label: suggestions-for-improvement-attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suggestions_for_improvement_instructor
+      label: suggestions-for-improvement-instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false

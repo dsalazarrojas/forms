@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Support Program Interest Form
+    pages:
+    - id: 1
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquirer_name
+      label: Student Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inquirer_email
+      label: Email Address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: inquirer_phone
+      label: Phone Number
+      hint: For quick updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_support_needed
+      label: -- Support Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: subjects_of_interest
+      label: Which subjects do you need support in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mathematics
+      - Sciences
+      - Writing or Composition
+      - History or Social Studies
+      - Languages
+      - Test Prep
+      required: true
+    - id: 7
+      name: level_of_study
+      label: Current Level
+      hint: Your current academic tier
+      type: select_one
+      options:
+      - High School
+      - Undergraduate
+      - Graduate
+      required: true
+    - id: 8
+      name: specific_course_code
+      label: Course Code - if applicable
+      hint: e.g. MATH 101, ENG 202
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: type_of_support
+      label: Preferred type of support
+      hint: Choose the method that suits you best
+      type: select_one
+      options:
+      - Individual Tutoring
+      - Group Study Sessions
+      - Writing Lab
+      - Peer Mentoring
+      required: true
+    - id: 10
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_days
+      label: Available days for sessions
+      hint: Select all days you are free
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: true
+    - id: 12
+      name: time_blocks
+      label: Preferred time blocks
+      hint: Choose multiple if flexible
+      type: select_multiple
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-8pm)
+      required: true
+    - id: 13
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: academic_challenges
+      label: Briefly describe your current academic challenges
+      hint: What are you struggling with most?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_support
+      label: Have you used our support services before?
+      hint: Previous engagement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_followup
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_method_preference
+      label: Preferred method for follow-up
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true

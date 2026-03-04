@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Patient Monitoring Confidence Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_frequency
+      label: monitoring_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: confidence
+      label: confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: preferences
+      label: preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: monitoring_support
+      label: monitoring_support
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_experience
+      label: patient_experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: overall_confidence
+      label: overall_confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: confidence_score
+      label: confidence_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_support
+      label: patient_support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: VoIP Security Assessment Survey
+    pages:
+    - id: 1
+      name: voip_systems_used
+      label: Which VoIP systems are used
+      hint: null
+      type: select_multiple
+      options:
+      - VoIP Server
+      - Voice-activated phone system
+      - Other
+      required: false
+    - id: 2
+      name: protection_in_place
+      label: What existing protections exist
+      hint: null
+      type: select_one
+      options:
+      - firewalls
+      - routers
+      - Other
+      required: false
+    - id: 3
+      name: recent_incidents
+      label: Recent incidents or issues experienced
+      hint: null
+      type: select_multiple
+      options:
+      - Network connection issues
+      - Security concerns
+      - Other
+      required: false
+    - id: 4
+      name: concerns
+      label: What concerns do you have
+      hint: null
+      type: select_multiple
+      options:
+      - Security
+      - Compliance
+      - Other
+      required: false
+    - id: 5
+      name: current_protections
+      label: Current protections
+      hint: null
+      type: select_multiple
+      options:
+      - Firewalls
+      - Intrusion detection system
+      - Other
+      required: false
+    - id: 6
+      name: planning_improvements
+      label: Plan improvements
+      hint: null
+      type: select_multiple
+      options:
+      - Network segmentation
+      - Regular security audits
+      - Other
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Handover Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: handover_date
+      label: Handover Date
+      hint: Date asset is being transferred
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: asset_id
+      label: Asset ID Number
+      hint: Company tracking number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: asset_name
+      label: Asset Name
+      hint: What is this asset called?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: asset_description
+      label: Asset Description
+      hint: Detailed description of the asset
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Computer Equipment
+      - Mobile Device
+      - Office Equipment
+      - Tools
+      - Furniture
+      - Vehicle
+      - Other
+      required: true
+    - id: 7
+      name: asset_serial_number
+      label: Serial Number
+      hint: Manufacturer serial number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: asset_model
+      label: Model Number
+      hint: Model or version
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: asset_condition
+      label: Current Condition
+      hint: Condition of asset
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 10
+      name: asset_value
+      label: Asset Value
+      hint: Current value of asset
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: transferring_from_name
+      label: Transferring From - Employee Name
+      hint: Current employee releasing the asset
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: transferring_from_id
+      label: Transferring From - Employee ID
+      hint: ID of current asset holder
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: transferring_from_department
+      label: Transferring From - Department
+      hint: Department of current holder
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: transferring_to_name
+      label: Transferring To - Employee Name
+      hint: Name of new asset owner
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: transferring_to_id
+      label: Transferring To - Employee ID
+      hint: ID of new asset owner
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: transferring_to_department
+      label: Transferring To - Department
+      hint: Department of new employee
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: transfer_reason
+      label: Reason for Transfer
+      hint: Why is asset being transferred?
+      type: select_one
+      options:
+      - Employee Promotion
+      - Department Transfer
+      - Replacement
+      - Loan
+      - Temporary Use
+      - Asset Recycling
+      - Other
+      required: true
+    - id: 18
+      name: outstanding_issues
+      label: Any Outstanding Issues?
+      hint: Damage, defects, or problems?
+      type: select_one
+      options:
+      - 'No'
+      - Minor Damage
+      - Major Damage
+      - Functional Issue
+      - Missing Components
+      required: true
+    - id: 19
+      name: issue_description
+      label: Description of Issues
+      hint: Detail any problems with the asset
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessories_included
+      label: Accessories Included
+      hint: Chargers, cables, manuals, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: from_employee_signature
+      label: Releasing Employee Signature
+      hint: Name of employee releasing asset
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: to_employee_signature
+      label: Receiving Employee Signature
+      hint: Name of employee receiving asset
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: witness_signature
+      label: Witness Signature
+      hint: Name of witness or manager
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_completion_date
+      label: Form Completion Date
+      hint: Date this form was completed
+      type: date
+      options: []
+      required: true

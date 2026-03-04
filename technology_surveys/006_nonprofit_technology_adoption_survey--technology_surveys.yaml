@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonprofit_technology_adoption_survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tool_used
+      label: Tool Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Microsoft Office''}'
+      - '{''label'': ''Google Workspace''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 5
+      name: submission_management
+      label: Submission Management
+      hint: Use the no-code form builder, drag-and-drop interface, and organized form
+        submission management.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_completion_time
+      label: Form Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false

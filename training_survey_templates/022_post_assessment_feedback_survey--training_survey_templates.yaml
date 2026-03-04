@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Assessment Feedback Survey
+    pages:
+    - id: 1
+      name: form_1_page
+      label: Post-Assessment Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2_page
+      label: Overall Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 3
+      name: form_3_page
+      label: Fairness
+      hint: null
+      type: select_multiple
+      options:
+      - Too easy
+      - Too hard
+      - Too long
+      - Too short
+      required: false
+    - id: 4
+      name: form_4_page
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5_page
+      label: Open-Ended Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_6_page
+      label: Additional Comments
+      hint: Additional Comments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7_page
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_8_page
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

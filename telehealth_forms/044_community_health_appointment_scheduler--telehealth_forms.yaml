@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Appointment Scheduler
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Your insurance company
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Your policy number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_type
+      label: Appointment Type
+      hint: What type of appointment do you need?
+      type: select_one
+      options:
+      - General Checkup
+      - Follow-Up Visit
+      - Vaccination
+      - Health Screening
+      - Chronic Disease Management
+      - Mental Health Consultation
+      - Nutrition Counseling
+      - Telehealth Visit
+      required: true
+    - id: 11
+      name: preferred_provider
+      label: Preferred Provider
+      hint: Do you have a preferred doctor?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: First choice for date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice for date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: When do you prefer appointments?
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 15
+      name: appointment_format
+      label: Appointment Format
+      hint: In-person or virtual?
+      type: select_one
+      options:
+      - In-Person
+      - Telehealth Video
+      - Phone Call
+      - No Preference
+      required: true
+    - id: 16
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Brief description of symptoms or concerns
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List all medications you take
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Existing Medical Conditions
+      hint: List any chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: List any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Do you need language assistance?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: interpreter_language
+      label: Language Needed
+      hint: If yes, which language?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reminder_preference
+      label: Appointment Reminder Preference
+      hint: How should we remind you?
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - All of the Above
+      required: true
+    - id: 24
+      name: consent_treatment
+      label: Consent for Treatment
+      hint: I consent to receive medical treatment
+      type: select_one
+      options:
+      - Yes, I Consent
+      - Other
+      required: true

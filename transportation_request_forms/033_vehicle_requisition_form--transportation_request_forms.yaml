@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_requisition_form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: department_id
+      label: Department ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: approver_id
+      label: Approver ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vehicle_assigned_to
+      label: Vehicle Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: vehicle_assigned_by
+      label: Vehicle Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

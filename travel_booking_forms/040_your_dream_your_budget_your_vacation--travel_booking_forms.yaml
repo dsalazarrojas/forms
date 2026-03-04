@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Your Dream. Your Budget. Your Vacation
+    pages:
+    - id: 1
+      name: dream_budget_vacation
+      label: Dream Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: dream_budget_vacation
+      label: Dream Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: destination_city
+      label: Destination City
+      hint: Where are you headed?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: checkin_date
+      label: Checkin Date
+      hint: When do you want to go?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: checkout_date
+      label: Checkout Date
+      hint: When do you want to leave?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: flight_class
+      label: Flight Class
+      hint: null
+      type: select_one
+      options:
+      - economy
+      - business
+      - first
+      required: false
+    - id: 7
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: true

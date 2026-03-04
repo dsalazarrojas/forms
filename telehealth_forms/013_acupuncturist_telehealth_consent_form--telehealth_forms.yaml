@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncturist Telehealth Consent Form
+    pages:
+    - id: 1
+      name: --telehealth_consent
+      label: -- Telehealth Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For telehealth links and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: device_and_location
+      label: Device and location during session
+      hint: Where you will be located and device used
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: privacy_concerns
+      label: Privacy concerns
+      hint: Any specific privacy needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_for_telehealth
+      label: Consent for telehealth services
+      hint: Confirm understanding of telehealth limits
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 7
+      name: emergency_plan
+      label: Emergency plan and local contact
+      hint: Provide address and emergency contact at location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_and_cancellation
+      label: Billing and cancellation policy
+      hint: Acknowledge payment and cancellation terms
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: signature_name
+      label: Signature name
+      hint: Typed name for consent record
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

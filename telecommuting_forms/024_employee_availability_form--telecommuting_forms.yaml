@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_availability_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_days
+      label: Work Days
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Monday''}'
+      - '{''id'': 2, ''value'': ''Tuesday''}'
+      - '{''id'': 3, ''value'': ''Wednesday''}'
+      - '{''id'': 4, ''value'': ''Thursday''}'
+      - '{''id'': 5, ''value'': ''Friday''}'
+      - '{''id'': 6, ''value'': ''Saturday''}'
+      - '{''id'': 7, ''value'': ''Sunday''}'
+      required: false
+    - id: 10
+      name: work_hours_7
+      label: Work Hours 7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_hours_8
+      label: Work Hours 8
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_hours_9
+      label: Work Hours 9
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: work_hours_10
+      label: Work Hours 10
+      hint: null
+      type: number
+      options: []
+      required: false

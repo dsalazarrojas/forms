@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_work_ergonomic_assessment
+    pages:
+    - id: 1
+      name: work_from_home
+      label: Work From Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ergonomic_setup
+      label: Ergonomic Setup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: monitor_distance
+      label: Monitor Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: keyboard_use
+      label: Keyboard Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: chair_adjustment
+      label: Chair Adjustment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: standing_desk_height
+      label: Standing Desk Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: monitor_angle
+      label: Monitor Angle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: keyboard_distance
+      label: Keyboard Distance
+      hint: null
+      type: number
+      options: []
+      required: false

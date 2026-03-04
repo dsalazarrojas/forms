@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAC Therapy Agreement And Additional Consent
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: therapist_name
+      label: Therapist Name
+      hint: Your assigned therapist
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: therapy_type
+      label: Type of Therapy
+      hint: Select therapy category
+      type: select_one
+      options:
+      - Individual Counseling
+      - Group Therapy
+      - Family Therapy
+      - Couples Therapy
+      - Online Therapy
+      - Other
+      required: true
+    - id: 7
+      name: therapy_start_date
+      label: Therapy Start Date
+      hint: When you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: frequency
+      label: Session Frequency
+      hint: How often will you attend
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: Length of each session
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 10
+      name: presenting_concerns
+      label: Presenting Concerns or Issues
+      hint: Reason for seeking therapy
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_therapy
+      label: Previous Therapy Experience
+      hint: Any prior mental health treatment
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confidentiality_understand
+      label: I Understand Confidentiality Limitations
+      hint: Acknowledge privacy boundaries
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 13
+      name: emergency_consent
+      label: Emergency Contact Consent
+      hint: Authorization to contact emergency contact
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risks_benefits_acknowledge
+      label: I Acknowledge Risks and Benefits of Therapy
+      hint: Understand both aspects
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 17
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay for therapy
+      type: select_one
+      options:
+      - Insurance
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Payment Plan
+      required: true
+    - id: 18
+      name: insurance_carrier
+      label: Insurance Carrier
+      hint: If paying by insurance
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_signature_date
+      label: Consent Agreement Date
+      hint: Date you agree to terms
+      type: date
+      options: []
+      required: true

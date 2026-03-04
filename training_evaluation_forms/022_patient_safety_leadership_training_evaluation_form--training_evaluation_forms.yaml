@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Safety Leadership Training Evaluation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_id
+      label: session_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: overall_rated_satisfaction
+      label: Overall Rated Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: overall_rated_quality
+      label: Overall Rated Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: participant_rating_scale
+      label: Participant Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: training_leadership_rating
+      label: Training Leadership Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: training_leadership_scale
+      label: Training Leadership Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: feedback_to_trainers
+      label: Feedback to Trainers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_suggestions
+      label: Participant Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

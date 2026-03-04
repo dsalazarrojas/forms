@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Support Request Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_connection
+      label: Internet Connection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: operating_system
+      label: Operating System
+      hint: What operating system are you using?
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 4
+      name: problem_details
+      label: Problem Details
+      hint: Please describe the problem you are experiencing.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assistance_requested
+      label: Assistance Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Help setting up internet
+      - Troubleshooting issues
+      - Installation of software
+      - Other
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your contact email address?
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: Who can we contact?
+      type: text
+      options: []
+      required: false

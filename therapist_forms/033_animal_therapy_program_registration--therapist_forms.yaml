@@ -1,0 +1,317 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Therapy Program Registration
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact for parent/guardian
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Email for parent/guardian
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: section_address
+      label: -- Address Information --
+      hint: Residential address
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_health_info
+      label: -- Health and Medical Information --
+      hint: Important medical details
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_physician
+      label: Primary Physician Name
+      hint: Your doctor's name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_phone
+      label: Physician Phone Number
+      hint: Your doctor's phone
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions or Disabilities
+      hint: Any relevant health conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_medications
+      label: Current Medications
+      hint: Medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mobility_limitations
+      label: Mobility or Physical Limitations
+      hint: Any physical limitations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: animal_allergies
+      label: Animal Allergies
+      hint: Any allergies to animals
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prior_animal_experience
+      label: Prior Experience with Animals
+      hint: Describe your experience with animals
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_therapy_goals
+      label: -- Therapy Goals and Preferences --
+      hint: What you hope to achieve
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: primary_goal
+      label: Primary Therapy Goal
+      hint: Main reason for participating
+      type: select_one
+      options:
+      - Stress Relief
+      - Emotional Support
+      - Physical Rehabilitation
+      - Social Skills
+      - Mental Health
+      - Academic Support
+      - Other
+      required: true
+    - id: 26
+      name: therapy_type_preference
+      label: Preferred Animal Therapy Type
+      hint: Type of therapy preferred
+      type: select_one
+      options:
+      - Equine Therapy
+      - Canine Therapy
+      - Feline Therapy
+      - Small Animal Therapy
+      - Mixed
+      - No Preference
+      required: true
+    - id: 27
+      name: session_frequency_preference
+      label: Preferred Session Frequency
+      hint: How often you want sessions
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Twice Weekly
+      - Monthly
+      - As Recommended
+      required: true
+    - id: 28
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: When you want to attend
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Early Evening
+      - Flexible
+      required: true
+    - id: 29
+      name: section_availability
+      label: -- Availability --
+      hint: Days and times you can participate
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: available_days
+      label: Days Available for Sessions
+      hint: Which days work for you
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 31
+      name: section_consent
+      label: -- Consent and Agreements --
+      hint: Required agreements
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: confirm_health_info
+      label: Confirm Health Information is Accurate
+      hint: Verify all health details are correct
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 33
+      name: consent_animal_contact
+      label: Consent to Animal Contact
+      hint: Allow direct contact with animals
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 34
+      name: consent_treatment
+      label: Consent to Therapy Treatment
+      hint: Agree to therapy program
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 35
+      name: consent_photography
+      label: Consent to Photography for Progress
+      hint: Allow photos for documentation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 36
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: How they relate to you
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: agree_to_terms
+      label: I Agree to Program Terms and Conditions
+      hint: Accept all program requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

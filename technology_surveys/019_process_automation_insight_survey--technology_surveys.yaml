@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Automation Insight Survey
+    pages:
+    - id: 1
+      name: survey_flow
+      label: What is the primary workflow you're trying to automate?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tools_used
+      label: What tools do you currently use for this workflow?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: automation_goals
+      label: What are you trying to achieve with this automation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_challenges
+      label: What are some challenges you're currently facing with this workflow?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommended_improvements
+      label: What are some areas that could be improved?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: suggested_solutions
+      label: What would you recommend as a potential solution?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team Members Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: automation_status
+      label: Status of Automation
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - In Development
+      - In Progress
+      - Done
+      - Not Started
+      required: false

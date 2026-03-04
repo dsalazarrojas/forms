@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Participant Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: workshop_session
+      label: Workshop Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: workshop_facilitator
+      label: Workshop Facilitator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: content_learning
+      label: Content Learning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facilitation_skills
+      label: Facilitation Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rhine River Tour Registration
+    pages:
+    - id: 1
+      name: tour_operator
+      label: Tour Operator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tour_dates
+      label: Tour Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: party_size
+      label: Party Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true

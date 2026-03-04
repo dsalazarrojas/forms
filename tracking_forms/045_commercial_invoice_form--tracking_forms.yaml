@@ -1,0 +1,446 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Invoice Form
+    pages:
+    - id: 1
+      name: invoice_number
+      label: Invoice Number
+      hint: Unique invoice identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: invoice_date
+      label: Invoice Date
+      hint: Date of invoice
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_header_exporter
+      label: -- Exporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: exporter_name
+      label: Exporter Name
+      hint: Company or person exporting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exporter_address
+      label: Exporter Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exporter_contact
+      label: Exporter Contact
+      hint: Contact person name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: exporter_phone
+      label: Exporter Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exporter_email
+      label: Exporter Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: exporter_tax_id
+      label: Exporter Tax ID
+      hint: Tax identification number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_importer
+      label: -- Importer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: importer_name
+      label: Importer Name
+      hint: Company or person importing
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: importer_address
+      label: Importer Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: importer_contact
+      label: Importer Contact
+      hint: Contact person name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: importer_phone
+      label: Importer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: importer_email
+      label: Importer Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: importer_tax_id
+      label: Importer Tax ID
+      hint: Tax identification number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_shipment_details
+      label: -- Shipment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: country_of_origin
+      label: Country of Origin
+      hint: Where goods were made
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: country_of_destination
+      label: Country of Destination
+      hint: Final destination country
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: port_of_loading
+      label: Port of Loading
+      hint: Departure port
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: port_of_discharge
+      label: Port of Discharge
+      hint: Arrival port
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: How will goods be shipped
+      type: select_one
+      options:
+      - Ocean Freight
+      - Air Freight
+      - Road Transport
+      - Rail Transport
+      - Courier
+      required: true
+    - id: 23
+      name: terms_of_sale
+      label: Terms of Sale
+      hint: Incoterms
+      type: select_one
+      options:
+      - EXW - Ex Works
+      - FOB - Free on Board
+      - CIF - Cost Insurance Freight
+      - DDP - Delivered Duty Paid
+      - Other
+      required: true
+    - id: 24
+      name: section_header_items
+      label: -- Shipment Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: item_1_id
+      label: Item 1 ID
+      hint: Product identifier
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: item_1_description
+      label: Item 1 Description
+      hint: Product description
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: item_1_weight
+      label: Item 1 Weight
+      hint: Weight in kg
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: item_1_price
+      label: Item 1 Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: item_1_total
+      label: Item 1 Total
+      hint: Quantity times price
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: item_2_id
+      label: Item 2 ID
+      hint: Product identifier
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: item_2_description
+      label: Item 2 Description
+      hint: Product description
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: item_2_weight
+      label: Item 2 Weight
+      hint: Weight in kg
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: item_2_price
+      label: Item 2 Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: item_2_total
+      label: Item 2 Total
+      hint: Quantity times price
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: item_3_id
+      label: Item 3 ID
+      hint: Product identifier
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: item_3_description
+      label: Item 3 Description
+      hint: Product description
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: item_3_weight
+      label: Item 3 Weight
+      hint: Weight in kg
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: item_3_price
+      label: Item 3 Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 42
+      name: item_3_total
+      label: Item 3 Total
+      hint: Quantity times price
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: section_header_totals
+      label: -- Invoice Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: total_weight
+      label: Total Weight
+      hint: Total shipment weight
+      type: number
+      options: []
+      required: true
+    - id: 45
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all items
+      type: number
+      options: []
+      required: true
+    - id: 46
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Freight charges
+      type: number
+      options: []
+      required: false
+    - id: 47
+      name: insurance_cost
+      label: Insurance Cost
+      hint: Insurance charges
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: other_charges
+      label: Other Charges
+      hint: Additional fees
+      type: number
+      options: []
+      required: false
+    - id: 49
+      name: total_amount
+      label: Total Amount
+      hint: Final invoice total
+      type: number
+      options: []
+      required: true
+    - id: 50
+      name: currency
+      label: Currency
+      hint: Currency type
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - JPY - Japanese Yen
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      - Other
+      required: true
+    - id: 51
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15
+      - Net 30
+      - Net 60
+      - Net 90
+      - Letter of Credit
+      required: true
+    - id: 53
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Wire Transfer
+      - Letter of Credit
+      - Documentary Collection
+      - Credit Card
+      - Other
+      required: true
+    - id: 54
+      name: bank_name
+      label: Bank Name
+      hint: Bank for wire transfer
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: bank_account
+      label: Bank Account Number
+      hint: Account number
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: section_header_certification
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 57
+      name: exporter_signature
+      label: Exporter Signature
+      hint: Authorized signature
+      type: text
+      options: []
+      required: true
+    - id: 58
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 59
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

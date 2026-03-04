@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockout/Tagout Procedures Training Form
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tagout_date
+      label: Tagout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tagout_time
+      label: Tagout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: lockout_date
+      label: Lockout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lockout_time
+      label: Lockout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tagout_person
+      label: Tagout Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_checklist
+      label: Supervisor Checklist
+      hint: null
+      type: select_one
+      options:
+      - Lockout/Tagout Equipment was properly locked out with all safety locks engaged
+        before starting to work.
+      - Lockout/Tagout Equipment was not properly locked out with all safety locks
+        engaged before starting to work.
+      - Lockout/Tagout Equipment was properly locked out but one or more safety locks
+        were not fully engaged.
+      required: false
+    - id: 9
+      name: lockout_person
+      label: Lockout Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: completion_time
+      label: Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: tagout_tag
+      label: Tagout Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_approvals
+      label: Supervisor Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

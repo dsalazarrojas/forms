@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barging Service Quote Request
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Contact and Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company / Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: logistics_header
+      label: -- Route and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pickup_location
+      label: Pickup / Loading Location
+      hint: Full address or GPS coordinates for remote sites
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_location
+      label: Delivery / Unloading Location
+      hint: Full address or GPS coordinates
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_pickup_date
+      label: Preferred Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Service Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine - Within 2 weeks
+      - Important - Within 1 week
+      - Critical / Emergency - Within 48 hours
+      required: true
+    - id: 11
+      name: cargo_details_header
+      label: -- Cargo and Equipment Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cargo_type
+      label: Type of Cargo / Freight
+      hint: null
+      type: select_one
+      options:
+      - Heavy Machinery (Construction/Mining)
+      - Building Materials (Steel, Lumber)
+      - Bulk Commodities (Grain, Coal, Gravel)
+      - Vehicles / Boats
+      - Modular Buildings / Containers
+      - Oversized / Project Cargo
+      required: true
+    - id: 13
+      name: cargo_weight
+      label: Estimated Total Weight (Tons)
+      hint: Use short or metric tons
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: dimensions_header
+      label: -- Dimensions --
+      hint: Length x Width x Height in feet
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: hazardous_materials
+      label: Does the cargo contain hazardous materials?
+      hint: null
+      type: select_one
+      options:
+      - No - Non-hazardous
+      - Yes - Classified Hazmat (Specify in notes)
+      required: true
+    - id: 16
+      name: equipment_needed
+      label: Additional Equipment or Services Required
+      hint: null
+      type: select_multiple
+      options:
+      - Crane Service (Loading)
+      - Crane Service (Unloading)
+      - Tugs / Escort
+      - Specialized Lashing / Securing
+      - Insurance Coverage
+      required: false
+    - id: 17
+      name: project_notes
+      label: Project Notes or Special Handling Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Date of Quote Request
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_inventory_record_form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_multiple
+      options:
+      - Computer Equipment
+      - Furniture
+      - Office Supplies
+      required: false
+    - id: 3
+      name: asset_number
+      label: Asset Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: equipment_tag
+      label: Equipment Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: warranty_start_date
+      label: Warranty Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: warranty_end_date
+      label: Warranty End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: warranty_type
+      label: Warranty Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: warranty_provider
+      label: Warranty Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: asset_category
+      label: Asset Category
+      hint: null
+      type: select_one
+      options:
+      - IT and Technology
+      - Furniture
+      - Office Supplies
+      required: false

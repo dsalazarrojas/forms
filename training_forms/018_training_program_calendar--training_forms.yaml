@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_program_calendar
+    pages:
+    - id: 1
+      name: schedule_training
+      label: schedule_training
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: training_sessions
+      label: training_sessions
+      hint: null
+      type: select_multiple
+      options:
+      - session_1
+      - session_2
+      - session_3
+      required: false
+    - id: 4
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

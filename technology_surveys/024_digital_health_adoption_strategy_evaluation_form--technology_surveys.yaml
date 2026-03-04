@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Health Adoption Strategy Evaluation Form
+    pages:
+    - id: 1
+      name: digital_health_adoption_strategy_evaluation_form_1
+      label: What is your role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CEO/Owner'', ''value'': ''CEO/Owner''}'
+      - '{''id'': 2, ''label'': ''Project Manager'', ''value'': ''Project Manager''}'
+      - '{''id'': 3, ''label'': ''IT Director'', ''value'': ''IT Director''}'
+      required: false
+    - id: 2
+      name: digital_health_adoption_strategy_evaluation_form_2
+      label: What is the size of your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 10'', ''value'': ''Less than 10''}'
+      - '{''id'': 2, ''label'': ''10-50'', ''value'': ''10-50''}'
+      - '{''id'': 3, ''label'': ''51-100'', ''value'': ''51-100''}'
+      - '{''id'': 4, ''label'': ''More than 100'', ''value'': ''More than 100''}'
+      required: false
+    - id: 3
+      name: digital_health_adoption_strategy_evaluation_form_3
+      label: What digital health initiatives has your organization implemented?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: digital_health_adoption_strategy_evaluation_form_4
+      label: What is your current stage of digital health adoption?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not started'', ''value'': ''Not started''}'
+      - '{''id'': 2, ''label'': ''In progress'', ''value'': ''In progress''}'
+      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
+      required: false
+    - id: 5
+      name: digital_health_adoption_strategy_evaluation_form_5
+      label: How do you see digital health initiatives affecting your organization
+        in 2 years?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Increasing efficiency'', ''value'': ''Increasing
+        efficiency''}'
+      - '{''id'': 2, ''label'': ''Cost savings'', ''value'': ''Cost savings''}'
+      - '{''id'': 3, ''label'': ''Improved customer satisfaction'', ''value'': ''Improved
+        customer satisfaction''}'
+      - '{''id'': 4, ''label'': ''Improved patient satisfaction'', ''value'': ''Improved
+        patient satisfaction''}'
+      required: false
+    - id: 6
+      name: digital_health_adoption_strategy_evaluation_form_6
+      label: Have you experienced challenges with digital health adoption in your
+        organization?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Lack of resources'', ''value'': ''Lack of resources''}'
+      - '{''id'': 2, ''label'': ''Change management'', ''value'': ''Change management''}'
+      - '{''id'': 3, ''label'': ''Data security and privacy concerns'', ''value'':
+        ''Data security and privacy concerns''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': ''Other (please
+        specify)''}'
+      required: false
+    - id: 7
+      name: digital_health_adoption_strategy_evaluation_form_7
+      label: What are some potential solutions to address these challenges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: digital_health_adoption_strategy_evaluation_form_8
+      label: What are some potential solutions to address these challenges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: digital_health_adoption_strategy_evaluation_form_9
+      label: How do you rate the quality of your organization's digital health adoption
+        strategy?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: digital_health_adoption_strategy_evaluation_form_10
+      label: What is your expected budget allocation for digital health initiatives
+        this year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: digital_health_adoption_strategy_evaluation_form_11
+      label: What is your current level of digital health knowledge?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Basic'', ''value'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Intermediate'', ''value'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced'', ''value'': ''Advanced''}'
+      required: false
+    - id: 12
+      name: digital_health_adoption_strategy_evaluation_form_12
+      label: Have you received training on digital health adoption?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 13
+      name: digital_health_adoption_strategy_evaluation_form_13
+      label: Are you interested in learning more about digital health adoption?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 14
+      name: digital_health_adoption_strategy_evaluation_form_14
+      label: Would you like to stay updated on digital health adoption news and best
+        practices?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 15
+      name: digital_health_adoption_strategy_evaluation_form_15
+      label: Have you ever attended a conference or workshop on digital health?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 16
+      name: digital_health_adoption_strategy_evaluation_form_16
+      label: Have you ever participated in online courses or training on digital health?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 17
+      name: digital_health_adoption_strategy_evaluation_form_17
+      label: How often do you typically stay up-to-date on the latest digital health
+        information?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Frequently'', ''value'': ''Frequently''}'
+      - '{''id'': 2, ''label'': ''Occasionally'', ''value'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      required: false
+    - id: 18
+      name: digital_health_adoption_strategy_evaluation_form_18
+      label: What is your preferred way to learn about digital health adoption?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Conferences'', ''value'': ''Conferences''}'
+      - '{''id'': 2, ''label'': ''Online articles'', ''value'': ''Online articles''}'
+      - '{''id'': 3, ''label'': ''Social media'', ''value'': ''Social media''}'
+      - '{''id'': 4, ''label'': ''Podcasts'', ''value'': ''Podcasts''}'
+      - '{''id'': 5, ''label'': ''Webinars'', ''value'': ''Webinars''}'
+      - '{''id'': 6, ''label'': ''Books'', ''value'': ''Books''}'
+      - '{''id'': 7, ''label'': ''Other (please specify)'', ''value'': ''Other (please
+        specify)''}'
+      required: false
+    - id: 19
+      name: digital_health_adoption_strategy_evaluation_form_19
+      label: How often do you seek feedback from customers or patients on your organization's
+        digital health adoption?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Often'', ''value'': ''Often''}'
+      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
+      - '{''id'': 3, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      required: false
+    - id: 20
+      name: digital_health_adoption_strategy_evaluation_form_20
+      label: Are you interested in exploring further opportunities for digital health
+        adoption?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 21
+      name: digital_health_adoption_strategy_evaluation_form_21
+      label: Would you like to learn more about digital health adoption through our
+        community or online discussion forums?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 22
+      name: digital_health_adoption_strategy_evaluation_form_22
+      label: Would you like to participate in our online discussion forums or webinars
+        on digital health adoption?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 23
+      name: digital_health_adoption_strategy_evaluation_form_23
+      label: Have you ever participated in digital health adoption related projects
+        or initiatives?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 24
+      name: digital_health_adoption_strategy_evaluation_form_24
+      label: Have you ever received any awards or recognition for your digital health
+        adoption efforts?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 25
+      name: digital_health_adoption_strategy_evaluation_form_25
+      label: Would you like to participate in a digital health adoption project with
+        us?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Interface Update Feedback Survey
+    pages:
+    - id: 1
+      name: software_interface_update_feedback
+      label: Software Interface Update Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: usability_issues
+      label: Usability issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Team''}'
+      - '{''label'': ''User''}'
+      - '{''label'': ''Administrator''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Team Member''}'
+      - '{''label'': ''Team Administrator''}'
+      - '{''label'': ''Other (e.g., Customer Support)''}'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Google Forms''}'
+      - '{''label'': ''Jotform''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''pdf''}'
+      - '{''label'': ''excel''}'
+      - '{''label'': ''csv''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

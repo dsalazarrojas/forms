@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: rlt_dedicated_sub_hauler_setup_packet_transportation_request_forms
+    pages:
+    - id: 1
+      name: transport_request_form
+      label: Transport Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transport_type
+      label: transport_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hauler_name
+      label: Hauler Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hauler_address
+      label: Hauler Address
+      hint: null
+      type: text
+      options: []
+      required: false

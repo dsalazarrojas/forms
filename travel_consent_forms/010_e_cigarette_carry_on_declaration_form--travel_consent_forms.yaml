@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_cigarette_carry_on_declaration_form
+    pages:
+    - id: 1
+      name: declaration_page
+      label: Declaration Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: smoker_information
+      label: smoker_information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: e_cigarette_type
+      label: e_cigarette_type
+      hint: null
+      type: select_one
+      options:
+      - E-Liquid
+      - E-Liquid Pod
+      - E-Cigarette Cartridge
+      - Other
+      required: false
+    - id: 4
+      name: e_cigarette_carryon_info
+      label: e_cigarette_carryon_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: e_cigarette_weight
+      label: e_cigarette_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: e_cigarette_count
+      label: e_cigarette_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: e_cigarette_packaging
+      label: e_cigarette_packaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: e_cigarette_lithium
+      label: e_cigarette_lithium
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: declaration_signed
+      label: declaration_signed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: traveler_name
+      label: traveler_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: traveler_email
+      label: traveler_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: traveler_phone
+      label: traveler_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: airline_staff
+      label: airline_staff
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: declaration_date
+      label: declaration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: declaration_time
+      label: declaration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: declaration_notes
+      label: declaration_notes
+      hint: null
+      type: note
+      options: []
+      required: false

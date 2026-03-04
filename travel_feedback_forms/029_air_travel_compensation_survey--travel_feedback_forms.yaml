@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Travel Compensation Survey
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: flight_number
+      label: Flight Number
+      hint: Flight number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: airline
+      label: Airline
+      hint: Airline name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_date
+      label: Travel Date
+      hint: Date of flight
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: route_origin
+      label: Origin Airport
+      hint: Departure airport
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: route_destination
+      label: Destination Airport
+      hint: Arrival airport
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: disruption_type
+      label: Type of Disruption
+      hint: What happened
+      type: select_one
+      options:
+      - Flight cancellation
+      - Delay over 3 hours
+      - Denied boarding
+      - Missed connection
+      - Lost baggage
+      - Damaged baggage
+      - Downgrade in class
+      - Other
+      required: true
+    - id: 10
+      name: disruption_cause
+      label: Cause of Disruption
+      hint: Stated reason
+      type: select_one
+      options:
+      - Airline operational issue
+      - Weather
+      - Air traffic control
+      - Mechanical problem
+      - Crew issue
+      - Security issue
+      - Strike
+      - Other
+      - Not informed
+      required: true
+    - id: 11
+      name: delay_duration
+      label: Delay Duration
+      hint: How long was the delay
+      type: select_one
+      options:
+      - Under 2 hours
+      - 2-3 hours
+      - 3-5 hours
+      - 5-10 hours
+      - Over 10 hours
+      - Overnight
+      - Not applicable
+      required: false
+    - id: 12
+      name: notification_timing
+      label: When Were You Notified
+      hint: Timing of notification
+      type: select_one
+      options:
+      - More than 24 hours before
+      - 14-24 hours before
+      - 7-14 days before
+      - 2-7 days before
+      - Less than 24 hours
+      - At the airport
+      - After arrival
+      required: true
+    - id: 13
+      name: assistance_provided
+      label: Assistance Provided
+      hint: What did airline provide
+      type: select_multiple
+      options:
+      - Meal vouchers
+      - Hotel accommodation
+      - Transportation
+      - Rebooking on next flight
+      - Refund
+      - Travel voucher
+      - Cash compensation
+      - Nothing
+      required: true
+    - id: 14
+      name: compensation_requested
+      label: Compensation Requested
+      hint: What are you seeking
+      type: select_multiple
+      options:
+      - Monetary compensation
+      - Travel voucher
+      - Mileage points
+      - Upgrade voucher
+      - Refund
+      - Apology only
+      - Other
+      required: true
+    - id: 15
+      name: compensation_amount
+      label: Compensation Amount Expected (USD)
+      hint: Expected amount
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1,000
+      - Over $1,000
+      - Not sure
+      required: false
+    - id: 16
+      name: claim_submitted
+      label: Have You Submitted a Claim
+      hint: Claim status
+      type: select_one
+      options:
+      - Yes, already submitted
+      - Planning to submit
+      - No, not yet
+      required: true
+    - id: 17
+      name: claim_response
+      label: Airline Response
+      hint: Response received
+      type: select_one
+      options:
+      - Full compensation offered
+      - Partial compensation offered
+      - Claim denied
+      - No response yet
+      - Still waiting
+      - Not applicable
+      required: false
+    - id: 18
+      name: satisfaction_with_response
+      label: Satisfaction with Airline Response
+      hint: How satisfied with their handling
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      - No response received
+      required: true
+    - id: 19
+      name: communication_quality
+      label: Communication Quality
+      hint: Rate airline communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 20
+      name: information_clarity
+      label: Information Clarity
+      hint: Was information clear and timely
+      type: select_one
+      options:
+      - Very clear and timely
+      - Clear but delayed
+      - Unclear information
+      - No information provided
+      required: true
+    - id: 21
+      name: additional_expenses
+      label: Additional Expenses Incurred
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Meals
+      - Accommodation
+      - Transportation
+      - Communication
+      - Childcare
+      - Lost work
+      - None
+      required: true
+    - id: 22
+      name: expense_amount
+      label: Total Additional Expenses (USD)
+      hint: Approximate amount
+      type: select_one
+      options:
+      - None
+      - Under $50
+      - $50-$100
+      - $100-$250
+      - $250-$500
+      - Over $500
+      required: false
+    - id: 23
+      name: receipts_available
+      label: Receipts Available
+      hint: Do you have receipts
+      type: select_one
+      options:
+      - Yes, all
+      - Some
+      - false
+      required: false
+    - id: 24
+      name: future_travel
+      label: Likelihood to Fly This Airline Again
+      hint: Will you fly with them again
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 25
+      name: recommendation
+      label: Likelihood to Recommend This Airline
+      hint: Would you recommend to others
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true

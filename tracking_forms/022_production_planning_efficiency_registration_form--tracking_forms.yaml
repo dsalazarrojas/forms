@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Planning Efficiency Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: finish_time
+      label: Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: work_center
+      label: Work Center
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_name
+      label: Job Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_order
+      label: Work Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: shift
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: work_center_id
+      label: Work Center ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: production_hours
+      label: Production Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: production_hours_actual
+      label: Production Hours Actual
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: production_cost
+      label: Production Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: machine_breakdown
+      label: Machine Breakdown
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Ticket Booking Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Booking Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: passenger_name
+      label: Passenger name
+      hint: Full name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel date
+      hint: Date of departure
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: departure_time
+      label: Preferred departure time
+      hint: Approximate time of day
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: origin
+      label: Origin location
+      hint: Starting city or station
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: destination
+      label: Destination location
+      hint: Arrival city or station
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: seat_preference
+      label: Seat preference
+      hint: Optional seating request
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - No preference
+      required: false
+    - id: 10
+      name: number_of_passengers
+      label: Number of passengers
+      hint: How many tickets to book
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment method
+      hint: Choose payment option
+      type: select_one
+      options:
+      - Credit card
+      - Mobile payment
+      - Bank transfer
+      required: true

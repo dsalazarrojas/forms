@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Flight Arrival Report Form
+    pages:
+    - id: 1
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - Arrived
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ground_handler_name
+      label: Ground Handler
+      hint: null
+      type: select_one
+      options:
+      - Handler 1
+      - Handler 2
+      - Handler 3
+      required: false
+    - id: 6
+      name: airport_name
+      label: Airport Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: arrival_gate
+      label: Arrival Gate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: aircraft_type
+      label: Aircraft Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: flight_crew
+      label: Flight Crew
+      hint: null
+      type: select_multiple
+      options:
+      - Crew 1
+      - Crew 2
+      - Crew 3
+      required: false
+    - id: 10
+      name: aircraft_condition
+      label: Aircraft Condition
+      hint: null
+      type: select_one
+      options:
+      - Operational
+      - Maintenance Required
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: airport_operations
+      label: Airport Operations
+      hint: null
+      type: text
+      options: []
+      required: false

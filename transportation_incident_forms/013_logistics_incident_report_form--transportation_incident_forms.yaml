@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Incident Report Form
+    pages:
+    - id: 1
+      name: shipping_issue
+      label: Shipping Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: warehouse_issue
+      label: Warehouse Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fleet_issue
+      label: Fleet Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Sally
+      - Bob
+      required: true
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_by
+      label: Follow-up By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_result
+      label: Follow-up Result
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Not Resolved
+      - Pending
+      required: true
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Sally
+      - Bob
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by_name
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Sally
+      - Bob
+      required: true
+    - id: 25
+      name: submitted_to_name
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false

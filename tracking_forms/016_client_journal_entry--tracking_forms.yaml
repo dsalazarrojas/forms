@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Journal Entry
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: entry_date
+        label: Journal Entry Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: section_reflection
+        label: -- Daily Reflection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: current_mood
+        label: Overall Mood Today
+        hint: null
+        type: select_one
+        options: [Very Happy, Happy, Neutral, Sad, Very Sad]
+        required: true
+      - id: 5
+        name: daily_goal
+        label: Primary focus or goal for today
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: daily_challenge
+        label: Biggest challenge faced today
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: gratitude_item
+        label: One thing I am grateful for today
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: section_progress
+        label: -- Progress Update --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: goal_progress
+        label: Progress made on long-term goals
+        hint: null
+        type: select_one
+        options: [Significant, Steady, Minimal, None]
+        required: false
+      - id: 10
+        name: insights
+        label: Insights or realizations during today's reflection
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: next_session_topics
+        label: Are there any specific topics to discuss in our next session?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: energy_level
+        label: Current Energy Level
+        hint: 1 - Very Low to 5 - Very High
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: false

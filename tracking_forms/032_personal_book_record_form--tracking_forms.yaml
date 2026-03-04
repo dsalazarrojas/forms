@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_book_record_form
+    pages:
+    - id: 1
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authors
+      label: Authors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: publication_year
+      label: Publication Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: edition
+      label: Edition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1st''}'
+      - '{''value'': ''2nd''}'
+      - '{''value'': ''3rd''}'
+      required: false
+    - id: 5
+      name: publisher
+      label: Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false

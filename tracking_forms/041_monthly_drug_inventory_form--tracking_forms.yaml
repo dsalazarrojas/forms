@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Drug Inventory Form
+    pages:
+    - id: 1
+      name: inventory_date
+      label: Inventory Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inventory_items
+      label: Inventory Items
+      hint: Select items to track
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: drug_description
+      label: Drug Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: Enter status of the item
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Lost
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned To
+      hint: Enter name of person assigned
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

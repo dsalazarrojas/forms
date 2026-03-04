@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Tracker Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dosage_instructions
+      label: Dosage Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dosages
+      label: Dosages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Twice
+      - Thrice
+      - Four times
+      - Five times
+      - Six times
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: medication_dose
+      label: Medication Dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Caretaker
+      - Personal Use
+      - Doctor
+      - Other
+      required: false
+    - id: 14
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Grandchild
+      - Child
+      - Grandparent
+      - Spouse
+      - Other (specify)
+      - Unknown
+      required: false
+    - id: 17
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medication_form
+      label: Medication Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: dosage_frequency_unit
+      label: Dosage Frequency Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medication_form_dosage_instructions
+      label: Medication Form Dosage Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medication_strength
+      label: Medication Strength
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: dosage_form_description
+      label: Dosage Form Description
+      hint: null
+      type: text
+      options: []
+      required: true

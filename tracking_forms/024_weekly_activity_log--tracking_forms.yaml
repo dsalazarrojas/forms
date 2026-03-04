@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Activity Log
+    pages:
+    - id: 1
+      name: club_details
+      label: club_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_one
+      options:
+      - Activity
+      - Event
+      - Meeting
+      - Other
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participants
+      label: participants
+      hint: List participants
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendees
+      label: attendees
+      hint: List attendees
+      type: select_multiple
+      options:
+      - '123456'
+      - '987654'
+      - John
+      - Jane
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

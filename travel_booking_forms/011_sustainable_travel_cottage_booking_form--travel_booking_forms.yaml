@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Travel Cottage Booking Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sustainability_preferences
+      label: Sustainability Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Sustainable
+      - Non-Sustainable
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - None
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: booking_notes
+      label: Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false

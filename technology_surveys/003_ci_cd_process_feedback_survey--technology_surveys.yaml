@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CI/CD Process Feedback Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: team_role
+        label: Your Role
+        hint: Select your primary role on the team
+        type: select_one
+        options:
+          - Developer
+          - DevOps Engineer
+          - QA Engineer
+          - Release Manager
+          - Tech Lead
+          - Platform Engineer
+          - Other
+        required: true
+      - id: 4
+        name: team_name
+        label: Team Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: pipeline_usage_frequency
+        label: How often do you use the CI/CD pipeline?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Rarely
+        required: true
+      - id: 6
+        name: pipeline_effectiveness
+        label: Overall, how effective is our CI/CD pipeline?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Not Effective"
+          - "2 - Somewhat Ineffective"
+          - "3 - Neutral"
+          - "4 - Effective"
+          - "5 - Very Effective"
+        required: true
+      - id: 7
+        name: deployment_speed
+        label: How satisfied are you with deployment speed?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Very Dissatisfied"
+          - "2 - Dissatisfied"
+          - "3 - Neutral"
+          - "4 - Satisfied"
+          - "5 - Very Satisfied"
+        required: true
+      - id: 8
+        name: failure_handling
+        label: How are failure handling and error reporting?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Very Poor"
+          - "2 - Poor"
+          - "3 - Acceptable"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: true
+      - id: 9
+        name: tool_usability
+        label: How easy is the pipeline to use?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Extremely Difficult"
+          - "2 - Difficult"
+          - "3 - Neutral"
+          - "4 - Easy"
+          - "5 - Very Easy"
+        required: true
+      - id: 10
+        name: documentation_quality
+        label: Is the documentation clear and helpful?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Not Helpful"
+          - "2 - Somewhat Helpful"
+          - "3 - Neutral"
+          - "4 - Helpful"
+          - "5 - Very Helpful"
+        required: false
+      - id: 11
+        name: support_quality
+        label: How would you rate the support for pipeline issues?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Very Poor"
+          - "2 - Poor"
+          - "3 - Acceptable"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: false
+      - id: 12
+        name: main_pain_points
+        label: What are the main pain points with the current pipeline?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Slow build times
+          - Unclear error messages
+          - Difficult to debug failures
+          - Lack of visibility
+          - Limited notifications
+          - Poor documentation
+          - Difficult approval process
+          - Other
+        required: false
+      - id: 13
+        name: improvement_suggestions
+        label: What improvements would you suggest?
+        hint: Describe your top 1-3 improvement ideas
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: missing_features
+        label: What features are missing from the pipeline?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: training_needed
+        label: Would additional training be helpful?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Yes, somewhat"
+          - "No, not needed"
+          - "Not sure"
+        required: false
+      - id: 16
+        name: team_collaboration
+        label: How well does the pipeline support team collaboration?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Very Poor"
+          - "2 - Poor"
+          - "3 - Acceptable"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: false
+      - id: 17
+        name: recommend_pipeline
+        label: Would you recommend this pipeline to other teams?
+        hint: null
+        type: select_one
+        options:
+          - "Definitely"
+          - "Probably"
+          - "Maybe"
+          - "Probably not"
+          - "Definitely not"
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments or Feedback
+        hint: Any other thoughts about our CI/CD process?
+        type: text
+        options: []
+        required: false

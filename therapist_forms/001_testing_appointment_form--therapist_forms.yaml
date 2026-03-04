@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Testing Appointment Form
+    pages:
+    - id: 1
+      name: suspected_pregnancy
+      label: Suspected Pregnancy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: suspected_influenza
+      label: Suspected Influenza
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: testing_date
+      label: Testing Date
+      hint: Select the date of testing
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_time
+      label: Test Time
+      hint: Select the time of testing
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: Enter the patient's name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: testing_results
+      label: Testing Results
+      hint: Enter the testing results
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_doctor
+      label: Assigned Doctor
+      hint: Choose the doctor to assign to the patient
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_status
+      label: Patient Status
+      hint: Enter the patient's status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

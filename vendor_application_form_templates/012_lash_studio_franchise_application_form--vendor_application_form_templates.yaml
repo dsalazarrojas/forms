@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Studio Franchise Application Form
+    pages:
+    - id: 1
+      name: franchise_application_form
+      label: Lash Studio Franchise Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      - Company
+      required: false
+    - id: 3
+      name: business_info
+      label: Business Info
+      hint: null
+      type: select_one
+      options:
+      - Beauty Brand
+      - Lash Business
+      - Beauty Services
+      required: false
+    - id: 4
+      name: franchise_info
+      label: Franchise Info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: store_info
+      label: Store Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: franchise_fees
+      label: Franchise Fees
+      hint: null
+      type: number
+      options: []
+      required: false

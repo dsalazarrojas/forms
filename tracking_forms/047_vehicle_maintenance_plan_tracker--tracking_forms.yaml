@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Maintenance Plan Tracker
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_history
+      label: maintenance_history
+      hint: Record all maintenance events, no matter when they occurred.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upcoming_maintenance
+      label: upcoming_maintenance
+      hint: List any upcoming scheduled maintenance.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_service
+      label: next_service
+      hint: Enter the date of the next service.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_cost
+      label: service_cost
+      hint: Enter the cost of the most recent service.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: service_type
+      hint: Select the type of service performed.
+      type: select_one
+      options:
+      - '{''label'': ''oil_change''}'
+      - '{''label'': ''tire_change''}'
+      - '{''label'': ''other''}'
+      required: true
+    - id: 8
+      name: vehicle_number
+      label: vehicle_number
+      hint: Enter vehicle number.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_date
+      label: service_date
+      hint: Enter the date the service was performed.
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_location
+      label: service_location
+      hint: Enter the location of the service.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_mileage
+      label: service_mileage
+      hint: Enter the mileage at the time of service.
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: service_notes
+      label: service_notes
+      hint: Enter any notes about the service.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_make
+      label: vehicle_make
+      hint: Enter vehicle make.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_model
+      label: vehicle_model
+      hint: Enter vehicle model.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_year
+      label: vehicle_year
+      hint: Enter vehicle year.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_color
+      label: vehicle_color
+      hint: Enter vehicle color.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_status
+      label: vehicle_status
+      hint: Enter vehicle status.
+      type: select_one
+      options:
+      - '{''label'': ''active''}'
+      - '{''label'': ''inactive''}'
+      required: true
+    - id: 18
+      name: vehicle_type
+      label: vehicle_type
+      hint: Enter vehicle type.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_service_date
+      label: last_service_date
+      hint: Enter the date of the last service.
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: Additional notes.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_service_due_date
+      label: next_service_due_date
+      hint: Enter the date of the next service.
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_service_distance
+      label: next_service_distance
+      hint: Enter the mileage at which the next service is due.
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: next_service_location
+      label: next_service_location
+      hint: Enter the location of the next service.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_service_cost
+      label: next_service_cost
+      hint: Enter the estimated cost of the next service.
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: next_service_mileage
+      label: next_service_mileage
+      hint: Enter the mileage at which the next service is due.
+      type: number
+      options: []
+      required: false

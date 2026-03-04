@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: stage-performance-transport-request-form
+    pages:
+    - id: 1
+      name: stage_performance_transport_request
+      label: Stage Performance Transport Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_of_crew
+      label: Number of Crew
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: crew_members
+      label: Crew Members
+      hint: List crew members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false

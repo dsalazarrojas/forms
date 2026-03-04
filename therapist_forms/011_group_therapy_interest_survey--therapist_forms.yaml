@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: group_therapy_interest_survey
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: therapy_goals
+      label: Therapy Goals
+      hint: What are your goals for therapy?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_issues
+      label: Current Issues
+      hint: Are there any issues you'd like to discuss in group therapy?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: previous_therapy
+      label: Previous Therapy Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Individual sessions
+      - Group sessions
+      - Both
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false

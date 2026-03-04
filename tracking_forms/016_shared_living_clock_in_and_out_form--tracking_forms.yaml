@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shared Living Clock In And Out Form
+    pages:
+    - id: 1
+      name: clock_in_and_out_form_1
+      label: Clock In
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: clock_in_and_out_form_2
+      label: Clock Out
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: clock_in_and_out_form_3
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: clock_in_and_out_form_4
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: clock_in_and_out_form_5
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: clock_in_and_out_form_6
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: clock_in_and_out_form_7
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: clock_in_and_out_form_8
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

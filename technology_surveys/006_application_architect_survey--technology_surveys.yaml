@@ -1,0 +1,250 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Architect Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date when the survey is completed
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Full name of the survey respondent
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Respondent Email
+        hint: Professional email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: current_title
+        label: Current Title
+        hint: Your current job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: company_name
+        label: Company Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: company_size
+        label: Company Size
+        hint: Number of employees in your organization
+        type: select_one
+        options:
+          - 1-50 employees
+          - 51-200 employees
+          - 201-500 employees
+          - 501-1000 employees
+          - 1001-5000 employees
+          - More than 5000 employees
+        required: true
+      - id: 7
+        name: years_of_experience
+        label: Years of Experience
+        hint: Total years of experience in application architecture
+        type: select_one
+        options:
+          - Less than 2 years
+          - 2-5 years
+          - 5-10 years
+          - 10-15 years
+          - More than 15 years
+        required: true
+      - id: 8
+        name: primary_industry
+        label: Primary Industry
+        hint: Industry sector you work in
+        type: select_one
+        options:
+          - Technology
+          - Finance
+          - Healthcare
+          - Retail
+          - Manufacturing
+          - Education
+          - Government
+          - Other
+        required: true
+      - id: 9
+        name: architecture_methodologies
+        label: Architecture Methodologies
+        hint: Select methodologies you use
+        type: select_multiple
+        options:
+          - Microservices
+          - Service-Oriented Architecture
+          - Event-Driven Architecture
+          - Serverless
+          - Monolithic
+          - Domain-Driven Design
+        required: true
+      - id: 10
+        name: primary_programming_languages
+        label: Primary Programming Languages
+        hint: Languages you work with most
+        type: select_multiple
+        options:
+          - Java
+          - Python
+          - JavaScript
+          - C#
+          - Go
+          - TypeScript
+          - Ruby
+          - Other
+        required: true
+      - id: 11
+        name: cloud_platforms
+        label: Cloud Platforms
+        hint: Cloud platforms you have experience with
+        type: select_multiple
+        options:
+          - AWS
+          - Microsoft Azure
+          - Google Cloud Platform
+          - IBM Cloud
+          - Oracle Cloud
+          - None
+        required: true
+      - id: 12
+        name: database_technologies
+        label: Database Technologies
+        hint: Database technologies you use
+        type: select_multiple
+        options:
+          - PostgreSQL
+          - MySQL
+          - MongoDB
+          - Redis
+          - Oracle Database
+          - Microsoft SQL Server
+          - Cassandra
+          - DynamoDB
+        required: true
+      - id: 13
+        name: container_orchestration
+        label: Container Orchestration
+        hint: Container and orchestration tools used
+        type: select_multiple
+        options:
+          - Docker
+          - Kubernetes
+          - Docker Swarm
+          - Amazon ECS
+          - Azure Container Instances
+          - None
+        required: true
+      - id: 14
+        name: api_architecture
+        label: API Architecture
+        hint: API styles you implement
+        type: select_multiple
+        options:
+          - REST
+          - GraphQL
+          - gRPC
+          - SOAP
+          - WebSocket
+        required: true
+      - id: 15
+        name: security_practices
+        label: Security Practices
+        hint: Security practices you implement
+        type: select_multiple
+        options:
+          - OAuth 2.0
+          - JWT Authentication
+          - API Gateway
+          - Zero Trust Architecture
+          - Encryption at Rest
+          - Encryption in Transit
+        required: true
+      - id: 16
+        name: devops_tools
+        label: DevOps Tools
+        hint: DevOps tools in your workflow
+        type: select_multiple
+        options:
+          - Jenkins
+          - GitLab CI
+          - GitHub Actions
+          - CircleCI
+          - Terraform
+          - Ansible
+        required: true
+      - id: 17
+        name: biggest_challenges
+        label: Biggest Challenges
+        hint: What are your biggest architecture challenges
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: scalability_concerns
+        label: Scalability Concerns
+        hint: How do you handle scalability
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: technology_budget
+        label: Technology Budget
+        hint: Annual technology budget range
+        type: select_one
+        options:
+          - Less than $100K
+          - $100K-$500K
+          - $500K-$1M
+          - $1M-$5M
+          - More than $5M
+        required: false
+      - id: 20
+        name: team_size
+        label: Team Size
+        hint: Size of your architecture team
+        type: select_one
+        options:
+          - Just me
+          - 2-5 members
+          - 6-10 members
+          - 11-20 members
+          - More than 20 members
+        required: true
+      - id: 21
+        name: future_technology_focus
+        label: Future Technology Focus
+        hint: Technologies you plan to adopt
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights you would like to share
+        type: text
+        options: []
+        required: false

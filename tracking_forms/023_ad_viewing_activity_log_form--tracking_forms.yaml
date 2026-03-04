@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Viewing Activity Log Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Participant ID
+      hint: If part of a research study
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: log_entry_header
+      label: -- Log Entry Details --
+      hint: Complete this for each ad exposure observed
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: exposure_date
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: exposure_time
+      label: Time of Exposure
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: ad_brand_name
+      label: Brand or Company Advertised
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ad_channel
+      label: Media Channel
+      hint: null
+      type: select_one
+      options:
+      - Broadcast TV
+      - Connected TV (Hulu, YouTube, etc.)
+      - Social Media Feed
+      - Social Media Video (Reels, Shorts)
+      - Outdoor (Billboard, Bus)
+      - Audio (Radio, Podcast)
+      - Web Banner / Pop-up
+      required: true
+    - id: 9
+      name: device_used
+      label: Device Used
+      hint: null
+      type: select_one
+      options:
+      - Mobile Smartphone
+      - Tablet
+      - Laptop / Desktop
+      - Smart TV
+      - None (Physical / Outdoor)
+      required: true
+    - id: 10
+      name: ad_format
+      label: Ad Format
+      hint: null
+      type: select_one
+      options:
+      - Video (Non-skippable)
+      - Video (Skippable)
+      - Static Image
+      - Carousel / Multi-image
+      - Audio Only
+      - Text Only
+      required: true
+    - id: 11
+      name: perceived_length
+      label: Estimated Length (if video/audio)
+      hint: null
+      type: select_one
+      options:
+      - 5-10 Seconds
+      - 15 Seconds
+      - 30 Seconds
+      - 60 Seconds+
+      required: false
+    - id: 12
+      name: attention_level
+      label: Level of Attention Paid
+      hint: 1 = Background noise, 5 = Fully focused
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: recall_strength
+      label: Can you recall the primary message or call to action?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Very clearly
+      - Partially - Remember the brand only
+      - No - Don't recall details
+      required: true
+    - id: 14
+      name: message_details
+      label: Description of Recall / Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: entry_confirmation
+      label: I confirm this entry represents a unique ad viewing event
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

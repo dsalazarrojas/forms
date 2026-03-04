@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: safety_engineered_needle_information_tracking_form
+    pages:
+    - id: 1
+      name: needle_type
+      label: Needle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: handling_information
+      label: Handling Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: safety_engineering_status
+      label: Safety Engineering Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_handling_instructions
+      label: Special Handling Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_due_date
+      label: Next Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false

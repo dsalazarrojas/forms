@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Learning Outcome Feedback Questionnaire
+    pages:
+    - id: 1
+      name: workshop_learning_outcome_feedback_questionnaire
+      label: What do participants think of this workshop?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: learning_outcome
+      label: What were the main learning outcomes of this workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_effectiveness
+      label: How effective was this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: participant_insights
+      label: What fast feedback will you get from participants after using this form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Which tool was this form assigned with?
+      hint: null
+      type: select_one
+      options:
+      - ChatJot
+      - FormAssembly
+      - Other
+      required: false
+    - id: 6
+      name: created_by
+      label: Who created this form?
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 7
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Training Survey Templates
+      - Other
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output file
+      hint: null
+      type: select_one
+      options:
+      - 022_workshop_learning_outcome_feedback_questionnaire--training_survey_templates.yaml
+      - Other
+      required: false
+    - id: 11
+      name: tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false

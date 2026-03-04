@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Training Feedback Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: Corporate Training Feedback Poll
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_id
+      label: course_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Marketing
+      - Operations
+      - Research and Development
+      required: true
+    - id: 5
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_date
+      label: Course Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: department_lead
+      label: Department Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - Workshop
+      - Course
+      - Workshop and Course
+      required: true
+    - id: 12
+      name: session_id
+      label: Session ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: course_length
+      label: Course Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: attended
+      label: Attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: attended_session
+      label: Attended Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: attended_training
+      label: Attended Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: attended_workshop
+      label: Attended Workshop
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: attended_course
+      label: Attended Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: attended_workshop_course
+      label: Attended Workshop and Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: attended_workshop_course_training
+      label: Attended Workshop and Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: session_evaluated
+      label: Session Evaluations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

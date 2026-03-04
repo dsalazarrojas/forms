@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Assessment Form
+    pages:
+    - id: 1
+      name: assessment_form_1
+      label: training_assessment_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_participants
+      label: training_participants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_location
+      label: training_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_facilitator
+      label: training_facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: training_participants_who_attended
+      label: training_participants_who_attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: training_location_who_attended
+      label: training_location_who_attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: training_participants_other_organizations
+      label: training_participants_other_organizations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: rating_scale_used
+      label: rating_scale_used
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

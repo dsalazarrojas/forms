@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webhook Delivery Platform Evaluation Form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_methodology
+      label: Evaluation Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Criteria 1
+      - Criteria 2
+      - Criteria 3
+      required: false
+    - id: 4
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: platform_score
+      label: Platform Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: decision_ready
+      label: Decision-Ready Platform?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: vendor_feedback
+      label: Vendor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

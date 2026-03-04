@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Training Program Effectiveness Survey
+    pages:
+    - id: 1
+      name: survey_satisfaction
+      label: How would you rate your overall satisfaction with this virtual training
+        program?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: session_quality
+      label: How would you rate the quality of the virtual session?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 3
+      name: program_relevance
+      label: How relevant is this virtual training program to your goals?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: challenge_identification
+      label: Were there any challenges or obstacles that you encountered during the
+        virtual session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: What suggestions do you have for improving this virtual training program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_improvement
+      label: How can we improve the virtual training program to make it more effective?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_performance
+      label: How would you rate the performance of the virtual trainer?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: session_satisfaction
+      label: How would you rate your satisfaction with the virtual session?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: additional_feedback
+      label: Do you have any additional feedback or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

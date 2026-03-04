@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Container Loading Track Form
+    pages:
+    - id: 1
+      name: tracking_date
+      label: Tracking Date
+      hint: Date of container loading
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: shipment_id
+      label: Shipment ID
+      hint: Unique shipment identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: container_id
+      label: Container ID
+      hint: Container identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: origin_location
+      label: Origin Location
+      hint: Where the container is being loaded
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: destination_location
+      label: Destination Location
+      hint: Final destination of the container
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: logistics_manager
+      label: Logistics Manager
+      hint: Name of manager overseeing the operation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: carrier_name
+      label: Carrier Name
+      hint: Shipping company or carrier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: container_size
+      label: Container Size
+      hint: Dimensions of the container
+      type: select_one
+      options:
+      - 20 feet Standard
+      - 40 feet Standard
+      - 40 feet High Cube
+      - 45 feet High Cube
+      required: true
+    - id: 9
+      name: cargo_type
+      label: Cargo Type
+      hint: General category of goods being shipped
+      type: select_one
+      options:
+      - Electronics
+      - Machinery
+      - Consumer Goods
+      - Food Products
+      - Textiles
+      - Automotive Parts
+      - Chemicals
+      - Other
+      required: true
+    - id: 10
+      name: total_packages
+      label: Total Number of Packages
+      hint: Count of all packages in container
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_weight
+      label: Total Weight
+      hint: Combined weight of all cargo
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: weight_unit
+      label: Weight Unit
+      hint: Unit of measurement for weight
+      type: select_one
+      options:
+      - Kilograms
+      - Pounds
+      - Metric Tons
+      required: true
+    - id: 13
+      name: loading_start_time
+      label: Loading Start Time
+      hint: When loading began
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: loading_completion_time
+      label: Loading Completion Time
+      hint: When loading finished
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: loading_status
+      label: Loading Status
+      hint: Current status of loading operation
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - Delayed
+      - Cancelled
+      required: true
+    - id: 16
+      name: seal_applied
+      label: Security Seal Applied
+      hint: Has the container been sealed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: seal_number
+      label: Seal Number
+      hint: Security seal identification
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quality_check_passed
+      label: Quality Check Passed
+      hint: Loading passed quality inspection
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 19
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Describe any problems during loading
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: departure_date
+      label: Expected Departure Date
+      hint: When container will leave facility
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: estimated_arrival_date
+      label: Estimated Arrival Date
+      hint: Expected delivery date at destination
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: special_handling_instructions
+      label: Special Handling Instructions
+      hint: Any special requirements for this shipment
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tracking_notes
+      label: Tracking Notes
+      hint: Additional comments or observations
+      type: text
+      options: []
+      required: false

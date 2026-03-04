@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spare Wheel Inspection Checklist
+    pages:
+    - id: 1
+      name: spare_wheel_inspections
+      label: Spare Wheel Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: spare_wheel_location
+      label: Spare Wheel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wheel_rotation
+      label: Wheel Rotation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wheel_position
+      label: Wheel Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: spare_wheel_condition
+      label: Spare Wheel Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: spare_wheel_pressure_test
+      label: Spare Wheel Pressure Test
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional information about the inspection
+      type: note
+      options: []
+      required: false

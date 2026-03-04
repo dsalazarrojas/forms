@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_clinic_appointment
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: Select start and end time of your appointment
+      type: select_multiple
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      required: false
+    - id: 6
+      name: selected_time
+      label: Selected time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      required: false
+    - id: 7
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
+      required: false
+    - id: 8
+      name: appointment_id
+      label: Appointment ID
+      hint: Unique appointment ID
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

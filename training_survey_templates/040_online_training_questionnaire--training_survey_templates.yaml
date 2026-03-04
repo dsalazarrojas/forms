@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_training_questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physical_activity
+      label: Physical activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_habits
+      label: Sleep Habits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''High Blood Pressure''}'
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''High Cholesterol''}'
+      - '{''label'': ''Heart Disease''}'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Blood Pressure Medication''}'
+      - '{''label'': ''Insulin''}'
+      - '{''label'': ''Cholesterol Medication''}'
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Peanut Allergy''}'
+      - '{''label'': ''Gluten Intolerance''}'
+      - '{''label'': ''Shellfish Allergy''}'
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Spouse''}'
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false

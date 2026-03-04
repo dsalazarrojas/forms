@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_training_consultation_questionnaire
+    pages:
+    - id: 1
+      name: training_session_info
+      label: Training Session Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exercise_goals
+      label: Exercise Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''parent'', ''label'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''spouse'', ''label'': ''Spouse''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: injury_info
+      label: Injury Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''weight_loss'', ''label'': ''Weight Loss''}'
+      - '{''id'': 2, ''name'': ''muscle_gain'', ''label'': ''Muscle Gain''}'
+      - '{''id'': 3, ''name'': ''endurance'', ''label'': ''Endurance''}'
+      - '{''id'': 4, ''name'': ''flexibility'', ''label'': ''Flexibility''}'
+      - '{''id'': 5, ''name'': ''injury_recovery'', ''label'': ''Injury Recovery''}'
+      - '{''id'': 6, ''name'': ''strength'', ''label'': ''Strength''}'
+      - '{''id'': 7, ''name'': ''endurance'', ''label'': ''Endurance''}'
+      - '{''id'': 8, ''name'': ''power'', ''label'': ''Power''}'
+      - '{''id'': 9, ''name'': ''agility'', ''label'': ''Agility''}'
+      - '{''id'': 10, ''name'': ''balance'', ''label'': ''Balance''}'
+      required: false
+    - id: 11
+      name: available_trainingsessions
+      label: Available Training Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: available_trainingsession_times
+      label: Available Training Session Times
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''morning'', ''label'': ''Morning''}'
+      - '{''id'': 2, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''name'': ''evening'', ''label'': ''Evening''}'
+      required: false
+    - id: 13
+      name: available_trainingsession_days
+      label: Available Training Session Days
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''mon'', ''label'': ''Mon''}'
+      - '{''id'': 2, ''name'': ''tue'', ''label'': ''Tue''}'
+      - '{''id'': 3, ''name'': ''wed'', ''label'': ''Wed''}'
+      - '{''id'': 4, ''name'': ''thu'', ''label'': ''Thu''}'
+      - '{''id'': 5, ''name'': ''fri'', ''label'': ''Fri''}'
+      - '{''id'': 6, ''name'': ''sat'', ''label'': ''Sat''}'
+      - '{''id'': 7, ''name'': ''sun'', ''label'': ''Sun''}'
+      required: false
+    - id: 14
+      name: trainingsession_duration
+      label: Training Session Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 30, ''label'': 30}'
+      - '{''id'': 2, ''name'': 60, ''label'': 60}'
+      - '{''id'': 3, ''name'': 90, ''label'': 90}'
+      required: false
+    - id: 15
+      name: available_trainingsession_dates
+      label: Available Training Session Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: available_trainingsession_times
+      label: Available Training Session Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: trainingsession_notes
+      label: Training Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trainingsession_additional_info
+      label: Training Session Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''parent'', ''label'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''spouse'', ''label'': ''Spouse''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_comments
+      label: Emergency Contact Comments
+      hint: null
+      type: text
+      options: []
+      required: false

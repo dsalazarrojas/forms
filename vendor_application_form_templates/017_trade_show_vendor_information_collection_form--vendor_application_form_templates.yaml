@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Vendor Information Collection Form
+    pages:
+    - id: 1
+      name: trade_show_vendor_information_collection_form
+      label: Trade Show Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_application_form_info
+      label: Vendor Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Vendor A''}'
+      - '{''id'': 2, ''name'': ''Vendor B''}'
+      - '{''id'': 3, ''name'': ''Vendor C''}'
+      required: false
+    - id: 3
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Food''}'
+      - '{''id'': 2, ''name'': ''Beverage''}'
+      - '{''id'': 3, ''name'': ''Service''}'
+      required: false
+    - id: 7
+      name: booth_size
+      label: Booth Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vendor_website
+      label: Vendor Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Twitter''}'
+      - '{''id'': 2, ''name'': ''Facebook''}'
+      - '{''id'': 3, ''name'': ''Instagram''}'
+      required: false
+    - id: 11
+      name: vendor_additional_info
+      label: Vendor Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vendor_image
+      label: Vendor Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_video
+      label: Vendor Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_document
+      label: Vendor Document
+      hint: null
+      type: text
+      options: []
+      required: false

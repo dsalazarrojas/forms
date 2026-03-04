@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Event Ticket Pre Order Form
+    pages:
+    - id: 1
+      name: concert_details
+      label: Concert Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: show_details
+      label: Show Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: seat_selection
+      label: Seat Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false

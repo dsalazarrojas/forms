@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postpaid Service Ownership Change Form
+    pages:
+    - id: 1
+      name: account_transfer_request
+      label: account_transfer_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: new_owner_details
+      label: new_owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: account_info
+      label: account_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_owner_details
+      label: current_owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transfer_reason
+      label: transfer_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

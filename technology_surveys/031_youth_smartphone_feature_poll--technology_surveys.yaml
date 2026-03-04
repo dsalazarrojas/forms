@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Smartphone Feature Poll
+    pages:
+    - id: 1
+      name: feature_list
+      label: What features do you think are most important for you when choosing a
+        smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - Battery Life
+      - Camera Quality
+      - Price
+      - Processor Speed
+      - Storage Capacity
+      - Screen Size
+      - Customization
+      - Operating System
+      required: false
+    - id: 2
+      name: top_features
+      label: What are your top 3 features that you want to see in a new smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - Battery Life
+      - Camera Quality
+      - Price
+      - Processor Speed
+      - Storage Capacity
+      - Screen Size
+      - Customization
+      - Operating System
+      required: false
+    - id: 3
+      name: age_range
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: phone_model
+      label: What model of smartphone do you currently use?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_os
+      label: What operating system does your current smartphone use?
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Huawei
+      - Samsung
+      - Google
+      required: true
+    - id: 6
+      name: phone_purchase
+      label: How do you normally purchase your smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - Carrier
+      - Manufacturer
+      - Authorized Dealer
+      required: false
+    - id: 7
+      name: social_media
+      label: Do you use social media on your smartphone?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - Snapchat
+      - YouTube
+      - Reddit
+      required: false
+    - id: 8
+      name: phone_warranty
+      label: Do you purchase phone warranties?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: phone_warranty_type
+      label: If yes, which type of warranty do you purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Extended
+      required: false
+    - id: 10
+      name: survey_source
+      label: Where did you hear about this survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Social Media
+      - Online search
+      - Print/TV/Radio
+      - Word of mouth
+      - Other
+      required: false
+    - id: 11
+      name: survey_source_detail
+      label: Can you provide more details about where you heard about this survey?
+      hint: null
+      type: text
+      options: []
+      required: false

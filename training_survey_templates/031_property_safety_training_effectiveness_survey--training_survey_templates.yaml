@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Safety Training Effectiveness Survey
+    pages:
+    - id: 1
+      name: property_safety_training_effectiveness_survey_intro
+      label: Property Safety Training Effectiveness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_manager_rating
+      label: property-manager-rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_quality_rating
+      label: training-quality-rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: relevance_rating
+      label: relevance-rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: confidence_level
+      label: confidence-level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_effectiveness
+      label: training-effectiveness
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: property_safety_training_recommendation
+      label: property-safety-training-recommendation
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Moderately Effective
+      - Needs Improvement
+      required: true
+    - id: 8
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_safety_training_effectiveness_survey_additional_info
+      label: property-safety-training-effectiveness-survey-additional-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_safety_training_effectiveness_survey_confidence
+      label: property-safety-training-effectiveness-survey-confidence
+      hint: null
+      type: number
+      options: []
+      required: false

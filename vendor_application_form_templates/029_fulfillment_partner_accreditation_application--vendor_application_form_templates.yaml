@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fulfillment Partner Accreditation Application
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Enter company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Logistics''}'
+      - '{''name'': ''3PL''}'
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Enter contact person name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: Enter contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: services
+      label: Services
+      hint: Select services
+      type: select_multiple
+      options:
+      - '{''name'': ''Warehousing''}'
+      - '{''name'': ''Transportation''}'
+      - '{''name'': ''Packaging''}'
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: Select experience level
+      type: select_one
+      options:
+      - '{''name'': ''Less than 5 years''}'
+      - '{''name'': ''5-10 years''}'
+      - '{''name'': ''More than 5 years''}'
+      required: false
+    - id: 8
+      name: warehouse
+      label: Warehouse
+      hint: Enter number of warehouses
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: capacity
+      label: Capacity
+      hint: Enter warehouse capacity
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: Enter location
+      type: select_one
+      options:
+      - '{''name'': ''Asia''}'
+      - '{''name'': ''Europe''}'
+      - '{''name'': ''North America''}'
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: Enter company description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: acc_status
+      label: Accreditation Status
+      hint: Select current accreditation status
+      type: select_multiple
+      options:
+      - '{''name'': ''Active''}'
+      - '{''name'': ''Inactive''}'
+      - '{''name'': ''Pending''}'
+      required: false
+    - id: 13
+      name: status_date
+      label: Date
+      hint: Select accreditation date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: company_address
+      label: Company Address
+      hint: Enter company address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: acc_date
+      label: Accreditation Date
+      hint: Select accreditation date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: acc_id
+      label: Accreditation ID
+      hint: Enter accreditation ID
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: acc_number
+      label: Accreditation Number
+      hint: Enter accreditation number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: acc_note
+      label: Accreditation Notes
+      hint: Enter accreditation notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact Address
+      hint: Enter contact address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: acc_status_reason
+      label: Reason for Accreditation Status
+      hint: Select reason for accreditation status
+      type: select_one
+      options:
+      - '{''name'': ''New Application''}'
+      - '{''name'': ''Existing Application''}'
+      - '{''name'': ''Re-Application''}'
+      required: false
+    - id: 22
+      name: acc_note
+      label: Accreditation Note
+      hint: Enter accreditation note
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: acc_reason
+      label: Reason for Accreditation
+      hint: Select reason for accreditation
+      type: select_one
+      options:
+      - '{''name'': ''New Application''}'
+      - '{''name'': ''Existing Application''}'
+      - '{''name'': ''Re-Application''}'
+      required: false
+    - id: 24
+      name: acc_reapply_date
+      label: Reapply Date
+      hint: Select reapply date
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: acc_reapply_reason
+      label: Reapply Reason
+      hint: Select reapply reason
+      type: select_one
+      options:
+      - '{''name'': ''New Application''}'
+      - '{''name'': ''Existing Application''}'
+      - '{''name'': ''Re-Application''}'
+      required: false

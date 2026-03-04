@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Sugar Tracking Form
+    pages:
+    - id: 1
+      name: tracking_intro
+      label: -- Daily Blood Sugar Tracking --
+      hint: Record your blood glucose readings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tracking_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fasting_reading
+      label: Fasting Blood Sugar (mg/dL)
+      hint: Before breakfast
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fasting_time
+      label: Fasting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: breakfast_postprandial
+      label: Post-Breakfast Blood Sugar (2 hours)
+      hint: mg/dL
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: breakfast_time
+      label: Post-Breakfast Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: lunch_postprandial
+      label: Post-Lunch Blood Sugar (2 hours)
+      hint: mg/dL
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: lunch_time
+      label: Post-Lunch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: dinner_postprandial
+      label: Post-Dinner Blood Sugar (2 hours)
+      hint: mg/dL
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: dinner_time
+      label: Post-Dinner Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: bedtime_reading
+      label: Bedtime Blood Sugar
+      hint: mg/dL
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bedtime
+      label: Bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: medications_taken
+      label: Medications Taken Today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insulin_units
+      label: Insulin Units (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: carbs_consumed
+      label: Carbohydrates Consumed (grams)
+      hint: Estimate for the day
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: exercise_activity
+      label: Exercise or Activity
+      hint: Type and duration
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stress_level
+      label: Stress Level (1-10)
+      hint: 1=Low, 10=High
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: sleep_hours
+      label: Sleep Hours Last Night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: symptoms
+      label: Symptoms or Concerns
+      hint: Hypoglycemia, fatigue, etc.
+      type: text
+      options: []
+      required: false

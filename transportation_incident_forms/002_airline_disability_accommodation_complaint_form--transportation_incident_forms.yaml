@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Disability Accommodation Complaint Form
+    pages:
+    - id: 1
+      name: section_traveler_info
+      label: -- Traveler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: traveler_name
+      label: Traveler Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_reference
+      label: Booking Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: airport_location
+      label: Airport or Location of Incident
+      hint: e.g. Gate B12, Check-in Counter
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: type_of_accommodation_requested
+      label: Type of Accommodation Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair Assistance
+      - Priority Boarding
+      - Seating Accommodation
+      - Service Animal Assistance
+      - Hearing or Visual Aid
+      - Other
+      required: true
+    - id: 11
+      name: complaint_description
+      label: Detailed Description of the Complaint
+      hint: Describe what happened and how the accommodation was not met
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: personnel_involved
+      label: Personnel Involved
+      hint: Names or descriptions of staff members
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_documentation
+      label: -- Supporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: witnesses
+      label: Witnesses
+      hint: Name and contact info if available
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resolution_requested
+      label: Preferred Resolution
+      hint: null
+      type: text
+      options: []
+      required: false

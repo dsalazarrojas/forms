@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Adjustment Form
+    pages:
+    - id: 1
+      name: inventory_adjustment_form
+      label: Inventory Adjustment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_id
+      label: Item ID
+      hint: Enter item ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: adjustment_date
+      label: Adjustment Date
+      hint: Enter adjustment date (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: adjustment_time
+      label: Adjustment Time
+      hint: "Enter adjustment time (HH:MM:SS)"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Add
+      - Remove
+      - Edit
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: previous_value
+      label: Previous Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: new_value
+      label: New Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: adjustment_note
+      label: Adjustment Note
+      hint: null
+      type: note
+      options: []
+      required: false

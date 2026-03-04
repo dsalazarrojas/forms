@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracker Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: Date reported
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: system_name
+      label: System or Application
+      hint: Affected system
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: module
+      label: Module or Feature
+      hint: Specific module
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: bug_category
+      label: Bug Category
+      hint: Category of bug
+      type: select_one
+      options:
+      - Crash or Freeze
+      - Incorrect Output
+      - Missing Feature
+      - UI Display Issue
+      - Performance Slowdown
+      - Data Loss
+      - Security Issue
+      - Integration Failure
+      - Other
+      required: true
+    - id: 8
+      name: urgency
+      label: Urgency
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Critical - System Down
+      - High - Major Impact
+      - Medium - Moderate Impact
+      - Low - Minor Impact
+      - Minimal - No Urgency
+      required: true
+    - id: 9
+      name: browser
+      label: Browser
+      hint: Browser used
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Opera
+      - IE
+      - Other
+      - N/A
+      required: true
+    - id: 10
+      name: os
+      label: Operating System
+      hint: OS in use
+      type: select_one
+      options:
+      - Windows 11
+      - Windows 10
+      - macOS Sonoma
+      - macOS Ventura
+      - Linux
+      - iOS
+      - Android
+      - Other
+      required: true
+    - id: 11
+      name: screen_resolution
+      label: Screen Resolution
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_summary
+      label: Issue Summary
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: issue_details
+      label: Issue Details
+      hint: Full details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reproduction_steps
+      label: Reproduction Steps
+      hint: How to reproduce
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expected_outcome
+      label: Expected Outcome
+      hint: What should happen
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: actual_outcome
+      label: Actual Outcome
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: impact
+      label: Business Impact
+      hint: How does this affect users
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: attachments
+      label: Attachments
+      hint: Screenshots or files
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - false
+      required: false
+    - id: 19
+      name: notification_preference
+      label: Notification Preference
+      hint: How to notify you
+      type: select_one
+      options:
+      - Email Updates
+      - Phone Call
+      - No Updates Needed
+      required: false

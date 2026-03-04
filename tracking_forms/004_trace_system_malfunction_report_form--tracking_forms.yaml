@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Trace System Malfunction Report Form
+    pages:
+    - id: 1
+      name: system_malfunction_report_form
+      label: system_malfunction_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_malfunction_details
+      label: enter_details_about_problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: troubleshooting
+      label: troubleshooting_step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: problem_description
+      label: describe_problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cause
+      label: cause
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''hardware_issue''}'
+      - '{''value'': ''software_issue''}'
+      - '{''value'': ''user_issue''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: user_informed
+      label: was_user_informed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''unsure''}'
+      required: false
+    - id: 7
+      name: user_remediation
+      label: did_user_remediate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''unsure''}'
+      required: false
+    - id: 8
+      name: system_malfunction_time
+      label: system_malfunction_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: system_malfunction_date
+      label: system_malfunction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: system_malfunction_user
+      label: system_malfunction_user
+      hint: null
+      type: text
+      options: []
+      required: false

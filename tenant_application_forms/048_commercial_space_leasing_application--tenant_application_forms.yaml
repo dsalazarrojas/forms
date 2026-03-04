@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Space Leasing Application
+    pages:
+    - id: 1
+      name: section_tenant_info
+      label: -- Applicant and Business Entity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_legal_name
+      label: Legal Name of Business Entity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: doing_business_as
+      label: DBA (If different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nature_of_use
+      label: Description of Business Use
+      hint: Describe exactly what the space will be used for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_operating
+      label: Years Business has been Operating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_space_request
+      label: -- Space and Lease Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: space_of_interest_address
+      label: Address/Suite
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: desired_lease_start
+      label: Requested Lease Commencement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: desired_lease_term_years
+      label: Requested Lease Term (Years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: special_build_out_needs
+      label: Description of Tenant Improvement Needs
+      hint: Describe any build-out requirements
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_financial_auth
+      label: -- Financial Disclosures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_guarantor_name
+      label: Personal Guarantor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: bank_reference_contact
+      label: Bank Reference (Name and Branch)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: credit_authorization_lease
+      label: I authorize the landlord to verify credit and background information
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 15
+      name: section_leasing_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: leasing_contact_name
+      label: Primary Point of Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: leasing_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: leasing_contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_leasing_comments
+      label: Additional Information for Consideration
+      hint: null
+      type: text
+      options: []
+      required: false

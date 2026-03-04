@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Studio Vendor Renewal Application Form
+    pages:
+    - id: 1
+      name: section_vendor_profile
+      label: -- Vendor Profile and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_legal_name
+      label: Vendor Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_url
+      label: Website or Professional Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_renewal_details
+      label: -- Renewal and Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_contract_id
+      label: Current Contract or Vendor ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_product_category
+      label: Primary Product/Service Category
+      hint: null
+      type: select_one
+      options:
+      - Hair Care Products
+      - Skin Care Products
+      - Salon Equipment
+      - Disposables/Supplies
+      - Professional Tools
+      - Marketing Services
+      required: true
+    - id: 10
+      name: new_products_launch
+      label: Are you planning to launch new products in the next 12 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: price_list_update
+      label: Is your current price list up to date?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - I will send an updated list
+      required: true
+    - id: 12
+      name: section_compliance
+      label: -- Compliance and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: business_license_status
+      label: Is your business license current and valid?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: insurance_certificate_current
+      label: Is your Certificate of Insurance current?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: insurance_expiration_date
+      label: Insurance Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: terms_acceptance
+      label: I agree to continue following the Beauty Studio Vendor Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

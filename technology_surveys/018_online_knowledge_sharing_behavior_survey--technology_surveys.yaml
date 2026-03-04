@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Knowledge Sharing Behavior Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: online_knowledge_sharing
+      label: Online Knowledge Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Online courses
+      - Online forums
+      - Online communities
+      required: true
+    - id: 3
+      name: barriers
+      label: Barriers
+      hint: null
+      type: select_one
+      options:
+      - Lack of time
+      - Lack of skills
+      - Lack of resources
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: reasons_to_share
+      label: Reasons to Share
+      hint: null
+      type: select_multiple
+      options:
+      - For learning
+      - For entertainment
+      - For professional development
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: how_much_time_spent
+      label: How much time do you spend on online activities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: most_frequent_platforms
+      label: Most frequent platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Online forums
+      - Online courses
+      required: true
+    - id: 7
+      name: frequency_of_sharing
+      label: Frequency of sharing
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 8
+      name: why_dont_share
+      label: Why do you not share
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of knowledge
+      - Lack of skills
+      - Lack of resources
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: what_barriers
+      label: What barriers you face
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

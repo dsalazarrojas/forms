@@ -1,0 +1,279 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bribery And Corruption Training Feedback Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+        - Human Resources
+        - Finance
+        - Sales
+        - Procurement
+        - Legal
+        - Operations
+        - Executive
+        - Other
+      required: true
+    - id: 3
+      name: job_level
+      label: Job Level
+      hint: Your position level
+      type: select_one
+      options:
+        - Entry level
+        - Mid-level
+        - Senior level
+        - Management
+        - Executive
+      required: true
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: When did you attend the training
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: training_format
+      label: Training Format
+      hint: How was the training delivered
+      type: select_one
+      options:
+        - In-person workshop
+        - Virtual live session
+        - Self-paced online
+        - Hybrid
+      required: true
+    - id: 6
+      name: training_duration
+      label: Training Duration
+      hint: How long was the training
+      type: select_one
+      options:
+        - Less than 1 hour
+        - 1 to 2 hours
+        - 2 to 4 hours
+        - Full day
+        - Multiple days
+      required: true
+    - id: 7
+      name: content_quality
+      label: Content Quality Rating
+      hint: Rate the quality of training content
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 8
+      name: content_relevance
+      label: Content Relevance to Your Role
+      hint: How relevant was the content to your work
+      type: select_one
+      options:
+        - Highly relevant
+        - Somewhat relevant
+        - Neutral
+        - Not very relevant
+        - Not relevant at all
+      required: true
+    - id: 9
+      name: trainer_effectiveness
+      label: Trainer Effectiveness
+      hint: Rate the trainer or instructor
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+        - Not applicable
+      required: true
+    - id: 10
+      name: learning_objectives
+      label: Learning Objectives Clarity
+      hint: Were the learning objectives clear
+      type: select_one
+      options:
+        - Very clear
+        - Clear
+        - Somewhat clear
+        - Unclear
+        - Very unclear
+      required: true
+    - id: 11
+      name: knowledge_gained
+      label: Knowledge Gained
+      hint: How much did you learn
+      type: select_one
+      options:
+        - A great deal
+        - A lot
+        - A moderate amount
+        - A little
+        - Nothing
+      required: true
+    - id: 12
+      name: topics_covered_section
+      label: -- Topics Covered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: bribery_definitions
+      label: Understanding of Bribery Definitions
+      hint: Do you understand what constitutes bribery
+      type: select_one
+      options:
+        - Yes, completely
+        - Mostly
+        - Somewhat
+        - Not really
+        - Not at all
+      required: true
+    - id: 14
+      name: corruption_recognition
+      label: Ability to Recognize Corruption
+      hint: Can you identify corrupt practices
+      type: select_one
+      options:
+        - Yes, confidently
+        - Yes, with some uncertainty
+        - Somewhat
+        - With difficulty
+        - No
+      required: true
+    - id: 15
+      name: reporting_procedures
+      label: Understanding of Reporting Procedures
+      hint: Do you know how to report incidents
+      type: select_one
+      options:
+        - Yes, completely
+        - Mostly
+        - Somewhat
+        - Not really
+        - Not at all
+      required: true
+    - id: 16
+      name: case_studies
+      label: Usefulness of Case Studies
+      hint: Were the examples helpful
+      type: select_one
+      options:
+        - Very useful
+        - Useful
+        - Somewhat useful
+        - Not very useful
+        - Not useful at all
+      required: true
+    - id: 17
+      name: materials_quality
+      label: Quality of Training Materials
+      hint: Rate the handouts and resources
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 18
+      name: training_pace
+      label: Training Pace
+      hint: Was the pace appropriate
+      type: select_one
+      options:
+        - Too slow
+        - Just right
+        - Too fast
+      required: true
+    - id: 19
+      name: confidence_application
+      label: Confidence in Applying Knowledge
+      hint: How confident are you to apply what you learned
+      type: select_one
+      options:
+        - Very confident
+        - Confident
+        - Somewhat confident
+        - Not very confident
+        - Not confident at all
+      required: true
+    - id: 20
+      name: would_recommend
+      label: Would You Recommend This Training
+      hint: To colleagues
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Undecided
+        - Probably no
+        - Definitely no
+      required: true
+    - id: 21
+      name: additional_training_needed
+      label: Areas Needing Additional Training
+      hint: Select topics for future training
+      type: select_multiple
+      options:
+        - Gift and hospitality policies
+        - Third-party due diligence
+        - Conflict of interest
+        - Whistleblower protections
+        - International regulations
+        - Industry-specific scenarios
+        - None, current training sufficient
+      required: true
+    - id: 22
+      name: suggestions_improvement
+      label: Suggestions for Improvement
+      hint: How can we improve this training
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_contact
+      label: Willing to Participate in Follow-up
+      hint: Would you join a follow-up session
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true

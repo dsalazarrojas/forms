@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Tutoring Attendance Form
+    pages:
+    - id: 1
+      name: high_school_tutoring_form_1
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Makeup
+      - Test Prep
+      - Extra Help
+      required: false
+    - id: 5
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Absent
+      - Late
+      required: false
+    - id: 7
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false

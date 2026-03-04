@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Classroom Teacher Challenges Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: start_of_survey
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_title
+      label: teacher_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teaching_challenge
+      label: teaching_challenge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teaching_satisfaction
+      label: teaching_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: support_satisfaction
+      label: support_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_suggestions
+      label: other_suggestions
+      hint: Other suggestions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: end_of_survey
+      label: end_of_survey
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

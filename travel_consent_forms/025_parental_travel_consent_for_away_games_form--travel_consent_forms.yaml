@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Travel Consent For Away Games Form
+    pages:
+    - id: 1
+      name: travel_consent
+      label: Parental Travel Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Car''}'
+      - '{''text'': ''Bus''}'
+      - '{''text'': ''Train''}'
+      required: false
+    - id: 7
+      name: travel_destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation
+      label: Accommodation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

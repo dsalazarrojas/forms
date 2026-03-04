@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Pay Rate Form
+    pages:
+    - id: 1
+      name: employee_pay_rate
+      label: Employee Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: pay_rate
+      label: Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: salary_currency
+      label: Salary Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 4
+      name: currency_symbol
+      label: Currency Symbol
+      hint: null
+      type: select_one
+      options:
+      - $
+      - £
+      - €
+      - ¥
+      required: true
+    - id: 5
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 6
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pay_rate_history
+      label: Pay Rate History
+      hint: null
+      type: select_multiple
+      options:
+      - Historical
+      - Current
+      - Future
+      required: true
+    - id: 9
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Leave
+      required: true
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Support
+      required: true
+    - id: 14
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: manager_phone_number
+      label: Manager Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_date
+      label: Review Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: notes_reviewer
+      label: Notes Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: notes_reviewer2
+      label: Reviewer 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_notes2
+      label: Review Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: pay_date1
+      label: Pay Date 1
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: pay_date2
+      label: Pay Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: employee_status1
+      label: Employee Status 1
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Leave
+      required: true
+    - id: 25
+      name: employee_status2
+      label: Employee Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Leave
+      required: true

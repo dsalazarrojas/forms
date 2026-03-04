@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Pre Sale Checklist
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: vehicle_damage
+      label: Vehicle Damage
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: vehicle_notes
+      label: Vehicle Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_price
+      label: Vehicle Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_sold_by
+      label: Vehicle Sold By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: vehicle_sold_date
+      label: Vehicle Sold Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_inspector
+      label: Vehicle Inspector
+      hint: null
+      type: text
+      options: []
+      required: false

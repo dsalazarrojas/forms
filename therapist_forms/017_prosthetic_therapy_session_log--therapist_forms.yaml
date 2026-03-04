@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prosthetic Therapy Session Log
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: therapist_first_name
+      label: Therapist First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: therapist_last_name
+      label: Therapist Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheel Inspection Checklist
+    pages:
+    - id: 1
+      name: vehicle_and_equipment
+      label: Vehicle and equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wheel_condition
+      label: Wheel condition
+      hint: null
+      type: select_one
+      options:
+      - Bald tires
+      - Loose or damaged tires
+      - Proper pressure
+      - Proper inflation
+      required: false
+    - id: 3
+      name: wheel_alignment
+      label: Wheel alignment
+      hint: null
+      type: select_multiple
+      options:
+      - Aligned
+      - Misaligned
+      - Loose
+      required: false
+    - id: 4
+      name: bearing_condition
+      label: Bearing condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Damaged
+      - Worn
+      required: false
+    - id: 5
+      name: bearing_temperature
+      label: Bearing temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bearing_lubrication
+      label: Bearing lubrication
+      hint: null
+      type: select_one
+      options:
+      - Lubricated
+      - Not lubricated
+      - Not checked
+      required: false
+    - id: 7
+      name: bearing_seal
+      label: Bearing seal condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Damaged
+      - Not checked
+      required: false
+    - id: 8
+      name: hub_condition
+      label: Hub condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Damaged
+      required: false
+    - id: 9
+      name: hub_seal
+      label: Hub seal condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Damaged
+      - Not checked
+      required: false
+    - id: 10
+      name: wheel_fasteners
+      label: Wheel fasteners
+      hint: null
+      type: select_one
+      options:
+      - Tight
+      - Loose
+      - Not checked
+      required: false
+    - id: 11
+      name: wheel_fastener_seal
+      label: Wheel fastener seal condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Damaged
+      - Not checked
+      required: false
+    - id: 12
+      name: brake_pad
+      label: Brake pad condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Not checked
+      required: false
+    - id: 13
+      name: brake_disc
+      label: Brake disc condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Not checked
+      required: false
+    - id: 14
+      name: steering_box
+      label: Steering box condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Not checked
+      required: false
+    - id: 15
+      name: power_steering
+      label: Power steering condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Not working
+      - Not checked
+      required: false
+    - id: 16
+      name: suspension_system
+      label: Suspension system condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Not checked
+      required: false
+    - id: 17
+      name: steering_system
+      label: Steering system condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Not checked
+      required: false
+    - id: 18
+      name: brake_lines
+      label: Brake lines condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Worn
+      - Not checked
+      required: false
+    - id: 19
+      name: wheel_rotation
+      label: Wheel rotation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_number
+      label: Vehicle number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: equipment_number
+      label: Equipment number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_number
+      label: Asset number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

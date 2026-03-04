@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Knowledge Assessment
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of supervising manager
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_header_intro
+      label: -- Safety and General Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: safety_equipment
+      label: What should you wear while cleaning? Select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Gloves
+      - Apron
+      - Closed-toe shoes
+      - Protective eyewear
+      - Face mask
+      required: true
+    - id: 7
+      name: chemical_mixing
+      label: Should you mix cleaning chemicals together?
+      hint: null
+      type: select_one
+      options:
+      - Yes, always mix for better cleaning
+      - No, never mix - can create toxic fumes
+      - Only mix if labeled
+      - Depends on the chemical
+      required: true
+    - id: 8
+      name: spill_response
+      label: What should you do if you spill a chemical?
+      hint: null
+      type: select_one
+      options:
+      - Wipe it up and continue working
+      - Report it immediately to supervisor
+      - Ventilate the area and clean with proper materials
+      - Leave it for someone else to clean
+      required: true
+    - id: 9
+      name: section_header_procedures
+      label: -- Cleaning Procedures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: bathroom_order
+      label: What is the correct order to clean a bathroom?
+      hint: null
+      type: select_one
+      options:
+      - Floors first, then fixtures
+      - Toilet, tub, sink, mirror, floor
+      - Mirrors and surfaces, then floor
+      - It does not matter
+      required: true
+    - id: 11
+      name: proper_mopping
+      label: How should you properly mop a floor?
+      hint: null
+      type: select_one
+      options:
+      - Use dry mop only
+      - Wet mop with dirty water multiple times
+      - Rinse mop frequently in clean water
+      - Fill bucket once and use same water all day
+      required: true
+    - id: 12
+      name: disinfection
+      label: How long should disinfectant sit before wiping?
+      hint: null
+      type: select_one
+      options:
+      - Not necessary to wait
+      - 30 seconds to 1 minute
+      - 5-10 minutes per product instructions
+      - 30 minutes
+      required: true
+    - id: 13
+      name: dusting_method
+      label: What is the best way to dust surfaces?
+      hint: null
+      type: select_one
+      options:
+      - Dry cloth moving dust around
+      - Damp cloth to capture dust
+      - Feather duster
+      - Blow dust away with air
+      required: true
+    - id: 14
+      name: section_header_products
+      label: -- Cleaning Products and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: product_labels
+      label: Why is it important to read product labels?
+      hint: null
+      type: select_one
+      options:
+      - Not important - all products are the same
+      - To understand usage and safety information
+      - Only to check the price
+      - Labels are just for decoration
+      required: true
+    - id: 16
+      name: microfiber_cloth
+      label: Why are microfiber cloths better than cotton?
+      hint: null
+      type: select_one
+      options:
+      - They are more expensive
+      - They trap more dirt and require less chemical
+      - They last longer between washings
+      - They smell better
+      required: true
+    - id: 17
+      name: section_header_customer
+      label: -- Customer Service and Professionalism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: customer_interaction
+      label: A customer asks you to use a specific product. What should you do?
+      hint: null
+      type: select_one
+      options:
+      - Use it without checking if it is approved
+      - Politely explain your company policy and offer alternatives
+      - Refuse and use your standard products
+      - Ask them to bring their own
+      required: true
+    - id: 19
+      name: professional_appearance
+      label: What aspect of professional appearance is most important?
+      hint: null
+      type: select_one
+      options:
+      - Wearing expensive clothes
+      - Clean, neat appearance and proper uniform
+      - Following fashion trends
+      - Matching nail polish to outfit
+      required: true
+    - id: 20
+      name: section_header_special
+      label: -- Special Situations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: stain_removal
+      label: What should you do if you cause a stain?
+      hint: null
+      type: select_one
+      options:
+      - Hide it and hope it is not noticed
+      - Immediately inform supervisor and attempt remedy
+      - Ignore it - the customer will fix it
+      - Blame it on previous damage
+      required: true
+    - id: 22
+      name: time_management
+      label: A job takes longer than expected. What do you do?
+      hint: null
+      type: select_one
+      options:
+      - Rush and cut corners
+      - Notify supervisor and adjust timeline
+      - Stop early and leave incomplete
+      - Work unpaid overtime without reporting
+      required: true
+    - id: 23
+      name: section_header_conclusion
+      label: -- Assessment Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: confidence_level
+      label: How confident are you in your cleaning knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Need More Training
+      required: true
+    - id: 25
+      name: training_needs
+      label: Areas where you need more training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assessment_score
+      label: Assessment Score
+      hint: Percentage or number of correct answers
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: passed
+      label: Assessment Result
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Needs Retesting
+      required: false

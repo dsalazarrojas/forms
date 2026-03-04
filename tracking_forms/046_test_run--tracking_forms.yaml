@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Run
+    pages:
+    - id: 1
+      name: test_run_form
+      label: Test Run
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Tracking Forms'', ''value'': ''tracking-forms''}'
+      - '{''id'': 2, ''name'': ''Other Forms'', ''value'': ''other-forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form Id
+      hint: Unique form id
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file_path
+      label: Output File Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CSV'', ''value'': ''csv''}'
+      - '{''id'': 2, ''name'': ''JSON'', ''value'': ''json''}'
+      - '{''id'': 3, ''name'': ''Excel'', ''value'': ''excel''}'
+      required: false
+    - id: 9
+      name: output_file_path_2
+      label: Output File Path 2
+      hint: null
+      type: text
+      options: []
+      required: false

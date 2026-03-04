@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Inventory Form
+    pages:
+    - id: 1
+      name: inventory_date
+      label: Inventory Date
+      hint: Date of inventory count
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inventory_time
+      label: Inventory Time
+      hint: What time was inventory taken?
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: staff_member_name
+      label: Staff Member Name
+      hint: Person conducting inventory
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Supervising manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: establishment_name
+      label: Establishment Name
+      hint: Bar or restaurant name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: liquor_spirits
+      label: Liquor - Spirits Count
+      hint: Total bottles of spirits
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: liquor_spirits_value
+      label: Spirits Inventory Value
+      hint: Total dollar value
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: beer_bottles
+      label: Beer - Bottles Count
+      hint: Number of beer bottles
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: beer_cans
+      label: Beer - Cans Count
+      hint: Number of beer cans
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: beer_value
+      label: Beer Inventory Value
+      hint: Total dollar value
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: wine_bottles
+      label: Wine - Bottles Count
+      hint: Number of wine bottles
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: wine_value
+      label: Wine Inventory Value
+      hint: Total dollar value
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: soft_drinks
+      label: Soft Drinks - Bottles Count
+      hint: Soda, juice, mixers
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: soft_drinks_value
+      label: Soft Drinks Value
+      hint: Total dollar value
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: draft_beer_barrels
+      label: Draft Beer - Barrels/Kegs
+      hint: Number of kegs in use
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: draft_beer_value
+      label: Draft Beer Value
+      hint: Total value of draft beer
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: bottled_water
+      label: Bottled Water Count
+      hint: Number of bottles
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: premium_liquor_count
+      label: Premium/Top-Shelf Liquor Count
+      hint: Higher value bottles
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: damaged_items
+      label: Damaged or Broken Items
+      hint: Count of unusable items
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: damaged_description
+      label: Description of Damaged Items
+      hint: What was broken or damaged?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: total_inventory_value
+      label: Total Inventory Value
+      hint: Grand total of all inventory
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: variance_from_expected
+      label: Variance from Expected
+      hint: Difference from last count
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: inventory_notes
+      label: Additional Notes
+      hint: Any issues or observations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: storage_areas_checked
+      label: All Storage Areas Checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 25
+      name: physical_count_verified
+      label: Physical Count Verified Against Records
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: false

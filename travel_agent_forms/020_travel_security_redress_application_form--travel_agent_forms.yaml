@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Security Redress Application Form
+    pages:
+    - id: 1
+      name: travel_security_redress_form
+      label: Travel Security Redress Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_agent_info
+      label: Travel Agent Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: travel_security_redress
+      label: Travel Security Redress
+      hint: null
+      type: select_one
+      options:
+      - Redress Granted
+      - Redress Pending
+      - No Redress Required
+      required: true
+    - id: 11
+      name: travel_agent_response
+      label: Travel Agent Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_security_redress_response
+      label: Travel Security Redress Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supporting_documents_upload
+      label: Supporting Documents Upload
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: travel_security_redress_note
+      label: Travel Security Redress Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: travel_agent_form_comments
+      label: Travel Agent Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_security_redress_status
+      label: Travel Security Redress Status
+      hint: null
+      type: select_one
+      options:
+      - Redress Status
+      - Redress In Progress
+      - Completed
+      required: false
+    - id: 21
+      name: travel_security_redress_comments
+      label: Travel Security Redress Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_security_redress_date
+      label: Travel Security Redress Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: travel_security_redress_time
+      label: Travel Security Redress Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: travel_security_redress_location
+      label: Travel Security Redress Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Support Animal Form
+    pages:
+    - id: 1
+      name: mental_disabled
+      label: mental_disability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 3
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_type_of_animal
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Bird
+      - Fish
+      - Reptile
+      - Other
+      - Ferret
+      - Hamster
+      required: false
+    - id: 5
+      name: therapist_name
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: therapist_title
+      label: therapist_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_start
+      label: date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_end
+      label: date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_pet
+      label: reason_for_pet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: name_signed
+      label: name_signed
+      hint: null
+      type: text
+      options: []
+      required: true

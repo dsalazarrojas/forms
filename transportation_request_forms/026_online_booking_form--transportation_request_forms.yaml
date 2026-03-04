@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_booking_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_selection
+      label: Pick up time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location_selection
+      label: Drop off location
+      hint: null
+      type: select_one
+      options:
+      - location1
+      - location2
+      - location3
+      required: false
+    - id: 4
+      name: vehicle_type
+      label: Vehicle type
+      hint: null
+      type: select_multiple
+      options:
+      - vehicle_type1
+      - vehicle_type2
+      - vehicle_type3
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: special_requests
+      label: Special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_documents
+      label: Travel documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agency
+      label: Travel agency
+      hint: null
+      type: select_one
+      options:
+      - travel_agency1
+      - travel_agency2
+      - travel_agency3
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - payment_method1
+      - payment_method2
+      - payment_method3
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: confirm_details
+      label: Confirm details
+      hint: null
+      type: text
+      options: []
+      required: true

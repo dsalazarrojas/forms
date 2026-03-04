@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Transit Service Quality Audit Form
+    pages:
+    - id: 1
+      name: route_based_evaluation
+      label: Route-Based Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: route_id
+      label: Route ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false

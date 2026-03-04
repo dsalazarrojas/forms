@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Rental Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: transport_type
+      label: Transport type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Car
+      - Train
+      - Bike
+      - Boat
+      required: true
+    - id: 7
+      name: trip_details
+      label: Trip details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned tool
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Transportation Request Forms
+      - Other
+      required: true
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: transport_rental_referral_form_transportation_request_forms
+      label: Transport rental referral form - Transportation request forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: assigned_tool_2
+      label: Assigned tool 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: category_2
+      label: Category 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: description_2
+      label: Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transport_rental_referral_form_transportation_request_forms_2
+      label: Transport rental referral form - Transportation request forms 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: assigned_tool_3
+      label: Assigned tool 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: category_3
+      label: Category 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: description_3
+      label: Description 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: transport_rental_referral_form_transportation_request_forms_3
+      label: Transport rental referral form - Transportation request forms 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: assigned_tool_4
+      label: Assigned tool 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: category_4
+      label: Category 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

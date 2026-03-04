@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart TV App Feedback Survey
+    pages:
+    - id: 1
+      name: feedback
+      label: How do you rate the overall experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: issues
+      label: What issues did you encounter during your session
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 3
+      name: suggestions
+      label: Do you have any suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

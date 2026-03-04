@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Needs Identification Evaluation Form
+    pages:
+    - id: 1
+      name: employee_training_needs_identification_evaluation_form
+      label: Employee Training Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_employees
+      label: Organization Employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: development_opportunities
+      label: Development Opportunities
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employee_training_needs_identification_evaluation_form_notes
+      label: Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false

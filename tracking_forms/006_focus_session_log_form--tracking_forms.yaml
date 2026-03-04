@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Session Log Form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_topic
+      label: session_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_start
+      label: Session Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: session_end
+      label: Session End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: focused_time
+      label: Focused Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: break_time
+      label: Break Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_session_time
+      label: Total Session Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: focus_session_frequency
+      label: Focus Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''daily''}'
+      - '{''option'': ''weekly''}'
+      - '{''option'': ''monthly''}'
+      - '{''option'': ''yearly''}'
+      required: false
+    - id: 10
+      name: focus_session_goal
+      label: Focus Session Goal
+      hint: null
+      type: text
+      options: []
+      required: false

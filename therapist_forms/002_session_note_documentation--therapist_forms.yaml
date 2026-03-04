@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: session_note_documentation
+    pages:
+    - id: 1
+      name: session_note
+      label: Session Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: followup_actions
+      label: Follow-up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: followup_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: followup_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shuttle Service Reservation Form
+    pages:
+    - id: 1
+      name: passenger_details
+      label: Passenger Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: select_multiple
+      options:
+      - Airport
+      - Bus Station
+      - Train Station
+      - Other
+      required: false
+    - id: 3
+      name: dropoff_location
+      label: Dropoff Location
+      hint: null
+      type: select_multiple
+      options:
+      - Airport
+      - Bus Station
+      - Train Station
+      - Other
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shuttle_type
+      label: Shuttle Type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Van
+      - Limo
+      - Other
+      required: false
+    - id: 7
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

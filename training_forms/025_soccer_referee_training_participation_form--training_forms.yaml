@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: soccer_referee_training_participation_form
+    pages:
+    - id: 1
+      name: referee_details
+      label: Referee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_courses
+      label: Training Courses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referees_training_participation_form_notes
+      label: Referees Training Participation Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false

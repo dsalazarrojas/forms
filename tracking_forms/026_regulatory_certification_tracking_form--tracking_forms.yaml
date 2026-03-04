@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: regulatory_certification_tracking_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 4
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: certification_details
+      label: Certification Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: tracking_id
+      label: Tracking ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tracking_url
+      label: Tracking URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 10
+      name: verification_notes
+      label: Verification Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_location
+      label: Team Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: certification_url
+      label: Certification URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: verification_email
+      label: Verification Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: verification_phone
+      label: Verification Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 23
+      name: status_update_date
+      label: Status Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: verification_method_other
+      label: Verification Method (Other)
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Jane
+      required: false

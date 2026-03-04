@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Writing Workshop Feedback
+    pages:
+    - id: 1
+      name: workshop_feedback
+      label: Report Writing Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workshop_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_rating
+      label: Overall Workshop Rating
+      hint: Scale 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: workshop_relevance
+      label: Relevance
+      hint: null
+      type: select_multiple
+      options:
+      - Relevant
+      - Not Relevant
+      - Not Applicable
+      required: false
+    - id: 6
+      name: workshop_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_performance
+      label: Trainer Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: workshop_value
+      label: Overall Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workshop_would_recommend
+      label: Would you recommend this workshop?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

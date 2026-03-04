@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ballot Box Security Log
+    pages:
+      - id: 1
+        name: location_info_header
+        label: -- Location and Equipment Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: polling_location
+        label: Polling Location Name
+        hint: Enter the name or ID of the polling station
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: ballot_box_id
+        label: Ballot Box ID Number
+        hint: Unique identifier on the physical box
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: check_type
+        label: Type of Security Check
+        hint: Select the purpose of this log entry
+        type: select_one
+        options:
+          - Opening Check
+          - Mid-Day Inspection
+          - Shift Change
+          - Closing Check
+          - Transportation Pickup
+        required: true
+      - id: 5
+        name: security_seal_header
+        label: -- Seal Verification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: seal_number_primary
+        label: Primary Seal Number
+        hint: Record the number on the main security seal
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: seal_number_secondary
+        label: Secondary Seal Number
+        hint: Record the number on the secondary seal (if applicable)
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: seal_integrity
+        label: Is the seal intact and untampered?
+        hint: Inspect for signs of cutting, glue, or manipulation
+        type: select_one
+        options:
+          - Yes - Seal is intact
+          - No - Potential tampering detected
+        required: true
+      - id: 9
+        name: custody_header
+        label: -- Chain of Custody --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: officer_1_name
+        label: Election Officer 1 Name
+        hint: First official witnessing the check
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: officer_2_name
+        label: Election Officer 2 Name
+        hint: Second official witnessing the check (required for dual custody)
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: timestamp
+        label: Date and Time of Inspection
+        hint: Use current time
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: check_date
+        label: Inspection Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: check_time
+        label: Inspection Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 15
+        name: incident_header
+        label: -- Incident Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: incident_reported
+        label: Were any security incidents or discrepancies observed?
+        hint: null
+        type: select_one
+        options:
+          - No incidents
+          - Minor discrepancy (e.g., loose hinge)
+          - Major incident (e.g., broken seal)
+        required: true
+      - id: 17
+        name: incident_details
+        label: Detailed Incident Description
+        hint: If an incident occurred, describe it in detail here
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee End Of Day Report
+    pages:
+    - id: 1
+      name: work_hours_spent
+      label: Work Hours Spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: work_location
+      label: work location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: work_end_time
+      label: Work End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: work_breaks
+      label: Work Breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_breaks_minutes
+      label: Work Breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_break_time
+      label: Total Break Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tasks_completed
+      label: Tasks Completed
+      hint: Select all completed tasks
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: task_1
+      label: Task 1
+      hint: List completed tasks
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: task_2
+      label: Task 2
+      hint: List completed tasks
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: task_3
+      label: Task 3
+      hint: List completed tasks
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: submitter_1
+      label: Submitter 1
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitter_2
+      label: Submitter 2
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitter_3
+      label: Submitter 3
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: submitter_4
+      label: Submitter 4
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submitter_5
+      label: Submitter 5
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: submitter_6
+      label: Submitter 6
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: submitter_7
+      label: Submitter 7
+      hint: Select a submitter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

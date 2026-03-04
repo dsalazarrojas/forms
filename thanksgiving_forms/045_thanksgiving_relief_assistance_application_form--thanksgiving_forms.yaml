@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Relief Assistance Application Form
+    pages:
+    - id: 1
+      name: thanksgiving_relief_assistance_form
+      label: Thanksgiving Relief
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_name
+      label: Family Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Please include country code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_reason
+      label: Why are you requesting relief?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: available_funds
+      label: Available Funds
+      hint: How much money do you have available for food?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: financial_support
+      label: Financial Support
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 8
+      name: food_items
+      label: Select food items
+      hint: null
+      type: select_multiple
+      options:
+      - Turkey
+      - Stuffing
+      - Mashed potatoes
+      - Gravy
+      - Pumpkin pie
+      required: false
+    - id: 9
+      name: special_occasions
+      label: Special occasions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_occasions_time
+      label: Special occasion time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: relief_status
+      label: Relief Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false

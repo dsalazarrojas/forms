@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: knowledge_assessment_on_erp_and_itil
+    pages:
+    - id: 1
+      name: technology_surveys
+      label: technology_surveys
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: erp_systems
+      label: erp_systems
+      hint: null
+      type: select_one
+      options:
+      - 1. SAP
+      - 2. Oracle
+      - 3. MS Dynamics
+      - 4. SAP (other)
+      required: true
+    - id: 3
+      name: itil
+      label: itil
+      hint: null
+      type: select_multiple
+      options:
+      - 1. ITIL v3
+      - 2. ITIL v4
+      - 3. ITIL v5
+      - 4. Other (please specify)
+      required: true
+    - id: 4
+      name: knowledge_level
+      label: knowledge_level
+      hint: null
+      type: select_one
+      options:
+      - 1. Beginner
+      - 2. Intermediate
+      - 3. Advanced
+      - 4. Expert
+      required: true
+    - id: 5
+      name: erp_system_used
+      label: erp_system_used
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Yes
+      - 2. No
+      required: true
+    - id: 6
+      name: itil_used
+      label: itil_used
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Yes
+      - 2. No
+      required: true
+    - id: 7
+      name: knowledge_areas
+      label: knowledge_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Business Processes
+      - 2. IT Processes
+      - 3. Other (please specify)
+      required: true
+    - id: 8
+      name: erp_system_training_hours
+      label: erp_system_training_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: itil_training_hours
+      label: itil_training_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_company
+      label: submitter_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_job_title
+      label: submitter_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_job_function
+      label: submitter_job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_team
+      label: submitter_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: text
+      options: []
+      required: false

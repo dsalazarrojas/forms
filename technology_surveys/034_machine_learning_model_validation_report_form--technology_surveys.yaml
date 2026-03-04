@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Learning Model Validation Report Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: model_info
+      label: Model Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ml_evaluation
+      label: ML Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_info
+      label: Evaluation Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_metrics
+      label: Performance Metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: true
+    - id: 7
+      name: evaluation_outcome
+      label: Evaluation Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: model_name
+      label: Model Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: model_type
+      label: Model Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: model_version
+      label: Model Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: model_description
+      label: Model Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: model_evaluations
+      label: Model Evaluations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: true
+    - id: 17
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_timezone
+      label: Evaluation Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submission_timezone
+      label: Submission Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_useragent
+      label: Submission Useragent
+      hint: null
+      type: text
+      options: []
+      required: false

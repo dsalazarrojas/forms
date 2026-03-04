@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: therapist_name
+      label: Therapist Name
+      hint: Your assigned therapist
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: therapy_type
+      label: Type of Therapy
+      hint: Services you will receive
+      type: select_one
+      options:
+      - Individual Therapy
+      - Couples Therapy
+      - Family Therapy
+      - Group Therapy
+      - Child Therapy
+      - Adolescent Therapy
+      - Other
+      required: true
+    - id: 12
+      name: therapy_goals
+      label: Primary Therapy Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_therapy
+      label: Have You Had Therapy Before?
+      hint: Previous experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Any conditions affecting treatment
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_history
+      label: Mental Health History
+      hint: Previous diagnoses or treatments
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consent_to_treatment
+      label: I Consent to Receive Therapy Services
+      hint: Treatment authorization
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 18
+      name: confidentiality_understanding
+      label: I Understand Confidentiality Policies
+      hint: Privacy rights explained
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 19
+      name: confidentiality_limits
+      label: I Understand Limits of Confidentiality
+      hint: Mandatory reporting situations
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 20
+      name: session_recording
+      label: Consent to Session Recording
+      hint: For supervision purposes only
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related to you?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: cancellation_policy
+      label: I Understand the Cancellation Policy
+      hint: 24-hour notice required
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 25
+      name: payment_responsibility
+      label: I Understand My Payment Responsibilities
+      hint: Financial obligations
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 26
+      name: consent_date
+      label: Consent Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: witness_signature
+      label: Witness Signature (Optional)
+      hint: If applicable
+      type: text
+      options: []
+      required: false

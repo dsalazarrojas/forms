@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smartphone Consumer Behavior Quiz
+    pages:
+    - id: 1
+      name: form_data
+      label: Collect smartphone preference insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''male''}'
+      - '{''id'': 2, ''name'': ''female''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 4
+      name: phone_usage
+      label: How often do you use your phone?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Several times a week''}'
+      - '{''id'': 3, ''name'': ''Rarely''}'
+      - '{''id'': 4, ''name'': ''Never''}'
+      required: false
+    - id: 5
+      name: screen_size
+      label: What size screen do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large''}'
+      - '{''id'': 4, ''name'': ''Extra Large''}'
+      required: false
+    - id: 6
+      name: phone_os
+      label: What operating system do you use on your phone?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''name'': ''iOS''}'
+      - '{''id'': 8, ''name'': ''Android''}'
+      - '{''id'': 9, ''name'': ''other''}'
+      required: false
+    - id: 7
+      name: social_media
+      label: How do you prefer to use social media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''Facebook''}'
+      - '{''id'': 12, ''name'': ''Twitter''}'
+      - '{''id'': 13, ''name'': ''Instagram''}'
+      - '{''id'': 14, ''name'': ''Other''}'
+      required: false
+    - id: 8
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: device_usage
+      label: How often do you use a smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 19, ''name'': ''Always''}'
+      - '{''id'': 20, ''name'': ''Often''}'
+      - '{''id'': 21, ''name'': ''Sometimes''}'
+      - '{''id'': 22, ''name'': ''Rarely''}'
+      required: false
+    - id: 12
+      name: battery_life
+      label: What percentage of battery do you use daily?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 24, ''name'': ''0-10''}'
+      - '{''id'': 25, ''name'': ''10-20''}'
+      - '{''id'': 26, ''name'': ''20-50''}'
+      - '{''id'': 27, ''name'': ''More than 50''}'
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_phone_number
+      label: Confirm your phone number
+      hint: null
+      type: text
+      options: []
+      required: false

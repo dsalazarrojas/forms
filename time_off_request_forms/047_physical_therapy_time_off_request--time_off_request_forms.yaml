@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Time Off Request
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_off_reason
+      label: Time Off Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: time_off_request_type
+      label: Time Off Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Leave
+      - Vacation
+      - Sick
+      required: true
+    - id: 6
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: reason_for_denial
+      label: Reason for Denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time_off_request
+      label: Time Off Request
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 14
+      name: recurrence_start
+      label: Recurrence Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: recurrence_end
+      label: Recurrence End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

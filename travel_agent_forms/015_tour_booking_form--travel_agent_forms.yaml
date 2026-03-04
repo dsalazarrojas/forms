@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Booking Form
+    pages:
+    - id: 1
+      name: tour_booking_form
+      label: Tour Booking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_multiple
+      options:
+      - kayaking
+      - hiking
+      - cycling
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: activity_name
+      label: Activity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: activity_description
+      label: Activity Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_one
+      options:
+      - kayaking
+      - hiking
+      - cycling
+      required: false
+    - id: 11
+      name: num_guests
+      label: Number of Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tour_cost
+      label: Tour Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - unpaid
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - credit card
+      - bank transfer
+      - paypal
+      required: false
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

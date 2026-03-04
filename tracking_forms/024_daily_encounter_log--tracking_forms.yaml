@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: daily_encounter_log
+    pages:
+    - id: 1
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location_of_visit
+      label: Location of Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_encounter_type
+      label: Client Encounter Type
+      hint: null
+      type: select_one
+      options:
+      - Emergency Call
+      - Home Visit
+      - Hospital Visit
+      - Office Visit
+      - Other
+      required: false
+    - id: 6
+      name: encounter_notes
+      label: Encounter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_one
+      options:
+      - No Follow-up Required
+      - Schedule Follow-up
+      - Send Reminder
+      - Refer to Specialist
+      - Other
+      required: false

@@ -1,0 +1,147 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Supplies Preparation Check Form
+    pages:
+      - id: 1
+        name: supplies_check_camper_header
+        label: -- Camper Gear Preparation Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: check_camper_name
+        label: Camper Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: check_group_cabin
+        label: Assigned Group - Cabin
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: checking_staff_member
+        label: Staff Member Conducting Check
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: essential_gear_section
+        label: -- Essential Gear Checklist --
+        hint: Check each item as it is verified
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: check_sleeping_bag_bedding
+        label: Sleeping Bag and Pillow
+        hint: Appropriate for current season
+        type: select_one
+        options:
+          - Yes - Present
+          - No - Missing
+          - Needs Replacement
+        required: true
+      - id: 7
+        name: check_water_bottle_reusable
+        label: Reusable Water Bottle
+        hint: Min 24oz recommended
+        type: select_one
+        options:
+          - Yes - Present
+          - No - Missing
+        required: true
+      - id: 8
+        name: check_proper_footwear
+        label: Proper Footwear (Hiking - Athletic)
+        hint: No open-toed shoes for activities
+        type: select_one
+        options:
+          - Yes - Proper
+          - No - Improper
+        required: true
+      - id: 9
+        name: check_sunscreen_bug_spray
+        label: Sunscreen and Bug Spray
+        hint: Labeled with name
+        type: select_one
+        options:
+          - Yes - Present
+          - No - Missing
+        required: true
+      - id: 10
+        name: check_personal_hygiene_kit
+        label: Personal Hygiene Kit
+        hint: Toothbrush, toothpaste, soap, towel
+        type: select_one
+        options:
+          - Yes - Complete
+          - No - Incomplete
+        required: true
+      - id: 11
+        name: check_clothing_weather
+        label: Weather-Appropriate Clothing
+        hint: Includes rain gear and warm layers
+        type: select_one
+        options:
+          - Yes - Sufficient
+          - No - Lacking layers
+        required: true
+      - id: 12
+        name: check_medications_labeled
+        label: Labeled Medications (If any)
+        hint: Must be in original pharmacy container
+        type: select_one
+        options:
+          - Yes - Labeled and Logged
+          - No - Missing - Not labeled
+          - N/A
+        required: true
+      - id: 13
+        name: check_gear_status_overall
+        label: Overall Preparation Status
+        hint: null
+        type: select_one
+        options:
+          - Fully Prepared
+          - Partially Prepared (Needs follow-up)
+          - Not Prepared
+        required: true
+      - id: 14
+        name: supplies_missing_items_list
+        label: List of Missing or Needed Items
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: counselor_sign_off_check
+        label: Counselor Sign-off (Typed Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: date_of_supplies_check
+        label: Date Checked
+        hint: null
+        type: date
+        options: []
+        required: true

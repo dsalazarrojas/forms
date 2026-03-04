@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESG Consulting Awareness Survey
+    pages:
+    - id: 1
+      name: esg_consulting_survey_form
+      label: esg_survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: esg_topics_addressed
+      label: esg_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: esg_challenges
+      label: esg_challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: esg_familiarity
+      label: esg_familiarity_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: esg_topics_sustainability
+      label: esg_sustainability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: esg_topics_environment
+      label: esg_environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: esg_topics_financial
+      label: esg_financial
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: esg_topics_governance
+      label: esg_governance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: esg_topics_intangibles
+      label: esg_intangibles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: esg_topics_social
+      label: esg_social
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: esg_topics_other
+      label: esg_other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: esg_survey_comments
+      label: esg_survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: esg_survey_recommendations
+      label: esg_survey_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

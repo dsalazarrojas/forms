@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meat Inventory Management Form
+    pages:
+    - id: 1
+      name: meat_stock
+      label: Meat Stock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: supplier
+      label: Suppliers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Supplier 1''}'
+      - '{''id'': 2, ''label'': ''Supplier 2''}'
+      - '{''id'': 3, ''label'': ''Supplier 3''}'
+      required: false
+    - id: 3
+      name: expiration_dates
+      label: Expiration Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

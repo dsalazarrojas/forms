@@ -1,0 +1,493 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case History Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Case History Form
+      hint: Comprehensive patient history documentation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient DOB
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Current Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Transgender male
+      - Transgender female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: interview_date
+      label: Interview Date
+      hint: Date of history intake
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: demographic_info
+      label: Demographic Information
+      hint: Background details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Separated
+      - Widowed
+      - Domestic partnership
+      required: true
+    - id: 10
+      name: education_level
+      label: Highest Education Level
+      hint: Completed education
+      type: select_one
+      options:
+      - Less than high school
+      - High school diploma
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate or professional
+      required: true
+    - id: 11
+      name: occupation
+      label: Current Occupation
+      hint: Job title
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: Employment Status
+      hint: Work situation
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 13
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Primary reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: present_illness
+      label: History of Present Illness
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: symptom_onset
+      label: When Did Symptoms Begin
+      hint: Onset timing
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 to 4 weeks
+      - 1 to 6 months
+      - 6 months to 1 year
+      - Over 1 year
+      - Since childhood
+      required: true
+    - id: 16
+      name: symptom_severity
+      label: Current Symptom Severity
+      hint: Impact level
+      type: select_one
+      options:
+      - Mild - minimal impact
+      - Moderate - some impact
+      - Severe - significant impact
+      - Extreme - unable to function
+      required: true
+    - id: 17
+      name: past_psychiatric
+      label: Past Psychiatric History
+      hint: Previous mental health care
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: previous_therapy
+      label: Have You Had Therapy Before
+      hint: Prior treatment
+      type: select_one
+      options:
+      - Yes - currently in therapy
+      - Yes - in the past
+      - No - first time
+      required: true
+    - id: 19
+      name: previous_diagnoses
+      label: Previous Mental Health Diagnoses
+      hint: If any
+      type: select_multiple
+      options:
+      - None
+      - Depression
+      - Anxiety disorder
+      - Bipolar disorder
+      - PTSD
+      - OCD
+      - ADHD
+      - Personality disorder
+      - Eating disorder
+      - Substance use disorder
+      - Other
+      required: false
+    - id: 20
+      name: previous_hospitalizations
+      label: Previous Psychiatric Hospitalizations
+      hint: Inpatient treatment
+      type: select_one
+      options:
+      - None
+      - Once
+      - 2 to 3 times
+      - 4 or more times
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Psychiatric Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: past_medical
+      label: Past Medical History
+      hint: General health conditions
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Hypertension
+      - Diabetes
+      - Heart disease
+      - Thyroid disorder
+      - Chronic pain
+      - Neurological condition
+      - Autoimmune disorder
+      - Cancer
+      - Other
+      required: true
+    - id: 24
+      name: current_medications_medical
+      label: Current Medical Medications
+      hint: List all prescriptions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: allergies
+      label: Allergies
+      hint: Medication or other allergies
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: family_history
+      label: Family Psychiatric History
+      hint: Mental health in family
+      type: select_multiple
+      options:
+      - None known
+      - Depression
+      - Anxiety
+      - Bipolar disorder
+      - Schizophrenia
+      - Substance abuse
+      - Suicide
+      - Other
+      required: true
+    - id: 27
+      name: social_history
+      label: Social History
+      hint: Lifestyle factors
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: tobacco_use
+      label: Tobacco Use
+      hint: Smoking status
+      type: select_one
+      options:
+      - Never
+      - Former smoker
+      - Current - occasional
+      - Current - daily
+      required: true
+    - id: 29
+      name: alcohol_use
+      label: Alcohol Use
+      hint: Drinking patterns
+      type: select_one
+      options:
+      - Never
+      - Former drinker
+      - Occasional - 1-2 per week
+      - Moderate - 3-7 per week
+      - Heavy - daily
+      required: true
+    - id: 30
+      name: drug_use
+      label: Recreational Drug Use
+      hint: Substance use
+      type: select_one
+      options:
+      - Never
+      - Past use only
+      - Occasional current use
+      - Regular current use
+      required: true
+    - id: 31
+      name: support_system
+      label: Support System
+      hint: Social support
+      type: select_one
+      options:
+      - Strong support
+      - Moderate support
+      - Limited support
+      - No support
+      required: true
+    - id: 32
+      name: living_situation
+      label: Living Situation
+      hint: Current housing
+      type: select_one
+      options:
+      - Lives alone
+      - Lives with spouse or partner
+      - Lives with family
+      - Lives with roommates
+      - Temporary housing
+      - Homeless
+      required: true
+    - id: 33
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Safety evaluation
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: suicidal_ideation
+      label: Current Suicidal Thoughts
+      hint: Safety question
+      type: select_one
+      options:
+      - false
+      - Passive thoughts
+      - Active thoughts without plan
+      - Active thoughts with plan
+      required: true
+    - id: 35
+      name: homicidal_ideation
+      label: Current Homicidal Thoughts
+      hint: Safety question
+      type: select_one
+      options:
+      - false
+      - Yes - passive
+      - Yes - active
+      required: true
+    - id: 36
+      name: self_harm
+      label: History of Self-Harm
+      hint: Self-injurious behavior
+      type: select_one
+      options:
+      - None
+      - Past only
+      - Recent - within month
+      - Current
+      required: true
+    - id: 37
+      name: trauma_history
+      label: History of Trauma
+      hint: Traumatic experiences
+      type: select_one
+      options:
+      - None reported
+      - Past trauma - resolved
+      - Past trauma - ongoing impact
+      - Recent trauma
+      - Ongoing trauma
+      required: true
+    - id: 38
+      name: mental_status
+      label: Mental Status Examination
+      hint: Clinical observations
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: appearance
+      label: Appearance
+      hint: Physical presentation
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: behavior
+      label: Behavior
+      hint: Observed behavior
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: speech
+      label: Speech
+      hint: Speech characteristics
+      type: select_one
+      options:
+      - Normal
+      - Rapid or pressured
+      - Slow or slurred
+      - Soft or quiet
+      - Loud or aggressive
+      required: true
+    - id: 42
+      name: mood
+      label: Mood
+      hint: Patient reported mood
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: affect
+      label: Affect
+      hint: Observed emotional state
+      type: select_one
+      options:
+      - Normal or congruent
+      - Blunted
+      - Flat
+      - Labile
+      - Anxious
+      - Depressed
+      - Euphoric
+      required: true
+    - id: 44
+      name: thought_process
+      label: Thought Process
+      hint: Thinking patterns
+      type: select_one
+      options:
+      - Normal and logical
+      - Circumstantial
+      - Tangential
+      - Disorganized
+      - Flight of ideas
+      required: true
+    - id: 45
+      name: insight
+      label: Insight
+      hint: Self-awareness
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Absent
+      required: true
+    - id: 46
+      name: judgment
+      label: Judgment
+      hint: Decision-making ability
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Impaired
+      required: true
+    - id: 47
+      name: diagnosis
+      label: Preliminary Diagnosis
+      hint: Clinical impression
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: treatment_plan
+      label: Initial Treatment Plan
+      hint: Recommended interventions
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: therapist_name
+      label: Therapist Name
+      hint: Clinician name
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: therapist_signature_date
+      label: Therapist Signature Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true

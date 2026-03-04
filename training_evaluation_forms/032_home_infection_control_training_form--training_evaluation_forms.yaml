@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Infection Control Training Form
+    pages:
+    - id: 1
+      name: home_infection_control_training_form
+      label: Training Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_type
+      label: Training Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Infection Control
+      - Infection Prevention and Control
+      - Infection Prevention and Control 2
+      - Infection Prevention and Control 3
+      required: true
+    - id: 8
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: educator_name
+      label: Educator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: educator_role
+      label: Educator Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education_type
+      label: Education Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Completed Partially
+      - No Show
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

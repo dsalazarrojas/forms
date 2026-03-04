@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Device Tracking Consent Form
+    pages:
+    - id: 1
+      name: main_form
+      label: Maintenance Device Tracking Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: false
+    - id: 3
+      name: tracking_frequency
+      label: Tracking Frequency
+      hint: How often would you like to be tracked?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tracking_frequency_unit
+      label: Tracking Frequency Unit
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 5
+      name: tracking_device
+      label: Tracking Device
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Tablet
+      - Laptop
+      required: false
+    - id: 6
+      name: tracking_method
+      label: Tracking Method
+      hint: null
+      type: select_one
+      options:
+      - GPS
+      - Bluetooth
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Ownership Declaration Form
+    pages:
+    - id: 1
+      name: owner_full_name
+      label: Full Name of Boat Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: owner_identification_number
+      label: Driver License or ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Residential Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city_state_zip
+      label: City - State - Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: boat_name
+      label: Boat Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: boat_hull_number
+      label: Hull Number
+      hint: Unique identification number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: boat_registration_number
+      label: Registration Number
+      hint: Government registration number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: boat_manufacturer
+      label: Boat Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: boat_model
+      label: Boat Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: boat_year
+      label: Year of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: boat_length
+      label: Boat Length in Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: boat_type
+      label: Type of Boat
+      hint: null
+      type: select_one
+      options:
+      - Sailboat
+      - Motorboat
+      - Yacht
+      - Cabin Cruiser
+      - Speedboat
+      - Fishing Boat
+      - Houseboat
+      - Jet Ski
+      - Other
+      required: true
+    - id: 16
+      name: primary_moorage_location
+      label: Primary Moorage or Dock Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: ownership_percentage
+      label: Ownership Percentage
+      hint: If joint ownership
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: joint_owner_name
+      label: Joint Owner Name if Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mortgage_status
+      label: Is the boat mortgaged
+      hint: null
+      type: select_one
+      options:
+      - Yes, Mortgaged
+      - No, Owned Outright
+      - Lease Agreement
+      required: true
+    - id: 20
+      name: lien_holder_name
+      label: Lien Holder Name if Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_carrier
+      label: Insurance Carrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ownership_commencement_date
+      label: Date Ownership Commenced
+      hint: When did you acquire the boat
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: declaration_statement
+      label: Declaration Statement
+      hint: I declare this information to be true and accurate
+      type: select_one
+      options:
+      - I Declare This is True
+      - I Do Not Declare
+      required: true

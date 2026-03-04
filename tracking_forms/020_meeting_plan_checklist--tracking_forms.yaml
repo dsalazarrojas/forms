@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Plan Checklist
+    pages:
+    - id: 1
+      name: meeting_plan_checklist_form
+      label: Meeting Plan Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: meeting_plan_checklist_form_pre_meeting
+      label: Pre Meeting
+      hint: null
+      type: select_one
+      options:
+      - Meeting Notes
+      - Meeting Minutes
+      - Agenda Item 1
+      - Agenda Item 2
+      required: true
+    - id: 3
+      name: meeting_plan_checklist_form_pre_meeting_checklist
+      label: Pre Meeting Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Check 1
+      - Check 2
+      - Check 3
+      required: false
+    - id: 4
+      name: meeting_plan_checklist_form_meeting
+      label: Meeting
+      hint: null
+      type: select_one
+      options:
+      - Meeting 1
+      - Meeting 2
+      - Meeting 3
+      required: false
+    - id: 5
+      name: meeting_plan_checklist_form_meeting_checklist
+      label: Meeting Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Checklist 1
+      - Checklist 2
+      - Checklist 3
+      required: false
+    - id: 6
+      name: meeting_plan_checklist_form_post_meeting
+      label: Post Meeting
+      hint: null
+      type: select_one
+      options:
+      - Post Meeting 1
+      - Post Meeting 2
+      - Post Meeting 3
+      required: false
+    - id: 7
+      name: meeting_plan_checklist_form_post_meeting_checklist
+      label: Post Meeting Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Checklist 1
+      - Checklist 2
+      - Checklist 3
+      required: false
+    - id: 8
+      name: meeting_plan_checklist_form_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microfinance Awareness Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_type
+      label: Type of Institution
+      hint: null
+      type: select_one
+      options:
+      - Banks
+      - Microfinance Institutions
+      - NGOs
+      - Other
+      required: false
+    - id: 3
+      name: services
+      label: What microfinance services do you offer?
+      hint: null
+      type: select_multiple
+      options:
+      - Savings Accounts
+      - Loans
+      - Payment Services
+      - Insurance
+      - Microinsurance
+      - Mobile Money
+      - Payment Gateway
+      required: true
+    - id: 4
+      name: knowledge_score
+      label: How familiar are you with microfinance services?
+      hint: null
+      type: select_one
+      options:
+      - Very Familiar
+      - Somewhat Familiar
+      - Not Familiar
+      required: true
+    - id: 5
+      name: interest_score
+      label: How interested are you in microfinance services?
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: true
+    - id: 6
+      name: contact_method
+      label: How do you usually contact microfinance services?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Mobile Phone
+      - Bank Branch
+      - ATM
+      - Other
+      required: true
+    - id: 7
+      name: institution_name
+      label: Name of institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

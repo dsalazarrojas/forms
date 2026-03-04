@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Core Competencies Training Feedback Survey
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''workshop''}'
+      - '{''value'': ''class''}'
+      - '{''value'': ''webinar''}'
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_facilitator
+      label: Session Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: false
+    - id: 9
+      name: session_improvement_areas
+      label: Session Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''presentation''}'
+      - '{''value'': ''facilitation''}'
+      - '{''value'': ''pace''}'
+      - '{''value'': ''content''}'
+      - '{''value'': ''materials''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 10
+      name: session_suggestions
+      label: Session Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false

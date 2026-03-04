@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Basket Raffle Ticket Purchase
+    pages:
+    - id: 1
+      name: gift_basket_raffle_ticket_purchase
+      label: Purchase Gift Basket Raffle Ticket
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gift_basket_value
+      label: Gift Basket Value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: gift_basket_raffle_ticket_purchase_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: gift_basket_raffle_ticket_purchaser_name
+      label: Ticket Purchaser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: gift_basket_raffle_ticket_purchaser_email
+      label: Ticket Purchaser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: gift_basket_raffle_ticket_purchaser_phone
+      label: Ticket Purchaser Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gift_basket_raffle_ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: ticket_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: ticket_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: ticket_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: ticket_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: raffle_raffle_ticket_id
+      label: Raffle Raffle Ticket ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: raffle_raffle_ticket_price
+      label: Raffle Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: gift_basket_raffle_ticket_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: gift_basket_raffle_ticket_value
+      label: Gift Basket Raffle Ticket Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: raffle_raffle_ticket
+      label: Raffle Raffle Ticket
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

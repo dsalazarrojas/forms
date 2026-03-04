@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Institution Training Needs Survey
+    pages:
+    - id: 1
+      name: staff_input_form_1
+      label: Educational_ Institution_Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: educational_institution
+      label: Educational_Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_needs_priority
+      label: Training_Needs_Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: priority_scale_1
+      label: Priority_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: priority_scale_2
+      label: Priority_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

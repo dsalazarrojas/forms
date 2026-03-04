@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Resource Usage Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: digital_resource_usage_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_library_usage
+      label: school_library_usage
+      hint: null
+      type: select_one
+      options:
+      - 1. School Website
+      - 2. Library Website
+      - 3. Both
+      - 4. Other
+      - 5. None
+      required: false
+    - id: 4
+      name: training_program_usage
+      label: training_program_usage
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Online Courses
+      - 2. In-person Courses
+      - 3. Online tutorials
+      - 4. In-person tutorials
+      - 5. Both
+      - 6. Other
+      - 7. None
+      required: false
+    - id: 5
+      name: technology_usage
+      label: how_do_you_usually_access
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Laptop
+      - Tablet
+      - Other
+      - None
+      required: false
+    - id: 6
+      name: digital_resource_access
+      label: access_to_resources
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: resource_quality
+      label: how_satisfied_with_resources
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 8
+      name: resource_improvement
+      label: areas_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

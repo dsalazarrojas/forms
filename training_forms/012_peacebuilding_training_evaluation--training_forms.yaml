@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peacebuilding Training Evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_experience
+      label: Training Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: training_objectives
+      label: Training Objectives
+      hint: Which of the following objectives did the training address?
+      type: select_one
+      options:
+      - Improve communication
+      - Improve team building
+      - Improve decision-making
+      - Improve problem-solving
+      required: false
+    - id: 4
+      name: training_outcomes
+      label: Training Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Improved communication
+      - Better collaboration
+      - Increased productivity
+      - Improved problem-solving
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: What did you think about the overall quality of the training?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

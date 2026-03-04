@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Group Transport Inquiry Form
+    pages:
+    - id: 1
+      name: travel_agent_id
+      label: travel_agent_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: group_name
+      label: group_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: transport_type
+      label: transport_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: group_size
+      label: group_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: group_details
+      label: group_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: travel_agent_comments
+      label: travel_agent_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_comments
+      label: group_comments
+      hint: null
+      type: text
+      options: []
+      required: true

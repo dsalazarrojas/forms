@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Pressure Log Form
+    pages:
+    - id: 1
+      name: log_header
+      label: Blood Pressure Log Form
+      hint: Track your blood pressure readings over time
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: log_start_date
+      label: Log Start Date
+      hint: When did you start tracking
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reading_1_date
+      label: Reading 1 Date
+      hint: Date of first reading
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reading_1_time
+      label: Reading 1 Time
+      hint: Time of reading
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reading_1_systolic
+      label: Reading 1 Systolic
+      hint: Top number
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reading_1_diastolic
+      label: Reading 1 Diastolic
+      hint: Bottom number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reading_1_pulse
+      label: Reading 1 Pulse
+      hint: Heart rate
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reading_1_notes
+      label: Reading 1 Notes
+      hint: Any symptoms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reading_2_date
+      label: Reading 2 Date
+      hint: Date of second reading
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reading_2_time
+      label: Reading 2 Time
+      hint: Time of reading
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: reading_2_systolic
+      label: Reading 2 Systolic
+      hint: Top number
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: reading_2_diastolic
+      label: Reading 2 Diastolic
+      hint: Bottom number
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: reading_2_pulse
+      label: Reading 2 Pulse
+      hint: Heart rate
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: reading_2_notes
+      label: Reading 2 Notes
+      hint: Any symptoms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reading_3_date
+      label: Reading 3 Date
+      hint: Date of third reading
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: reading_3_time
+      label: Reading 3 Time
+      hint: Time of reading
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: reading_3_systolic
+      label: Reading 3 Systolic
+      hint: Top number
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: reading_3_diastolic
+      label: Reading 3 Diastolic
+      hint: Bottom number
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: reading_3_pulse
+      label: Reading 3 Pulse
+      hint: Heart rate
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: reading_3_notes
+      label: Reading 3 Notes
+      hint: Any symptoms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medication_compliance
+      label: Medication Compliance
+      hint: Are you taking medications as prescribed
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Not Applicable
+      required: false
+    - id: 24
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Diet exercise stress levels
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_review_date
+      label: Next Doctor Review
+      hint: When to discuss with doctor
+      type: date
+      options: []
+      required: false

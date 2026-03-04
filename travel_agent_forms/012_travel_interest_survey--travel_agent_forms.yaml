@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Interest Survey
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_interests
+      label: Travel Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Adventure
+      - Culture
+      - Food and Drink
+      - Nature
+      - Relaxation
+      - Sports
+      - Urban
+      - Other
+      required: false
+    - id: 3
+      name: years_of_travel_experience
+      label: Years of Travel Experience
+      hint: If you have not traveled, please enter 0.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: previous_travel_locations
+      label: Previous Travel Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Africa
+      - Asia
+      - Caribbean
+      - Europe
+      - North America
+      - South America
+      - Other
+      required: false
+    - id: 5
+      name: previous_travel_dates
+      label: Previous Travel Dates
+      hint: Select the dates you've been on a trip.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_spent_traveling
+      label: Time Spent Traveling
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 days
+      - 2-4 days
+      - 5-7 days
+      - More than 7 days
+      - More than 2 weeks
+      required: false
+    - id: 7
+      name: average_cost_of_trip
+      label: Average Cost of a Trip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: average_length_of_trip
+      label: Average Length of Trip
+      hint: Enter the length of your average trip.
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: most_popular_trip_type
+      label: Most Popular Trip Type
+      hint: null
+      type: select_one
+      options:
+      - Adventure
+      - Culture
+      - Food and Drink
+      - Nature
+      - Relaxation
+      - Urban
+      - Other
+      required: false
+    - id: 10
+      name: most_popular_destination
+      label: Most Popular Destination
+      hint: null
+      type: select_one
+      options:
+      - Africa
+      - Asia
+      - Caribbean
+      - Europe
+      - North America
+      - South America
+      - Other
+      required: false
+    - id: 11
+      name: least_popular_destination
+      label: Least Popular Destination
+      hint: null
+      type: select_one
+      options:
+      - Africa
+      - Asia
+      - Caribbean
+      - Europe
+      - North America
+      - South America
+      - Other
+      required: false
+    - id: 12
+      name: why_dont_travel
+      label: Why Don't Travel
+      hint: null
+      type: select_multiple
+      options:
+      - Budget
+      - Health
+      - Lack of Time
+      - Other
+      - Schedule
+      - Safety
+      - Work
+      required: false
+    - id: 13
+      name: preferred_mode_of_transportation
+      label: Preferred Mode of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Airplane
+      - Bus
+      - Car
+      - Train
+      - Other
+      required: false
+    - id: 14
+      name: most_recent_trip
+      label: Most Recent Trip
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: most_recent_trip_location
+      label: Most Recent Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: most_recent_trip_type
+      label: Most Recent Trip Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: have_travelled_abroad
+      label: Have Travelled Abroad
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: average_cost_per_trip
+      label: Average Cost per Trip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: average_length_of_trip_hours
+      label: Average Length of Trip Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_number_of_trips
+      label: Total Number of Trips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_number_of_days_spent_traveling
+      label: Total Number of Days Spent Traveling
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Monthly
+      - Rarely
+      - Weekly
+      - Yearly
+      required: false
+    - id: 23
+      name: average_cost_of_travelling
+      label: Average Cost of Traveling
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: average_cost_of_food_and_drink
+      label: Average Cost of Food and Drink
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: average_cost_of_accommodation
+      label: Average Cost of Accommodation
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: telehealth_nexus_letter_request_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_info
+      label: Appointment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: telehealth_services
+      label: Telehealth Services
+      hint: null
+      type: select_multiple
+      options:
+      - Telehealth Visit
+      - Remote Consultation
+      - Virtual Visit
+      required: false
+    - id: 5
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_medical_history_details
+      label: Patient Medical History Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: healthcare_provider_info
+      label: Healthcare Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

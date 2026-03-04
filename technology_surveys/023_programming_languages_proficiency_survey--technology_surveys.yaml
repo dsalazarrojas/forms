@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: programming_languages_proficiency_survey
+    pages:
+    - id: 1
+      name: survey_language
+      label: Which language do you know?
+      hint: null
+      type: select_one
+      options:
+      - Python
+      - Java
+      - C++
+      - C
+      - JavaScript
+      - C#
+      - C++
+      - Swift
+      - Ruby
+      required: false
+    - id: 2
+      name: language_proficiency
+      label: How proficient are you in this language?
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: How many years of experience do you have with the language?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_use
+      label: How frequently do you use the language in your daily work?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 5
+      name: last_used
+      label: When did you last use the language?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: last_project
+      label: What was your last project that you worked on with the language?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_language
+      label: Which language do you like best?
+      hint: null
+      type: select_one
+      options:
+      - Python
+      - Java
+      - C++
+      - C
+      - JavaScript
+      - C#
+      - C
+      - Swift
+      - Ruby
+      required: false
+    - id: 8
+      name: why_language
+      label: Why is Python your favorite language?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_language_2
+      label: Which of the following is the second favorite language that you enjoy
+        using?
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - C++
+      - C
+      - JavaScript
+      - C#
+      - C
+      - Swift
+      - Ruby
+      required: false
+    - id: 10
+      name: years_of_experience_2
+      label: How many years of experience do you have with your second favorite language?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: frequency_of_use_2
+      label: How frequently do you use your second favorite language?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 12
+      name: last_used_2
+      label: When did you last use your second favorite language?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_project_2
+      label: What was your last project that you worked on with your second favorite
+        language?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_languages
+      label: Which other languages do you know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_languages_list
+      label: List of other languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_languages_2
+      label: Do you have any other languages that you would like to learn?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: other_languages_2_list
+      label: List of languages to learn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_languages_3
+      label: Which other language would you like to learn next?
+      hint: null
+      type: select_one
+      options:
+      - Python
+      - Java
+      - C++
+      - C
+      - JavaScript
+      - C#
+      - C
+      - Swift
+      - Ruby
+      required: false
+    - id: 19
+      name: other_project_1
+      label: Would you like to work on a project with the next language you want to
+        learn?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: other_project_1
+      label: What type of project would you like to work on with the next language
+        you want to learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_project_2
+      label: What skills do you think you would need to learn to be proficient in
+        the next language you want to learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_project_3
+      label: What resources do you think you would need to learn the next language
+        you want to learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_project_4
+      label: What would you do if you had a chance to work on a project with the next
+        language you want to learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_project_5
+      label: Why would you like to learn the next language you want to learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_project_6
+      label: Why do you think you would benefit from learning the next language you
+        want to learn?
+      hint: null
+      type: text
+      options: []
+      required: false

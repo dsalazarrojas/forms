@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Observation And Media Log
+    pages:
+    - id: 1
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - audio
+      - video
+      - image
+      - other
+      required: false
+    - id: 2
+      name: media_url
+      label: Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: media_duration
+      label: Media Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: observation_date_2
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: observation_time_2
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: observation_notes_2
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false

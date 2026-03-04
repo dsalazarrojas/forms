@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Group Tour Pre Visit Check In
+    pages:
+    - id: 1
+      name: group_details
+      label: Group Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tour_leader_first_name
+      label: tour_leader_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tour_leader_last_name
+      label: tour_leader_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tour_leader_email
+      label: tour_leader_email
+      hint: tour leader email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: tour_leader_phone
+      label: tour_leader_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: group_leader_phone
+      label: group_leader_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: group_details_date
+      label: group_details_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: tour_leader_time
+      label: tour_leader_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: group_size
+      label: group size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: group_tour_type
+      label: group tour type
+      hint: null
+      type: select_one
+      options:
+      - Guided Tour
+      - Self-Guided Tour
+      - Group Tour
+      required: true
+    - id: 11
+      name: group_tour_type_other
+      label: group_tour_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tour_arrival_date
+      label: tour_arrival_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: tour_arrival_time
+      label: tour_arrival_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: tour_departure_date
+      label: tour_departure_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: tour_departure_time
+      label: tour_departure_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: special_requests
+      label: special_requests
+      hint: any special requests or needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: group_notes
+      label: group_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tour_requestors_email
+      label: tour_requestors_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: tour_requestors_phone
+      label: tour_requestors_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tour_requestors_first_name
+      label: tour_requestors_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tour_requestors_last_name
+      label: tour_requestors_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tour_requestors_company
+      label: tour_requestors_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tour_requestors_title
+      label: tour_requestors_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tour_requestors_department
+      label: tour_requestors_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tour_requestors_comments
+      label: tour_requestors_comments
+      hint: null
+      type: text
+      options: []
+      required: false

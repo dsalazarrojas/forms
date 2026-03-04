@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trip Planning Checklist
+    pages:
+    - id: 1
+      name: trip_planning_checklist
+      label: trip_planning_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: select_one
+      options:
+      - hotel
+      - inn
+      - motels
+      - cabin
+      - resort
+      - apartment
+      - other
+      required: false
+    - id: 6
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_multiple
+      options:
+      - car
+      - plane
+      - train
+      - bike
+      - other
+      required: false
+    - id: 7
+      name: travel_documents
+      label: travel_documents
+      hint: null
+      type: select_one
+      options:
+      - driver_license
+      - passport
+      - vehicle_registration
+      - id_card
+      - other
+      required: false
+    - id: 8
+      name: flight_details
+      label: flight_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: seat_number
+      label: seat_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_mode_cost
+      label: travel_mode_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: travel_docs_cost
+      label: travel_docs_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: travel_docs_type
+      label: travel_docs_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: flight_status
+      label: flight_status
+      hint: null
+      type: select_one
+      options:
+      - on-time
+      - delayed
+      - cancelled
+      - arrived
+      required: false

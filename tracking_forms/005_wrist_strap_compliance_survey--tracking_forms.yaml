@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wrist Strap Compliance Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Enter supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_testing
+      label: Date of Testing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: wrist_strap_used
+      label: Wrist Strap Used
+      hint: null
+      type: select_one
+      options:
+      - Wrist Strap A
+      - Wrist Strap B
+      - Wrist Strap C
+      required: true
+    - id: 5
+      name: testing_area
+      label: Testing Area
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 6
+      name: testing_method
+      label: Testing Method
+      hint: null
+      type: select_one
+      options:
+      - Testing Method 1
+      - Testing Method 2
+      - Testing Method 3
+      required: true
+    - id: 7
+      name: testing_results
+      label: Testing Results
+      hint: null
+      type: select_multiple
+      options:
+      - Results 1
+      - Results 2
+      - Results 3
+      required: true
+    - id: 8
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Enter supervisor's comments
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: testing_completed
+      label: Testing Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_review
+      label: Employee Review
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: testing_area_other
+      label: Testing Area Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: testing_method_other
+      label: Testing Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_review_other
+      label: Supervisor Review Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: testing_results_other
+      label: Testing Results Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: testing_completed_other
+      label: Testing Completed Other
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: employee_signature_other
+      label: Employee Signature Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_signature_other
+      label: Supervisor Signature Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_other
+      label: Date Other
+      hint: null
+      type: date
+      options: []
+      required: false

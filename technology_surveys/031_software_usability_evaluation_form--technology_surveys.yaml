@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Software Usability Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: usability_questions
+      label: Usability Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Is this feature intuitive?
+      - Is this feature useful?
+      - Is this feature well-documented?
+      required: false
+    - id: 4
+      name: feature_ratings
+      label: Feature Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Rating 1
+      - Rating 2
+      - Rating 3
+      - Rating 4
+      - Rating 5
+      required: false
+    - id: 5
+      name: feature_ratings_comments
+      label: Feature Ratings Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: technology_survey_questions
+      label: Technology Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - How often do you use the software?
+      - Have you used the software for a specific task?
+      - What do you like about this software?
+      - What do you dislike about this software?
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

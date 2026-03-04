@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Storage Facility Partner Registration Form
+    pages:
+    - id: 1
+      name: company_legal_name
+      label: Company Legal Name
+      hint: Registered business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_type
+      label: Company Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit
+      - Government Entity
+      - Other
+      required: true
+    - id: 3
+      name: year_established
+      label: Year Established
+      hint: Year company was founded
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Main contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_address
+      label: Company Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: company_country
+      label: Country
+      hint: Country of operation
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - European Union
+      - Other
+      required: true
+    - id: 13
+      name: facility_address
+      label: Cold Storage Facility Address
+      hint: Physical facility location
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_type
+      label: Facility Type
+      hint: Type of cold storage
+      type: select_one
+      options:
+      - Public Cold Storage
+      - Private Cold Storage
+      - Distribution Center
+      - Food Processing Facility
+      - Pharmaceutical Storage
+      - Chemical Storage
+      - Multi-Temperature Facility
+      required: true
+    - id: 15
+      name: total_storage_capacity
+      label: Total Storage Capacity
+      hint: In square feet or cubic feet
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: temperature_zones
+      label: Temperature Zones Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ambient
+      - Cool 50-60°F
+      - Refrigerated 32-40°F
+      - Frozen 0-10°F
+      - Deep Freeze -10-0°F
+      - Ultra-Low Below -40°F
+      required: true
+    - id: 17
+      name: loading_docks
+      label: Number of Loading Docks
+      hint: Available dock doors
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rail_access
+      label: Rail Access Available
+      hint: Rail spur or siding
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: certifications
+      label: Industry Certifications
+      hint: Select all applicable
+      type: select_multiple
+      options:
+      - HACCP
+      - FDA Registered
+      - USDA Inspected
+      - ISO 9001
+      - ISO 22000
+      - SQF
+      - BRC
+      - AIB
+      - OSHA Compliant
+      - None
+      required: true
+    - id: 20
+      name: insurance_coverage
+      label: Insurance Coverage Amount
+      hint: Liability coverage
+      type: select_one
+      options:
+      - Under $1 Million
+      - $1-5 Million
+      - $5-10 Million
+      - $10-25 Million
+      - Over $25 Million
+      required: true
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: years_in_business
+      label: Years in Cold Storage Business
+      hint: Experience level
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - Over 20 years
+      required: true
+    - id: 23
+      name: current_clients
+      label: Number of Current Clients
+      hint: Approximate number
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - 51-100
+      - Over 100
+      required: true
+    - id: 24
+      name: services_offered
+      label: Services Offered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cold Storage
+      - Frozen Storage
+      - Blast Freezing
+      - Cross-Docking
+      - Distribution
+      - Inventory Management
+      - Order Fulfillment
+      - Packaging
+      - Labeling
+      - Temperature Monitoring
+      - Transportation
+      required: true
+    - id: 25
+      name: operating_hours
+      label: Operating Hours
+      hint: Business hours
+      type: select_one
+      options:
+      - 24/7
+      - 24/5
+      - Monday-Friday 8AM-6PM
+      - Extended Hours
+      - By Appointment
+      required: true
+    - id: 26
+      name: technology_systems
+      label: Technology Systems Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - WMS Warehouse Management
+      - TMS Transportation Management
+      - RFID Tracking
+      - Barcode Scanning
+      - Real-Time Temperature Monitoring
+      - Automated Alerts
+      - Customer Portal
+      - EDI Capable
+      required: true
+    - id: 27
+      name: partnership_type
+      label: Desired Partnership Type
+      hint: Type of partnership sought
+      type: select_one
+      options:
+      - Storage Provider
+      - Distribution Partner
+      - Transportation Partner
+      - Co-Packing Partner
+      - Strategic Alliance
+      required: true
+    - id: 28
+      name: geographic_coverage
+      label: Geographic Coverage Area
+      hint: Service area
+      type: select_multiple
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Cross-Border
+      required: true
+    - id: 29
+      name: references_available
+      label: Can You Provide References
+      hint: Client references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

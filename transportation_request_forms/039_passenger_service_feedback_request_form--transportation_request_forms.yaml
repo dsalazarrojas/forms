@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Service Feedback Request Form
+    pages:
+    - id: 1
+      name: passenger_service
+      label: Passenger Service Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bus''}'
+      - '{''value'': ''Train''}'
+      - '{''value'': ''Bike''}'
+      required: false
+    - id: 3
+      name: route_number
+      label: Route Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Date of Journey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_time
+      label: Time of Journey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_rating
+      label: Service Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

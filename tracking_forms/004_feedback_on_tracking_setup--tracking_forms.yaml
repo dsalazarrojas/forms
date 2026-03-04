@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: feedback_on_tracking_setup
+    pages:
+    - id: 1
+      name: tracking_setup
+      label: Tracking Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tracking_implementation
+      label: Tracking Implementation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: analytics_platform
+      label: Analytics Platform
+      hint: null
+      type: select_one
+      options:
+      - Google Analytics
+      - Facebook Pixel
+      - Mixpanel
+      required: true
+    - id: 4
+      name: tracking_code
+      label: Tracking Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: setup_type
+      label: Setup Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single-Page
+      - Multi-Page
+      - Server-Side
+      required: true
+    - id: 6
+      name: page_title
+      label: Page Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: page_url
+      label: Page URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tracking_status
+      label: Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Enabled
+      - Disabled
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true

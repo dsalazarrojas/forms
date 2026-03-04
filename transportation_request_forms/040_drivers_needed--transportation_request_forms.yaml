@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: drivers_needed
+    pages:
+    - id: 1
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: available_hours
+      label: Available Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transportation_type
+      label: Transportation Type
+      hint: null
+      type: select_one
+      options:
+      - Taxi
+      - Uber
+      - Lyft
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatSue
+      - chatJen
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Transportation Request Forms
+      - Other
+      required: false

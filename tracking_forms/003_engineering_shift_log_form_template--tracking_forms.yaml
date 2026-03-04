@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Shift Log Form Template
+    pages:
+    - id: 1
+      name: engineering_shift_log_form_template
+      label: engineering_shift_log_form_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category1''}'
+      - '{''id'': 2, ''name'': ''category2''}'
+      - '{''id'': 3, ''name'': ''category3''}'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: daily_tasks
+      label: daily_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: progress_monitor
+      label: progress_monitor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: troubleshoot_issues
+      label: troubleshoot_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_shift
+      label: next_shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''next_shift1''}'
+      - '{''id'': 2, ''name'': ''next_shift2''}'
+      required: true
+    - id: 9
+      name: description_2
+      label: description_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: daily_tasks_2
+      label: daily_tasks_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: progress_monitor_2
+      label: progress_monitor_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: troubleshoot_issues_2
+      label: troubleshoot_issues_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: communication_2
+      label: communication_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

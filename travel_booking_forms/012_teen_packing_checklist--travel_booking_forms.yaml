@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: teen_packing_checklist
+    pages:
+    - id: 1
+      name: packing_details
+      label: Packing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_info
+      label: Travel Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: packing_list
+      label: Packing List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trip_organizer
+      label: Trip Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: travel_destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: packing_status
+      label: Packing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: packing_complete
+      label: Packing Complete
+      hint: null
+      type: text
+      options: []
+      required: false

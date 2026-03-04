@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Campaign Plan Form Template
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tactics
+      label: Tactics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: metrics
+      label: Metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false

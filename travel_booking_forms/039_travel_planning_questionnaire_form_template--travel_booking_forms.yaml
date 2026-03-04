@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_planning_questionnaire_form_template
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_preferences
+      label: travel_preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: destination
+      label: destination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: travel_bud
+      label: travel_budget
+      hint: null
+      type: select_multiple
+      options:
+      - Paris
+      - Rome
+      - Tokyo
+      - Madrid
+      required: false
+    - id: 7
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_travel_details
+      label: confirm_travel_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review
+      label: review
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 13
+      name: confirm_submission
+      label: confirm_submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

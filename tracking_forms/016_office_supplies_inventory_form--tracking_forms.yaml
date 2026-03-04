@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_supplies_inventory_form
+    pages:
+    - id: 1
+      name: item_number
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_category
+      label: Item Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_items_on_hand
+      label: Number of Items on Hand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_to_order
+      label: Quantity to Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_added
+      label: Item Added
+      hint: null
+      type: select_multiple
+      options:
+      - Office Supplies
+      - Stationery
+      - Paper
+      - Desk Supplies
+      - Janitorial Supplies
+      - Equipment Supplies
+      - Other Supplies
+      required: false
+    - id: 10
+      name: item_name_2
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false

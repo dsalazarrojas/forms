@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: test_drive_booking_form
+    pages:
+    - id: 1
+      name: test_drive_date
+      label: Test Drive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: car_make
+      label: Car Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: test_drive_duration
+      label: Test Drive Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: test_drive_time
+      label: Test Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: test_drive_date_time
+      label: Test Drive Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: test_drive_status
+      label: Test Drive Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Booked
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - admin
+      required: false
+    - id: 11
+      name: test_drive_notes
+      label: Test Drive Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: select_multiple
+      options:
+      - manager
+      - teamleader
+      - admin
+      required: false
+    - id: 13
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_drive_status_change
+      label: Test Drive Status Change
+      hint: null
+      type: select_multiple
+      options:
+      - Booked
+      - Not Available
+      - Completed
+      required: false
+    - id: 15
+      name: test_drive_status_change_note
+      label: Test Drive Status Change Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 17
+      name: test_drive_booking_confirmation
+      label: Test Drive Booking Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_drive_booking_notification
+      label: Test Drive Booking Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: test_drive_booking_note
+      label: Test Drive Booking Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_drive_status_update
+      label: Test Drive Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: test_drive_update_note
+      label: Test Drive Update Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: test_drive_revoke
+      label: Test Drive Revoke
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_revoke_note
+      label: Customer Revoke Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: test_drive_revoke_note
+      label: Test Drive Revoke Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Access Authorization Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 3
+      name: sharing_consent
+      label: Sharing Consent
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      - None
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter client email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter client phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: select_one
+      options:
+      - SSN-123-4567
+      - SSN-9012
+      - Other
+      required: true
+    - id: 9
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: purpose_of_contact
+      label: Purpose of Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_contact
+      label: Reason for Contact
+      hint: null
+      type: text
+      options: []
+      required: false

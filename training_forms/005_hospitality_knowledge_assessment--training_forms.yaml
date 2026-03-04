@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Knowledge Assessment
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_assessment
+      label: Staff Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: procedure_knowledge
+      label: Procedure Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: procedure_performance
+      label: Procedure Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: emergency_evacuation
+      label: Emergency Evacuation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_evacuation_plan
+      label: Fire Evacuation Plan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: emergency_procedure_1
+      label: Emergency Procedure 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emergency_procedure_2
+      label: Emergency Procedure 2
+      hint: null
+      type: text
+      options: []
+      required: false

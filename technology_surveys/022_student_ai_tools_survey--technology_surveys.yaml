@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student AI Tools Survey
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: technology_surveys
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Technology Surveys''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

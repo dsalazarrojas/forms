@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Leave
+    pages:
+    - id: 1
+      name: request_for_leave
+      label: Request For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Time Off Request Forms
+      - Other Forms
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 16
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      - Subcategory 3
+      required: false
+    - id: 17
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false

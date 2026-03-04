@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Session Record
+    pages:
+    - id: 1
+      name: session_section
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: session_duration
+      label: Session Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: clinician_name
+      label: Therapist/Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: presenting_concerns
+      label: Presenting Concerns/Topics Discussed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: progress_section
+      label: -- Progress and Interventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_mood
+      label: Client emotional state at session start
+      hint: null
+      type: select_one
+      options:
+      - Distressed
+      - Anxious
+      - Neutral
+      - Calm
+      - Positive
+      required: true
+    - id: 10
+      name: progress_update
+      label: Progress toward treatment goals
+      hint: null
+      type: select_one
+      options:
+      - Significant improvement
+      - Moderate improvement
+      - No change
+      - Slight decline
+      - Significant decline
+      required: true
+    - id: 11
+      name: interventions_used
+      label: Interventions or techniques used
+      hint: Describe what was done in session
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: homework_section
+      label: -- Homework and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: homework_assigned
+      label: Homework or tasks assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: homework_completion
+      label: Completion status of previous homework
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - Partially completed
+      - Fully completed
+      - Not applicable
+      required: false
+    - id: 15
+      name: next_session_section
+      label: -- Next Session --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: next_session_date
+      label: Scheduled next session date
+      hint: Optional
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: session_focus
+      label: Focus for next session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_assessment
+      label: Risk concerns or safety assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: clinical_notes
+      label: Additional clinical notes
+      hint: null
+      type: text
+      options: []
+      required: false

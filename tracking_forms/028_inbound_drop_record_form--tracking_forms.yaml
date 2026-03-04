@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inbound Drop Record Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: delivery_slip
+      label: Delivery Slip
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: warehouse
+      label: Warehouse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: office
+      label: Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: logistics_team
+      label: Logistics Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

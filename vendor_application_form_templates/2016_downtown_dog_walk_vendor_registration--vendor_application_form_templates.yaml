@@ -1,0 +1,194 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2016 Downtown Dog Walk Vendor Registration
+    pages:
+    - id: 1
+      name: section_header_contact_info
+      label: '--- Vendor Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the name that will appear on all event materials
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Use a valid email for event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Provide a contact number for quick questions
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing address
+      hint: Include city, state, and ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_business_info
+      label: '--- Business Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business name
+      hint: The official registered name of your company
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: Business type
+      hint: Select the category that best describes your services
+      type: select_one
+      options:
+      - Pet Services
+      - Food & Drink
+      - Merchandise
+      - Entertainment
+      - Other
+      required: true
+    - id: 9
+      name: business_website
+      label: Business website
+      hint: Optional. Provide the URL if you have an online presence
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_vendor_services
+      label: '--- Vendor Services ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_type
+      label: Services offered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dog Walking
+      - Dog Training
+      - Grooming
+      - Pet Sitting
+      - Dog Food Sales
+      - Merchandise
+      required: true
+    - id: 12
+      name: experience_level
+      label: Experience level
+      hint: Choose the level that best describes your team
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 13
+      name: how_heard
+      label: How did you hear about us?
+      hint: Select the source that led you to this event
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: true
+    - id: 14
+      name: section_header_marketing_assets
+      label: '--- Marketing Assets ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: logo_url
+      label: Logo URL
+      hint: Provide a link to a high‑resolution PNG or JPG file
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_brochure_url
+      label: Brochure URL
+      hint: Optional. Link to a downloadable PDF
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: promotional_video_url
+      label: Promotional video URL
+      hint: Optional. Link to a YouTube or Vimeo video
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_event_preferences
+      label: '--- Event Participation Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_walk_dates
+      label: Preferred walk dates
+      hint: Choose the dates you are available for the event
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: preferred_walk_times
+      label: Preferred walk times
+      hint: Specify morning, afternoon, or evening
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: number_of_walks_per_week
+      label: Number of walks per week
+      hint: Enter the maximum walks your team can handle
+      type: integer
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Provide any extra information that will help us plan
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Authorization Access Form
+    pages:
+    - id: 1
+      name: travel_authorization_access_form
+      label: travel_authorization_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_destination
+      label: destination
+      hint: null
+      type: select_one
+      options:
+      - London
+      - New York
+      - Paris
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Personal
+      - Other
+      required: false
+    - id: 7
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_document
+      label: travel_document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_itinerary
+      label: travel_itinerary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: travel_approver
+      label: travel_approver
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Smith
+      - Bob Johnson
+      required: false

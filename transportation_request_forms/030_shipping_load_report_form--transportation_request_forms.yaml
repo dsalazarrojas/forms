@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_load_report_form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipment_details
+      label: shipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipment_date
+      label: shipment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipment_time
+      label: shipment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: carrier_name
+      label: carrier_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shipment_status
+      label: shipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: shipment_note
+      label: shipment_note
+      hint: null
+      type: note
+      options: []
+      required: false

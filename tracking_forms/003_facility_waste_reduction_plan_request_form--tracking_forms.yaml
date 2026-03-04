@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Waste Reduction Plan Request Form
+    pages:
+    - id: 1
+      name: facility_waste_reduction_plan_request_form
+      label: Facility Waste Reduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: true
+    - id: 11
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_waste_reduction_goal
+      label: Facility Waste Reduction Goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: facility_waste_reductions
+      label: Facility Waste Redactions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: facility_waste_reduction_percentage
+      label: Facility Waste Reduction Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: facility_waste_reduction_target
+      label: Facility Waste Reduction Target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_waste_reduction_action
+      label: Facility Waste Reduction Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_waste_reduction_comments
+      label: Facility Waste Reduction Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_waste_reduction_notes
+      label: Facility Waste Reduction Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: facility_waste_reduction_file
+      label: Facility Waste Reduction File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_waste_reduction_submit
+      label: Facility Waste Reduction Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Decline
+      - Hold
+      required: true

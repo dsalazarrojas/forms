@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Straight Truck Pre Trip Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dry Van''}'
+      - '{''label'': ''Reefer Van''}'
+      - '{''label'': ''Conventional''}'
+      - '{''label'': ''Tanker''}'
+      required: false
+    - id: 3
+      name: cargo_securement
+      label: Cargo Securement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vehicle_status_condition
+      label: Vehicle Status Condition
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: tire_condition
+      label: Tire Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: brake_system
+      label: Brake System
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal Operation''}'
+      - '{''label'': ''Warning''}'
+      - '{''label'': ''Malfunction''}'
+      required: false
+    - id: 8
+      name: parking_brakes
+      label: Parking Brakes
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal Operation''}'
+      - '{''label'': ''Stiff''}'
+      - '{''label'': ''Malfunction''}'
+      required: false
+    - id: 9
+      name: trailer_connections
+      label: Trailer Connections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: trailer_brakes
+      label: Trailer Brakes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: steering_system
+      label: Steering System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: suspension_system
+      label: Suspension System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: wheel_condition
+      label: Wheel Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: coupling_device
+      label: Coupling Device
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: coupling_device_location
+      label: Coupling Device Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: cargo_securement_location
+      label: Cargo Securement Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trailer_mounting
+      label: Trailer Mounting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: trailer_coupling
+      label: Trailer Coupling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: trailer_condition
+      label: Trailer Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: cargo_securement_condition
+      label: Cargo Securement Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

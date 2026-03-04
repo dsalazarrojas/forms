@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Payment Form
+    pages:
+    - id: 1
+      name: landlord_info
+      label: Landlord info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_info
+      label: Tenant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank transfer
+      - Check
+      - Cash
+      - Credit card
+      - Other
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent_frequency
+      label: Rent frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Late
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Optional notes for the landlord
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: Submit the form
+      type: text
+      options: []
+      required: false

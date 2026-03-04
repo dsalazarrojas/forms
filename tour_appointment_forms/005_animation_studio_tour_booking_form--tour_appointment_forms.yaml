@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Studio Tour Booking Form
+    pages:
+    - id: 1
+      name: visit_info
+      label: -- Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Organizer full name
+      hint: Name of person booking the tour
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional phone for urgent changes
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_size
+      label: Group size
+      hint: Number of attendees expected
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred tour date
+      hint: Choose a preferred date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred tour time
+      hint: Morning or afternoon preferred
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special requests or accessibility needs
+      hint: List accommodations or requests
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_photos
+      label: Consent to photography during tour
+      hint: Permission for studio to take photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any further information the studio should know
+      type: text
+      options: []
+      required: false

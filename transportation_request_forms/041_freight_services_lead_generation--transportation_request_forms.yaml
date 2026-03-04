@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Services Lead Generation
+    pages:
+    - id: 1
+      name: shipping_inquiry
+      label: Shipping Inquiry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ship_from
+      label: Ship From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Ocean
+      - Rail
+      - Road
+      required: false
+    - id: 8
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: ship_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

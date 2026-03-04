@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Screening Form
+    pages:
+    - id: 1
+      name: tenant_id
+      label: Applicant Name
+      hint: Enter applicant name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Enter contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: move_in_date
+      label: Move In Date
+      hint: Enter move in date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed'', ''label'': ''Employed''}'
+      - '{''value'': ''Unemployed'', ''label'': ''Unemployed''}'
+      - '{''value'': ''Student'', ''label'': ''Student''}'
+      - '{''value'': ''Disabled'', ''label'': ''Disabled''}'
+      required: true
+    - id: 7
+      name: income_proof
+      label: Income Proof
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''W2'', ''label'': ''W2''}'
+      - '{''value'': ''W4'', ''label'': ''W4''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily'', ''label'': ''Daily''}'
+      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''Annual'', ''label'': ''Annual''}'
+      required: false
+    - id: 9
+      name: rental_application_form_notes
+      label: Rental Application Form Notes
+      hint: Additional comments or information about the applicant
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tenant_screening_form_signature
+      label: Applicant Signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 11
+      name: tenant_screening_form_lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tenant_screening_form_additional_notes
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

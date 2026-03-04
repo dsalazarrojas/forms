@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_app_usability_feedback_questionnaire
+    pages:
+    - id: 1
+      name: tech_app_usability
+      label: What are your thoughts about the app?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_satisfaction
+      label: What is your satisfaction with the app?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 3
+      name: app_usability
+      label: How easy was it to use the app?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Easy''}'
+      - '{''label'': ''Somewhat Easy''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Difficult''}'
+      - '{''label'': ''Very Difficult''}'
+      required: false
+    - id: 4
+      name: tech_app_improvement
+      label: What features would you add or remove from the app?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_feedback
+      label: What do you think about this feedback questionnaire?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legacy Builders InteleTravel Customer Information Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: return_trip_date
+      label: Return Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: true
+    - id: 11
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 12
+      name: travel_activity
+      label: Travel Activity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 13
+      name: travel_duration_type
+      label: Travel Duration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: travel_duration_units
+      label: Travel Duration Units
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: true
+    - id: 15
+      name: travel_duration_value
+      label: Travel Duration Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: customer_relationship
+      label: Customer Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 17
+      name: customer_role
+      label: Customer Role
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: true
+    - id: 18
+      name: customer_title
+      label: Customer Title
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: true
+    - id: 19
+      name: customer_name2
+      label: Customer Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_email2
+      label: Email Address 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: customer_phone2
+      label: Phone Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_destinations
+      label: Travel Destination 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 23
+      name: travel_duration2
+      label: Travel Duration 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: return_trip_date2
+      label: Return Trip Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: customer_comment2
+      label: Customer Comment 2
+      hint: null
+      type: note
+      options: []
+      required: false

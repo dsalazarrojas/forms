@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Team Collaboration Workshop Evaluation
+    pages:
+    - id: 1
+      name: workshop_quality
+      label: Workshop quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: collaboration_effectiveness
+      label: Collaboration effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

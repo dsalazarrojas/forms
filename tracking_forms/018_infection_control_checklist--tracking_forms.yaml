@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infection Control Checklist
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_room
+      label: Patient Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_history
+      label: Contact History
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: contact_location
+      label: Contact Location
+      hint: Select multiple contact locations
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: contact_reason
+      label: Contact Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: control_measures
+      label: Control Measures
+      hint: Select multiple control measures
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 10
+      name: follow_up_action
+      label: Follow-up Action
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: true
+    - id: 11
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: true
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: completed
+      label: Completed
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 16
+      name: reviewer
+      label: Reviewer
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

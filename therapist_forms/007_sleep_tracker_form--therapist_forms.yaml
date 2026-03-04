@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleep_tracker_form
+    pages:
+    - id: 1
+      name: sleep_date
+      label: Sleep Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: sleep_hours_slept
+      label: sleep hours slept
+      hint: Number of hours slept
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: wake_time
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: bed_time
+      label: Bed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      required: false
+    - id: 6
+      name: wake_frequency
+      label: Wake Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once in a while
+      - Several times a week
+      - Most prophets a week
+      - Every night
+      required: false
+    - id: 7
+      name: sleep_stages
+      label: Sleep Stages
+      hint: null
+      type: select_one
+      options:
+      - REM (90-120 minutes)
+      - NREM stage 1 (N1, 45-90 minutes)
+      - NREM stage 2 (N2, 60-120 minutes)
+      - NREM stage 3 (N3, 60-90 minutes)
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: sleep_goal
+      label: Sleep Goal
+      hint: Enter a sleep goal (in hours)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sleep_goal_target_date
+      label: Sleep Goal Target Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Status Report
+    pages:
+    - id: 1
+      name: document_status_report_form
+      label: Document Status Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 3
+      name: update_owner
+      label: Update Owner
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: progress_report
+      label: Progress Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false

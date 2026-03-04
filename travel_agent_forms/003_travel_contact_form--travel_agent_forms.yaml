@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Contact Form
+    pages:
+    - id: 1
+      name: travel_contact_form
+      label: travel_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_address
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_preferences
+      label: travel_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_arrangements
+      label: travel_arrangements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_preferences
+      label: return_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_travel_info
+      label: additional_travel_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: home_country
+      label: home_country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 12
+      name: hotel_preferences
+      label: hotel_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Airbnb
+      - Hostel
+      - Bed and Breakfast
+      required: false
+    - id: 13
+      name: flight_preferences
+      label: flight_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Direct
+      - With a layover
+      - Nonstop
+      required: false
+    - id: 14
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: travel_from
+      label: travel_from
+      hint: null
+      type: select_multiple
+      options:
+      - New York City
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 17
+      name: travel_to
+      label: travel_to
+      hint: null
+      type: select_multiple
+      options:
+      - Paris
+      - Rome
+      - Tokyo
+      required: false
+    - id: 18
+      name: hotel
+      label: hotel
+      hint: null
+      type: select_one
+      options:
+      - Hotel 1
+      - Hotel 2
+      - Hotel 3
+      required: false

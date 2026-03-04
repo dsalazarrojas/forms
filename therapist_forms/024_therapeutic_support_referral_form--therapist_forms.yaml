@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapeutic Support Referral Form
+    pages:
+    - id: 1
+      name: therapeutic_support_referral_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: therapeutic_services_required
+      label: Therapeutic Services Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: additional_support_services
+      label: Additional Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_care_plan
+      label: Patient Care Plan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_care_team
+      label: Patient Care Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: discharge_plans
+      label: Discharge Plans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: social_worker
+      label: Social Worker
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: family_member
+      label: Family Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: therapist
+      label: Therapist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: psychiatrist
+      label: Psychiatrist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: discharge_care_coordinator
+      label: Discharge Care Coordinator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: date_of_service_request
+      label: Date of Service Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_of_service_request
+      label: Time of Service Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: service_requestor
+      label: Service Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

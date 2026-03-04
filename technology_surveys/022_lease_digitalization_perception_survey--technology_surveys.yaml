@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Digitalization Perception Survey
+    pages:
+    - id: 1
+      name: property_type
+      label: What type of property do you rent?
+      hint: null
+      type: select_one
+      options:
+      - apartment
+      - house
+      - condominium
+      required: true
+    - id: 2
+      name: property_size
+      label: How big is the property?
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 3
+      name: lease_length
+      label: How long is your lease?
+      hint: null
+      type: select_one
+      options:
+      - less_than_6_months
+      - 6_months_to_1_year
+      - 1_to_2_years
+      - 2_to_5_years
+      - more_than_5_years
+      required: true
+    - id: 4
+      name: lease_frequency
+      label: How often do you lease?
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - yearly
+      required: true
+    - id: 5
+      name: lease_method
+      label: How do you usually lease?
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - in-person
+      - broker
+      - other
+      required: false
+    - id: 6
+      name: lease_pain_points
+      label: What pain points do you have with current lease processes?
+      hint: Please provide detailed information
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: lease_improvement_areas
+      label: What areas could be improved?
+      hint: null
+      type: select_multiple
+      options:
+      - user_experience
+      - speed_of_process
+      - cost
+      - other
+      required: false
+    - id: 8
+      name: lease_suggestions
+      label: Do you have any other suggestions?
+      hint: Please provide detailed information
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_owner
+      label: Who is the property owner?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 10
+      name: employee
+      label: Are you an employee?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 11
+      name: contact_number
+      label: What is your contact number?
+      hint: Please enter your contact number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: What is your email address?
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: lease_survey_satisfaction
+      label: How would you rate your satisfaction with digital lease processes?
+      hint: On a scale of 0 to 10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: lease_improvement_score
+      label: How would you rate your improvement ideas?
+      hint: On a scale of 0 to 10
+      type: number
+      options: []
+      required: true

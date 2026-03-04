@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telepsychiatry Session Recording Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: recording_permission
+      label: Can We Record?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 5
+      name: consent_reason
+      label: Why Are You Agreeing To Record?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: practitioner_agreement
+      label: Pratitioner Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_one
+      options:
+      - 30-60 minutes
+      - 60-90 minutes
+      - 90 minutes or more
+      required: false
+    - id: 9
+      name: recording_device
+      label: Recording Device
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: client_contact
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - Other (please describe)
+      required: false
+    - id: 11
+      name: other_contact_info
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Other (please describe)
+      required: false
+    - id: 15
+      name: recording_location_other
+      label: Other Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Friend
+      - Other (please describe)
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

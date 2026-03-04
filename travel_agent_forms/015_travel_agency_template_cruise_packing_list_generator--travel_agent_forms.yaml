@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agency Template Cruise Packing List Generator
+    pages:
+    - id: 1
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cruise_type
+      label: Cruise Type
+      hint: null
+      type: select_one
+      options:
+      - Sea Cruise
+      - River Cruise
+      - Lake Cruise
+      - Other
+      required: false
+    - id: 4
+      name: departure_airport
+      label: Departure Airport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ship_name
+      label: Ship Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cabin_type
+      label: Cabin Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: packing_list
+      label: Packing List
+      hint: null
+      type: note
+      options: []
+      required: false

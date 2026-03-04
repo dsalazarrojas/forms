@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cartage And Hire Feedback Form
+    pages:
+    - id: 1
+      name: section_customer_service
+      label: -- Customer and Service Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_id
+      label: Service or Job Number
+      hint: required for accurate tracking
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Type of Service
+      hint: select the primary service category
+      type: select_one
+      options:
+      - Cartage or Freight
+      - Equipment Hire
+      - Vehicle Hire
+      - Logistics Support
+      required: true
+    - id: 6
+      name: section_delivery
+      label: -- Delivery and Transport Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: on_time_pickup
+      label: Was the pickup on time?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 8
+      name: on_time_delivery
+      label: Was the delivery on time?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 9
+      name: cargo_condition
+      label: Condition of items upon arrival
+      hint: 1 being poor, 5 being perfect
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: loading_efficiency
+      label: Efficiency of the loading and unloading process
+      hint: how fast was the team?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_equipment
+      label: -- Equipment and Hire Feedback --
+      hint: if applicable
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: equipment_condition
+      label: Condition of hire equipment or vehicle
+      hint: cleanliness and maintenance
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: equipment_performance
+      label: Performance and reliability of equipment
+      hint: did it function correctly?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: instruction_clarity
+      label: Clarity of usage instructions provided
+      hint: were you shown how to operate the hire item?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_staff_support
+      label: -- Staff and Support Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: staff_professionalism
+      label: Professionalism of our team
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: communication_quality
+      label: Communication during the hire or transport period
+      hint: responsiveness and clarity
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: support_helpfulness
+      label: Helpfulness of customer support
+      hint: if you needed to call us
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_overall_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: overall_value
+      label: Value for money of the service
+      hint: cost vs quality
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: recommendation_interest
+      label: Would you recommend our services?
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      required: true
+    - id: 22
+      name: use_again_interest
+      label: Will you use our services again?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 23
+      name: section_suggestions
+      label: -- Comments and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: improvement_suggestions
+      label: What could we improve in our operations?
+      hint: specific feedback helps us get better
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Any other comments or concerns
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: false

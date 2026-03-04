@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Work and Time Record Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of the worker
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_id
+      label: Contractor ID Number
+      hint: Identification or badge number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name of the project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_code
+      label: Project Code
+      hint: Project identification code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: Address or site of work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_name
+      label: Site Supervisor Name
+      hint: Name of on-site supervisor
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_work_period
+      label: -- Work Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_date
+      label: Work Date
+      hint: Date of this work record
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: Time work began
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: end_time
+      label: End Time
+      hint: Time work ended
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: break_duration
+      label: Break Duration in Minutes
+      hint: Total break time taken
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_hours
+      label: Total Hours Worked
+      hint: Net hours after breaks
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: overtime_hours
+      label: Overtime Hours
+      hint: Hours beyond standard workday
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_work_details
+      label: -- Work Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: work_category
+      label: Work Category
+      hint: Type of work performed
+      type: select_one
+      options:
+      - General Labor
+      - Skilled Trade
+      - Equipment Operation
+      - Supervision
+      - Inspection
+      - Maintenance
+      - Installation
+      - Demolition
+      - Other
+      required: true
+    - id: 19
+      name: task_description
+      label: Task Description
+      hint: Detailed description of work done
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: work_area
+      label: Specific Work Area
+      hint: Location within the project site
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: materials_used
+      label: Materials Used
+      hint: List materials consumed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_used
+      label: Equipment Used
+      hint: List equipment or machinery used
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_progress
+      label: -- Progress Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: progress_percentage
+      label: Progress Made Today
+      hint: Estimated percentage of task completed
+      type: select_one
+      options:
+      - 0-25 percent
+      - 26-50 percent
+      - 51-75 percent
+      - 76-100 percent
+      required: true
+    - id: 25
+      name: milestones_reached
+      label: Milestones Reached
+      hint: Any milestones achieved today
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: delays_encountered
+      label: Delays or Issues Encountered
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: weather_conditions
+      label: Weather Conditions
+      hint: If outdoor work
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rain
+      - Snow
+      - Windy
+      - Extreme Heat
+      - Not Applicable
+      required: false
+    - id: 28
+      name: section_safety
+      label: -- Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: safety_equipment_used
+      label: Safety Equipment Used
+      hint: PPE worn during work
+      type: select_multiple
+      options:
+      - Hard Hat
+      - Safety Glasses
+      - Steel-Toe Boots
+      - High-Visibility Vest
+      - Gloves
+      - Hearing Protection
+      - Respirator
+      - Safety Harness
+      required: true
+    - id: 30
+      name: safety_incidents
+      label: Any Safety Incidents
+      hint: Report any accidents or near-misses
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_verification
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: work_verified_by
+      label: Work Verified By
+      hint: Name of supervisor verifying work
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: verification_signature
+      label: Verification Date
+      hint: Date of verification
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: contractor_signature_date
+      label: Contractor Signature Date
+      hint: Date contractor signed
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

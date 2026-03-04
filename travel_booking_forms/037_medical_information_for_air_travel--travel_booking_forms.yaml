@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Information For Air Travel
+    pages:
+    - id: 1
+      name: medical_information_form
+      label: Medical Information Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_details
+      label: Medication Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_equipment
+      label: Medical Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_support
+      label: Special Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false

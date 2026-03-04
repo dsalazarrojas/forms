@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Shuttle Coordination Application
+    pages:
+    - id: 1
+      name: transport_request_form
+      label: Transport Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pickup_dropoff_time
+      label: Pickup/Dropoff Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pickup_dropoff_date
+      label: Pickup/Dropoff Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pickup_dropoff_location
+      label: Pickup/Dropoff Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_riders
+      label: Number of Riders
+      hint: Please enter the number of riders
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pickup_dropoff_time_range
+      label: Pickup/Dropoff Time Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: treatment_plan_consent_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: therapist_signature
+      label: therapist_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_1_signature
+      label: witness_1_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_2_signature
+      label: witness_2_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_signatures
+      label: other_signatures
+      hint: null
+      type: select_multiple
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: false
+    - id: 11
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: facility_fax
+      label: facility_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_website
+      label: facility_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_license
+      label: facility_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: treatment_location
+      label: treatment_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: facility_name_2
+      label: facility_name_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: treatment_plan_date
+      label: treatment_plan_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: treatment_plan_time
+      label: treatment_plan_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: therapist_name
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: therapist_title
+      label: therapist_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: therapist_phone
+      label: therapist_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: therapist_email
+      label: therapist_email
+      hint: null
+      type: email
+      options: []
+      required: true

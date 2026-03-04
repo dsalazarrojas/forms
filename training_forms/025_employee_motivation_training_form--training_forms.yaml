@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_motivation_training_form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: motivation_level
+      label: motivation_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: training_initiatives
+      label: training_initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_engagement
+      label: employee_engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false

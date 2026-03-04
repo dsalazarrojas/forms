@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Utilization Capability Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Data Utilization Capability Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_sources
+      label: Data Sources
+      hint: Please select all relevant data sources
+      type: select_multiple
+      options:
+      - All
+      - Google Drive
+      - Google Analytics
+      - Google Sheets
+      required: false
+    - id: 4
+      name: data_sources_additional
+      label: Additional Data Sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_access
+      label: Access to Data
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: data_access_additional
+      label: Additional Information
+      hint: Please provide more details about access to data
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_training
+      label: Data Training
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: data_training_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_tools
+      label: Collaboration Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Google Drive
+      - Google Sheets
+      - Trello
+      - Asana
+      required: false
+    - id: 10
+      name: collaboration_tools_additional
+      label: Additional Collaboration Tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: data_governance
+      label: Data Governance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: data_governance_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: data_scientists
+      label: Data Scientists
+      hint: Please indicate how many data scientists are available in your organization
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: data_scientists_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: data_owners
+      label: Data Owners
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: data_owners_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: data_users
+      label: Data Users
+      hint: Please indicate how many data users are available in your organization
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: data_users_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: data_management
+      label: Data Management
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: data_management_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 22
+      name: data_security_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: data_privacy
+      label: Data Privacy
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: data_privacy_additional
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

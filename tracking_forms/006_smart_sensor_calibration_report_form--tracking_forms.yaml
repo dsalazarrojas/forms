@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Calibration Report Form
+    pages:
+    - id: 1
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: sensor_serial_number
+      label: Sensor Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensor_model
+      label: Sensor Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sensor_reading_date
+      label: Sensor Reading Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sensor_reading_time
+      label: Sensor Reading Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: sensor_reading_value
+      label: Sensor Reading Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_number
+      label: Equipment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: calibration_result
+      label: Calibration Result
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: calibration_date
+      label: Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_calibration_date
+      label: Next Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: calibration_result_status
+      label: Calibration Result Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: comments_status
+      label: Comments Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: technician_comments
+      label: Technician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_comments
+      label: Department Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: department_signature
+      label: Department Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Processing Experience Survey
+    pages:
+    - id: 1
+      name: payment_processing_satisfaction
+      label: How satisfied are you with your payment processing experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Extremely Dissatisfied
+      - N/A
+      required: false
+    - id: 2
+      name: payment_processing_ease
+      label: How easy was the payment process?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Somewhat Difficult
+      - Very Difficult
+      - Extremely Difficult
+      - N/A
+      required: false
+    - id: 3
+      name: payment_processing_time
+      label: How long did it take to complete the payment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_processing_amount
+      label: How much did you pay?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_processing_fees
+      label: Were you charged any fees?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: payment_processing_fees_details
+      label: Please describe any fees you were charged?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issues_encountered
+      label: What issues, if any, did you encounter during checkout?
+      hint: null
+      type: select_multiple
+      options:
+      - Card declined
+      - Network connection
+      - Other
+      required: false
+    - id: 8
+      name: payment_processing_comments
+      label: Comments about your payment processing experience
+      hint: null
+      type: text
+      options: []
+      required: false

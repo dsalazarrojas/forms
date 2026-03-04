@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Life Tracking Report Request Form
+    pages:
+    - id: 1
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_id
+      label: Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 4
+      name: usage_date
+      label: Date Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: usage_time
+      label: Time Used
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: usage_hours
+      label: Usage Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: usage_comments
+      label: Usage Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - ChatJ
+      - ChatJ
+      - ChatJ
+      required: false
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Done
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

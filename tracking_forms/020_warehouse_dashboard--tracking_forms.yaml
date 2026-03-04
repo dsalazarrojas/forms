@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Dashboard
+    pages:
+    - id: 1
+      name: warehouse_inventory_levels
+      label: Monitor inventory levels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickups_schedule
+      label: Schedule pickups
+      hint: Select date and time
+      type: select_one
+      options:
+      - Now
+      - Today
+      - This week
+      required: false
+    - id: 3
+      name: warehouse_workers_schedule
+      label: View warehouse workers' schedule
+      hint: View schedule
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: pickup_confirmation
+      label: Confirm pickup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: item_details
+      label: View item details
+      hint: Enter item details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pickup_confirmation_date
+      label: Pickup date
+      hint: Select date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_confirmation_time
+      label: Pickup time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: item_quantity
+      label: Enter quantity
+      hint: Enter quantity
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: warehouse_address
+      label: Warehouse address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_name
+      label: Enter item name
+      hint: null
+      type: text
+      options: []
+      required: false

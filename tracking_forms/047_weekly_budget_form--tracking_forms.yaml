@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Budget Form
+    pages:
+    - id: 1
+      name: weekly_budget_form_input
+      label: Budget Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expenses
+      label: Expenses
+      hint: List all your expenses for the week
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

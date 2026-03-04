@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compression Settings Survey
+    pages:
+      - id: 1
+        name: section_usage_context
+        label: -- Usage Context --
+        hint: Help us understand how you use compression
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Respondent role
+        hint: Your role or job function
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: primary_use_case
+        label: Primary use case
+        hint: What do you compress files for
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: preferred_compression_level
+        label: Preferred compression level
+        hint: Typical settings used
+        type: select_one
+        options: [High compression, Balanced, Fast compression]
+        required: true
+      - id: 5
+        name: file_types_compressed
+        label: File types compressed
+        hint: Select common file types you compress
+        type: select_multiple
+        options: [Images, Documents, Video, Audio, Archives, Databases]
+        required: false
+      - id: 6
+        name: satisfaction_with_results
+        label: Satisfaction with results
+        hint: Rate satisfaction with current compression tools
+        type: select_one
+        options: [Very satisfied, Satisfied, Neutral, Dissatisfied]
+        required: true
+      - id: 7
+        name: issues_encountered
+        label: Issues encountered
+        hint: Common problems or limitations faced
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: desired_features
+        label: Desired features
+        hint: Features that would improve your workflow
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Tour Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: facility_info
+      label: Facility Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tour_requirements
+      label: Tour Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms and conditions
+      - I have not read and do not agree to the terms and conditions
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

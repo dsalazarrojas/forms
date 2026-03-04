@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Request Booking Form
+    pages:
+    - id: 1
+      name: travel_request_booking_form
+      label: travel_request_booking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Train
+      - Bus
+      required: false
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_date_range
+      label: travel_date_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_date_range_end
+      label: travel_date_range_end
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trip_length
+      label: trip_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_preferences_2
+      label: client_preferences_2
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Train
+      - Bus
+      required: false
+    - id: 9
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: select_one
+      options:
+      - Paris
+      - London
+      - New York
+      required: false
+    - id: 11
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: travel_requester_email
+      label: travel_requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: travel_requester_phone
+      label: travel_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_email
+      label: travel_agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_agency_name
+      label: travel_agency_name
+      hint: null
+      type: text
+      options: []
+      required: false

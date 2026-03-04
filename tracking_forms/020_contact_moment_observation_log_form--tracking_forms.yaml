@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Moment Observation Log Form
+    pages:
+    - id: 1
+      name: log_header
+      label: Interaction Observation Log
+      hint: Quality Assurance and Coaching Tool
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_name
+      label: Agent / Employee Observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time
+      label: Time of Observation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: channel_observed
+      label: Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Live Chat
+      - Email
+      - In-Person
+      - Video Meeting
+      required: true
+    - id: 7
+      name: interaction_duration
+      label: Duration (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: greeting_score
+      label: Professional Greeting and Introduction
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: active_listening_score
+      label: Active Listening and Empathy
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: resolution_score
+      label: Accuracy and Resolution Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: closing_score
+      label: Professional Closing and Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: key_strengths
+      label: Key Strengths Observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: development_areas
+      label: Areas for Development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coaching_provided
+      label: Was immediate coaching provided?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: next_review_date
+      label: Scheduled Next Review
+      hint: null
+      type: date
+      options: []
+      required: false

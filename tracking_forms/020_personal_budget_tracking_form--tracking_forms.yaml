@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Budget Tracking Form
+    pages:
+    - id: 1
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: monthly_savings
+      label: Monthly Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_goal
+      label: Income Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expense_goal
+      label: Expense Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: progress
+      label: Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

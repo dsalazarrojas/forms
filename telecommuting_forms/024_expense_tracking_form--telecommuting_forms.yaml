@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: expense_tracking_form
+    pages:
+    - id: 1
+      name: transaction_info
+      label: Expense Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_expense
+      label: Date Of Expense
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount_of_expense
+      label: Amount Of Expense
+      hint: null
+      type: number
+      options: []
+      required: false

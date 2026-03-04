@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Gardening Report
+    pages:
+    - id: 1
+      name: form_title
+      label: Daily Gardening Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_completed
+      label: Task Completed
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Task 1
+      - Task 2
+      - Task 3
+      required: false
+    - id: 3
+      name: notes_task_1
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes_task_2
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plant_health
+      label: Plant Health
+      hint: Check the plant's health
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: watering_frequency
+      label: Watering Frequency
+      hint: How often have you watered the plants?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: watering_amount
+      label: Watering Amount
+      hint: How much water was used?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_taken
+      label: Photo Taken
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: site_notes
+      label: Site Notes
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Neutral
+      required: false
+    - id: 11
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rain
+      required: false
+    - id: 12
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: humidity
+      label: Humidity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 14
+      name: soil_moisture
+      label: Soil Moisture
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 15
+      name: plant_type
+      label: Plant Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: task_1
+      label: Task 1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: task_2
+      label: Task 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: task_3
+      label: Task 3
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 19
+      name: plant_status
+      label: Plant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

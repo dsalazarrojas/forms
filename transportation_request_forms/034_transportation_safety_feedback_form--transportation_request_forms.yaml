@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Safety Feedback Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_concerns
+      label: What are your safety concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Describe the incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: transportation_type
+      label: What type of transportation were you using?
+      hint: null
+      type: select_one
+      options:
+      - Taxi
+      - Uber
+      - Lyft
+      - Public transit
+      required: false
+    - id: 6
+      name: transportation_number
+      label: Transportation number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_name
+      label: Witness name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_contact
+      label: Witness contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_relation
+      label: What was the relation of the witness?
+      hint: null
+      type: select_one
+      options:
+      - Family member
+      - Passenger
+      - Driver
+      - Other
+      required: false
+    - id: 10
+      name: witness_statement
+      label: Witness statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_statement
+      label: What is your statement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: safety_rating
+      label: Safety Rating
+      hint: null
+      type: number
+      options: []
+      required: false

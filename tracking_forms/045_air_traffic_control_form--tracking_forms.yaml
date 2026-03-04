@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Traffic Control Form
+    pages:
+    - id: 1
+      name: controller_info_header
+      label: -- Controller Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: controller_name
+      label: Controller Name
+      hint: ATC Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shift_id
+      label: Shift ID
+      hint: e.g. Morning-A
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sector
+      label: Sector / Position
+      hint: e.g. Tower, Ground, Approach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: traffic_log_header
+      label: -- Traffic Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: callsign
+      label: Aircraft Callsign
+      hint: e.g. UAL123
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: aircraft_type
+      label: Aircraft Type
+      hint: e.g. B737
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: flight_level
+      label: Flight Level / Altitude
+      hint: e.g. FL350 or 3000ft
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: heading
+      label: Heading
+      hint: Magnetic Heading (0-360)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: squawk_code
+      label: Squawk Code
+      hint: Transponder code (e.g. 4521)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: clearance
+      label: Clearance Issued
+      hint: Action authorized
+      type: select_one
+      options:
+      - Cleared for Takeoff
+      - Cleared to Land
+      - Climb and Maintain
+      - Descend and Maintain
+      - Turn Left/Right Heading
+      - Hold Position
+      required: true
+    - id: 13
+      name: handover_time
+      label: Handover Time
+      hint: UTC
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: incidents
+      label: Notes / Incidents
+      hint: Go-arounds, deviations, etc.
+      type: text
+      options: []
+      required: false

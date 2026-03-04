@@ -1,0 +1,361 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleeping Habits Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wake_time_page
+      label: What is your wake up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: wake_time_am_pm_page
+      label: AM or PM
+      hint: null
+      type: select_one
+      options:
+      - 12:00 AM
+      - 01:00 AM
+      - 02:00 AM
+      - 03:00 AM
+      - 04:00 AM
+      - 05:00 AM
+      - 06:00 AM
+      - 07:00 AM
+      - 08:00 AM
+      - 09:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 01:00 PM
+      - 02:00 PM
+      - 03:00 PM
+      - 04:00 PM
+      - 05:00 PM
+      - 06:00 PM
+      - 07:00 PM
+      - 08:00 PM
+      - 09:00 PM
+      - 10:00 PM
+      - 11:00 PM
+      required: false
+    - id: 4
+      name: bedtime_page
+      label: What is your bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wake_streak_page
+      label: How many consecutive days do you sleep 8 hours or more each night?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      - 4 days
+      - 5 days
+      - 6 days
+      - 7 days
+      - 8 days
+      - 9 days
+      - 10 days
+      - 11 days
+      - 12 days
+      - 13 days
+      - 14 days
+      - 15 days
+      - 16 days
+      - 17 days
+      - 18 days
+      - 19 days
+      - 20 days
+      - 21 days
+      - 22 days
+      - 23 days
+      - 24 days
+      - 25 days
+      - 26 days
+      - 27 days
+      - 28 days
+      required: true
+    - id: 6
+      name: sleep_duration_page
+      label: How many hours do you sleep each night?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sleep_quality_page
+      label: How would you rate the quality of your sleep?
+      hint: null
+      type: select_one
+      options:
+      - 0-1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - 3-4 hours
+      - 4-5 hours
+      - 5-6 hours
+      - 6-7 hours
+      - 7-8 hours
+      - 8-9 hours
+      - 9-10 hours
+      - 10-11 hours
+      - 11-12 hours
+      required: true
+    - id: 8
+      name: naps_page
+      label: Do you take naps?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 9
+      name: naps_frequency_page
+      label: How many times a week do you take naps?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - 1 time
+      - 2 times
+      - 3 times
+      - 4 times
+      - 5 times
+      - 6 times
+      - 7 times
+      required: false
+    - id: 10
+      name: naps_duration_page
+      label: How long do naps usually last?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - 90-120 minutes
+      - More than 120 minutes
+      required: false
+    - id: 11
+      name: sleep_environment_page
+      label: What is the environment where you sleep?
+      hint: null
+      type: select_multiple
+      options:
+      - Bed
+      - Crib
+      - Couch
+      - Car
+      - Hotel
+      - Outdoor
+      - Other
+      required: false
+    - id: 12
+      name: bed_type_page
+      label: What kind of bed do you sleep in?
+      hint: null
+      type: select_multiple
+      options:
+      - Bed
+      - Crib
+      - Futon
+      - Air mattress
+      - Waterbed
+      - Other
+      required: false
+    - id: 13
+      name: sleep_position_page
+      label: What position do you usually sleep in?
+      hint: null
+      type: select_multiple
+      options:
+      - Fetal position
+      - Back
+      - Stomach
+      - Side
+      - Other
+      required: false
+    - id: 14
+      name: wake_reason_page
+      label: Why do you wake up?
+      hint: null
+      type: select_multiple
+      options:
+      - Alarm clock
+      - Light
+      - Noise
+      - Thirsty
+      - Other
+      required: false
+    - id: 15
+      name: sleep_schedule_page
+      label: What time do you usually go to bed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: sleep_schedule_am_pm_page
+      label: AM or PM
+      hint: null
+      type: select_one
+      options:
+      - 12:00 AM
+      - 01:00 AM
+      - 02:00 AM
+      - 03:00 AM
+      - 04:00 AM
+      - 05:00 AM
+      - 06:00 AM
+      - 07:00 AM
+      - 08:00 AM
+      - 09:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 01:00 PM
+      - 02:00 PM
+      - 03:00 PM
+      - 04:00 PM
+      - 05:00 PM
+      - 06:00 PM
+      - 07:00 PM
+      - 08:00 PM
+      - 09:00 PM
+      - 10:00 PM
+      - 11:00 PM
+      required: false
+    - id: 17
+      name: sleep_schedule_lunch_page
+      label: Do you usually sleep in during lunch?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: wake_up_page
+      label: How do you usually wake up?
+      hint: null
+      type: select_multiple
+      options:
+      - Light
+      - Alarm clock
+      - Natural sunlight
+      - Other
+      required: false
+    - id: 19
+      name: alarm_clock_page
+      label: What time do you usually set your alarm clock to?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: sleep_duration_page
+      label: What is the average length of your sleep?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 4 hours
+      - 4-6 hours
+      - 6-8 hours
+      - 8-10 hours
+      - 10-12 hours
+      - More than 12 hours
+      required: false
+    - id: 21
+      name: wake_streak_start_page
+      label: When was your longest consecutive wake-up streak?
+      hint: null
+      type: select_multiple
+      options:
+      - Today
+      - Yesterday
+      - 1 week ago
+      - 2 weeks ago
+      - 3 weeks ago
+      - 4 weeks ago
+      required: false
+    - id: 22
+      name: wake_streak_length_page
+      label: How long was your longest consecutive wake-up streak?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sleep_streak_page
+      label: What is your longest consecutive sleep streak?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 night
+      - 2 nights
+      - 3 nights
+      - 4 nights
+      - 5 nights
+      - 6 nights
+      - 7 nights
+      - 8 nights
+      - 9 nights
+      - 10 nights
+      - 11 nights
+      - 12 nights
+      - 13 nights
+      - 14 nights
+      - 15 nights
+      - 16 nights
+      - 17 nights
+      - 18 nights
+      - 19 nights
+      - 20 nights
+      - 21 nights
+      - 22 nights
+      - 23 nights
+      - 24 nights
+      - 25 nights
+      required: false
+    - id: 24
+      name: sleep_streak_start_page
+      label: When did your longest consecutive sleep streak start?
+      hint: null
+      type: select_multiple
+      options:
+      - Today
+      - Yesterday
+      - 1 week ago
+      - 2 weeks ago
+      - 3 weeks ago
+      - 4 weeks ago
+      required: false
+    - id: 25
+      name: sleep_streak_end_page
+      label: When did your longest consecutive sleep streak end?
+      hint: null
+      type: select_multiple
+      options:
+      - Today
+      - Yesterday
+      - 1 week ago
+      - 2 weeks ago
+      - 3 weeks ago
+      - 4 weeks ago
+      required: false

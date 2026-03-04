@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Innovation Progress Report
+    pages:
+    - id: 1
+      name: project_status
+      label: project_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: milestones_achieved
+      label: milestones_achieved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: challenges_encountered
+      label: challenges_encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_manager_comments
+      label: project_manager_comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: engineering_comments
+      label: engineering_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_manager_comments
+      label: production_manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quality_manager_comments
+      label: quality_manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false

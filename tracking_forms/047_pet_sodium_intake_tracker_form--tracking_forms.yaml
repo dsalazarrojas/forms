@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_sodium_intake_tracker_form
+    pages:
+    - id: 1
+      name: pet_sodium_intake
+      label: Pet Sodium Intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: intake_date
+      label: intake_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: feeding_time
+      label: feeding_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: feeding_method
+      label: feeding_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''label'': ''Free feeding''}'
+      - '{''id'': 5.1, ''label'': ''Limited feeding''}'
+      - '{''id'': 5.2, ''label'': ''Intermittent feeding''}'
+      required: true
+    - id: 6
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinarian_name
+      label: veterinarian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''Dog''}'
+      - '{''id'': 8.2, ''label'': ''Cat''}'
+      - '{''id'': 8.3, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Selection And Time Tracking Survey
+    pages:
+    - id: 1
+      name: selection_and_time_tracking_survey
+      label: selection_and_time_tracking_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_allocation
+      label: time_allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: activity_choices
+      label: activity_choices
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      - d
+      - e
+      required: false
+    - id: 6
+      name: other_activities
+      label: other_activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_allocation_other
+      label: time_allocation_other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_other
+      label: time_spent_other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

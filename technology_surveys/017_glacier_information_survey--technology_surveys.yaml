@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Glacier Information Survey
+    pages:
+    - id: 1
+      name: glacier_information_survey_form_page
+      label: Glacier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: conditions_page
+      label: Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: features_page
+      label: Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: conditions_1
+      label: Glacier Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: features_1
+      label: Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: glacial_length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: glacial_width
+      label: Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: glacial_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: glacial_depth
+      label: Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: glacial_surface_area
+      label: Surface Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: glacial_volume
+      label: Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: glacial_aspect_ratio
+      label: Aspect Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: glacial_slope
+      label: Slope
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '10'
+      - '20'
+      - '25'
+      - '30'
+      - '40'
+      - '50'
+      required: false
+    - id: 14
+      name: glacial_orientation
+      label: Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      - Flat
+      required: false
+    - id: 15
+      name: glacial_color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - White
+      - Brown
+      - Black
+      - Green
+      required: false
+    - id: 16
+      name: glacial_terminus
+      label: Terminus
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      - None
+      required: false
+    - id: 17
+      name: glacial_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: researcher_information
+      label: Researcher Information
+      hint: null
+      type: note
+      options: []
+      required: false

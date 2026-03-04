@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Training Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the survey!
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_rating
+      label: Session engagement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: learning_goals
+      label: What were the primary goals for this session?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: trainer_feedback
+      label: How would you rate the trainer?
+      hint: null
+      type: select_one
+      options:
+      - Highly rated
+      - Average
+      - Needs improvement
+      required: true
+    - id: 5
+      name: session_content
+      label: What was your favorite part of the session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: improvement_opportunities
+      label: What are some areas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendations
+      label: Do you have any recommendations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

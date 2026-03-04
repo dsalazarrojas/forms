@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Migraine Diary Form
+    pages:
+    - id: 1
+      name: date_1
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: date_2
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 5
+      name: symptoms_1
+      label: Headache
+      hint: null
+      type: select_multiple
+      options:
+      - Numbness
+      - Sensitivity
+      - Visual Disturbance
+      required: true
+    - id: 6
+      name: symptoms_2
+      label: Sensitivity
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Vomiting
+      - Dizziness
+      required: true
+    - id: 7
+      name: symptoms_3
+      label: Visual Disturbance
+      hint: null
+      type: select_multiple
+      options:
+      - Photophobia
+      - Phonophobia
+      - Aural Disturbance
+      required: true
+    - id: 8
+      name: symptoms_4
+      label: Other Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      - janedoe
+      required: true

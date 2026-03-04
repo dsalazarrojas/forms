@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Transaction Log
+    pages:
+    - id: 1
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: transaction_type
+      label: transaction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Income''}'
+      - '{''id'': 2, ''label'': ''Expense''}'
+      - '{''id'': 3, ''label'': ''Transfer''}'
+      required: true
+    - id: 3
+      name: transaction_amount
+      label: transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transaction_description
+      label: transaction_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transaction_currency
+      label: transaction_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''CAD''}'
+      required: true
+    - id: 6
+      name: transaction_reference
+      label: transaction_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transaction_note
+      label: transaction_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: transaction_user
+      label: transaction_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transaction_company
+      label: transaction_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transaction_date_2
+      label: transaction_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: transaction_type_2
+      label: transaction_type_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Income''}'
+      - '{''id'': 2, ''label'': ''Expense''}'
+      - '{''id'': 3, ''label'': ''Transfer''}'
+      required: false
+    - id: 12
+      name: transaction_amount_2
+      label: transaction_amount_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: transaction_description_2
+      label: transaction_description_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transaction_currency_2
+      label: transaction_currency_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''CAD''}'
+      required: false
+    - id: 15
+      name: transaction_reference_2
+      label: transaction_reference_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transaction_note_2
+      label: transaction_note_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: transaction_user_2
+      label: transaction_user_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transaction_company_2
+      label: transaction_company_2
+      hint: null
+      type: text
+      options: []
+      required: false

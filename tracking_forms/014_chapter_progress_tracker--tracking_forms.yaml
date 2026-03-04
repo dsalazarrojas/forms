@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Progress Tracker
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student and Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter your name as registered for the course
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email_address
+      label: Student Email Address
+      hint: For progress reports and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_or_book_title
+      label: Course or Book Title
+      hint: What material are you currently studying?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_chapter_tracking
+      label: -- Chapter Progress Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_chapter_number
+      label: Current Chapter Number
+      hint: Enter the chapter number you are logging
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: current_chapter_title
+      label: Current Chapter Title
+      hint: Name of the chapter as it appears in the text
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: chapter_status_current
+      label: Current Chapter Status
+      hint: Select your progress level for this chapter
+      type: select_one
+      options:
+      - Not Started
+      - Reading in Progress
+      - Reviewing Content
+      - Completed
+      - Assessment Pending
+      required: true
+    - id: 9
+      name: date_started_chapter
+      label: Date Started This Chapter
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_completed_chapter
+      label: Date Completed This Chapter
+      hint: Leave blank if still in progress
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_learning_assessment
+      label: -- Learning Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: key_concepts_learned_summary
+      label: Key Concepts Learned
+      hint: List 3-5 main ideas from this chapter
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: chapter_difficulty_rating
+      label: Chapter Difficulty Rating
+      hint: Rate from 1 (Very easy) to 5 (Very challenging)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: understanding_of_material_rating
+      label: Understanding of Material Rating
+      hint: How well do you grasp the concepts?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: questions_for_instructor_mentor
+      label: Questions for Instructor or Mentor
+      hint: List any areas where you need further clarification
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: planned_date_for_next_chapter
+      label: Planned Date for Next Chapter
+      hint: When do you intend to start the next section?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: section_log_confirmation
+      label: -- Log Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accuracy_confirmation_student
+      label: Confirmation of Progress Entry
+      hint: I confirm that I have completed the study tasks for this entry
+      type: select_one
+      options:
+      - I Confirm and Log
+      - Other
+      required: true
+    - id: 20
+      name: date_of_progress_log_entry
+      label: Date of This Entry
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_study_notes
+      label: Additional Study Notes
+      hint: Any personal reflections or study tips for this chapter
+      type: text
+      options: []
+      required: false

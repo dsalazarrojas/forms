@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Verification Form
+    pages:
+    - id: 1
+      name: entity_type
+      label: Entity Type
+      hint: Indicate if this is for an individual or business
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Partnership
+      - Corporation
+      required: true
+    - id: 2
+      name: full_name
+      label: Full Name or Business Name
+      hint: Legal name as it appears on banking documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email address on file
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Verified contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bank_name
+      label: Bank Name
+      hint: Name of your financial institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: Last 4 digits of your account number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: routing_number
+      label: Routing Number
+      hint: ABA routing number for verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_type
+      label: Account Type
+      hint: Type of bank account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Money Market
+      - Line of Credit
+      required: true
+    - id: 9
+      name: account_status
+      label: Account Status
+      hint: Current status of the account
+      type: select_one
+      options:
+      - Active
+      - Dormant
+      - Closed
+      - Suspended
+      required: true
+    - id: 10
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Name of the primary account holder
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_opened
+      label: Account Opening Date
+      hint: When was this account opened?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: verification_method
+      label: Verification Method
+      hint: How would you like to verify your account?
+      type: select_one
+      options:
+      - Micro Deposits
+      - Document Upload
+      - Online Banking Login
+      - Bank Statement
+      required: true
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents
+      hint: What documents are you providing?
+      type: select_multiple
+      options:
+      - Bank Statement
+      - Cancelled Check
+      - Deposit Slip
+      - Account Agreement
+      - Tax ID Documentation
+      required: true
+    - id: 14
+      name: deposit_amount_one
+      label: First Micro-Deposit Amount
+      hint: Amount of first deposit for verification
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: deposit_amount_two
+      label: Second Micro-Deposit Amount
+      hint: Amount of second deposit for verification
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: verification_date
+      label: Verification Date
+      hint: When do you need this verified by?
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: purpose_of_verification
+      label: Purpose of Verification
+      hint: What is the verification being used for?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Information or Notes
+      hint: Any additional details about this verification request
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_confirmation
+      label: I authorize this verification request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

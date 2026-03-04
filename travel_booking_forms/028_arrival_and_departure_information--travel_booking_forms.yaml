@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arrival And Departure Information
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Total Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reservation_number
+      label: Reservation or Booking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_arrival
+      label: -- Arrival Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: arrival_date
+      label: Expected Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: arrival_method
+      label: Method of Arrival
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Flight
+      - Train
+      - Bus
+      - Other
+      required: true
+    - id: 11
+      name: transportation_details
+      label: Transportation Details
+      hint: Flight number, car rental, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_arrival_requests
+      label: Special Arrival Requests or Instructions
+      hint: Early check-in, luggage assistance, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_room_preferences
+      label: -- Room and Accommodation Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: room_type
+      label: Room Type Requested
+      hint: null
+      type: select_one
+      options:
+      - Single room
+      - Double room
+      - Suite
+      - Twin beds
+      - Accessible room
+      - Other
+      required: true
+    - id: 15
+      name: special_accommodation
+      label: Special Accommodation Needs
+      hint: Wheelchair access, high floor, quiet room, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bed_preference
+      label: Bed Preference
+      hint: null
+      type: select_one
+      options:
+      - King bed
+      - Two twin beds
+      - Queen bed
+      - No preference
+      required: false
+    - id: 17
+      name: section_departure
+      label: -- Departure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: departure_date
+      label: Expected Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: departure_time
+      label: Expected Departure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: checkout_time_preference
+      label: Checkout Time Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard checkout
+      - Early checkout
+      - Late checkout request
+      required: false
+    - id: 21
+      name: departure_method
+      label: Departure Method
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Flight
+      - Train
+      - Bus
+      - Other
+      required: false
+    - id: 22
+      name: special_departure_needs
+      label: Special Departure Requests
+      hint: Late checkout, luggage storage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: purpose_of_stay
+      label: Purpose of Stay
+      hint: Business, leisure, event, etc.
+      type: select_one
+      options:
+      - Business
+      - Leisure
+      - Event
+      - Conference
+      - Wedding
+      - Other
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

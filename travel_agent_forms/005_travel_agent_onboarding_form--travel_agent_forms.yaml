@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Onboarding Form
+    pages:
+    - id: 1
+      name: travel_agent_info
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: CompanyName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: companyAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_phone
+      label: companyPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_email
+      label: companyEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: agent_name
+      label: agentName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agent_phone_number
+      label: agentPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agent_email
+      label: agentEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_type
+      label: onboardingType
+      hint: null
+      type: select_one
+      options:
+      - Full Onboarding
+      - Light Onboarding
+      required: false
+    - id: 10
+      name: onboarding_date
+      label: onboardingDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: agent_availability
+      label: agentAvailability
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 12
+      name: travel_agent_notes
+      label: Travel Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: company_notes
+      label: Company Notes
+      hint: null
+      type: note
+      options: []
+      required: false

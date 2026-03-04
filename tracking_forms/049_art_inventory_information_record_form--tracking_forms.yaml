@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Inventory Information Record Form
+    pages:
+    - id: 1
+      name: inventory_id
+      label: Inventory ID
+      hint: Unique identifier for the item
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: title_of_work
+      label: Title of work
+      hint: Artwork title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist
+      label: Artist
+      hint: Name of the artist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: year_created
+      label: Year created
+      hint: Year the work was created
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medium
+      label: Medium
+      hint: Materials used
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dimensions
+      label: Dimensions
+      hint: Height x width x depth
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: condition_report
+      label: Condition report
+      hint: Current condition notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Storage or display location
+      hint: Gallery or storage location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provenance
+      label: Provenance
+      hint: Ownership history summary
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_value
+      label: Insurance value
+      hint: Appraised insurance value
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Protection Plans Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: traveler_details
+      label: Traveler Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_protection_plans
+      label: Travel Protection Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: Provide a brief message describing the protection plans you're inquiring
+        about.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Brochure
+      - Trade Show
+      - Other
+      required: false
+    - id: 8
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_multiple
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: false
+    - id: 9
+      name: lead_generation
+      label: Lead Generation
+      hint: Is this lead a lead for lead generation?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_work_day_report
+    pages:
+    - id: 1
+      name: completed_tasks
+      label: Completed Tasks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tomorrow_goals
+      label: Tomorrow Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

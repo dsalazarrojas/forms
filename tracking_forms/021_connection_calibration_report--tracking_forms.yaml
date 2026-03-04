@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Connection Calibration Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of calibration report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_number
+      label: Report Number
+      hint: Unique report identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: technician_name
+      label: Technician Name
+      hint: Name of calibration technician
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: technician_id
+      label: Technician ID
+      hint: Employee or certification ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_id
+      label: Equipment ID
+      hint: Unique identifier for equipment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_name
+      label: Equipment Name
+      hint: Name or description of equipment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_type
+      label: Equipment Type
+      hint: Category of equipment
+      type: select_one
+      options:
+      - Pressure Gauge
+      - Temperature Sensor
+      - Flow Meter
+      - Voltage Meter
+      - Current Meter
+      - Force Gauge
+      - Torque Wrench
+      - Scale or Balance
+      - Other
+      required: true
+    - id: 8
+      name: manufacturer
+      label: Manufacturer
+      hint: Equipment manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: model_number
+      label: Model Number
+      hint: Equipment model number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: serial_number
+      label: Serial Number
+      hint: Equipment serial number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Equipment Location
+      hint: Where is the equipment located
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: calibration_procedure
+      label: Calibration Procedure
+      hint: Procedure or standard used
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: procedure_document_number
+      label: Procedure Document Number
+      hint: Reference document number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reference_standards
+      label: Reference Standards Used
+      hint: List of reference standards
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reference_certificates
+      label: Reference Certificate Numbers
+      hint: Calibration certificates for standards
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: environmental_conditions
+      label: Environmental Conditions
+      hint: Temperature humidity during calibration
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: as_found_reading
+      label: As-Found Reading
+      hint: Reading before calibration adjustment
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: as_found_tolerance
+      label: As-Found Tolerance
+      hint: Was as-found within tolerance
+      type: select_one
+      options:
+      - Within Tolerance
+      - Out of Tolerance
+      - Not Applicable
+      required: true
+    - id: 19
+      name: as_left_reading
+      label: As-Left Reading
+      hint: Reading after calibration
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: as_left_tolerance
+      label: As-Left Tolerance
+      hint: Is as-left within tolerance
+      type: select_one
+      options:
+      - Within Tolerance
+      - Out of Tolerance
+      required: true
+    - id: 21
+      name: measurement_points
+      label: Measurement Points Tested
+      hint: Number of test points
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: uncertainty_value
+      label: Measurement Uncertainty
+      hint: Calculated uncertainty value
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: calibration_result
+      label: Calibration Result
+      hint: Overall result of calibration
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pass with Limitations
+      - Adjusted
+      required: true
+    - id: 24
+      name: adjustments_made
+      label: Adjustments Made
+      hint: Describe any adjustments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations for use
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: next_calibration_date
+      label: Next Calibration Due Date
+      hint: When is next calibration due
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: calibration_interval
+      label: Calibration Interval
+      hint: Time between calibrations
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - 24 months
+      - Other
+      required: true
+    - id: 28
+      name: technician_signature
+      label: Technician Signature
+      hint: Name of technician
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of reviewing supervisor
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: review_status
+      label: Review Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Pending Review
+      - Reviewed and Approved
+      - Requires Correction
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: HIPAA Security Training Form
+    pages:
+    - id: 1
+      name: training_form
+      label: Training Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Security and Privacy
+      - HIPAA
+      - Compliance and Data
+      - Data and Information Security
+      - Data Protection
+      - Data Breaches
+      - Electronic Health Records
+      - Electronic Medical Records
+      required: false
+    - id: 8
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

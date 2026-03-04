@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_agent_credit_card_authorization_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card Number
+      - Card Type
+      - Expiration Date
+      - Security Code
+      required: false
+    - id: 4
+      name: travel_info
+      label: Travel Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorization_amount
+      label: Authorization Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: auth_expires
+      label: Authorization Expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: auth_notes
+      label: Authorization Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: auth_reason
+      label: Authorization Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false

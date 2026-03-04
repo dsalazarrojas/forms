@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: telehealth patient consent form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: telehealth_services
+      label: telehealth services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent_to_services
+      label: consent to telehealth services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: digital signature
+      hint: null
+      type: note
+      options: []
+      required: false

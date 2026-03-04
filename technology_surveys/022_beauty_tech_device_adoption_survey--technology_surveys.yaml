@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Tech Device Adoption Survey
+    pages:
+    - id: 1
+      name: section_device_usage
+      label: -- Device Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: devices_owned
+      label: Which beauty tech devices do you currently own or use?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - LED Light Therapy Mask
+      - Microcurrent Device
+      - Sonic Facial Cleansing Brush
+      - At-home Laser Hair Removal
+      - High-Frequency Wand
+      - Smart Hairbrush
+      - Nano-Ionic Steamer
+      required: true
+    - id: 3
+      name: usage_frequency
+      label: How often do you use your beauty tech devices?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times per week
+      - Once a week
+      - Monthly
+      - Rarely/Stopped using
+      required: true
+    - id: 4
+      name: section_satisfaction
+      label: -- Satisfaction and Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction_rating
+      label: Overall satisfaction with your beauty tech devices
+      hint: 1 being very dissatisfied, 5 being very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: result_noticeability
+      label: How noticeable are the results from using these devices?
+      hint: null
+      type: select_one
+      options:
+      - Very Noticeable
+      - Somewhat Noticeable
+      - Minimal Change
+      - No Change at All
+      required: true
+    - id: 7
+      name: ease_of_use_rating
+      label: Ease of integrating devices into your routine
+      hint: 1 being very difficult, 5 being very easy
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_adoption_barriers
+      label: -- Adoption Barriers and Future Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_barrier_to_purchase
+      label: What is the biggest barrier to buying new beauty tech?
+      hint: null
+      type: select_one
+      options:
+      - High Price Point
+      - Complexity of Use
+      - Skepticism about results
+      - Lack of time for routine
+      - Concerns about safety
+      required: true
+    - id: 10
+      name: future_purchase_intent
+      label: How likely are you to purchase another beauty device in the next year?
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: next_device_interest
+      label: Which device are you most interested in purchasing next?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: information_sources
+      label: Where do you find information about beauty tech?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media Influencers
+      - Tech Review Websites
+      - Dermatologist Blogs
+      - Friend Recommendations
+      - Brand Websites
+      required: false
+    - id: 13
+      name: open_comments
+      label: Any additional thoughts on the future of beauty technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

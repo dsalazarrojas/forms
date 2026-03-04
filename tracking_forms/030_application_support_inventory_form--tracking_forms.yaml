@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Support Inventory Form
+    pages:
+    - id: 1
+      name: application_information
+      label: -- Application Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: application_name
+      label: Application Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: application_acronym
+      label: Application Acronym or Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_version
+      label: Current Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_name
+      label: Vendor or Developer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_details
+      label: -- Support Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_one
+      options:
+      - Tier 1 - Basic
+      - Tier 2 - Standard
+      - Tier 3 - Premium
+      - Tier 4 - Enterprise
+      - Tier 5 - Custom
+      required: true
+    - id: 8
+      name: support_priority
+      label: Support Priority
+      hint: null
+      type: select_one
+      options:
+      - Critical - 24/7 support
+      - High - Business hours
+      - Medium - Standard SLA
+      - Low - As available
+      required: true
+    - id: 9
+      name: support_contact
+      label: Primary Support Contact
+      hint: Name and email
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: support_phone
+      label: Support Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_portal_url
+      label: Support Portal or Ticket System URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: usage_and_deployment
+      label: -- Usage and Deployment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: deployment_location
+      label: Deployment Location
+      hint: null
+      type: select_one
+      options:
+      - On-premises
+      - Cloud-hosted
+      - Hybrid
+      - SaaS
+      required: true
+    - id: 14
+      name: number_of_users
+      label: Number of Active Users
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: department_usage
+      label: Departments/Teams Using This Application
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: critical_business_functions
+      label: Critical Business Functions Dependent on This App
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: maintenance_and_updates
+      label: -- Maintenance and Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: last_update_date
+      label: Date of Last Update or Patch
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_schedule
+      label: Scheduled Maintenance Window
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: end_of_support_date
+      label: End of Support or Vendor Sunset Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: known_issues
+      label: Known Issues or Limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: support_notes
+      label: Additional Support Notes
+      hint: null
+      type: text
+      options: []
+      required: false

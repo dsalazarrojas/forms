@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: telehealth Clinical Assessment Form
+    pages:
+    - id: 1
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Stable
+      - Unstable
+      required: false
+    - id: 3
+      name: patient_location
+      label: Patient Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Hospital
+      - Clinic
+      - Ambulatory
+      required: false
+    - id: 4
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: A symptom is a change in the body or behavior of an individual that indicates
+        a possible disorder, disease, or other health-related issue.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Pollen
+      - Dust
+      - Medication
+      required: false
+    - id: 7
+      name: medication
+      label: Medication
+      hint: Name of the medication, dosage, and start date
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false

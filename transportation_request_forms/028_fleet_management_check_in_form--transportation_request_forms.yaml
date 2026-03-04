@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Management Check In Form
+    pages:
+    - id: 1
+      name: vehicle_check_in
+      label: Check In Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - Vehicle
+      - Number
+      - License
+      required: true
+    - id: 2
+      name: check_in_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: check_in_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_in_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_driver
+      label: Assigned Driver
+      hint: null
+      type: select_one
+      options:
+      - Driver 1
+      - Driver 2
+      - Driver 3
+      required: false
+    - id: 7
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      - Fair
+      required: false
+    - id: 8
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Quarter
+      - Empty
+      required: false

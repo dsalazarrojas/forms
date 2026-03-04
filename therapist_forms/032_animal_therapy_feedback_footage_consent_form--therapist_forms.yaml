@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Therapy Feedback Footage Consent Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: Information about therapy participant
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_dob
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name (if applicable)
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: If applicable
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: section_therapy_info
+      label: -- Therapy Session Information --
+      hint: Details about the therapy program
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: therapy_type
+      label: Type of Animal Therapy
+      hint: What kind of therapy
+      type: select_one
+      options:
+      - Equine Therapy
+      - Canine Therapy
+      - Feline Therapy
+      - Dolphin Therapy
+      - Small Animal Therapy
+      - Other
+      required: true
+    - id: 10
+      name: therapist_name
+      label: Therapist Name
+      hint: Name of your therapist
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: therapy_start_date
+      label: Therapy Start Date
+      hint: When therapy sessions began
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: therapy_frequency
+      label: Therapy Frequency
+      hint: How often you attend sessions
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Scheduled
+      required: true
+    - id: 13
+      name: session_date
+      label: Today's Session Date
+      hint: Date of current session
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_feedback
+      label: -- Session Feedback --
+      hint: Your feedback on today's session
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: session_experience
+      label: How Was Today's Session
+      hint: Rate your experience
+      type: select_one
+      options:
+      - 1 - Not Helpful
+      - 2 - Somewhat Helpful
+      - 3 - Helpful
+      - 4 - Very Helpful
+      - 5 - Extremely Helpful
+      required: true
+    - id: 16
+      name: animal_interaction
+      label: Comfort with Animal Interaction
+      hint: Rate your comfort level
+      type: select_one
+      options:
+      - 1 - Very Uncomfortable
+      - 2 - Uncomfortable
+      - 3 - Neutral
+      - 4 - Comfortable
+      - 5 - Very Comfortable
+      required: true
+    - id: 17
+      name: therapist_skills
+      label: Therapist's Skills and Knowledge
+      hint: Rate the therapist
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: progress_perception
+      label: Perceived Progress
+      hint: Do you feel you are making progress
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 19
+      name: goals_advancement
+      label: Progress Toward Your Goals
+      hint: Rate progress toward therapy goals
+      type: select_one
+      options:
+      - 1 - No Progress
+      - 2 - Minimal Progress
+      - 3 - Some Progress
+      - 4 - Good Progress
+      - 5 - Excellent Progress
+      required: true
+    - id: 20
+      name: session_comments
+      label: Additional Comments About Session
+      hint: Any feedback about today
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_recording_consent
+      label: -- Recording and Footage Consent --
+      hint: Permission for video or audio recording
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: consent_video_recording
+      label: Consent to Video Recording
+      hint: Allow video recording of sessions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: consent_audio_recording
+      label: Consent to Audio Recording
+      hint: Allow audio recording of sessions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: consent_use_for_therapy
+      label: Recording Use for Therapy Review
+      hint: Can recordings be used to review progress
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: consent_use_for_research
+      label: Recording Use for Research or Training
+      hint: Can recordings be used for research
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: consent_use_for_education
+      label: Recording Use for Educational Materials
+      hint: Can recordings be used for teaching
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: footage_anonymization
+      label: Anonymization for Public Use
+      hint: Remove identifying information if shared
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 28
+      name: consent_social_media
+      label: Permission to Share on Social Media
+      hint: Allow sharing of footage on social media
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: section_confidentiality
+      label: -- Confidentiality Agreement --
+      hint: Privacy protections
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: confirm_confidentiality
+      label: Understand Confidentiality Protections
+      hint: Acknowledge privacy measures
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 31
+      name: agree_to_terms
+      label: I Agree to These Terms
+      hint: Accept all terms of the form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

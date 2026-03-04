@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight_damage_report_form
+    pages:
+    - id: 1
+      name: flight_damage_report_form_1
+      label: Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_question_1
+      label: What type of incident occurred?
+      hint: null
+      type: select_one
+      options:
+      - Accidental damage
+      - Force Majeure
+      - Natural disaster
+      - Other
+      required: true
+    - id: 3
+      name: form_1_question_2
+      label: Description of incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_1_question_3
+      label: Date of incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: form_1_question_4
+      label: Time of incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: form_1_question_5
+      label: Reported by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_1_question_6
+      label: Damage description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: form_1_question_7
+      label: Damage photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_1_question_8
+      label: Damage videos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_1_question_9
+      label: Damage notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_1_question_10
+      label: Damage amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_1_question_11
+      label: Damage status
+      hint: null
+      type: select_one
+      options:
+      - Claim submitted
+      - Claim not submitted
+      - Awaiting response
+      - Closed
+      required: true
+    - id: 13
+      name: form_1_question_12
+      label: Form completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_1_question_13
+      label: Flight number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_1_question_14
+      label: Flight date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: form_1_question_15
+      label: Form submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: form_1_question_16
+      label: Damage reason
+      hint: null
+      type: select_one
+      options:
+      - Accidental damage
+      - Force majeure
+      - Natural disaster
+      - Other
+      required: true
+    - id: 18
+      name: form_1_question_17
+      label: Baggage claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_1_question_18
+      label: Baggage type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_1_question_19
+      label: Baggage weight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_1_question_20
+      label: Baggage contents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: form_1_question_21
+      label: Damage severity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: form_1_question_22
+      label: Damage cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: form_1_question_23
+      label: Damage impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_1_question_24
+      label: Submit form
+      hint: null
+      type: email
+      options: []
+      required: true

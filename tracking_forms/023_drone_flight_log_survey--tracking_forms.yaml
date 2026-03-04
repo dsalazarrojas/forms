@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Flight Log Survey
+    pages:
+    - id: 1
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drone_model
+      label: Drone Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flight_time
+      label: Flight Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pilot_name
+      label: Pilot Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pilot_license
+      label: Pilot License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weather
+      label: Weather
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: flight_logs
+      label: Flight Logs
+      hint: null
+      type: select_multiple
+      options:
+      - Flight Log 1
+      - Flight Log 2
+      - Flight Log 3
+      required: false
+    - id: 14
+      name: flight_conditions
+      label: Flight Conditions
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: flight_purpose
+      label: Flight Purpose
+      hint: null
+      type: select_one
+      options:
+      - Training
+      - Inspection
+      - Testing
+      required: false
+    - id: 16
+      name: flight_altitude
+      label: Flight Altitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: flight_duration
+      label: Flight Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: flight_distance
+      label: Flight Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: flight_notes
+      label: Flight Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: flight_time_utc
+      label: Flight Time (UTC)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: flight_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: flight_time_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: flight_time_end
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Crash
+      - Near Miss
+      - Other
+      required: false
+    - id: 25
+      name: incident_nature
+      label: Incident Nature
+      hint: null
+      type: select_one
+      options:
+      - Mechanical Failure
+      - Weather Condition
+      - Human Error
+      required: false

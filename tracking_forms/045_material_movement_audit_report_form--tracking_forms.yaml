@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Movement Audit Report Form
+    pages:
+    - id: 1
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: warehouse_id
+      label: Warehouse
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: factory_id
+      label: Factory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: material_id
+      label: Material
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transferred_by
+      label: Transferred By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: transferred_to
+      label: Transferred To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reason_code
+      label: Reason Code
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

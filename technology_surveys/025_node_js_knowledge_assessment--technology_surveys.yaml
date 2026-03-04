@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: node-js-knowledge-assessment
+    pages:
+    - id: 1
+      name: goals
+      label: What are your goals for using Node.js?
+      hint: null
+      type: select_multiple
+      options:
+      - Build a real-time database
+      - Create a web scraper
+      - Develop a full-stack application
+      - Test and validate user input
+      - Other
+      required: false
+    - id: 2
+      name: experience
+      label: What is your experience with Node.js?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: false
+    - id: 3
+      name: language
+      label: What is your proficiency level in Node.js?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 4
+      name: knowledge
+      label: Which of the following technologies are you familiar with?
+      hint: null
+      type: select_multiple
+      options:
+      - NPM
+      - Express.js
+      - PM2
+      - Other
+      required: false
+    - id: 5
+      name: projects
+      label: What are some of your recent Node.js projects?
+      hint: Describe your experience with Node.js and projects you have built
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: confidence
+      label: How would you rate your confidence in your Node.js skills?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: tools
+      label: What tools do you use with Node.js?
+      hint: null
+      type: select_multiple
+      options:
+      - Visual Studio Code
+      - IntelliJ IDEA
+      - WebStorm
+      - Sublime Text
+      - Atom
+      - Other
+      required: false
+    - id: 8
+      name: certification
+      label: Do you have Node.js certification?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: education
+      label: What educational background do you have in Node.js?
+      hint: e.g., Node.js bootcamp, university course, online tutorials
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: references
+      label: Can you provide references for your Node.js experience?
+      hint: Please provide names and contact information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: salary
+      label: What do you think your salary should be?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: skills
+      label: What are your Node.js skills?
+      hint: null
+      type: text
+      options: []
+      required: false

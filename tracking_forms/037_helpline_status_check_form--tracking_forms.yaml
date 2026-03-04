@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Helpline Status Check Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: helpline_status
+      label: helpline_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: helpline_priority
+      label: helpline_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_support
+      label: customer_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_support_status
+      label: customer_support_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: customer_support_priority
+      label: customer_support_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_support_status
+      label: customer_support_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: customer_support_priority
+      label: customer_support_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_support_status
+      label: customer_support_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Complaint Tracking Log
+    pages:
+    - id: 1
+      name: complaint_date
+      label: Complaint Date
+      hint: Date complaint was received
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: complaint_time
+      label: Complaint Time
+      hint: Time complaint was received
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: complainant_name
+      label: Complainant Name
+      hint: Person filing complaint
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complainant_email
+      label: Complainant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: complainant_phone
+      label: Complainant Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complainant_type
+      label: Complainant Type
+      hint: Relationship to marina
+      type: select_one
+      options:
+      - Boat Owner
+      - Tenant
+      - Visitor
+      - Staff Member
+      - Other
+      required: true
+    - id: 7
+      name: boat_name
+      label: Boat Name
+      hint: Name of boat involved
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: boat_slip_number
+      label: Boat Slip Number
+      hint: Slip or dock number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: complaint_category
+      label: Complaint Category
+      hint: Select the type of complaint
+      type: select_one
+      options:
+      - Noise Disturbance
+      - Property Damage
+      - Safety Violation
+      - Environmental Issue
+      - Facility Issue
+      - Staff Conduct
+      - Billing Dispute
+      - Other
+      required: true
+    - id: 10
+      name: complaint_description
+      label: Complaint Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_location
+      label: Incident Location
+      hint: Where did this occur?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: severity_level
+      label: Severity Level
+      hint: How serious is this complaint?
+      type: select_one
+      options:
+      - Low - Minor issue
+      - Medium - Moderate concern
+      - High - Serious matter
+      - Critical - Urgent action needed
+      required: true
+    - id: 13
+      name: witnesses_involved
+      label: Witnesses Involved
+      hint: Were there witnesses?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: witness_names
+      label: Witness Names
+      hint: List any witnesses
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evidence_provided
+      label: Evidence Provided
+      hint: Photos, videos, documents
+      type: select_multiple
+      options:
+      - Photographs
+      - Video Recording
+      - Written Statement
+      - Physical Evidence
+      - None
+      required: false
+    - id: 16
+      name: received_by
+      label: Complaint Received By
+      hint: Staff member who received complaint
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: Staff handling the complaint
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: status
+      label: Complaint Status
+      hint: Current status
+      type: select_one
+      options:
+      - New
+      - Under Investigation
+      - Pending Response
+      - In Resolution
+      - Resolved
+      - Closed
+      required: true
+    - id: 19
+      name: investigation_notes
+      label: Investigation Notes
+      hint: Details of investigation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resolution_action
+      label: Resolution Action Taken
+      hint: What was done to resolve?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resolution_date
+      label: Resolution Date
+      hint: When was it resolved?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: complainant_satisfied
+      label: Complainant Satisfied
+      hint: Was the complainant satisfied?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Follow-Up
+      - Not Contacted
+      required: false
+    - id: 23
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is additional action needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: Scheduled follow-up date
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: complaint_number
+      label: Complaint Tracking Number
+      hint: Official tracking number
+      type: text
+      options: []
+      required: false

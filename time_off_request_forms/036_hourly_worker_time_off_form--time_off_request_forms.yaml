@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hourly Worker Time Off Form
+    pages:
+    - id: 1
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: days_off
+      label: days_off
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      - '{''id'': 6, ''label'': ''Saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday''}'
+      required: true
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

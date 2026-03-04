@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Waste Tracking Report Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: production_waste
+      label: production_waste
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_and_time
+      label: date_and_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: production_area
+      label: production_area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: production_line
+      label: production_line
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: waste_type
+      label: waste_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quantity_of_waste
+      label: quantity_of_waste
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight_of_waste
+      label: weight_of_waste
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_waste
+      label: reason_for_waste
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

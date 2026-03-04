@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Training Topic Suggestions
+    pages:
+    - id: 1
+      name: topic_ideas
+      label: Topic Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: format_preferences
+      label: preferred_formats
+      hint: null
+      type: select_multiple
+      options:
+      - Online Course
+      - In-person Training
+      - Video Presentation
+      - Live Webinar
+      required: true
+    - id: 3
+      name: participant_interests
+      label: participant_interests
+      hint: null
+      type: select_one
+      options:
+      - Business Skills
+      - Leadership Development
+      - Soft Skills
+      - Technical Skills
+      required: true
+    - id: 4
+      name: participant_format_preferences
+      label: participant_format_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Both
+      required: true
+    - id: 5
+      name: training_ideas
+      label: training_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: topic_interests
+      label: topic_interests
+      hint: null
+      type: select_one
+      options:
+      - Emerging Trends
+      - Current Challenges
+      - Industry Best Practices
+      required: true
+    - id: 7
+      name: format_interests
+      label: format_interests
+      hint: null
+      type: select_one
+      options:
+      - Interactive
+      - Engaging
+      - Informative
+      required: true
+    - id: 8
+      name: training_topics
+      label: training_topics
+      hint: null
+      type: text
+      options: []
+      required: false

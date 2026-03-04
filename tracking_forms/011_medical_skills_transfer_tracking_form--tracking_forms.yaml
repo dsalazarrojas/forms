@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Skills Transfer Tracking Form
+    pages:
+    - id: 1
+      name: medical_skills_transfer_tracking_form_page_1
+      label: Clinical Skills Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessments_and_followup
+      label: Assessments and Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Assessment
+      - Follow-up
+      required: true
+    - id: 3
+      name: transfer_session_id
+      label: Transfer Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: clinical_skills_transfer_session
+      label: Clinical Skills Transfer Session
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_skills_transfer_session
+      label: Medical Skills Transfer Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: skills_transfered
+      label: Skills Transferred
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: skills_transfered_by
+      label: Skills Transferred By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: transfer_session_comments
+      label: Transfer Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessed_skills
+      label: Assessed Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      - Skill 3
+      required: false
+    - id: 11
+      name: assessed_by
+      label: Assessed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assessments_followup_comments
+      label: Assessments Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_skills_transfer_session_notes
+      label: Medical Skills Transfer Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: next_action_due_date
+      label: Next Action Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_action_due_time
+      label: Next Action Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: next_action_by
+      label: Next Action By
+      hint: Select the person who will perform the next action
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: next_action
+      label: Next Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: transfer_session_notes
+      label: Transfer Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: followup_needed
+      label: Follow-up Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: completed_transfer_session
+      label: Completed Transfer Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: transfer_session_status
+      label: Transfer Session Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 22
+      name: medical_skills_transfer_session_status_comments
+      label: Medical Skills Transfer Session Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_skills_transfer_session_notes_comments
+      label: Medical Skills Transfer Session Notes Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: transfer_session_notes_comments
+      label: Transfer Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: transfer_session_completed_date
+      label: Transfer Session Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false

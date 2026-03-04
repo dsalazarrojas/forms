@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Loan Payment Tracker
+    pages:
+    - id: 1
+      name: loan_amount
+      label: Loan Amount
+      hint: Enter loan amount
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Select payment frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: borrower_name
+      label: Borrower Name
+      hint: Name of borrower
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: borrower_address
+      label: Borrowers Address
+      hint: Address of borrower
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_multiple
+      options:
+      - 6 months
+      - 12 months
+      - 24 months
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: Status of loan
+      type: select_one
+      options:
+      - Active
+      - Overdue
+      - Paid
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: loan_balance
+      label: Loan Balance
+      hint: null
+      type: number
+      options: []
+      required: false

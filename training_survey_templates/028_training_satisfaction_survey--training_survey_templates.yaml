@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Satisfaction Survey
+    pages:
+    - id: 1
+      name: training_satisfaction_survey
+      label: what_were_your_initial_purpose_for_attending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_attended
+      label: which_training_session_were_you_attending
+      hint: null
+      type: select_one
+      options:
+      - session1
+      - session2
+      - session3
+      required: false
+    - id: 3
+      name: satisfaction_with_instructors
+      label: how_satisfied_are_you_with_your_instructors
+      hint: null
+      type: select_multiple
+      options:
+      - instructor1
+      - instructor2
+      - instructor3
+      required: false
+    - id: 4
+      name: content_relevance
+      label: how_relevant_was_the_content_to_your_needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: learning_outcome
+      label: what_were_your_learning_outcomes_for_attending
+      hint: null
+      type: select_one
+      options:
+      - outcome1
+      - outcome2
+      - outcome3
+      required: false
+    - id: 6
+      name: time_sufficient
+      label: was_time_sufficient
+      hint: null
+      type: select_multiple
+      options:
+      - too_long
+      - too_short
+      - just_right
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thermal Management Training Survey
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trainer_name
+      label: Trainers Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_date
+      label: Course Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: course_start_time
+      label: Course Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: course_end_time
+      label: Course End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: training_goals
+      label: What training goals were met?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_recommendation
+      label: Course Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_name_2
+      label: Course Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_start_time_2
+      label: Course Start Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: course_date_2
+      label: Course Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_organization
+      label: Reporting Organization
+      hint: null
+      type: text
+      options: []
+      required: false

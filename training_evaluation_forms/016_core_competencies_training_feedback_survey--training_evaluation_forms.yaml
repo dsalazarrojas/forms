@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Core Competencies Training Feedback Survey
+    pages:
+    - id: 1
+      name: feedback_from_trainee
+      label: feedback_from_trainee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: feedback_from_trainer
+      label: feedback_from_trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: future_satisfaction
+      label: future_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: core_competencies
+      label: core_competencies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_location
+      label: session_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trainee_feedback
+      label: trainee_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trainee_satisfaction
+      label: trainee_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: core_competencies_topics
+      label: core_competencies_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: session_notes
+      label: session_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: session_notes
+      label: session_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: trainee_email
+      label: trainee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: trainee_phone
+      label: trainee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: session_length_minutes
+      label: session_length_minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: future_session_improvements
+      label: future_session_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: core_competencies_topics
+      label: core_competencies_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: session_location
+      label: session_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trainee_attendance
+      label: trainee_attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: trainee_notes
+      label: trainee_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: feedback_from_session
+      label: feedback_from_session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: feedback_from_session
+      label: feedback_from_session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

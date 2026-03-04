@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice To Invoice Automation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workflow_description
+      label: Workflow Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_method
+      label: Billing Method
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Manual
+      - Other
+      required: false
+    - id: 4
+      name: invoice_frequency
+      label: Invoice Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
+      required: false
+    - id: 5
+      name: invoice_amount
+      label: Invoice Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: automation_readiness
+      label: Automation Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: adoption_concerns
+      label: Adoption Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 8
+      name: internal_process_planning
+      label: Internal Process Planning
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 9
+      name: product_research
+      label: Product Research
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 10
+      name: customer_discovery
+      label: Customer Discovery
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 11
+      name: planning
+      label: Planning
+      hint: null
+      type: time
+      options: []
+      required: false

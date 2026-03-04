@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raffle Ticket Form
+    pages:
+    - id: 1
+      name: ticket_id
+      label: Raffle Ticket ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: payment_method_other
+      label: Other (payment method)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: raffle_draw_date
+      label: Raffle Draw Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: raffle_draw_time
+      label: Raffle Draw Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_multiple
+      options:
+      - Unclaimed
+      - Claimed
+      - Voided
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Paid
+      - Refunded
+      required: false
+    - id: 14
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_url
+      label: Order URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Pending
+      - Refunded
+      required: false

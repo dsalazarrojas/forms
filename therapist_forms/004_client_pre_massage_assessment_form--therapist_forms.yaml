@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Pre Massage Assessment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: first_time_client
+      label: Is this your first massage therapy session?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: massage_frequency
+      label: How often do you receive massage therapy?
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Once a month or less
+      - 2-3 times per month
+      - Weekly
+      - Multiple times per week
+      required: false
+    - id: 7
+      name: massage_type_preference
+      label: Type of massage preferred
+      hint: null
+      type: select_one
+      options:
+      - Swedish
+      - Deep tissue
+      - Relaxation
+      - Sports massage
+      - No preference
+      required: false
+    - id: 8
+      name: current_pain_areas
+      label: Do you have any current pain or injuries?
+      hint: List the areas of concern if any
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Do you have any medical conditions we should know about?
+      hint: Include chronic conditions, recent surgeries, or ongoing treatments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Are you currently taking any medications?
+      hint: List medications that may affect treatment
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Do you have any allergies to oils or lotions?
+      hint: Include any skin sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pressure_preference
+      label: Preferred pressure level
+      hint: null
+      type: select_one
+      options:
+      - Light pressure
+      - Medium pressure
+      - Deep pressure
+      - No preference
+      required: false
+    - id: 13
+      name: stress_level
+      label: Current stress level
+      hint: null
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: false
+    - id: 14
+      name: health_goals
+      label: What are your goals for massage therapy?
+      hint: Pain relief, relaxation, injury recovery, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: communication_comfortable
+      label: Are you comfortable providing feedback during the session?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Somewhat
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disneyland Quote Request Form
+    pages:
+    - id: 1
+      name: disneyland_trip_details
+      label: disneyland_trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: disneyland_guest_details
+      label: guest_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disneyland_quote_type
+      label: quote_type
+      hint: null
+      type: select_one
+      options:
+      - '{''type'': 1, ''value'': ''Single''}'
+      - '{''type'': 2, ''value'': ''Couple''}'
+      - '{''type'': 3, ''value'': ''Family''}'
+      required: false
+    - id: 4
+      name: disneyland_travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: disneyland_quote_price
+      label: quote_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: disneyland_quote_currency
+      label: quote_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''type'': 1, ''value'': ''USD''}'
+      - '{''type'': 2, ''value'': ''CAD''}'
+      required: false
+    - id: 7
+      name: disneyland_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: disneyland_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

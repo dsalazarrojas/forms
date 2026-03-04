@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Shuttle Route Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: guest_shuttle_route_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shuttle_info
+      label: shuttle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: passenger_info
+      label: passenger_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shuttle_date
+      label: shuttle_date
+      hint: Select shuttle date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shuttle_locations
+      label: shuttle_locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shuttle_time
+      label: shuttle_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: shuttle_vehicle
+      label: shuttle_vehicle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

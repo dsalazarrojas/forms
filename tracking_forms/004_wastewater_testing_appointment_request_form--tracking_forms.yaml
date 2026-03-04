@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wastewater Testing Appointment Request Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: water_type
+      label: Type of Water
+      hint: null
+      type: select_one
+      options:
+      - '[{''id'': 1, ''value'': ''Water sample'', ''label'': ''Water sample''}]'
+      - '[{''id'': 2, ''value'': ''Wastewater sample'', ''label'': ''Wastewater sample''}]'
+      - '[{''id'': 3, ''value'': ''Stormwater sample'', ''label'': ''Stormwater sample''}]'
+      - '[{''id'': 4, ''value'': ''Other'', ''label'': ''Other''}]'
+      required: false
+    - id: 7
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: select_multiple
+      options:
+      - '[{''id'': 1, ''value'': ''Lab'', ''label'': ''Lab''}]'
+      - '[{''id'': 2, ''value'': ''Remote'', ''label'': ''Remote''}]'
+      - '[{''id'': 3, ''value'': ''Field'', ''label'': ''Field''}]'
+      - '[{''id'': 4, ''value'': ''Other'', ''label'': ''Other''}]'
+      required: false
+    - id: 8
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '[{''id'': 1, ''value'': ''once'', ''label'': ''once''}]'
+      - '[{''id'': 2, ''value'': ''daily'', ''label'': ''daily''}]'
+      - '[{''id'': 3, ''value'': ''weekly'', ''label'': ''weekly''}]'
+      - '[{''id'': 4, ''value'': ''monthly'', ''label'': ''monthly''}]'
+      required: false
+    - id: 9
+      name: testing_method
+      label: Testing Method
+      hint: null
+      type: select_one
+      options:
+      - '[{''id'': 1, ''value'': ''Laboratory Testing'', ''label'': ''Laboratory Testing''}]'
+      - '[{''id'': 2, ''value'': ''Onsite Testing'', ''label'': ''Onsite Testing''}]'
+      - '[{''id'': 3, ''value'': ''Field Testing'', ''label'': ''Field Testing''}]'
+      - '[{''id'': 4, ''value'': ''Other'', ''label'': ''Other''}]'
+      required: false
+    - id: 10
+      name: testing_frequency_comments
+      label: Testing Frequency Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: testing_date
+      label: Testing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: testing_time
+      label: Testing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: testing_method_comments
+      label: Testing Method Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '[{''id'': 1, ''value'': ''Phone'', ''label'': ''Phone''}]'
+      - '[{''id'': 2, ''value'': ''Email'', ''label'': ''Email''}]'
+      - '[{''id'': 3, ''value'': ''Other'', ''label'': ''Other''}]'
+      required: false
+    - id: 21
+      name: other_contact_method
+      label: Other Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_contact_method_comments
+      label: Other Contact Method Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '[{''id'': 1, ''value'': ''chatjimmy'', ''label'': ''chatjimmy''}]'
+      - '[{''id'': 2, ''value'': ''other'', ''label'': ''other''}]'
+      required: false
+    - id: 24
+      name: assigned_to_comments
+      label: Assigned To Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

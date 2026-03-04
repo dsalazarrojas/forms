@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: vlan_knowledge_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vlan_configuration
+      label: vlan_configuration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - VLAN configuration challenges
+      - Other (please describe)
+      required: false
+    - id: 4
+      name: skills
+      label: skills
+      hint: null
+      type: select_one
+      options:
+      - Basic configuration skills
+      - Medium complexity skills
+      - High complexity skills
+      required: true
+    - id: 5
+      name: learner_readiness
+      label: learner_readiness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 6
+      name: vlan_setup
+      label: vlan_setup
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

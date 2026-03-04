@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission To Trade Vehicle Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trade_info
+      label: Trade Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_inspection_info
+      label: Vehicle Inspection Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: odometer_reading_info
+      label: Odometer Reading
+      hint: Enter the odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: trade_price_info
+      label: Trade Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vin_verification_info
+      label: VIN Verification
+      hint: Select a value from the list
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: vin_verification_options
+      label: VIN Verification Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 9
+      name: owner_info
+      label: Owner Information
+      hint: Select a value from the list
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      required: true
+    - id: 11
+      name: address_info
+      label: Address Information
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Current Address
+      - Last Known Address
+      - Unknown
+      required: true
+    - id: 12
+      name: date_info
+      label: Date of Birth
+      hint: Enter the date of birth
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_info
+      label: Time of Birth
+      hint: Enter the time of birth
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: note
+      label: Notes
+      hint: Enter your notes here
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: Enter the email address
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: Enter the phone number
+      type: text
+      options: []
+      required: true

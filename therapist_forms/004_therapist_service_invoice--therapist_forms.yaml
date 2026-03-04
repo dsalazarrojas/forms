@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Service Invoice
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_fee
+      label: Service Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid
+      - Paid
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy1
+      - chatjimmy2
+      required: false
+    - id: 12
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Family
+      required: false
+    - id: 15
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_duration_hours
+      label: Session Duration Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session_duration_minutes
+      label: Session Duration Minutes
+      hint: null
+      type: number
+      options: []
+      required: false

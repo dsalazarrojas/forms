@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Ticket Booking Form
+    pages:
+    - id: 1
+      name: section_passenger_info
+      label: -- Passenger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: passenger_full_name
+      label: Full Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: passenger_email
+      label: Email Address
+      hint: Ticket will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: passenger_phone
+      label: Phone Number
+      hint: For SMS updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_trip_itinerary
+      label: -- Trip Itinerary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: departure_city
+      label: Departure City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: destination_city
+      label: Destination City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_date
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: passenger_count
+      label: Number of Passengers
+      hint: Including adults and children
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ticket_type_class
+      label: Ticket Class
+      hint: Select your preferred level of service
+      type: select_one
+      options:
+      - Standard Economy
+      - Business Class (Extra Legroom)
+      - Luxury / VIP Sleeper
+      required: true
+    - id: 11
+      name: seat_location_preference
+      label: Preferred Seat Location
+      hint: Subject to availability
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Front of Bus
+      - Back of Bus
+      - No Preference
+      required: true
+    - id: 12
+      name: section_payment
+      label: -- Payment and Discounts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: promo_code_entry
+      label: Promotional Code
+      hint: Enter code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_booking
+      label: Payment Method
+      hint: Secure checkout follows
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Pay at Station
+      required: true
+    - id: 15
+      name: booking_terms_consent
+      label: I agree to the Cancellation and Refund Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

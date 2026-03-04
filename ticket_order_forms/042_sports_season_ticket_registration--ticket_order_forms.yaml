@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Season Ticket Registration
+    pages:
+    - id: 1
+      name: game_details
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_details
+      label: Team Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Game'', ''value'': ''Single Game''}'
+      - '{''label'': ''Season'', ''value'': ''Season''}'
+      - '{''label'': ''Series'', ''value'': ''Series''}'
+      required: false
+    - id: 4
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: Enter any special requests or comments
+      type: text
+      options: []
+      required: false

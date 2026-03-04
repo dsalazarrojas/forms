@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypnotherapy Session Feedback
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_outcome
+      label: Session Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 3
+      name: session_outcome_other
+      label: Session Outcome Other
+      hint: Please specify the session outcome other than the ones above
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false

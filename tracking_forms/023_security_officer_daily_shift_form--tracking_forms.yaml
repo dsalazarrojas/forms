@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Officer Daily Shift Form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incidents
+      label: Incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_shift
+      label: Date Shift
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: officer_comments
+      label: Officer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: officer_vehicles_used
+      label: Officer Vehicles Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: officer_equipment_used
+      label: Officer Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: officer_status
+      label: Officer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: officer_vehicles_status
+      label: Officer Vehicles Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: officer_comments
+      label: Officer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: incident_vehicles_status
+      label: Incident Vehicles Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: officer_attendance
+      label: Officer Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: officer_attendance_status
+      label: Officer Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: incident_location_status
+      label: Incident Location Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: officer_vehicles_count
+      label: Officer Vehicles Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: officer_comments_status
+      label: Officer Comments Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

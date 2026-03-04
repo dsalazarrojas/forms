@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_learning_plan
+    pages:
+    - id: 1
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_learning_methods
+      label: Preferred Learning Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_initiatives
+      label: Training Initiatives
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

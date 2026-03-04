@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Fillet Quality Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of quality assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessment_time
+      label: Assessment Time
+      hint: Time assessment was conducted
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: product_batch_number
+      label: Product Batch Number
+      hint: Batch or lot number of the fillet
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supplier_name
+      label: Supplier Name
+      hint: Name of the supplier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_date
+      label: Production Date
+      hint: Date the fillets were produced
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: expiration_date
+      label: Expiration or Use-By Date
+      hint: Best-by or expiration date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: storage_condition
+      label: Storage Condition
+      hint: How was product stored
+      type: select_one
+      options:
+      - Frozen
+      - Refrigerated
+      - Ambient
+      - Compromised storage
+      required: true
+    - id: 8
+      name: quantity_received
+      label: Quantity Received
+      hint: Weight or quantity in kilograms or pounds
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: visual_appearance
+      label: Visual Appearance Quality
+      hint: Rate the visual quality
+      type: select_one
+      options:
+      - Excellent - No discoloration
+      - Good - Minimal discoloration
+      - Acceptable - Some discoloration
+      - Poor - Significant discoloration
+      - Unacceptable - Severe damage
+      required: true
+    - id: 10
+      name: color_assessment
+      label: Color Assessment
+      hint: Evaluate the color
+      type: select_one
+      options:
+      - Bright pink or white
+      - Light pink
+      - Pale
+      - Grayish
+      - Darker than normal
+      required: true
+    - id: 11
+      name: texture_quality
+      label: Texture and Firmness
+      hint: Assess the texture
+      type: select_one
+      options:
+      - Firm and intact
+      - Slightly soft
+      - Soft
+      - Very soft or mushy
+      - Deteriorated
+      required: true
+    - id: 12
+      name: odor_assessment
+      label: Odor Assessment
+      hint: Rate the smell
+      type: select_one
+      options:
+      - Fresh - Typical seafood odor
+      - Slightly fishy - Acceptable
+      - Strong fish odor - Marginal
+      - Sour or off odor - Unacceptable
+      - Rotten smell - Reject
+      required: true
+    - id: 13
+      name: contamination_check
+      label: Contamination Check
+      hint: Any visible contamination
+      type: select_multiple
+      options:
+      - No contamination
+      - Scales or bones
+      - Foreign material
+      - Bacterial slime
+      - Mold
+      - Parasites
+      required: true
+    - id: 14
+      name: ice_glaze
+      label: Ice Glaze Quality
+      hint: If frozen, assess ice layer
+      type: select_one
+      options:
+      - Good protective glaze
+      - Adequate glaze
+      - Thin or damaged glaze
+      - Ice burn visible
+      - No ice protection
+      required: false
+    - id: 15
+      name: packaging_condition
+      label: Packaging Condition
+      hint: Assess packaging integrity
+      type: select_one
+      options:
+      - Intact and sealed
+      - Sealed but worn
+      - Torn or compromised
+      - Severely damaged
+      required: true
+    - id: 16
+      name: temperature_check
+      label: Temperature at Delivery
+      hint: Temperature reading if available
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: parasites_present
+      label: Parasite or Worm Check
+      hint: Any visible parasites detected
+      type: select_one
+      options:
+      - None detected
+      - Possible parasites - Further inspection
+      - Parasites confirmed - Reject batch
+      required: false
+    - id: 18
+      name: overall_quality_rating
+      label: Overall Quality Rating
+      hint: Final quality assessment
+      type: select_one
+      options:
+      - Grade A - Premium quality
+      - Grade B - Good quality
+      - Grade C - Acceptable quality
+      - Grade D - Poor quality
+      - Reject - Unsuitable for sale
+      required: true
+    - id: 19
+      name: action_required
+      label: Action Required
+      hint: Recommended action
+      type: select_one
+      options:
+      - Accept and shelve
+      - Accept with monitoring
+      - Quarantine for inspection
+      - Return to supplier
+      - Dispose of batch
+      required: true
+    - id: 20
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of quality inspector
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

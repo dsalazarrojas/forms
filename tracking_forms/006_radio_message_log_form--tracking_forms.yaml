@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radio Message Log Form
+    pages:
+    - id: 1
+      name: radio_message_log_form
+      label: Two-way Communications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: dispatch_team
+      label: Dispatch Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: radio_operator
+      label: Radio Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: message_received
+      label: Message Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: response_given
+      label: Response Given
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message_given
+      label: Message Given
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: radio_operator_name
+      label: Radio Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: radio_message_type
+      label: Radio Message Type
+      hint: Choose the type of radio message
+      type: select_one
+      options:
+      - Voice
+      - Text
+      - Emergency
+      - Other
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: Where was the radio message received
+      type: select_one
+      options:
+      - Dispatch Center
+      - Mobile
+      - Remote Site
+      - Other
+      required: false
+    - id: 13
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: operations-learning-checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_objectives
+      label: Training Objectives
+      hint: What are the objectives of this training?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_feedback
+      label: Supervisor Feedback
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: confidence
+      label: Confidence prophets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: progress
+      label: Progressประก
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: team_assessment
+      label: Team assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 7
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

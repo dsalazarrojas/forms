@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trucking Booking Form
+    pages:
+    - id: 1
+      name: trucking_booking_form
+      label: Trucking Booking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trailer_size
+      label: Trailer Size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Small
+      - Medium
+      required: false
+    - id: 4
+      name: trailer_type
+      label: Trailer Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dry
+      - Refrigerated
+      - Flatbed
+      required: false
+    - id: 5
+      name: trucking_company
+      label: Trucking Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dropoff_location
+      label: Dropoff Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

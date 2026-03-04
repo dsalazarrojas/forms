@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Service Route Satisfaction Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_performance
+      label: overall_performance
+      hint: How would you rate the overall performance of this route?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: Please rate this route
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: frequency
+      hint: How often do you travel on this route?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: Do you have any suggestions for the route?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recurring_issues
+      label: recurring_issues
+      hint: Are there any issues that regularly occur on this route?
+      type: select_multiple
+      options:
+      - Route delays
+      - Route cancellations
+      - Route disruptions
+      - Other
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

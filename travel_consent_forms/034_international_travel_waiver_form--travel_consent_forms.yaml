@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Travel Waiver Form
+    pages:
+    - id: 1
+      name: travel_consent
+      label: travel_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_acknowledge
+      label: travel_acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Acknowledge
+      - Acknowledge with conditions
+      - Acknowledge with medical conditions
+      required: true
+    - id: 3
+      name: travel_accept
+      label: travel_accept
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: risk_acknowledge
+      label: risk_acknowledge
+      hint: null
+      type: select_one
+      options:
+      - Acknowledge
+      - Not acknowledge
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_documentation
+      label: travel_documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_insurance
+      label: travel_insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: flight_details
+      label: flight_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: travel_currency
+      label: travel_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 17
+      name: travel_expenses
+      label: travel_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: travel_currency_conversion
+      label: travel_currency_conversion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_currency_rate
+      label: travel_currency_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: travel_expenses_conversion
+      label: travel_expenses_conversion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: travel_currency_rate_2
+      label: travel_currency_rate_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: travel_insurance_provider
+      label: travel_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: travel_insurance_provider_2
+      label: travel_insurance_provider_2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: travel_insurance_provider_3
+      label: travel_insurance_provider_3
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: travel_insurance_provider_4
+      label: travel_insurance_provider_4
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

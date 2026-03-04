@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Impact Framework Quiz
+    pages:
+      - id: 1
+        name: quiz_intro
+        label: -- Impact Framework Quiz --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Optional for record keeping
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: understanding_of_outcomes
+        label: Understanding of outcomes definition
+        hint: Multiple choice question
+        type: select_one
+        options:
+          - Clear and measurable outcomes
+          - Outputs that are activities
+          - Inputs or resources
+        required: true
+      - id: 5
+        name: logic_model_component
+        label: Which component explains causal relationship
+        hint: Choose one
+        type: select_one
+        options:
+          - Outputs
+          - Outcomes
+          - Activities
+        required: true
+      - id: 6
+        name: evaluation_method_preference
+        label: Preferred evaluation methods
+        hint: Select all applicable methods
+        type: select_multiple
+        options:
+          - Surveys
+          - Interviews
+          - Case studies
+          - Administrative data
+        required: false
+      - id: 7
+        name: indicators_example
+        label: Example of an indicator
+        hint: Short answer
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: scoring_confidence
+        label: Confidence in scoring impact
+        hint: Self rating
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Not confident
+        required: false
+      - id: 9
+        name: training_needs
+        label: Training needs related to impact evaluation
+        hint: Open ended
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: follow_up_contact
+        label: Contact email for training follow up
+        hint: Optional
+        type: email
+        options: []
+        required: false

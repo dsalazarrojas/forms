@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hourly Skill Development Data Collection
+    pages:
+    - id: 1
+      name: hourly_skill_development_data_collection
+      label: Hourly Skill Development Data Collection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: learner_id
+      label: Learner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: learning_activity
+      label: Learning Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: outcomes
+      label: Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 9
+      name: progress
+      label: Progress
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

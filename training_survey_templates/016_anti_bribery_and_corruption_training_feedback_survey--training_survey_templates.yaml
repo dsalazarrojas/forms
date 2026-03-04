@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bribery And Corruption Training Feedback Survey
+    pages:
+    - id: 1
+      name: section_training_details
+      label: -- Training Details --
+      hint: Capture participant feedback after the training session
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional if anonymous feedback is preferred
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Job role or title
+      hint: Helps segment responses by audience
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: Training date
+      hint: Date of the session attended
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: relevance_rating
+      label: Relevance of content 1 to 5
+      hint: 1 not relevant and 5 highly relevant
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: presenter_effectiveness
+      label: Presenter effectiveness
+      hint: Rate clarity and engagement of presenter
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very good
+      - Excellent
+      required: true
+    - id: 7
+      name: materials_usefulness
+      label: Usefulness of training materials
+      hint: Handouts slides and exercises
+      type: select_one
+      options:
+      - Not useful
+      - Somewhat useful
+      - Useful
+      - Very useful
+      required: false
+    - id: 8
+      name: key_takeaways
+      label: Key takeaways or improvements
+      hint: What will you apply from this training
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall satisfaction 1 to 5
+      hint: General rating for the training experience
+      type: number
+      options: []
+      required: true

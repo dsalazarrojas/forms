@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certificate Upload Form
+    pages:
+    - id: 1
+      name: upload_date
+      label: Upload Date
+      hint: Date of certificate upload
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: uploader_name
+      label: Uploader Name
+      hint: Full name of person uploading certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: uploader_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: uploader_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certificate_category
+      label: Certificate Category
+      hint: Type of certificate being uploaded
+      type: select_one
+      options:
+      - Professional certification
+      - Educational degree
+      - Training completion
+      - License
+      - Accreditation
+      - Award or recognition
+      - Other
+      required: true
+    - id: 8
+      name: certificate_name
+      label: Certificate Name
+      hint: Official name of the certificate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issuing_organization
+      label: Issuing Organization
+      hint: Organization that issued the certificate
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_date
+      label: Issue Date
+      hint: Date certificate was issued
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: Date certificate expires if applicable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: certificate_number
+      label: Certificate Number
+      hint: Reference or identification number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: credential_level
+      label: Credential Level
+      hint: Level or tier of the credential
+      type: select_one
+      options:
+      - Entry level
+      - Intermediate
+      - Advanced
+      - Expert
+      - Master level
+      - Not applicable
+      required: false
+    - id: 14
+      name: certificate_file
+      label: Certificate File Upload
+      hint: Upload PDF or image of certificate
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: file_format
+      label: File Format
+      hint: Format of uploaded file
+      type: select_one
+      options:
+      - PDF
+      - JPEG
+      - PNG
+      - TIFF
+      - Other
+      required: true
+    - id: 16
+      name: file_size
+      label: File Size
+      hint: Approximate file size
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload any additional supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: verification_status
+      label: Verification Status
+      hint: Has this certificate been verified
+      type: select_one
+      options:
+      - Pending verification
+      - Self-attested
+      - Previously verified
+      - Third-party verified
+      required: true
+    - id: 19
+      name: purpose_of_upload
+      label: Purpose of Upload
+      hint: Why are you uploading this certificate
+      type: select_one
+      options:
+      - Employment verification
+      - Promotion consideration
+      - Compliance requirement
+      - Client requirement
+      - Personal records
+      - Other
+      required: true
+    - id: 20
+      name: authorization_statement
+      label: Authorization Statement
+      hint: I authorize the verification of this certificate
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - I do not authorize
+      required: true
+    - id: 21
+      name: accuracy_confirmation
+      label: Accuracy Confirmation
+      hint: I confirm that this certificate is authentic and accurate
+      type: select_one
+      options:
+      - Yes - I confirm
+      - No - I do not confirm
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information about this certificate
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploader_signature
+      label: Uploader Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

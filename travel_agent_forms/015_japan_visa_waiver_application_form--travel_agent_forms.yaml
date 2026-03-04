@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Japan Visa Waiver Application Form
+    pages:
+    - id: 1
+      name: traveler_details
+      label: Traveler Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_team_details
+      label: Travel Team Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: declaration
+      label: Declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: traveler_passport
+      label: Traveler Passport
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Japan''}'
+      - '{''label'': ''USA''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''UK''}'
+      - '{''label'': ''Australia''}'
+      - '{''label'': ''China''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Leisure''}'
+      - '{''label'': ''Tour''}'
+      required: true
+    - id: 8
+      name: travel_group_size
+      label: Travel Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

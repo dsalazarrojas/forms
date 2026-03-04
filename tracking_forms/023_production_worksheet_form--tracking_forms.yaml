@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Worksheet Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_id
+      label: supplier_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_code
+      label: Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 8
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: production_manager
+      label: Production Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_schedule
+      label: Production Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 16
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      - Type D
+      required: false
+    - id: 18
+      name: production_code
+      label: Production Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_category
+      label: Product Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: production_plan
+      label: Production Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tracking_status
+      label: Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Tracked
+      - Not Tracked
+      required: false
+    - id: 22
+      name: tracking_status_code
+      label: Tracking Status Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tracking_notes
+      label: Tracking Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: production_status_code
+      label: Production Status Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tracking_notes_code
+      label: Tracking Notes Code
+      hint: null
+      type: text
+      options: []
+      required: false

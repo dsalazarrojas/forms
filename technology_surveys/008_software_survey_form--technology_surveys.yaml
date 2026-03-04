@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Survey Form
+    pages:
+    - id: 1
+      name: software_survey_form
+      label: software_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''company_type_1''}'
+      - '{''id'': 2, ''name'': ''company_type_2''}'
+      - '{''id'': 3, ''name'': ''company_type_3''}'
+      required: false
+    - id: 5
+      name: software_survey
+      label: software_survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_used_software
+      label: time_used_software
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: how_much_time
+      label: how_much_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: how_satisfied
+      label: how_satisfied
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied''}'
+      - '{''id'': 4, ''name'': ''not_at_all''}'
+      required: false
+    - id: 9
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

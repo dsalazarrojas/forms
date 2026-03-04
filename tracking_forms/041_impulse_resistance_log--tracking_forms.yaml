@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Impulse Resistance Log
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: impulse_date
+      label: impulse_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: impulse_start_time
+      label: impulse_start_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: impulsive_behavior
+      label: impulsive_behavior_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: impulsive_behavior_description
+      label: impulsive_behavior_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resistance_tech
+      label: resistance_tech_label
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: resistance_tech_other
+      label: resistance_tech_other_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resistance_level
+      label: resistance_level_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resistance_time
+      label: resistance_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: next_action_plan
+      label: next_action_plan_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes_label
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Drive Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vehicle
+      label: Vehicle
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Ford''}'
+      - '{''id'': 2, ''label'': ''Chevrolet''}'
+      - '{''id'': 3, ''label'': ''Toyota''}'
+      required: true
+    - id: 7
+      name: test_drive_location
+      label: Test Drive Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Dealership''}'
+      - '{''id'': 2, ''label'': "Customer''s Home"}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''chatjimmy1''}'
+      required: true
+    - id: 10
+      name: form_submitted
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''user''}'
+      - '{''id'': 2, ''label'': ''admin''}'
+      required: true
+    - id: 11
+      name: test_drive_duration
+      label: Test Drive Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 30}'
+      - '{''id'': 2, ''label'': 60}'
+      - '{''id'': 3, ''label'': 90}'
+      required: true
+    - id: 12
+      name: test_drive_distance
+      label: Test Drive Distance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''short''}'
+      - '{''id'': 2, ''label'': ''long''}'
+      required: true
+    - id: 13
+      name: test_drive_time_of_day
+      label: Test Drive Time of Day
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''morning''}'
+      - '{''id'': 2, ''label'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''evening''}'
+      required: true
+    - id: 14
+      name: test_drive_comments
+      label: Test Drive Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''positive''}'
+      - '{''id'': 2, ''label'': ''negative''}'
+      - '{''id'': 3, ''label'': ''neutral''}'
+      required: true
+    - id: 15
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''new''}'
+      - '{''id'': 2, ''label'': ''pending''}'
+      - '{''id'': 3, ''label'': ''completed''}'
+      required: false

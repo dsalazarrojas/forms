@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_inventory_information_record_form
+    pages:
+    - id: 1
+      name: music_inventory_record_form
+      label: music_inventory_record_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_store_location
+      label: music_store_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: music_store_owner
+      label: music_store_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: music_inventory_number
+      label: music_inventory_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: music_inventory_date_recorded
+      label: music_inventory_date_recorded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: music_inventory_time_recorded
+      label: music_inventory_time_recorded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: music_inventory_note
+      label: music_inventory_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: music_inventory_email
+      label: music_inventory_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: music_inventory_phone
+      label: music_inventory_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: music_inventory_status
+      label: music_inventory_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_stock
+      - out_of_stock
+      required: false
+    - id: 11
+      name: music_inventory_type
+      label: music_inventory_type
+      hint: null
+      type: select_multiple
+      options:
+      - vinyl
+      - cd
+      - dvd
+      - blu-ray
+      - cassette
+      - tape
+      - mp3
+      required: false

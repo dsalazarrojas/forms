@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Expense Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_description
+      label: expense_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_footer
+      label: footer
+      hint: null
+      type: text
+      options: []
+      required: false

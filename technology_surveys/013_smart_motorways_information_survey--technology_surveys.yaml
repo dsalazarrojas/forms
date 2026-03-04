@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Motorways Information Survey
+    pages:
+    - id: 1
+      name: awareness
+      label: awareness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: experiences
+      label: experiences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: improvement_ideas
+      label: improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: frequency_of_use
+      label: frequency_of_use
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Often''}'
+      - '{''option2'': ''Sometimes''}'
+      - '{''option3'': ''Rarely''}'
+      - '{''option4'': ''Never''}'
+      required: true
+    - id: 5
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: awareness_sources
+      label: awareness sources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Social Media''}'
+      - '{''option2'': ''Online Advertising''}'
+      - '{''option3'': ''Word of Mouth''}'
+      - '{''option4'': ''Other''}'
+      required: true
+    - id: 10
+      name: experiences_sources
+      label: experiences sources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Social Media''}'
+      - '{''option2'': ''Online Advertising''}'
+      - '{''option3'': ''Word of Mouth''}'
+      - '{''option4'': ''Other''}'
+      required: true
+    - id: 11
+      name: improvement_sources
+      label: improvement sources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Social Media''}'
+      - '{''option2'': ''Online Advertising''}'
+      - '{''option3'': ''Word of Mouth''}'
+      - '{''option4'': ''Other''}'
+      required: true
+    - id: 12
+      name: contact_preference
+      label: contact preference
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Phone''}'
+      - '{''option2'': ''Email''}'
+      - '{''option3'': ''Both''}'
+      - '{''option4'': ''Neither''}'
+      required: true
+    - id: 13
+      name: contact_number
+      label: contact number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: survey_source
+      label: survey source
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Public Consultation''}'
+      - '{''option2'': ''Transportation Team''}'
+      - '{''option3'': ''Research-Focused Data Collection''}'
+      required: true
+    - id: 16
+      name: survey_purpose
+      label: survey purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Awareness''}'
+      - '{''option2'': ''Improvement''}'
+      - '{''option3'': ''Both''}'
+      required: true
+    - id: 17
+      name: survey_awareness
+      label: survey awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: survey_experiences
+      label: survey experiences
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: survey_improvement
+      label: survey improvement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: survey_frequency
+      label: survey frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: survey_participate
+      label: participate
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

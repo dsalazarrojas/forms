@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Training Feedback Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Training Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: How was the training?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: comments
+      label: Do you have any additional comments or feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_program
+      label: Training Program
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Recruitment Software Evaluation Form
+    pages:
+    - id: 1
+      name: --vendor_information--
+      label: -- Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator name
+      hint: Person completing this form
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_name
+      label: Vendor name
+      hint: Product or vendor being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: core_features
+      label: Core features evaluated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Candidate screening
+      - Resume parsing
+      - Interview scheduling
+      - Bias mitigation tools
+      - Analytics and reporting
+      required: true
+    - id: 5
+      name: integration_ease
+      label: Ease of integration with existing systems
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: accuracy_of_matching
+      label: Accuracy of candidate matching
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: privacy_compliance
+      label: Privacy and compliance support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - GDPR
+      - CCPA
+      - Local data residency
+      - Data anonymization
+      required: false
+    - id: 8
+      name: total_cost_estimate
+      label: Total cost estimate
+      hint: Annual or monthly estimate in USD
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: Recommendation
+      hint: Select one
+      type: select_one
+      options:
+      - Recommend
+      - Recommend with reservations
+      - Do not recommend
+      required: true
+    - id: 10
+      name: evaluation_notes
+      label: Additional evaluation notes
+      hint: Optional comments
+      type: text
+      options: []
+      required: false

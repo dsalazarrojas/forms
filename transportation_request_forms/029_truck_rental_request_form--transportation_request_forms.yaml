@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: truck_rental_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: truck_type_id
+      label: truck type id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: truck_type
+      label: truck type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''small truck''}'
+      - '{''value'': 2, ''label'': ''large truck''}'
+      - '{''value'': 3, ''label'': ''extra-large truck''}'
+      required: true
+    - id: 7
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rental_duration
+      label: rental duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_rental
+      label: reason for rental
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''business''}'
+      - '{''value'': 2, ''label'': ''personal''}'
+      - '{''value'': 3, ''label'': ''other''}'
+      required: true
+    - id: 11
+      name: agency
+      label: agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: site
+      label: site
+      hint: null
+      type: text
+      options: []
+      required: true

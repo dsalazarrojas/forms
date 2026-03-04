@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Tour Planning Booking Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_details
+      label: tour-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates
+      label: dates
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single'', ''value'': ''single''}'
+      - '{''id'': 2, ''label'': ''Multiple'', ''value'': ''multiple''}'
+      required: false
+    - id: 4
+      name: locations
+      label: locations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''USA''}'
+      - '{''id'': 2, ''label'': ''Europe''}'
+      - '{''id'': 3, ''label'': ''Asia''}'
+      required: false
+    - id: 5
+      name: requirements
+      label: requirements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: budget_amount
+      label: budget-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: budget_currency
+      label: budget-currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD'', ''value'': ''usd''}'
+      - '{''id'': 2, ''label'': ''EUR'', ''value'': ''eur''}'
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

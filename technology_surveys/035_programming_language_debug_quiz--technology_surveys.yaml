@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Programming Language Debug Quiz
+    pages:
+    - id: 1
+      name: language_debug_quiz_form
+      label: Language Debug Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language_debug_quiz_form_question_1
+      label: What programming language do you use?
+      hint: null
+      type: select_one
+      options:
+      - Java
+      - C++
+      - Python
+      - JavaScript
+      required: false
+    - id: 3
+      name: language_debug_quiz_form_question_2
+      label: How many years of experience do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: language_debug_quiz_form_question_3
+      label: Can you debug a problem?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: language_debug_quiz_form_question_4
+      label: How long do you take to debug a problem?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shopping Technology Awareness Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: E-mail
+      hint: Enter your work or personal email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Technology
+      - Sales
+      required: true
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Associate
+      - Manager
+      - Leader
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question1
+      label: What is your role within a retail environment?
+      hint: null
+      type: select_one
+      options:
+      - Sales Associate
+      - Manager
+      - Leader
+      required: true
+    - id: 11
+      name: question2
+      label: How do you currently use technology in your job?
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Tablet
+      - Laptop
+      required: false
+    - id: 12
+      name: question3
+      label: How often do you use technology in your daily work?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Rarely
+      required: true
+    - id: 13
+      name: question4
+      label: What technology do you use most often?
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Tablet
+      - Laptop
+      required: false
+    - id: 14
+      name: question5
+      label: What is your level of awareness about modern retail technology?
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: question6
+      label: Which of the following technologies do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - EPOS
+      - EPoS
+      - MPOS
+      - OMS
+      required: false
+    - id: 16
+      name: question7
+      label: How would you rate your confidence about modern retail technology?
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: question8
+      label: What do you feel most comfortable doing?
+      hint: null
+      type: select_multiple
+      options:
+      - Self-directed
+      - Guided
+      - Directed
+      required: true
+    - id: 18
+      name: question9
+      label: How does your current role influence your ability to use modern retail
+        technology?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 19
+      name: question10
+      label: What technology skills do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 20
+      name: question11
+      label: What technology skills do you need more training?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 21
+      name: question12
+      label: What technology skills do you currently lack?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 22
+      name: question13
+      label: What technology skills do you think you will need in the future?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 23
+      name: question14
+      label: What technology skills do you think are required for your role?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 24
+      name: question15
+      label: Do you currently use a mobile device for work?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

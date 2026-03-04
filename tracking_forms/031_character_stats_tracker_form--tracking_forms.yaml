@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Stats Tracker Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Stats Tracker --
+      hint: Log character attribute changes and progression
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_id
+      label: character id
+      hint: unique identifier for the character
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attribute_name
+      label: attribute name
+      hint: e g strength, agility, intelligence
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: old_value
+      label: old value
+      hint: previous attribute value
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: new_value
+      label: new value
+      hint: updated attribute value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_change
+      label: reason for change
+      hint: describe trigger for change
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: effective_date
+      label: effective date
+      hint: when new value takes effect
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: recorded_by
+      label: recorded by
+      hint: person logging the change
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_notes
+      label: session notes
+      hint: optional session context
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation
+      label: confirmation
+      hint: confirm accuracy of the entry
+      type: select_one
+      options:
+      - Confirmed
+      - Unconfirmed
+      required: true

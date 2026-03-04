@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Compliance Recognition Application Form
+    pages:
+    - id: 1
+      name: main
+      label: Supplier Application Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supplier_name
+      label: supplierName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: select_yes_no
+      label: Select Yes/No
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

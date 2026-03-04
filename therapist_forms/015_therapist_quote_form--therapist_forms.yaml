@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Quote Form
+    pages:
+    - id: 1
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Insurance
+      - Sliding Scale
+      - Self Pay
+      - Military
+      required: false
+    - id: 3
+      name: therapist_info
+      label: Therapist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policies
+      label: Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: costs
+      label: Costs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quote
+      label: Quote
+      hint: null
+      type: number
+      options: []
+      required: false

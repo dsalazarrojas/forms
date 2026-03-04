@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Shower Gifts Form
+    pages:
+    - id: 1
+      name: bride_name
+      label: Bride Name
+      hint: Name of the bride
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shower_date
+      label: Bridal Shower Date
+      hint: Date the shower took place
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gift_number
+      label: Gift Number
+      hint: Sequential number for tracking
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donor_name
+      label: Donor or Giver Name
+      hint: Name of person who gave gift
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_email
+      label: Donor Email
+      hint: For thank you note tracking
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Donor Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_description
+      label: Gift Description
+      hint: What is the gift
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gift_category
+      label: Gift Category
+      hint: Type of gift
+      type: select_one
+      options:
+      - Kitchen and dining
+      - Bedding and bath
+      - Home decor
+      - Electronics
+      - Outdoor or garden
+      - Experience or event
+      - Money or gift card
+      - Other
+      required: true
+    - id: 9
+      name: gift_value
+      label: Gift Value
+      hint: Approximate value or actual amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gift_from_registry
+      label: From Registry
+      hint: Was this from the gift registry
+      type: select_one
+      options:
+      - Yes, from registry
+      - No, personal gift
+      - Unknown
+      required: false
+    - id: 11
+      name: registry_store
+      label: Registry Store
+      hint: If from registry, which store
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity of Item
+      hint: How many of this item
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: gift_color
+      label: Gift Color
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_details
+      label: Special Details or Personalization
+      hint: Any engraving, customization etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: receipt_included
+      label: Receipt Included
+      hint: Was receipt provided
+      type: select_one
+      options:
+      - Yes, receipt included
+      - No receipt
+      - Need to ask
+      required: false
+    - id: 16
+      name: gift_condition
+      label: Gift Condition Upon Receipt
+      hint: Condition of the gift
+      type: select_one
+      options:
+      - Perfect condition
+      - Good condition
+      - Minor damage
+      - Significant damage
+      - Defective
+      required: false
+    - id: 17
+      name: thank_you_sent
+      label: Thank You Note Sent
+      hint: Has thank you been sent
+      type: select_one
+      options:
+      - Yes, sent
+      - No, not yet
+      - In progress
+      - Pending
+      required: true
+    - id: 18
+      name: thank_you_date
+      label: Thank You Note Date Sent
+      hint: When was it sent
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: thank_you_method
+      label: Thank You Method
+      hint: How was thank you given
+      type: select_one
+      options:
+      - Written card
+      - Email
+      - Phone call
+      - In person
+      - Other
+      required: false
+    - id: 20
+      name: gift_used_exchanged
+      label: Gift Status
+      hint: Current status of gift
+      type: select_one
+      options:
+      - Still packaged
+      - In use
+      - Stored
+      - Exchanged
+      - Returned
+      - Donated
+      - Lost
+      required: false
+    - id: 21
+      name: exchange_details
+      label: Exchange or Return Details
+      hint: If exchanged or returned
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

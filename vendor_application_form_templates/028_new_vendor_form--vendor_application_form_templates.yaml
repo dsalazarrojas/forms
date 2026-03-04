@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_vendor_form
+    pages:
+    - id: 1
+      name: new_vendor_form_page_1
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: company_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''type_1'', ''label'': ''type_1''}'
+      - '{''value'': ''type_2'', ''label'': ''type_2''}'
+      - '{''value'': ''type_3'', ''label'': ''type_3''}'
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

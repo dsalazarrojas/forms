@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creature Catching Log
+    pages:
+    - id: 1
+      name: species
+      label: species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: details
+      label: details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photo
+      label: photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: observation
+      label: observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_time
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: researcher
+      label: researcher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: species_id
+      label: species_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: species_group
+      label: species_group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: conservation_status
+      label: conservation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: user_id
+      label: user_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: user_location
+      label: user_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: species_name
+      label: species_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: common_name
+      label: common_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family
+      label: family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: genus
+      label: genus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: species_description
+      label: species_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: species_class
+      label: species_class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: species_order
+      label: species_order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: species_family
+      label: species_family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: species_genus
+      label: species_genus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: species_common_name
+      label: species_common_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: species_habitat
+      label: species_habitat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: species_range
+      label: species_range
+      hint: null
+      type: text
+      options: []
+      required: false

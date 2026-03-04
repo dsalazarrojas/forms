@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Center Therapy Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Counseling
+      - Physical Therapy
+      - Occupational Therapy
+      required: true
+    - id: 6
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: select_multiple
+      options:
+      - In-office
+      - Online
+      - Both
+      required: true
+    - id: 7
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 11
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Word of Mouth
+      required: false
+    - id: 12
+      name: referral_source_other
+      label: Referral Source Other
+      hint: null
+      type: text
+      options: []
+      required: false

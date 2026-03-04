@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Personal Analysis Questionnaire
+    pages:
+    - id: 1
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options: ["18-25", "26-35", "36-45", "46-55", "56-65", "65+"]
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: Your current job or profession
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: personality_assessment_section
+      label: -- Personality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: social_energy_level
+      label: Social Energy Level
+      hint: How do you typically feel in social situations
+      type: select_one
+      options: ["Extremely outgoing", "Mostly outgoing", "Balanced", "Mostly reserved", "Extremely reserved"]
+      required: true
+    - id: 7
+      name: decision_making_style
+      label: Decision Making Style
+      hint: How do you typically approach making decisions
+      type: select_one
+      options: ["Rely on logic and facts", "Rely on emotions and values", "Seek advice from others", "Analyze all options thoroughly", "Go with gut instinct"]
+      required: true
+    - id: 8
+      name: stress_management_approach
+      label: Stress Management Approach
+      hint: How do you typically handle stressful situations
+      type: select_one
+      options: ["Face problems directly", "Take time to think", "Seek support from others", "Avoid the situation", "Physical activity or exercise"]
+      required: true
+    - id: 9
+      name: communication_preference
+      label: Communication Preference
+      hint: How do you prefer to communicate with others
+      type: select_one
+      options: ["Face-to-face", "Phone calls", "Text messaging", "Email", "Written letters"]
+      required: true
+    - id: 10
+      name: life_values_ranking
+      label: Life Values Ranking
+      hint: Rank the following in order of importance to you (1 being most important)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relationship_patterns
+      label: Relationship Patterns
+      hint: How would you describe your typical relationships with others
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: personal_growth_goals
+      label: Personal Growth Goals
+      hint: What areas of yourself would you like to develop or improve
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coping_strategies
+      label: Coping Strategies
+      hint: What methods do you use to cope with challenges
+      type: text
+      options: []
+      required: false

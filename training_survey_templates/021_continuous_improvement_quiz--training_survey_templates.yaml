@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuous Improvement Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Operations
+          - Manufacturing
+          - Quality Assurance
+          - Human Resources
+          - Information Technology
+          - Sales
+          - Customer Service
+          - Other
+        required: true
+      - id: 4
+        name: training_date
+        label: Training Date
+        hint: Date of quiz
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: question_1
+        label: Question 1 - What does Kaizen mean?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Rapid change
+          - Continuous improvement
+          - Cost reduction
+          - Quality control
+        required: true
+      - id: 6
+        name: question_2
+        label: Question 2 - Which tool identifies root causes?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Gantt chart
+          - Fishbone diagram
+          - Pie chart
+          - Flowchart
+        required: true
+      - id: 7
+        name: question_3
+        label: Question 3 - What is PDCA?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Plan-Do-Check-Act
+          - Process-Design-Control-Analyze
+          - Prepare-Develop-Create-Assess
+          - Plan-Define-Communicate-Act
+        required: true
+      - id: 8
+        name: question_4
+        label: Question 4 - What is waste in lean methodology?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Any unnecessary step
+          - Only physical waste
+          - Only time waste
+          - Only material waste
+        required: true
+      - id: 9
+        name: question_5
+        label: Question 5 - What is Six Sigma focused on?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Speed improvement
+          - Reducing variation
+          - Cost cutting
+          - Employee satisfaction
+        required: true
+      - id: 10
+        name: question_6
+        label: Question 6 - What is a value stream map?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Employee performance chart
+          - Process flow visualization
+          - Financial report
+          - Customer survey
+        required: true
+      - id: 11
+        name: question_7
+        label: Question 7 - What is 5S?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A safety protocol
+          - A workplace organization method
+          - A quality standard
+          - A reporting system
+        required: true
+      - id: 12
+        name: question_8
+        label: Question 8 - What is benchmarking?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Setting prices
+          - Comparing to best practices
+          - Measuring employee performance
+          - Creating budgets
+        required: true
+      - id: 13
+        name: question_9
+        label: Question 9 - What is a KPI?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Key Performance Indicator
+          - Key Process Input
+          - Knowledge Performance Index
+          - Key Project Initiative
+        required: true
+      - id: 14
+        name: question_10
+        label: Question 10 - What is the goal of continuous improvement?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - One-time fixes
+          - Ongoing incremental improvements
+          - Major overhauls only
+          - Cost reduction only
+        required: true
+      - id: 15
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident are you in applying these concepts?
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 16
+        name: topics_needing_review
+        label: Topics Needing Review
+        hint: Select any topics you want to review
+        type: select_multiple
+        options:
+          - Kaizen principles
+          - Root cause analysis
+          - PDCA cycle
+          - Lean methodology
+          - Six Sigma
+          - Value stream mapping
+          - 5S workplace organization
+          - KPIs and metrics
+        required: false

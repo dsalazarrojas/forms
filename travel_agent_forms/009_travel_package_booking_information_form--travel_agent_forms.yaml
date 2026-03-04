@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_package_booking_information_form
+    pages:
+    - id: 1
+      name: travel_package_booking
+      label: Travel Package Booking
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_package_preferences
+      label: Travel Package Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

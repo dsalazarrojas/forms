@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: sober_progress_tracking_form
+    pages:
+    - id: 1
+      name: start_date
+      label: Sober Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: days_sober
+      label: Days Sober
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mood
+      label: Mood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenge
+      label: Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_system
+      label: Support System
+      hint: null
+      type: select_multiple
+      options:
+      - Support Groups
+      - Sponsor
+      - Therapist
+      required: false
+    - id: 7
+      name: relapse
+      label: Relapse
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_appointment_time
+      label: Next Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false

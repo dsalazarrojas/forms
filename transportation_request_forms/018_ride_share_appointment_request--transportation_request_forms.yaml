@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ride Share Appointment Request
+    pages:
+    - id: 1
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: passenger_count
+      label: Passenger Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Packing Checklist Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Miami''}'
+      - '{''id'': 2, ''value'': ''New Orleans''}'
+      - '{''id'': 3, ''value'': ''New York''}'
+      required: false
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: packing_list
+      label: Packing List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: clothing
+      label: Clothing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Shirts''}'
+      - '{''id'': 2, ''value'': ''Pants''}'
+      - '{''id'': 3, ''value'': ''Socks''}'
+      required: false
+    - id: 6
+      name: travel_docs
+      label: Travel Docs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Passport''}'
+      - '{''id'': 2, ''value'': ''ID Card''}'
+      - '{''id'': 3, ''value'': ''Credit Card''}'
+      required: false
+    - id: 7
+      name: flight_info
+      label: Flight Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Departure''}'
+      - '{''id'': 2, ''value'': ''Arrival''}'
+      - '{''id'': 3, ''value'': ''Flight Number''}'
+      required: false
+    - id: 8
+      name: hotel_info
+      label: Hotel Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Name''}'
+      - '{''id'': 2, ''value'': ''Address''}'
+      - '{''id'': 3, ''value'': ''Phone''}'
+      required: false
+    - id: 9
+      name: car_rental
+      label: Car Rental
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 10
+      name: travel_agents
+      label: Travel Agents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''John''}'
+      - '{''id'': 2, ''value'': ''Jane''}'
+      - '{''id'': 3, ''value'': ''Joe''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

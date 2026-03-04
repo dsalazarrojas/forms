@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Source Verification Checklist
+    pages:
+    - id: 1
+      name: background_check
+      label: Background Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_check
+      label: Social Media Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reference_check
+      label: Reference Check
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: education_verification
+      label: Education Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_application
+      label: Job Application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: skills_and_certifications
+      label: Skills and Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: source_of_employment
+      label: Source of Employment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: employment_agreement
+      label: Employment Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false

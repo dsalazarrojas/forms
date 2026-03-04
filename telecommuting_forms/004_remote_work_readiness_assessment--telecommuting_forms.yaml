@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Readiness Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_work_readiness_assessment_form_1
+      label: How often do you work from home?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 3
+      name: remote_work_readiness_assessment_form_2
+      label: How many hours do you spend working from home per day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: remote_work_readiness_assessment_form_3
+      label: How long have you been working from home for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: remote_work_readiness_assessment_form_4
+      label: How many hours do you spend working on work-related tasks while at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: remote_work_readiness_assessment_form_5
+      label: How many hours do you spend on personal activities while at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: remote_work_readiness_assessment_form_6
+      label: How many hours do you spend on family activities while at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: remote_work_readiness_assessment_form_7
+      label: How many hours do you spend commuting to work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: remote_work_readiness_assessment_form_8
+      label: How many hours do you spend on work-related travel?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: remote_work_readiness_assessment_form_9
+      label: How many hours do you spend on personal care activities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: remote_work_readiness_assessment_form_10
+      label: What time of day do you start work?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: remote_work_readiness_assessment_form_11
+      label: What time of day do you finish work?
+      hint: null
+      type: time
+      options: []
+      required: false

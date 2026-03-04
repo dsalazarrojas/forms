@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finance Coaching Booking Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coach_specialties
+      label: Coach Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Investment Management
+      - Career Coaching
+      required: false
+    - id: 10
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 11
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Booked
+      - Cancelled
+      required: false
+    - id: 14
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coach_signature
+      label: Coach Signature
+      hint: null
+      type: text
+      options: []
+      required: false

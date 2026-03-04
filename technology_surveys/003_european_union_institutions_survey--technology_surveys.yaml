@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: European Union Institutions Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: European Union Institutions Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: eu_bodies_organisation
+      label: eu_bodies_organisation
+      hint: null
+      type: select_multiple
+      options:
+      - EU Commission
+      - EU Council
+      - EU Parliament
+      - EU Commission and EU Parliament
+      required: false
+    - id: 3
+      name: technology_survey
+      label: technology_survey
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_input
+      label: email_input
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: category_input
+      label: category_input
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      required: false
+    - id: 7
+      name: phone_input
+      label: phone_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_input
+      label: description_input
+      hint: null
+      type: text
+      options: []
+      required: false

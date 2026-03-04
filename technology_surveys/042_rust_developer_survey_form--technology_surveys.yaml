@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rust Developer Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rust_adoption
+      label: rust
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      required: false
+    - id: 3
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 6
+      name: tool_usage
+      label: tool_usage
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: community_involvement
+      label: community_involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_research
+      label: product_research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

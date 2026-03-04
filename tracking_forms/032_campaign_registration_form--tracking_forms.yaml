@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: Participant First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Participant Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: campaign_name
+      label: Campaign Name
+      hint: Which campaign are you joining
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: campaign_type
+      label: Campaign Type
+      hint: Select type
+      type: select_one
+      options:
+      - Marketing campaign
+      - Sales campaign
+      - Awareness campaign
+      - Fundraising campaign
+      - Political campaign
+      - Community outreach
+      - Product launch
+      - Other
+      required: true
+    - id: 12
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: role_in_campaign
+      label: Your Role in Campaign
+      hint: Select role
+      type: select_one
+      options:
+      - Campaign manager
+      - Team member
+      - Volunteer
+      - Coordinator
+      - Analyst
+      - Content creator
+      - Social media manager
+      - Other
+      required: true
+    - id: 14
+      name: team_assignment
+      label: Team Assignment
+      hint: Which team
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      - Unassigned
+      - Other
+      required: false
+    - id: 15
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: When does it begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: When does it end
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Your Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekdays mornings
+      - Weekdays afternoons
+      - Weekdays evenings
+      - Weekends
+      - Flexible schedule
+      - Limited availability
+      required: true
+    - id: 18
+      name: skills_expertise
+      label: Skills and Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Project management
+      - Data analysis
+      - Content writing
+      - Graphic design
+      - Social media
+      - Email marketing
+      - Event planning
+      - Public speaking
+      - Sales
+      - Customer service
+      - Other
+      required: true
+    - id: 19
+      name: previous_campaign_experience
+      label: Do You Have Previous Campaign Experience
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - extensive
+      - Yes - some
+      - No - first time
+      required: true
+    - id: 20
+      name: experience_details
+      label: Describe Your Experience
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_needed
+      label: What Training Do You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None - experienced
+      - Campaign overview
+      - Tools and software
+      - Communication skills
+      - Data tracking
+      - Compliance training
+      - Other
+      required: true
+    - id: 22
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Messaging app
+      - In person
+      required: true
+    - id: 23
+      name: tracking_id
+      label: Tracking ID
+      hint: Auto-generated or manual
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: registration_status
+      label: Registration Status
+      hint: Current status
+      type: select_one
+      options:
+      - Registered
+      - Pending approval
+      - Waitlisted
+      - Confirmed
+      - Cancelled
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

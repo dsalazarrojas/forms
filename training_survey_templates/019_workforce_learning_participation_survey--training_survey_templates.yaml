@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Learning Participation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_programs
+      label: what_training_programs_have_you_participated_in
+      hint: Please list the training programs you have participated in
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: usefulness
+      label: how_useful_have_your_participation_in_the_training_program_been
+      hint: How useful have your participation in the training program been
+      type: select_one
+      options:
+      - Very Useful
+      - Somewhat Useful
+      - Not Very Useful
+      - Not At All Useful
+      required: false
+    - id: 4
+      name: suggestions
+      label: any_suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_programs_2
+      label: what_are_some_other_training_programs_you_did_not_participate_in
+      hint: Please list the training programs you have not participated in
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up
+      label: will_you_participate_in_future_training_programs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 7
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_confirmation
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: note
+      options: []
+      required: false

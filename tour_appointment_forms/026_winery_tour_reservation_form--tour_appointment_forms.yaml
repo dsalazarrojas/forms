@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winery Tour Reservation Form
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: winery_details_page
+      label: Winery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reservation_details_page
+      label: Reservation Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_slot_page
+      label: Time Slot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: booking_type_page
+      label: Booking Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Private
+      - Group
+      required: false
+    - id: 6
+      name: num_guests_page
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: winery_phone_page
+      label: Winery Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: winery_email_page
+      label: Winery Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: user_email_page
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: winery_notes_page
+      label: Winery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_notes_page
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: winery_confirmation_page
+      label: Winery Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: user_confirmation_page
+      label: User Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: winery_terms_page
+      label: Winery Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: user_terms_page
+      label: User Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submit_page
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

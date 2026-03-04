@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Profile Form
+    pages:
+    - id: 1
+      name: vendor_profile_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone_extension
+      label: Contact Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_alternate_email
+      label: Contact Alternate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_alternate_phone
+      label: Contact Alternate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_mobile
+      label: Contact Mobile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Company''}'
+      required: true
+    - id: 11
+      name: vendor_category
+      label: Vendor Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Manufacturer''}'
+      - '{''value'': ''Retailer''}'
+      - '{''value'': ''Service''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 12
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_title
+      label: Business Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false

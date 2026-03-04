@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Win Loss Tracking Form
+    pages:
+    - id: 1
+      name: sales_outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - Won
+      - Lost
+      - Pending
+      required: false
+    - id: 2
+      name: deal_size
+      label: Deal Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product/Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

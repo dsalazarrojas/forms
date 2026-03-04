@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Reference Check Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Enterprise
+      required: false
+    - id: 8
+      name: employee_count
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Publicly Traded
+      - Private
+      - Not For Profit
+      required: false
+    - id: 11
+      name: company_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: false
+    - id: 12
+      name: date_of_reference
+      label: Date of Reference
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_reference
+      label: Time of Reference
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reference_type
+      label: Type of Reference
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 15
+      name: reference_level
+      label: Level of Reference
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: reference_description
+      label: Reference Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vendor_reference
+      label: Vendor Reference
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

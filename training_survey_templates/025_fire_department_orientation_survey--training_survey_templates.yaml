@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_department_orientation_survey
+    pages:
+    - id: 1
+      name: new_recruit
+      label: New Recruit Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please provide emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Emergency Medical Services
+      - Fire Safety and Prevention
+      - Training and Development
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - HQ
+      - Station 1
+      - Station 2
+      - Station 3
+      required: false
+    - id: 8
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Suppression
+      - First Aid and Rescue
+      - Hazmat
+      - Investigation
+      required: false
+    - id: 9
+      name: safety_prevention
+      label: Safety Prevention
+      hint: null
+      type: select_multiple
+      options:
+      - Safety and Equipment
+      - Fire Safety
+      - Emergency Preparedness
+      - Prevention and Response
+      required: false

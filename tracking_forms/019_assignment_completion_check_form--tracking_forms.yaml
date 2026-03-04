@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Completion Check Form
+    pages:
+    - id: 1
+      name: checker_name
+      label: Name of Person Checking Assignments
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: check_date
+      label: Date of Check
+      hint: When are you checking?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: check_time
+      label: Time of Check
+      hint: What time is this check?
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: course_or_class
+      label: Course or Class Name
+      hint: Which class/course?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assignment_name
+      label: Assignment Name
+      hint: Name or title of assignment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assignment_due_date
+      label: Assignment Due Date
+      hint: Original due date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_students
+      label: Total Students in Class
+      hint: How many students total?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assignments_submitted
+      label: Total Assignments Submitted
+      hint: How many were turned in?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: on_time_submissions
+      label: On-Time Submissions
+      hint: How many before due date?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: late_submissions
+      label: Late Submissions
+      hint: How many after due date?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: missing_assignments
+      label: Missing Assignments
+      hint: How many not submitted?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: completion_percentage
+      label: Completion Percentage
+      hint: Percent of class that submitted
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: submission_format_issues
+      label: Students with Format Issues
+      hint: How many submitted in wrong format?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: incomplete_submissions
+      label: Incomplete Submissions
+      hint: How many incomplete submissions?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: file_corruption_issues
+      label: File Corruption or Unreadable Files
+      hint: How many files had issues?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: overall_quality_assessment
+      label: Overall Quality of Submissions
+      hint: How good are the assignments?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: common_issues_observed
+      label: Common Issues Observed
+      hint: What problems did you notice?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_requiring_follow_up
+      label: Students Requiring Follow-up
+      hint: List names of students needing help
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: grading_started
+      label: Grading Started?
+      hint: Has grading begun?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 21
+      name: estimated_grading_completion
+      label: Estimated Grading Completion Date
+      hint: When will grading be done?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: need_grade_extension
+      label: Need to Announce Grade Extension?
+      hint: Will due date be extended?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other observations?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Uniform Order Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Name of your cheer team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_organization
+      label: School or Organization
+      hint: Name of school or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Name of the person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for order communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_deadline
+      label: Delivery Deadline
+      hint: When do you need the uniforms delivered
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: uniform_style
+      label: Uniform Style
+      hint: Style of uniform
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Two-piece
+      - One-piece
+      - Custom design
+      required: true
+    - id: 9
+      name: primary_color
+      label: Primary Color
+      hint: Main uniform color
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Black
+      - White
+      - Purple
+      - Orange
+      - Yellow
+      - Pink
+      - Navy
+      - Custom
+      required: true
+    - id: 10
+      name: secondary_color
+      label: Secondary Color
+      hint: Accent color
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Black
+      - White
+      - Silver
+      - Gold
+      - Custom
+      required: true
+    - id: 11
+      name: quantity_top
+      label: Quantity of Tops
+      hint: Number of uniform tops needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quantity_bottom
+      label: Quantity of Bottoms
+      hint: Number of uniform bottoms needed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: quantity_dress
+      label: Quantity of Full Dresses
+      hint: Number of full dresses if applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: size_youth_small
+      label: Youth Small Quantity
+      hint: Number of youth small uniforms
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: size_youth_medium
+      label: Youth Medium Quantity
+      hint: Number of youth medium uniforms
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: size_youth_large
+      label: Youth Large Quantity
+      hint: Number of youth large uniforms
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: size_adult_small
+      label: Adult Small Quantity
+      hint: Number of adult small uniforms
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: size_adult_medium
+      label: Adult Medium Quantity
+      hint: Number of adult medium uniforms
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: size_adult_large
+      label: Adult Large Quantity
+      hint: Number of adult large uniforms
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: size_adult_xl
+      label: Adult XL Quantity
+      hint: Number of adult XL uniforms
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: size_adult_2xl
+      label: Adult 2XL Quantity
+      hint: Number of adult 2XL uniforms
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: size_adult_3xl
+      label: Adult 3XL Quantity
+      hint: Number of adult 3XL uniforms
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: customization_required
+      label: Customization Required
+      hint: Do you need custom embroidery or printing
+      type: select_one
+      options:
+      - Yes, with team name
+      - Yes, with logos
+      - Yes, with names and numbers
+      - No customization
+      required: true
+    - id: 24
+      name: customization_details
+      label: Customization Details
+      hint: Describe your customization requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accessories_needed
+      label: Accessories Needed
+      hint: Select additional accessories
+      type: select_multiple
+      options:
+      - Pom poms
+      - Hair bows
+      - Shoes
+      - Socks
+      - Jackets
+      - Bags
+      - None
+      required: true
+    - id: 26
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: shipping_method
+      label: Shipping Method
+      hint: Preferred shipping option
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight shipping
+      - Store pickup
+      required: true
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this order
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Purchase order
+      - Check
+      - Bank transfer
+      required: true
+    - id: 29
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements for this order
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true

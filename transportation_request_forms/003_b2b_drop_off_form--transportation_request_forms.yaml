@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Drop Off Form
+    pages:
+    - id: 1
+      name: sender_company
+      label: Sender Company Name
+      hint: Business sending the items
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sender_contact
+      label: Sender Contact Person
+      hint: Name of person arranging drop-off
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email
+      label: Sender Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_phone
+      label: Sender Phone Number
+      hint: Contact number for questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recipient_company
+      label: Recipient Company Name
+      hint: Business receiving the items
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recipient_contact
+      label: Recipient Contact Person
+      hint: Name of person receiving items
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_phone
+      label: Recipient Phone Number
+      hint: Direct line for recipient
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: drop_off_date
+      label: Preferred Drop-Off Date
+      hint: When will items be delivered
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: drop_off_time
+      label: Preferred Drop-Off Time
+      hint: Select time window
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: drop_off_location
+      label: Drop-Off Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_type
+      label: Type of Items
+      hint: Select primary category
+      type: select_one
+      options:
+      - Documents
+      - Packages
+      - Equipment
+      - Supplies
+      - Products
+      - Samples
+      - Other
+      required: true
+    - id: 12
+      name: item_description
+      label: Detailed Item Description
+      hint: Describe items being dropped off
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantity
+      label: Total Quantity
+      hint: Number of items or packages
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: weight
+      label: Total Weight
+      hint: In pounds or kilograms
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Fragile, temperature-controlled, etc.
+      type: select_multiple
+      options:
+      - Fragile
+      - Temperature-controlled
+      - Hazardous materials
+      - High value
+      - Time-sensitive
+      - None
+      required: true
+    - id: 16
+      name: tracking_required
+      label: Tracking Required
+      hint: Do you need tracking information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: signature_required
+      label: Signature on Delivery
+      hint: Is signature confirmation required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: additional_instructions
+      label: Additional Instructions
+      hint: Any special notes for delivery
+      type: text
+      options: []
+      required: false

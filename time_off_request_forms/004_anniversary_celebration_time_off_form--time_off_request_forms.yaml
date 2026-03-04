@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Celebration Time Off Form
+    pages:
+    - id: 1
+      name: header_employee_info
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      - Human Resources
+      - Finance
+      - Operations
+      required: true
+    - id: 5
+      name: anniversary_date
+      label: Company Anniversary Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: years_of_service
+      label: Number of Years with Company
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: header_leave_request
+      label: -- Leave Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days
+      label: Total Work Days Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: manager_approval_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coverage_plan
+      label: Handover or Coverage Plan
+      hint: Who will handle your tasks?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: celebration_plans
+      label: Anniversary Celebration Plans
+      hint: Optional - tell us how you are celebrating
+      type: text
+      options: []
+      required: false

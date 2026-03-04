@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Pre Flight Passenger Check In Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Full Name
+      hint: Must match your passport or government ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_reference
+      label: Booking Reference (PNR)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_date
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_documentation
+      label: -- Passport and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: passport_expiry
+      label: Passport Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: visa_required
+      label: Do you have a valid visa for your destination?
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - Not required for my nationality
+      - In progress
+      required: true
+    - id: 11
+      name: section_bags
+      label: -- Baggage and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: checked_bags_count
+      label: Number of Bags to Check-in
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: dangerous_goods_declaration
+      label: I confirm I am not carrying any prohibited dangerous goods
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 14
+      name: health_declaration
+      label: Are you currently experiencing any symptoms of infectious disease?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: special_assistance_reminder
+      label: Do you require airport assistance for this flight?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (Already requested)
+      - Yes (Need to request now)
+      required: true
+    - id: 16
+      name: confirmation_statement
+      label: All information provided is correct to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

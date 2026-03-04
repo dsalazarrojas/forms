@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Planning Inquiry Form
+    pages:
+    - id: 1
+      name: destination
+      label: Where do you want to travel to
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Mountain
+      - City
+      required: false
+    - id: 2
+      name: travel_date
+      label: When do you want to travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: duration
+      label: How long do you want to travel
+      hint: Enter a duration in days
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent
+      label: Travel Agent
+      hint: Choose a travel agent
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      - Bob Johnson
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Additional Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agent_note
+      label: Travel Agent Note
+      hint: null
+      type: note
+      options: []
+      required: false

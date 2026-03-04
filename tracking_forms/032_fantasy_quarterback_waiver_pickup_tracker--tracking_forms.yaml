@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: fantasy_quarterback_waiver_pickup_tracker
+    pages:
+    - id: 1
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: waiver_requester
+      label: Waiver Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: requester_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: requester_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: waiver_priority
+      label: Waiver Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: waiver_requesting_player
+      label: Waiver Requesting Player
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waiver_granted
+      label: Waiver Granted
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: waiver_request_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Granted
+      - Denied
+      required: true
+    - id: 12
+      name: form_completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false

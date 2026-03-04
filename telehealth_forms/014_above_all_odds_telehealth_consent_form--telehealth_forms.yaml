@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Above All Odds Telehealth Consent Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: -- Telehealth Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent_intro_note
+      label: This form documents your informed consent to receive telehealth services
+        from Above All Odds. Please read each section carefully before signing.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: client_full_name
+      label: Client full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_address
+      label: Current address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_telehealth_info
+      label: -- Understanding Telehealth --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: understand_telehealth
+      label: I understand that telehealth involves the delivery of health services
+        using electronic communications and technology
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 10
+      name: understand_limitations
+      label: I understand that telehealth has potential limitations, including technology
+        failures and that it may not be suitable for all conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 11
+      name: understand_confidentiality
+      label: I understand that while reasonable steps are taken to protect confidentiality,
+        electronic communication carries inherent risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 12
+      name: understand_emergency
+      label: I understand that telehealth is not appropriate for emergencies and I
+        should call 911 or go to the nearest emergency room in case of an emergency
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 13
+      name: section_header_consent_agreement
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_treatment
+      label: I voluntarily consent to receive telehealth treatment from Above All
+        Odds
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: right_to_withdraw
+      label: I understand that I may withdraw my consent and discontinue telehealth
+        services at any time
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Relationship to emergency contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: client_printed_name
+      label: Printed name of client (or legal guardian)
+      hint: null
+      type: text
+      options: []
+      required: true

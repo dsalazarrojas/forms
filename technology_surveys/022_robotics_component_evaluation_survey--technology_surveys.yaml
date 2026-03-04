@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Component Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: component_type
+      label: component_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''motor''}'
+      - '{''id'': 2, ''name'': ''gear''}'
+      - '{''id'': 3, ''name'': ''sensor''}'
+      required: false
+    - id: 3
+      name: component_name
+      label: component_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: performance_rating
+      label: performance_rating
+      hint: Scale from 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

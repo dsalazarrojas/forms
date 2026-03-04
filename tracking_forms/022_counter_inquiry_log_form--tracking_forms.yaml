@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: counter_inquiry_log_form
+    pages:
+    - id: 1
+      name: customer_request
+      label: Customer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Request''}'
+      - '{''id'': 2, ''name'': ''Inquiry''}'
+      - '{''id'': 3, ''name'': ''Question''}'
+      - '{''id'': 4, ''name'': ''Complaint''}'
+      required: true
+    - id: 3
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Jim''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''John''}'
+      required: true
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_response
+      label: Customer Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open''}'
+      - '{''id'': 2, ''name'': ''Closed''}'
+      - '{''id'': 3, ''name'': ''In Progress''}'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: tenant_background_check_consent_form
+    pages:
+    - id: 1
+      name: tenant_background_check_consent
+      label: Tenant Background Check Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: background_check
+      label: Background Check
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: true
+    - id: 3
+      name: screening_process
+      label: Screening Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant_information
+      label: Tenant Information
+      hint: This form collects information about the tenant.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: landlord_information
+      label: Landlord Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Questionnaire STC
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birthdate
+      label: Birth Date
+      hint: Enter your birth date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: Age is not required
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: goal_one
+      label: Goal 1
+      hint: Enter your goal
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goal_two
+      label: Goal 2
+      hint: Enter another goal
+      type: select_multiple
+      options:
+      - Running
+      - Swimming
+      - Cycling
+      - Gym
+      - Dance
+      - Hiking
+      - Boxing
+      required: false
+    - id: 10
+      name: height
+      label: Height
+      hint: Enter your height in centimeters
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: weight
+      label: Weight
+      hint: Enter your weight
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: false
+    - id: 13
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - Graduate
+      - Other
+      required: false
+    - id: 14
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Student
+      - Retiree
+      - Self
+      - Unemployed
+      - Other
+      required: false
+    - id: 15
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: select_one
+      options:
+      - Strength Training
+      - Cardio
+      - Endurance
+      - Weight Loss
+      - Weight Gain
+      required: false
+    - id: 16
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times/week
+      - 3-4 times/week
+      - 5+ times/week
+      required: false
+    - id: 17
+      name: training_intensity
+      label: Training Intensity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 18
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Group Class
+      - Personal Training
+      - Online
+      required: false
+    - id: 19
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Enter your emergency contact name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Enter your emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Other
+      required: false
+    - id: 24
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: Enter your emergency contact's address
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: goal_three
+      label: Goal 3
+      hint: Enter another goal
+      type: text
+      options: []
+      required: false

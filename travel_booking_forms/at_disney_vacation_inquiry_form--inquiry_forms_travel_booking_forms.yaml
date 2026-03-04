@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AT Disney Vacation Inquiry Form
+    pages:
+    - id: 1
+      name: section_header_guest_info
+      label: '--- Guest Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, for urgent updates
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: traveler_type
+      label: Traveler type
+      hint: Select the primary guest category
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Infant
+      required: true
+    - id: 6
+      name: section_header_vacation
+      label: '--- Vacation Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vacation_start_date
+      label: Vacation start date
+      hint: The first day of your trip
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vacation_end_date
+      label: Vacation end date
+      hint: The last day of your trip
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of guests
+      hint: Include all travelers in the reservation
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: preferred_park
+      label: Preferred park
+      hint: Which Disney park would you like to visit most?
+      type: select_one
+      options:
+      - Magic Kingdom
+      - EPCOT
+      - Hollywood Studios
+      - Animal Kingdom
+      - Disney Springs
+      required: true
+    - id: 11
+      name: park_pass_type
+      label: Park pass type
+      hint: Choose the pass that fits your itinerary
+      type: select_one
+      options:
+      - Single Park
+      - Multi-Park
+      - Unlimited
+      required: true
+    - id: 12
+      name: accommodation_type
+      label: Accommodation type
+      hint: Where would you like to stay during your visit?
+      type: select_one
+      options:
+      - Hotel
+      - Resort
+      - Vacation Rental
+      - None
+      required: true
+    - id: 13
+      name: hotel_name
+      label: Hotel name
+      hint: Enter the name of the hotel or resort (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transportation_needed
+      label: Transportation needed
+      hint: Will you need transportation assistance?
+      type: select_one
+      options:
+      - None
+      - Airport Shuttle
+      - Private Car
+      - Rental Car
+      required: true
+    - id: 15
+      name: transportation_details
+      label: Transportation details
+      hint: Specify pickup location, times, or special instructions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special requests
+      hint: Any dietary restrictions, accessibility needs, or other requests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_payment
+      label: '--- Payment & Contact Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment method
+      hint: How would you like to pay for your reservation?
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      - Gift card
+      required: true
+    - id: 19
+      name: card_type
+      label: Card type
+      hint: Only required if payment method is Credit card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 20
+      name: card_number
+      label: Card number
+      hint: Enter the 16-digit card number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_expiry
+      label: Card expiry
+      hint: 'Format: MM/YY'
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_address
+      label: Billing address
+      hint: Address associated with the payment method
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: When is the best time to reach you?
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: preferred_language
+      label: Preferred language
+      hint: Language you prefer for communication
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      required: true
+    - id: 25
+      name: how_hear
+      label: How did you hear about us?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friends
+      - Social Media
+      - Travel Agency
+      - Website
+      - Advertisement
+      - Other
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else you'd like to share with us
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Jet Grooming Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grooming_services
+      label: grooming_services
+      hint: null
+      type: select_one
+      options:
+      - Cabin crew friendly
+      - Cleanliness of cabin
+      - Comfort of seat
+      - Grooming staff friendly
+      - Overall grooming experience
+      - Punctuality
+      - Timeliness of grooming
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Visit Log
+    pages:
+    - id: 1
+      name: log_header
+      label: Contact Visit Log
+      hint: Track workplace visitors
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: Date of visit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: visit_time_in
+      label: Time In
+      hint: Arrival time
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: visitor_first_name
+      label: Visitor First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_last_name
+      label: Visitor Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: visitor_company
+      label: Visitor Company
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visitor_email
+      label: Visitor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: visitor_phone
+      label: Visitor Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: visitor_address
+      label: Visitor Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: host_name
+      label: Host Name
+      hint: Employee being visited
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: host_department
+      label: Host Department
+      hint: Department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      - HR
+      - Finance
+      - Operations
+      - Executive
+      - Other
+      required: true
+    - id: 12
+      name: visit_purpose
+      label: Purpose of Visit
+      hint: Why visiting
+      type: select_one
+      options:
+      - Business Meeting
+      - Interview
+      - Delivery
+      - Vendor Service
+      - Tour
+      - Personal
+      - Other
+      required: true
+    - id: 13
+      name: visit_details
+      label: Visit Details
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: expected_duration
+      label: Expected Duration
+      hint: How long
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - Full day
+      - Multiple days
+      required: true
+    - id: 15
+      name: time_out
+      label: Time Out
+      hint: Departure time
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_info
+      label: Vehicle Information
+      hint: License plate
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking_spot
+      label: Parking Spot Number
+      hint: Assigned spot
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: badge_issued
+      label: Visitor Badge Issued
+      hint: Badge number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: nda_required
+      label: NDA Required
+      hint: Is NDA needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: nda_signed
+      label: NDA Signed
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 21
+      name: health_screening
+      label: Health Screening Passed
+      hint: Temperature check etc
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 22
+      name: receptionist_name
+      label: Receptionist Name
+      hint: Who checked in visitor
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other info
+      type: text
+      options: []
+      required: false

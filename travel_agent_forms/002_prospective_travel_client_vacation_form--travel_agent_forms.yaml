@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospective Travel Client Vacation Form
+    pages:
+    - id: 1
+      name: travel_client_info
+      label: Travel Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_locations
+      label: Travel Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: travel_budget
+      label: Travel Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_agent_info
+      label: Travel Agent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

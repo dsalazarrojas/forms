@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Travel Experience Survey
+    pages:
+    - id: 1
+      name: traveler_information
+      label: Traveler Information
+      hint: Tell us about the young traveler
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child's Name
+      hint: First name is fine
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_age
+      label: Child's Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: family_size
+      label: How many people traveled together
+      hint: Include children and adults
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: trip_details
+      label: Trip Details
+      hint: Information about your recent trip
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: destination
+      label: Where did you travel to
+      hint: City, state, or country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_dates
+      label: When did you travel
+      hint: Approximate dates are fine
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: trip_duration
+      label: How long was your trip
+      hint: null
+      type: select_one
+      options:
+      - Day trip (less than 24 hours)
+      - 2-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - More than 2 weeks
+      required: true
+    - id: 10
+      name: travel_type
+      label: What type of trip was this
+      hint: null
+      type: select_one
+      options:
+      - Family vacation
+      - Educational trip
+      - Visit family or friends
+      - Adventure camp
+      - School trip
+      - Other
+      required: true
+    - id: 11
+      name: transportation_feedback
+      label: Transportation Feedback
+      hint: How you got there
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: transportation_method
+      label: How did you travel to your destination
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Car
+      - Airplane
+      - Train
+      - Bus
+      - Cruise ship
+      - Ferry or boat
+      - RV or camper
+      required: true
+    - id: 13
+      name: transportation_rating
+      label: How would you rate the transportation experience
+      hint: From the child's perspective
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: accommodation_feedback
+      label: Accommodation Feedback
+      hint: Where you stayed
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_type
+      label: What type of accommodation did you use
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Resort
+      - Vacation rental
+      - Camping
+      - Staying with family or friends
+      - Hostel
+      - Other
+      required: true
+    - id: 16
+      name: accommodation_rating
+      label: How would you rate where you stayed
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: activities_feedback
+      label: Activities and Experiences
+      hint: What you did on your trip
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: activities_enjoyed
+      label: What activities did the child enjoy most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beach or water activities
+      - Sightseeing
+      - Museums or cultural sites
+      - Theme parks
+      - Outdoor adventures
+      - Shopping
+      - Trying new foods
+      - Meeting new people
+      - Sports or recreation
+      - Relaxing
+      required: true
+    - id: 19
+      name: favorite_part
+      label: What was the child's favorite part of the trip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: least_favorite_part
+      label: What was the least favorite part of the trip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Your overall experience
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_rating
+      label: Overall, how would you rate this travel experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: would_recommend
+      label: Would you recommend this destination to other families
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 24
+      name: improvements_suggested
+      label: What could have made this trip better
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: future_travel_plans
+      label: Do you plan to travel to similar destinations in the future
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: false

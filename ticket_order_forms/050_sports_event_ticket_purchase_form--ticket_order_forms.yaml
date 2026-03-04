@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Ticket Purchase Form
+    pages:
+    - id: 1
+      name: ticket_purchase_form
+      label: Sports Event Ticket Purchase Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_details
+      label: Buyer Details
+      hint: Enter buyer details here
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Name''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: Enter event details here
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Event 1''}'
+      - '{''id'': 2, ''label'': ''Event 2''}'
+      - '{''id'': 3, ''label'': ''Event 3''}'
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 5
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false

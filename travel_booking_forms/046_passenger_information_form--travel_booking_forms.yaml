@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: passenger_information_form
+    pages:
+    - id: 1
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_name
+      label: passenger_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: passenger_surname
+      label: passenger_surname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: passenger_email
+      label: passenger_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: passenger_phone
+      label: passenger_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: passenger_dob
+      label: passenger_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: text
+      options: []
+      required: false

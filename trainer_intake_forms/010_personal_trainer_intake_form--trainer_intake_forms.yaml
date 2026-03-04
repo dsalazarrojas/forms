@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Last name of the client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_first_name
+      label: Emergency contact first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Emergency contact last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_number
+      label: Emergency contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Medications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: previous_injuries
+      label: Previous injuries
+      hint: null
+      type: note
+      options: []
+      required: false

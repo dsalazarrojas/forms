@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Train Service Complaint Form
+    pages:
+    - id: 1
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: train_service
+      label: Train Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_complaint
+      label: Date of Complaint
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_complaint
+      label: Time of Complaint
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: passenger_info
+      label: Passenger Information
+      hint: Please provide your details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: train_service_feedback
+      label: Train Service Feedback
+      hint: What would you like to say about your service experience?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_resolution
+      label: Expected Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: actual_resolution
+      label: Actual Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

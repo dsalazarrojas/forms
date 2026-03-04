@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milk Distribution Tracker
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cooperative_name
+      label: Cooperative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: milk_type
+      label: Milk Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: milk_received
+      label: Milk Received
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: quantity_received
+      label: Quantity Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_delivered
+      label: Date Delivered
+      hint: null
+      type: date
+      options: []
+      required: false

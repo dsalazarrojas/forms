@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: SharePoint Change Audit Log Tracker
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Tracking Forms
+      - Tracking Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - Other
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_created
+      label: Time Created
+      hint: null
+      type: time
+      options: []
+      required: false

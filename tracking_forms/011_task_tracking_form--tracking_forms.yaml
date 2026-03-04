@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Tracking Form
+    pages:
+    - id: 1
+      name: task_tracking_form
+      label: Task Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      - Label 4
+      - Label 5
+      required: false
+    - id: 3
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: timeline
+      label: Timeline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: task_progress
+      label: Task Progress
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 12
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      - Never
+      required: false

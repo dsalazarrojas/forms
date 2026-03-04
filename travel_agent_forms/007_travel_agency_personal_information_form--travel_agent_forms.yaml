@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_agency_personal_information_form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agency_type
+      label: Type of Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - Local
+      - Out of Country
+      required: false
+    - id: 11
+      name: travel_agency_license
+      label: Travel Agency License
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

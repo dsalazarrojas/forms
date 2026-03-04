@@ -1,0 +1,436 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Checklist Form
+    pages:
+      - id: 1
+        name: maintenance_header
+        label: -- Building Maintenance Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: checklist_date
+        label: Inspection/maintenance date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: maintenance_person
+        label: Maintenance person name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: building_location
+        label: Building or facility name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: maintenance_type
+        label: Type of maintenance
+        hint: null
+        type: select_one
+        options:
+          - Preventive maintenance
+          - Routine inspection
+          - Repair inspection
+          - Safety inspection
+          - Seasonal maintenance
+          - Emergency repair
+          - Other
+        required: true
+      - id: 6
+        name: exterior_maintenance
+        label: -- Exterior Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: roof_check
+        label: Roof inspection and maintenance
+        hint: null
+        type: select_one
+        options:
+          - Pass - No issues
+          - Cleaned and maintained
+          - Repairs needed
+          - Maintenance performed
+          - Needs attention
+        required: true
+      - id: 8
+        name: roof_notes
+        label: Roof maintenance notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: gutters_downspouts
+        label: Gutters and downspouts
+        hint: null
+        type: select_one
+        options:
+          - Pass - Clear and flowing
+          - Cleaned
+          - Partially blocked
+          - Cleaning needed
+          - Repair needed
+        required: true
+      - id: 10
+        name: exterior_painting
+        label: Exterior paint and caulking
+        hint: null
+        type: select_one
+        options:
+          - Pass - Good condition
+          - Minor touch-up done
+          - Caulking applied
+          - Painting needed soon
+          - Repainting recommended
+        required: true
+      - id: 11
+        name: landscaping
+        label: Landscaping and grounds
+        hint: null
+        type: select_one
+        options:
+          - Pass - Well maintained
+          - Trimmed and maintained
+          - Needs trimming
+          - Weeding needed
+          - Maintenance completed
+        required: true
+      - id: 12
+        name: parking_lot
+        label: Parking lot condition
+        hint: null
+        type: select_one
+        options:
+          - Pass - Good condition
+          - Swept and cleaned
+          - Potholes noted
+          - Seal coating done
+          - Repair needed
+        required: false
+      - id: 13
+        name: interior_maintenance
+        label: -- Interior Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: floor_maintenance
+        label: Floor cleaning and maintenance
+        hint: null
+        type: select_one
+        options:
+          - Pass - Clean and maintained
+          - Swept and mopped
+          - Wax/polish applied
+          - Cleaning needed
+          - Deep cleaning done
+        required: true
+      - id: 15
+        name: wall_maintenance
+        label: Walls and surfaces
+        hint: null
+        type: select_one
+        options:
+          - Pass - Clean condition
+          - Cleaned
+          - Paint touch-up done
+          - Stains noted
+          - Painting needed
+        required: true
+      - id: 16
+        name: ceiling_maintenance
+        label: Ceilings and lighting fixtures
+        hint: null
+        type: select_one
+        options:
+          - Pass - Clean condition
+          - Dusted and cleaned
+          - Lights tested
+          - Fixtures cleaned
+          - Repair needed
+        required: true
+      - id: 17
+        name: doors_windows
+        label: Doors and windows
+        hint: null
+        type: select_one
+        options:
+          - Pass - Function properly
+          - Cleaned and tested
+          - Lubricated
+          - Repair noted
+          - Replacement needed
+        required: true
+      - id: 18
+        name: hvac_maintenance
+        label: -- HVAC System --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: hvac_filter
+        label: HVAC filter replacement
+        hint: null
+        type: select_one
+        options:
+          - Pass - Recently replaced
+          - Replaced
+          - Clean - no replacement
+          - Replacement due soon
+          - Replacement needed immediately
+        required: true
+      - id: 20
+        name: hvac_service
+        label: HVAC service and inspection
+        hint: null
+        type: select_one
+        options:
+          - Pass - Functioning normally
+          - Service performed
+          - Minor issues noted
+          - Service needed
+          - Professional service required
+        required: true
+      - id: 21
+        name: thermostat_check
+        label: Thermostat operation
+        hint: null
+        type: select_one
+        options:
+          - Pass - Operating normally
+          - Tested and adjusted
+          - Minor adjustment done
+          - Needs calibration
+          - Replacement needed
+        required: false
+      - id: 22
+        name: plumbing_maintenance
+        label: -- Plumbing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: leak_inspection
+        label: Leak inspection
+        hint: null
+        type: select_one
+        options:
+          - Pass - No leaks found
+          - Inspected - dry
+          - Minor leak found
+          - Leak repaired
+          - Water damage noted
+        required: true
+      - id: 24
+        name: drain_check
+        label: Drain functionality
+        hint: null
+        type: select_one
+        options:
+          - Pass - Draining normally
+          - Tested - working
+          - Slow drain noted
+          - Cleaning performed
+          - Professional cleaning needed
+        required: true
+      - id: 25
+        name: water_pressure
+        label: Water pressure and quality
+        hint: null
+        type: select_one
+        options:
+          - Pass - Normal pressure
+          - Adequate
+          - Low pressure noted
+          - Adjustment made
+          - Investigation needed
+        required: false
+      - id: 26
+        name: electrical_maintenance
+        label: -- Electrical --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: outlet_check
+        label: Outlet and switch inspection
+        hint: null
+        type: select_one
+        options:
+          - Pass - All functional
+          - Tested - working
+          - Minor issues found
+          - Repair completed
+          - Safety concern noted
+        required: true
+      - id: 28
+        name: lighting_check
+        label: Lighting and bulbs
+        hint: null
+        type: select_one
+        options:
+          - Pass - All lights working
+          - Bulbs tested
+          - Bulbs replaced
+          - Some out
+          - Extensive replacement needed
+        required: true
+      - id: 29
+        name: panel_inspection
+        label: Electrical panel inspection
+        hint: null
+        type: select_one
+        options:
+          - Pass - Normal operation
+          - Inspected
+          - Minor issue noted
+          - Breaker issue
+          - Professional service needed
+        required: false
+      - id: 30
+        name: fire_safety
+        label: -- Fire Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: extinguisher_check
+        label: Fire extinguisher inspection
+        hint: null
+        type: select_one
+        options:
+          - Pass - Accessible and charged
+          - Pressure verified
+          - Tag updated
+          - Needs recharge
+          - Professional service due
+        required: true
+      - id: 32
+        name: smoke_detectors
+        label: Smoke detector maintenance
+        hint: null
+        type: select_one
+        options:
+          - Pass - All operational
+          - Tested and working
+          - Batteries replaced
+          - Not functioning
+          - Service needed
+        required: true
+      - id: 33
+        name: emergency_lighting
+        label: Emergency lighting
+        hint: null
+        type: select_one
+        options:
+          - Pass - Functional
+          - Tested
+          - Batteries replaced
+          - Not functional
+          - Service required
+        required: false
+      - id: 34
+        name: general_maintenance
+        label: -- General Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: trash_removal
+        label: Trash and waste management
+        hint: null
+        type: select_one
+        options:
+          - Pass - Removed
+          - Removed and bins cleaned
+          - Partial removal
+          - Bins need cleaning
+          - Service needed
+        required: true
+      - id: 36
+        name: pest_control
+        label: Pest control and treatment
+        hint: null
+        type: select_one
+        options:
+          - Pass - No signs of pests
+          - Treatment applied
+          - Monitoring traps
+          - Signs of activity
+          - Professional service due
+        required: true
+      - id: 37
+        name: maintenance_needed
+        label: -- Maintenance Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 38
+        name: work_completed
+        label: Work completed today
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 39
+        name: items_needing_repair
+        label: Items needing repair or maintenance
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 40
+        name: priority_level
+        label: Priority for next maintenance visit
+        hint: null
+        type: select_one
+        options:
+          - Low - Routine only
+          - Medium - Some items to address
+          - High - Several repairs needed
+          - Urgent - Safety concerns
+        required: true
+      - id: 41
+        name: next_scheduled
+        label: Next scheduled maintenance
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 42
+        name: maintenance_notes
+        label: Additional maintenance notes
+        hint: null
+        type: text
+        options: []
+        required: false

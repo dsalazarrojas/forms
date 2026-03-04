@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trip Planning Quote Form
+    pages:
+    - id: 1
+      name: trip_planning_quote_form_general
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_planning_quote_form_client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trip_planning_quote_form_travel_dates
+      label: travel_dates
+      hint: Select a travel date
+      type: select_one
+      options:
+      - Select a travel date
+      - Select a different travel date
+      required: true
+    - id: 4
+      name: trip_planning_quote_form_departure
+      label: departure
+      hint: null
+      type: select_multiple
+      options:
+      - Select a departure
+      - Select another departure
+      required: false
+    - id: 5
+      name: trip_planning_quote_form_arrival
+      label: arrival
+      hint: null
+      type: select_multiple
+      options:
+      - Select an arrival
+      - Select another arrival
+      required: false
+    - id: 6
+      name: trip_planning_quote_form_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: trip_planning_quote_form_travelers
+      label: travelers
+      hint: null
+      type: select_one
+      options:
+      - Select number of travelers
+      - Select another number of travelers
+      required: true
+    - id: 8
+      name: trip_planning_quote_form_travelers_count
+      label: number_of_travelers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: trip_planning_quote_form_currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - Select a currency
+      - Select another currency
+      required: false
+    - id: 10
+      name: trip_planning_quote_form_price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: trip_planning_quote_form_travel_agency
+      label: travel_agency
+      hint: null
+      type: select_one
+      options:
+      - Select a travel agency
+      - Select another travel agency
+      required: true
+    - id: 12
+      name: trip_planning_quote_form_travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trip_planning_quote_form_travel_agency_email
+      label: travel_agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: trip_planning_quote_form_additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trip_planning_quote_form_travel_agent
+      label: travel_agent
+      hint: null
+      type: select_one
+      options:
+      - Select a travel agent
+      - Select another travel agent
+      required: false

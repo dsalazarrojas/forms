@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Master Checklist Form
+    pages:
+    - id: 1
+      name: recurring_workflows
+      label: Recurring Workflows
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_action_items
+      label: Project Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: task_management
+      label: Task Management
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: progress_tracking
+      label: Progress Tracking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: priority_management
+      label: Priority Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: operational_routines
+      label: Operational Routines
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: task_priorities
+      label: Task Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: task_assignments
+      label: Task Assignments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: team_management
+      label: Team Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: progress_updates
+      label: Progress Updates
+      hint: null
+      type: date
+      options: []
+      required: false

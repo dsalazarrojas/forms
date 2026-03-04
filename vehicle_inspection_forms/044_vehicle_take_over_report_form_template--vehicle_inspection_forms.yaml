@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Take Over Report Form Template
+    pages:
+    - id: 1
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_fuel
+      label: Vehicle Fuel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: engine_oil
+      label: Engine Oil
+      hint: Check engine oil level
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Adequate''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 4
+      name: coolant_fuel
+      label: Coolant Fuel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Empty''}'
+      - '{''label'': ''Not Checked''}'
+      required: false
+    - id: 5
+      name: windshield_wipers
+      label: Windshield Wipers
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clean''}'
+      - '{''label'': ''Dirty''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 6
+      name: vehicle_damages
+      label: Vehicle Damages
+      hint: Check for any damages
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: vehicle_comment
+      label: Vehicle Comment
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Employee A''}'
+      - '{''label'': ''Employee B''}'
+      - '{''label'': ''Employee C''}'
+      required: false
+    - id: 9
+      name: employee_position
+      label: Employee Position
+      hint: Employee Position (if any)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_odometer
+      label: Vehicle Odometer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_engine_size
+      label: Vehicle Engine Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_transmission
+      label: Vehicle Transmission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_drive_type
+      label: Vehicle Drive Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_insurance
+      label: Vehicle Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: vehicle_notes
+      label: Vehicle Notes
+      hint: Additional vehicle notes
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_date
+      label: Employee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_tag_number
+      label: Vehicle Tag Number
+      hint: null
+      type: text
+      options: []
+      required: false

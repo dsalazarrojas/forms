@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight_reservation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_date_time
+      label: Travel Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: airline
+      label: Airline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: travel_class_options
+      label: First Class - Economy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_class_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: payment_method_options
+      label: Credit Card - Bank Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_reservation
+      label: Confirm Reservation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cancel_reservation
+      label: Cancel Reservation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: cancel_reservation_options
+      label: Yes - No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_agency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: reservation_status_options
+      label: Confirmed - Pending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reservation_status_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

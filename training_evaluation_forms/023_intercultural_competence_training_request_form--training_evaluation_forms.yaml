@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intercultural Competence Training Request Form
+    pages:
+    - id: 1
+      name: training_request
+      label: Training Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training_format
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_format_type
+      label: Training Format
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Classroom
+      - In-person
+      required: false
+    - id: 10
+      name: training_language
+      label: Training Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 11
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 12
+      name: evaluation_format
+      label: Evaluation Format
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Off-site
+      - Self
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 15
+      name: follow_up_1
+      label: Follow-up 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_2
+      label: Follow-up 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_3
+      label: Follow-up 3
+      hint: null
+      type: text
+      options: []
+      required: false

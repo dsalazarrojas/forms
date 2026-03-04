@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Certification Reminder Log Form
+    pages:
+      - id: 1
+        name: section_header
+        label: -- Certification Reminder Log --
+        hint: Track upcoming expirations and renewal owners
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: certification_name
+        label: certification name
+        hint: name of the certification or credential
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: holder_name
+        label: holder name
+        hint: name of the certificate holder
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: holder_email
+        label: holder email
+        hint: contact email for renewal notifications
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: renewal_due_date
+        label: renewal due date
+        hint: when renewal is required
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: reminder_owner
+        label: reminder owner
+        hint: staff member responsible for reminders
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: renewal_status
+        label: renewal status
+        hint: current renewal progress
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+          - Overdue
+        required: true
+      - id: 8
+        name: required_documents
+        label: required documents
+        hint: checklist of documents needed for renewal
+        type: select_multiple
+        options:
+          - Proof of training
+          - ID
+          - Payment confirmation
+          - Other
+        required: false
+      - id: 9
+        name: notes
+        label: notes
+        hint: additional context for the reminder
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: last_alert_sent
+        label: last alert sent
+        hint: date when last reminder was issued
+        type: date
+        options: []
+        required: false

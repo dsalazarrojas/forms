@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Return On Investment Survey
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_program_section
+      label: -- Training Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: training_program_name
+      label: Training Program Name
+      hint: Name of the training program you attended
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_completion_date
+      label: Training Completion Date
+      hint: When did you complete the training
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: training_duration_hours
+      label: Training Duration (Hours)
+      hint: Total hours spent in training
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: training_cost
+      label: Training Cost
+      hint: Total cost of the training program
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: roi_assessment_section
+      label: -- ROI Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: productivity_improvement
+      label: Productivity Improvement
+      hint: Rate the improvement in your productivity since the training
+      type: select_one
+      options:
+      - Significant increase
+      - Moderate increase
+      - Slight increase
+      - No change
+      - Decrease
+      required: true
+    - id: 12
+      name: skill_application_frequency
+      label: Skill Application Frequency
+      hint: How often do you apply skills learned in the training
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Not applicable
+      required: true
+    - id: 13
+      name: revenue_impact_rating
+      label: Revenue Impact Rating
+      hint: Rate the impact of training on revenue generation (1-10 scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: cost_savings_identified
+      label: Cost Savings Identified
+      hint: Have you identified any cost savings as a result of the training
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 15
+      name: promotion_opportunities
+      label: Promotion Opportunities
+      hint: Has the training led to any promotion opportunities
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Anticipated soon
+      - Not applicable
+      required: true
+    - id: 16
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this training to others (1-10 scale)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: overall_roi_rating
+      label: Overall ROI Rating
+      hint: Rate the overall return on investment of this training (1-10 scale)
+      type: number
+      options: []
+      required: true

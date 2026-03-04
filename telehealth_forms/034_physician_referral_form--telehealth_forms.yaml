@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Referral Form
+    pages:
+    - id: 1
+      name: patient_referral
+      label: Patient Referral
+      hint: Referring the following patient to another physician
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: referring_physician
+      label: Physician Referring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_title
+      label: Physician Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: physician_email
+      label: Physician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: Street address of the patient
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: specialty
+      label: Specialty
+      hint: Specialty of the physician referring
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: reason_referring
+      label: Reason for Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_note
+      label: Referral Note
+      hint: Any additional information about the referral
+      type: note
+      options: []
+      required: false

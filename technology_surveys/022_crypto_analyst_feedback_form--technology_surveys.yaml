@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crypto Analyst Feedback Form
+    pages:
+    - id: 1
+      name: analysis_quality
+      label: Analysis Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: analysis_challenge
+      label: Analysis Challenge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tool_use
+      label: Tools Use
+      hint: null
+      type: select_one
+      options:
+      - Tool A
+      - Tool B
+      - Tool C
+      required: false
+    - id: 4
+      name: research_process
+      label: Research Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: analyst_quality
+      label: Analyst Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: research_process
+      label: Research Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

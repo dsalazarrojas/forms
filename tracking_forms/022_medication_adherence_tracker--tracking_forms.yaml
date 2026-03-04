@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_adherence_tracker
+    pages:
+    - id: 1
+      name: medication_routine
+      label: medication_routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_taken
+      label: medication_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dose_taken
+      label: dose_taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_taken
+      label: time_taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: side_effects
+      label: side_effects
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medication_schedule
+      label: medication_schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: true
+    - id: 8
+      name: adherence_score
+      label: adherence_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_follow_up
+      label: next_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: dosage_instructions
+      label: dosage_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: missed_doses
+      label: missed_doses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: skipped_doses
+      label: skipped_doses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: reasons_missed
+      label: reasons_missed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: reasons_skipped
+      label: reasons_skipped
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: adherence_issues
+      label: adherence_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: medication_dose_frequency
+      label: medication_dose_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: dosage_frequency
+      label: dosage_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: dosage_dosage
+      label: dosage_dosage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: dosage_dosage_unit
+      label: dosage_dosage_unit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

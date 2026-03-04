@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_management_system_requirements_questionnaire
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_information_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_information_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: system_requirements
+      label: System Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_objectives
+      label: Business Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: functional_requirements
+      label: Functional Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: non_functional_requirements
+      label: Non-functional Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_one
+      options:
+      - Performance
+      - Cost
+      - Usability
+      - Security
+      required: false
+    - id: 10
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: implementation_team
+      label: Implementation Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: implementation_plan
+      label: Implementation Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: implementation_schedule
+      label: Implementation Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: implementation_cost
+      label: Implementation Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: implementation_success_criteria
+      label: Implementation Success Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - Cost-Benefit Analysis
+      - Return on Investment (ROI)
+      - Net Present Value (NPV)
+      - Payback Period
+      required: false
+    - id: 17
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: evaluation_scope
+      label: Evaluation Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: system_ownership
+      label: System Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - Company
+      - Department
+      - Individual
+      required: false
+    - id: 20
+      name: system_usage
+      label: System Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: system_scope
+      label: System Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: system_requirements_note
+      label: System Requirements Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: implementation_note
+      label: Implementation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_note
+      label: Evaluation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_note
+      label: Other Note
+      hint: null
+      type: text
+      options: []
+      required: false

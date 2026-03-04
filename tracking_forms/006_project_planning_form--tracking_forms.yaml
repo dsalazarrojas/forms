@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Planning Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Project Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
+      required: false
+    - id: 6
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John'', ''value'': ''John''}'
+      - '{''label'': ''Jane'', ''value'': ''Jane''}'
+      - '{''label'': ''Jim'', ''value'': ''Jim''}'
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John'', ''value'': ''John''}'
+      - '{''label'': ''Jane'', ''value'': ''Jane''}'
+      - '{''label'': ''Jim'', ''value'': ''Jim''}'
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jim'', ''value'': ''Jim''}'
+      - '{''label'': ''John'', ''value'': ''John''}'
+      required: false
+    - id: 11
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

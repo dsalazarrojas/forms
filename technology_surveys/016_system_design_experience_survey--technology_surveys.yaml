@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Design Experience Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: technical_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: experience_levels
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''low'', ''label'': ''Low''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''high'', ''label'': ''High''}'
+      required: false
+    - id: 4
+      name: page_4
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_5
+      label: first_page_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: first_page_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: first_page_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: first_page_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: first_page_6
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: first_page_7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''first_page_7_low'', ''label'': ''first_page_7_low''}'
+      - '{''id'': 2, ''name'': ''first_page_7_high'', ''label'': ''first_page_7_high''}'
+      - '{''id'': 3, ''name'': ''first_page_7_medium'', ''label'': ''first_page_7_medium''}'
+      required: false

@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capacity Building Program Application
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capacity Building Program Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Apply now for our comprehensive capacity building program. This application
+        helps us understand your background and program goals.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birthday
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 8
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: Country
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: educational_background_header
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: highest_education
+      label: Highest Level of Education
+      hint: Select one
+      type: select_one
+      options:
+      - High School
+      - Diploma/Certificate
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD or Higher
+      - Other
+      required: true
+    - id: 17
+      name: field_of_study
+      label: Field of Study
+      hint: Your area of study
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: institution
+      label: Educational Institution
+      hint: School or university name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: professional_experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_position
+      label: Current Position/Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: organization
+      label: Current Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: years_experience
+      label: Years of Professional Experience
+      hint: Total years
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: sector
+      label: Primary Work Sector
+      hint: Select one
+      type: select_one
+      options:
+      - Education
+      - Healthcare
+      - Social Services
+      - Non-profit/NGO
+      - Government
+      - Private Sector
+      - Technology
+      - Agriculture
+      - Other
+      required: true
+    - id: 24
+      name: key_skills
+      label: Key Skills and Competencies
+      hint: Describe your main skills
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: program_info_header
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: program_choice
+      label: Which capacity building program are you applying for?
+      hint: Select one
+      type: select_one
+      options:
+      - Leadership Development
+      - Technical Skills Training
+      - Project Management
+      - Financial Management
+      - Team Building
+      - Strategic Planning
+      - Digital Skills
+      - Other
+      required: true
+    - id: 27
+      name: program_start_date
+      label: Preferred Program Start Date
+      hint: When would you like to start
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: program_duration
+      label: Available Time Commitment
+      hint: Select one
+      type: select_one
+      options:
+      - Part-time (10-20 hours/week)
+      - Full-time (40 hours/week)
+      - Intensive (accelerated program)
+      - Flexible
+      - Other
+      required: true
+    - id: 29
+      name: motivation_header
+      label: -- Program Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: motivation
+      label: Why are you applying for this program?
+      hint: Describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: goals
+      label: What do you hope to achieve through this program?
+      hint: Describe your goals
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: expected_outcomes
+      label: How will you apply what you learn?
+      hint: Describe how you will use the knowledge
+      type: text
+      options: []
+      required: true

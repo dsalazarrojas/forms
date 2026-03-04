@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracker
+    pages:
+      - id: 1
+        name: reporter_info
+        label: -- Reporter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Your full name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: reporter_username
+        label: Username or user ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: bug_information
+        label: -- Bug Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: bug_title
+        label: Bug title
+        hint: Brief, descriptive title
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: bug_description
+        label: Detailed bug description
+        hint: What is happening that shouldn't be
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: steps_to_reproduce
+        label: Steps to reproduce
+        hint: Numbered list of steps
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: expected_result
+        label: Expected result
+        hint: What should happen
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: actual_result
+        label: Actual result
+        hint: What actually happens
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: severity_level
+        label: Bug severity
+        hint: null
+        type: select_one
+        options:
+          - Critical
+          - High
+          - Medium
+          - Low
+        required: true
+      - id: 12
+        name: browser_info
+        label: -- System Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: browser_name
+        label: Browser name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: browser_version
+        label: Browser version
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: operating_system
+        label: Operating system
+        hint: null
+        type: select_one
+        options:
+          - Windows
+          - macOS
+          - Linux
+          - iOS
+          - Android
+          - Other
+        required: true
+      - id: 16
+        name: os_version
+        label: Operating system version
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: device_type
+        label: Device type
+        hint: null
+        type: select_one
+        options:
+          - Desktop
+          - Laptop
+          - Tablet
+          - Smartphone
+          - Other
+        required: true
+      - id: 18
+        name: screen_resolution
+        label: Screen resolution
+        hint: Example - 1920x1080
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: application_version
+        label: -- Application Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: app_version
+        label: Application version
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: date_first_noticed
+        label: Date bug was first noticed
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 22
+        name: reproducibility
+        label: Can you reproduce this bug consistently?
+        hint: null
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Unable to reproduce
+        required: true
+      - id: 23
+        name: attachment_note
+        label: Additional files or attachments
+        hint: Screenshots, logs, etc.
+        type: text
+        options: []
+        required: false

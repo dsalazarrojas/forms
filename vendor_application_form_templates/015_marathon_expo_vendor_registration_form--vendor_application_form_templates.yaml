@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: marathon-expo-vendor-registration-form
+    pages:
+    - id: 1
+      name: base
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_instrument
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - '{''Instrument'': ''Credit Card''}'
+      - '{''Instrument'': ''Bank Transfer''}'
+      - '{''Instrument'': ''Cheque''}'
+      required: false
+    - id: 4
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cheque
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: booth_preferences
+      label: Booth Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booth_location
+      label: Booth Location
+      hint: null
+      type: select_one
+      options:
+      - Location A
+      - Location B
+      - Location C
+      - Location D
+      required: false
+    - id: 10
+      name: booth_size
+      label: Booth Size
+      hint: null
+      type: select_one
+      options:
+      - 10 x 10 ft
+      - 10 x 5 ft
+      - 5 x 5 ft
+      required: false
+    - id: 11
+      name: vendor_notes
+      label: Vendor Notes
+      hint: Please include any special instructions or requirements for the vendor.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vendor_email
+      label: Vendor Email
+      hint: The vendor's email address.
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: vendor_phone
+      label: Vendor Phone
+      hint: The vendor's phone number.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_address
+      label: Vendor Address
+      hint: The vendor's street address.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vendor_city
+      label: Vendor City
+      hint: The vendor's city.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vendor_state
+      label: Vendor State
+      hint: The vendor's state.
+      type: text
+      options: []
+      required: false

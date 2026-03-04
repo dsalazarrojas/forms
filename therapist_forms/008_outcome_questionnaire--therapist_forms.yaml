@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outcome Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_identification
+      label: Client Identification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_participation
+      label: Program Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: program_services
+      label: Program Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: outcomes
+      label: Outcomes
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: outcome_scale_1
+      label: Outcome Scale 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: outcome_scale_2
+      label: Outcome Scale 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_comments
+      label: Program Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: clinician_comments
+      label: Clinician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_services_2
+      label: Program Services 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

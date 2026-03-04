@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: personnel_emergency_response_group_training_record_form
+    pages:
+    - id: 1
+      name: training_info
+      label: Training Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personnel_info
+      label: Personnel Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: personnel_name
+      label: Personnel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: personnel_title
+      label: Personnel Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personnel_department
+      label: Personnel Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_status_update
+      label: Training Status Update
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: personnel_id
+      label: Personnel ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user_id
+      label: Assigned User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false

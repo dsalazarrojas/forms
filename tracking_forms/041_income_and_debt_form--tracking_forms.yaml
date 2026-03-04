@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income And Debt Form
+    pages:
+    - id: 1
+      name: income_and_debt_survey
+      label: income_and_debt_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: monthly_interest_rate
+      label: monthly_interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: annual_debt
+      label: annual_debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: debt_service_charge
+      label: debt_service_charge
+      hint: null
+      type: number
+      options: []
+      required: false

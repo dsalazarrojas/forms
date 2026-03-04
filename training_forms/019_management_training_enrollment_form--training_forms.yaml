@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: management_training_enrollment_form
+    pages:
+    - id: 1
+      name: training_category
+      label: Training Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Participant name is required
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 9
+      name: participant_enrolled
+      label: Participant Enrolled
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 11
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 12
+      name: training_coordinator
+      label: Training Coordinator
+      hint: null
+      type: select_one
+      options:
+      - Coordinator 1
+      - Coordinator 2
+      - Coordinator 3
+      required: true
+    - id: 13
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: training_days
+      label: Training Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: participant_hours
+      label: Participant Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: participant_attendance
+      label: Participant Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: participant_status_comments
+      label: Participant Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: training_program_manager
+      label: Training Program Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 23
+      name: training_location_manager
+      label: Training Location Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 24
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 25
+      name: training_start_time
+      label: Training Start Time
+      hint: null
+      type: time
+      options: []
+      required: true

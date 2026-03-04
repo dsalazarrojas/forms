@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Work Methods Training Survey
+    pages:
+    - id: 1
+      name: survey_form_intro
+      label: Survey Form Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_attendance_count
+      label: Session Attendance Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Scale of 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Youth Work Methods 1
+      - Youth Work Methods 2
+      - Youth Work Methods 3
+      required: false
+    - id: 8
+      name: session_facilitator
+      label: Session Facilitator
+      hint: null
+      type: select_multiple
+      options:
+      - Facilitator 1
+      - Facilitator 2
+      - Facilitator 3
+      required: false
+    - id: 9
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_evaluation
+      label: Trainer Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_outcome
+      label: Training Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_dissatisfaction
+      label: Participant Dissatisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_facilities
+      label: Session Facilities
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false

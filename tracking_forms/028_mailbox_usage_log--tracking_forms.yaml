@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mailbox Usage Log
+    pages:
+    - id: 1
+      name: first_page
+      label: Mailbox Usage Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mailbox_access
+      label: Mailbox Access
+      hint: null
+      type: select_multiple
+      options:
+      - Manager:Office
+      - Property Manager
+      - Facilities Team
+      - Other
+      required: false
+    - id: 4
+      name: date_of_access
+      label: Date Of Access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_access
+      label: Time Of Access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration_of_access
+      label: Duration Of Access
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_access
+      label: Purpose Of Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

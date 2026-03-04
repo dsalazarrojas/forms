@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Research Survey Template
+    pages:
+    - id: 1
+      name: laptop_usage
+      label: Laptop usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferences
+      label: preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: operating_systems
+      label: Operating systems
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: laptops_used
+      label: Laptops used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: operating_systems_preferred
+      label: Preferred operating system
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: laptop_purpose
+      label: Laptop purchase purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: laptop_type
+      label: Laptop type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: laptop_age
+      label: Laptop age
+      hint: null
+      type: text
+      options: []
+      required: false

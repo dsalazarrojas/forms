@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Quote Request Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vacation_type
+      label: Vacation Type
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Mountain
+      - City
+      - Other
+      required: false
+    - id: 6
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: room_preferences
+      label: Room Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Single Room
+      - Double Room
+      - Triple Room
+      required: false
+    - id: 11
+      name: transportation_requests
+      label: Transportation Requests
+      hint: null
+      type: select_one
+      options:
+      - Car Rental
+      - Taxi
+      - Train
+      - Other
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false

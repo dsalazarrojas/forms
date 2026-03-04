@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: insomnia_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: insomnia_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_history
+      label: sleep_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: general_sleep_quality
+      label: general_sleep_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: daytime_function
+      label: daytime_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evening_winding_down
+      label: evening_winding_down
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sleep_latency
+      label: sleep_latency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sleep_efficiency
+      label: sleep_efficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sleep_latency_sufficient
+      label: sleep_latency_sufficient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: sleep_disrupted
+      label: sleep_disrupted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Usually''}'
+      - '{''label'': ''Always''}'
+      required: false
+    - id: 12
+      name: difficulty_falling_asleep
+      label: difficulty_falling_asleep
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''Less than 30 minutes''}'
+      - '{''label'': ''30-60 minutes''}'
+      - '{''label'': ''61-120 minutes''}'
+      - '{''label'': ''More than 120 minutes''}'
+      - '{''label'': ''More than 3 hours''}'
+      required: false
+    - id: 13
+      name: sleep_stages
+      label: sleep_stages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1 stage''}'
+      - '{''label'': ''2 stages''}'
+      - '{''label'': ''3 stages''}'
+      - '{''label'': ''4 stages''}'
+      - '{''label'': ''5 stages''}'
+      - '{''label'': ''6 stages''}'
+      required: false
+    - id: 14
+      name: sleep_latency_duration
+      label: sleep_latency_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: sleep_latency_frequency
+      label: sleep_latency_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sleep_latency_impact
+      label: sleep_latency_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sleep_latency_satisfactory
+      label: sleep_latency_satisfactory
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfactory''}'
+      - '{''label'': ''Fairly Satisfactory''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Unsatisfactory''}'
+      required: false
+    - id: 18
+      name: sleep_latency_satisfactory_frequency
+      label: sleep_latency_satisfactory_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Every Day''}'
+      - '{''label'': ''2-3 times per week''}'
+      - '{''label'': ''1 time per week''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 19
+      name: sleep_latency_satisfactory_duration
+      label: sleep_latency_satisfactory_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sleep_latency_satisfactory_impact
+      label: sleep_latency_satisfactory_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: difficulty_sleeping
+      label: difficulty_sleeping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sleep_quality_felt
+      label: sleep_quality_felt
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A bit''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''A lot''}'
+      - '{''label'': ''Extremely''}'
+      required: false
+    - id: 23
+      name: sleep_quality_felt_impact
+      label: sleep_quality_felt_impact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfactory''}'
+      - '{''label'': ''Fairly Satisfactory''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Unsatisfactory''}'
+      required: false
+    - id: 24
+      name: sleep_disruption
+      label: sleep_disruption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sleep_latency_disruption
+      label: sleep_latency_disruption
+      hint: null
+      type: text
+      options: []
+      required: false

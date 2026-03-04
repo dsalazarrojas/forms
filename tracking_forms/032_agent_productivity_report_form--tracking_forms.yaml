@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Productivity Report Form
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agent_id
+      label: Agent ID
+      hint: Enter your unique agent identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: Enter the date range for this report
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: Enter the date when this report is submitted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Enter the name of your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: productivity_metrics_header
+      label: -- Productivity Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_calls_made
+      label: Total Calls Made
+      hint: Enter the total number of calls made during the reporting period
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: successful_interactions
+      label: Successful Interactions
+      hint: Enter the number of successful interactions/calls
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: meetings_scheduled
+      label: Meetings Scheduled
+      hint: Enter the number of meetings scheduled
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: deals_closed
+      label: Deals Closed
+      hint: Enter the number of deals closed during the period
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: revenue_generated
+      label: Revenue Generated
+      hint: Enter the total revenue generated during the period
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: new_leads_acquired
+      label: New Leads Acquired
+      hint: Enter the number of new leads acquired
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: follow_ups_completed
+      label: Follow-ups Completed
+      hint: Enter the number of follow-ups completed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: time_management_header
+      label: -- Time Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: hours_worked
+      label: Hours Worked
+      hint: Enter the total number of hours worked during the period
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: productive_hours
+      label: Productive Hours
+      hint: Enter the number of hours spent on productive activities
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: administrative_tasks_time
+      label: Administrative Tasks Time
+      hint: Enter the time spent on administrative tasks
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: training_development_time
+      label: Training and Development Time
+      hint: Enter the time spent on training and development
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: performance_analysis_header
+      label: -- Performance Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: goals_achieved
+      label: Goals Achieved
+      hint: Which goals were achieved during this period?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: goals_not_achieved
+      label: Goals Not Achieved
+      hint: Which goals were not achieved and why?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges did you face during this period?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: achievements_recognitions
+      label: Achievements and Recognitions
+      hint: What achievements or recognitions did you earn?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: improvement_plan
+      label: Improvement Plan
+      hint: What is your plan for improvement in the next period?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about your productivity
+      type: text
+      options: []
+      required: false

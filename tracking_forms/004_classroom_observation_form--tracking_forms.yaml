@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Observation Form
+    pages:
+      - id: 1
+        name: observer_name
+        label: Observer Name
+        hint: Name of the person conducting the observation
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: observer_role
+        label: Observer Role
+        hint: Your position or title
+        type: select_one
+        options:
+          - Administrator
+          - Peer Teacher
+          - Instructional Coach
+          - Student Teacher
+          - External Evaluator
+          - Other
+        required: true
+      - id: 3
+        name: teacher_observed
+        label: Teacher Observed
+        hint: Name of the teacher being observed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: observation_date
+        label: Observation Date
+        hint: Date of the classroom observation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: observation_start_time
+        label: Observation Start Time
+        hint: Time observation began
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: observation_end_time
+        label: Observation End Time
+        hint: Time observation ended
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: grade_level
+        label: Grade Level
+        hint: Grade level of the class
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: subject_area
+        label: Subject Area
+        hint: Subject being taught
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: lesson_objective
+        label: Lesson Objective
+        hint: What was the learning goal for this lesson
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: instructional_methods
+        label: Instructional Methods Used
+        hint: Select all methods observed during the lesson
+        type: select_multiple
+        options:
+          - Direct Instruction/Lecture
+          - Group Work
+          - Individual Practice
+          - Discussion-Based
+          - Hands-on Activities
+          - Technology Integration
+          - Project-Based Learning
+          - Differentiated Instruction
+        required: true
+      - id: 11
+        name: student_participation_rate
+        label: Student Participation Rate
+        hint: What percentage of students actively participated
+        type: select_one
+        options:
+          - 90-100% - Nearly all students engaged
+          - 75-89% - Most students engaged
+          - 50-74% - About half engaged
+          - 25-49% - Less than half engaged
+          - Below 25% - Minimal engagement
+        required: true
+      - id: 12
+        name: classroom_environment_quality
+        label: Classroom Environment Quality
+        hint: Rate the physical and emotional environment
+        type: select_one
+        options:
+          - Excellent - Well-organized and welcoming
+          - Good - Organized and functional
+          - Fair - Adequate but could improve
+          - Poor - Disorganized or unwelcoming
+        required: true
+      - id: 13
+        name: technology_integration
+        label: Technology Integration
+        hint: How was technology used in the lesson
+        type: select_one
+        options:
+          - Extensively - Central to the lesson
+          - Moderately - Used to enhance instruction
+          - Minimally - Basic technology use
+          - Not Used - No technology incorporated
+        required: false
+      - id: 14
+        name: assessment_methods
+        label: Assessment Methods Observed
+        hint: How was student learning assessed
+        type: select_multiple
+        options:
+          - Formative Questions
+          - Exit Tickets
+          - Quizzes or Tests
+          - Observation and Notes
+          - Peer Assessment
+          - Self-Assessment
+          - Performance Tasks
+          - No Assessment Observed
+        required: true
+      - id: 15
+        name: evidence_of_learning
+        label: Evidence of Learning
+        hint: Describe what evidence you saw that students were learning
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: notable_strengths
+        label: Notable Strengths
+        hint: What teaching practices stood out positively
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: recommendations
+        label: Recommendations
+        hint: Suggestions for improvement or growth
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: follow_up_needed
+        label: Follow-Up Needed
+        hint: Is a follow-up observation or conference needed
+        type: select_one
+        options:
+          - Yes - Schedule follow-up observation
+          - Yes - Schedule conference only
+          - No - No follow-up needed at this time
+        required: true

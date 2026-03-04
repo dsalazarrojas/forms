@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_itinerary
+    pages:
+    - id: 1
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: travel_date_end
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - outbound
+      - inbound
+      - round_trip
+      required: true
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - business
+      - leisure
+      - holiday
+      required: false
+    - id: 7
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - business
+      - leisure
+      - holiday
+      required: false
+    - id: 8
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: select_one
+      options:
+      - passport
+      - id
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - street
+      - apartment
+      - house
+      required: false

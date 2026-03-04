@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traveler Preferences Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prophets_preferences
+      label: Travelers preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''None''}'
+      - '{''name'': ''Low''}'
+      - '{''name'': ''Mid''}'
+      - '{''name'': ''High''}'
+      required: false
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Domestic''}'
+      - '{''name'': ''International''}'
+      required: false
+    - id: 9
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Beach''}'
+      - '{''name'': ''Mountain''}'
+      - '{''name'': ''City''}'
+      - '{''name'': ''Forest''}'
+      required: false

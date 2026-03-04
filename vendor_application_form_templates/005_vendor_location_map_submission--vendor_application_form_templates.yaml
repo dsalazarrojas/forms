@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Location Map Submission
+    pages:
+    - id: 1
+      name: vendor_location_map_submission_form
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event_organizers''}'
+      - '{''id'': 2, ''name'': ''local_directories''}'
+      - '{''id'': 3, ''name'': ''business_associations''}'
+      required: false
+    - id: 3
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_2
+      label: address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: latitude
+      label: latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: longitude
+      label: longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: image_url
+      label: image_url
+      hint: null
+      type: text
+      options: []
+      required: false

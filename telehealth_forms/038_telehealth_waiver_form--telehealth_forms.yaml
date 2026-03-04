@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Waiver Form
+    pages:
+    - id: 1
+      name: telehealth_waiver_form
+      label: Waiver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider_signature
+      label: healthcare_provider_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waiver_type
+      label: waiver_type
+      hint: null
+      type: select_one
+      options:
+      - Emergency Medical Authorization
+      - Medical Release
+      - Waiver of Liability
+      required: false
+    - id: 9
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: telehealth_provider
+      label: telehealth_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: waiver_terms
+      label: waiver_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_acknowledgment
+      label: patient_acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider_acknowledgment
+      label: healthcare_provider_acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_informed_consent
+      label: patient_informed_consent
+      hint: null
+      type: text
+      options: []
+      required: false

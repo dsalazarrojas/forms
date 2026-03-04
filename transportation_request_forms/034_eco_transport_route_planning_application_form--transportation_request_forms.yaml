@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: eco_transport_route_planning_application_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: route_planning_date
+      label: route_planning_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: route_planning_time
+      label: route_planning_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: route_planning_notes
+      label: route_planning_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: environmental_impact
+      label: environmental_impact
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true

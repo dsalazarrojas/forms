@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Dream Trip Inquiry
+    pages:
+    - id: 1
+      name: traveler_first_name
+      label: First Name
+      hint: Primary traveler first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: traveler_last_name
+      label: Last Name
+      hint: Primary traveler last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: traveler_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: traveler_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: traveler_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: traveler_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: traveler_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: traveler_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: destination_type
+      label: Destination Type
+      hint: What type of place?
+      type: select_one
+      options:
+      - Beach Resort
+      - Mountain Retreat
+      - City Tour
+      - Safari Adventure
+      - Cruise
+      - European Tour
+      - Asian Adventure
+      - Island Getaway
+      - Other
+      required: true
+    - id: 10
+      name: specific_destination
+      label: Specific Destination or Region
+      hint: Do you have somewhere in mind?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_dates_flexible
+      label: Are Your Travel Dates Flexible?
+      hint: Date flexibility
+      type: select_one
+      options:
+      - Yes, Very Flexible
+      - Somewhat Flexible
+      - Fixed Dates
+      required: true
+    - id: 12
+      name: preferred_departure_date
+      label: Preferred Departure Date
+      hint: When do you want to leave?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: return_date
+      label: Preferred Return Date
+      hint: When do you want to return?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: trip_duration
+      label: Trip Duration
+      hint: How many days?
+      type: select_one
+      options:
+      - 3-5 Days
+      - 6-8 Days
+      - 9-12 Days
+      - 13-16 Days
+      - 17-21 Days
+      - Over 21 Days
+      required: true
+    - id: 15
+      name: number_of_travelers
+      label: Number of Travelers
+      hint: Total people traveling
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: adults_count
+      label: Number of Adults
+      hint: Ages 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: children_count
+      label: Number of Children
+      hint: Ages 2-17
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: children_ages
+      label: Children Ages
+      hint: List ages of all children
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range Per Person
+      hint: Excluding shopping money
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $20,000
+      - Over $20,000
+      - No Budget Limit
+      required: true
+    - id: 20
+      name: accommodation_preference
+      label: Accommodation Preference
+      hint: Where do you want to stay?
+      type: select_one
+      options:
+      - Luxury Resort
+      - Boutique Hotel
+      - Standard Hotel
+      - Budget Hotel
+      - Vacation Rental
+      - All-Inclusive Resort
+      - Bed and Breakfast
+      - No Preference
+      required: true
+    - id: 21
+      name: room_preference
+      label: Room Preference
+      hint: Room type
+      type: select_one
+      options:
+      - Standard Room
+      - Ocean View
+      - Suite
+      - Villa
+      - Connecting Rooms
+      - No Preference
+      required: true
+    - id: 22
+      name: transportation_preference
+      label: Transportation Preference
+      hint: Flight class preference
+      type: select_one
+      options:
+      - Economy
+      - Premium Economy
+      - Business Class
+      - First Class
+      - No Preference
+      required: true
+    - id: 23
+      name: activities_interest
+      label: Activities of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sightseeing Tours
+      - Water Sports
+      - Hiking and Adventure
+      - Spa and Wellness
+      - Cultural Experiences
+      - Shopping
+      - Nightlife
+      - Fine Dining
+      - Wildlife Viewing
+      - Relaxation Only
+      required: true
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_occasions
+      label: Special Occasions
+      hint: Celebrating something?
+      type: select_one
+      options:
+      - Honeymoon
+      - Anniversary
+      - Birthday
+      - Graduation
+      - Retirement
+      - Family Reunion
+      - None
+      - Other
+      required: false
+    - id: 26
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: travel_insurance
+      label: Are You Interested in Travel Insurance?
+      hint: Trip protection
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 28
+      name: previous_travel_agent
+      label: Have You Used a Travel Agent Before?
+      hint: Previous experience
+      type: select_one
+      options:
+      - Yes, Frequently
+      - Yes, Once or Twice
+      - No, Never
+      required: true
+    - id: 29
+      name: dream_description
+      label: Describe Your Dream Trip
+      hint: Paint a picture for us
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true

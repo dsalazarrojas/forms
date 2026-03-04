@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Baggage Handling Incident Report
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: Select the type of baggage incident
+      type: select_one
+      options:
+      - Damaged baggage
+      - Lost baggage
+      - Delayed baggage
+      - Mishandled baggage
+      - Theft/tampering
+      - Wrong destination
+      - Other
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: When did the incident occur
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: Approximate time of incident
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: airport_code
+      label: Airport Code
+      hint: Three-letter airport code where incident occurred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: Flight number associated with incident
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: airline_code
+      label: Airline Code
+      hint: Two-letter airline code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporter_name
+      label: Reporter Full Name
+      hint: Name of person reporting incident
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporter_employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporter_department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Baggage handling
+      - Ground operations
+      - Customer service
+      - Ramp operations
+      - Security
+      - Management
+      - Other
+      required: true
+    - id: 10
+      name: reporter_email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: reporter_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: passenger_name
+      label: Passenger Name
+      hint: Name of affected passenger if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: baggage_tag_number
+      label: Baggage Tag Number
+      hint: Baggage claim tag or tracking number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: baggage_description
+      label: Baggage Description
+      hint: Color, size, brand, and distinguishing features
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: baggage_condition
+      label: Baggage Condition
+      hint: Current condition of baggage
+      type: select_one
+      options:
+      - New/undamaged
+      - Minor scratches
+      - Dented/crushed
+      - Torn/ripped
+      - Broken wheels/handle
+      - Completely destroyed
+      - Missing
+      required: true
+    - id: 16
+      name: damage_location
+      label: Location of Damage
+      hint: Where on the baggage is damage located
+      type: select_multiple
+      options:
+      - Handle
+      - Wheels
+      - Shell/exterior
+      - Zipper
+      - Lining/interior
+      - Lock
+      - Straps
+      - Multiple areas
+      required: false
+    - id: 17
+      name: incident_location_detail
+      label: Specific Incident Location
+      hint: Where exactly did incident occur
+      type: select_one
+      options:
+      - Check-in counter
+      - Baggage drop
+      - Sorting area
+      - Loading belt
+      - Aircraft hold
+      - Unloading area
+      - Baggage claim
+      - Transfer area
+      required: true
+    - id: 18
+      name: incident_description
+      label: Detailed Incident Description
+      hint: Describe what happened in detail
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: witnesses_present
+      label: Were There Witnesses
+      hint: Did anyone else see the incident
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: witness_names
+      label: Witness Names
+      hint: Names of witnesses if available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_taken
+      label: Were Photos Taken
+      hint: Is photographic evidence available
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide
+      - 'No'
+      required: true
+    - id: 22
+      name: immediate_action_taken
+      label: Immediate Action Taken
+      hint: What was done immediately after incident
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: passenger_notified
+      label: Was Passenger Notified
+      hint: Has the passenger been informed
+      type: select_one
+      options:
+      - Yes, immediately
+      - Yes, delayed notification
+      - No, pending investigation
+      - No, unable to contact
+      required: true
+    - id: 24
+      name: severity_level
+      label: Severity Level
+      hint: Rate the severity of this incident
+      type: select_one
+      options:
+      - Minor - no passenger impact
+      - Low - minor inconvenience
+      - Moderate - passenger complaint expected
+      - High - significant passenger impact
+      - Critical - major incident
+      required: true
+    - id: 25
+      name: corrective_actions_needed
+      label: Corrective Actions Needed
+      hint: What actions should be taken
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: report_status
+      label: Report Status
+      hint: Current status of this report
+      type: select_one
+      options:
+      - Initial report
+      - Follow-up required
+      - Under investigation
+      - Resolved
+      - Closed
+      required: true

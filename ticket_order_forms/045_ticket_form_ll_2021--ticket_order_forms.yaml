@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Form LL 2021
+    pages:
+    - id: 1
+      name: order_form_data
+      label: Order Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer E mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address_1
+      label: Customer Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address_2
+      label: Customer Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_address_3
+      label: Customer Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Ticket 1'', ''label'': ''Ticket 1''}'
+      - '{''value'': ''Ticket 2'', ''label'': ''Ticket 2''}'
+      - '{''value'': ''Ticket 3'', ''label'': ''Ticket 3''}'
+      required: false
+    - id: 9
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_purchase
+      label: Time of Purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Status 1'', ''label'': ''Status 1''}'
+      - '{''value'': ''Status 2'', ''label'': ''Status 2''}'
+      - '{''value'': ''Status 3'', ''label'': ''Status 3''}'
+      required: false
+    - id: 14
+      name: customer_order_id
+      label: Customer Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 17
+      name: ticket_date_assigned
+      label: Ticket Date Assigned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: ticket_time_assigned
+      label: Ticket Time Assigned
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: ticket_status_update
+      label: Ticket Status Update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: ticket_type_update
+      label: Ticket Type Update
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Ticket 1'', ''label'': ''Ticket 1''}'
+      - '{''value'': ''Ticket 2'', ''label'': ''Ticket 2''}'
+      - '{''value'': ''Ticket 3'', ''label'': ''Ticket 3''}'
+      required: false

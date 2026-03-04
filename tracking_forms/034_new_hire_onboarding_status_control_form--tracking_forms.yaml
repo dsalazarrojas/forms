@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Onboarding Status Control Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Finance
+      - HR
+      required: true
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: true
+    - id: 6
+      name: new_hire_notes
+      label: New Hire Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: new_hire_contact_email
+      label: New Hire Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: new_hire_contact_phone
+      label: New Hire Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: new_hire_comments
+      label: New Hire Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: date
+      options: []
+      required: true

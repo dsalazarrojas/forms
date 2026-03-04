@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Technology Usage Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - you may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: shop_name
+        label: Shop Name
+        hint: Name of your barber shop
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: years_in_business
+        label: Years in Business
+        hint: How long has your shop been operating
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 4 to 7 years
+          - 8 to 15 years
+          - More than 15 years
+        required: true
+      - id: 4
+        name: number_of_barbers
+        label: Number of Barbers Employed
+        hint: Total barbers including owner
+        type: select_one
+        options:
+          - Just me - solo barber
+          - 2 to 5 barbers
+          - 6 to 10 barbers
+          - 11 to 20 barbers
+          - More than 20 barbers
+        required: true
+      - id: 5
+        name: current_booking_system
+        label: Current Booking System
+        hint: How do you currently manage appointments
+        type: select_one
+        options:
+          - Phone calls only
+          - Walk ins only
+          - Paper appointment book
+          - Basic digital calendar
+          - Dedicated booking software
+          - Online booking platform
+        required: true
+      - id: 6
+        name: pos_system
+        label: Point of Sale System
+        hint: What POS system do you use
+        type: select_one
+        options:
+          - Cash register only
+          - Basic card reader
+          - Square or similar
+          - Full POS system
+          - No POS system
+        required: true
+      - id: 7
+        name: software_satisfaction
+        label: Satisfaction with Current Software
+        hint: Rate your overall satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: technology_challenges
+        label: Biggest Technology Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cost of software
+          - Learning curve
+          - Lack of features
+          - Poor customer support
+          - Integration issues
+          - Reliability problems
+          - No major challenges
+        required: true
+      - id: 9
+        name: online_booking_interest
+        label: Interest in Online Booking
+        hint: How interested are you in online booking
+        type: select_one
+        options:
+          - Already have it
+          - Very interested
+          - Somewhat interested
+          - Not interested
+        required: true
+      - id: 10
+        name: social_media_usage
+        label: Social Media for Business
+        hint: Which platforms do you use
+        type: select_multiple
+        options:
+          - Instagram
+          - Facebook
+          - TikTok
+          - Twitter or X
+          - YouTube
+          - LinkedIn
+          - None
+        required: true
+      - id: 11
+        name: digital_marketing
+        label: Digital Marketing Tools Used
+        hint: Select all that you currently use
+        type: select_multiple
+        options:
+          - Email marketing
+          - SMS reminders
+          - Social media ads
+          - Google ads
+          - Loyalty programs
+          - None
+        required: true
+      - id: 12
+        name: inventory_management
+        label: Inventory Management Method
+        hint: How do you track products and supplies
+        type: select_one
+        options:
+          - Manual tracking
+          - Spreadsheet
+          - Basic software
+          - Advanced inventory system
+          - No tracking system
+        required: true
+      - id: 13
+        name: monthly_tech_budget
+        label: Monthly Technology Budget
+        hint: How much do you spend on tech monthly
+        type: select_one
+        options:
+          - Less than 50 dollars
+          - 50 to 100 dollars
+          - 101 to 200 dollars
+          - 201 to 500 dollars
+          - More than 500 dollars
+        required: true
+      - id: 14
+        name: desired_features
+        label: Most Desired Features
+        hint: What features would you like most
+        type: select_multiple
+        options:
+          - Automated reminders
+          - Online payments
+          - Client database
+          - Analytics and reporting
+          - Marketing automation
+          - Staff scheduling
+          - Inventory alerts
+        required: true
+      - id: 15
+        name: mobile_app_usage
+        label: Mobile App for Business Management
+        hint: Do you use a mobile app to manage your shop
+        type: select_one
+        options:
+          - Yes, extensively
+          - Yes, occasionally
+          - No, but interested
+          - No, not interested
+        required: true
+      - id: 16
+        name: tech_training_needed
+        label: Technology Training Needed
+        hint: Would you benefit from tech training
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - No, I am comfortable
+        required: true
+      - id: 17
+        name: future_tech_investment
+        label: Planning Technology Investment
+        hint: Do you plan to invest in new tech soon
+        type: select_one
+        options:
+          - Yes, within 3 months
+          - Yes, within 6 months
+          - Yes, within a year
+          - No plans currently
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about technology in your shop
+        type: text
+        options: []
+        required: false

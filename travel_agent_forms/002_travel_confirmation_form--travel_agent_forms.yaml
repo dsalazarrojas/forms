@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Confirmation Form
+    pages:
+    - id: 1
+      name: travel_confirmation_form_1
+      label: Reservation ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_confirmation_form_2
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_confirmation_form_3
+      label: Travel Date
+      hint: mm/dd/yyyy format
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_confirmation_form_4
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Flight
+      - Hotel
+      - Car Rental
+      required: false
+    - id: 5
+      name: travel_confirmation_form_5
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_confirmation_form_6
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_confirmation_form_7
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: travel_confirmation_form_8
+      label: Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Declined
+      required: false

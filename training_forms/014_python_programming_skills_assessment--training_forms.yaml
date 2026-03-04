@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: python_programming_skills_assessment
+    pages:
+    - id: 1
+      name: python_language_fundamentals
+      label: Python Language Fundamentals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: programming_languages
+      label: Programming Languages
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - C
+      - Java
+      - JavaScript
+      - C++
+      required: false
+    - id: 3
+      name: coding_paradigms
+      label: Coding Paradigms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: problem_solving
+      label: Problem Solving
+      hint: Write a function that takes two parameters a and b and returns the sum
+        of a and b
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: programming_languages_used
+      label: Programming Languages Used
+      hint: List the programming languages you have experience with. Separate each
+        language with comma
+      type: select_multiple
+      options:
+      - Python
+      - C
+      - Java
+      - JavaScript
+      - C++
+      required: false
+    - id: 6
+      name: programming_skills
+      label: Programming Skills
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: python_version
+      label: Python 2.x
+      hint: null
+      type: select_one
+      options:
+      - 2.x
+      - 3.x
+      - '3.6'
+      - '3.7'
+      - '3.8'
+      - '3.9'
+      required: false
+    - id: 8
+      name: coding_experience
+      label: Coding Experience
+      hint: Enter the total amount of months you have coded in Python
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: python_environment
+      label: Python Environment
+      hint: What environment(s) do you use to code in Python?
+      type: select_multiple
+      options:
+      - PyCharm
+      - Visual Studio Code
+      - Text Editor
+      - Sublime Text
+      - Atom
+      required: false
+    - id: 10
+      name: online_code_repository
+      label: Online Code Repository
+      hint: Link to your public GitHub, GitLab or BitBucket repositories
+      type: text
+      options: []
+      required: false

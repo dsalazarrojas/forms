@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Installation Progress Tracker
+    pages:
+    - id: 1
+      name: installation_progress_form
+      label: Installation Progress Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: installation_stage
+      label: Installation Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: installation_stage_other
+      label: Other Installation Stage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: installation_stage_description
+      label: Installation Stage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_name_other
+      label: Other Team Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_members_other
+      label: Other Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: installation_status_other
+      label: Other Installation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: installation_status_description
+      label: Installation Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_call
+      label: Follow-up Call
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_call_other
+      label: Other Follow-up Call
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Form
+    pages:
+    - id: 1
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job Description
+      hint: Brief description of the job
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_name
+      label: staff name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_title
+      label: task title
+      hint: Enter a brief title for the task
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start time
+      hint: Start time for the task
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end time
+      hint: End time for the task
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_description
+      label: staff description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: materials_used
+      label: materials used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: files_uploaded
+      label: files uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: job_date
+      label: job date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_completed
+      label: completion date
+      hint: null
+      type: date
+      options: []
+      required: false

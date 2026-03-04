@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Speed Survey Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_provider
+      label: Internet Service Provider
+      hint: null
+      type: select_one
+      options:
+      - AT&T
+      - Verizon
+      - Spectrum
+      - Comcast
+      - Xfinity
+      required: false
+    - id: 3
+      name: user_place
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: download_speed
+      label: Download Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: upload_speed
+      label: Upload Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: router_type
+      label: Router Type
+      hint: null
+      type: select_one
+      options:
+      - Wi-Fi
+      - Ethernet
+      - MOBILE
+      required: false
+    - id: 7
+      name: user_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

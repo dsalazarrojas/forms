@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Work Log Form
+    pages:
+    - id: 1
+      name: work_log_form
+      label: work log form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_order_id
+      label: Work Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_order_name
+      label: Work Order Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_details
+      label: Work Details
+      hint: Briefly describe work performed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Additional Comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_category
+      label: Work Category
+      hint: Category of technical work done
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Release Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''employee_1'', ''label'': ''John Doe''}'
+      - '{''value'': ''employee_2'', ''label'': ''Jane Doe''}'
+      required: false
+    - id: 2
+      name: equipment
+      label: equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''equipment_1'', ''label'': ''Laptop''}'
+      - '{''value'': ''equipment_2'', ''label'': ''Mobile Phone''}'
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: Why would you like to borrow this equipment?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''manager_1'', ''label'': ''John Smith''}'
+      - '{''value'': ''manager_2'', ''label'': ''Jane Smith''}'
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''department_1'', ''label'': ''Sales and Marketing''}'
+      - '{''value'': ''department_2'', ''label'': ''Customer Support''}'
+      required: false

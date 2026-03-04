@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sneaker Inventory Record Form
+    pages:
+    - id: 1
+      name: sneaker_inventory_form_1
+      label: Sneaker Form 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sneaker_quantity
+      label: Sneaker Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: colorways
+      label: Colorways
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 4
+      name: sizes_and_colorways
+      label: Sizes and Colorways
+      hint: null
+      type: select_multiple
+      options:
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 5
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Gently Used
+      - Pre-Owned
+      required: false
+    - id: 6
+      name: year_released
+      label: Year Released
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - Leather
+      - Synthetic
+      required: false
+    - id: 8
+      name: year_acquired
+      label: Year Acquired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: price_point
+      label: Price Point
+      hint: Please enter the price as a decimal number
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: Where did you buy/obtain this sneaker?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: year_purchased
+      label: Year Purchased
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sneaker_brand
+      label: Sneaker Brand
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shoe_name
+      label: Shoe Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shoe_model
+      label: Shoe Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shoe_color
+      label: Shoe Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: box_condition
+      label: Box Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Damaged
+      required: false

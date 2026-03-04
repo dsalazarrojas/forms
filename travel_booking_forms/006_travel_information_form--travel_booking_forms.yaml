@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_information_form
+    pages:
+    - id: 1
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: destination_city
+      label: destination_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: destination_country
+      label: destination_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_group
+      label: travel_group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_arrival_time
+      label: travel_arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_currency
+      label: travel_currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: travel_hotel_reservation
+      label: hotel_reservation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: travel_meeting_details
+      label: meeting_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_meeting_location
+      label: meeting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_meal_preferences
+      label: meal_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: travel_meeting_attendees
+      label: meeting_attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: travel_meeting_agenda
+      label: meeting_agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_meeting_notes
+      label: meeting_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: travel_return_time
+      label: return_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: travel_additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: travel_currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: travel_currency_amount
+      label: currency_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: travel_meeting_start
+      label: meeting_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: travel_meeting_end
+      label: meeting_end
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobility Allowance Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mobility_type
+      label: mobility-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Wheelchair'', ''text'': ''Wheelchair''}'
+      - '{''id'': 2, ''name'': ''Scooter'', ''text'': ''Scooter''}'
+      - '{''id'': 3, ''name'': ''Other'', ''text'': ''Other''}'
+      required: false
+    - id: 3
+      name: frequency_of_use
+      label: frequency-of-use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily'', ''text'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly'', ''text'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly'', ''text'': ''Monthly''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mobility_duration
+      label: mobility-duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Less than 30 days'', ''text'': ''Less than 30 days''}'
+      - '{''id'': 2, ''name'': ''1-3 months'', ''text'': ''1-3 months''}'
+      - '{''id'': 3, ''name'': ''6-12 months'', ''text'': ''6-12 months''}'
+      - '{''id'': 4, ''name'': ''More than 1 year'', ''text'': ''More than 1 year''}'
+      required: false
+    - id: 7
+      name: medical_evidence
+      label: medical-evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: supporting-documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit-button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_relationship
+      label: contact-relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_title
+      label: contact-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_address
+      label: contact-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submit_message
+      label: submit-message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_name
+      label: submit-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_email
+      label: submit-email
+      hint: null
+      type: email
+      options: []
+      required: false

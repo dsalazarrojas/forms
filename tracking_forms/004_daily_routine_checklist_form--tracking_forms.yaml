@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Routine Checklist Form
+    pages:
+    - id: 1
+      name: routine_checklist
+      label: Daily Routine Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: breakfast
+      label: Have You Had Breakfast
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: medication
+      label: Take Medication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: exercise
+      label: Exercise
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: water
+      label: Drink Water
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: work
+      label: Work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: sleep
+      label: Sleep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: daily_mileage_log
+      label: Daily Mileage Log
+      hint: null
+      type: select_multiple
+      options:
+      - Vehicle
+      - Flight
+      - Train
+      required: true
+    - id: 10
+      name: daily_mileage_distance
+      label: Daily Mileage Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: daily_mileage_time
+      label: Daily Mileage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

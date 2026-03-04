@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Inventory Form
+    pages:
+    - id: 1
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: Describe the item
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: item_id
+      label: Item ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quantity_in_stock
+      label: Quantity in Stock
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: store_status
+      label: Store Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: store_category
+      label: Store Category
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Furniture
+      - Books
+      - Toys
+      - Sports Equipment
+      - Home
+      - Beauty and Wellness
+      - Food and Beverage
+      - Automotive
+      - Health and Beauty
+      - Other
+      required: false
+    - id: 13
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_notes
+      label: Item Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: item_tags
+      label: Item Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Brand
+      - Color
+      - Size
+      - Model
+      - Year
+      required: false
+    - id: 17
+      name: item_weight
+      label: Item Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: store_email
+      label: Store Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: item_image
+      label: Item Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_manager
+      label: Store Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: item_image_url
+      label: Item Image URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: store_notes
+      label: Store Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: item_image_alt
+      label: Item Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_image
+      label: Store Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: store_image_url
+      label: Store Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: item_status_2
+      label: Item Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 29
+      name: store_status_2
+      label: Store Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 30
+      name: store_category_2
+      label: Store Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Furniture
+      - Books
+      - Toys
+      - Sports Equipment
+      - Home
+      - Beauty and Wellness
+      - Food and Beverage
+      - Automotive
+      - Health and Beauty
+      - Other
+      required: false

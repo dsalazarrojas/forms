@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packing List Form
+    pages:
+    - id: 1
+      name: packer_name
+      label: Packer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - Backpack
+      - Pencil
+      required: false
+    - id: 4
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - Backpack
+      - Pencil
+      required: false
+    - id: 5
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: item_size
+      label: Item Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: packer_email
+      label: Packer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: packer_phone
+      label: Packer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_date_required
+      label: Item Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: item_time_required
+      label: Item Time Required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

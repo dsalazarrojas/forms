@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bottle Delivery Confirmation
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: Date of delivery completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: Time of delivery completion
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: driver_name
+      label: Driver Name
+      hint: Full name of delivery driver
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_id
+      label: Driver ID Number
+      hint: Employee or contractor ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_number
+      label: Vehicle Number
+      hint: Truck or vehicle identification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: route_number
+      label: Route Number
+      hint: Assigned delivery route
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: Name of customer receiving delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_address
+      label: Delivery Address
+      hint: Complete delivery location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact number for customer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: order_number
+      label: Order Number
+      hint: Reference order or invoice number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_type
+      label: Delivery Type
+      hint: Type of delivery service
+      type: select_one
+      options:
+      - Regular scheduled delivery
+      - One-time delivery
+      - Emergency delivery
+      - Return pickup and delivery
+      required: true
+    - id: 12
+      name: bottle_quantity_delivered
+      label: Number of Full Bottles Delivered
+      hint: Count of full bottles dropped off
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: empty_bottles_collected
+      label: Number of Empty Bottles Collected
+      hint: Count of empty bottles picked up
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bottle_types
+      label: Bottle Types Delivered
+      hint: Select all types included in delivery
+      type: select_multiple
+      options:
+      - 5-gallon water bottles
+      - 3-gallon water bottles
+      - 1-gallon water bottles
+      - Sparkling water bottles
+      - Flavored water bottles
+      - Glass bottles
+      - Plastic bottles
+      required: true
+    - id: 15
+      name: delivery_location_type
+      label: Delivery Location Type
+      hint: Where were bottles placed
+      type: select_one
+      options:
+      - Residential home
+      - Apartment or condo
+      - Office building
+      - Restaurant
+      - Retail store
+      - Warehouse
+      - Other business
+      required: true
+    - id: 16
+      name: placement_location
+      label: Placement Location
+      hint: Where were bottles placed at location
+      type: select_one
+      options:
+      - Front door or porch
+      - Garage
+      - Kitchen or break room
+      - Designated storage area
+      - Back door
+      - Other
+      required: true
+    - id: 17
+      name: customer_present
+      label: Customer Present at Delivery
+      hint: Was customer available to receive delivery
+      type: select_one
+      options:
+      - Yes, customer received delivery
+      - No, contactless delivery
+      - No, delivery left with reception
+      - No, unable to complete delivery
+      required: true
+    - id: 18
+      name: delivery_status
+      label: Delivery Status
+      hint: Final status of delivery attempt
+      type: select_one
+      options:
+      - Completed successfully
+      - Partial delivery
+      - Failed - customer not available
+      - Failed - access issues
+      - Failed - incorrect address
+      - Rescheduled
+      required: true
+    - id: 19
+      name: payment_received
+      label: Payment Received
+      hint: Was payment collected at delivery
+      type: select_one
+      options:
+      - Yes, cash
+      - Yes, credit card
+      - Yes, check
+      - Yes, digital payment
+      - No, prepaid
+      - No, invoice sent
+      required: true
+    - id: 20
+      name: customer_signature
+      label: Customer Signature
+      hint: Customer or recipient signature
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_notes
+      label: Delivery Notes
+      hint: Any special circumstances or observations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Select any problems during delivery
+      type: select_multiple
+      options:
+      - None
+      - Damaged bottles
+      - Missing bottles
+      - Customer complaint
+      - Access difficulties
+      - Weather delays
+      - Vehicle issues
+      required: true
+    - id: 23
+      name: photo_confirmation
+      label: Photo Confirmation Taken
+      hint: Was photo evidence captured
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: driver_signature
+      label: Driver Signature
+      hint: Driver electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: completion_timestamp
+      label: Completion Timestamp
+      hint: Date and time of form submission
+      type: date
+      options: []
+      required: true

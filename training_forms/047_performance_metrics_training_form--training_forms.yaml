@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Metrics Training Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_areas
+      label: Training Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: performance_metric_1
+      label: Performance Metric 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: performance_metric_2
+      label: Performance Metric 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: performance_metric_3
+      label: Performance Metric 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_hours_date
+      label: Training Hours Date
+      hint: null
+      type: date
+      options: []
+      required: false

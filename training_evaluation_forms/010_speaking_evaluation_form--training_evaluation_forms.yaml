@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaking Evaluation Form
+    pages:
+    - id: 1
+      name: speaker_info
+      label: Speaker Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_1
+      label: Report 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: report_2
+      label: Report 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: report_3
+      label: Report 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: report_4
+      label: Report 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: speaker_feedback
+      label: Speaker Feedback
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 9
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speaker_id
+      label: Speaker ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 15
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: speaker_attendance
+      label: Speaker Attendance
+      hint: null
+      type: number
+      options: []
+      required: false

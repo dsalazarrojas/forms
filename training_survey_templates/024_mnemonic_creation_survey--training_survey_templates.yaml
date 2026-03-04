@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: MnemonicCreationSurvey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learner_category
+      label: Learner Category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: memory_aid_type
+      label: Memory Aid Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: memory_aid_characteristics
+      label: Memory Aid Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: memory_aid_example
+      label: Memory Aid Example
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: memory_aid_characteristics_example
+      label: Memory Aid Characteristics Example
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: memory_aid_usefulness
+      label: How useful was the memory aid?
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mnemonic_aid_usefulness_rating
+      label: Rate the aid's memory aid usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: memory_aid_creation_time
+      label: Memory Aid Creation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: memory_aid_usage_frequency
+      label: Memory Aid Usage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 11
+      name: memory_aid_usage_frequency_2
+      label: Memory Aid Usage Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 12
+      name: memory_aid_usage_frequency_3
+      label: Memory Aid Usage Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 13
+      name: memory_aid_usage_frequency_4
+      label: Memory Aid Usage Frequency 4
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false

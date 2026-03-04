@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Professional Skills Course Poll
+    pages:
+    - id: 1
+      name: course_creators_survey
+      label: Course Creators Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_teams_survey
+      label: Training Teams Survey
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: learner_needs
+      label: Learner Needs
+      hint: Which area of development do you need the most help with?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: course_planning
+      label: Course Planning
+      hint: How often do you plan to deliver your courses?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: learner_preferences
+      label: What type of courses do you usually teach?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: delivery_frequency
+      label: What is the frequency of course delivery?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: future_course_planning
+      label: How do you plan to improve future offerings?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

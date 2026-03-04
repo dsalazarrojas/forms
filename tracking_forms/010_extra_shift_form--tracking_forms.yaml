@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extra Shift Form
+    pages:
+    - id: 1
+      name: extra_shift_form
+      label: extra_shift_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: available_shifts
+      label: available_shifts
+      hint: Select shifts you're available to work
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: extra_shifts
+      label: extra_shifts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: extra_shift_details
+      label: extra_shift_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: extra_shift_time
+      label: extra_shift_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: extra_shift_date
+      label: extra_shift_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: extra_shift_phone
+      label: extra_shift_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: extra_shift_email
+      label: extra_shift_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: extra_shift_note
+      label: extra_shift_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to sign up for this extra shift
+      - I don't have any available shifts
+      required: false

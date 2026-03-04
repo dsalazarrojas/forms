@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: To Do Reminder
+    pages:
+    - id: 1
+      name: reminder_form
+      label: Reminder Template
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: to_do_list
+      label: to_do_list
+      hint: List of Tasks
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: personal_notes
+      label: Personal Notes
+      hint: Describe each task
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: deadline_date
+      label: Deadline
+      hint: Date for the deadline
+      type: date
+      options: []
+      required: false

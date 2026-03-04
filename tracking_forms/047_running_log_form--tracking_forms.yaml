@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Running Log Form
+    pages:
+    - id: 1
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pace
+      label: pace
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: calories_burned
+      label: calories_burned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: workout_type
+      label: workout_type
+      hint: null
+      type: select_one
+      options:
+      - jogging
+      - running
+      - biking
+      - strength
+      - other
+      - walking
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: apps_connected
+      label: apps_connected
+      hint: null
+      type: select_multiple
+      options:
+      - Google Fit
+      - Strava
+      - Apple Health
+      - MyFitnessPal
+      - Runkeeper
+      - Fitbit
+      - Moves
+      - Runkeeper
+      - Google Fit
+      - Other
+      required: true
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: pace
+      label: pace
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: calories_burned
+      label: calories_burned
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Activism Fatigue Study
+    pages:
+    - id: 1
+      name: survey_participation
+      label: survey participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: social_media_usage
+      label: social media usage
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 hour''}'
+      - '{''label'': ''1-2 hours''}'
+      - '{''label'': ''2-4 hours''}'
+      - '{''label'': ''4-6 hours''}'
+      - '{''label'': ''More than 6 hours''}'
+      required: false
+    - id: 3
+      name: social_media_platforms
+      label: social media platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: activism_on_social_media
+      label: social media activism on personal accounts
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Almost Always''}'
+      required: false
+    - id: 5
+      name: emotional_exhaustion
+      label: emotional exhaustion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: emotional_engagement
+      label: emotional engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: content_type
+      label: content type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Informational content''}'
+      - '{''label'': ''Advocacy content''}'
+      - '{''label'': ''Entertainment content''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: content_awareness
+      label: content awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: survey_exposure
+      label: survey exposure
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Almost Always''}'
+      required: false
+    - id: 10
+      name: survey_frequency
+      label: survey frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''1-5 times''}'
+      - '{''label'': ''5-20 times''}'
+      - '{''label'': ''More than 20 times''}'
+      required: false
+    - id: 11
+      name: survey_conductors
+      label: survey conductors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_purpose
+      label: survey purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Research''}'
+      - '{''label'': ''Awareness''}'
+      - '{''label'': ''Advocacy''}'
+      - '{''label'': ''Fundraising''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: social_media_platforms_used
+      label: social media platforms used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: activism_impacts
+      label: social media activism impacts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: engagement_level
+      label: engagement level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: content_style
+      label: content style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Informative''}'
+      - '{''label'': ''Emotional''}'
+      - '{''label'': ''Rational''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: content_style_variation
+      label: content style variation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Less than 1/3''}'
+      - '{''label'': ''1/3 to 1/2''}'
+      - '{''label'': ''1/2 to 2/3''}'
+      - '{''label'': ''2/3 or more''}'
+      required: false

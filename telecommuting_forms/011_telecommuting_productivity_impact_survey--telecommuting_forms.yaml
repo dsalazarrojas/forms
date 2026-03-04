@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommuting Productivity Impact Survey
+    pages:
+    - id: 1
+      name: remote_work_arrangement
+      label: Remote work arrangement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_location
+      label: Work location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_from_home
+      label: Do you work from home?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Prefer not to say''}'
+      required: false
+    - id: 4
+      name: working_hours
+      label: Working hours flexibility
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: job_satistment
+      label: Job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_life_balance
+      label: Work-life balance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Slightly better''}'
+      - '{''id'': 2, ''label'': ''Much better''}'
+      - '{''id'': 3, ''label'': ''Much worse''}'
+      - '{''id'': 4, ''label'': ''Not affected''}'
+      required: false
+    - id: 7
+      name: productivity
+      label: Productivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication
+      label: Communication satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: work_arrangement_adequacy
+      label: Work arrangement adequacy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: recommendations
+      label: Recommendations for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

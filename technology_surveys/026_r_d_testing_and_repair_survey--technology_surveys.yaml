@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: R&D Testing And Repair Survey
+    pages:
+    - id: 1
+      name: test_and_repair_form
+      label: testing_and_repair_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: repair_work
+      label: repair_work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: test_outcome
+      label: test_outcome
+      hint: null
+      type: select_one
+      options:
+      - Test 1
+      - Test 2
+      - Test 3
+      required: true
+    - id: 4
+      name: issue_found
+      label: issue_found
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: test_and_repair_time
+      label: test_and_repair_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: test_and_repair_date
+      label: test_and_repair_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: test_and_repair_location
+      label: test_and_repair_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_and_repair_equipment_type
+      label: test_and_repair_equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: true
+    - id: 12
+      name: test_and_repair_tester
+      label: test_and_repair_tester
+      hint: null
+      type: select_one
+      options:
+      - Tester 1
+      - Tester 2
+      - Tester 3
+      required: true
+    - id: 13
+      name: test_and_repair_inspected_area
+      label: test_and_repair_inspected_area
+      hint: null
+      type: select_one
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 14
+      name: test_and_repair_notes
+      label: test_and_repair_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: test_and_repair_equipment_status
+      label: test_and_repair_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 16
+      name: test_and_repair_repair_work_done
+      label: test_and_repair_repair_work_done
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Not Done
+      - Unknown
+      required: true
+    - id: 17
+      name: test_and_repair_additional_comments
+      label: test_and_repair_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_and_repair_additional_notes
+      label: test_and_repair_additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: test_and_repair_test_outcome_notes
+      label: test_and_repair_test_outcome_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: test_and_repair_recurring_issue
+      label: test_and_repair_recurring_issue
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: true
+    - id: 21
+      name: test_and_repair_previous_issue_id
+      label: test_and_repair_previous_issue_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: test_and_repair_previous_issue_description
+      label: test_and_repair_previous_issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: test_and_repair_last_tested_date
+      label: test_and_repair_last_tested_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: test_and_repair_last_tested_time
+      label: test_and_repair_last_tested_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: test_and_repair_last_tested_by
+      label: test_and_repair_last_tested_by
+      hint: null
+      type: select_one
+      options:
+      - Tester 1
+      - Tester 2
+      - Tester 3
+      required: true

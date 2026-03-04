@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aquarium Tour Inquiry Contact Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Tour
+      - Group Tour
+      - School Field Trip
+      - Private Event
+      - Other
+      required: true
+    - id: 6
+      name: tour_info
+      label: Tour Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time
+      label: Preferred Tour Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 3 PM)
+      - Late Afternoon (3 PM - 5 PM)
+      - Evening (5 PM - 7 PM)
+      - Flexible
+      required: true
+    - id: 9
+      name: group_size
+      label: Number of Visitors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: age_group
+      label: Predominant Age Group
+      hint: null
+      type: select_one
+      options:
+      - Children (under 12)
+      - Teens (12-17)
+      - Adults
+      - Mixed
+      required: false
+    - id: 11
+      name: special_interests
+      label: Special Interests or Focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_accommodations
+      label: Any Special Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_questions
+      label: Additional Questions or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dyno Performance Data Log Form
+    pages:
+    - id: 1
+      name: dyno_session_details
+      label: Dyno Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_tests
+      label: Performance Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: dyno_engine_data
+      label: Dyno Engine Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: test_settings
+      label: Test Settings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dyno_test_data
+      label: Dyno Test Data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: dyno_data_points
+      label: Dyno Data Points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dyno_notes
+      label: Dyno Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dyno_test_id
+      label: Dyno Test ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dyno_vehicle_id
+      label: Dyno Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: dyno_user_id
+      label: Dyno User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: dyno_user
+      label: Dyno User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: dyno_date
+      label: Dyno Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: dyno_test_date
+      label: Dyno Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: dyno_time
+      label: Dyno Time
+      hint: null
+      type: time
+      options: []
+      required: false

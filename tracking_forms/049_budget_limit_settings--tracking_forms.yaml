@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Limit Settings
+    pages:
+    - id: 1
+      name: setting_name
+      label: Setting name
+      hint: Identifier for this budget limit
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department the limit applies to
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: limit_amount
+      label: Limit amount
+      hint: Monetary limit value
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: period
+      label: Period
+      hint: Budget period this limit covers
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 5
+      name: approver
+      label: Approver
+      hint: Person authorized to approve exceptions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notification_threshold
+      label: Notification threshold
+      hint: Percent threshold to trigger notifications
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: override_procedure
+      label: Override procedure
+      hint: Steps to request an override
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional details about this setting
+      type: text
+      options: []
+      required: false

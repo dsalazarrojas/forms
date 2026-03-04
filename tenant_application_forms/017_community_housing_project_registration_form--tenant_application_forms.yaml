@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Housing Project Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Project Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For project communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional direct contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_description
+      label: Project description
+      hint: Brief summary of the housing project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_role
+      label: Role in project
+      hint: Leader, participant, volunteer
+      type: select_one
+      options:
+      - Leader
+      - Participant
+      - Volunteer
+      - Other
+      required: true
+    - id: 7
+      name: proposed_start_date
+      label: Proposed start date
+      hint: Estimated project start
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: estimated_duration_months
+      label: Estimated duration in months
+      hint: Provide an estimate
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: funding_sources
+      label: Funding sources
+      hint: Indicate main funding or sponsors
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_needed
+      label: Support needed from community
+      hint: Volunteers, materials, funding, or expertise
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agency Subscription Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subscription_type
+      label: subscription_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monthly''}'
+      - '{''id'': 2, ''name'': ''Annual''}'
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''Payroll Deduction''}'
+      - '{''id'': 3, ''name'': ''Online Payment''}'
+      - '{''id'': 4, ''name'': ''Check Payment''}'
+      required: false
+    - id: 6
+      name: subscription_date
+      label: subscription_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Package Feedback Form
+    pages:
+    - id: 1
+      name: vacation_package_rating
+      label: Vacation Package Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_agency_name
+      label: Travel Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vacation_experience
+      label: Vacation Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_agent_name
+      label: Travel Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: travel_period
+      label: Travel Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: number_of_travelers
+      label: Number of Travelers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: travel_agency_service
+      label: Travel Agency Service
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: travel_agent_attitude
+      label: Travel Agent Attitude
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: travel_agent_skills
+      label: Travel Agent Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false

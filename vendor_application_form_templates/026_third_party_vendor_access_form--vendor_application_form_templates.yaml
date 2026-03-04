@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Vendor Access Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_info
+      label: vendor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 8
+      name: access_duration
+      label: access_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: access_date
+      label: access_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: access_time
+      label: access_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: access_note
+      label: access_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: security_question
+      label: security_question
+      hint: null
+      type: text
+      options: []
+      required: false

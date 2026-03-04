@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Supplies Usage Report Form
+    pages:
+    - id: 1
+      name: stock_products
+      label: Stock Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: products_used
+      label: Products Used
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Item 1''}'
+      - '{''value'': ''Item 2''}'
+      - '{''value'': ''Item 3''}'
+      required: false
+    - id: 3
+      name: truck_number
+      label: Truck Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes_comments
+      label: Notes & Comments
+      hint: null
+      type: note
+      options: []
+      required: false

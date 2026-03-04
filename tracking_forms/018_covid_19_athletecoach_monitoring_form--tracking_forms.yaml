@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 AthleteCoach Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_date
+      label: Monitoring Date
+      hint: Date of health status check
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: person_type
+      label: Person Type
+      hint: Are you an athlete or coach?
+      type: select_one
+      options:
+      - Athlete
+      - Coach
+      - Staff
+      - Other
+      required: true
+    - id: 3
+      name: person_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sport
+      label: Sport or Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: fever_symptoms
+      label: Do you have a fever today?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 9
+      name: fever_temperature
+      label: If yes, body temperature
+      hint: In Fahrenheit or Celsius
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cough_symptoms
+      label: Do you have a new or worsening cough?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 11
+      name: shortness_of_breath
+      label: Do you have shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 12
+      name: loss_of_taste_smell
+      label: Have you lost sense of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 13
+      name: fatigue
+      label: Do you feel excessive fatigue or tiredness?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 14
+      name: muscle_aches
+      label: Do you have muscle or body aches?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 15
+      name: headache
+      label: Do you have a headache?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 16
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 17
+      name: nausea_vomiting
+      label: Do you have nausea or vomiting?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 18
+      name: diarrhea
+      label: Do you have diarrhea?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 19
+      name: covid_exposure
+      label: Have you been exposed to someone with COVID-19?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 20
+      name: covid_test_status
+      label: COVID-19 Test Status
+      hint: Have you been tested recently?
+      type: select_one
+      options:
+      - Never tested
+      - Tested - Positive
+      - Tested - Negative
+      - Tested - Pending Results
+      - Prefer not to answer
+      required: false
+    - id: 21
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to answer
+      required: false
+    - id: 22
+      name: current_status
+      label: Current Status
+      hint: Can you participate in activities today?
+      type: select_one
+      options:
+      - Cleared to participate
+      - Restricted participation
+      - Quarantine - stay home
+      - Isolate - medical supervision
+      required: true
+    - id: 23
+      name: return_to_play_date
+      label: Estimated Return to Play Date
+      hint: If restricted or isolated
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Additional Notes or Concerns
+      hint: Any other health information to report
+      type: text
+      options: []
+      required: false

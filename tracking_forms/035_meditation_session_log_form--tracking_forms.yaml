@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: meditation_session_log_form
+    pages:
+    - id: 1
+      name: meditation_session_log_form_questions
+      label: meditation_session_log_form_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_duration
+      label: practice_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_focus
+      label: session_focus
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session_focus_other
+      label: session_focus_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: practice_type
+      label: practice_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: meditation_session_log_form_additional_comments
+      label: meditation_session_log_form_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: practice_location
+      label: practice_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meditation_session_log_form_additional_comments
+      label: meditation_session_log_form_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Calorie Tracking Log
+    pages:
+    - id: 1
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: mealtime
+      label: Mealtime
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mealname
+      label: Meal Name
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Burger
+      - Cake
+      - Carrots
+      - Chicken
+      - Cookies
+      - Donut
+      - Grapes
+      - Ham
+      - Juice
+      - Orange
+      - Pear
+      - Pineapple
+      - Pizza
+      - Potato
+      - Salad
+      - Sandwich
+      - Soup
+      required: false
+    - id: 4
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: calorie_intake
+      label: Calorie Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Coaching
+      - Coaching
+      - Coaching
+      - Cooking
+      - Foodie
+      - Health
+      - Nutrition
+      - Wellness
+      - Wellness
+      - Wellness
+      - Wellness
+      - Wellness
+      required: false
+    - id: 8
+      name: user_category
+      label: User Category
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Coach
+      - Client
+      - Coach
+      - Client
+      - Coach
+      - Coach
+      - User
+      - Client
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

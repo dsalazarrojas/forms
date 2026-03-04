@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Endobariatric Course Feedback
+    pages:
+    - id: 1
+      name: attendee_information_section
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_role
+      label: Professional Role
+      hint: Your role in the medical field
+      type: select_one
+      options:
+      - Surgeon
+      - Gastroenterologist
+      - Nurse
+      - Medical Resident
+      - Fellow
+      - Other
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of experience in your field
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: course_overview_section
+      label: -- Course Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: course_title
+      label: Course Title
+      hint: Name of the course attended
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_date
+      label: Course Date
+      hint: Date when the course was attended
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: course_location
+      label: Course Location
+      hint: Where was the course held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_quality_section
+      label: -- Content Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: relevance_to_practice
+      label: Relevance to Practice
+      hint: How relevant was the course content to your practice
+      type: select_one
+      options:
+      - Extremely relevant
+      - Very relevant
+      - Moderately relevant
+      - Slightly relevant
+      - Not relevant
+      required: true
+    - id: 11
+      name: technical_accuracy
+      label: Technical Accuracy
+      hint: How accurate was the technical information presented
+      type: select_one
+      options:
+      - Highly accurate
+      - Accurate
+      - Mostly accurate
+      - Somewhat accurate
+      - Inaccurate
+      required: true
+    - id: 12
+      name: depth_of_content
+      label: Depth of Content
+      hint: Was the content sufficiently detailed for your needs
+      type: select_one
+      options:
+      - Too detailed
+      - Appropriate detail
+      - Not detailed enough
+      - Uncertain
+      required: true
+    - id: 13
+      name: instructor_quality_section
+      label: -- Instructor Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: instructor_knowledge
+      label: Instructor Knowledge
+      hint: How knowledgeable was the instructor about the subject matter
+      type: select_one
+      options:
+      - Exceptional
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: presentation_skills
+      label: Presentation Skills
+      hint: How effective were the instructor's presentation skills
+      type: select_one
+      options:
+      - Exceptional
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: engagement_level
+      label: Engagement Level
+      hint: How engaging was the instructor during the course
+      type: select_one
+      options:
+      - Highly engaging
+      - Engaging
+      - Moderately engaging
+      - Slightly engaging
+      - Not engaging
+      required: true
+    - id: 17
+      name: learning_outcomes_section
+      label: -- Learning Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: knowledge_gained
+      label: Knowledge Gained
+      hint: How much new knowledge did you gain from the course
+      type: select_one
+      options:
+      - Extensive amount
+      - Considerable amount
+      - Moderate amount
+      - Little amount
+      - No new knowledge
+      required: true
+    - id: 19
+      name: confidence_increase
+      label: Confidence Increase
+      hint: Did the course increase your confidence in endobariatric procedures
+      type: select_one
+      options:
+      - Significantly increased
+      - Increased
+      - Slightly increased
+      - No change
+      - Decreased
+      required: true
+    - id: 20
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: Would you recommend this course to colleagues
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Might recommend
+      - Probably not
+      - Definitely not
+      required: true

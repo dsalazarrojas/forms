@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Weather Record
+    pages:
+    - id: 1
+      name: date_field
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location_field
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: temperature_field
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weather_conditions_field
+      label: Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wind_speed_field
+      label: Wind
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: humidity_field
+      label: Humidity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes_field
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

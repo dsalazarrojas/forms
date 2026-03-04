@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Keyword Research Survey
+    pages:
+    - id: 1
+      name: keyword_research_form
+      label: keyword_research_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tools_used
+      label: tools_used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Google Search''}'
+      - '{''id'': 2, ''label'': ''Keyword Clustering''}'
+      - '{''id'': 3, ''label'': ''SEMrush''}'
+      - '{''id'': 4, ''label'': ''Ahrefs''}'
+      required: false
+    - id: 3
+      name: tools_used_other
+      label: tools_used_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tools_used_why
+      label: tools_used_why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency_goals
+      label: frequency_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: frequency_goals_frequency
+      label: frequency_goals_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: challenges_frequency
+      label: challenges_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: habits
+      label: habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: habits_frequency
+      label: habits_frequency
+      hint: null
+      type: number
+      options: []
+      required: false

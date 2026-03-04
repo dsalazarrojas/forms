@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: HipPainPhysicalTherapistForm
+    pages:
+    - id: 1
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pain_details
+      label: Pain Details
+      hint: null
+      type: select_one
+      options:
+      - 'Pain Location: Hip'
+      - 'Pain Location: Knee'
+      - 'Pain Location: Other'
+      required: false
+    - id: 3
+      name: pain_severity
+      label: Pain Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce pain
+      - Improve mobility
+      - Increase strength
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Hip Replacement
+      - Osteoarthritis
+      - Other
+      required: false
+    - id: 9
+      name: pain_trigger
+      label: Pain Trigger
+      hint: null
+      type: select_multiple
+      options:
+      - Activity
+      - Rest
+      - Other
+      required: false
+    - id: 10
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve pain management
+      - Improve mobility
+      - Increase strength
+      required: false
+    - id: 11
+      name: follow_up_appointment
+      label: Follow-Up Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: medical_image
+      label: Medical Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: text
+      options: []
+      required: false

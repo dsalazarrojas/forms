@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: massage_booking_form
+    pages:
+    - id: 1
+      name: schedule_a_massage
+      label: Select a Date and Time
+      hint: null
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-02'
+      required: false
+    - id: 2
+      name: select_a_massage_type
+      label: Massage Type
+      hint: null
+      type: select_one
+      options:
+      - 60 min
+      - 90 min
+      - 120 min
+      required: false
+    - id: 3
+      name: select_a_massage_type
+      label: Select a massage type
+      hint: null
+      type: select_multiple
+      options:
+      - 60 min
+      - 90 min
+      - 120 min
+      required: false
+    - id: 4
+      name: select_a_massage_duration
+      label: Select a massage duration
+      hint: null
+      type: select_one
+      options:
+      - 60 min
+      - 90 min
+      - 120 min
+      required: false
+    - id: 5
+      name: select_a_time
+      label: Select a time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: select_a_date
+      label: Select a date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: select_a_time
+      label: Select a time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: select_a_massage_type
+      label: Massage type
+      hint: null
+      type: select_one
+      options:
+      - 60 min
+      - 90 min
+      - 120 min
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: massage_description
+      label: Massage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: therapist_phone
+      label: Therapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: therapist_email
+      label: Therapist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: massage_notes
+      label: Massage Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      required: false
+    - id: 18
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 19
+      name: select_a_client
+      label: Select a client
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false

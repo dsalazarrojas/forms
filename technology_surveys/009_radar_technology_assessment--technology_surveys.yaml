@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radar Technology Assessment
+    pages:
+    - id: 1
+      name: technology_survey_1
+      label: What is the name of the technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technology_survey_2
+      label: What is the primary application of the technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: technology_performance_1
+      label: How will the technology be used in the future?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: technology_performance_2
+      label: What are the strengths of the technology?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: technology_performance_3
+      label: What are the limitations of the technology?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: technology_performance_rating_1
+      label: How would you rate the performance of the technology?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: technology_capture_1
+      label: What are the benefits of the technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technology_capture_2
+      label: What are the risks of the technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: technology_capture_3
+      label: What is the current level of the technology?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

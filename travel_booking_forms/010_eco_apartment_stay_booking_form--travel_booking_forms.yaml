@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Apartment Stay Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: room_count
+      label: Room Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: adult_count
+      label: Adult Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: child_count
+      label: Child Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: policy_agreements
+      label: Policy Agreements
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 12, ''name'': ''policy_1'', ''label'': ''Policy 1'', ''required'':
+        True}'
+      - '{''id'': 13, ''name'': ''policy_2'', ''label'': ''Policy 2'', ''required'':
+        True}'
+      - '{''id'': 14, ''name'': ''policy_3'', ''label'': ''Policy 3'', ''required'':
+        True}'
+      required: true
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15, ''name'': ''term_1'', ''label'': ''Term 1''}'
+      - '{''id'': 16, ''name'': ''term_2'', ''label'': ''Term 2''}'
+      - '{''id'': 17, ''name'': ''term_3'', ''label'': ''Term 3''}'
+      required: true

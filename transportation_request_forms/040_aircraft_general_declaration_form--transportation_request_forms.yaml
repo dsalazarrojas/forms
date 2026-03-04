@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft General Declaration Form
+    pages:
+    - id: 1
+      name: flight_date
+      label: Flight Date
+      hint: Date of flight
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: flight_number
+      label: Flight Number
+      hint: Flight identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: Tail number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: aircraft_type
+      label: Aircraft Type
+      hint: Make and model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: operator_name
+      label: Operator Name
+      hint: Airline or operator
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: operator_address
+      label: Operator Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: departure_airport
+      label: Departure Airport
+      hint: Airport code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: departure_time
+      label: Departure Time (UTC)
+      hint: Off-block time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: arrival_airport
+      label: Arrival Airport
+      hint: Airport code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: arrival_time
+      label: Arrival Time (UTC)
+      hint: On-block time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: commander_name
+      label: Commander Name
+      hint: Pilot in command
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: commander_nationality
+      label: Commander Nationality
+      hint: Country
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: commander_license
+      label: Commander License Number
+      hint: Pilot license
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: crew_count
+      label: Crew Count
+      hint: Total crew members
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: passenger_count
+      label: Passenger Count
+      hint: Total passengers
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_persons
+      label: Total Persons On Board
+      hint: Crew plus passengers
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: cargo_description
+      label: Cargo Description
+      hint: General nature of cargo
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cargo_weight
+      label: Cargo Weight (kg)
+      hint: Total cargo weight
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: mail_on_board
+      label: Mail On Board
+      hint: Is mail being carried
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: dangerous_goods
+      label: Dangerous Goods
+      hint: Are dangerous goods on board
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: dangerous_goods_details
+      label: Dangerous Goods Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: aircraft_certificate
+      label: Aircraft Certificate of Registration
+      hint: Is certificate on board
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: aircraft_airworthiness
+      label: Airworthiness Certificate
+      hint: Is certificate on board
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: aircraft_insurance
+      label: Insurance Certificate
+      hint: Is certificate on board
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: crew_licenses
+      label: Crew Licenses
+      hint: Are licenses on board
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: journey_log_book
+      label: Journey Log Book
+      hint: Is log book on board
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: health_documents
+      label: Health Documents
+      hint: Are health docs on board
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: true
+    - id: 28
+      name: vaccination_certificates
+      label: Vaccination Certificates
+      hint: Are certificates on board
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: true
+    - id: 29
+      name: passenger_manifest
+      label: Passenger Manifest
+      hint: Is manifest attached
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: crew_manifest
+      label: Crew Manifest
+      hint: Is manifest attached
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: stores_on_board
+      label: Aircraft Stores
+      hint: Duty-free and bonded stores
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: currency_on_board
+      label: Currency On Board
+      hint: Amount if declared
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: purpose_of_flight
+      label: Purpose of Flight
+      hint: Reason for flight
+      type: select_one
+      options:
+      - Scheduled passenger
+      - Charter
+      - Cargo
+      - Private
+      - Medical
+      - Government
+      - Other
+      required: true
+    - id: 34
+      name: remarks
+      label: Remarks
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: commander_signature
+      label: Commander Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: authorized_officer
+      label: Authorized Officer Name
+      hint: Immigration or customs officer
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: officer_signature
+      label: Officer Signature
+      hint: Official stamp or signature
+      type: text
+      options: []
+      required: false

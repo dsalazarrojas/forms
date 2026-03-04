@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Home Feature Value Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is the smart home feature you are interested in?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: price_importance_page
+      label: How important is pricing for this feature?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: price_pricing_page
+      label: What is the price expectation for this feature?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: interest_page
+      label: How interested are you in this feature?
+      hint: null
+      type: select_one
+      options:
+      - Interest Level 1
+      - Interest Level 2
+      - Interest Level 3
+      - Interest Level 4
+      required: true
+    - id: 5
+      name: importance_page
+      label: How important is this feature to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 6
+      name: feature_page
+      label: What is the name of this feature?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expectation_page
+      label: How do you expect to use this feature?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_expectation_page
+      label: Other expectation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expectation_page_9
+      label: Expectation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expectation_page_10
+      label: More Expectation
+      hint: null
+      type: text
+      options: []
+      required: false

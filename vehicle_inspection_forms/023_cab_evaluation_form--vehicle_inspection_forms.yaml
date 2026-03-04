@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cab Evaluation Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector name
+      hint: Person performing evaluation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_reg_number
+      label: Vehicle registration number
+      hint: Plate or fleet id
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: safety_checks_passed
+      label: Safety checks passed
+      hint: Seat belts lights brakes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: mileage
+      label: Odometer reading
+      hint: Current mileage
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: defects_found
+      label: Defects found
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_actions
+      label: Recommended maintenance actions
+      hint: Repair schedule or parts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_inspection_date
+      label: Next inspection date
+      hint: Suggested follow up date
+      type: date
+      options: []
+      required: false

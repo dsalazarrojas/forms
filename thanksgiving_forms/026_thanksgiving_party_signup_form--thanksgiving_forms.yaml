@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Party Signup Form
+    pages:
+    - id: 1
+      name: family_name
+      label: family_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relative_address
+      label: relatives_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: friend_address
+      label: friends_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: will_bring
+      label: will_bring
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Pie
+      - Pumpkin Pie
+      - Mashed Potatoes
+      - Stuffing
+      - Cranberry Sauce
+      required: false
+    - id: 5
+      name: will_share
+      label: will_share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: will_arrive
+      label: will_arrive
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: will_leave
+      label: will_leave
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned
+      label: assigned
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - nobody
+      - somebody
+      required: false
+    - id: 13
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

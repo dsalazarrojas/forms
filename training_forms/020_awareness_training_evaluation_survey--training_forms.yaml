@@ -1,0 +1,300 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Awareness Training Evaluation Survey
+    pages:
+      - id: 1
+        name: training_type
+        label: Training Type
+        hint: Which training did you attend
+        type: select_one
+        options:
+          - Diversity and inclusion
+          - Sexual harassment prevention
+          - Workplace safety
+          - Cybersecurity awareness
+          - Mental health awareness
+          - Environmental awareness
+          - Ethics and compliance
+          - Customer service
+          - Leadership development
+          - Other
+        required: true
+      - id: 2
+        name: training_date
+        label: Training Date
+        hint: When did you attend
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: training_location
+        label: Training Location
+        hint: Where was it held
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: participant_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: participant_email
+        label: Email Address
+        hint: For certificate delivery
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: job_role
+        label: Job Role
+        hint: Your position
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: experience_level
+        label: Experience Level
+        hint: Your experience in this topic
+        type: select_one
+        options:
+          - Beginner - new to topic
+          - Some familiarity
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 9
+        name: training_format
+        label: Training Format
+        hint: How was the training delivered
+        type: select_one
+        options:
+          - In-person classroom
+          - Virtual live session
+          - Self-paced online
+          - Hybrid
+          - Workshop
+        required: true
+      - id: 10
+        name: content_quality
+        label: Content Quality
+        hint: Rate the quality of training content
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 11
+        name: content_relevance
+        label: Content Relevance
+        hint: How relevant to your job
+        type: select_one
+        options:
+          - Very relevant
+          - Relevant
+          - Somewhat relevant
+          - Not very relevant
+          - Not relevant at all
+        required: true
+      - id: 12
+        name: trainer_knowledge
+        label: Trainer Knowledge
+        hint: Rate the trainer's expertise
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - Not applicable
+        required: true
+      - id: 13
+        name: trainer_presentation
+        label: Trainer Presentation Skills
+        hint: Rate the trainer's delivery
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - Not applicable
+        required: true
+      - id: 14
+        name: pacing
+        label: Training Pacing
+        hint: How was the pace
+        type: select_one
+        options:
+          - Too slow
+          - Just right
+          - Too fast
+        required: true
+      - id: 15
+        name: materials_quality
+        label: Training Materials Quality
+        hint: Rate handouts and resources
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - Not provided
+        required: true
+      - id: 16
+        name: engagement_level
+        label: Your Engagement Level
+        hint: How engaged were you
+        type: select_one
+        options:
+          - Very engaged
+          - Engaged
+          - Neutral
+          - Disengaged
+          - Very disengaged
+        required: true
+      - id: 17
+        name: interactivity
+        label: Interactivity Rating
+        hint: Rate opportunities for interaction
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 18
+        name: knowledge_gained
+        label: Knowledge Gained
+        hint: How much did you learn
+        type: select_one
+        options:
+          - A great deal
+          - A lot
+          - Some
+          - A little
+          - Nothing
+        required: true
+      - id: 19
+        name: confidence_increase
+        label: Confidence Increase
+        hint: How confident are you now
+        type: select_one
+        options:
+          - Much more confident
+          - Somewhat more confident
+          - Same as before
+          - Less confident
+          - Much less confident
+        required: true
+      - id: 20
+        name: will_apply_learning
+        label: Will You Apply What You Learned
+        hint: Likelihood of application
+        type: select_one
+        options:
+          - Definitely will
+          - Probably will
+          - Might
+          - Probably won't
+          - Definitely won't
+        required: true
+      - id: 21
+        name: most_valuable_topic
+        label: Most Valuable Topic
+        hint: What was most useful
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: least_valuable_topic
+        label: Least Valuable Topic
+        hint: What was least useful
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: topics_needing_more_time
+        label: Topics Needing More Time
+        hint: What should be covered more
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: How can we improve
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: recommend_to_others
+        label: Would You Recommend to Others
+        hint: Based on your experience
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 26
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Overall rating
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 27
+        name: additional_training_needs
+        label: Additional Training Needs
+        hint: What other training do you need
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: certificate_needed
+        label: Do You Need a Certificate
+        hint: For completion
+        type: select_one
+        options:
+          - "Yes, please"
+          - "No, thank you"
+        required: true

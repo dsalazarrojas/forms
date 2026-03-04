@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Expense Reimbursement Form
+    pages:
+    - id: 1
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_reimbursed_by
+      label: expense_reimbursed_by
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      required: false
+    - id: 5
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

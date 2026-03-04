@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tile Installation Project Logger
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: job_start_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: job_end_time
+      label: Job End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: true
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Wall
+      - Floor
+      - Ceiling
+      - Other
+      required: true
+    - id: 10
+      name: tile_type
+      label: Tile Type
+      hint: null
+      type: select_multiple
+      options:
+      - Porcelain
+      - Ceramic
+      - Marble
+      - Granite
+      required: true
+    - id: 11
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: job_cost
+      label: Job Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: tile_color
+      label: Tile Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tile_size
+      label: Tile Size
+      hint: null
+      type: text
+      options: []
+      required: false

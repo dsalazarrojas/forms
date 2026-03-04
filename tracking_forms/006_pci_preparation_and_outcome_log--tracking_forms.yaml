@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: PCI Preparation And Outcome Log
+    pages:
+    - id: 1
+      name: preparation_steps
+      label: Preparation Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure_details
+      label: Procedure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outcome_details
+      label: Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenny
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

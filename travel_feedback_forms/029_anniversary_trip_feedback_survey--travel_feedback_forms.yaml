@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Trip Feedback Survey
+    pages:
+    - id: 1
+      name: guest_info_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_guest_name
+      label: Guest Name
+      hint: Primary person in couple
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trip_info_header
+      label: -- Trip Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: trip_dates
+      label: Trip Dates
+      hint: When did your trip occur
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: destination
+      label: Destination
+      hint: Where did you travel
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: trip_duration
+      label: Trip Duration
+      hint: How many days
+      type: select_one
+      options:
+      - Weekend getaway
+      - 3-4 days
+      - One week
+      - 2 weeks
+      - Extended trip
+      required: true
+    - id: 9
+      name: trip_package_header
+      label: -- Package Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: package_type
+      label: Type of Package
+      hint: What kind of trip was booked
+      type: select_one
+      options:
+      - All-inclusive resort
+      - Guided tour package
+      - Custom itinerary
+      - Hotel and flight only
+      - Cruise
+      - Adventure travel
+      - Wellness retreat
+      required: false
+    - id: 11
+      name: package_name
+      label: Package or Tour Name
+      hint: Specific package or tour name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_header
+      label: -- Accommodation Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: accommodation_rating
+      label: Hotel or Resort Rating
+      hint: Rate your lodging
+      type: select_one
+      options:
+      - Excellent - Exceeded expectations
+      - Good - Met expectations
+      - Satisfactory - Adequate
+      - Poor - Below expectations
+      - Terrible - Very disappointing
+      required: true
+    - id: 14
+      name: room_quality
+      label: Room Quality and Cleanliness
+      hint: Rate the room
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Terrible
+      required: true
+    - id: 15
+      name: amenities_satisfaction
+      label: Amenities and Facilities
+      hint: Rate the available facilities
+      type: select_one
+      options:
+      - Excellent - Many options
+      - Good - Good variety
+      - Satisfactory - Basic amenities
+      - Poor - Limited options
+      - Terrible - Missing key amenities
+      required: false
+    - id: 16
+      name: activities_header
+      label: -- Activities and Experiences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: activities_quality
+      label: Quality of Activities and Excursions
+      hint: Rate the planned activities
+      type: select_one
+      options:
+      - Excellent - Very memorable
+      - Good - Enjoyed them
+      - Satisfactory - Adequate
+      - Poor - Disappointing
+      - Terrible - Not worth time
+      required: true
+    - id: 18
+      name: activities_available
+      label: Were the activities what you expected
+      hint: Did activities match description
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Met expectations
+      - Partially met expectations
+      - Did not match description
+      - Not available
+      required: false
+    - id: 19
+      name: romantic_atmosphere
+      label: Romantic Atmosphere and Setting
+      hint: Was it romantic and intimate
+      type: select_one
+      options:
+      - Excellent - Very romantic
+      - Good - Romantic setting
+      - Satisfactory - Some romance
+      - Poor - Not romantic
+      - Terrible - Not romantic at all
+      required: true
+    - id: 20
+      name: food_dining_header
+      label: -- Food and Dining --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: food_quality
+      label: Food Quality and Variety
+      hint: Rate the dining experience
+      type: select_one
+      options:
+      - Excellent - Outstanding meals
+      - Good - Quality food
+      - Satisfactory - Adequate
+      - Poor - Disappointing
+      - Terrible - Inedible
+      required: true
+    - id: 22
+      name: dining_variety
+      label: Dining Options and Variety
+      hint: Were there enough options
+      type: select_one
+      options:
+      - Excellent variety
+      - Good variety
+      - Adequate options
+      - Limited options
+      - Very limited
+      required: false
+    - id: 23
+      name: service_header
+      label: -- Service Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: staff_service
+      label: Staff Courtesy and Service
+      hint: Rate the staff service
+      type: select_one
+      options:
+      - Excellent - Attentive and friendly
+      - Good - Professional and helpful
+      - Satisfactory - Acceptable
+      - Poor - Inattentive
+      - Terrible - Rude or unhelpful
+      required: true
+    - id: 25
+      name: overall_satisfaction
+      label: Overall Trip Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true

@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: API Usage Feedback Form
+    pages:
+    - id: 1
+      name: developer_name
+      label: Developer Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: developer_email
+      label: Developer Email
+      hint: Your email (optional, for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: company_organization
+      label: Company/Organization
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: api_used
+      label: API Used
+      hint: Which API are you providing feedback on?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: usage_duration
+      label: Duration of API Usage
+      hint: How long have you been using this API?
+      type: select_one
+      options: ["Less than 1 month", "1-6 months", "6-12 months", "1-2 years", "More than 2 years"]
+      required: true
+    - id: 6
+      name: primary_use_case
+      label: Primary Use Case
+      hint: What is your primary use case for this API?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with the API overall?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 8
+      name: documentation_quality
+      label: Documentation Quality
+      hint: How would you rate the API documentation?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 9
+      name: ease_of_integration
+      label: Ease of Integration
+      hint: How easy was it to integrate the API into your application?
+      type: select_one
+      options: ["Very Easy", "Easy", "Neutral", "Difficult", "Very Difficult"]
+      required: true
+    - id: 10
+      name: api_performance
+      label: API Performance
+      hint: How would you rate the API's performance (speed, reliability)?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 11
+      name: common_issues_encountered
+      label: Common Issues Encountered
+      hint: What issues do you commonly face when using the API?
+      type: select_multiple
+      options: ["Rate Limiting", "Authentication Problems", "Slow Response Times", "Poor Error Messages", "Missing Features", "Documentation Errors", "None"]
+      required: false
+    - id: 12
+      name: missing_features
+      label: Missing Features
+      hint: What features are missing from the API that you would like to see added?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommended_improvements
+      label: Recommended Improvements
+      hint: What improvements would you recommend for the API?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend this API to other developers?
+      type: select_one
+      options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or comments about the API?
+      type: text
+      options: []
+      required: false

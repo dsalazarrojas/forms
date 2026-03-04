@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Therapist Onboarding Form
+    pages:
+    - id: 1
+      name: full_name
+      label: full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: therapist_photo
+      label: therapist_photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: Please confirm that you have read and understand the terms and conditions.
+      type: select_multiple
+      options:
+      - I have read and understand the terms and conditions.
+      - I have not read and understand the terms and conditions.
+      - Decline
+      required: false
+    - id: 6
+      name: documentation
+      label: documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_data
+      label: onboarding_data
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

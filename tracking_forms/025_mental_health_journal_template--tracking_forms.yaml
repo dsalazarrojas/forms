@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Journal Template
+    pages:
+    - id: 1
+      name: mood_tracker
+      label: mood_tracker
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: emotions_tracker
+      label: emotions_tracker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: progress_notes
+      label: progress_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: mood_scale
+      label: mood_scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sleep_tracker
+      label: sleep_tracker
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: activity_tracker
+      label: activity_tracker
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feelings
+      label: feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_level
+      label: energy_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_status
+      label: mental_health_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_contacts
+      label: social_contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_contacts
+      label: emergency_contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

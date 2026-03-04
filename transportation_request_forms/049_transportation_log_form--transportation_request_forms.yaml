@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Log Form
+    pages:
+    - id: 1
+      name: transportation_log_form_page
+      label: Transportation Log Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transportation_route
+      label: transportation_route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transportation_start_time
+      label: transportation_start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transportation_end_time
+      label: transportation_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: transportation_distance
+      label: transportation_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transportation_fuel_used
+      label: transportation_fuel_used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transportation_notes
+      label: transportation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_name
+      label: delivery_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''On Time''}'
+      - '{''id'': 2, ''label'': ''Late''}'
+      - '{''id'': 3, ''label'': ''Missed''}'
+      required: false
+    - id: 11
+      name: vehicle_name
+      label: vehicle_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_reconciliation_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: other_medication_info
+      label: other_medication_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_medication_list
+      label: patient_medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medication_route
+      label: medication_route
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medication_dosage
+      label: dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: medication_frequency_2
+      label: medication_frequency_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medication_route_2
+      label: medication_route_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medication_dosage_2
+      label: medication_dosage_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medication_frequency_3
+      label: medication_frequency_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medication_route_3
+      label: medication_route_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medication_dosage_3
+      label: medication_dosage_3
+      hint: null
+      type: number
+      options: []
+      required: false

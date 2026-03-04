@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inhibition Kinetics Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experiment_title
+      label: Experiment Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: enzyme_name
+      label: Enzyme Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inhibitor_concentration
+      label: Inhibitor Concentration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: substrate_concentration
+      label: Substrate Concentration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reaction_time
+      label: Reaction Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: kinetic_parameters
+      label: Kinetic Parameters
+      hint: null
+      type: select_multiple
+      options:
+      - AUC
+      - kcat
+      - kobs
+      - Ki
+      - kobs/ki
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

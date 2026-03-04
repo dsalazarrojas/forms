@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respiratory Infection Screening Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: Please describe symptoms experienced by the patient
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prophets
+      label: Prophers
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Runny Nose
+      - Sore Throat
+      required: true
+    - id: 4
+      name: treatment_given
+      label: Treatment Given
+      hint: If treatment given, describe
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_results
+      label: Test Results
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: prophers_2
+      label: Prophers 2
+      hint: None
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Runny Nose
+      - Sore Throat
+      required: true
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: Enter patient's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

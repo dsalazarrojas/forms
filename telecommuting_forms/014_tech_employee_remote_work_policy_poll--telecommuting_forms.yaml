@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Employee Remote Work Policy Poll
+    pages:
+    - id: 1
+      name: page1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: Remote Work Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: remote_work_preferences
+      label: What type of remote work arrangement would you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time Remote Work
+      - Flexible Schedule
+      - Compressed Schedule
+      - Telecommute 1-2 days a week
+      - Telecommute 3-4 days a week
+      - Telecommute 5 days a week
+      - No preference
+      required: false
+    - id: 4
+      name: satisfaction_with_remote_work_policy
+      label: Satisfaction with remote work policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_remote_work_policy_score
+      label: How satisfied are you with the remote work policy?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 6
+      name: suggestions_for_improvement
+      label: Do you have any suggestions for improvement?
+      hint: Please provide specific suggestions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

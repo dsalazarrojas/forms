@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Time Off Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User Input 1''}'
+      - '{''label'': ''User Input 2''}'
+      - '{''label'': ''User Input 3''}'
+      required: false
+    - id: 2
+      name: focus_group_name
+      label: focus_group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time_off_start_date
+      label: time_off_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_off_end_date
+      label: time_off_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Meeting''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Conference''}'
+      required: false
+    - id: 6
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Denied''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Bob''}'
+      required: false
+    - id: 8
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 9
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Bob''}'
+      required: false
+    - id: 10
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Support''}'
+      required: false

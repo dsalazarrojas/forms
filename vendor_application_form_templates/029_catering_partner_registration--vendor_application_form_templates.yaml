@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Partner Registration
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Your catering business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: legal_business_name
+      label: Legal Business Name
+      hint: Official registered name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: Physical address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: website
+      label: Website URL
+      hint: Your business website
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: cuisine_specialties
+      label: Cuisine Specialties
+      hint: What do you specialize in
+      type: select_multiple
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - French
+      - Indian
+      - Fusion
+      - Other
+      required: true
+    - id: 15
+      name: service_types
+      label: Service Types
+      hint: What services do you offer
+      type: select_multiple
+      options:
+      - Full Service Catering
+      - Drop-off Catering
+      - Buffet Style
+      - Plated Service
+      - Cocktail Reception
+      - Food Stations
+      - Food Truck
+      - Private Chef
+      required: true
+    - id: 16
+      name: event_types
+      label: Event Types
+      hint: What events do you service
+      type: select_multiple
+      options:
+      - Weddings
+      - Corporate Events
+      - Private Parties
+      - Social Events
+      - Fundraisers
+      - Conferences
+      required: true
+    - id: 17
+      name: capacity
+      label: Maximum Guest Capacity
+      hint: Largest event you can handle
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: service_area
+      label: Service Area
+      hint: Geographic areas served
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: business_license
+      label: Business License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: food_service_permit
+      label: Food Service Permit Number
+      hint: Your permit number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: liability_insurance
+      label: Liability Insurance
+      hint: Do you have insurance
+      type: select_one
+      options:
+      - Yes - Up to $1 Million
+      - Yes - Up to $2 Million
+      - Yes - Over $2 Million
+      - false
+      required: true
+    - id: 22
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: food_safety_certified
+      label: Food Safety Certified
+      hint: Do you have food safety certification
+      type: select_one
+      options:
+      - Yes - All Staff Certified
+      - Yes - Manager Certified
+      - false
+      required: true
+    - id: 24
+      name: health_department_rating
+      label: Health Department Rating
+      hint: Your latest inspection rating
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: references
+      label: Professional References
+      hint: Provide 2-3 references
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: why_partner
+      label: Why Do You Want to Partner
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: commission_acceptable
+      label: Commission Rate Acceptable
+      hint: Are you okay with commission fees
+      type: select_one
+      options:
+      - true
+      - false
+      - Negotiable
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

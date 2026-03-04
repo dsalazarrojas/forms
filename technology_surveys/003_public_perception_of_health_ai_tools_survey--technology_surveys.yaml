@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_perception_of_health_ai_tools_survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your job title or role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Developer'', ''value'': ''1''}'
+      - '{''id'': 2, ''text'': ''Manager'', ''value'': ''2''}'
+      - '{''id'': 3, ''text'': ''Data Scientist'', ''value'': ''3''}'
+      required: true
+    - id: 3
+      name: question_2
+      label: Have you used AI-powered health tools in the past 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': True, ''value'': ''yes''}'
+      - '{''id'': 2, ''text'': False, ''value'': ''no''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How often do you use AI-powered health tools in your work?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Daily'', ''value'': ''daily''}'
+      - '{''id'': 2, ''text'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''id'': 3, ''text'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''id'': 4, ''text'': ''Rarely'', ''value'': ''rarely''}'
+      required: true
+    - id: 5
+      name: question_4
+      label: How would you rate the overall usability of AI-powered health tools?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: What is the main purpose of AI-powered health tools for you?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Data Analysis'', ''value'': ''1''}'
+      - '{''id'': 2, ''text'': ''Predictive Modeling'', ''value'': ''2''}'
+      - '{''id'': 3, ''text'': ''Personalized Medicine'', ''value'': ''3''}'
+      - '{''id'': 4, ''text'': ''Other (please specify)'', ''value'': ''4''}'
+      - '{''id'': 5, ''text'': ''None'', ''value'': ''5''}'
+      required: true
+    - id: 7
+      name: question_6
+      label: How would you rate the accuracy of AI-powered health tools?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Very accurate'', ''value'': ''1''}'
+      - '{''id'': 2, ''text'': ''Somewhat accurate'', ''value'': ''2''}'
+      - '{''id'': 3, ''text'': ''Not very accurate'', ''value'': ''3''}'
+      - '{''id'': 4, ''text'': ''Not at all accurate'', ''value'': ''4''}'
+      - '{''id'': 5, ''text'': ''Unsure'', ''value'': ''5''}'
+      required: true
+    - id: 8
+      name: question_7
+      label: How would you rate the ease of use of AI-powered health tools?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Very easy'', ''value'': ''1''}'
+      - '{''id'': 2, ''text'': ''Somewhat easy'', ''value'': ''2''}'
+      - '{''id'': 3, ''text'': ''Not very easy'', ''value'': ''3''}'
+      - '{''id'': 4, ''text'': ''Not at all easy'', ''value'': ''4''}'
+      - '{''id'': 5, ''text'': ''Unsure'', ''value'': ''5''}'
+      required: true
+    - id: 9
+      name: question_8
+      label: Have you experienced any issues with AI-powered health tools?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': True, ''value'': ''yes''}'
+      - '{''id'': 2, ''text'': False, ''value'': ''no''}'
+      required: false
+    - id: 10
+      name: question_9
+      label: What do you expect from AI-powered health tools in the future?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Improved accuracy'', ''value'': ''1''}'
+      - '{''id'': 2, ''text'': ''Enhanced features'', ''value'': ''2''}'
+      - '{''id'': 3, ''text'': ''Increased efficiency'', ''value'': ''3''}'
+      - '{''id'': 4, ''text'': ''Personalized recommendations'', ''value'': ''4''}'
+      required: false
+    - id: 11
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Fee Agreement Template
+    pages:
+    - id: 1
+      name: service_fee_agreement_template
+      label: Service Fee Agreement Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_label
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agency_contact
+      label: Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_fee
+      label: Service Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_fee_amount
+      label: Service Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_term
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''7 days''}'
+      - '{''option2'': ''14 days''}'
+      - '{''option2'': ''21 days''}'
+      - '{''option3'': ''30 days''}'
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Bank transfer''}'
+      - '{''option2'': ''Check''}'
+      - '{''option3'': ''Credit card''}'
+      required: true
+    - id: 11
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''One-time''}'
+      - '{''option2'': ''Ongoing''}'
+      required: true
+    - id: 12
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''24 hours prior''}'
+      - '{''option2'': ''72 hours prior''}'
+      - '{''option2'': ''48 hours prior''}'
+      - '{''option3'': ''30 days prior''}'
+      required: true
+    - id: 13
+      name: cancellation_fees
+      label: Cancellation Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms_label
+      label: Payment Terms Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms_text
+      label: Payment Terms Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms_frequency
+      label: Payment Terms Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms_amount
+      label: Payment Terms Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: service_fee_agreement
+      label: Service Fee Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 23
+      name: payment_terms_notes
+      label: Payment Terms Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

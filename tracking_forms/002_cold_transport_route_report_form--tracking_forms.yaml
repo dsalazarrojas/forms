@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Transport Route Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of transport route
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: route_number
+      label: Route Number
+      hint: Unique identifier for this route
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: driver_name
+      label: Driver Name
+      hint: Full name of assigned driver
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_id
+      label: Driver ID Number
+      hint: Employee or license ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_registration
+      label: Vehicle Registration Number
+      hint: License plate or vehicle ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: departure_location
+      label: Departure Location
+      hint: Starting point of route
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: arrival_location
+      label: Destination Location
+      hint: Final destination
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: initial_temperature
+      label: Initial Temperature Reading - deg C
+      hint: Temperature at start of route
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: final_temperature
+      label: Final Temperature Reading - deg C
+      hint: Temperature at end of route
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: temperature_excursions
+      label: Temperature Excursions Detected
+      hint: Were there any temperature violations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: excursion_details
+      label: Temperature Excursion Details
+      hint: Describe the incident if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cargo_type
+      label: Cargo Type
+      hint: Category of goods transported
+      type: select_one
+      options:
+      - Pharmaceuticals
+      - Food Products
+      - Biological Materials
+      - Medical Devices
+      - Vaccines
+      - Other
+      required: true
+    - id: 15
+      name: cargo_quantity
+      label: Cargo Weight - kg
+      hint: Total weight of shipment
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: distance_traveled
+      label: Distance Traveled - km
+      hint: Total route distance
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: incidents_reported
+      label: Any Incidents or Delays
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: incident_description
+      label: Incident Description
+      hint: Describe any issues encountered
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_condition
+      label: Vehicle Condition Upon Return
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Minor Issues
+      - Significant Damage
+      - Equipment Malfunction
+      required: true
+    - id: 20
+      name: maintenance_required
+      label: Maintenance Required
+      hint: If applicable, describe needed repairs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: route_status
+      label: Route Status
+      hint: null
+      type: select_one
+      options:
+      - Completed Successfully
+      - Completed with Issues
+      - Partially Completed
+      - Cancelled
+      required: true
+    - id: 22
+      name: driver_signature_consent
+      label: I confirm the accuracy of this report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

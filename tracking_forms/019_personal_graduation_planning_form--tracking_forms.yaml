@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_graduation_planning_form
+    pages:
+    - id: 1
+      name: graduation_planning_form
+      label: graduation_planning_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expected_major
+      label: expected_major
+      hint: null
+      type: select_multiple
+      options:
+      - Computer Science
+      - Business
+      - Arts and Humanities
+      - Social Sciences
+      required: false
+    - id: 4
+      name: graduation_location
+      label: graduation_location
+      hint: null
+      type: select_multiple
+      options:
+      - On Campus
+      - Off Campus
+      - International
+      required: true
+    - id: 5
+      name: graduation_type
+      label: graduation_type
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's
+      - Master's
+      - Ph.D.
+      required: true
+    - id: 6
+      name: graduation_status
+      label: graduation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: graduation_comment
+      label: graduation_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: graduation_phone
+      label: graduation_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_email
+      label: graduation_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: graduation_address
+      label: graduation_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: graduation_postal_code
+      label: graduation_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: graduation_city
+      label: graduation_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: graduation_state
+      label: graduation_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: graduation_country
+      label: graduation_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: graduation_postal_code2
+      label: graduation_postal_code2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: graduation_note
+      label: graduation_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: graduation_additional_info
+      label: graduation_additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

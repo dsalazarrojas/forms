@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Income Declaration Form
+    pages:
+    - id: 1
+      name: tenant_income_declaration_form_page_1
+      label: tenant_income_declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: income_sources
+      label: income_sources
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 3
+      name: income_earned
+      label: income_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: annual_net_income
+      label: annual_net_income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: monthly_net_income
+      label: monthly_net_income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 8
+      name: other_income_sources
+      label: other_income_sources
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 9
+      name: other_income_sources_frequency
+      label: other_income_sources_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 10
+      name: other_income_sources_earned
+      label: other_income_sources_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_income_sources_fully_taxed
+      label: other_income_sources_fully_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: other_income_sources_partially_taxed
+      label: other_income_sources_partially_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: other_income_sources_not_taxed
+      label: other_income_sources_not_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: other_income_sources_total
+      label: other_income_sources_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tax_fully_taxed
+      label: tax_fully_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: tax_partially_taxed
+      label: tax_partially_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tax_not_taxed
+      label: tax_not_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tax_total
+      label: tax_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: other_expenses
+      label: other_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: other_expenses_frequency
+      label: other_expenses_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 21
+      name: other_expenses_earned
+      label: other_expenses_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_expenses_fully_taxed
+      label: other_expenses_fully_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: other_expenses_partially_taxed
+      label: other_expenses_partially_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: other_expenses_not_taxed
+      label: other_expenses_not_taxed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_expenses_total
+      label: other_expenses_total
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Platform Requirements Survey
+    pages:
+    - id: 1
+      name: event_platform
+      label: event_platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Event Management Platforms
+      - Event Marketing Platforms
+      - Web and Video Conferencing
+      - Event and Meeting Management
+      - Registration and Ticketing
+      - Mobile Apps and Event Apps
+      - Content Management and Distribution
+      - Analytics and Reporting
+      - Payment and Invoicing
+      required: false
+    - id: 3
+      name: vendor
+      label: vendor
+      hint: null
+      type: select_multiple
+      options:
+      - Zoom
+      - Eventbrite
+      - B2Begenda
+      - Other
+      required: false
+    - id: 4
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: integration
+      label: integration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      - Virtual
+      - Physical
+      required: false
+    - id: 7
+      name: platform_features
+      label: platform_features
+      hint: null
+      type: select_multiple
+      options:
+      - User Management
+      - Content Management
+      - Payment Management
+      - Reporting and Analytics
+      - Integration
+      required: false
+    - id: 8
+      name: data_retention
+      label: data_retention
+      hint: null
+      type: select_multiple
+      options:
+      - Local
+      - Cloud
+      - Synchronized
+      required: false
+    - id: 9
+      name: data_security
+      label: data_security
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Secure
+      required: false
+    - id: 10
+      name: vendor_support
+      label: vendor_support
+      hint: null
+      type: select_multiple
+      options:
+      - 24/7
+      - Business Hours
+      - No Support
+      required: false
+    - id: 11
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: user_limit
+      label: user_limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: event_limit
+      label: event_limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: user_limit_unit
+      label: user_limit_unit
+      hint: null
+      type: select_one
+      options:
+      - Number of users
+      - Number of events
+      - Other
+      required: false
+    - id: 15
+      name: event_limit_unit
+      label: event_limit_unit
+      hint: null
+      type: select_multiple
+      options:
+      - Per event
+      - Per month
+      - Per year
+      - Other
+      required: false
+    - id: 16
+      name: event_capacity
+      label: event_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_multiple
+      options:
+      - Time Zone 1
+      - Time Zone 2
+      - Other
+      required: false
+    - id: 18
+      name: geo_location
+      label: geo_location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Other
+      required: false
+    - id: 19
+      name: geo_location_country
+      label: geo_location_country
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Other
+      required: false
+    - id: 20
+      name: geo_location_city
+      label: geo_location_city
+      hint: null
+      type: select_multiple
+      options:
+      - City 1
+      - City 2
+      - Other
+      required: false
+    - id: 21
+      name: geo_location_state
+      label: geo_location_state
+      hint: null
+      type: select_multiple
+      options:
+      - State 1
+      - State 2
+      - Other
+      required: false
+    - id: 22
+      name: geo_location_zip
+      label: geo_location_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: geo_location_lat
+      label: geo_location_lat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: geo_location_lon
+      label: geo_location_lon
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: geo_location_accuracy
+      label: geo_location_accuracy
+      hint: null
+      type: select_multiple
+      options:
+      - 10 meters
+      - 100 meters
+      - 1 kilometer
+      - Other
+      required: false

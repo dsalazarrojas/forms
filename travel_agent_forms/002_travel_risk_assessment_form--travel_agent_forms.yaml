@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Risk Assessment Form
+    pages:
+    - id: 1
+      name: traveller_history
+      label: Traveller History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: traveller_name
+      label: travellerName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: traveller_contact_number
+      label: travellersContactNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: traveller_address
+      label: travellersAddress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: traveller_medical_history
+      label: travellersMedicalHistory
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: traveller_medical_notes
+      label: travellersMedicalNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_guidelines
+      label: medicalGuidelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: risk_factor
+      label: riskFactor
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: next_steps
+      label: nextSteps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: risk_assessment_result
+      label: riskAssessmentResult
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: form_submit
+      label: formSubmit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 12
+      name: medical_accommodation
+      label: medicalAccommodation
+      hint: null
+      type: select_one
+      options:
+      - Provide
+      - No Accommodations
+      required: true
+    - id: 13
+      name: accommodation_details
+      label: accommodationDetails
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: travel_documentation
+      label: travelDocumentation
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Not Required
+      required: true
+    - id: 15
+      name: medical_certificate
+      label: medicalCertificate
+      hint: null
+      type: date
+      options: []
+      required: false

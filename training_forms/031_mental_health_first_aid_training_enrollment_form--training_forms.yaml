@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_first_aid_training_enrollment_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''session_date'', ''label'': ''Session Date'', ''hint'':
+        None, ''type'': ''date'', ''options'': []}'
+      - '{''id'': 5, ''name'': ''session_time'', ''label'': ''Session Time'', ''hint'':
+        None, ''type'': ''time'', ''options'': []}'
+      - '{''id'': 6, ''name'': ''session_duration'', ''label'': ''Session Duration'',
+        ''hint'': None, ''type'': ''integer'', ''options'': []}'
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9, ''name'': ''participant_status_option_1'', ''label'': ''Not Started'',
+        ''hint'': None, ''type'': ''text'', ''options'': []}'
+      - '{''id'': 10, ''name'': ''participant_status_option_2'', ''label'': ''In Progress'',
+        ''hint'': None, ''type'': ''text'', ''options'': []}'
+      - '{''id'': 11, ''name'': ''participant_status_option_3'', ''label'': ''Completed'',
+        ''hint'': None, ''type'': ''text'', ''options'': []}'
+      required: false

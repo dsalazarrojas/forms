@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: neurosomatic_breath_client_evaluation_form
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: breath_patterns
+      label: breath_patterns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: breathing_difficulties
+      label: breathing_difficulties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: treatment_plans
+      label: treatment_plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: progress
+      label: progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_goals
+      label: client_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_visit
+      label: next_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: therapist
+      label: therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

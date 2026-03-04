@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Role Specific Training Needs Survey
+    pages:
+    - id: 1
+      name: role_specific_training_needs_survey_page_1
+      label: Role Specific Training Needs Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_specific_training_needs_survey_page_2
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: role_specific_training_needs_survey_page_3
+      label: Skill Levels
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: training_needs_assessment
+      label: Training Needs Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: required_training_topics
+      label: Required Training Topics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommended_training_topics
+      label: Recommended Training Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role_specific_training_needs
+      label: Role Specific Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_needs_description
+      label: Training Needs Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

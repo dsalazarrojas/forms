@@ -1,0 +1,351 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Safety Education Program Evaluation
+    pages:
+      - id: 1
+        name: evaluation_header
+        label: Clinical Safety Education Program Evaluation
+        hint: Please provide feedback on the clinical safety training program you completed
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_id
+        label: Participant ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: null
+        type: select_one
+        options:
+          - Nursing
+          - Medicine
+          - Surgery
+          - Emergency
+          - Pediatrics
+          - ICU
+          - Pharmacy
+          - Laboratory
+          - Radiology
+          - Administration
+          - Other
+        required: true
+      - id: 5
+        name: role
+        label: Your Role
+        hint: null
+        type: select_one
+        options:
+          - Nurse
+          - Physician
+          - Technician
+          - Therapist
+          - Pharmacist
+          - Administrator
+          - Student
+          - Other
+        required: true
+      - id: 6
+        name: training_date
+        label: Training Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: training_type
+        label: Type of Safety Training
+        hint: null
+        type: select_one
+        options:
+          - Infection Control
+          - Patient Safety
+          - Medication Safety
+          - Workplace Safety
+          - Emergency Preparedness
+          - Equipment Safety
+          - Data Security
+          - General Safety Orientation
+          - Other
+        required: true
+      - id: 8
+        name: training_format
+        label: Training Format
+        hint: null
+        type: select_one
+        options:
+          - In-Person Lecture
+          - Hands-On Workshop
+          - Online Self-Paced
+          - Live Virtual
+          - Blended
+          - Simulation-Based
+        required: true
+      - id: 9
+        name: training_duration
+        label: Training Duration
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 hour
+          - 1-2 hours
+          - 2-4 hours
+          - Half Day
+          - Full Day
+          - Multiple Days
+        required: true
+      - id: 10
+        name: content_relevance
+        label: How Relevant Was the Content to Your Role
+        hint: null
+        type: select_one
+        options:
+          - Very Relevant
+          - Relevant
+          - Somewhat Relevant
+          - Not Very Relevant
+          - Not Relevant
+        required: true
+      - id: 11
+        name: content_clarity
+        label: How Clear Was the Content Presentation
+        hint: null
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 12
+        name: material_quality
+        label: Quality of Training Materials
+        hint: Handouts slides resources
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: instructor_knowledge
+        label: Instructor Knowledge of Subject
+        hint: If applicable
+        type: select_one
+        options:
+          - Expert
+          - Very Knowledgeable
+          - Knowledgeable
+          - Somewhat Knowledgeable
+          - Not Knowledgeable
+          - Not Applicable
+        required: false
+      - id: 14
+        name: instructor_effectiveness
+        label: Instructor Teaching Effectiveness
+        hint: If applicable
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Applicable
+        required: false
+      - id: 15
+        name: pace_of_training
+        label: How Was the Pace of Training
+        hint: null
+        type: select_one
+        options:
+          - Too Slow
+          - Slightly Slow
+          - Just Right
+          - Slightly Fast
+          - Too Fast
+        required: true
+      - id: 16
+        name: difficulty_level
+        label: How Would You Rate the Difficulty Level
+        hint: null
+        type: select_one
+        options:
+          - Too Easy
+          - Slightly Easy
+          - Just Right
+          - Slightly Difficult
+          - Too Difficult
+        required: true
+      - id: 17
+        name: engagement_level
+        label: How Engaging Was the Training
+        hint: null
+        type: select_one
+        options:
+          - Very Engaging
+          - Engaging
+          - Somewhat Engaging
+          - Not Very Engaging
+          - Not Engaging
+        required: true
+      - id: 18
+        name: knowledge_gained
+        label: How Much Did You Learn
+        hint: null
+        type: select_one
+        options:
+          - A Great Deal
+          - A Lot
+          - A Moderate Amount
+          - A Little
+          - Nothing
+        required: true
+      - id: 19
+        name: confidence_improvement
+        label: How Much Did Your Confidence Improve
+        hint: In applying safety practices
+        type: select_one
+        options:
+          - Significantly Improved
+          - Moderately Improved
+          - Slightly Improved
+          - No Change
+          - Decreased
+        required: true
+      - id: 20
+        name: practical_application
+        label: How Likely Are You to Apply What You Learned
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Somewhat Likely
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 21
+        name: barriers_to_application
+        label: What Barriers Might Prevent Application
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Time Constraints
+          - Resource Limitations
+          - Staff Shortages
+          - Policy Restrictions
+          - Equipment Issues
+          - Management Support
+          - Other
+        required: false
+      - id: 22
+        name: assessment_fairness
+        label: How Fair Was the Knowledge Assessment
+        hint: If there was a test
+        type: select_one
+        options:
+          - Very Fair
+          - Fair
+          - Somewhat Fair
+          - Unfair
+          - Very Unfair
+          - No Assessment
+        required: false
+      - id: 23
+        name: overall_satisfaction
+        label: Overall Satisfaction with Training
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 24
+        name: met_expectations
+        label: Did the Training Meet Your Expectations
+        hint: null
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Partially Met Expectations
+          - Did Not Meet Expectations
+        required: true
+      - id: 25
+        name: recommend_to_colleagues
+        label: Would You Recommend This Training to Colleagues
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 26
+        name: most_valuable_aspect
+        label: What Was the Most Valuable Aspect
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: least_valuable_aspect
+        label: What Was the Least Valuable Aspect
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: topics_for_improvement
+        label: What Topics Should Be Improved or Added
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: additional_training_needed
+        label: What Additional Training Do You Need
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else about the training
+        type: text
+        options: []
+        required: false

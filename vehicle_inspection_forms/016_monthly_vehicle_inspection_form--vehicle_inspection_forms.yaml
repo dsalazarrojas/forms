@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engine_info
+      label: Engine information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transmission_info
+      label: Transmission information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: brakes_info
+      label: Brakes information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: steering_info
+      label: Steering information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspension_info
+      label: Suspension information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tires_info
+      label: Tires information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: electrical_info
+      label: Electrical information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_info
+      label: Safety information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_info
+      label: Vehicle information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_license_plate
+      label: Vehicle license plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_make_model
+      label: Vehicle make model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_mileage
+      label: Vehicle mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: engine_condition
+      label: Engine condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: engine_type
+      label: Engine type
+      hint: null
+      type: select_one
+      options:
+      - Inline 2.0L
+      - Inline 3.0L
+      - Inline 4.0L
+      required: true
+    - id: 22
+      name: transmission_type
+      label: Transmission type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      required: true
+    - id: 23
+      name: vehicle_condition
+      label: Vehicle condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified
+      required: true
+    - id: 24
+      name: vehicle_use
+      label: Vehicle use
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Commercial
+      - Personal
+      required: true
+    - id: 25
+      name: vehicle_year_made
+      label: Vehicle year made
+      hint: null
+      type: select_one
+      options:
+      - 2000-2002
+      - 2003-2005
+      - 2006-2008
+      - 2009-2010
+      - 2011-2012
+      - 2013-2014
+      - 2015-2016
+      - 2017-2018
+      - 2019-2020
+      - 2021 or newer
+      required: true

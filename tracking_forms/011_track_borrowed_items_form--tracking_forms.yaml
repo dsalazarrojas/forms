@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Track Borrowed Items Form
+    pages:
+    - id: 1
+      name: form_category
+      label: Tracking Forms
+      hint: null
+      type: select_multiple
+      options:
+      - Tracking Forms,Librarian Forms
+      - Other
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_input_1
+      label: Easily keep track of items that students/employee check out from the
+        classroom/office with a clean borrowed items form.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_input_2
+      label: Items
+      hint: null
+      type: select_one
+      options:
+      - Items
+      - Other
+      required: false

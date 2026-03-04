@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Maintenance Checklist
+    pages:
+      - id: 1
+        name: section_maintenance_header
+        label: -- Maintenance Checklist --
+        hint: Log routine maintenance tasks and status
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: technician_name
+        label: Technician name
+        hint: Who performed the maintenance
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: computer_identifier
+        label: Computer identifier
+        hint: Asset tag or serial number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: maintenance_date
+        label: Maintenance date
+        hint: Date of service
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: tasks_performed
+        label: Tasks performed
+        hint: List tasks completed during maintenance
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: software_updates
+        label: Software updates applied
+        hint: Note major updates or patches
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: hardware_checks
+        label: Hardware checks
+        hint: Disk health, fans, connections
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: issues_found
+        label: Issues found
+        hint: Any defects or problems identified
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: next_maintenance_due
+        label: Next maintenance due
+        hint: Recommended next service date
+        type: date
+        options: []
+        required: false

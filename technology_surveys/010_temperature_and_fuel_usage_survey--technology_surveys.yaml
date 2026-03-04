@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature And Fuel Usage Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: heating_type
+      label: Heating type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: thermostat_set_point
+      label: Thermostat set point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hours_heated
+      label: Hours per day used for heating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: energy_type
+      label: Energy type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: heating_fuel_type
+      label: Heating fuel type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: usage_hours_fuel
+      label: Hours usage per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: usage_days_per_month
+      label: Days used per month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: energy_saving_habits
+      label: Energy saving habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: heating_fuel_consumption
+      label: Heating fuel consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: electricity_usage
+      label: Electricity usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: gas_usage
+      label: Gas usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: oil_usage
+      label: Oil usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: coal_usage
+      label: Coal usage
+      hint: null
+      type: number
+      options: []
+      required: false

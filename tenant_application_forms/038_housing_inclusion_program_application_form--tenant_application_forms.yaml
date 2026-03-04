@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Inclusion Program Application Form
+    pages:
+    - id: 1
+      name: individual_or_family
+      label: Individual or Family
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_residence
+      label: Current Residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_move
+      label: Reason for Move
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: housing_status
+      label: Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_location
+      label: Program Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_length
+      label: Program Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

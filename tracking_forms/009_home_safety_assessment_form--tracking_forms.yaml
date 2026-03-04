@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Safety Assessment Form
+    pages:
+    - id: 1
+      name: first_floor
+      label: first floor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: electrical
+      label: Electrical
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: plumbing
+      label: Plumbing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hvac
+      label: HVAC
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: foundation
+      label: foundation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: roof
+      label: roof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exterior
+      label: exterior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interior
+      label: interior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_suppression
+      label: fire suppression
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: emergency_exits
+      label: emergency exits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

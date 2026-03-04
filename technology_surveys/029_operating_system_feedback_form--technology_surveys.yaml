@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operating System Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance
+      label: performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: bugs
+      label: bugs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bugs''}'
+      - '{''value'': ''performance''}'
+      - '{''value'': ''usability''}'
+      required: false
+    - id: 5
+      name: usability
+      label: usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: operating_system_version
+      label: operating_system_version
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''latest''}'
+      - '{''value'': ''previous''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 10
+      name: additional_operating_system_version
+      label: additional_operating_system_version
+      hint: null
+      type: text
+      options: []
+      required: false

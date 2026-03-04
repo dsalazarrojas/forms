@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Verification For Services
+    pages:
+    - id: 1
+      name: school_input
+      label: School Input
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mother''}'
+      - '{''value'': ''Father''}'
+      - '{''value'': ''Guardian 1''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: school_admin
+      label: School Admin
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''School''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Youth Program''}'
+      required: true
+    - id: 9
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Declined''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: school_admin_comments
+      label: School Admin Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: school_admin_signature
+      label: School Admin Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: consent_date_time
+      label: Consent Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: school_signature
+      label: School Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: consent_status_note
+      label: Consent Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: school_admin_note
+      label: School Admin Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: school_verification_status
+      label: School Verification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Declined''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 20
+      name: consent_date_time_note
+      label: Consent Date and Time Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: school_admin_status_note
+      label: School Admin Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_admin_name
+      label: School Admin Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Declined''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 25
+      name: school_verification_note
+      label: Verification Note
+      hint: null
+      type: note
+      options: []
+      required: false

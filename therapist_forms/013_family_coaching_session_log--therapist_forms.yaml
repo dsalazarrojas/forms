@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Coaching Session Log
+    pages:
+    - id: 1
+      name: family_coaching_session_log_form
+      label: Family Coaching Session Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_name
+      label: family_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coach
+      label: coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: focus_areas
+      label: focus_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items
+      label: action_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

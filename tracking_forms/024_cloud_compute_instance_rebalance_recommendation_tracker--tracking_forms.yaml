@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Compute Instance Rebalance Recommendation Tracker
+    pages:
+    - id: 1
+      name: section_recommendation
+      label: -- Recommendation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recommendation_id
+      label: Recommendation ID - Reference Number
+      hint: Unique identifier for this recommendation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: When was this recommendation identified?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: submitted_by
+      label: Submitted By - Name
+      hint: Person identifying this recommendation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_instance
+      label: -- Instance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: instance_id
+      label: Instance ID - Name
+      hint: Cloud instance identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: instance_type
+      label: Current Instance Type
+      hint: Example - t3.large, m5.xlarge
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cloud_provider
+      label: Cloud Provider
+      hint: null
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Other
+      required: true
+    - id: 9
+      name: region
+      label: Region - Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_utilization
+      label: Current CPU Utilization - Percentage
+      hint: Average utilization over recent period
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: memory_utilization
+      label: Current Memory Utilization - Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_recommendation_details
+      label: -- Rebalance Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: recommended_action
+      label: Recommended Action
+      hint: null
+      type: select_one
+      options:
+      - Downsize instance
+      - Upsize instance
+      - Change instance type
+      - Auto-scaling enabled
+      - Consolidate instances
+      - Other
+      required: true
+    - id: 14
+      name: recommended_type
+      label: Recommended Instance Type
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cost_savings
+      label: Estimated Monthly Savings - USD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: performance_impact
+      label: Expected Performance Impact
+      hint: null
+      type: select_one
+      options:
+      - Improvement
+      - No impact
+      - Potential degradation
+      - Unknown
+      required: true
+    - id: 17
+      name: section_ownership
+      label: -- Ownership and Assignment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To - Name
+      hint: Person responsible for action
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: department
+      label: Department - Team
+      hint: Owning team or department
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: email_address
+      label: Assigned Person Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: section_status
+      label: -- Status and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In review
+      - Approved
+      - In progress
+      - Completed
+      - Rejected
+      - On hold
+      required: true
+    - id: 23
+      name: target_date
+      label: Target Implementation Date
+      hint: When should this be done?
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes and Additional Details
+      hint: Any context or blockers
+      type: text
+      options: []
+      required: false

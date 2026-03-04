@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Package Extension Form
+    pages:
+    - id: 1
+      name: customer_request
+      label: Customer request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_package_id
+      label: travel package id
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: new_end_date
+      label: new end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false

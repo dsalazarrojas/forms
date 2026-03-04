@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Verification Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_attended
+      label: School Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: degree_completed
+      label: Degree Completed
+      hint: null
+      type: select_one
+      options:
+      - Associate
+      - Bachelor
+      - Master
+      - Doctoral
+      required: true
+    - id: 5
+      name: field_of_study
+      label: Field of Study
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: education_field
+      label: Education Field
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 7
+      name: graduation_date
+      label: Graduation Date
+      hint: 'null'
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employer_name
+      label: Employer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: employment_duration
+      label: Employment Duration
+      hint: 'null'
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: verification_date
+      label: Verification Date
+      hint: 'null'
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: 'null'
+      type: note
+      options: []
+      required: true

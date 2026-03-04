@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arduino And IoT Usage Survey
+    pages:
+        - id: 1
+          name: section_demographics
+          label: -- Respondent Information --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: respondent_name
+          label: Name
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 3
+          name: organization
+          label: Organization or Company
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 4
+          name: job_title
+          label: Job Title or Role
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 5
+          name: experience_level
+          label: Experience Level with Arduino
+          hint: null
+          type: select_one
+          options:
+            - Beginner
+            - Intermediate
+            - Advanced
+            - Expert
+          required: true
+        - id: 6
+          name: section_usage
+          label: -- Arduino and IoT Usage --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 7
+          name: arduino_boards_used
+          label: Which Arduino boards have you used
+          hint: null
+          type: select_multiple
+          options:
+            - Arduino Uno
+            - Arduino Nano
+            - Arduino Mega
+            - Arduino MKR boards
+            - Arduino Leonardo
+            - Others
+          required: true
+        - id: 8
+          name: primary_use_case
+          label: Primary use case for Arduino projects
+          hint: null
+          type: select_one
+          options:
+            - Education or learning
+            - Hobbyist projects
+            - Commercial development
+            - Industrial automation
+            - Research
+          required: true
+        - id: 9
+          name: iot_platforms_used
+          label: IoT platforms or ecosystems you use
+          hint: null
+          type: select_multiple
+          options:
+            - Arduino IoT Cloud
+            - AWS IoT
+            - Google Cloud IoT
+            - Microsoft Azure IoT
+            - Raspberry Pi ecosystem
+            - Custom solutions
+          required: false
+        - id: 10
+          name: connectivity_protocols
+          label: Connectivity protocols used
+          hint: null
+          type: select_multiple
+          options:
+            - WiFi
+            - Bluetooth
+            - LoRaWAN
+            - Cellular LTE
+            - Zigbee
+            - NB-IoT
+          required: true
+        - id: 11
+          name: sensor_types
+          label: Types of sensors typically integrated
+          hint: null
+          type: select_multiple
+          options:
+            - Temperature and humidity
+            - Motion and proximity
+            - Light and color
+            - Sound and vibration
+            - Air quality
+            - Pressure and altitude
+          required: false
+        - id: 12
+          name: project_frequency
+          label: How often do you work on Arduino projects
+          hint: null
+          type: select_one
+          options:
+            - Daily
+            - Several times a week
+            - Weekly
+            - Monthly
+            - Occasionally
+          required: true
+        - id: 13
+          name: section_challenges
+          label: -- Challenges and Support --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 14
+          name: main_challenges
+          label: Main challenges encountered
+          hint: null
+          type: select_multiple
+          options:
+            - Hardware compatibility
+            - Network connectivity
+            - Power management
+            - Data security
+            - Software debugging
+            - Scaling solutions
+          required: false
+        - id: 15
+          name: resource_satisfaction
+          label: Satisfaction with available documentation and support
+          hint: null
+          type: select_one
+          options:
+            - Very satisfied
+            - Satisfied
+            - Neutral
+            - Dissatisfied
+            - Very dissatisfied
+          required: true
+        - id: 16
+          name: improvement_areas
+          label: Areas for improvement in Arduino ecosystem
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 17
+          name: contact_email
+          label: Email Address
+          hint: For follow-up questions
+          type: email
+          options: []
+          required: false
+        - id: 18
+          name: share_contact
+          label: May we contact you about future surveys
+          hint: null
+          type: select_one
+          options:
+            - Yes
+            - No
+          required: true

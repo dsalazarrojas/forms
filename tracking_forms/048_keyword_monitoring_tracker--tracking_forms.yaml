@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Keyword Monitoring Tracker
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: keyword_input
+      label: Keyword Input
+      hint: Enter keyword to monitor
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: platform_input
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Google''}'
+      - '{''name'': ''Bing''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: search_engine_input
+      label: Search Engine
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Google''}'
+      - '{''name'': ''Bing''}'
+      - '{''name'': ''Yahoo''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: frequency_input
+      label: Monitor Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''daily''}'
+      - '{''name'': ''weekly''}'
+      - '{''name'': ''monthly''}'
+      required: false
+    - id: 6
+      name: alert_frequency_input
+      label: Alert Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''never''}'
+      - '{''name'': ''daily''}'
+      - '{''name'': ''weekly''}'
+      - '{''name'': ''monthly''}'
+      required: false
+    - id: 7
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: keyword_monitoring_tracker_id
+      label: Tracker ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Technology Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: primary_software
+      label: Primary accounting software
+      hint: Main system used for accounting tasks
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cloud_vs_onprem
+      label: Cloud versus on premise use
+      hint: Where systems are hosted
+      type: select_one
+      options:
+      - Cloud
+      - On premise
+      - Hybrid
+      required: true
+    - id: 5
+      name: frequency_of_upgrades
+      label: Frequency of upgrades
+      hint: How often systems are updated
+      type: select_one
+      options:
+      - Quarterly
+      - Annually
+      - Rarely
+      required: false
+    - id: 6
+      name: integration_maturity
+      label: Integration maturity
+      hint: Level of integration with other systems
+      type: select_one
+      options:
+      - Fully integrated
+      - Partially integrated
+      - Not integrated
+      required: true
+    - id: 7
+      name: automation_use_cases
+      label: Automation use cases
+      hint: Areas where automation is used
+      type: select_multiple
+      options:
+      - Invoicing
+      - Bank reconciliation
+      - Payroll
+      - Reporting
+      required: false
+    - id: 8
+      name: data_security_concerns
+      label: Data security concerns
+      hint: Main concerns about data security
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_for_technology
+      label: Budget for technology
+      hint: Annual budget for accounting technology
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_provisions
+      label: Training provisions for staff
+      hint: Is formal training provided for new tools
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: top_priorities
+      label: Top technology priorities
+      hint: Up to three priorities for the next year
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback about accounting technology
+      type: text
+      options: []
+      required: false

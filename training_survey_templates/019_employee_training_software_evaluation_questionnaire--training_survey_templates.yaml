@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_training_software_evaluation_questionnaire
+    pages:
+    - id: 1
+      name: training_software
+      label: Training Platform
+      hint: null
+      type: select_one
+      options:
+      - Software A
+      - Software B
+      - Software C
+      required: true
+    - id: 2
+      name: satisfaction
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: adoption
+      label: Training Adoption
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

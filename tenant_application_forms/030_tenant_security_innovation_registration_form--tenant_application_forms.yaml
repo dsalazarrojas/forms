@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Security Innovation Registration Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenants Name
+      hint: Enter tenant name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_entry
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: security_program
+      label: Security Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Enter city name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_innovation
+      label: Security Innovation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: security_innovation_other
+      label: Other Security Innovation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: security_innovation_other_details
+      label: Other Security Innovation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: security_innovation_other_agreement
+      label: Other Security Innovation Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

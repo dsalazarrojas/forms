@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospital_digital_innovation_readiness_survey
+    pages:
+    - id: 1
+      name: hospital_innovation_readiness
+      label: What is the current state of digital transformation in your hospital?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_infrastructure
+      label: What is your current IT infrastructure like?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: data_platform
+      label: What data platforms do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon Web Services
+      - Google Cloud Platform
+      - Microsoft Azure
+      - Other
+      required: false
+    - id: 4
+      name: innovation_budget
+      label: What is your innovation budget allocated for the next year?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: digital_innovation_team
+      label: Who is the digital innovation team?
+      hint: null
+      type: select_multiple
+      options:
+      - CIO and team members
+      - Other
+      required: true
+    - id: 6
+      name: digital_transformation_strategy
+      label: What is the digital transformation strategy?
+      hint: null
+      type: select_one
+      options:
+      - Cloud-first strategy
+      - Cloud-optional strategy
+      - Hybrid strategy
+      - No digital transformation strategy
+      required: true
+    - id: 7
+      name: change_management
+      label: How do you manage change in your hospital?
+      hint: null
+      type: select_one
+      options:
+      - Top-down approach
+      - Bottom-up approach
+      - Other
+      required: true
+    - id: 8
+      name: digital_skills_development
+      label: What is the current state of digital skills development in your hospital?
+      hint: null
+      type: select_multiple
+      options:
+      - In-house development
+      - External development
+      - Other
+      required: false
+    - id: 9
+      name: innovation_culture
+      label: What is the innovation culture of your hospital?
+      hint: null
+      type: select_multiple
+      options:
+      - Innovative culture
+      - Traditional culture
+      - Other
+      required: false
+    - id: 10
+      name: digital_data_security
+      label: What is your approach to data security?
+      hint: null
+      type: select_one
+      options:
+      - High level of security
+      - Medium level of security
+      - Low level of security
+      required: true
+    - id: 11
+      name: digital_innovation_readiness_score
+      label: What is your current digital innovation readiness score?
+      hint: null
+      type: number
+      options: []
+      required: true

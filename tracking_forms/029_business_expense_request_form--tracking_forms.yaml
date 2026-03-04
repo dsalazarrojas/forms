@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Request Form
+    pages:
+    - id: 1
+      name: requestor_section
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Your direct manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_section
+      label: -- Expense Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expense_type
+      label: Type of Expense
+      hint: What is being requested?
+      type: select_one
+      options:
+      - Travel - Airfare
+      - Travel - Mileage
+      - Travel - Lodging
+      - Meals and Entertainment
+      - Office Supplies
+      - Equipment
+      - Training and Conferences
+      - Client Reimbursement
+      - Other
+      required: true
+    - id: 10
+      name: expense_description
+      label: Detailed Description
+      hint: Describe the expense in detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_amount
+      label: Estimated Amount
+      hint: Estimated cost
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: justification_section
+      label: -- Business Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: business_purpose
+      label: Business Purpose
+      hint: Why is this expense necessary?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expected_benefit
+      label: Expected Business Benefit
+      hint: How will this benefit the company?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: alternative_options
+      label: Alternative options considered
+      hint: Why is this the best option?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: timeline_section
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: expense_date
+      label: When is this expense needed?
+      hint: Expected date of expense
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 19
+      name: project_section
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: project_code
+      label: Project Code
+      hint: If applicable, project or cost center code
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_name
+      label: Project Name
+      hint: If applicable, which project?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_name
+      label: Client Name (if applicable)
+      hint: Client or customer name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_section
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: budget_allocated
+      label: Is this budgeted?
+      hint: Is funding already allocated?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information?
+      type: text
+      options: []
+      required: false

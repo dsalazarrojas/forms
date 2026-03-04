@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tire Contact Patch Measurement Form
+    pages:
+    - id: 1
+      name: contact_patch_measurement_form_data
+      label: Tire Contact Patch Measurement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tire_size
+      label: Tire Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 16}'
+      - '{''value'': 17}'
+      - '{''value'': 18}'
+      required: false
+    - id: 4
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''shop1''}'
+      - '{''value'': ''shop2''}'
+      - '{''value'': ''shop3''}'
+      required: false
+    - id: 5
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patch_measurement_1
+      label: Patch Measurement 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: patch_measurement_2
+      label: Patch Measurement 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patch_measurement_3
+      label: Patch Measurement 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_measured
+      label: Date Measured
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_measured
+      label: Time Measured
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: measured_by
+      label: Measured By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other_technician''}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

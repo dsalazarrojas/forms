@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Waybill Form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: shipment_type
+      label: Shipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shipment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: shipper_details
+      label: Shipper Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipper_contact
+      label: Shipper Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipment_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: shipment_address
+      label: Shipment Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipment_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipment_notes
+      label: Shipment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipper_email
+      label: Shipper E-Mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipper_city
+      label: Shipper City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipper_state
+      label: Shipper State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: shipper_postal_code
+      label: Shipper Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipper_country
+      label: Shipper Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipper_shipping_service_provider
+      label: Shipper Shipping Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipper_shipping_service_provider_contact
+      label: Shipper Shipping Service Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipper_shipping_service_provider_phone
+      label: Shipper Shipping Service Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipper_shipping_service_provider_address
+      label: Shipper Shipping Service Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipper_shipping_service_provider_country
+      label: Shipper Shipping Service Provider Country
+      hint: null
+      type: text
+      options: []
+      required: false

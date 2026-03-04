@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Intubation Checklist Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: intubation_date
+      label: Date of Intubation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: intubation_time
+      label: Time of Intubation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: section_pre_intubation
+      label: -- Pre-Intubation Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: oxygen_saturation_pre
+      label: Oxygen Saturation - Pre-Intubation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: heart_rate_pre
+      label: Heart Rate - Pre-Intubation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: blood_pressure_pre
+      label: Blood Pressure - Pre-Intubation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: respiratory_rate_pre
+      label: Respiratory Rate - Pre-Intubation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_intubation_procedure
+      label: -- Intubation Procedure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: intubation_route
+      label: Route of Intubation
+      hint: null
+      type: select_one
+      options:
+      - Oral
+      - Nasal
+      - Surgical
+      - Other
+      required: true
+    - id: 14
+      name: tube_size
+      label: Tube Size (mm)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: tube_depth
+      label: Tube Depth at Teeth (cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: tube_confirmation
+      label: Tube Placement Confirmed By
+      hint: null
+      type: select_multiple
+      options:
+      - Chest X-ray
+      - Capnography
+      - Auscultation
+      - Visualization
+      - Ultrasound
+      required: true
+    - id: 17
+      name: section_post_intubation
+      label: -- Post-Intubation Monitoring --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: oxygen_saturation_post
+      label: Oxygen Saturation - Post-Intubation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: ventilator_mode
+      label: Ventilator Mode
+      hint: null
+      type: select_one
+      options:
+      - AC/VC
+      - AC/PC
+      - SIMV
+      - PSV
+      - Other
+      required: true
+    - id: 20
+      name: sedation_given
+      label: Sedation Administered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: complications
+      label: Any Immediate Complications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_clinical_notes
+      label: -- Clinical Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: clinical_notes
+      label: Additional Clinical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: provider_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

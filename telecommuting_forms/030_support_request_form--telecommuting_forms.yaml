@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: support_request_form
+    pages:
+    - id: 1
+      name: support_request
+      label: Support Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Bug''}'
+      - '{''option2'': ''Feature''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Describe your problem in detail
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_group
+      label: Support Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Group1''}'
+      - '{''option2'': ''Group2''}'
+      - '{''option3'': ''Group3''}'
+      required: false
+    - id: 7
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Jimmy''}'
+      - '{''option2'': ''John''}'
+      - '{''option3'': ''Jane''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

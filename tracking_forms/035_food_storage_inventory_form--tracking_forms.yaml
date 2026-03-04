@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Storage Inventory Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Food Storage Inventory Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_item
+      label: food-item
+      hint: null
+      type: select_one
+      options:
+      - Food A
+      - Food B
+      - Food C
+      required: false
+    - id: 3
+      name: amount_on_hand
+      label: amount-on-hand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amount_needed
+      label: amount-needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchases
+      label: purchases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Tracking Forms
+      - Food Forms
+      - Admin Forms
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

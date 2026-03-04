@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Chiropractic Treatment Intake Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_visit
+      label: Reason for visit
+      hint: Describe current complaint or injury
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pain_scale
+      label: Pain level from 0 to 10
+      hint: 0 no pain, 10 worst pain
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: medical_history
+      label: Relevant medical history
+      hint: Surgeries, chronic conditions, medications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_treatment
+      label: Previous chiropractic or physical therapy
+      hint: Provide dates and provider name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_treatment
+      label: Consent to treatment
+      hint: Agree to manual therapy and adjustments
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Name and relation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

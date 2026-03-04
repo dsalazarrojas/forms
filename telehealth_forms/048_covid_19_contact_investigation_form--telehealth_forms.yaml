@@ -1,0 +1,348 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Contact Investigation Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: interview_date
+      label: Interview Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: interviewer_name
+      label: Interviewer Name
+      hint: Health department staff
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: case_id
+      label: Associated Case ID
+      hint: Index case number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: index_case_name
+      label: Index Case Name
+      hint: Person who exposed you
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: relationship_to_case
+      label: Relationship to Case
+      hint: How do you know them
+      type: select_one
+      options:
+      - Household member
+      - Family member
+      - Friend
+      - Coworker
+      - Classmate
+      - Healthcare provider
+      - Customer or client
+      - Stranger
+      - Other
+      required: true
+    - id: 15
+      name: exposure_date
+      label: Exposure Date
+      hint: When were you exposed
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: exposure_setting
+      label: Exposure Setting
+      hint: Where did exposure occur
+      type: select_one
+      options:
+      - Household
+      - Workplace
+      - School or daycare
+      - Healthcare facility
+      - Social gathering
+      - Restaurant or bar
+      - Public transportation
+      - Retail store
+      - Other
+      required: true
+    - id: 17
+      name: exposure_details
+      label: Exposure Details
+      hint: Describe the exposure
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: exposure_duration
+      label: Exposure Duration
+      hint: How long were you together
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30 minutes to 2 hours
+      - 2-8 hours
+      - More than 8 hours
+      - Multiple days
+      required: true
+    - id: 19
+      name: close_contact
+      label: Close Contact
+      hint: Within 6 feet for 15+ minutes
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: mask_worn
+      label: Mask Worn During Exposure
+      hint: By either person
+      type: select_one
+      options:
+      - Yes - Both wore masks
+      - Yes - One wore mask
+      - No - Neither wore mask
+      - Unsure
+      required: true
+    - id: 21
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea
+      required: true
+    - id: 22
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: If symptomatic
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: tested_for_covid
+      label: Tested for COVID-19
+      hint: Have you been tested
+      type: select_one
+      options:
+      - Yes - Positive
+      - Yes - Negative
+      - Yes - Pending
+      - No - Not tested
+      required: true
+    - id: 24
+      name: test_date
+      label: Test Date
+      hint: When was test
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: test_type
+      label: Test Type
+      hint: PCR or antigen
+      type: select_one
+      options:
+      - PCR
+      - Antigen
+      - Antibody
+      - Unknown
+      required: false
+    - id: 26
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 27
+      name: high_risk_condition
+      label: High Risk Medical Condition
+      hint: Increases COVID risk
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 28
+      name: quarantine_status
+      label: Quarantine Status
+      hint: Are you quarantining
+      type: select_one
+      options:
+      - Yes - At home
+      - Yes - At facility
+      - No - Unable to quarantine
+      - No - Not required
+      required: true
+    - id: 29
+      name: quarantine_start_date
+      label: Quarantine Start Date
+      hint: When did quarantine begin
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: quarantine_end_date
+      label: Quarantine End Date
+      hint: When can you end quarantine
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: quarantine_support_needed
+      label: Quarantine Support Needed
+      hint: Do you need assistance
+      type: select_one
+      options:
+      - false
+      - Yes - Food delivery
+      - Yes - Medical care
+      - Yes - Housing
+      - Yes - Financial assistance
+      - Yes - Multiple needs
+      required: true
+    - id: 32
+      name: monitoring_method
+      label: Monitoring Method
+      hint: How will you be monitored
+      type: select_one
+      options:
+      - Daily phone calls
+      - Daily text messages
+      - Self-monitoring
+      - In-person visits
+      required: true
+    - id: 33
+      name: additional_contacts
+      label: Additional Close Contacts
+      hint: Others you may have exposed
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: interviewer_notes
+      label: Interviewer Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional contact needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to check in
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: contact_signature
+      label: Contact Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: interviewer_signature
+      label: Interviewer Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

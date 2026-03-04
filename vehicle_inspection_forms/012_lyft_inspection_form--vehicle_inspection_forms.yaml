@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lyft Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vin
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: safety_items
+      label: safety_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: safety_items_other
+      label: safety_items_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false

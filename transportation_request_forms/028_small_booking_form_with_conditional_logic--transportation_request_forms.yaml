@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_booking_form_with_conditional_logic
+    pages:
+    - id: 1
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_class
+      label: Travel Class
+      hint: Economy, First Class, Business
+      type: select_one
+      options:
+      - Economy
+      - First Class
+      - Business
+      required: false
+    - id: 5
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pickup_dropoff
+      label: Pickup/Dropoff
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Dropoff
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

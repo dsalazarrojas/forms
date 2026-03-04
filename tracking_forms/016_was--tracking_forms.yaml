@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: WAS
+    pages:
+    - id: 1
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: week_start_date
+      label: Week start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: director_comments
+      label: Director comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_comments
+      label: Team comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_name_label
+      label: Team name label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: week_number
+      label: Week number
+      hint: null
+      type: number
+      options: []
+      required: false

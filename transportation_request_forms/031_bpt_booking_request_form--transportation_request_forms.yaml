@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: BPT Booking Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business or organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pickup_date
+      label: Pickup Date
+      hint: When should the delivery be picked up?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_time
+      label: Preferred Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pickup_location
+      label: Pickup Location Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: When should it be delivered?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_time_window
+      label: Delivery Time Window
+      hint: Preferred delivery time
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_location
+      label: Delivery Location Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_zip
+      label: State and ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_description
+      label: Item Description
+      hint: What is being delivered?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: item_weight
+      label: Weight
+      hint: In pounds or kilograms
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_dimensions
+      label: Dimensions
+      hint: Length x Width x Height
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_handling
+      label: Special Handling Required?
+      hint: Fragile, temperature controlled, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Delivery
+      - Express Delivery
+      - Same-day Delivery
+      - Scheduled Delivery
+      - Pickup Only
+      required: true
+    - id: 19
+      name: signature_required
+      label: Signature Required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Additional delivery notes
+      type: text
+      options: []
+      required: false

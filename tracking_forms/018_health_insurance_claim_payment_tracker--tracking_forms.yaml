@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Payment Tracker
+    pages:
+    - id: 1
+      name: health_insurance_claim_payment_tracker_form
+      label: Health Insurance Claim Payment Tracker Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_id
+      label: Claim ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Processing
+      - Paid
+      - Denied
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 10
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_update_status
+      label: Document Update Status
+      hint: null
+      type: select_one
+      options:
+      - Not Required
+      - Required
+      - Completed
+      required: false
+    - id: 13
+      name: reimbursement_fund
+      label: Reimbursement Fund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false

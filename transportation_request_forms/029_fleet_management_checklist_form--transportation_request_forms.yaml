@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet-management-checklist-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Fleet Management Checklist Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_status
+      label: vehicle status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''sold''}'
+      - '{''id'': 4, ''name'': ''scrapped''}'
+      required: true
+    - id: 3
+      name: maintenance_date
+      label: Maintenance Date
+      hint: Date of last maintenance
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fuel_level
+      label: fuel level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tire_condition
+      label: Tire Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: true
+    - id: 8
+      name: brake_condition
+      label: Brake Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: true
+    - id: 9
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: true
+    - id: 10
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''completed''}'
+      - '{''id'': 2, ''name'': ''not completed''}'
+      - '{''id'': 3, ''name'': ''overdue''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: true
+    - id: 11
+      name: driver_qualification
+      label: Driver Qualification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''valid''}'
+      - '{''id'': 2, ''name'': ''invalid''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: true
+    - id: 12
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''registered''}'
+      - '{''id'': 2, ''name'': ''not registered''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 13
+      name: driver_licensing
+      label: Driver Licensing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''valid''}'
+      - '{''id'': 2, ''name'': ''invalid''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 14
+      name: safety_inspection
+      label: Safety Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''completed''}'
+      - '{''id'': 2, ''name'': ''not completed''}'
+      - '{''id'': 3, ''name'': ''overdue''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: false
+    - id: 15
+      name: vehicle_identification
+      label: Vehicle Identification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''valid''}'
+      - '{''id'': 2, ''name'': ''invalid''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 16
+      name: vehicle_certification
+      label: Vehicle Certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''valid''}'
+      - '{''id'': 2, ''name'': ''invalid''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 17
+      name: fuel_record
+      label: Fuel Record
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''completed''}'
+      - '{''id'': 2, ''name'': ''not completed''}'
+      - '{''id'': 3, ''name'': ''overdue''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: false
+    - id: 18
+      name: tire_pressure
+      label: Tire Pressure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''correct''}'
+      - '{''id'': 2, ''name'': ''low''}'
+      - '{''id'': 3, ''name'': ''high''}'
+      - '{''id'': 4, ''name'': ''unknown''}'
+      required: false
+    - id: 19
+      name: emergency_kit
+      label: Emergency Kit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 20
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 21
+      name: first_aid_kit
+      label: First Aid Kit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 22
+      name: reflective_vests
+      label: Reflective Vests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 23
+      name: safety_helmets
+      label: Safety Helmets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 24
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 25
+      name: other_equipment
+      label: Other Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''absent''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false

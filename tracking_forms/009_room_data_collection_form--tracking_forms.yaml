@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Room Data Collection Form
+    pages:
+    - id: 1
+      name: room_data_collection
+      label: Room Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: occupancy_details
+      label: Occupancy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_photos
+      label: Room Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_features
+      label: Room Features
+      hint: null
+      type: select_multiple
+      options:
+      - Building
+      - Classroom
+      - Office
+      - Other
+      required: false
+    - id: 5
+      name: room_status
+      label: Room Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Vacant
+      required: false
+    - id: 6
+      name: room_name
+      label: Room Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: room_description
+      label: Room Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: building_id
+      label: Building ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: floor_level
+      label: Floor Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: room_size_sqft
+      label: Room Size SQFT
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: room_status_comments
+      label: Room Status Comments
+      hint: null
+      type: note
+      options: []
+      required: false

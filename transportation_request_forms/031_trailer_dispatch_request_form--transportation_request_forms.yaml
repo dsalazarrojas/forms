@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trailer Dispatch Request Form
+    pages:
+    - id: 1
+      name: trailer_dispatch_request_form_page_1
+      label: Trailer Type
+      hint: null
+      type: select_one
+      options:
+      - Dry Van Trailer
+      - Reefer Trailer
+      - Flatbed Trailer
+      required: true
+    - id: 2
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dispatch_date
+      label: dispatch_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: driver_name
+      label: driver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_phone
+      label: driver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trailer_number
+      label: trailer_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipment_number
+      label: shipment_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_weight
+      label: shipment_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: trailer_size
+      label: trailer_size
+      hint: null
+      type: select_one
+      options:
+      - 48 ft
+      - 53 ft
+      - 63 ft
+      required: true
+    - id: 11
+      name: shipment_details
+      label: shipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trailer_capacity
+      label: trailer_capacity
+      hint: null
+      type: select_one
+      options:
+      - 20 tons
+      - 40 tons
+      - 50 tons
+      required: true
+    - id: 14
+      name: shipment_value
+      label: shipment_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: shipment_terms
+      label: shipment_terms
+      hint: null
+      type: select_one
+      options:
+      - FTL
+      - LTL
+      - TL
+      required: true
+    - id: 16
+      name: broker_info
+      label: broker_info
+      hint: null
+      type: select_one
+      options:
+      - Carrier
+      - Broker
+      required: false
+    - id: 17
+      name: shipment_status
+      label: shipment_status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Scheduled
+      - Delivered
+      required: true
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trailer_notes
+      label: trailer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: carrier_info
+      label: carrier_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: carrier_phone
+      label: carrier_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipment_image_url
+      label: shipment_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipment_image_url_2
+      label: shipment_image_url_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipment_image_url_3
+      label: shipment_image_url_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipment_image_url_4
+      label: shipment_image_url_4
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Safety Training Form
+    pages:
+    - id: 1
+      name: training_date
+      label: Training Date
+      hint: Date of training session
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: training_type
+      label: Training Type
+      hint: Type of safety training
+      type: select_one
+      options:
+      - New Employee Orientation
+      - OSHA 10-Hour
+      - OSHA 30-Hour
+      - Fall Protection
+      - Scaffolding Safety
+      - Excavation and Trenching
+      - Electrical Safety
+      - Hazard Communication
+      - Lockout Tagout
+      - Confined Space
+      - Crane and Rigging
+      - Forklift Operation
+      - Fire Safety
+      - First Aid and CPR
+      - Toolbox Talk
+      - Other
+      required: true
+    - id: 3
+      name: trainer_name
+      label: Trainer Name
+      hint: Name of trainer or instructor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trainer_credentials
+      label: Trainer Credentials
+      hint: Qualifications or certification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Company conducting training
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Associated project if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_location
+      label: Training Location
+      hint: Where training was held
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: training_duration
+      label: Training Duration
+      hint: Length of training session
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - Full Day (8+ hours)
+      - Multi-Day
+      required: true
+    - id: 9
+      name: participant_name
+      label: Participant Name
+      hint: Trainee full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_employee_id
+      label: Participant Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_company
+      label: Participant Company
+      hint: Employer name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_job_title
+      label: Participant Job Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years of Experience
+      hint: In construction industry
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 to 15 years
+      - More than 15 years
+      required: false
+    - id: 14
+      name: previous_training
+      label: Previous Safety Training
+      hint: Have you had similar training before
+      type: select_one
+      options:
+      - Yes, Within 1 Year
+      - Yes, 1 to 3 Years Ago
+      - Yes, More Than 3 Years Ago
+      - No, First Time
+      required: true
+    - id: 15
+      name: training_topics_covered
+      label: Topics Covered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hazard Recognition
+      - PPE Requirements
+      - Emergency Procedures
+      - Equipment Safety
+      - Fall Protection
+      - Electrical Safety
+      - Excavation Safety
+      - Material Handling
+      - Fire Prevention
+      - First Aid
+      - Other
+      required: true
+    - id: 16
+      name: hands_on_component
+      label: Hands-On Component Included
+      hint: Was practical training included
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: training_materials_provided
+      label: Training Materials Provided
+      hint: Were handouts or materials given
+      type: select_one
+      options:
+      - Yes, Comprehensive
+      - Yes, Basic
+      - false
+      required: false
+    - id: 18
+      name: comprehension_check
+      label: Comprehension Check
+      hint: Was understanding verified
+      type: select_one
+      options:
+      - Written Test
+      - Oral Quiz
+      - Practical Demonstration
+      - None
+      required: false
+    - id: 19
+      name: test_score
+      label: Test Score
+      hint: Percentage if test was given
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: training_effectiveness
+      label: Rate Training Effectiveness
+      hint: How would you rate this training
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: trainer_effectiveness
+      label: Rate Trainer Effectiveness
+      hint: How would you rate the trainer
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: certification_earned
+      label: Certification Earned
+      hint: Did you receive certification
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 23
+      name: certification_expiry
+      label: Certification Expiry Date
+      hint: When does certification expire
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_training_needed
+      label: Additional Training Needed
+      hint: What other training do you need
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_comments
+      label: Participant Comments
+      hint: Any feedback on the training
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: trainer_signature
+      label: Trainer Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

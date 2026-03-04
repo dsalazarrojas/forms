@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Weekly Accountability Sheet
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of the contractor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_id
+      label: Contractor ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_week_info
+      label: -- Week Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: week_start_date
+      label: Week Starting Date
+      hint: Monday of the reporting week
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: week_end_date
+      label: Week Ending Date
+      hint: Friday or last day of the week
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_name
+      label: Primary Project Name
+      hint: Main project assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Reporting manager
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_daily_log
+      label: -- Daily Activity Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: monday_tasks
+      label: Monday Tasks
+      hint: What did you work on Monday
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: monday_hours
+      label: Monday Hours Worked
+      hint: Total hours for Monday
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: tuesday_tasks
+      label: Tuesday Tasks
+      hint: What did you work on Tuesday
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tuesday_hours
+      label: Tuesday Hours Worked
+      hint: Total hours for Tuesday
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: wednesday_tasks
+      label: Wednesday Tasks
+      hint: What did you work on Wednesday
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: wednesday_hours
+      label: Wednesday Hours Worked
+      hint: Total hours for Wednesday
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: thursday_tasks
+      label: Thursday Tasks
+      hint: What did you work on Thursday
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: thursday_hours
+      label: Thursday Hours Worked
+      hint: Total hours for Thursday
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: friday_tasks
+      label: Friday Tasks
+      hint: What did you work on Friday
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: friday_hours
+      label: Friday Hours Worked
+      hint: Total hours for Friday
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: saturday_tasks
+      label: Saturday Tasks
+      hint: What did you work on Saturday if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: saturday_hours
+      label: Saturday Hours Worked
+      hint: Total hours for Saturday
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sunday_tasks
+      label: Sunday Tasks
+      hint: What did you work on Sunday if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sunday_hours
+      label: Sunday Hours Worked
+      hint: Total hours for Sunday
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_weekly_totals
+      label: -- Weekly Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: total_hours_week
+      label: Total Hours This Week
+      hint: Sum of all hours worked
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: overtime_hours
+      label: Overtime Hours
+      hint: Any overtime hours worked
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: section_goals
+      label: -- Goals and Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: goals_accomplished
+      label: Goals Accomplished This Week
+      hint: What did you complete
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: goals_next_week
+      label: Goals for Next Week
+      hint: What do you plan to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: challenges_faced
+      label: Challenges or Obstacles Faced
+      hint: Any issues encountered
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: support_needed
+      label: Support or Resources Needed
+      hint: What do you need help with
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_notes
+      label: -- Additional Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: safety_incidents
+      label: Any Safety Incidents This Week
+      hint: Report any accidents or near-misses
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: equipment_issues
+      label: Equipment Issues or Needs
+      hint: Any equipment problems or requests
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: submission_date
+      label: Submission Date
+      hint: Date this form is submitted
+      type: date
+      options: []
+      required: true

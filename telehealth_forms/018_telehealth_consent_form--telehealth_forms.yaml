@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: telehealth_consent_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature_time
+      label: Time of Signature
+      hint: null
+      type: time
+      options: []
+      required: false

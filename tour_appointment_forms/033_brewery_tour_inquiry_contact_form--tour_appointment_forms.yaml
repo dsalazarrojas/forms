@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Tour Inquiry Contact Form
+    pages:
+    - id: 1
+      name: inquiry_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inquiry_email
+      label: Email Address
+      hint: Your email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: inquiry_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Company
+      hint: Your business or group name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What are you interested in
+      type: select_one
+      options:
+      - Group brewery tour
+      - Private tour booking
+      - Corporate event
+      - Educational group
+      - General information
+      - Custom tour request
+      required: true
+    - id: 6
+      name: group_size
+      label: Expected Group Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: preferred_dates
+      label: Preferred Tour Dates
+      hint: Dates that work for you
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_flexibility
+      label: Are Your Dates Flexible
+      hint: Flexibility for scheduling
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Limited flexibility
+      - Specific dates required
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Tour Time
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 10
+      name: tour_duration
+      label: Preferred Tour Duration
+      hint: How long should the tour be
+      type: select_one
+      options:
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3+ hours
+      - No preference
+      required: false
+    - id: 11
+      name: tour_type
+      label: Tour Type Interest
+      hint: Select your tour preference
+      type: select_one
+      options:
+      - Standard brewery tour
+      - Premium tasting experience
+      - Educational brewing process
+      - VIP exclusive tour
+      - Custom tour
+      required: true
+    - id: 12
+      name: tasting_options
+      label: Are You Interested in Tastings
+      hint: Beer tasting preferences
+      type: select_one
+      options:
+      - Yes, include tastings
+      - Maybe
+      - No tastings
+      - Interested with more details
+      required: false
+    - id: 13
+      name: budget_range
+      label: Budget Range Per Person
+      hint: Your budget expectation
+      type: select_one
+      options:
+      - Under 25
+      - 25 - 50
+      - 50 - 100
+      - 100+
+      - Flexible
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions in Group
+      hint: Any dietary needs for the group
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Vegan
+      - Vegetarian
+      - Alcohol-free option
+      - Other
+      - None
+      required: false
+    - id: 15
+      name: special_accommodations
+      label: Special Accommodations or Needs
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_occasion
+      label: Event Occasion
+      hint: If this is for a special event
+      type: select_one
+      options:
+      - Team building
+      - Birthday celebration
+      - Anniversary event
+      - Wedding related
+      - Family gathering
+      - Educational purposes
+      - Other
+      required: false
+    - id: 17
+      name: experience_level
+      label: Group Beer Experience Level
+      hint: How knowledgeable is your group
+      type: select_one
+      options:
+      - Beginners
+      - Casual drinkers
+      - Enthusiasts
+      - Connoisseurs
+      - Mixed levels
+      required: false
+    - id: 18
+      name: specific_interests
+      label: Specific Interests or Focus Areas
+      hint: What should we focus on
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_activities
+      label: Additional Activities Interest
+      hint: Would you like any extras
+      type: select_multiple
+      options:
+      - Food pairings
+      - Merchandise shopping
+      - Photo opportunities
+      - Meet the brewer
+      - Brewing workshop
+      - None
+      required: false
+    - id: 20
+      name: preferred_contact_time
+      label: Best Time to Contact You
+      hint: When should we reach out
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      - Specific time
+      required: false
+    - id: 21
+      name: additional_message
+      label: Additional Message or Questions
+      hint: Any other details or questions
+      type: text
+      options: []
+      required: false

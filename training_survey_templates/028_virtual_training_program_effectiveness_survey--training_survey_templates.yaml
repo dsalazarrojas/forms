@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Training Program Effectiveness Survey
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_effectiveness
+      label: Program Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: program_improvement_area
+      label: Improvement Area
+      hint: null
+      type: select_multiple
+      options:
+      - content
+      - delivery
+      - engagement
+      - relevance
+      required: false

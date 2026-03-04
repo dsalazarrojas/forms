@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Program Engagement Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Department 1''}'
+      - '{''id'': 2, ''name'': ''Department 2''}'
+      - '{''id'': 3, ''name'': ''Department 3''}'
+      required: false
+    - id: 5
+      name: training_session_date
+      label: Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: attended_hours
+      label: Attended Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engagement_rating
+      label: Engagement Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Highly Engaging''}'
+      - '{''id'': 2, ''name'': ''Somewhat Engaging''}'
+      - '{''id'': 3, ''name'': ''Not Engaging''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_length
+      label: Session Length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Instructor Led''}'
+      - '{''id'': 2, ''name'': ''Self Paced''}'
+      - '{''id'': 3, ''name'': ''Virtual Class''}'
+      required: false
+    - id: 14
+      name: session_location
+      label: Session Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online''}'
+      - '{''id'': 2, ''name'': ''Offline''}'
+      required: false
+    - id: 15
+      name: training_program
+      label: Training Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: session_facilitator
+      label: Session Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_facilitator_email
+      label: Session Facilitator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: session_facilitator_phone
+      label: Session Facilitator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 26
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

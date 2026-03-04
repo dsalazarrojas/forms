@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Item Found Submission Form
+    pages:
+    - id: 1
+      name: found_on
+      label: Found On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: found_by
+      label: Found By
+      hint: null
+      type: email
+      options: []
+      required: false

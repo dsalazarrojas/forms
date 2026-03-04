@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Travel Authorization Form
+    pages:
+    - id: 1
+      name: travel_authorization_form
+      label: travel_to_conference_seminar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_time
+      label: return_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 11
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_multiple
+      options:
+      - Conference
+      - Seminar
+      - Auditing
+      - Inspection
+      - Other
+      required: false
+    - id: 12
+      name: travel_frequency
+      label: travel_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_location
+      label: travel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_id
+      label: supervisor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_level
+      label: approval_level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 22
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: travel_currency
+      label: travel_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - Other
+      required: false
+    - id: 24
+      name: approval_note
+      label: approval_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Song Request
+    pages:
+    - id: 1
+      name: thanksgiving_song_request
+      label: What is your favorite Thanksgiving song?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: favorite_singer
+      label: Favorite singer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: song_request
+      label: What song would you like to hear on Thanksgiving?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_request
+      label: Is there a special request for this event?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: thanksgiving_song_request
+      label: Thanksgiving Song Request
+      hint: null
+      type: select_one
+      options:
+      - Achy Breakaway
+      - Home on the Range
+      - We Gather Together
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Diversity Training Feedback Survey
+    pages:
+    - id: 1
+      name: training_survey
+      label: What was your overall experience in the workshop?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: diversity_topic_id
+      label: Which diversity topic was covered during the workshop?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Unconscious bias''}'
+      - '{''value'': 2, ''label'': ''Microaggressions''}'
+      - '{''value'': 3, ''label'': ''Implicit bias''}'
+      - '{''value'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: feedback
+      label: What did you learn from the workshop?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: action_plan
+      label: What action plan will you implement based on what you learned?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_to_manager
+      label: Would you like to provide additional feedback to your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager's email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_phone
+      label: Manager's phone
+      hint: null
+      type: text
+      options: []
+      required: true

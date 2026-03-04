@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capacity Planning Checklist
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capacity Planning and Backup Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Complete this checklist to establish and track data backup and recovery
+        strategies for your organization.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: organization_info_header
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or Division
+      hint: Department name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assessor_name
+      label: Assessor Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assessor_email
+      label: Assessor Email
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: infrastructure_header
+      label: -- Infrastructure Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_storage_capacity
+      label: Current Storage Capacity (TB)
+      hint: Total storage available
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: storage_utilization
+      label: Current Storage Utilization (%)
+      hint: Percentage used
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: monthly_data_growth
+      label: Estimated Monthly Data Growth (%)
+      hint: Growth rate
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: hardware_assessment_header
+      label: -- Hardware Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: servers_inventory
+      label: Number of Servers
+      hint: Total servers
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: server_ages
+      label: Average Server Age (years)
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hardware_refresh_needed
+      label: Hardware Refresh Needed Soon?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, critical
+      - Yes, planned
+      - Maybe in 6 months
+      - No, current
+      required: true
+    - id: 17
+      name: backup_strategy_header
+      label: -- Backup Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: backup_exists
+      label: Current Backup System in Place?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, partial
+      - Basic backup
+      - 'No'
+      required: true
+    - id: 19
+      name: backup_frequency
+      label: Backup Frequency
+      hint: Select one
+      type: select_one
+      options:
+      - Real-time
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      - No regular backups
+      required: true
+    - id: 20
+      name: backup_location
+      label: Backup Storage Location
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - On-site
+      - Off-site
+      - Cloud storage
+      - Multiple locations
+      - Other
+      required: false
+    - id: 21
+      name: backup_testing
+      label: Backup Testing Schedule
+      hint: Select one
+      type: select_one
+      options:
+      - Monthly tests
+      - Quarterly tests
+      - Annual tests
+      - No regular testing
+      required: true
+    - id: 22
+      name: recovery_strategy_header
+      label: -- Recovery Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: recovery_plan_exists
+      label: Disaster Recovery Plan in Place?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, documented
+      - Yes, informal
+      - Partial plan
+      - 'No'
+      required: true
+    - id: 24
+      name: rto_defined
+      label: Recovery Time Objective (RTO) Defined?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, minutes
+      - Yes, hours
+      - Yes, days
+      - 'No'
+      required: false
+    - id: 25
+      name: rpo_defined
+      label: Recovery Point Objective (RPO) Defined?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, minutes
+      - Yes, hours
+      - Yes, days
+      - 'No'
+      required: false
+    - id: 26
+      name: data_classification_header
+      label: -- Data Classification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: data_classified
+      label: Is Data Properly Classified by Criticality?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, fully classified
+      - Partially classified
+      - Not classified
+      required: true
+    - id: 28
+      name: critical_systems
+      label: Critical Systems Identified?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, documented
+      - Yes, informally
+      - Not identified
+      required: true
+    - id: 29
+      name: redundancy_header
+      label: -- Redundancy and Failover --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: redundancy_in_place
+      label: System Redundancy in Place?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, full redundancy
+      - Yes, partial redundancy
+      - No redundancy
+      required: true
+    - id: 31
+      name: failover_testing
+      label: Failover Testing Completed?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, once
+      - Planned
+      - 'No'
+      required: true
+    - id: 32
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Describe needed improvements
+      type: text
+      options: []
+      required: false

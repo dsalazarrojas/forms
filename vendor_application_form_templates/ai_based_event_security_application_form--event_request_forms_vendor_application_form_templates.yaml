@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Based Event Security Application Form
+    pages:
+    - id: 1
+      name: vendor_info_header
+      label: '--- Vendor Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Company Name
+      hint: Enter the legal name of your company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Full name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Include country code
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: event_info_header
+      label: '--- Event Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Title of the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date when the event will take place
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: City and venue (if applicable)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attendance_type
+      label: Attendance Type
+      hint: Choose the mode of attendance
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 11
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Estimated number of attendees
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ai_service_header
+      label: '--- AI‑Based Security Service Proposal ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: Select the primary security service you propose
+      type: select_one
+      options:
+      - Crowd Monitoring
+      - Threat Detection
+      - Access Control
+      - Real‑time Analytics
+      - Incident Response
+      required: true
+    - id: 14
+      name: deployment_timeframe
+      label: Deployment Timeframe (weeks)
+      hint: Estimated weeks needed for deployment
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_cost
+      label: Total Service Cost (USD)
+      hint: Enter the total cost in US dollars
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Preferred Payment Terms
+      hint: Choose your preferred payment schedule
+      type: select_one
+      options:
+      - 30‑day net
+      - 60‑day net
+      - 90‑day net
+      required: true
+    - id: 17
+      name: compliance_header
+      label: '--- Compliance & Certifications ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: iso_certification
+      label: ISO 27001 Certification
+      hint: Select if ISO 27001 certified
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 19
+      name: pci_dss
+      label: PCI DSS Compliance
+      hint: Select if PCI DSS compliant
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 20
+      name: reference_header
+      label: '--- Reference Contact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reference_contact
+      label: Reference Contact (Email/Phone)
+      hint: Provide an email address or phone number for a past client
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_header
+      label: '--- Evaluation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_rating
+      label: Overall Rating
+      hint: 1 = worst, 10 = best
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: recommendation
+      label: Would you recommend our partnership for future events?
+      hint: Select one
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 25
+      name: additional_header
+      label: '--- Additional Comments ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you'd like to share
+      type: text
+      options: []
+      required: false

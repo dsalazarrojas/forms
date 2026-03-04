@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Form Chirag
+    pages:
+    - id: 1
+      name: sales_form_chirag
+      label: Sales Form Chirag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_booking_form
+      label: Travel Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_booking_details
+      label: Travel Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false

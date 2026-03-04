@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Taxi Booking Form
+    pages:
+    - id: 1
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drop_off_address
+      label: Dropoff Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: dropoff_time
+      label: Dropoff Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date_of_booking
+      label: Date of Booking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: name_of_passenger
+      label: Name of Passenger
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: preferred_vehicle
+      label: Preferred Vehicle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false

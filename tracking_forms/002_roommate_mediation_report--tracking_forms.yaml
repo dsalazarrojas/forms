@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Mediation Report
+    pages:
+    - id: 1
+      name: roommate_mediation_report_page
+      label: Roommate Mediation Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mediation_type
+      label: Mediation Type
+      hint: null
+      type: select_one
+      options:
+      - Conflict
+      - Issue
+      - Other
+      required: false
+    - id: 3
+      name: date_of_mediation
+      label: Date of Mediation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description_of_mediation
+      label: Description of Mediation
+      hint: Please provide a detailed description of the mediation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution_of_mediation
+      label: Resolution of Mediation
+      hint: null
+      type: select_multiple
+      options:
+      - Resident Director
+      - RHA Staff
+      - Other
+      required: false
+    - id: 6
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resident_director
+      label: Resident Director
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 8
+      name: rha_staff
+      label: RHA Staff
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 9
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false

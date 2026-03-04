@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deaf Awareness Training Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_type
+      label: Which type of training did you participate in?
+      hint: null
+      type: select_one
+      options:
+      - American Sign Language
+      - British Sign Language
+      - Sign Language Training
+      required: false
+    - id: 6
+      name: training_length
+      label: How many hours did you participate in?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: Overall satisfaction with training
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: knowledge_change
+      label: Has your knowledge about Deaf Awareness changed since the training?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tag
+      label: Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tag_2
+      label: Tag 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 19
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 20
+      name: training_completed
+      label: When was training completed?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: training_ended
+      label: When was training ended?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: participant_ended
+      label: When did participant end?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: training_start
+      label: When did training start?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: training_end
+      label: When did training end?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: survey_response
+      label: How did you hear about this survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Google
+      - Email
+      - Word of mouth
+      required: false

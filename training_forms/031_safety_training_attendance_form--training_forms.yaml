@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: safety_training_attendance_form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: trainer_details
+      label: Trainer Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: training_session_date
+      label: Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_session_time
+      label: Training Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_session_duration
+      label: Training Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location_details
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: attendance_confirmation
+      label: Attendance Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

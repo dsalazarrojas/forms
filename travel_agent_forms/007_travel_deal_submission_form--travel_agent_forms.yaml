@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Deal Submission Form
+    pages:
+    - id: 1
+      name: form_category
+      label: Travel Agent Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_deal_type
+      label: Deal Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: form_images
+      label: Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_category_tags
+      label: Category Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

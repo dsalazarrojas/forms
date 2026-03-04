@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Working And Stay Bundle Booking Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bundle_type
+      label: Bundle Type
+      hint: Select your preferred bundle package
+      type: select_one
+      options:
+      - Basic Stay and Work
+      - Premium Stay and Work
+      - Extended Stay Bundle
+      - Weekend Warrior Bundle
+      - Monthly Nomad Bundle
+      - Team Retreat Bundle
+      required: true
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: What type of lodging do you prefer
+      type: select_one
+      options:
+      - Private Room
+      - Shared Room
+      - Studio Apartment
+      - One Bedroom Suite
+      - Two Bedroom Suite
+      - Dorm Bed
+      required: true
+    - id: 8
+      name: workspace_type
+      label: Workspace Type
+      hint: What workspace setup do you need
+      type: select_one
+      options:
+      - Hot Desk
+      - Dedicated Desk
+      - Private Office
+      - Meeting Room Access
+      - Outdoor Workspace
+      required: true
+    - id: 9
+      name: check_in_date
+      label: Check-In Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: check_out_date
+      label: Check-Out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total people in your party
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: length_of_stay
+      label: Length of Stay
+      hint: Duration category
+      type: select_one
+      options:
+      - 1-3 Nights
+      - 4-7 Nights
+      - 1-2 Weeks
+      - 2-4 Weeks
+      - 1-3 Months
+      - Over 3 Months
+      required: true
+    - id: 13
+      name: amenities_needed
+      label: Required Amenities
+      hint: Select must-have amenities
+      type: select_multiple
+      options:
+      - High-Speed WiFi
+      - Printer Access
+      - Meeting Room Credits
+      - Kitchen Access
+      - Laundry Facilities
+      - Gym Access
+      - Pool Access
+      - Parking
+      - Airport Shuttle
+      - Daily Housekeeping
+      required: false
+    - id: 14
+      name: meal_plan
+      label: Meal Plan Preference
+      hint: Select your meal plan option
+      type: select_one
+      options:
+      - No Meal Plan
+      - Breakfast Only
+      - Breakfast and Lunch
+      - Half Board
+      - Full Board
+      - All Inclusive
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: purpose_of_travel
+      label: Purpose of Travel
+      hint: Why are you traveling
+      type: select_one
+      options:
+      - Remote Work
+      - Business Meetings
+      - Conference or Event
+      - Team Retreat
+      - Networking
+      - Leisure and Work
+      - Other
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any specific needs or preferences
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transportation_needed
+      label: Need Airport Transportation
+      hint: Do you need pickup or dropoff
+      type: select_one
+      options:
+      - Yes Pickup
+      - Yes Dropoff
+      - Yes Both
+      - No Thanks
+      required: false
+    - id: 19
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Travel Website
+      - Advertisement
+      - Previous Stay
+      - Other
+      required: false
+    - id: 20
+      name: previous_guest
+      label: Are You a Previous Guest
+      hint: Have you stayed with us before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Budget Friendly
+      - Moderate
+      - Premium
+      - Luxury
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Company Invoice
+      required: true
+    - id: 23
+      name: cancellation_understanding
+      label: Cancellation Policy Understood
+      hint: You understand cancellation terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 24
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: You agree to all terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

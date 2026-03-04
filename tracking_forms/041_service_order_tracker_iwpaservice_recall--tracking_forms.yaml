@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Order Tracker iWPAService Recall
+    pages:
+    - id: 1
+      name: service_order_tracker_iwpa_service_recall_form
+      label: Service Order Tracker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Customer
+      - Customer
+      required: false
+    - id: 3
+      name: service_order_number
+      label: Service Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_order_date
+      label: Service Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_order_status
+      label: Service Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Active
+      - Complete
+      required: false
+    - id: 6
+      name: service_order_details
+      label: Service Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_order_priority
+      label: Service Order Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: service_order_assigned_to
+      label: Service Order Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - Customer
+      - Technician
+      - Manager
+      required: false
+    - id: 9
+      name: service_order_description
+      label: Service Order Description
+      hint: null
+      type: text
+      options: []
+      required: false

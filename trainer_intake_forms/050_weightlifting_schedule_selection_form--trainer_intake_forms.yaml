@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weightlifting Schedule Selection Form
+    pages:
+    - id: 1
+      name: weightlifting_schedule_selection_form
+      label: weightlifting_schedule_selection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: trainer_intake_form
+      label: trainer_intake_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_group
+      label: training_group
+      hint: null
+      type: select_multiple
+      options:
+      - Training Group 1
+      - Training Group 2
+      - Training Group 3
+      required: false
+    - id: 8
+      name: training_group_other
+      label: other_training_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_group_other_description
+      label: other_training_group_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_group_capacity
+      label: training_group_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_group_capacity_other
+      label: other_training_group_capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_group_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: trainer_intake_form_notes
+      label: trainer_intake_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_lifting_frequency
+      label: preferred_lifting_frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: preferred_lifting_time
+      label: preferred_lifting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: preferred_lifting_day
+      label: preferred_lifting_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 17
+      name: preferred_lifting_time_slot
+      label: preferred_lifting_time_slot
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      - 6:00 PM
+      - 7:00 PM
+      - 8:00 PM
+      - 9:00 PM
+      required: true
+    - id: 18
+      name: preferred_lifting_day_slot
+      label: preferred_lifting_day_slot
+      hint: null
+      type: select_one
+      options:
+      - 7:00 AM - 9:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 2:00 PM
+      - 2:00 PM - 4:00 PM
+      - 4:00 PM - 6:00 PM
+      - 6:00 PM - 8:00 PM
+      required: true
+    - id: 19
+      name: preferred_lifting_day
+      label: preferred_lifting_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 20
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trainer_signature
+      label: trainer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trainer_intake_form_notes
+      label: trainer_intake_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_completion_status
+      label: form_completion_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      - Needs Review
+      required: true
+    - id: 25
+      name: form_completion_status_other
+      label: other_form_completion_status
+      hint: null
+      type: text
+      options: []
+      required: false

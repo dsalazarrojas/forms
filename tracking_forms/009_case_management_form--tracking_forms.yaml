@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Form
+    pages:
+      - id: 1
+        name: case_details_section
+        label: -- Case Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: case_id
+        label: Case ID Number
+        hint: Unique identifier for this case
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: case_title
+        label: Case Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: case_type
+        label: Type of Case
+        hint: null
+        type: select_one
+        options:
+          - Civil
+          - Criminal
+          - Family Law
+          - Property
+          - Contract Dispute
+          - Employment
+          - Personal Injury
+          - Other
+        required: true
+      - id: 5
+        name: date_filed
+        label: Date Case Was Filed
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: case_status
+        label: Current Case Status
+        hint: null
+        type: select_one
+        options:
+          - Active
+          - On Hold
+          - Pending Review
+          - In Settlement Negotiations
+          - Awaiting Trial
+          - Closed
+          - Dismissed
+        required: true
+      - id: 7
+        name: parties_involved_section
+        label: -- Parties Involved --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: plaintiff_name
+        label: Plaintiff or Complainant Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: plaintiff_attorney
+        label: Plaintiff's Attorney
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: defendant_name
+        label: Defendant Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: defendant_attorney
+        label: Defendant's Attorney
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: judge_assigned
+        label: Assigned Judge
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: case_management_section
+        label: -- Case Management --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: assigned_manager
+        label: Case Manager Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: manager_contact
+        label: Case Manager Contact Information
+        hint: Phone and/or email
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: case_priority
+        label: Case Priority Level
+        hint: null
+        type: select_one
+        options:
+          - High
+          - Medium
+          - Low
+          - Routine
+        required: true
+      - id: 17
+        name: recent_developments
+        label: Recent Case Developments
+        hint: Summarize recent activity or changes
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: issues_and_claims_section
+        label: -- Issues and Claims --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: main_issues
+        label: Main Legal Issues
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: claims_damages
+        label: Claims or Damages Sought
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: timeline_section
+        label: -- Important Dates and Deadlines --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: next_hearing_date
+        label: Next Scheduled Hearing Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: discovery_deadline
+        label: Discovery Deadline
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: false
+      - id: 24
+        name: trial_date
+        label: Scheduled Trial Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: false
+      - id: 25
+        name: management_notes
+        label: Case Management Notes
+        hint: Additional information and observations
+        type: text
+        options: []
+        required: false

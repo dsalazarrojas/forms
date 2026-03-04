@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Content Management Quiz
+    pages:
+    - id: 1
+      name: web_content_management_quiz
+      label: web_content_management_quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cms_knowledge
+      label: cms_knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: web_content_management_quiz_category
+      label: web_content_management_quiz_category
+      hint: null
+      type: select_one
+      options:
+      - Technology Surveys
+      - Other
+      required: false
+    - id: 4
+      name: web_content_management_quiz_description
+      label: web_content_management_quiz_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_learning_purpose
+      label: onboarding_learning_purpose
+      hint: null
+      type: select_multiple
+      options:
+      - onboarding
+      - internal_enablement
+      - classroom_learning
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

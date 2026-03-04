@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Professional Time Tracking
+    pages:
+    - id: 1
+      name: staff_shifts
+      label: Staff Shifts
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: false
+    - id: 4
+      name: units
+      label: Units
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiothoracic Surgery Unit
+      - Emergency Department
+      - Neurology
+      required: false
+    - id: 5
+      name: activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Patient Care
+      - Consultations
+      - Laboratory Tests
+      required: false
+    - id: 6
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 8
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - Hosp 1
+      - Clinic A
+      required: false

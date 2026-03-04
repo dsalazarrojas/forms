@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Reminder Log Form
+    pages:
+    - id: 1
+      name: section_certification_details
+      label: -- Certification Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: certification_name
+      label: Certification Name
+      hint: Enter the full name of the certification to be logged
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certification_code_identifier
+      label: Certification Code or ID
+      hint: Unique code associated with this certification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: certification_category_type
+      label: Certification Category
+      hint: Select the category of the certification
+      type: select_one
+      options:
+      - Safety and Environment
+      - Technical Skills
+      - Operations
+      - Management and Leadership
+      - Compliance and Regulatory
+      - Medical and Healthcare
+      required: true
+    - id: 5
+      name: issuing_organization_authority
+      label: Issuing Organization
+      hint: The body that grants this certification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_renewal_ownership
+      label: -- Renewal Ownership --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: renewal_owner_full_name
+      label: Renewal Owner Name
+      hint: Person responsible for managing the renewal process
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_email_address
+      label: Owner Email Address
+      hint: For reminder notifications
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: department_responsible_unit
+      label: Department Responsible
+      hint: Which department does this certification belong to?
+      type: select_one
+      options:
+      - Human Resources
+      - Training
+      - Operations
+      - Quality Assurance
+      - Safety
+      - Administration
+      required: true
+    - id: 10
+      name: section_expiration_tracking
+      label: -- Expiration Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_expiration_date_value
+      label: Current Expiration Date
+      hint: Date the current certification expires
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: reminder_period_interval
+      label: Reminder Frequency
+      hint: How often should reminders be sent?
+      type: select_one
+      options:
+      - 90 Days Before Expiration
+      - 60 Days Before Expiration
+      - 30 Days Before Expiration
+      - Weekly after Expiration
+      required: true
+    - id: 13
+      name: last_reminder_sent_date
+      label: Last Reminder Sent Date
+      hint: For tracking reminder history
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: section_renewal_requirements
+      label: -- Renewal Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: renewal_fee_amount
+      label: Estimated Renewal Fee
+      hint: Cost associated with the renewal process
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: continuing_education_required
+      label: Continuing Education Required?
+      hint: Does this certification require CEUs for renewal?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: ceu_hours_needed_total
+      label: Total CEU Hours Needed
+      hint: Number of hours required if applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: renewal_status_current
+      label: Current Renewal Status
+      hint: Status of the renewal process for this cycle
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - Overdue
+      - Not Required this Cycle
+      required: true
+    - id: 19
+      name: tracking_log_notes
+      label: Tracking Log Notes
+      hint: Any additional information or issues encountered
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_of_last_log_entry
+      label: Date of Last Entry
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Arrival Report Form
+    pages:
+    - id: 1
+      name: flight_arrival_details
+      label: flight_arrival_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_time
+      label: Arrive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: aircraft_code
+      label: aircraft_code
+      hint: null
+      type: select_one
+      options:
+      - A320
+      - A321
+      - A330
+      required: true
+    - id: 4
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: select_multiple
+      options:
+      - Flight 1
+      - Flight 2
+      - Flight 3
+      required: true
+    - id: 5
+      name: flight_status
+      label: flight_status
+      hint: null
+      type: select_one
+      options:
+      - On Schedule
+      - Delayed
+      - Cancelled
+      required: true
+    - id: 6
+      name: ground_handling_status
+      label: ground_handling_status
+      hint: null
+      type: select_multiple
+      options:
+      - Grounded
+      - Ungrounded
+      required: false
+    - id: 7
+      name: flight_arrival_report
+      label: flight_arrival_report
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: flight_departure_time
+      label: flight_departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: flight_arrival_gate
+      label: flight_arrival_gate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flight_arrival_airport
+      label: flight_arrival_airport
+      hint: null
+      type: select_multiple
+      options:
+      - JFK
+      - LAX
+      - SFO
+      required: true
+    - id: 11
+      name: ground_handling
+      label: ground_handling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 14
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false

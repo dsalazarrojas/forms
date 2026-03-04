@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Initiation Form
+    pages:
+    - id: 1
+      name: initiation_date
+      label: Project Initiation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: initiator_name
+      label: Initiator Name
+      hint: Who is requesting this artwork
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: initiator_title
+      label: Initiator Title or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: initiator_email
+      label: Initiator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: initiator_phone
+      label: Initiator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project or Artwork Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: What is the artwork for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: designer_name
+      label: Designer or Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: designer_email
+      label: Designer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: artwork_type
+      label: Type of Artwork
+      hint: null
+      type: select_one
+      options:
+      - Illustration
+      - Logo Design
+      - Banner
+      - Poster
+      - Digital Art
+      - Photography
+      - Mixed Media
+      - Other
+      required: true
+    - id: 11
+      name: width
+      label: Width (inches or cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: height
+      label: Height (inches or cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: depth
+      label: Depth (if applicable)
+      hint: For 3D artwork
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: color_scheme
+      label: Color Scheme or Palette
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: style_requirements
+      label: Style or Design Requirements
+      hint: Modern, traditional, minimalist, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: deadline_date
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: approval_status
+      label: Current Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Requires Modifications
+      - Rejected
+      required: true
+    - id: 20
+      name: approval_by
+      label: Approved By
+      hint: Name and title of approver
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: revision_notes
+      label: Revision or Feedback Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_files
+      label: Attached Files or References
+      hint: Design briefs, inspiration images, etc.
+      type: text
+      options: []
+      required: false

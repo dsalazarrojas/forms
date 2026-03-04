@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Action Items Details Form
+    pages:
+    - id: 1
+      name: action_item_title
+      label: Action Item Title
+      hint: Brief title for the action item
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: action_item_description
+      label: Action Item Description
+      hint: Detailed description of what needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assigned_to
+      label: Assigned To
+      hint: Name of the person responsible for completing the action item
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Name of the project this action item belongs to
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this action item
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: When does this action item need to be completed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: status
+      label: Status
+      hint: Current status of the action item
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Review
+      - Completed
+      - On Hold
+      - Cancelled
+      required: true
+    - id: 8
+      name: category
+      label: Category
+      hint: Type of action item
+      type: select_one
+      options:
+      - Task
+      - Meeting
+      - Follow-up
+      - Research
+      - Development
+      - Review
+      - Other
+      required: true
+    - id: 9
+      name: estimated_time
+      label: Estimated Time to Complete
+      hint: How long do you estimate this will take (in hours)
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dependencies
+      label: Dependencies
+      hint: Does this action item depend on completion of other items
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: required_resources
+      label: Required Resources
+      hint: What resources are needed to complete this action item
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: success_criteria
+      label: Success Criteria
+      hint: What defines successful completion of this action item
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: related_documents
+      label: Related Documents
+      hint: List any documents or files related to this action item
+      type: text
+      options: []
+      required: false

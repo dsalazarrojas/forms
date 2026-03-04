@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_reservation_form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: reservation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_arrival
+      label: date_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_departure
+      label: date_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: name_guest
+      label: name_guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_guest
+      label: email_guest
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hotel_name
+      label: hotel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_reservation
+      label: confirm_reservation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 11
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

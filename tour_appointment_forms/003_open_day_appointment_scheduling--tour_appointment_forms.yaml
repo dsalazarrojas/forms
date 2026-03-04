@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_day_appointment_scheduling
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: tour_id
+      label: tour_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: time_slot
+      label: time_slot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: campus
+      label: campus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: guest_phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false

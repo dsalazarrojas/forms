@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Game Referee Attendance Form
+    pages:
+    - id: 1
+      name: game_id
+      label: Game ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: game_date
+      label: Game Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: game_time
+      label: Game Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: game_referee_comments
+      label: Game Referee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: game_official_comments
+      label: Game Official Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game_score
+      label: Game Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: game_referee_id
+      label: Referee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_opponent_name
+      label: Opponent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: game_location
+      label: Game Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: game_level
+      label: Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: game_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: game_duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: game_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: game_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: game_status
+      label: Game Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: game_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: game_referee_comments_2
+      label: Referee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: game_official_comments_2
+      label: Official Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: game_score_2
+      label: Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: game_referee_id_2
+      label: Referee ID
+      hint: null
+      type: text
+      options: []
+      required: false

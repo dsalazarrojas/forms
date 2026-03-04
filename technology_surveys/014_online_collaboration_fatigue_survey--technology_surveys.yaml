@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_collaboration_fatigue_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_feel_about_virtual_meetings
+      label: how do you feel about virtual meetings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: what_is_your_role
+      label: what is your role in the meeting
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Team Leader
+      - Member
+      required: false
+    - id: 4
+      name: how_long_have_you_been_participating
+      label: how long have you been participating in virtual meetings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_in_virtual_meetings
+      label: time in virtual meetings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_much_do_you_prefer_video
+      label: how much do you prefer video in virtual meetings
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: how_do_virtual_meetings_affect_your_productivity
+      label: how do virtual meetings affect your productivity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission
+      label: submission
+      hint: null
+      type: note
+      options: []
+      required: false

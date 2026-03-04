@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voyage Planning Navigation Quiz
+    pages:
+    - id: 1
+      name: passage_planning
+      label: Passage Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vessel_speed
+      label: vessel_speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: course_reversal
+      label: course_reversal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: route_planning
+      label: Route Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: chart_reading
+      label: chart_reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_estimation
+      label: position_estimation
+      hint: null
+      type: number
+      options: []
+      required: false

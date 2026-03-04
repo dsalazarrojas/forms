@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_reasoning
+      label: Employee Reasoning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_reasoning
+      label: Manager Reasoning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

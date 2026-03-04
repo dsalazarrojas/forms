@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_safety_checklist
+    pages:
+    - id: 1
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_name
+      label: building_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: safety_inspector
+      label: safety_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_extinguishers
+      label: fire_extinguishers
+      hint: null
+      type: select_one
+      options:
+      - Fire Extinguisher 1
+      - Fire Extinguisher 2
+      - Fire Extinguisher 3
+      required: true
+    - id: 6
+      name: smoke_alarm
+      label: smoke_alarm
+      hint: null
+      type: select_one
+      options:
+      - Smoke Alarm 1
+      - Smoke Alarm 2
+      - Smoke Alarm 3
+      required: true
+    - id: 7
+      name: fire_alarms
+      label: fire_alarms
+      hint: null
+      type: select_one
+      options:
+      - Fire Alarm 1
+      - Fire Alarm 2
+      - Fire Alarm 3
+      required: true
+    - id: 8
+      name: carbon_monoxide
+      label: carbon_monoxide
+      hint: null
+      type: select_one
+      options:
+      - Carbon Monoxide 1
+      - Carbon Monoxide 2
+      - Carbon Monoxide 3
+      required: true
+    - id: 9
+      name: gas_leak
+      label: gas_leak
+      hint: null
+      type: select_multiple
+      options:
+      - Gas Leak 1
+      - Gas Leak 2
+      required: true
+    - id: 10
+      name: leak_check
+      label: leak_check
+      hint: null
+      type: select_multiple
+      options:
+      - Leaks 1
+      - Leaks 2
+      required: true
+    - id: 11
+      name: leak_test
+      label: leak_test
+      hint: null
+      type: select_multiple
+      options:
+      - Leaks 1
+      - Other
+      required: true

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Onboarding Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_one
+      options:
+      - Robotics Team Member
+      - New Member
+      - Experienced Member
+      - Other
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - Team Member
+      - Team Leader
+      - Other
+      required: false
+    - id: 5
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Engineering
+      - Design
+      - Other
+      required: false
+    - id: 6
+      name: interests
+      label: interests
+      hint: null
+      type: select_multiple
+      options:
+      - Robotics
+      - Programming
+      - Engineering
+      - Design
+      - Other
+      required: false
+    - id: 7
+      name: school_or_university
+      label: school_or_university
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - University
+      - Online Course
+      - Other
+      required: false
+    - id: 8
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: time_commitment
+      label: time_commitment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

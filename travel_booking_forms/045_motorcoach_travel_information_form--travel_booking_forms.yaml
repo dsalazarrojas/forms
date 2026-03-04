@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motorcoach Travel Information Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_count
+      label: Passenger Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: pick_up_time
+      label: Pick Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: drop_off_time
+      label: Drop Off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pick_up_location
+      label: Pick Up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drop_off_location
+      label: Drop Off Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_equipment
+      label: Special Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: select_one
+      options:
+      - Driver's License
+      - Passport
+      - ID Card
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

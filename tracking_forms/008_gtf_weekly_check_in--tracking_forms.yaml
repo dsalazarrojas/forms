@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: gtf_weekly_check_in
+    pages:
+    - id: 1
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_coach
+      label: feedback_coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: progress
+      label: progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: health_progress
+      label: health_progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_progress
+      label: overall_progress
+      hint: null
+      type: number
+      options: []
+      required: false

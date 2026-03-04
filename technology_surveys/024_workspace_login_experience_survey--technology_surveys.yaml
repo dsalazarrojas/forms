@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workspace Login Experience Survey
+    pages:
+    - id: 1
+      name: login_frequency
+      label: login_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: days_logged_in
+      label: days_logged_in
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: devices_used
+      label: devices_used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: browsers_used
+      label: browsers_used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_one
+      options:
+      - laptop
+      - desktop
+      - tablet
+      - mobile
+      - other
+      required: false
+    - id: 8
+      name: device_os
+      label: device_os
+      hint: null
+      type: select_one
+      options:
+      - windows
+      - mac
+      - linux
+      - unknown
+      required: false
+    - id: 9
+      name: browser_type
+      label: browser_type
+      hint: null
+      type: select_one
+      options:
+      - chrome
+      - firefox
+      - safari
+      - edge
+      - internet_explorer
+      - other
+      required: false
+    - id: 10
+      name: browser_os
+      label: browser_os
+      hint: null
+      type: select_one
+      options:
+      - windows
+      - mac
+      - linux
+      - chrome_os
+      - other
+      required: false
+    - id: 11
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_multiple
+      options:
+      - login_required
+      - password_required
+      - access_denied
+      - other
+      required: false
+    - id: 12
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

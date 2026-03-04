@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_equipment_issue_form
+    pages:
+    - id: 1
+      name: employee_equipment_issue
+      label: Issue Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Describe Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Computer
+      - Phone
+      - Printer
+      required: false
+    - id: 4
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - In Progress
+      - Resolved
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjohn
+      required: false

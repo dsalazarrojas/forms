@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Load Tracking Form
+    pages:
+    - id: 1
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: trailer_number
+      label: Trailer Number
+      hint: null
+      type: select_one
+      options:
+      - '1001'
+      - '1002'
+      - '1003'
+      required: false
+    - id: 3
+      name: load_status
+      label: Load Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      required: false
+    - id: 4
+      name: shipment_description
+      label: Shipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_multiple
+      options:
+      - kg
+      - lbs
+      - tons
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shipment_location
+      label: Shipment Location
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse 1
+      - Warehouse 2
+      - Warehouse 3
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jimmy
+      - jim
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_first_aid_equipment_checklist_form
+    pages:
+    - id: 1
+      name: office_first_aid_equipment_checklist_form_page_1
+      label: office_first_aid_equipment_checklist_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_aid_equipment
+      label: first aid equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Aloe vera gel
+      - Antiseptic wipes
+      - Bandages
+      - Cold pack
+      - Eye wash kit
+      - First aid book
+      - First aid kit
+      - Hand sanitizer
+      - Medical tape
+      - Thermometer
+      required: true
+    - id: 3
+      name: medical_supplies
+      label: medical supplies
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: first_aid_equipment_2
+      label: first aid equipment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: office_first_aid_equipment_3
+      label: office first aid equipment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_supplies_2
+      label: medical supplies 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: first_aid_equipment_4
+      label: first aid equipment 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: office_first_aid_equipment_4
+      label: office first aid equipment 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

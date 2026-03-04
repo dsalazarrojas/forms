@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight_punctuality_statistics_report
+    pages:
+    - id: 1
+      name: on_time_flights
+      label: On-Time Flights
+      hint: null
+      type: select_multiple
+      options:
+      - Arrival Flight
+      - Scheduled Flight
+      - Flight Status
+      required: false
+    - id: 2
+      name: flight_id
+      label: Flight ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: airport_code
+      label: Airport Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scheduled_departure
+      label: Scheduled Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: actual_departure
+      label: Actual Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: flight_duration
+      label: Flight Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delay
+      label: Delay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: delay_reason
+      label: Delay Reason
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Mechanical
+      - Weather
+      - Air Traffic Control
+      - Flight Attendant
+      - Pilot
+      - Airport
+      required: false
+    - id: 10
+      name: flights_canceled
+      label: Flights Canceled
+      hint: null
+      type: select_multiple
+      options:
+      - All Flights
+      - Scheduled Flights
+      - Departure Flights
+      - Arrival Flights
+      required: false
+    - id: 11
+      name: flights_delayed
+      label: Flights Delayed
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 Hour
+      - 1-2 Hours
+      - 2-4 Hours
+      - 4-6 Hours
+      - 6+ Hours
+      required: false
+    - id: 12
+      name: on_time_performance
+      label: On Time Performance
+      hint: null
+      type: select_multiple
+      options:
+      - All Flights
+      - 90%+ On-time Flights
+      - 80% On-Time Flights
+      - 70% On-time Flights
+      - 60% On-Time Flights
+      required: false
+    - id: 13
+      name: average_delay_time
+      label: Average Delay Time
+      hint: null
+      type: select_multiple
+      options:
+      - All Flights
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - 90+ minutes
+      required: false
+    - id: 14
+      name: maximum_delay_time
+      label: Maximum Delay Time
+      hint: null
+      type: select_multiple
+      options:
+      - All Flights
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4+ hours
+      required: false
+    - id: 15
+      name: total_flights
+      label: Total Flights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: on_time_flights
+      label: On-Time Flights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: flights_canceled
+      label: Flights Canceled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: flights_delayed
+      label: Flights Delayed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: average_delay
+      label: Average Delay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: maximum_delay
+      label: Maximum Delay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: on_time_rate
+      label: On-Time Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: flights_canceled_rate
+      label: Flights Canceled Rate
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Institutional Innovation Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_type
+      label: institution-type
+      hint: null
+      type: select_one
+      options:
+      - Innovation Hub
+      - Research Institute
+      - Other
+      required: true
+    - id: 3
+      name: innovation_culture
+      label: innovation-culture
+      hint: null
+      type: select_one
+      options:
+      - Encourage
+      - Foster
+      - Support
+      required: true
+    - id: 4
+      name: innovation_capabilities
+      label: innovation-capabilities
+      hint: null
+      type: select_multiple
+      options:
+      - Data Science
+      - Digital Transformation
+      - Artificial Intelligence
+      required: true
+    - id: 5
+      name: digital_transformation
+      label: digital-transformation
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud Computing
+      - Data Analytics
+      - Cybersecurity
+      required: true
+    - id: 6
+      name: institutional_structure
+      label: institutional-structure
+      hint: null
+      type: select_multiple
+      options:
+      - Flat
+      - Hierarchy
+      - Matrix
+      required: true
+    - id: 7
+      name: innovation_readiness
+      label: innovation-readiness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: institutional_innovation_readiness_score
+      label: institutional-innovation-readiness-score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: institutional_capacity_for_innovation
+      label: institutional-capacity-for-innovation
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

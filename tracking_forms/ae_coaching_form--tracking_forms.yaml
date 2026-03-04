@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AE Coaching Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter your professional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Enter your unique employee identifier
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Customer Success
+      - Operations
+      - Engineering
+      - Other
+      required: true
+    - id: 6
+      name: section_header_coaching
+      label: '--- Coaching Session Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coaching_session_date
+      label: Date of coaching session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: coach_name
+      label: Coach name
+      hint: Enter the name of your coach
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session duration (minutes)
+      hint: How long was the session?
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: session_type
+      label: Type of coaching session
+      hint: null
+      type: select_one
+      options:
+      - Performance Improvement
+      - Career Development
+      - Goal Setting
+      - Conflict Resolution
+      - Leadership Skills
+      - Communication Skills
+      required: true
+    - id: 11
+      name: satisfaction
+      label: How satisfied are you with this coaching session?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: section_header_experience
+      label: '--- Experience Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: experience_aspects
+      label: Which aspects applied to your coaching experience? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Insightful guidance
+      - Practical advice
+      - Active listening
+      - Constructive feedback
+      - Goal-oriented
+      - Motivational
+      - Time well spent
+      - Lacked direction
+      - Too short
+      - Uncomfortable atmosphere
+      required: false
+    - id: 15
+      name: goals_discussed
+      label: Goals discussed during session
+      hint: Briefly describe the main goals covered
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: action_items_agreed
+      label: Action items agreed upon
+      hint: What specific steps were decided?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confidence_level
+      label: Confidence level in achieving goals (1-10)
+      hint: 1 = no confidence, 10 = extremely confident
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: section_header_feedback
+      label: '--- Feedback and Improvement ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: coaching_effectiveness
+      label: How effective was the coaching in addressing your concerns?
+      hint: null
+      type: select_one
+      options:
+      - Extremely effective
+      - Very effective
+      - Moderately effective
+      - Slightly effective
+      - Not effective
+      required: true
+    - id: 20
+      name: open_feedback
+      label: What would you improve or change about this coaching session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other thoughts about the session?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_needed
+      label: Is follow-up coaching needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Yes, to be scheduled
+      - false
+      - Uncertain
+      required: true
+    - id: 23
+      name: next_session_date
+      label: Tentative date for next session
+      hint: If applicable
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Trailer Hookup Checklist
+    pages:
+    - id: 1
+      name: trailer_connection_label
+      label: Trailer Connection Label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trailer_connection_type
+      label: Trailer Connection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trailer_type
+      label: Trailer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: electrical_connections_label
+      label: Electrical Connections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: electrical_connections_type
+      label: Electrical Connection Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: electrical_connection_type
+      label: Electrical Connection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: electrical_connection_status
+      label: Electrical Connection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: trailer_connection_label
+      label: Other Trailer Connection Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: connection_type
+      label: Connection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: connection_status
+      label: Connection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: trailer_connection_status
+      label: Trailer Connection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: notes_label
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_label
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone_number_label
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_label
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trailer_id
+      label: Trailer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: trailer_year
+      label: Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

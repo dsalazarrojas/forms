@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catering Staff Training Survey
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Your ID number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: position
+        label: Position
+        hint: Your job title
+        type: select_one
+        options:
+          - Server
+          - Bartender
+          - Chef
+          - Kitchen Staff
+          - Event Coordinator
+          - Manager
+          - Other
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Front of House
+          - Back of House
+          - Kitchen
+          - Bar
+          - Management
+          - Events
+        required: true
+      - id: 5
+        name: training_date
+        label: Training Date
+        hint: Date of training
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: training_type
+        label: Training Type
+        hint: What training did you attend
+        type: select_one
+        options:
+          - New Hire Orientation
+          - Food Safety
+          - Customer Service
+          - Wine Service
+          - Event Setup
+          - POS System
+          - Emergency Procedures
+          - Other
+        required: true
+      - id: 7
+        name: trainer_name
+        label: Trainer Name
+        hint: Who conducted the training
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: training_duration
+        label: Training Duration
+        hint: How long was the training
+        type: select_one
+        options:
+          - Less than 1 hour
+          - 1 to 2 hours
+          - 2 to 4 hours
+          - Half day
+          - Full day
+          - Multiple days
+        required: false
+      - id: 9
+        name: content_quality
+        label: Content Quality
+        hint: Rate the training content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: trainer_effectiveness
+        label: Trainer Effectiveness
+        hint: Rate the trainer
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: material_quality
+        label: Training Materials Quality
+        hint: Rate the materials
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 12
+        name: pace_rating
+        label: Pace of Training
+        hint: Was the pace appropriate
+        type: select_one
+        options:
+          - Too Fast
+          - Just Right
+          - Too Slow
+        required: true
+      - id: 13
+        name: difficulty_level
+        label: Difficulty Level
+        hint: Was it too easy or hard
+        type: select_one
+        options:
+          - Too Easy
+          - Just Right
+          - Too Difficult
+        required: false
+      - id: 14
+        name: knowledge_gained
+        label: Knowledge Gained
+        hint: How much did you learn
+        type: select_one
+        options:
+          - A Great Deal
+          - A Lot
+          - Some
+          - A Little
+          - Nothing
+        required: true
+      - id: 15
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident do you feel
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident
+        required: true
+      - id: 16
+        name: applicable_to_job
+        label: Applicable to Your Job
+        hint: Will you use what you learned
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 17
+        name: hands_on_component
+        label: Hands-on Component
+        hint: Was there enough practice
+        type: select_one
+        options:
+          - More Than Enough
+          - Just Right
+          - Not Enough
+          - None
+        required: false
+      - id: 18
+        name: would_recommend
+        label: Would Recommend to Colleagues
+        hint: Would you recommend this training
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 19
+        name: topics_covered
+        label: Topics Covered Well
+        hint: What was most useful
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: topics_missing
+        label: Topics That Should Be Added
+        hint: What was missing
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: How can we improve
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_training_needed
+        label: Additional Training Needed
+        hint: What else do you need
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate overall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

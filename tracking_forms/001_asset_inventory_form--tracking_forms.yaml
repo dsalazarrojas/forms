@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Inventory Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: Contact details for the person responsible for this asset
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_tag
+      label: asset tag or inventory id
+      hint: Unique identifier used by the organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_name
+      label: asset name
+      hint: Common name or description of the asset
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: asset category
+      hint: Select the category that best fits the asset
+      type: select_one
+      options:
+      - Electronics
+      - Furniture
+      - Vehicle
+      - Software
+      - Other
+      required: true
+    - id: 5
+      name: serial_number
+      label: serial number
+      hint: Manufacturer or vendor serial number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_date
+      label: purchase date
+      hint: Date the asset was purchased or received
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: purchase_cost
+      label: purchase cost
+      hint: Enter the acquisition cost in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: current_location
+      label: current location
+      hint: Building and room or storage location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: condition
+      label: asset condition
+      hint: Current physical or operational condition
+      type: select_one
+      options:
+      - New
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: assigned_to
+      label: assigned to
+      hint: Name of employee or department responsible for the asset
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: asset status
+      hint: Current lifecycle or usage status
+      type: select_one
+      options:
+      - In use
+      - In storage
+      - Retired
+      - Under maintenance
+      required: true
+    - id: 12
+      name: additional_notes
+      label: additional notes
+      hint: Any other relevant information or special handling instructions
+      type: text
+      options: []
+      required: false

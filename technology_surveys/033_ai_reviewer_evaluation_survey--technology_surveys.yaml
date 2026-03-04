@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Reviewer Evaluation Survey
+    pages:
+    - id: 1
+      name: --review_context--
+      label: -- Review Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_date
+      label: Review date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: review_type
+      label: Review type
+      hint: Select the type of review
+      type: select_one
+      options:
+      - Accuracy assessment
+      - Usability assessment
+      - Compliance check
+      - User satisfaction
+      required: true
+    - id: 5
+      name: accuracy_rating
+      label: Accuracy rating
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: clarity_rating
+      label: Clarity of reviewer output
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bias_or_fairness_issues
+      label: Observed bias or fairness issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gender bias
+      - Racial bias
+      - Socioeconomic bias
+      - No issues observed
+      required: false
+    - id: 8
+      name: improvement_recommendations
+      label: Recommendations for improvement
+      hint: Practical steps to improve the reviewer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: Select one
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: follow_up_required
+      label: Follow up required
+      hint: Select one
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

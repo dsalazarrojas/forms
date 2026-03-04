@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: cutting-phase-weight-training-plan-form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goal
+      label: goal
+      hint: What is your goal?
+      type: select_one
+      options:
+      - Cutting Phase
+      - Maintaining Phase
+      - Weight Loss
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: workout_frequency
+      label: workout-frequency
+      hint: null
+      type: select_one
+      options:
+      - 3 times a week
+      - 4-5 times a week
+      - 6 or more times a week
+      required: false
+    - id: 5
+      name: training_plan
+      label: training-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: workout_duration
+      label: workout-duration
+      hint: null
+      type: select_one
+      options:
+      - 30-60 minutes
+      - 60-90 minutes
+      - 90 minutes or more
+      required: false
+    - id: 7
+      name: workout_type
+      label: workout-type
+      hint: null
+      type: select_one
+      options:
+      - Weight Loss
+      - Strength
+      - Power
+      required: false
+    - id: 8
+      name: workout_days
+      label: workout-days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: target_date
+      label: target-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: training_experience
+      label: training-experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: coach_preference
+      label: coach-preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

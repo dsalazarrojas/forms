@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Engine Performance Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Marine Engine Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: engine_model
+      label: Engine Model
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Model 1'', ''label'': ''Model 1''}'
+      - '{''value'': ''Model 2'', ''label'': ''Model 2''}'
+      - '{''value'': ''Model 3'', ''label'': ''Model 3''}'
+      required: false
+    - id: 3
+      name: horsepower
+      label: Horsepower
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: year_manufactured
+      label: Year Manufactured
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: operating_conditions
+      label: Operating Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Normal'', ''label'': ''Normal''}'
+      - '{''value'': ''Abnormal'', ''label'': ''Abnormal''}'
+      - '{''value'': ''Critical'', ''label'': ''Critical''}'
+      required: false
+    - id: 6
+      name: engine_performance
+      label: Engine Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Diesel'', ''label'': ''Diesel''}'
+      - '{''value'': ''Gasoline'', ''label'': ''Gasoline''}'
+      - '{''value'': ''Hybrid'', ''label'': ''Hybrid''}'
+      required: false
+    - id: 8
+      name: emissions_impact
+      label: Emissions Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      - '{''value'': ''Medium'', ''label'': ''Medium''}'
+      - '{''value'': ''High'', ''label'': ''High''}'
+      required: false
+    - id: 9
+      name: engine_maintenance
+      label: Engine Maintenance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular'', ''label'': ''Regular''}'
+      - '{''value'': ''Intermittent'', ''label'': ''Intermittent''}'
+      - '{''value'': ''Critical'', ''label'': ''Critical''}'
+      required: false
+    - id: 10
+      name: operating_hours
+      label: Operating Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: engine_weight
+      label: Engine Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: engine_height
+      label: Engine Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: engine_width
+      label: Engine Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: engine_length
+      label: Engine Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: engine_power
+      label: Engine Power
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: engine_speed
+      label: Engine Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: fuel_capacity
+      label: Fuel Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fuel_consumption
+      label: Fuel Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: engine_oil
+      label: Engine Oil
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Synthetic'', ''label'': ''Synthetic''}'
+      - '{''value'': ''Regular'', ''label'': ''Regular''}'
+      - '{''value'': ''Diesel'', ''label'': ''Diesel''}'
+      required: false
+    - id: 20
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manual'', ''label'': ''Manual''}'
+      - '{''value'': ''Automatic'', ''label'': ''Automatic''}'
+      required: false
+    - id: 21
+      name: drive_type
+      label: Drive Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Front wheel'', ''label'': ''Front wheel''}'
+      - '{''value'': ''Rear wheel'', ''label'': ''Rear wheel''}'
+      - '{''value'': ''All wheel drive'', ''label'': ''All wheel drive''}'
+      required: false
+    - id: 22
+      name: engine_noise
+      label: Engine Noise
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: engine_emissions
+      label: Engine Emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: engine_warranty
+      label: Engine Warranty
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Valid'', ''label'': ''Valid''}'
+      - '{''value'': ''Invalid'', ''label'': ''Invalid''}'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

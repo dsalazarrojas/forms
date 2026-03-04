@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Itinerary Form
+    pages:
+    - id: 1
+      name: travel_itinerary
+      label: Travel Agent Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_agent_details
+      label: Travel Agent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: travel_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: travel_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent_address
+      label: Agent Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency_address
+      label: Agency Address
+      hint: null
+      type: note
+      options: []
+      required: false

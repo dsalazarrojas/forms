@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_planning_questionnaire
+    pages:
+    - id: 1
+      name: travel_agent_form
+      label: Travel Agent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_length
+      label: travel_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Agent A''}'
+      - '{''text'': ''Agent B''}'
+      - '{''text'': ''Agent C''}'
+      required: false
+    - id: 5
+      name: travel_agent_form
+      label: Travel Agent Form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Agent A''}'
+      - '{''text'': ''Agent B''}'
+      - '{''text'': ''Agent C''}'
+      required: false
+    - id: 6
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_email
+      label: travel_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: travel_phone
+      label: travel_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agent_form
+      label: Travel Agent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_length
+      label: travel_length
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''One day''}'
+      - '{''text'': ''Two days''}'
+      - '{''text'': ''Three days''}'
+      required: false

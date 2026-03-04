@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Technology Partnership Application Form
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your company's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_focus
+      label: Industry Focus
+      hint: What industries do you specialize in?
+      type: select_multiple
+      options:
+      - SaaS
+      - FinTech
+      - HealthTech
+      - E-commerce
+      - Cybersecurity
+      - Cloud Infrastructure
+      - AI and Machine Learning
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: URL to your main website
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_technology_details
+      label: -- Technology and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_technology_stack
+      label: Primary Technology Stack
+      hint: Key technologies your company uses
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_offerings
+      label: Primary Service Offerings
+      hint: What services do you provide?
+      type: select_multiple
+      options:
+      - Managed Services
+      - Professional Services
+      - Product Development
+      - Integration Services
+      - Consulting and Strategy
+      required: true
+    - id: 9
+      name: technology_certifications
+      label: Key Technology Certifications
+      hint: Certifications relevant to the partnership
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_partnership_details
+      label: -- Partnership Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: partnership_objectives
+      label: Primary Partnership Objectives
+      hint: What do you hope to achieve by partnering with us?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alignment_with_our_vision
+      label: Alignment with Our Vision
+      hint: How does your company align with our goals?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_market_overlap
+      label: Target Market Overlap
+      hint: Do you target similar customers?
+      type: select_one
+      options:
+      - High Overlap
+      - Moderate Overlap
+      - Low Overlap
+      - Niche Specific
+      required: true
+    - id: 14
+      name: section_contact_person
+      label: -- Contact Person --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: Full name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: Primary email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone number for the contact person
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: Position within the company
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_date
+      label: Application Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

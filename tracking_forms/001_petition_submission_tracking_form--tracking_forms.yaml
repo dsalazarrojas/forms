@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition Submission Tracking Form
+    pages:
+    - id: 1
+      name: petition_submission_tracking_form
+      label: New Petition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: petitioner_name
+      label: Petitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''New''}'
+      - '{''option'': ''In progress''}'
+      - '{''option'': ''Done''}'
+      - '{''option'': ''Pending''}'
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

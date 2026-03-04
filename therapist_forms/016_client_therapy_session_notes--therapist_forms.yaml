@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Therapy Session Notes
+    pages:
+    - id: 1
+      name: session_section
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_number
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: client_presentation
+      label: -- Client Presentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: affect_mood
+      label: Client affect and mood
+      hint: null
+      type: select_one
+      options:
+      - Depressed
+      - Anxious
+      - Angry
+      - Neutral
+      - Positive
+      - Guarded
+      - Cooperative
+      required: true
+    - id: 9
+      name: appearance
+      label: General appearance and grooming
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: engagement_level
+      label: Level of engagement in session
+      hint: null
+      type: select_one
+      options:
+      - Resistant
+      - Minimal
+      - Moderate
+      - Active
+      - Highly engaged
+      required: true
+    - id: 11
+      name: presenting_issues
+      label: Presenting issues and concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: content_section
+      label: -- Session Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: topics_discussed
+      label: Topics discussed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patterns_identified
+      label: Patterns or connections identified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interventions_section
+      label: -- Interventions and Strategies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: interventions
+      label: Interventions or strategies used
+      hint: CBT, DBT, psychodynamic, etc.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_response
+      label: Client response to interventions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insights_section
+      label: -- Client Insights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: client_insights
+      label: Key insights or realizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: progress_section
+      label: -- Progress and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: progress_toward_goals
+      label: Progress toward treatment goals
+      hint: null
+      type: select_one
+      options:
+      - No progress
+      - Minimal progress
+      - Some progress
+      - Significant progress
+      - Goals achieved
+      required: true
+    - id: 22
+      name: assignments
+      label: Homework or assignments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up
+      label: Follow-up recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

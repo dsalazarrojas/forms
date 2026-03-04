@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bucket List Group Travel
+    pages:
+    - id: 1
+      name: trip_name
+      label: Trip or Group Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trip_dates
+      label: Trip Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: trip_end_date
+      label: Trip End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: traveler_name
+      label: Traveler Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: traveler_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: traveler_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: passport_number
+      label: Passport Number
+      hint: If international travel
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: passport_expiry
+      label: Passport Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: airline_preference
+      label: Preferred Airline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seat_preference
+      label: Seat Preference
+      hint: null
+      type: select_one
+      options:
+      - Window
+      - Middle
+      - Aisle
+      - No Preference
+      required: false
+    - id: 13
+      name: meal_preference
+      label: Meal Preference
+      hint: Dietary requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: Wheelchair, extra legroom, etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: travel_insurance
+      label: Travel Insurance Purchased
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Any Medical Conditions or Medications
+      hint: Important for travel planning
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: amount_due
+      label: Amount Due per Person
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Deposit Paid
+      - Fully Paid
+      - Payment Plan
+      - Not Yet Paid
+      required: true

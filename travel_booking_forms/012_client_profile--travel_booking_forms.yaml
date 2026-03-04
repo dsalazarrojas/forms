@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Profile
+    pages:
+    - id: 1
+      name: form_intro
+      label: Travel Client Profile
+      hint: Help us plan your perfect trip by sharing your travel preferences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Home Address
+      hint: Street city state zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: passport_number
+      label: Passport Number
+      hint: For international travel
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: passport_expiry
+      label: Passport Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: frequent_flyer_numbers
+      label: Frequent Flyer Numbers
+      hint: Airline and membership number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_airlines
+      label: Preferred Airlines
+      hint: null
+      type: select_multiple
+      options:
+      - Delta
+      - American Airlines
+      - United
+      - Southwest
+      - JetBlue
+      - Alaska Airlines
+      - No Preference
+      - Other
+      required: false
+    - id: 12
+      name: seat_preference
+      label: Seat Preference
+      hint: null
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Middle
+      - Exit Row
+      - Bulkhead
+      - No Preference
+      required: false
+    - id: 13
+      name: cabin_preference
+      label: Cabin Class Preference
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Premium Economy
+      - Business
+      - First Class
+      - No Preference
+      required: true
+    - id: 14
+      name: hotel_loyalty_programs
+      label: Hotel Loyalty Program Memberships
+      hint: Chain and membership number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_hotel_chains
+      label: Preferred Hotel Chains
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Marriott
+      - Hilton
+      - Hyatt
+      - IHG
+      - Wyndham
+      - Accor
+      - Boutique Hotels
+      - No Preference
+      required: false
+    - id: 16
+      name: room_preference
+      label: Room Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Suite
+      - Ocean View
+      - City View
+      - King Bed
+      - Two Queens
+      - No Preference
+      required: false
+    - id: 17
+      name: rental_car_license
+      label: Do You Plan to Rent Cars
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 18
+      name: rental_car_preference
+      label: Rental Car Size Preference
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-size
+      - Full-size
+      - SUV
+      - Luxury
+      - No Preference
+      required: false
+    - id: 19
+      name: cruise_experience
+      label: Have You Been on a Cruise Before
+      hint: null
+      type: select_one
+      options:
+      - Yes multiple times
+      - Yes once
+      - false
+      required: false
+    - id: 20
+      name: preferred_cruise_lines
+      label: Preferred Cruise Lines
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cruise_destination_preference
+      label: Preferred Cruise Destinations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Caribbean
+      - Mediterranean
+      - Alaska
+      - Northern Europe
+      - Asia
+      - South Pacific
+      - Transatlantic
+      - No Preference
+      required: false
+    - id: 22
+      name: travel_companions
+      label: Who Do You Typically Travel With
+      hint: null
+      type: select_one
+      options:
+      - Solo
+      - Spouse or Partner
+      - Family with Young Children
+      - Family with Teens
+      - Friends
+      - Business Colleagues
+      - Group Tours
+      required: true
+    - id: 23
+      name: travel_style
+      label: Travel Style
+      hint: null
+      type: select_one
+      options:
+      - Budget-Conscious
+      - Value Seeker
+      - Comfort Seeker
+      - Luxury Traveler
+      - Adventure Seeker
+      - Relaxation Focused
+      - Cultural Explorer
+      required: true
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Kosher
+      - Halal
+      - Nut Allergy
+      - Other
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Wheelchair access mobility assistance etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: travel_insurance
+      label: Do You Want Travel Insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes Always
+      - For International Trips Only
+      - Maybe
+      - false
+      required: false
+    - id: 27
+      name: budget_per_trip
+      label: Typical Budget Per Trip
+      hint: Excluding flights
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$2500
+      - $2500-$5000
+      - $5000-$10000
+      - Over $10000
+      - Flexible
+      required: true
+    - id: 28
+      name: dream_destination
+      label: What Is Your Dream Vacation Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: travel_goals
+      label: What Are Your Travel Goals for This Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_preferences
+      label: Additional Preferences or Special Requests
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

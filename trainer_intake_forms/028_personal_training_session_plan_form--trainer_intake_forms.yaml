@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Session Plan Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fitness_goals
+      label: Fitness Goals
+      hint: Enter your fitness goals
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_training_days
+      label: Preferred Training Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 4
+      name: preferred_time_of_day
+      label: Preferred Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_sessions_per_week
+      label: Training Sessions per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rest_days
+      label: Rest Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_email
+      label: Emergency E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

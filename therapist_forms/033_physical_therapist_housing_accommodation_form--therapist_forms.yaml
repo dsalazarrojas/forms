@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapist Housing Accommodation Form
+    pages:
+    - id: 1
+      name: physical_therapist_housing_accommodation_form
+      label: form_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: Please provide a valid 10-digit phone number for the patient
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: therapist_name
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapist_phone_number
+      label: therapist_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - Inpatient
+      - Outpatient
+      - Both
+      required: false
+    - id: 9
+      name: accommodation_duration
+      label: accommodation_duration
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term
+      - Long-term
+      - Variable
+      required: false
+    - id: 10
+      name: accommodation_start_date
+      label: accommodation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_end_date
+      label: accommodation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_notes
+      label: accommodation_notes
+      hint: null
+      type: text
+      options: []
+      required: false

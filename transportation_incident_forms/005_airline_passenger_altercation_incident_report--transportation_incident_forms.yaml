@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airline Passenger Altercation Incident Report
+    pages:
+    - id: 1
+      name: section_incident_header
+      label: -- Incident Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter name
+      hint: Name of the person filing this report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_role
+      label: Reporter role
+      hint: Passenger, Crew, Ground staff or Other
+      type: select_one
+      options: [Passenger, Crew, Ground staff, Other]
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For follow up if needed
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident date
+      hint: Date when the altercation occurred
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: flight_or_location
+      label: Flight or location
+      hint: Flight number or airport location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parties_involved
+      label: Parties involved
+      hint: Names or descriptions of persons involved
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_description
+      label: Incident description
+      hint: Detailed narrative of what happened
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: immediate_actions_taken
+      label: Immediate actions taken
+      hint: Select actions taken at the scene
+      type: select_multiple
+      options: [Separated parties, Crew intervention, Police notified, Medical assistance, Other]
+      required: false
+    - id: 10
+      name: injuries_reported
+      label: Injuries reported
+      hint: Indicate if anyone was injured
+      type: select_one
+      options: [None, Minor, Serious]
+      required: true
+    - id: 11
+      name: witnesses
+      label: Witness names or contact info
+      hint: Provide witness details if available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_required
+      label: Follow up required
+      hint: Should customer service or safety team follow up
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 13
+      name: assigned_to
+      label: Assigned to
+      hint: Team or staff member responsible for follow up
+      type: text
+      options: []
+      required: false

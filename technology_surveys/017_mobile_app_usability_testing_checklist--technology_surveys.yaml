@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Usability Testing Checklist
+    pages:
+    - id: 1
+      name: mobile_app_usability_testing_checklist_page_1
+      label: Mobile App Usability Testing Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_features
+      label: General Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: navigation
+      label: Navigation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: search
+      label: Search
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: search_results
+      label: Search Results
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: usability_test_results
+      label: Usability Test Results
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: device_compatibility
+      label: Device Compatibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 10
+      name: issue_reported
+      label: Issues Reported
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: screenshot
+      label: Screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

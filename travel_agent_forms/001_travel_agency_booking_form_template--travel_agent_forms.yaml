@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel-agency-booking-form-template
+    pages:
+    - id: 1
+      name: travel_agency_booking_form_template_page
+      label: travel-agency-booking-form-template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_agency_name
+      label: travel-agency-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_date
+      label: travel-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_duration
+      label: travel-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: arrival_place
+      label: arrival-place
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_flight
+      label: return-flight
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_agency_booking_method
+      label: travel-agency-booking-method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Booking''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Email''}'
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency_services
+      label: travel-agency-services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Hotel Reservation''}'
+      - '{''id'': 2, ''label'': ''Flight Booking''}'
+      - '{''id'': 3, ''label'': ''Cruise Package Booking''}'
+      required: false
+    - id: 12
+      name: additional_instructions
+      label: additional-instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_comments
+      label: client-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_booking_notes
+      label: travel-agency-booking-notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Retention Motivation Survey
+    pages:
+    - id: 1
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: renewal_intent
+      label: Renewal Intent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_scale
+      label: Satisfaction Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_likert_scale
+      label: Satisfaction Likert Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_frequency
+      label: Satisfaction Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_likert_frequency
+      label: Satisfaction Likert Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction_time
+      label: Satisfaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction_likert_time
+      label: Satisfaction Likert Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_date
+      label: Satisfaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_likert_date
+      label: Satisfaction Likert Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: improvement_frequency
+      label: Improvement Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 14
+      name: improvement_likert_frequency
+      label: Improvement Likert Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: improvement_time
+      label: Improvement Time
+      hint: null
+      type: select_one
+      options:
+      - Within the next 2 weeks
+      - In the next 2-4 weeks
+      - In the next 4-6 weeks
+      - In more than 6 weeks
+      required: false
+    - id: 16
+      name: improvement_likert_time
+      label: Improvement Likert Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - None
+      required: false
+    - id: 18
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 19
+      name: communication_time
+      label: Communication Time
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 hour
+      - Within 2-4 hours
+      - Within 8-24 hours
+      required: false
+    - id: 20
+      name: communication_likert_time
+      label: Communication Likert Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: satisfaction_likert_compatibility
+      label: Satisfaction Likert Compatiblity
+      hint: null
+      type: select_one
+      options:
+      - Very Compatible
+      - Somewhat Compatible
+      - Neutral
+      - Somewhat Incompatible
+      - Very Incompatible
+      required: false
+    - id: 22
+      name: satisfaction_likert_compatibility_frequency
+      label: Satisfaction Likert Compatiblity Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: satisfaction_likert_compatibility_time
+      label: Satisfaction Likert Compatiblity Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: satisfaction_likert_compatibility_likert_time
+      label: Satisfaction Likert Compatiblity Likert Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false

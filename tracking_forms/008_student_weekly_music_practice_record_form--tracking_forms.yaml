@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: student-weekly-music-practice-record-form
+    pages:
+    - id: 1
+      name: student_weekly_music_practice
+      label: music-practice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: instrument
+      label: instrument
+      hint: null
+      type: select_one
+      options:
+      - Violin
+      - Guitar
+      - Piano
+      - Drums
+      - Other
+      required: false
+    - id: 3
+      name: practice_time
+      label: practice-time
+      hint: How long you practiced
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: Date of practice
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: difficulty_level
+      label: difficulty-level
+      hint: How difficult was practice
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 6
+      name: progress
+      label: progress
+      hint: Describe your progress
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: goals
+      label: goals
+      hint: What do you plan to practice next week
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

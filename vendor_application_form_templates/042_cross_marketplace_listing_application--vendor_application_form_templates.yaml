@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Marketplace Listing Application
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category1'', ''label'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''category2'', ''label'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''category3'', ''label'': ''Category 3''}'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_images
+      label: Product Images
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''image1'', ''label'': ''Image 1''}'
+      - '{''id'': 2, ''name'': ''image2'', ''label'': ''Image 2''}'
+      - '{''id'': 3, ''name'': ''image3'', ''label'': ''Image 3''}'
+      required: false
+    - id: 9
+      name: shipping_details
+      label: Shipping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_cost
+      label: Shipping cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: estimated_shipping_cost
+      label: Estimated Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shipping_weight
+      label: Shipping Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipping_height
+      label: Shipping Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: shipping_width
+      label: Shipping Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shipping_length
+      label: Shipping Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shipping_weight_unit
+      label: Shipping Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: shipping_cost_currency
+      label: Shipping Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: shipping_cost_value
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: shipping_cost_value2
+      label: Shipping Cost 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: shipping_weight_value
+      label: Shipping Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: shipping_weight_unit
+      label: Shipping Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: shipping_price
+      label: Shipping Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: shipping_price_currency
+      label: Shipping Price Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: shipping_price_value
+      label: Shipping Price
+      hint: null
+      type: number
+      options: []
+      required: false

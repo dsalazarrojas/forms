@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Xstream Paycation Travel Booking Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dates_of_travel
+      label: Dates Of Travel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: number_of_people
+      label: Number Of People
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: passport_expiration_date
+      label: Passport Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: true

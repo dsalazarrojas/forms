@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Payment Form
+    pages:
+    - id: 1
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: tenant_name
+      hint: Enter tenant's name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - PayPal
+      - Cash
+      required: false
+    - id: 5
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Lease
+      - Contract
+      required: false
+    - id: 6
+      name: landlord_info
+      label: Landlord Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rent_due_date
+      label: Rent Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Overdue
+      - Pending
+      required: false
+    - id: 9
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: payment_currency
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: rental_address
+      label: Rental Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_processor
+      label: Payment Processor
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Square
+      - Wave
+      required: false
+    - id: 15
+      name: tenant_phone
+      label: Tenant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Progress Billing Tracker
+    pages:
+    - id: 1
+      name: section_billing_period
+      label: -- Billing Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: billing_period_start
+      label: Billing period start date
+      hint: Start date for billing period
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: billing_period_end
+      label: Billing period end date
+      hint: End date for billing period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_reference
+      label: Project reference
+      hint: Job number or project name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billed_amount
+      label: Billed amount
+      hint: Total amount billed this period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: percent_complete
+      label: Percent complete
+      hint: Percent completion of project to date
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents provided note
+      hint: Note if invoices or reports are attached separately
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: certifying_officer
+      label: Certifying officer name
+      hint: Person approving the billing submission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approval_date
+      label: Approval date
+      hint: Date of approval for this billing
+      type: date
+      options: []
+      required: false

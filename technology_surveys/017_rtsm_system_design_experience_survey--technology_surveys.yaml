@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: rtsm_system_design_experience_survey
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: improvements
+      label: improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_info
+      label: project_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_leader
+      label: project_leader
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 9
+      name: form_footer
+      label: form_footer
+      hint: null
+      type: note
+      options: []
+      required: false

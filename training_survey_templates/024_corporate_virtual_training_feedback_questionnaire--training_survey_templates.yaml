@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Virtual Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: training_session_id
+      label: training_session_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Session 1'', ''value'': ''Session 1''}'
+      - '{''id'': 2, ''label'': ''Session 2'', ''value'': ''Session 2''}'
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Department 1''}'
+      - '{''id'': 2, ''label'': ''Department 2''}'
+      required: true
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1'', ''value'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2'', ''value'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3'', ''value'': ''User 3''}'
+      required: true
+    - id: 11
+      name: submitted_by_department
+      label: submitted_by_department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Department 1'', ''value'': ''Department 1''}'
+      - '{''id'': 2, ''label'': ''Department 2'', ''value'': ''Department 2''}'
+      required: true
+    - id: 12
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_name
+      label: session_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_id
+      label: session_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_time
+      label: session_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: session_date
+      label: session_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: session_location
+      label: session_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_facilitators
+      label: session_facilitators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: session_goals
+      label: session_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_notes
+      label: session_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: session_topics
+      label: session_topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_name
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_title
+      label: submitted_by_title
+      hint: null
+      type: text
+      options: []
+      required: false

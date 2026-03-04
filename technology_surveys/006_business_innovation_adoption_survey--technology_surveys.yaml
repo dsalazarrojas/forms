@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Innovation Adoption Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Executive
+      - Operations
+      - Sales
+      - Marketing
+      - Finance
+      - Human Resources
+      - IT
+      - Research and Development
+      - Customer Service
+      - Other
+      required: true
+    - id: 4
+      name: job_level
+      label: Job Level
+      hint: Your current job level
+      type: select_one
+      options:
+      - Entry level
+      - Junior
+      - Mid-level
+      - Senior
+      - Manager
+      - Director
+      - Executive
+      required: true
+    - id: 5
+      name: tenure_years
+      label: Years with Company
+      hint: How many years have you worked here
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: innovation_awareness
+      label: Awareness of Current Innovation Initiatives
+      hint: How aware are you of current innovation initiatives
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 7
+      name: technology_comfort_level
+      label: Technology Comfort Level
+      hint: How comfortable are you with adopting new technologies
+      type: select_one
+      options:
+      - Very comfortable - early adopter
+      - Comfortable - adopt quickly
+      - Neutral
+      - Somewhat uncomfortable
+      - Very uncomfortable - prefer familiar tools
+      required: true
+    - id: 8
+      name: innovation_barriers
+      label: Barriers to Innovation Adoption
+      hint: Select all barriers you experience
+      type: select_multiple
+      options:
+      - Lack of training
+      - Insufficient time
+      - Limited resources
+      - Resistance from colleagues
+      - Management resistance
+      - Complex processes
+      - Fear of failure
+      - Lack of incentives
+      - Poor communication
+      - None
+      required: true
+    - id: 9
+      name: training_needs
+      label: Training Needs
+      hint: What training would help you adopt innovations
+      type: select_multiple
+      options:
+      - Technical skills training
+      - Software tutorials
+      - Change management
+      - Innovation workshops
+      - Mentoring programs
+      - Online courses
+      - Hands-on practice sessions
+      - None needed
+      required: true
+    - id: 10
+      name: communication_effectiveness
+      label: Innovation Communication Effectiveness
+      hint: How effectively does leadership communicate about innovation
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Very ineffective
+      required: true
+    - id: 11
+      name: resource_availability
+      label: Resource Availability for Innovation
+      hint: Are adequate resources provided for innovation
+      type: select_one
+      options:
+      - Always adequate
+      - Usually adequate
+      - Sometimes adequate
+      - Rarely adequate
+      - Never adequate
+      required: true
+    - id: 12
+      name: innovation_incentives
+      label: Innovation Incentives
+      hint: Are there incentives for adopting innovations
+      type: select_one
+      options:
+      - Yes - strong incentives
+      - Yes - some incentives
+      - Minimal incentives
+      - No incentives
+      - Not sure
+      required: true
+    - id: 13
+      name: peer_support
+      label: Peer Support for Innovation
+      hint: How supportive are your colleagues of innovation
+      type: select_one
+      options:
+      - Very supportive
+      - Supportive
+      - Neutral
+      - Unsupportive
+      - Very unsupportive
+      required: true
+    - id: 14
+      name: management_support
+      label: Management Support for Innovation
+      hint: How supportive is your direct manager
+      type: select_one
+      options:
+      - Very supportive
+      - Supportive
+      - Neutral
+      - Unsupportive
+      - Very unsupportive
+      required: true
+    - id: 15
+      name: innovation_success_stories
+      label: Awareness of Innovation Success Stories
+      hint: Are you aware of successful innovation implementations
+      type: select_one
+      options:
+      - Yes - many examples
+      - Yes - some examples
+      - Yes - few examples
+      - No - not aware of any
+      required: true
+    - id: 16
+      name: change_readiness
+      label: Personal Readiness for Change
+      hint: How ready are you personally for organizational change
+      type: select_one
+      options:
+      - Very ready - embrace change
+      - Ready - accept change
+      - Neutral
+      - Hesitant
+      - Resistant to change
+      required: true
+    - id: 17
+      name: innovation_suggestions
+      label: Innovation Suggestions
+      hint: Have you submitted innovation suggestions
+      type: select_one
+      options:
+      - Yes - multiple suggestions
+      - Yes - one suggestion
+      - No - planning to
+      - No - not interested
+      required: true
+    - id: 18
+      name: collaboration_tools_usage
+      label: Collaboration Tools Usage
+      hint: Select all collaboration tools you regularly use
+      type: select_multiple
+      options:
+      - Slack or Teams
+      - Zoom or video conferencing
+      - Project management software
+      - Document sharing platforms
+      - Innovation management platforms
+      - Social collaboration tools
+      - None
+      required: true
+    - id: 19
+      name: innovation_priorities
+      label: Innovation Priorities for Organization
+      hint: What areas should innovation focus on
+      type: select_multiple
+      options:
+      - Process automation
+      - Customer experience
+      - Product development
+      - Data analytics
+      - Sustainability
+      - Employee experience
+      - Cost reduction
+      - Revenue growth
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Feedback on Innovation
+      hint: Share any additional thoughts on innovation adoption
+      type: text
+      options: []
+      required: false

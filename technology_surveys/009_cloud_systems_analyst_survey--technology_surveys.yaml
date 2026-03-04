@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Systems Analyst Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Current Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_in_role
+      label: Years as Cloud Systems Analyst
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: primary_cloud_platform
+      label: Primary Cloud Platforms Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Oracle Cloud
+      - Alibaba Cloud
+      - Other
+      required: true
+    - id: 6
+      name: job_satisfaction
+      label: Overall Job Satisfaction
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 7
+      name: tools_satisfaction
+      label: Satisfaction with Current Tools
+      hint: Rate current tooling
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 8
+      name: biggest_challenges
+      label: Biggest Challenges in Role
+      hint: Select top challenges
+      type: select_multiple
+      options:
+      - Performance Optimization
+      - Cost Management
+      - Security Implementation
+      - Compliance
+      - Legacy System Integration
+      - Staffing
+      required: true
+    - id: 9
+      name: training_needed
+      label: Training Topics You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Advanced Architecture
+      - Security and Compliance
+      - Cost Optimization
+      - Container Orchestration
+      - Automation Tools
+      - Leadership Skills
+      required: false
+    - id: 10
+      name: workflow_satisfaction
+      label: Workflow and Process Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: team_effectiveness
+      label: Team Effectiveness Rating
+      hint: Rate your team's effectiveness
+      type: select_one
+      options:
+      - Needs Improvement
+      - Below Average
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 12
+      name: emerging_technologies
+      label: Interest in Emerging Technologies
+      hint: What interests you most
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: career_goals
+      label: Career Goals for Next 2-3 Years
+      hint: Where do you want to be
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: improvement_suggestions
+      label: Suggestions for Team Improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mentor_availability
+      label: Willing to Mentor Others
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

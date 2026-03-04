@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Cruise Packages Inquiry
+    pages:
+    - id: 1
+      name: inquiry_type
+      label: Which type of inquiry are you making?
+      hint: null
+      type: select_one
+      options:
+      - Luxury Cruise
+      - Private Yacht Charter
+      - Other
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 7
+      name: best_time_to_contact
+      label: Best time to contact?
+      hint: "24 hour format (HH:MM)"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Now
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Delivery Check In Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date_time
+      label: Delivery Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_number
+      label: Delivery Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipment_id
+      label: Shipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dock_assignment
+      label: Dock Assignment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: dock_name
+      label: Dock Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

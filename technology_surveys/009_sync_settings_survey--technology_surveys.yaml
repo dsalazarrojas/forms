@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sync Settings Survey
+    pages:
+    - id: 1
+      name: sync_behavior
+      label: How often do you sync your data?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sync_frequency
+      label: Sync Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issues
+      label: What issues do you encounter with data syncing?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issue_details
+      label: Describe the issues you've encountered
+      hint: Please provide as much detail as possible regarding the issues you've
+        experienced with data syncing.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sync_frequency_urgent
+      label: How often do these issues impact your business?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: issues_urgent
+      label: Which of the above issues impact your business?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sync_issues_details
+      label: What are the details of these issues?
+      hint: Please provide as much detail as possible.
+      type: note
+      options: []
+      required: false

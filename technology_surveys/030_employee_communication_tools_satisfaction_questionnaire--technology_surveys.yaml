@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_communication_tools_satisfaction_questionnaire
+    pages:
+    - id: 1
+      name: employee_communication_tools_satisfaction_questionnaire_page_1
+      label: Employee Communication Tools Satisfaction Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_1
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number_1
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_1
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department_1
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title_1
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_methods_1
+      label: Which of these communication tools do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Instant Messaging
+      - Video conferencing
+      - Collaboration software
+      - Text messaging
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: communication_methods_2
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_tools_1
+      label: How often do you use this communication tool?
+      hint: Select from the options below.
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      - Never
+      required: false

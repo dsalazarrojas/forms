@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traffic Law Compliance Checklist
+    pages:
+    - id: 1
+      name: vehicle_checks
+      label: Vehicle Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Check all that apply
+      - Other
+      required: false
+    - id: 2
+      name: record_compliance_items
+      label: Record Compliance Items
+      hint: null
+      type: select_one
+      options:
+      - Select one item
+      - Other
+      required: false
+    - id: 3
+      name: observation_notes
+      label: Observation Notes
+      hint: Please provide details about the vehicle's condition
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_checked_by
+      label: Vehicle Checked By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 6
+      name: safety_manager_verified
+      label: Safety Manager Verified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_inspections_performed
+      label: Vehicle Inspections Performed
+      hint: null
+      type: select_multiple
+      options:
+      - Check all that apply
+      - Other
+      required: false
+    - id: 8
+      name: observation_status
+      label: Observation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: false
+    - id: 9
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment_urls
+      label: Attachment URLs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_identifiers
+      label: Vehicle Identifiers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Additional notes about the vehicle
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Ford
+      - Honda
+      - Tesla
+      required: false
+    - id: 16
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false

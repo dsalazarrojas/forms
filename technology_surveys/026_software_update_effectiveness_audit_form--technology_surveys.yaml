@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Update Effectiveness Audit Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: feedback_score
+      label: Feedback Score
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: update_outcome
+      label: Update Outcome
+      hint: null
+      type: select_one
+      options:
+      - Success
+      - Partial Success
+      - No Change
+      - Failure
+      - Unknown
+      required: true
+    - id: 7
+      name: issues_detailed
+      label: Issues Detailed
+      hint: Please describe the issues encountered.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: issues_department
+      label: Issues Department
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Operations
+      - Sales
+      - Marketing
+      - Engineering
+      required: true

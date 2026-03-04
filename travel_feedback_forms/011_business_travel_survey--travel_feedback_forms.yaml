@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trip_destination
+      label: Travel Destination
+      hint: Where did you travel to
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trip_dates
+      label: Trip Duration
+      hint: Select your travel period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: trip_purpose
+      label: Purpose of Travel
+      hint: What was the business purpose
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: accommodation_quality
+      label: Quality of Accommodations
+      hint: Rate your hotel or lodging
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: transportation_quality
+      label: Transportation Quality
+      hint: Rate your travel arrangements
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: travel_booking_ease
+      label: Ease of Booking Travel
+      hint: How easy was the booking process
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 10
+      name: company_support
+      label: Company Support During Travel
+      hint: Quality of company assistance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 11
+      name: vendor_satisfaction
+      label: Satisfaction with Travel Vendors
+      hint: Rate hotels, airlines, and car rentals
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 12
+      name: travel_budget_adequacy
+      label: Was Your Travel Budget Adequate
+      hint: Did your budget cover the trip
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Barely adequate
+      - Inadequate
+      - Very inadequate
+      required: true
+    - id: 13
+      name: travel_safety
+      label: Safety During Travel
+      hint: How safe did you feel
+      type: select_one
+      options:
+      - Very Safe
+      - Safe
+      - Neutral
+      - Unsafe
+      - Very Unsafe
+      required: true
+    - id: 14
+      name: travel_improvements
+      label: How Can We Improve Business Travel
+      hint: Suggestions for enhancement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: likely_future_travel
+      label: Likely to Travel Again for Business
+      hint: Future travel expectations
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Intake And Signature Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Do you consent to telehealth services?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_signature
+      label: Signature
+      hint: Please sign here
+      type: select_one
+      options:
+      - Telehealth Services
+      - Other
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: Please sign here
+      type: select_one
+      options:
+      - Signature
+      - Other
+      required: false

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Narcotic Reconciliation Form
+    pages:
+    - id: 1
+      name: received_drugs
+      label: received_drugs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: used_drugs
+      label: used_drugs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: discarded_drugs
+      label: discarded_drugs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reconciliation_date
+      label: Reconciliation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reconciliation_time
+      label: Reconciliation Time
+      hint: null
+      type: time
+      options: []
+      required: false

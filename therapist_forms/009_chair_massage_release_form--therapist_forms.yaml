@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chair Massage Release Form
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: client_date_of_birth
+        label: Date of Birth
+        hint: Client's birth date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: massage_date
+        label: Date of Massage Service
+        hint: When service was provided
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: therapist_name
+        label: Therapist Name
+        hint: Name of massage therapist
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: client_contact_info
+        label: Contact Information
+        hint: Phone or email
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: health_conditions_disclose
+        label: Do You Have Any Medical Conditions
+        hint: Heart disease, diabetes, arthritis, etc.
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 7
+        name: conditions_details
+        label: Please Describe Any Medical Conditions
+        hint: Relevant health information
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recent_injuries
+        label: Any Recent Injuries or Surgeries
+        hint: Within the last 6 months
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 9
+        name: injuries_details
+        label: Describe Recent Injuries or Surgeries
+        hint: Type and location
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: pregnancy_status
+        label: Pregnant or Possibly Pregnant
+        hint: If applicable
+        type: select_one
+        options: ["Yes", "No", "Not Applicable"]
+        required: false
+      - id: 11
+        name: medications
+        label: Currently Taking Medications
+        hint: Any prescription or over-the-counter
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 12
+        name: medications_list
+        label: List Current Medications
+        hint: Names and dosages if applicable
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: allergies_disclosed
+        label: Have Allergies or Sensitivities
+        hint: To products or substances
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 14
+        name: allergies_list
+        label: List Allergies or Sensitivities
+        hint: Details about allergies
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: understanding_risks
+        label: I Understand the Risks of Massage
+        hint: Acknowledge potential risks
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 16
+        name: relief_expectations
+        label: Realistic About Pain Relief Expectations
+        hint: Massage is not a cure for medical conditions
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 17
+        name: consent_release
+        label: Release of Liability Consent
+        hint: Agree to release therapist from liability
+        type: select_one
+        options: ["I Agree", "I Do Not Agree"]
+        required: true
+      - id: 18
+        name: medical_authorization
+        label: Therapist May Adjust Technique if Needed
+        hint: Permission to modify massage as needed
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 19
+        name: communication_permission
+        label: Permission to Contact for Follow-up
+        hint: May we follow up on your experience
+        type: select_one
+        options: ["Yes", "No"]
+        required: false
+      - id: 20
+        name: client_signature_acknowledgment
+        label: Client Signature or Digital Consent
+        hint: I have read and agree to this form
+        type: select_one
+        options: ["I Agree", "I Do Not Agree"]
+        required: true

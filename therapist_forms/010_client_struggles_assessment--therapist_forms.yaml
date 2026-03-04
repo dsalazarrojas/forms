@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Struggles Assessment
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: clinician_name
+      label: Clinician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: challenges_section
+      label: -- Primary Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: main_struggles
+      label: What are your main struggles currently?
+      hint: Describe the areas causing you difficulty
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: struggle_duration
+      label: How long have you been experiencing these struggles?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 8
+      name: challenge_categories
+      label: Areas of struggle
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Relationship issues
+      - Work/Career stress
+      - Financial stress
+      - Health concerns
+      - Substance use
+      - Grief/Loss
+      - Self-esteem
+      - Other
+      required: true
+    - id: 9
+      name: impact_section
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: work_impact
+      label: Impact on work or school performance
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 11
+      name: relationship_impact
+      label: Impact on relationships
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 12
+      name: daily_functioning
+      label: Impact on daily functioning
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 13
+      name: priorities_section
+      label: -- Treatment Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: priority_goals
+      label: What would you like to work on first?
+      hint: List in order of priority
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: success_definition
+      label: How will you know you are getting better?
+      hint: Describe your goals and desired outcomes
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: support_section
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_support
+      label: Current support systems
+      hint: Family, friends, community, healthcare, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_treatment
+      label: Previous treatment or counseling
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Once in the past
+      - Multiple times
+      - Currently receiving
+      required: false
+    - id: 19
+      name: additional_concerns
+      label: Any additional concerns or safety issues?
+      hint: Optional
+      type: text
+      options: []
+      required: false

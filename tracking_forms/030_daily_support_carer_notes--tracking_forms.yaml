@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Support Carer Notes
+    pages:
+    - id: 1
+      name: daily_support_carer_notes_form
+      label: daily_support_carer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observation_date
+      label: observation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: observation_time
+      label: observation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: support_carers_name
+      label: support_carer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_carers_id
+      label: support_carer_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: observation_location
+      label: observation_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: observations
+      label: observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_to
+      label: submit_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: submit_to_email
+      label: submit_to_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submit_to_phone
+      label: submit_to_phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Are you an electric vehicle owner or interested in buying one?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 3
+      name: name_of_ev
+      label: How many Electric Vehicles do you own or are you interested in purchasing?
+      hint: Enter the number of EVs you own or are interested in
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: charging_interest
+      label: What kind of charging options do you currently have or are looking for?
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Workplace charging''}'
+      - '{''id'': 2, ''label'': ''Home charging''}'
+      - '{''id'': 3, ''label'': ''Public charging''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: charging_frequency
+      label: How often do you charge your EVs?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: true
+    - id: 6
+      name: driving_frequency
+      label: How many miles do you drive per week?
+      hint: Enter miles per week
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: charging_location
+      label: What is your primary location for charging?
+      hint: Select one
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Home''}'
+      - '{''id'': 2, ''label'': ''Workplace''}'
+      - '{''id'': 3, ''label'': ''Public''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: What is the make of your current or desired electric vehicle?
+      hint: Enter vehicle make
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_model
+      label: What is the model of your current or desired electric vehicle?
+      hint: Enter vehicle model
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_range
+      label: What is the range of your current or desired electric vehicle?
+      hint: Enter vehicle range in miles
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: outreach_needs
+      label: What do you need help with regarding electric vehicle outreach?
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Education and awareness''}'
+      - '{''id'': 2, ''label'': ''Test drive opportunities''}'
+      - '{''id'': 3, ''label'': ''Workplace charging infrastructure''}'
+      - '{''id'': 4, ''label'': ''Vehicle pricing and incentives''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: comments
+      label: Do you have any additional comments about electric vehicle adoption?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email address
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone number
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_year
+      label: What year do you expect to purchase an electric vehicle?
+      hint: Enter year
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_budget
+      label: What is your current estimated budget for an electric vehicle?
+      hint: Enter budget in dollars
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_leasing
+      label: Are you considering leasing an electric vehicle?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 18
+      name: comments_additional
+      label: Do you have any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: name_of_contact
+      label: What is your name?
+      hint: Enter name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_info
+      label: What is your contact information?
+      hint: Enter contact information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_type
+      label: What type of electric vehicle are you interested in?
+      hint: Select one
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sedan''}'
+      - '{''id'': 2, ''label'': ''SUV''}'
+      - '{''id'': 3, ''label'': ''Truck''}'
+      - '{''id'': 4, ''label'': ''Van''}'
+      - '{''id'': 5, ''label'': ''Motorcycle''}'
+      required: true
+    - id: 22
+      name: vehicle_size
+      label: What size electric vehicle are you interested in?
+      hint: Select one
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Compact''}'
+      - '{''id'': 2, ''label'': ''Full-size''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      - '{''id'': 4, ''label'': ''Extra Large''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 23
+      name: vehicle_color
+      label: What color electric vehicle do you prefer?
+      hint: Select one
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Black''}'
+      - '{''id'': 2, ''label'': ''White''}'
+      - '{''id'': 3, ''label'': ''Gray''}'
+      - '{''id'': 4, ''label'': ''Silver''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 24
+      name: vehicle_type_of_vehicle
+      label: What type of vehicle do you prefer?
+      hint: Select one
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hatchback''}'
+      - '{''id'': 2, ''label'': ''SUV''}'
+      - '{''id'': 3, ''label'': ''Wagon''}'
+      - '{''id'': 4, ''label'': ''Van''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: vehicle_other
+      label: Other vehicle options?
+      hint: Enter other vehicle options
+      type: text
+      options: []
+      required: false

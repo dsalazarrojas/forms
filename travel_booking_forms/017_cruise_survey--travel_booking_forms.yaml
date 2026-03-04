@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Survey
+    pages:
+    - id: 1
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: passenger_contact_information
+      label: Passenger Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ship_name
+      label: Ship Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cabin_number
+      label: Cabin Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Domestic''}'
+      - '{''label'': ''International''}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

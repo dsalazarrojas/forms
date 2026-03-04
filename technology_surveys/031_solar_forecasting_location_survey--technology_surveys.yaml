@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Forecasting Location Survey
+    pages:
+    - id: 1
+      name: location
+      label: location_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_details
+      label: site_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: local_time_zone
+      label: local_time_zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: elevation
+      label: elevation_msl
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: orientation
+      label: orientation
+      hint: null
+      type: select_multiple
+      options:
+      - north
+      - south
+      - east
+      - west
+      required: true
+    - id: 8
+      name: solar_altitude
+      label: solar_altitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: slope_angle
+      label: slope_angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: azimuth
+      label: azimuth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: solar_forecast_data
+      label: solar_forecast_data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

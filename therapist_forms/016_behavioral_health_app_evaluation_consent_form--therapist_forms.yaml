@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Health App Evaluation Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: app_name
+      label: Name of Behavioral Health App Being Evaluated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_period
+      label: Evaluation Period Duration
+      hint: How long will you use the app
+      type: select_one
+      options:
+      - 1 Week
+      - 2 Weeks
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      required: true
+    - id: 7
+      name: prior_use
+      label: Have You Used This App Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: understand_purpose
+      label: I understand the purpose of this evaluation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: understand_data_collection
+      label: I understand how my data will be collected and used
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: confidentiality_consent
+      label: I understand my information will be kept confidential
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 11
+      name: voluntary_participation
+      label: I understand my participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 12
+      name: withdrawal_right
+      label: I understand I can withdraw at any time
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 13
+      name: adverse_event_reporting
+      label: I will report any adverse events or concerns
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: data_sharing_consent
+      label: My data may be shared with researchers
+      hint: All personally identifiable information will be removed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: false
+    - id: 15
+      name: contact_for_followup
+      label: May We Contact You for Follow-up
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: questions_answered
+      label: All My Questions Have Been Answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: final_consent
+      label: I Consent to Participate in This App Evaluation
+      hint: This is required to proceed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

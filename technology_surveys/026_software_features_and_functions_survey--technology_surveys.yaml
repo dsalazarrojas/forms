@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Features And Functions Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: saas_teams
+      label: SaaS Teams
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - SaaS teams
+      - IT teams
+      required: false
+    - id: 3
+      name: feedback_usability
+      label: How do you feel about the usability of this feature?
+      hint: null
+      type: select_one
+      options:
+      - Not very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Very satisfied
+      - Not satisfied
+      required: false
+    - id: 4
+      name: feature_performance
+      label: How would you rate the performance of this feature?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feature_improvement
+      label: What feature would you like to see improved?
+      hint: null
+      type: select_multiple
+      options:
+      - User interface
+      - Usability
+      - Performance
+      - Functionality
+      - Other
+      required: false
+    - id: 6
+      name: additional_features
+      label: Is there anything else you'd like to see us add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true

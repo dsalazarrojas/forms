@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Trailer Safety Inspection Survey
+    pages:
+    - id: 1
+      name: trailer_type
+      label: Trailer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dry Freight''}'
+      - '{''id'': 2, ''label'': ''Livestock''}'
+      - '{''id'': 3, ''label'': ''Tank''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''FHVSS''}'
+      - '{''id'': 2, ''label'': ''US DOT''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: safety_features
+      label: Safety Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

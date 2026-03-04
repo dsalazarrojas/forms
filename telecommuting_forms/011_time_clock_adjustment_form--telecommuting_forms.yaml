@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Clock Adjustment Form
+    pages:
+    - id: 1
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: break_in_hours
+      label: break in hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hours_worked
+      label: hours worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_adjusted
+      label: date adjusted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_id
+      label: submitted by id
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Income Form
+    pages:
+    - id: 1
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: source_income
+      label: Source Income
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: income_date
+      label: Income Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: amount_received
+      label: Amount Received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: travel_agent_commission
+      label: Travel Agent Commission
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: travel_agent_fee
+      label: Travel Agent Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: travel_agent_manager
+      label: Travel Agent Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Reimbursed
+      - Refunded
+      required: true
+    - id: 12
+      name: travel_type_id
+      label: Travel Type ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: travel_agency_id
+      label: Travel Agency ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: notes_other
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: travel_agent_commission_percentage
+      label: Travel Agent Commission Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: travel_agency_manager
+      label: Travel Agency Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: travel_agency_contact
+      label: Travel Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: travel_type_contact
+      label: Travel Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes_status
+      label: Notes Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: notes_other_status
+      label: Other Notes Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: travel_agent_commission_status
+      label: Travel Agent Commission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Reimbursed
+      - Refunded
+      required: true
+    - id: 23
+      name: travel_agent_fee_status
+      label: Travel Agent Fee Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Reimbursed
+      - Refunded
+      required: true
+    - id: 24
+      name: travel_agency_status
+      label: Travel Agency Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Towing Service Notification
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_confirmation
+      label: Service Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Towing Service
+      - Other
+      required: true
+    - id: 4
+      name: pickup_info
+      label: Pickup Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drop_off_info
+      label: Drop-Off Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: towing_service
+      label: Towing Service
+      hint: null
+      type: text
+      options: []
+      required: false

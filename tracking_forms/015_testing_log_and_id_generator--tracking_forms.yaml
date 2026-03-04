@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: testing_log_and_id_generator
+    pages:
+    - id: 1
+      name: log_form
+      label: Test Run Log
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: id_generator
+      label: Unique ID Generator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: result_attachment
+      label: Result Attachment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: result
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

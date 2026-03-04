@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Break Check Out Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: parent_or_guardian
+      label: Parent Or Guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_room
+      label: Student Room Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_signature
+      label: Contact Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: staff_title
+      label: Staff Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_department
+      label: Staff Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_email
+      label: Staff E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: staff_ext
+      label: Staff Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

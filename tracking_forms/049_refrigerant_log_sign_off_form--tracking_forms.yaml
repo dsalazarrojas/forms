@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refrigerant Log Sign Off Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: technician_phone
+      label: Technician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technician_email
+      label: Technician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_verification
+      label: Supervisor Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: refrigerant_name
+      label: Refrigerant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: refrigerant_type
+      label: Refrigerant Type
+      hint: null
+      type: select_one
+      options:
+      - R-134a
+      - R-22
+      - R-410A
+      required: true
+    - id: 12
+      name: refrigerant_charge
+      label: Refrigerant Charge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: refrigerant_charge_amount
+      label: Refrigerant Charge Amount
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_verification
+      label: Signature Verification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 18
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_user_name
+      label: Submitted By User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

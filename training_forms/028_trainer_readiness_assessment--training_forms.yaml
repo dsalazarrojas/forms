@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trainer Readiness Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: years_of_experience
+      label: Years Of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: trainer_level
+      label: Trainer Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 5
+      name: has_training_certification
+      label: Has Training Certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: has_induction_program
+      label: Has Induction Program
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Business Development
+      - Communication
+      - Leadership
+      - Presentation
+      - Problem Solving
+      - Project Management
+      - Public Speaking
+      - Time Management
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trainer_rating
+      label: Trainer Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: date_of_completion
+      label: Date Of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_completion
+      label: Time Of Completion
+      hint: null
+      type: time
+      options: []
+      required: true

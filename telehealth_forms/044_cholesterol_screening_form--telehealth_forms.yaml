@@ -1,0 +1,391 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cholesterol Screening Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: screening_information
+      label: Screening Information
+      hint: Test details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: screening_date
+      label: Date of Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: screening_location
+      label: Screening Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: screening_type
+      label: Type of Screening
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Telehealth
+      - Home test kit
+      - Lab draw
+      - Health fair
+      required: true
+    - id: 15
+      name: fasting_status
+      label: Fasting Status
+      hint: null
+      type: select_one
+      options:
+      - Fasted 9-12 hours
+      - Fasted 12+ hours
+      - Non-fasting
+      - Not sure
+      required: true
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: Your health background
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: previous_cholesterol_issues
+      label: Have you ever had high cholesterol
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 18
+      name: family_history
+      label: Family History of Heart Disease
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: Especially statins
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Diabetes
+      - Heart disease
+      - Stroke
+      - Thyroid disorder
+      - Kidney disease
+      - Liver disease
+      - None
+      required: true
+    - id: 21
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Health habits
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 23
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Regular
+      required: false
+    - id: 24
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - 1-2 times per week
+      - Rarely
+      - Never
+      required: true
+    - id: 25
+      name: diet_quality
+      label: Diet Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 26
+      name: height_weight
+      label: Height and Weight
+      hint: Physical measurements
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: height
+      label: Height
+      hint: Feet and inches or cm
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: weight
+      label: Weight
+      hint: Pounds or kg
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Systolic over diastolic
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: cholesterol_results
+      label: Cholesterol Results
+      hint: Test readings
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: total_cholesterol
+      label: Total Cholesterol
+      hint: mg/dL
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: ldl_cholesterol
+      label: LDL Cholesterol
+      hint: Bad cholesterol
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: hdl_cholesterol
+      label: HDL Cholesterol
+      hint: Good cholesterol
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: triglycerides
+      label: Triglycerides
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: cholesterol_ratio
+      label: Cholesterol Ratio
+      hint: Total/HDL
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Cardiovascular risk
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: risk_level
+      label: Cardiovascular Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: false
+    - id: 38
+      name: recommendations
+      label: Recommendations
+      hint: Next steps
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: lifestyle_changes
+      label: Recommended Lifestyle Changes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diet modification
+      - Increase exercise
+      - Weight loss
+      - Smoking cessation
+      - Reduce alcohol
+      - Stress management
+      - None
+      required: false
+    - id: 40
+      name: medication_recommended
+      label: Is Medication Recommended
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 41
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, within 1 month
+      - Yes, within 3 months
+      - Yes, within 6 months
+      - Yes, within 1 year
+      - No follow-up needed
+      required: false
+    - id: 42
+      name: provider_notes
+      label: Provider Notes
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: patient_consent
+      label: I consent to cholesterol screening
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 44
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: screening_date_signed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

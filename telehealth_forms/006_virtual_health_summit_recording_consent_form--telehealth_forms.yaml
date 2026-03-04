@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Health Summit Recording Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: recording_consent
+      label: Recording Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I have read'', ''understood and agree to participate'': None,
+        ''and understand that my recording will be used for virtual health summit
+        recording consent form'': None}'
+      - '{''label'': ''Do not allow the recording of my session''}'
+      required: true
+    - id: 4
+      name: date_time
+      label: Date Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: pinkney_travel_group
+    pages:
+    - id: 1
+      name: dream_vacation
+      label: Dream Vacation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: Select travel dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_type
+      label: Select travel type
+      hint: null
+      type: select_one
+      options:
+      - air
+      - land
+      - sea
+      required: false
+    - id: 5
+      name: travel_destination
+      label: Select destination
+      hint: null
+      type: select_multiple
+      options:
+      - Paris
+      - Rome
+      - Barcelona
+      - London
+      - Tokyo
+      required: false
+    - id: 6
+      name: travel_group_size
+      label: Size of your travel group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

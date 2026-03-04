@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Inventory Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Page One
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: item_category
+      label: item-category
+      hint: null
+      type: select_one
+      options:
+      - Produce
+      - Baking
+      - Dairy
+      - Meat
+      - Pantry
+      required: true
+    - id: 3
+      name: item_name
+      label: item-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_quantity
+      label: item-quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: item_unit
+      label: item-unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_quantity_unit
+      label: item-quantity-unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_warehouse
+      label: item-warehouse
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_notes
+      label: item-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: item_date_issued
+      label: item-date-issued
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: item_date_received
+      label: item-date-received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: item_date_expired
+      label: item-date-expired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: item_last_quantity_checked
+      label: item-last-quantity-checked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_last_checked_date
+      label: item-last-checked-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: item_last_checked_by
+      label: item-last-checked-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: item_last_checked_notes
+      label: item-last-checked-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: item_quantity_received
+      label: item-quantity-received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: item_quantity_expired
+      label: item-quantity-expired
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: item_quantity_unused
+      label: item-quantity-unused
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: item_quantity_reserved
+      label: item-quantity-reserved
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: item_quantity_ordered
+      label: item-quantity-ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: item_warehouse_1
+      label: item-warehouse-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: item_warehouse_2
+      label: item-warehouse-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: item_warehouse_3
+      label: item-warehouse-3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item_warehouse_4
+      label: item-warehouse-4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: item_warehouse_5
+      label: item-warehouse-5
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vibrational Sound Therapy Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: client
+      label: Client
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Client 1'', ''label'': ''Client 1''}'
+      - '{''value'': ''Client 2'', ''label'': ''Client 2''}'
+      - '{''value'': ''Client 3'', ''label'': ''Client 3''}'
+      required: false
+    - id: 6
+      name: therapist
+      label: Therapist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Therapist 1'', ''label'': ''Therapist 1''}'
+      - '{''value'': ''Therapist 2'', ''label'': ''Therapist 2''}'
+      - '{''value'': ''Therapist 3'', ''label'': ''Therapist 3''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

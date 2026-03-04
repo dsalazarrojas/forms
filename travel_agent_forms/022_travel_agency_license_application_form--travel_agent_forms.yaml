@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agency License Application Form
+    pages:
+    - id: 1
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: license_type
+      label: License Type
+      hint: Please select from our options below
+      type: select_one
+      options:
+      - License A
+      - License B
+      - License C
+      required: false
+    - id: 7
+      name: agency_ownership
+      label: Agency Ownership
+      hint: Please select from our options below
+      type: select_one
+      options:
+      - Individual
+      - Partnership
+      - Corporation
+      required: false
+    - id: 8
+      name: agency_experience
+      label: Agency Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agent_email
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: agency_employees
+      label: Agency Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: agency_services
+      label: Agency Services
+      hint: null
+      type: select_multiple
+      options:
+      - Travel Agents
+      - Travel Agencies
+      - Tour Operators
+      required: false
+    - id: 13
+      name: agency_services_list
+      label: Agency Services List
+      hint: Please enter your agency services
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agency_certificate
+      label: Agency Certificate
+      hint: null
+      type: select_one
+      options:
+      - Certificate A
+      - Certificate B
+      - Certificate C
+      required: false

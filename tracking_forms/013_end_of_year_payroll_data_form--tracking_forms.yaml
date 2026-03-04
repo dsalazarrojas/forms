@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_year_payroll_data_form
+    pages:
+    - id: 1
+      name: end_of_year_payroll_data
+      label: Yearly Payroll Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Pay Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: Pay Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pay_rate
+      label: Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wages_paid
+      label: Wages Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: health_insurance_premiums
+      label: Health Insurance Premiums
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: dental_insurance_premiums
+      label: Dental Insurance Premiums
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vision_insurance_premiums
+      label: Vision Insurance Premiums
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: long_term_care_insurance_premiums
+      label: Long Term Care Insurance Premiums
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_wages_paid
+      label: Total Wages Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

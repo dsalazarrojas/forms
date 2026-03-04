@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: operator_duty_acknowledgment_form
+    pages:
+    - id: 1
+      name: operator_id
+      label: operator_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: operator_name
+      label: operator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: duty_timing
+      label: duty_timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shift_start
+      label: shift_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_end
+      label: shift_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assignment_notes
+      label: assignment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signed_acknowledgment
+      label: signed_acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shift_status
+      label: shift_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: vehicle_id
+      label: vehicle_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: operator_location
+      label: operator_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_location
+      label: vehicle_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_schedule_overview_form
+    pages:
+    - id: 1
+      name: schedule_start_time
+      label: Schedule Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: schedule_end_time
+      label: Schedule End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: schedule_prio
+      label: schedule_prio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule_notes
+      label: schedule_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: meeting_name
+      label: meeting_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meeting_participants
+      label: meeting_participants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: meeting_participants_label
+      label: Meeting Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meeting_start_time
+      label: meeting_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: meeting_end_time
+      label: meeting_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: meeting_notes
+      label: meeting_notes
+      hint: null
+      type: note
+      options: []
+      required: false

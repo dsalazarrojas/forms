@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Training Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_outcomes
+      label: session outcomes
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 3
+      name: engagement
+      label: engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: improvement_areas
+      label: improvement areas
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      - Outcome 4
+      - Outcome 5
+      required: false
+    - id: 5
+      name: trainer_support
+      label: trainer support
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      - Outcome 4
+      required: false
+    - id: 6
+      name: time_management
+      label: time management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: session length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      - Outcome 4
+      required: false

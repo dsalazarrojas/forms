@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Cruise Participation Survey
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: number_of_participants
+      label: Number of Participants
+      hint: How many people are you planning to bring?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: headcount
+      label: Number of Adults and Children
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 4
+      name: adult_participants
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: children
+      label: Children
+      hint: null
+      type: select_one
+      options:
+      - Infant
+      - Toddler
+      - 5-10
+      - 11-17
+      required: false
+    - id: 6
+      name: cabin_type
+      label: Cabin Type
+      hint: Select the type of cabin you're interested in
+      type: select_multiple
+      options:
+      - 2 Bedroom
+      - 3 Bedroom
+      - 4 Bedroom
+      - Suite
+      required: false
+    - id: 7
+      name: special_needs
+      label: Special Needs
+      hint: Do you have any special needs that we should be aware of?
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: travel_agent
+      label: Travel Agent
+      hint: If you have an assigned travel agent, please list their name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent_email
+      label: Travel Agent Email
+      hint: If you have an assigned travel agent, please enter their contact email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

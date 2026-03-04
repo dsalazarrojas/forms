@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospective Traveler Vacation Questionnaire
+    pages:
+    - id: 1
+      name: vacation_planning_process
+      label: Vacation Planning
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vacation_preferences
+      label: Vacation Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Adventure''}'
+      - '{''value'': ''Relaxation''}'
+      - '{''value'': ''Cultural''}'
+      - '{''value'': ''Beach''}'
+      - '{''value'': ''Food''}'
+      - '{''value'': ''History''}'
+      - '{''value'': ''Nature''}'
+      required: false
+    - id: 4
+      name: trip_length
+      label: Trip Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Romantic''}'
+      - '{''value'': ''Adventure''}'
+      - '{''value'': ''Business''}'
+      - '{''value'': ''Food''}'
+      - '{''value'': ''History''}'
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Text''}'
+      - '{''value'': ''WhatsApp''}'
+      required: false
+    - id: 12
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Afternoon''}'
+      - '{''value'': ''Evening''}'
+      - '{''value'': ''Anytime''}'
+      required: false
+    - id: 13
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: travel_agency_phone
+      label: Travel Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_agent_email
+      label: Travel Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: travel_agency_address
+      label: Travel Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_agency_website
+      label: Travel Agency Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_agency_notes
+      label: Travel Agency Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: client_details
+      label: Client Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 24
+      name: travel_agency_terms
+      label: Travel Agency Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

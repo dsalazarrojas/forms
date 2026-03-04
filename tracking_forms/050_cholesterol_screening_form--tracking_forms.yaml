@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cholesterol Screening Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: patient_id
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: primary_care_provider
+      label: Primary Care Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: screening_details
+      label: -- Screening Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: fasting_status
+      label: Fasting Status
+      hint: Were you fasting before the test
+      type: select_one
+      options:
+      - Yes, fasted 9+ hours
+      - Yes, fasted less than 9 hours
+      - No, not fasting
+      required: true
+    - id: 14
+      name: last_meal_time
+      label: Last Meal or Beverage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: cholesterol_results
+      label: -- Cholesterol Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: total_cholesterol
+      label: Total Cholesterol (mg/dL)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: ldl_cholesterol
+      label: LDL Cholesterol (mg/dL)
+      hint: Bad cholesterol
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: hdl_cholesterol
+      label: HDL Cholesterol (mg/dL)
+      hint: Good cholesterol
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: triglycerides
+      label: Triglycerides (mg/dL)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: family_history
+      label: Family History of Heart Disease
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 22
+      name: current_medications
+      label: Current Cholesterol Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lifestyle_factors
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: exercise_frequency
+      label: Exercise Frequency Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: dietary_habits
+      label: Primary Dietary Pattern
+      hint: null
+      type: select_one
+      options:
+      - Mediterranean diet
+      - Low-fat diet
+      - High protein diet
+      - Standard American diet
+      - Plant-based diet
+      - Other
+      required: false

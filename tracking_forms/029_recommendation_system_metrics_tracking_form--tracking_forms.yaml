@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recommendation System Metrics Tracking Form
+    pages:
+    - id: 1
+      name: recommendation_system_metrics_tracking_form
+      label: recommendation_system_metrics_tracking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_id
+      label: evaluation_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: metric_name
+      label: metric_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: metric_type
+      label: metric_type
+      hint: null
+      type: select_one
+      options:
+      - metric_name
+      - metric_type
+      required: true
+    - id: 6
+      name: metric_value
+      label: metric_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: metric_target
+      label: metric_target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_source
+      label: data_source
+      hint: null
+      type: select_one
+      options:
+      - internal
+      - external
+      required: true
+    - id: 9
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

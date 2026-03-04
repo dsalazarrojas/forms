@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Tracker Team Point Zero 26
+    pages:
+    - id: 1
+      name: team_tracking_header
+      label: -- Team Point Zero 26 Call Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_member_name
+      label: Team Member Name
+      hint: Name of the individual logging the call
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_account_id
+      label: Client Account ID
+      hint: Unique identifier for the customer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: timestamp_of_call
+      label: Timestamp
+      hint: Date and time of the interaction
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: call_direction
+      label: Call Direction
+      hint: null
+      type: select_one
+      options:
+      - Inbound
+      - Outbound
+      required: true
+    - id: 6
+      name: concern_category
+      label: Customer Concern Category
+      hint: Main topic of the call
+      type: select_one
+      options:
+      - Technical Issue - Hardware
+      - Technical Issue - Software
+      - Billing and Payments
+      - Product Inquiry
+      - Account Management
+      - Warranty Claim
+      - Other
+      required: true
+    - id: 7
+      name: resolution_level
+      label: Resolution Level
+      hint: How was the issue addressed?
+      type: select_one
+      options:
+      - Tier 1 Resolution
+      - Tier 2 Resolution
+      - Tier 3 Resolution
+      - Managerial Intervention
+      required: true
+    - id: 8
+      name: call_status
+      label: Current Call Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Waiting for Client
+      - In Progress
+      - Resolved
+      - Re-opened
+      required: true
+    - id: 9
+      name: call_summary
+      label: Detailed Call Summary
+      hint: Provide concise but complete details of the discussion
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_mood
+      label: Client Sentiment - Mood
+      hint: Evaluated by the team member
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Frustrated
+      - Very Angry
+      required: false
+    - id: 11
+      name: escalation_flag
+      label: Escalation Required?
+      hint: Does this need higher level review?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: escalation_reason
+      label: Reason for Escalation
+      hint: If Yes above, please explain
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: internal_team_notes
+      label: Internal Team Notes
+      hint: Not for client viewing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: points_earned
+      label: Performance Points Earned
+      hint: Internal tracking metric
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submission_id
+      label: Tracking Reference Number
+      hint: Auto-generated or manual ID
+      type: text
+      options: []
+      required: false

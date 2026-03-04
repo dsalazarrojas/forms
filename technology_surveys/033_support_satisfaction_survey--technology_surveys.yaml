@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Satisfaction Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: support_rating
+      label: How would you rate the support you received?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: support_rating_score
+      label: On a scale of 1-10, how would you rate the support you received?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_to_resolution
+      label: How much time did it take for support to resolve your issue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resolution_rating
+      label: How would you rate the resolution of the issue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_rating
+      label: How would you rate the communication from support?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: agent_knowledge
+      label: How would you rate the support agent's knowledge on the issue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: issue_type
+      label: What type of issue did you experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Technical issue''}'
+      - '{''id'': 2, ''name'': ''Non-technical issue''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

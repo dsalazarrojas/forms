@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Development Leave Request
+    pages:
+    - id: 1
+      name: training_request
+      label: Training Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: team_lead_approvals
+      label: Team Lead Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: training_facilitator_email
+      label: Training Facilitator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_approval_comments
+      label: Manager Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_lead_approval_comments
+      label: Team Lead Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_request_comments
+      label: Training Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: submitted_on
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

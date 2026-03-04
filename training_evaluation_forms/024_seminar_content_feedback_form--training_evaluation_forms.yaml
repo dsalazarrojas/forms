@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Content Feedback Form
+    pages:
+    - id: 1
+      name: session_quality
+      label: How was the session quality?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: relevance
+      label: How relevant was the material?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: What improvement ideas do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rate this seminar
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback
+      label: Add any additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false

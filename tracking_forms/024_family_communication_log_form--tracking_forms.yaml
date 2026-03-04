@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Communication Log Form
+    pages:
+    - id: 1
+      name: family_communication_log_form_1
+      label: Family Conversations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_decision_form_1
+      label: Family Decisions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: follow_ups_form_1
+      label: Follow-Ups
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: caregiver_details_form_1
+      label: Caregiver Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: household_form_1
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: OSHA Certification Training Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''30 Hour OSHA''}'
+      - '{''value'': ''General Industry''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certificate_type
+      label: Certificate Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''OSHA 30 Hour''}'
+      - '{''value'': ''OSHA 20 Hour''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: certificate_number
+      label: Certificate Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Certified''}'
+      - '{''value'': ''Not Certified''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_status
+      label: Submitted Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Incomplete''}'
+      required: false
+    - id: 19
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: training_location_id
+      label: Training Location ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: training_date_id
+      label: Training Date ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

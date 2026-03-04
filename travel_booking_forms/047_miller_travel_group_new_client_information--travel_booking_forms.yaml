@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: miller_travel_group_new_client_information
+    pages:
+    - id: 1
+      name: travel_client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: client_phone_number
+      label: client_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Flight
+      - Train
+      - Car
+      - Bus
+      - Other
+      required: true
+    - id: 10
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_start_date
+      label: travel_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: travel_end_date
+      label: travel_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: travel_arrival_time
+      label: travel_arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false

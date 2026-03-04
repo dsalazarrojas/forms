@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Technology Capacity Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: org_info
+      label: org information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tech_res
+      label: tech resources
+      hint: What are your current technology resources and tools?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_skills
+      label: staff digital skills
+      hint: What is the level of digital skills of your staff?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: support_needs
+      label: support needs
+      hint: What kind of technical support do you need?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timeframe
+      label: timeframe
+      hint: What is your timeframe for implementing new technologies?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: timeframe_details
+      label: timeframe details
+      hint: Can you provide more details about your timeframe?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: org_size
+      label: org size
+      hint: How many staff members do you have in your organization?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tech_plan
+      label: tech plan
+      hint: Do you have a technology plan in place?
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false

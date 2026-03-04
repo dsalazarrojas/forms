@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Rental Application Form
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_preferred_method_of_contact
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_preferred_method_of_contact_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rental_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rental_duration
+      label: Lease Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: rental_starting_rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rental_security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: preferred_method_of_rental_payment
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: preferred_method_of_rental_payment_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: rental_starting_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tenant_employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: employment_end_date
+      label: Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: employment_employer
+      label: Current Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_occupation
+      label: Previous Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rental_status
+      label: Rent Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: rental_status_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: income_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: income_type
+      label: Income Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

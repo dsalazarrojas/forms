@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agenda Item Details Form
+    pages:
+    - id: 1
+      name: meeting_name
+      label: Meeting Name
+      hint: Enter the name of the meeting or event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: Enter the date of the meeting
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: Enter the start and end time of the meeting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: meeting_location
+      label: Meeting Location
+      hint: Enter the location or platform where the meeting is held
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: meeting_chair
+      label: Meeting Chair
+      hint: Enter the name of the meeting chair or facilitator
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agenda_item_number
+      label: Agenda Item Number
+      hint: Enter the sequential number of this agenda item
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: agenda_item_title
+      label: Agenda Item Title
+      hint: Enter the title of the agenda item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agenda_item_description
+      label: Agenda Item Description
+      hint: Provide a detailed description of the agenda item
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: presenter_name
+      label: Presenter Name
+      hint: Enter the name of the person presenting this item
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allocated_time
+      label: Allocated Time
+      hint: Enter the amount of time allocated for this agenda item
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: discussion_points_header
+      label: -- Discussion Points --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: key_discussion_points
+      label: Key Discussion Points
+      hint: List the main points discussed during this agenda item
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: decisions_made
+      label: Decisions Made
+      hint: Record any decisions made regarding this agenda item
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_items
+      label: Action Items
+      hint: List any action items assigned during this discussion
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: responsible_party
+      label: Responsible Party
+      hint: Enter the name of the person responsible for each action item
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deadline_for_action_items
+      label: Deadline for Action Items
+      hint: Enter the deadline for completing the action items
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: resources_needed
+      label: Resources Needed
+      hint: List any resources required to complete the action items
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up required for this agenda item?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: follow_up_details
+      label: Follow-up Details
+      hint: If yes, provide details about the follow-up needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other notes about this agenda item
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recorder_name
+      label: Recorder Name
+      hint: Enter the name of the person recording these details
+      type: text
+      options: []
+      required: true

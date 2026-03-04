@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Conflict Awareness Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: information_sources
+      label: Information Sources
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: conflict_perceptions
+      label: Conflict Perceptions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: public_awareness
+      label: Public Awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: form_submissions
+      label: Form Submissions
+      hint: null
+      type: note
+      options: []
+      required: false

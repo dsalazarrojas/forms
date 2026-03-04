@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Uniform Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student full name
+      hint: Enter the full name for uniform labeling
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_age
+      label: Student age
+      hint: Age helps determine appropriate sizing recommendations
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: class_level
+      label: Class level
+      hint: Select the class the student attends
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 4
+      name: uniform_item
+      label: Uniform item requested
+      hint: Choose the type of uniform to order
+      type: select_one
+      options:
+      - Leotard
+      - Tutu
+      - Tights
+      - Warm up jacket
+      required: true
+    - id: 5
+      name: size
+      label: Size
+      hint: Choose the best matching size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      required: true
+    - id: 6
+      name: chest_measure_cm
+      label: Chest measurement cm
+      hint: Provide measurement in centimeters if available
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: waist_measure_cm
+      label: Waist measurement cm
+      hint: Provide measurement in centimeters if available
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_color
+      label: Preferred color
+      hint: Enter a preferred color or school approved color
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of items to order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: billing_contact
+      label: Billing contact name
+      hint: Name on billing account if different from student
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special instructions
+      hint: Provide any tailoring requests or delivery notes
+      type: text
+      options: []
+      required: false

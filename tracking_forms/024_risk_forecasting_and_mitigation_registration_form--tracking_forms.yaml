@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Forecasting And Mitigation Registration Form
+    pages:
+    - id: 1
+      name: risk_forecasting_form
+      label: Risk Forecasting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mitigation_strategy
+      label: Mitigation Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: probability
+      label: Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mitigation_cost
+      label: Mitigation Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_ranking
+      label: Risk Ranking
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false

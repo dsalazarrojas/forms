@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: days_off_request_form
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Leave of absence
+      - Personal time off
+      - Other
+      required: true
+    - id: 5
+      name: days_off
+      label: Number of Days Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

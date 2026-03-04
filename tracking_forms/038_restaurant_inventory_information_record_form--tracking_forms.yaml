@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Inventory Information Record Form
+    pages:
+    - id: 1
+      name: restaurant_inventory_information_record_form
+      label: restaurant_information_record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_location
+      label: inventory_location
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse
+      - Kitchen
+      - Receiving Dock
+      required: true
+    - id: 3
+      name: inventory_item
+      label: inventory_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_value
+      label: total_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: restaurant_address
+      label: restaurant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: restaurant_phone
+      label: restaurant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: restaurant_email
+      label: restaurant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: restaurant_hours
+      label: restaurant_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: restaurant_hours_note
+      label: restaurant_hours_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: inventory_check
+      label: inventory_check
+      hint: null
+      type: select_one
+      options:
+      - Stock Take
+      - Inventory Count
+      - Inventory Check
+      - Cycle Count
+      required: true

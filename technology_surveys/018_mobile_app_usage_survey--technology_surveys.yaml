@@ -1,0 +1,344 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Usage Survey
+    pages:
+    - id: 1
+      name: mobile_app_usage_survey_page_1
+      label: Mobile App Usage Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: How likely are you to recommend this app?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: What is your phone number?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: app_features
+      label: Which features do you use in the app?
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      - Feature 4
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Any additional comments?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: questions_page_2
+      label: Questions Page 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: app_usage_page_2_1
+      label: How often do you use the app?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 12
+      name: app_usage_page_2_2
+      label: On which device do you use the app?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 13
+      name: app_usage_page_2_3
+      label: What time of day do you use the app?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 14
+      name: app_usage_page_2_4
+      label: How do you usually access the app?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 15
+      name: app_usage_page_2_5
+      label: Which app version are you currently using?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 16
+      name: app_usage_page_2_6
+      label: How do you usually find out about new app updates?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 17
+      name: app_usage_page_2_7
+      label: How often do you check for updates?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 18
+      name: app_usage_page_2_8
+      label: How do you usually check for updates?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 19
+      name: app_usage_page_2_9
+      label: How often do you use the app's home screen?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 20
+      name: app_usage_page_2_10
+      label: How much time do you spend using the app in a typical day?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 21
+      name: app_usage_page_2_11
+      label: How often do you think of this app when you're not using it?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 22
+      name: app_usage_page_2_12
+      label: How do you usually find out about new features or updates on this app?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 23
+      name: app_usage_page_2_13
+      label: How often do you usually share your app usage data with others?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 24
+      name: app_usage_page_2_14
+      label: How much time do you spend on the app?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 25
+      name: app_usage_page_2_15
+      label: How often do you usually use the app's features?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false

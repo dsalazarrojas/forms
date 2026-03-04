@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plasma Donation Payment Tracker
+    pages:
+    - id: 1
+      name: collection_site
+      label: Collection Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_id
+      label: Donor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: collection_site
+      label: Collection Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: administrator_id
+      label: Administrator ID
+      hint: null
+      type: number
+      options: []
+      required: false

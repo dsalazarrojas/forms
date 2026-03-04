@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: raffle_ticket_order_form
+    pages:
+    - id: 1
+      name: raffle_ticket_order_form_page
+      label: Raffle Ticket Order Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ticket_type
+      label: select_ticket_type
+      hint: null
+      type: select_one
+      options:
+      - Raffle
+      - Charity
+      - Fundraiser
+      required: true
+    - id: 3
+      name: ticket_price
+      label: ticket_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 10
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Failed
+      required: true
+    - id: 12
+      name: raffle_date
+      label: raffle_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: raffle_time
+      label: raffle_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: drawing_date
+      label: drawing_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: drawing_time
+      label: drawing_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: raffle_result
+      label: raffle_result
+      hint: null
+      type: select_one
+      options:
+      - Not Drawn
+      - Won
+      - Not Yet Drawn
+      required: true
+    - id: 17
+      name: winner_name
+      label: winner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: raffle_image
+      label: raffle_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_note
+      label: payment_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_image
+      label: payment_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: image_upload
+      label: image_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: upload_note
+      label: upload_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: upload_image
+      label: upload_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: raffle_ticket_number
+      label: raffle_ticket_number
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_plan_form
+    pages:
+    - id: 1
+      name: travel_plan_form_page_1
+      label: travel_plan_form_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_agent_name
+      label: travel_agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_agent_email
+      label: travel_agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent_phone
+      label: travel_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_agent_location
+      label: travel_agent_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_arrangement_type
+      label: travel_arrangement_type
+      hint: null
+      type: select_one
+      options:
+      - Travel Plan
+      - Hotel Booking
+      - Flight Booking
+      - Rental Car Booking
+      - Activity Booking
+      required: false

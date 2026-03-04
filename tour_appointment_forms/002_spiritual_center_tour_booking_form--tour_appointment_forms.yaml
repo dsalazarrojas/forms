@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Spiritual Center Tour Booking Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dates
+      label: Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '2022-01-01'
+      - '2022-01-02'
+      - '2022-01-03'
+      required: false
+    - id: 3
+      name: times
+      label: Times
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      required: false
+    - id: 4
+      name: payment
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - Payment Type
+      - Payment Status
+      required: false
+    - id: 5
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      required: false

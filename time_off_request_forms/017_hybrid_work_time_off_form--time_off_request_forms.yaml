@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Work Time Off Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_field
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_field
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_field
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: end_date_field
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: manager_approvals
+      label: Manager's Approvals
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Do Not Approve
+      - Pending
+      required: false
+    - id: 7
+      name: manager_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager's E-Mail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_id
+      label: Manager's ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: approver_id
+      label: Approver ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Time Off for Personal/Family Events
+      - Time Off for Business Reasons
+      required: false
+    - id: 15
+      name: start_date_field
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: duration_field
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: status_field
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 18
+      name: reason_for_rejection_field
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_notes
+      label: Manager's Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

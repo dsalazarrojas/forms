@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Aging Monitoring Form
+    pages:
+    - id: 1
+      name: merchandiser_details
+      label: Merchandiser Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_information
+      label: Product Information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_submitter
+      label: Signature of Submitter
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: merchandiser_signature
+      label: Merchandiser Signature
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: remarks_signature
+      label: Remarks Signature
+      hint: null
+      type: note
+      options: []
+      required: false

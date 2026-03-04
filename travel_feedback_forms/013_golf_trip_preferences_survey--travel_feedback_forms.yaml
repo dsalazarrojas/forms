@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Trip Preferences Survey
+    pages:
+    - id: 1
+      name: home_course_selection
+      label: Home Course Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: home_distance
+      label: How Far From Home
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: practice_course
+      label: Practice Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: practice_distance
+      label: Practice Distance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_frequency
+      label: How Often Would You Travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: practice_friday
+      label: Practice Day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: practice_time
+      label: Practice Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: golf_trip_purpose
+      label: Golf Trip Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: golf_trip_purpose_other
+      label: Golf Trip Purpose Other
+      hint: null
+      type: text
+      options: []
+      required: false

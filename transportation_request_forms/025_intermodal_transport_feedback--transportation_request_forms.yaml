@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intermodal Transport Feedback
+    pages:
+    - id: 1
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: route
+      label: Route
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: origin_station
+      label: origin_station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: destination_station
+      label: destination_station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: transfer_satisfaction
+      label: transfer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

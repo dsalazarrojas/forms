@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Daily Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of this daily report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_number
+      label: Project Number
+      hint: Project reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weather_condition
+      label: Weather Condition
+      hint: Overall weather for the day
+      type: select_one
+      options:
+      - Clear and Sunny
+      - Partly Cloudy
+      - Overcast
+      - Rainy
+      - Snowy
+      - Windy
+      - Foggy
+      required: true
+    - id: 5
+      name: temperature_high
+      label: High Temperature
+      hint: Highest temperature in Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: temperature_low
+      label: Low Temperature
+      hint: Lowest temperature in Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_start_time
+      label: Work Start Time
+      hint: When work began
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: work_end_time
+      label: Work End Time
+      hint: When work ended
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: total_work_hours
+      label: Total Work Hours
+      hint: Total hours worked on site
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: superintendent_name
+      label: Site Superintendent
+      hint: Name of superintendent on duty
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: workers_on_site
+      label: Number of Workers on Site
+      hint: Total headcount for the day
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: subcontractors_present
+      label: Subcontractors Present
+      hint: List subcontractor companies on site
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_performed
+      label: Work Performed Today
+      hint: Detailed description of work completed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: areas_worked
+      label: Areas of Site Worked
+      hint: Specific locations or zones
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_used
+      label: Equipment Used
+      hint: List major equipment operated today
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: materials_delivered
+      label: Materials Delivered
+      hint: List materials received today
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: materials_installed
+      label: Materials Installed
+      hint: Describe materials placed or installed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: inspections_conducted
+      label: Inspections Conducted
+      hint: List any inspections performed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: safety_incidents
+      label: Safety Incidents
+      hint: Report any accidents or near misses
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_meeting_held
+      label: Safety Meeting Held
+      hint: Was toolbox talk or safety meeting conducted
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: delays_encountered
+      label: Delays Encountered
+      hint: Describe any work delays
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issues_or_concerns
+      label: Issues or Concerns
+      hint: Note any problems requiring attention
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: visitors_on_site
+      label: Visitors on Site
+      hint: List any non-workers who visited
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tomorrow_plan
+      label: Plan for Tomorrow
+      hint: Work scheduled for next day
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporter_name
+      label: Report Prepared By
+      hint: Name of person completing report
+      type: text
+      options: []
+      required: true

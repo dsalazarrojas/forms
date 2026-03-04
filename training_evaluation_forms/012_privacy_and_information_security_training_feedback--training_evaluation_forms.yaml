@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Privacy And Information Security Training Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: What was the training format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: privacy_training
+      label: What did you learn about privacy
+      hint: null
+      type: select_multiple
+      options:
+      - Data Minimization
+      - Information Security
+      - Compliance and Data Protection
+      - Legal and Regulatory
+      required: false
+    - id: 3
+      name: security_training
+      label: What did you learn about security
+      hint: null
+      type: select_multiple
+      options:
+      - Network Security
+      - Application Security
+      - Operating System Security
+      required: false
+    - id: 4
+      name: feedback
+      label: How can we improve the format and content of the training
+      hint: We appreciate any suggestions you may have
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_satisfaction
+      label: How satisfied are you with the training session
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: What is your contact email
+      hint: Your email will not be shared
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false

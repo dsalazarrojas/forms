@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Therapy Informed Consent Form
+    pages:
+    - id: 1
+      name: group_therapy_informed_consent_form_title
+      label: Group Therapy Informed Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_dob
+      label: client_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: group_therapy_services
+      label: group_therapy_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: group_therapy_fees
+      label: group_therapy_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Check''}'
+      - '{''label'': ''Online''}'
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_agreement
+      label: client_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: group_therapy_fees_frequency
+      label: group_therapy_fees_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: therapist_signature
+      label: therapist_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

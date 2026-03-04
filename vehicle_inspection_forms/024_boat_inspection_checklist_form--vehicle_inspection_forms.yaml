@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Inspection Checklist Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_certification
+      label: Inspector Certification
+      hint: Certification number or type
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: boat_owner_name
+      label: Boat Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boat_owner_contact
+      label: Boat Owner Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: boat_hull_id
+      label: Boat Hull ID (HIN)
+      hint: Hull identification number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: engine_serial_number
+      label: Engine Serial Number
+      hint: Engine ID
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspection_type
+      label: Inspection Type
+      hint: Type of inspection being performed
+      type: select_one
+      options:
+      - Pre-Purchase Inspection
+      - Annual Safety Inspection
+      - Insurance Inspection
+      - Damage Assessment
+      - Routine Maintenance
+      - Other
+      required: true
+    - id: 12
+      name: hull_exterior_condition
+      label: Hull Exterior Condition
+      hint: Check for cracks, blisters, damage
+      type: select_one
+      options:
+      - Pass - No issues
+      - Minor issues noted
+      - Major issues found
+      - Fail - Critical damage
+      required: true
+    - id: 13
+      name: hull_structural_integrity
+      label: Hull Structural Integrity
+      hint: Check structural soundness
+      type: select_one
+      options:
+      - Pass
+      - Minor concerns
+      - Major concerns
+      - Fail
+      required: true
+    - id: 14
+      name: deck_condition
+      label: Deck Condition
+      hint: Check for soft spots, cracks
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 15
+      name: engine_external_condition
+      label: Engine External Condition
+      hint: Check for leaks, corrosion
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 16
+      name: engine_oil_level
+      label: Engine Oil Level
+      hint: Check oil level and condition
+      type: select_one
+      options:
+      - Pass - Good level and condition
+      - Low - Needs topping up
+      - Contaminated - Needs change
+      - Unable to check
+      required: true
+    - id: 17
+      name: engine_cooling_system
+      label: Engine Cooling System
+      hint: Check for proper operation
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 18
+      name: fuel_system_condition
+      label: Fuel System Condition
+      hint: Check tanks, lines, filters
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 19
+      name: electrical_system
+      label: Electrical System
+      hint: Check batteries, wiring, lights
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 20
+      name: steering_system
+      label: Steering System
+      hint: Check for proper operation
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 21
+      name: propulsion_system
+      label: Propulsion System
+      hint: Check propeller, shaft, rudder
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 22
+      name: safety_equipment
+      label: Safety Equipment
+      hint: Check life jackets, flares, etc.
+      type: select_one
+      options:
+      - Pass - All present and valid
+      - Minor issues - Some replacement needed
+      - Major issues - Missing equipment
+      - Fail - Inadequate safety gear
+      required: true
+    - id: 23
+      name: navigation_lights
+      label: Navigation Lights
+      hint: Check all lights function
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 24
+      name: bilge_condition
+      label: Bilge Condition
+      hint: Check for water, oil, debris
+      type: select_one
+      options:
+      - Pass - Clean and dry
+      - Minor water present
+      - Major water or oil
+      - Fail - Significant issues
+      required: true
+    - id: 25
+      name: interior_condition
+      label: Interior Condition
+      hint: Check cabin, upholstery, fixtures
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 26
+      name: through_hull_fittings
+      label: Through-Hull Fittings
+      hint: Check for leaks, corrosion
+      type: select_one
+      options:
+      - Pass
+      - Minor issues
+      - Major issues
+      - Fail
+      required: true
+    - id: 27
+      name: defects_found
+      label: Defects Found
+      hint: List all defects discovered
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: recommendations
+      label: Recommendations
+      hint: Suggested repairs or actions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: overall_result
+      label: Overall Inspection Result
+      hint: Final assessment
+      type: select_one
+      options:
+      - Pass - No significant issues
+      - Pass with Minor Deficiencies
+      - Fail - Major Deficiencies
+      - Fail - Critical Safety Issues
+      required: true
+    - id: 30
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true

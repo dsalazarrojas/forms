@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Log Form Template
+    pages:
+    - id: 1
+      name: travel_log_form_template
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_start_date
+      label: Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_start_time
+      label: Travel Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_end_date
+      label: Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_end_time
+      label: Travel End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mode_of_transport
+      label: Mode of Transport
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 81, ''name'': ''car'', ''value'': ''car''}'
+      - '{''id'': 82, ''name'': ''bus'', ''value'': ''bus''}'
+      - '{''id'': 82, ''name'': ''plane'', ''value'': ''plane''}'
+      - '{''id'': 83, ''name'': ''train'', ''value'': ''train''}'
+      - '{''id'': 84, ''name'': ''bike'', ''value'': ''bike''}'
+      - '{''id'': 85, ''name'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 9
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_budget
+      label: Travel Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_expenses
+      label: Travel Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_notes
+      label: Travel Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_users
+      label: Assigned Users
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 131, ''name'': ''Jim'', ''value'': ''jimmmy''}'
+      - '{''id'': 132, ''name'': ''Jane'', ''value'': ''jane''}'
+      - '{''id'': 132, ''name'': ''John'', ''value'': ''john''}'
+      required: true
+    - id: 14
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 141, ''name'': ''approved'', ''value'': ''approved''}'
+      - '{''id'': 142, ''name'': ''pending'', ''value'': ''pending''}'
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

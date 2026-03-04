@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: search_dish_and_view_co2_impact
+    pages:
+    - id: 1
+      name: dish_name
+      label: dish_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dish_type
+      label: dish_type
+      hint: null
+      type: select_multiple
+      options:
+      - beef
+      - pork
+      - chicken
+      - fish
+      - vegetarian
+      required: false
+    - id: 3
+      name: dish_size
+      label: dish_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: cooking_method
+      label: cooking_method
+      hint: null
+      type: select_multiple
+      options:
+      - steamed
+      - raw
+      - grilled
+      - fried
+      required: false
+    - id: 5
+      name: serving_size
+      label: serving_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ingredient1_name
+      label: ingredient1_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ingredient1_quantity
+      label: ingredient1_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ingredient2_name
+      label: ingredient2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ingredient2_quantity
+      label: ingredient2_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: co2_impact
+      label: co2_impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: food_source
+      label: food_source
+      hint: null
+      type: select_one
+      options:
+      - local
+      - imported
+      required: false
+    - id: 12
+      name: food_production
+      label: food_production
+      hint: null
+      type: select_one
+      options:
+      - mechanized
+      - non-mechanized
+      required: false
+    - id: 13
+      name: food_waste
+      label: food_waste
+      hint: null
+      type: select_multiple
+      options:
+      - none
+      - some
+      - most
+      required: false
+    - id: 14
+      name: dish_viewed
+      label: dish_viewed
+      hint: null
+      type: date
+      options: []
+      required: true

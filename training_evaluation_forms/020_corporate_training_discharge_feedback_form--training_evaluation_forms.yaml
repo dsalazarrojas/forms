@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Training Discharge Feedback Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Training Session Overview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_session
+      label: What was the training session you attended?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Overall rating of the training session
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_effectiveness
+      label: How effective was the training session?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: recommendations
+      label: What recommendations would you give to improve future training sessions?
+      hint: null
+      type: select_multiple
+      options:
+      - Provide more hands-on activities
+      - Increase session duration
+      - Offer more interactive content
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_2
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

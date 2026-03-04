@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_release_form
+    pages:
+    - id: 1
+      name: mental_health_provider
+      label: Mental Health Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_releae
+      label: Mental Health Release
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 4
+      name: mental_health_releae
+      label: Mental Health Release
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 5
+      name: date_of_release
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_relese
+      label: Time of Release
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_insurance_number
+      label: Medical Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false

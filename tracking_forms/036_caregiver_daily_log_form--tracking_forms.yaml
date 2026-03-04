@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Daily Log Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full name of caregiver
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client or Patient Name
+      hint: Person receiving care
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: log_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_in
+      label: Time In
+      hint: When did shift start?
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: time_out
+      label: Time Out
+      hint: When did shift end?
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: hours_worked
+      label: Total Hours Worked
+      hint: Calculated from time in and out
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: personal_care_tasks
+      label: Personal Care Tasks Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bathing or shower
+      - Grooming or hair care
+      - Dressing
+      - Toileting or incontinence care
+      - Oral hygiene
+      - Nail care
+      - Shaving
+      - Other personal care
+      required: true
+    - id: 8
+      name: meal_preparation
+      label: Meal Preparation
+      hint: Which meals were prepared?
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      - Special diet meals
+      - Feeding assistance provided
+      required: false
+    - id: 9
+      name: household_tasks
+      label: Household Tasks Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cleaning or tidying
+      - Laundry
+      - Dishes
+      - Grocery shopping
+      - Meal prep or cooking
+      - Trash removal
+      - Yard work
+      - Errands
+      - Other tasks
+      required: false
+    - id: 10
+      name: medication_administration
+      label: Medications Administered
+      hint: List medications given or monitored
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_tasks
+      label: Medical or Health Tasks
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Blood pressure monitoring
+      - Blood glucose checking
+      - Wound dressing changes
+      - Catheter care
+      - Physical therapy exercises
+      - Mobility assistance
+      - Oxygen administration
+      - Other medical tasks
+      required: false
+    - id: 12
+      name: mobility_assistance
+      label: Mobility and Transfer Assistance
+      hint: Transfers, ambulation, positioning
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appointments
+      label: Appointments or Outings
+      hint: Doctor visits, shopping, social activities
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: activity_engagement
+      label: Activities and Engagement
+      hint: Recreation, entertainment, exercises
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_interaction
+      label: Social Interaction and Visits
+      hint: Interactions with client, family visits
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_response
+      label: Client Response and Mood
+      hint: How did client respond? Mood level?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: health_observations
+      label: Health Observations
+      hint: Any changes or concerns in health status
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_report
+      label: Any Incidents or Accidents?
+      hint: Falls, injuries, unusual events
+      type: select_one
+      options:
+      - Yes - describe below
+      - No - no incidents
+      required: true
+    - id: 19
+      name: incident_details
+      label: Incident Details
+      hint: If applicable, describe what happened
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_supplies
+      label: Equipment or Supplies Used
+      hint: Any medical equipment or supplies used
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supplies_needed
+      label: Supplies or Equipment Needed
+      hint: Items that need to be restocked or replaced
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: care_plan_compliance
+      label: Compliance with Care Plan
+      hint: Were care plan instructions followed?
+      type: select_one
+      options:
+      - Yes - fully complied
+      - Yes - mostly complied
+      - Partial - some deviations
+      - No - unable to comply
+      required: true
+    - id: 23
+      name: care_plan_deviations
+      label: Deviations from Care Plan
+      hint: If applicable, explain any changes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_nutrition
+      label: Client Nutrition and Hydration
+      hint: Appetite level, fluid intake
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: bowel_bladder
+      label: Bowel and Bladder Function
+      hint: Frequency, any concerns
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: sleep_rest
+      label: Sleep and Rest Periods
+      hint: Quality of sleep, rest during shift
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: pain_comfort
+      label: Pain or Comfort Level
+      hint: Any pain complaints or comfort measures
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: communication_next_caregiver
+      label: Communication for Next Caregiver
+      hint: Important information to pass along
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: problems_concerns
+      label: Problems or Concerns to Report
+      hint: Any issues needing attention
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant observations
+      type: text
+      options: []
+      required: false

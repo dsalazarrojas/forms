@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: transportation_schedule_communication_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: arrival_time
+      label: arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: departure_time
+      label: departure time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: transport_type
+      label: transport type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: vehicle_number
+      label: vehicle number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: driver_name
+      label: driver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

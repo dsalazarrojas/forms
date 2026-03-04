@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Consent Form
+    pages:
+    - id: 1
+      name: general_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_relationship
+      label: Relationship to the Student
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Guardian''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_supervision
+      label: Medical Supervision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_medical_response
+      label: Emergency Response
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: medical_release
+      label: Medical Release
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_agreement
+      label: Student Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree''}'
+      - '{''label'': ''I do not understand and do not agree''}'
+      required: false
+    - id: 16
+      name: parent_agreement
+      label: Parent Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree''}'
+      - '{''label'': ''I do not understand and do not agree''}'
+      required: false
+    - id: 17
+      name: emergency_response_plan
+      label: Emergency Response Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: student_absence
+      label: Student Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: emergency_absence
+      label: Emergency Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: parent_absence
+      label: Parent Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false

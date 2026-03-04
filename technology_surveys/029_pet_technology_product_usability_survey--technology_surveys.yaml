@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Technology Product Usability Survey
+    pages:
+    - id: 1
+      name: pet_technology_product_usability_survey
+      label: pet_technology_product_usability_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_technology_product_usability_survey_form_technology_survey
+      label: pet_technology_product_usability_survey_form_technology_survey
+      hint: null
+      type: select_one
+      options:
+      - Pet Technology Survey
+      - Pet Tech
+      - Pet Tech Survey
+      required: true
+    - id: 3
+      name: pet_technology_product_usability_survey_form_usability
+      label: pet_technology_product_usability_survey_form_usability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pet_technology_product_usability_survey_form_satisfaction
+      label: pet_technology_product_usability_survey_form_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pet_technology_product_usability_survey_form_feature_ideas
+      label: pet_technology_product_usability_survey_form_feature_ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pet_technology_product_usability_survey_form_date
+      label: pet_technology_product_usability_survey_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pet_technology_product_usability_survey_form_time
+      label: pet_technology_product_usability_survey_form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: pet_technology_product_usability_survey_form_email
+      label: pet_technology_product_usability_survey_form_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: pet_technology_product_usability_survey_form_phone
+      label: pet_technology_product_usability_survey_form_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pet_technology_product_usability_survey_form_comments
+      label: pet_technology_product_usability_survey_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

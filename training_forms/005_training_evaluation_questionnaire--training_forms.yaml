@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: training_program
+      label: Training Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: what_did_you_find_most_valuable
+      label: What Did You Find Most Valuable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: what_did_you_find_least_valuable
+      label: What Did You Find Least Valuable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: will_you_recommend_this_training
+      label: Will You Recommend This Training
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: true
+    - id: 9
+      name: will_recommend_to_others
+      label: Will Recommend To Others
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charter Bus Quote Request
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For quote communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_trip
+      label: -- Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trip_purpose
+      label: Purpose of Trip
+      hint: Why do you need the bus
+      type: select_one
+      options:
+      - Tour or Sightseeing
+      - Corporate Event
+      - School Trip
+      - Wedding
+      - Sports Event
+      - Religious Group
+      - Other
+      required: true
+    - id: 9
+      name: departure_date
+      label: Departure Date
+      hint: When do you need the bus
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: When will you return
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: departure_location
+      label: Departure Location
+      hint: Where will the bus pick up passengers
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: destination
+      label: Destination
+      hint: Where are you traveling to
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_passengers
+      label: -- Passenger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: passenger_count
+      label: Number of Passengers
+      hint: How many people will travel
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: wheelchair_accessible
+      label: Wheelchair Accessible Bus Needed
+      hint: ADA accessibility required
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 16
+      name: special_needs
+      label: Any Special Needs or Requirements
+      hint: Wheelchair lifts, extra comfort, etc
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_services
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: wifi_needed
+      label: WiFi on Bus
+      hint: Internet access needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: power_outlets
+      label: Power Outlets Needed
+      hint: Charging stations on bus
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: restroom_stops
+      label: Restroom Stops Included
+      hint: Stop for restroom breaks
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: section_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Approximate budget for charter
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: flexible_budget
+      label: Budget is Flexible
+      hint: Can accommodate higher costs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Within Reason
+      required: false

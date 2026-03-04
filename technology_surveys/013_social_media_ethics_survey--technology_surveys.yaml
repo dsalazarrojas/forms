@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Ethics Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey
+      label: survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: social_media_platforms
+      label: social media platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: attitudes
+      label: attitudes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ethical_concerns
+      label: ethical concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: behavior
+      label: behavior
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: review
+      label: review
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

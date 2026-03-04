@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: daily_inventory_tracking_form_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Tracking Forms''}'
+      - '{''name'': ''Storekeeper Forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: warehouse_name
+      label: Warehouse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stock_location
+      label: Stock Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stock_quantity
+      label: Stock Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: issue_reported
+      label: Issue Reported
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 10
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stock_location_1
+      label: Stock Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_number
+      label: Item Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stock_value
+      label: Stock Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: stock_value_1
+      label: Stock Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: stock_value_2
+      label: Stock Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: stock_value_3
+      label: Stock Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: stock_value_4
+      label: Stock Value
+      hint: null
+      type: number
+      options: []
+      required: false

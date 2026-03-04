@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: PC Management Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: computer_type
+      label: Computer Type
+      hint: null
+      type: select_one
+      options:
+      - Dell
+      - HP
+      - Lenovo
+      - Apple
+      - Other
+      required: false
+    - id: 3
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 4
+      name: computer_age
+      label: Age of Computer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: support_issues
+      label: Support Issues
+      hint: Describe any problems you are experiencing with computer support
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: support_rating
+      label: Support Rating
+      hint: Please rate the quality of support you receive from the PC team
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: email_issues
+      label: Email Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Slow Response
+      - Missing Information
+      - Unresponsive
+      required: false
+    - id: 8
+      name: email_support
+      label: Email Support
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Call
+      - Email
+      - Walk-In
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: false
+    - id: 11
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Clear and Concise
+      - Prompt
+      - Timely
+      required: false
+    - id: 12
+      name: it_team
+      label: IT Team
+      hint: null
+      type: select_multiple
+      options:
+      - Helpful
+      - Friendly
+      - Knowledgeable
+      required: false
+    - id: 13
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      required: false
+    - id: 14
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Number
+      - Email
+      - Walk-In
+      - Text Message
+      required: false

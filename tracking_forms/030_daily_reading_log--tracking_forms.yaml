@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Reading Log
+    pages:
+    - id: 1
+      name: reading_progress
+      label: Reading Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reflection
+      label: Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reading_log_id
+      label: Reading Log ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Classroom
+      - Tutoring
+      - Personal
+      required: false
+    - id: 11
+      name: submissions
+      label: Submissions
+      hint: null
+      type: select_multiple
+      options:
+      - Submission 1
+      - Submission 2
+      - Submission 3
+      - Submission 4
+      - Submission 5
+      - Submission 6
+      - Submission 7
+      - Submission 8
+      - Submission 9
+      - Submission 10
+      required: false
+    - id: 12
+      name: reflection_1
+      label: Reflection 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: reflection_2
+      label: Reflection 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      - Goal 4
+      - Goal 5
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

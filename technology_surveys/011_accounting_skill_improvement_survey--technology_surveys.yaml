@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Skill Improvement Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Your Role in Accounting
+      hint: Select your primary role in the accounting field
+      type: select_one
+      options: ["Staff Accountant", "Senior Accountant", "Manager", "Director", "CFO", "Student", "Educator", "Other"]
+      required: true
+    - id: 2
+      name: years_experience
+      label: Years of Experience in Accounting
+      hint: How many years of professional experience do you have
+      type: select_one
+      options: ["Less than 1 year", "1-3 years", "4-7 years", "8-15 years", "More than 15 years"]
+      required: true
+    - id: 3
+      name: current_proficiency_level
+      label: Current Overall Proficiency Level
+      hint: Rate your current proficiency in accounting fundamentals
+      type: select_one
+      options: ["Beginner", "Intermediate", "Advanced", "Expert"]
+      required: true
+    - id: 4
+      name: technology_comfort_level
+      label: Comfort Level with Accounting Technology
+      hint: How comfortable are you with accounting software and technology
+      type: select_one
+      options: ["Very uncomfortable", "Uncomfortable", "Neutral", "Comfortable", "Very comfortable"]
+      required: true
+    - id: 5
+      name: skill_gaps_identified
+      label: Areas Where You Feel You Need Improvement
+      hint: Select all areas where you feel you need more training
+      type: select_multiple
+      options: ["Financial Analysis", "Tax Preparation", "Audit Procedures", "GAAP Standards", "IFRS Standards", "Excel Advanced Functions", "ERP Systems", "Data Analytics", "Automation Tools", "Soft Skills"]
+      required: false
+    - id: 6
+      name: preferred_learning_method
+      label: Preferred Learning Method
+      hint: How do you prefer to learn new accounting skills
+      type: select_one
+      options: ["Online courses", "In-person workshops", "Self-study", "Mentoring", "On-the-job training", "Webinars", "University programs"]
+      required: true
+    - id: 7
+      name: time_available_for_training
+      label: Time Available for Training Per Week
+      hint: How much time can you dedicate to skill improvement weekly
+      type: select_one
+      options: ["Less than 2 hours", "2-5 hours", "5-10 hours", "More than 10 hours"]
+      required: true
+    - id: 8
+      name: technology_tools_used
+      label: Technology Tools Currently Used
+      hint: Select all accounting technology tools you currently use regularly
+      type: select_multiple
+      options: ["QuickBooks", "SAP", "Oracle", "Xero", "Excel", "Power BI", "Tableau", "Sage", "FreshBooks", "Other"]
+      required: false
+    - id: 9
+      name: training_priority
+      label: Top Priority for Training
+      hint: What area should be prioritized for your training
+      type: select_one
+      options: ["Technical accounting skills", "Technology proficiency", "Leadership skills", "Communication skills", "Analytical skills", "Industry specialization"]
+      required: true
+    - id: 10
+      name: training_expectations
+      label: What Would You Expect From a Training Program
+      hint: Select all that apply
+      type: select_multiple
+      options: ["Practical exercises", "Real-world examples", "Certification", "Flexible scheduling", "Self-paced learning", "Expert instructors", "Peer collaboration", "Career advancement support"]
+      required: false
+    - id: 11
+      name: budget_for_training
+      label: Budget Available for Training
+      hint: What is your approximate budget for professional development
+      type: select_one
+      options: ["Under $500", "$500-$1,000", "$1,000-$2,500", "$2,500-$5,000", "Over $5,000", "Undetermined"]
+      required: false
+    - id: 12
+      name: improvement_goals
+      label: Specific Goals for Skill Improvement
+      hint: What specific goals do you have for improving your accounting skills
+      type: text
+      options: []
+      required: false

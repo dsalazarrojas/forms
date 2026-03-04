@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prenatal Fiber Intake Tracker
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fiber_consumed
+      label: Fiber Consumed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: fiber_sources
+      label: Fiber Sources
+      hint: null
+      type: select_multiple
+      options:
+      - beans
+      - cereal
+      - fruit
+      - veggies
+      required: true
+    - id: 4
+      name: digestive_status
+      label: Digestive Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

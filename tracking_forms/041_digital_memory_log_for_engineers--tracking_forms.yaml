@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Memory Log For Engineers
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Incident Report
+      - Near Miss
+      - Corrective Action
+      required: false
+    - id: 3
+      name: learning_points
+      label: Learning Points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_action_completed
+      label: Corrective Action Completed
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Closed
+      - Deferred
+      required: false
+    - id: 8
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action_effectiveness
+      label: Effectiveness of Corrective Action
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_affected
+      label: Affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: incident_frequency
+      label: Incident Frequency
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Multiple Times
+      required: false
+    - id: 14
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 15
+      name: incident_lesson_learned
+      label: Lesson Learned
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reporter_contact
+      label: Reporter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_status_updated_by
+      label: Last Status Update By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_closed_by
+      label: Closed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_last_update_date
+      label: Last Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: incident_last_update_by
+      label: Last Update By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_last_review_date
+      label: Last Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_last_review_by
+      label: Last Review By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_last_reviewed
+      label: Last Reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

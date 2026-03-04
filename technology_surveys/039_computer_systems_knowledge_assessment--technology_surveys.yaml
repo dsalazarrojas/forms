@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Systems Knowledge Assessment
+    pages:
+      - id: 1
+        name: section_assessment_instructions
+        label: -- Assessment Instructions --
+        hint: Answer the following to assess systems knowledge
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: os_fundamentals
+        label: OS fundamentals
+        hint: Self rating of OS knowledge
+        type: select_one
+        options: [Advanced, Intermediate, Beginner]
+        required: true
+      - id: 4
+        name: hardware_knowledge
+        label: Hardware knowledge
+        hint: Self rating of hardware understanding
+        type: select_one
+        options: [Advanced, Intermediate, Beginner]
+        required: true
+      - id: 5
+        name: networking_knowledge
+        label: Networking knowledge
+        hint: Self rating of networking concepts
+        type: select_one
+        options: [Advanced, Intermediate, Beginner]
+        required: true
+      - id: 6
+        name: security_principles
+        label: Security principles
+        hint: Awareness of security best practices
+        type: select_one
+        options: [High, Moderate, Low]
+        required: true
+      - id: 7
+        name: practical_experience
+        label: Practical experience
+        hint: Examples of hands on experience
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: training_needs
+        label: Training needs
+        hint: Areas where additional training is desired
+        type: text
+        options: []
+        required: false

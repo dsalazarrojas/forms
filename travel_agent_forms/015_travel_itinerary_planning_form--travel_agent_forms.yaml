@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Itinerary Planning Form
+    pages:
+    - id: 1
+      name: travel_itinerary_form
+      label: travel_itinerary_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destinations
+      label: destinations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: destination_1
+      label: destination_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: destination_2
+      label: destination_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accommodations
+      label: accommodations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: accommodation_1
+      label: accommodation_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_2
+      label: accommodation_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: activities
+      label: activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: activity_1
+      label: activity_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: activity_2
+      label: activity_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_governance_perception_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Do you have a data governance strategy in place?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Partially''}'
+      required: false
+    - id: 4
+      name: question_2
+      label: What types of data is your organization responsible for governing?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Financial data''}'
+      - '{''id'': 2, ''label'': ''Customer data''}'
+      - '{''id'': 3, ''label'': ''Product data''}'
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_3
+      label: How does your organization currently track and manage data?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Centralized database''}'
+      - '{''id'': 2, ''label'': ''Dispersed databases''}'
+      - '{''id'': 3, ''label'': ''No formal tracking system''}'
+      required: false
+    - id: 9
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: organization_size
+      label: Organization Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

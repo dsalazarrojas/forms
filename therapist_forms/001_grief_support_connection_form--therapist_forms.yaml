@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grief Support Connection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_group
+      label: Support Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_group_size
+      label: Size of Support Group
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: preferred_support
+      label: Preferred Support
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Phone call
+      - Video call
+      - Message
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Concert Tickets Order Form
+    pages:
+    - id: 1
+      name: purchaser
+      label: -- Purchaser Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: purchaser_name
+      label: Purchaser name
+      hint: Full name for ticket record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Ticket delivery email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event name
+      hint: Name of concert or performance
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Event date
+      hint: Date of the concert
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: seating_preference
+      label: Seating preference
+      hint: Choose general seating area
+      type: select_one
+      options:
+      - General admission
+      - Floor
+      - Lower level
+      - Upper level
+      - VIP
+      required: true
+    - id: 7
+      name: quantity
+      label: Ticket quantity
+      hint: Total number of tickets
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: delivery_method
+      label: Ticket delivery method
+      hint: How tickets should be delivered
+      type: select_one
+      options:
+      - Email
+      - Mobile wallet
+      - Will call
+      required: true
+    - id: 9
+      name: afterpay
+      label: Pay with Afterpay
+      hint: Choose yes to use Afterpay
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: vip_requests
+      label: VIP or accessibility requests
+      hint: Describe any special needs
+      type: text
+      options: []
+      required: false

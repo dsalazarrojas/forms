@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Weight Rating Correction Form
+    pages:
+    - id: 1
+      name: base_info
+      label: base_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: weight_rating
+      label: weight_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: correction_request
+      label: correction_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: adjustment_reason
+      label: adjustment_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: adjustment_date
+      label: adjustment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: adjustment_time
+      label: adjustment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewed_date
+      label: reviewed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reviewed_time
+      label: reviewed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approved_date
+      label: approved_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: approved_time
+      label: approved_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

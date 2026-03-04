@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Van Safety Checklist
+    pages:
+    - id: 1
+      name: van_safety_checklist_page_1
+      label: van_safety_checklist_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_safety_checklist
+      label: general_safety_checklist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: brake_safety_checklist
+      label: brake_safety_checklist
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: engine_safety_checklist
+      label: engine_safety_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: electrical_safety_checklist
+      label: electrical_safety_checklist
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 6
+      name: tire_safety_checklist
+      label: tire_safety_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: transmission_safety_checklist
+      label: transmission_safety_checklist
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 8
+      name: suspension_safety_checklist
+      label: suspension_safety_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: steering_safety_checklist
+      label: steering_safety_checklist
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 10
+      name: brakes_safety_checklist
+      label: brakes_safety_checklist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: battery_safety_checklist
+      label: battery_safety_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 12
+      name: seatbelt_safety_checklist
+      label: seatbelt_safety_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 13
+      name: safety_checklist_date
+      label: safety_checklist_date
+      hint: null
+      type: date
+      options: []
+      required: false

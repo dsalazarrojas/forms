@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Vendor Registration Form
+    pages:
+    - id: 1
+      name: supplier_details
+      label: supplier_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: qualification_details
+      label: qualification_details
+      hint: Please provide detailed qualifications
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_creation
+      label: date_of_creation
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false

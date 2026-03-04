@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ride Tracking Log Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_start
+      label: trip_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_end
+      label: trip_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fuel_level
+      label: fuel_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: driver_details
+      label: driver_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Running''}'
+      - '{''label'': ''Stopped''}'
+      - '{''label'': ''Not Available''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_id
+      label: vehicle_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vehicle 1''}'
+      - '{''label'': ''Vehicle 2''}'
+      - '{''label'': ''Vehicle 3''}'
+      required: false
+    - id: 11
+      name: driver_id
+      label: driver_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Driver 1''}'
+      - '{''label'': ''Driver 2''}'
+      - '{''label'': ''Driver 3''}'
+      required: false

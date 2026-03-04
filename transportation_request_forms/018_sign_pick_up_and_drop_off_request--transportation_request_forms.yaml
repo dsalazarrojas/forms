@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sign Pick Up And Drop Off Request
+    pages:
+    - id: 1
+      name: sign_pick_up_and_drop_off_request
+      label: Schedule Pick-Up
+      hint: null
+      type: select_one
+      options:
+      - Pickup Date
+      - Pickup Time
+      - Drop Off Date
+      - Drop Off Time
+      required: false
+    - id: 2
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Van
+      - Truck
+      - SUV
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: schedule_pick_up_time
+      label: schedule_pick_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: schedule_drop_off_time
+      label: schedule_drop_off_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - John
+      - Jane
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_completion_time
+      label: form_completion_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_submission_date
+      label: form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

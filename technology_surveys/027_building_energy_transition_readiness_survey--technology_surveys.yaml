@@ -1,0 +1,379 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Energy Transition Readiness Survey
+    pages:
+    - id: 1
+      name: intro_section
+      label: -- Building Energy Transition Readiness Assessment --
+      hint: Evaluate your building's readiness for energy upgrades and transitions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_owner
+      label: Building owner or facility manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_name
+      label: Building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: building_type
+      label: Building type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Residential
+      - Educational
+      - Healthcare
+      - Commercial retail
+      - Industrial
+      - Mixed-use
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 10
+      name: square_footage
+      label: Total square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: construction_year
+      label: Year built
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: energy_assessment
+      label: -- Current Energy Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: energy_audit_completed
+      label: Energy audit completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently completed
+      - Yes, 1-3 years ago
+      - Yes, over 3 years ago
+      - false
+      - Planned
+      required: true
+    - id: 14
+      name: energy_efficiency_rating
+      label: Current energy efficiency rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - LEED certified or equivalent
+      - Good - Above average efficiency
+      - Average - Standard performance
+      - Poor - Below average efficiency
+      - Unknown
+      required: true
+    - id: 15
+      name: current_fuel_sources
+      label: Current energy and fuel sources used
+      hint: null
+      type: select_multiple
+      options:
+      - Natural gas
+      - Oil
+      - Electricity
+      - Propane
+      - District energy
+      - Renewable energy
+      - Other
+      required: true
+    - id: 16
+      name: renewable_energy
+      label: Current renewable energy systems
+      hint: null
+      type: select_multiple
+      options:
+      - Solar photovoltaic
+      - Solar thermal
+      - Wind
+      - Geothermal
+      - Heat pump
+      - Biomass
+      - None
+      - Planned
+      required: true
+    - id: 17
+      name: energy_consumption
+      label: -- Energy Consumption and Costs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: annual_energy_cost
+      label: Estimated annual energy cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: energy_cost_trend
+      label: Energy cost trend
+      hint: null
+      type: select_one
+      options:
+      - Increasing significantly
+      - Increasing moderately
+      - Stable
+      - Decreasing
+      - Unknown
+      required: true
+    - id: 20
+      name: energy_monitoring
+      label: Energy monitoring system in place
+      hint: null
+      type: select_one
+      options:
+      - Yes, real-time monitoring
+      - Yes, monthly tracking
+      - Minimal tracking
+      - false
+      - Planned
+      required: true
+    - id: 21
+      name: energy_goals
+      label: -- Energy Transition Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: transition_goals
+      label: Energy transition goals
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce energy consumption
+      - Decarbonization
+      - Eliminate fossil fuels
+      - Transition to renewables
+      - Improve resilience
+      - Reduce operating costs
+      - Meet regulatory requirements
+      - Environmental responsibility
+      required: true
+    - id: 23
+      name: timeline_goals
+      label: Transition timeline target
+      hint: null
+      type: select_one
+      options:
+      - Net zero by 2030
+      - Net zero by 2040
+      - Net zero by 2050
+      - Carbon neutral by date
+      - Gradual transition
+      - Undecided
+      required: true
+    - id: 24
+      name: infrastructure_readiness
+      label: -- Infrastructure Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: electrical_capacity
+      label: Building electrical capacity for increased load
+      hint: null
+      type: select_one
+      options:
+      - Adequate - No upgrades needed
+      - Adequate with minor upgrades
+      - Insufficient - Needs significant upgrade
+      - Unknown
+      required: true
+    - id: 26
+      name: grid_connection
+      label: Grid connection capability
+      hint: null
+      type: select_one
+      options:
+      - Strong - Reliable connection
+      - Adequate - Standard connection
+      - Limited - May have constraints
+      - Unknown
+      required: false
+    - id: 27
+      name: renewable_suitability
+      label: Building suitability for on-site renewables
+      hint: null
+      type: select_one
+      options:
+      - Excellent - High potential
+      - Good - Suitable
+      - Fair - Some potential
+      - Poor - Limited potential
+      - Unknown
+      required: true
+    - id: 28
+      name: thermal_improvements
+      label: Building envelope improvements
+      hint: Insulation, windows, etc.
+      type: select_one
+      options:
+      - Recently improved
+      - Adequate condition
+      - Needs improvement
+      - Significant work needed
+      - Unknown
+      required: true
+    - id: 29
+      name: financial_readiness
+      label: -- Financial Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: budget_available
+      label: Budget available for energy transition
+      hint: null
+      type: select_one
+      options:
+      - Fully funded
+      - Partially funded
+      - Seeking funding
+      - No budget identified
+      - Exploring financing
+      required: true
+    - id: 31
+      name: financing_interest
+      label: Interest in financing options
+      hint: null
+      type: select_multiple
+      options:
+      - Rebates and grants
+      - Low-interest loans
+      - PACE financing
+      - Energy savings agreements
+      - Tax credits
+      - Leasing arrangements
+      - Other
+      required: false
+    - id: 32
+      name: payback_expectations
+      label: Expected payback period preference
+      hint: null
+      type: select_one
+      options:
+      - 3-5 years
+      - 5-10 years
+      - 10-15 years
+      - Longer term
+      - Flexible
+      required: false
+    - id: 33
+      name: readiness_barriers
+      label: -- Barriers and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: main_barriers
+      label: Primary barriers to energy transition
+      hint: null
+      type: select_multiple
+      options:
+      - High upfront costs
+      - Limited financing options
+      - Operational disruption concerns
+      - Technical complexity
+      - Regulatory uncertainty
+      - Vendor availability
+      - Skill/expertise gaps
+      - Space constraints
+      - Aesthetic concerns
+      - Other
+      required: true
+    - id: 35
+      name: support_needs
+      label: Needed support or resources
+      hint: null
+      type: select_multiple
+      options:
+      - Technical expertise
+      - Financing assistance
+      - Project management
+      - Contractor referrals
+      - Training and education
+      - Regulatory guidance
+      - Data and benchmarking
+      required: false
+    - id: 36
+      name: implementation_capacity
+      label: Capacity to implement transition
+      hint: null
+      type: select_one
+      options:
+      - High - Ready to proceed
+      - Moderate - Some planning needed
+      - Limited - Needs assistance
+      - Very limited - Early stage
+      required: true
+    - id: 37
+      name: additional_comments
+      label: Additional comments or questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: marathon_training_strength_workout_log
+    pages:
+    - id: 1
+      name: marathon_strength_session
+      label: Marathon Strength Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exercises
+      label: Exercises
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sets
+      label: Sets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reps
+      label: Reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exercises_2
+      label: Exercises 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: weight_2
+      label: Weight 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sets_2
+      label: Sets 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reps_2
+      label: Reps 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coach
+      label: Coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: athlete_id
+      label: Athlete ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_at
+      label: Form Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_completed_at
+      label: Form Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: form_last_updated
+      label: Form Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - draft
+      - published
+      - archived
+      required: false
+    - id: 23
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_one
+      options:
+      - v1
+      - v2
+      - v3
+      required: false
+    - id: 24
+      name: form_created_by
+      label: Form Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

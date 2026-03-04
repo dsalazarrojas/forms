@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Training Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: usefulness
+      label: usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: relevance
+      label: relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skills_gained
+      label: skills gaine
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      - partial
+      required: false
+    - id: 6
+      name: skills_improvement_needed
+      label: skills improvement needed
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a lot
+      - somewhat
+      required: false
+    - id: 7
+      name: time_spend
+      label: time spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_value
+      label: training value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_confirmation
+      label: email confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 13
+      name: email_confirmation_method
+      label: email confirmation method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - sms
+      - phone
+      - none
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - submit
+      - save draft
+      - cancel
+      required: false

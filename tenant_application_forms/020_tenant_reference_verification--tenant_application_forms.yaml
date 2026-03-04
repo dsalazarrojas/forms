@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Reference Verification
+    pages:
+    - id: 1
+      name: tenant_reference_verification_1_name
+      label: Tenant Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_reference_verification_2_experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_reference_verification_3_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Self-Employed''}'
+      - '{''label'': ''Retired''}'
+      required: false
+    - id: 4
+      name: tenant_reference_verification_4_employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Seasonal''}'
+      required: false
+    - id: 5
+      name: tenant_reference_verification_5_employment_duration
+      label: How Long Employed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tenant_reference_verification_6_employment_ended
+      label: Employment Ended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: tenant_reference_verification_7_employment_ended_reason
+      label: Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Voluntarily''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Retired''}'
+      required: false
+    - id: 8
+      name: tenant_reference_verification_8_employment_ended_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Impact Of Heat Wave Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_part_1
+      label: Survey Part 1
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Heat Wave Impacts
+      - Heat Wave Impacts
+      - Heat Waves
+      required: false
+    - id: 3
+      name: coping_strategies
+      label: Coping Strategies
+      hint: Please select one
+      type: select_one
+      options:
+      - air_conditioner
+      - fan
+      - window_shutter
+      - none
+      - other
+      required: false
+    - id: 4
+      name: local_needs
+      label: Local Needs
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - air_conditioner
+      - fan
+      - window_shutter
+      - other
+      required: false
+    - id: 5
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: household_info
+      label: Household Info
+      hint: Select a number
+      type: select_one
+      options:
+      - 1 or 2
+      - 3 or 4
+      - 5 or 6
+      - 7 or 8
+      - 9 or 10
+      - other
+      required: false
+    - id: 7
+      name: survey_part_2
+      label: Survey Part 2
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Heat Wave Impacts
+      - Heat Waves
+      - Heat Wave Impacts
+      required: false

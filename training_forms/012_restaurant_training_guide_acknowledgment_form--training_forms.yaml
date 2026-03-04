@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Training Guide Acknowledgment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_manager_name
+      label: training_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: training_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: completion_date
+      label: completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_signature
+      label: supervisor_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: training_manager_signature
+      label: training_manager_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: training_hours_completed
+      label: training_hours_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_minutes_completed
+      label: training_minutes_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_seconds_completed
+      label: training_seconds_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_duration
+      label: training_duration
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - 6-8 hours
+      - 8+ hours
+      required: false
+    - id: 13
+      name: training_topics_completed
+      label: training_topics_completed
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen Operations
+      - Serving and Service
+      - Food and Beverage
+      - Safety and Security
+      required: false
+    - id: 14
+      name: employee_acknowledgment
+      label: employee_acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

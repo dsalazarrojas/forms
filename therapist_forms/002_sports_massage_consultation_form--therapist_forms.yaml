@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Massage Consultation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: health_condition
+      label: Health Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: massage_needs
+      label: Massage Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Arthritis
+      - Fibromyalgia
+      - Other
+      required: false
+    - id: 8
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: injury_history
+      label: Injury History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: massage_fees
+      label: Massage Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: massage_goals
+      label: Massage Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

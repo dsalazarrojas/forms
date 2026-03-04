@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Payable Form
+    pages:
+    - id: 1
+      name: payable_header
+      label: -- Payable record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor name
+      hint: Supplier name for the payable
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_number
+      label: Invoice number
+      hint: Vendor invoice reference
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: invoice_date
+      label: Invoice date
+      hint: Date on vendor invoice
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: due_date
+      label: Due date
+      hint: Payment due date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: Amount
+      hint: Total payable amount
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: currency
+      label: Currency
+      hint: Currency of the payable
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - Other
+      required: true
+    - id: 8
+      name: department_code
+      label: Department code
+      hint: Cost center or department charging the expense
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: account_code
+      label: Account code
+      hint: GL code for the expense
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment status
+      hint: Current status of the payable
+      type: select_one
+      options:
+      - Pending
+      - Scheduled
+      - Paid
+      required: true
+    - id: 11
+      name: approved_by
+      label: Approved by
+      hint: Name of approver
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: approval_date
+      label: Approval date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Any related remarks or instructions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Cost Assessment Survey
+    pages:
+    - id: 1
+      name: network_cost_assessment_survey
+      label: Network Cost Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cost_category
+      label: cost_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: cost_frequency
+      label: cost_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: cost_value
+      label: cost_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cost_optimization_opportunities
+      label: cost_optimization_opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
