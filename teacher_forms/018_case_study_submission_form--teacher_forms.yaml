@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Submission Form
+    pages:
+    - id: 1
+      name: student_information_section
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_information_section
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_number
+      label: Course Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Winter
+      - Spring
+      - Summer
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: case_study_details_section
+      label: -- Case Study Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: case_study_title
+      label: Case Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: subject_area
+      label: Subject Area or Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: case_study_context
+      label: Context or Background of Case Study
+      hint: Briefly describe the situation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: methodology_section
+      label: -- Methodology and Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: research_methods
+      label: Research Methods Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Literature Review
+      - Interviews
+      - Surveys
+      - Observations
+      - Data Analysis
+      - Case Documentation
+      - Primary Research
+      - Secondary Research
+      required: true
+    - id: 17
+      name: analysis_approach
+      label: Analysis Approach
+      hint: Describe how you analyzed the case
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: key_findings_section
+      label: -- Key Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_findings
+      label: Main Findings and Conclusions
+      hint: Summarize key results
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: implications
+      label: Implications and Recommendations
+      hint: What do these findings suggest?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_details_section
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: word_count
+      label: Approximate Word Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: page_count
+      label: Number of Pages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: submission_format
+      label: File Format
+      hint: null
+      type: select_one
+      options:
+      - Microsoft Word
+      - PDF
+      - Google Docs
+      - Other
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any relevant information for the instructor
+      type: text
+      options: []
+      required: false

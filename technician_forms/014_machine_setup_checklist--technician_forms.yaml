@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Setup Checklist
+    pages:
+    - id: 1
+      name: main
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_name
+      label: machine_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machine_number
+      label: machine_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: machine_serial_number
+      label: machine_serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: setup_completed_by
+      label: setup_completed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: setup_completed_date
+      label: setup_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: setup_completed_time
+      label: setup_completed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

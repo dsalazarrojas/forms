@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workspace Login Experience Survey
+    pages:
+    - id: 1
+      name: login_frequency
+      label: Login Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: devices
+      label: Devices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: browser
+      label: Browsers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: frequency_note
+      label: Frequency Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: devices_note
+      label: Devices Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: browser_note
+      label: Browsers Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: issues_note
+      label: Issues Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_note
+      label: Satisfaction Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_retreat_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our corporate retreat feedback survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: How satisfied were you with the event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_one
+      label: Session 1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: session_two
+      label: Session 2
+      hint: null
+      type: select_one
+      options:
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: session_three
+      label: Session 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_event
+      label: Date of the event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_event
+      label: Time of the event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location of the event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

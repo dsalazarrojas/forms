@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: OB GYN Event Attendance Survey
+    pages:
+    - id: 1
+      name: event_attendance_survey_form
+      label: Event Attendance Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_attendance
+      label: session_attendance
+      hint: Which sessions did you attend?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_attendance_list
+      label: Select all sessions attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_text
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_list
+      label: List of Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_list
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: attendee_list_1
+      label: Select all attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

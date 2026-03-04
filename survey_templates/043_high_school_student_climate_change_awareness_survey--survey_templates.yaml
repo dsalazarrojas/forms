@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Student Climate Change Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: Do you believe climate change is happening?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very concerned''}'
+      - '{''label'': ''Somewhat concerned''}'
+      - '{''label'': ''Not concerned at all''}'
+      required: false
+    - id: 3
+      name: question2
+      label: What are some of the main reasons why climate change is happening?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Carbon emissions''}'
+      - '{''label'': ''Deforestation''}'
+      - '{''label'': ''Burning fossil fuels''}'
+      required: false
+    - id: 4
+      name: question3
+      label: On a scale of 1-10 how concerned are you about climate change?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: What do you think is the most important action we should take to address
+        climate change?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Reduce carbon emissions''}'
+      - '{''label'': ''Invest in renewable energy''}'
+      - '{''label'': ''Protect and restore natural habitats''}'
+      required: false
+    - id: 6
+      name: question5
+      label: What do you think is the biggest obstacle to addressing climate change?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lack of awareness''}'
+      - '{''label'': ''Economic costs''}'
+      - '{''label'': ''Government policies''}'
+      required: false
+    - id: 7
+      name: question6
+      label: How do you think climate change will affect your community in the next
+        10 years?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Not likely at all''}'
+      required: false
+    - id: 8
+      name: question7
+      label: Do you think climate change will affect your daily life in the next 10
+        years?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Not likely at all''}'
+      required: false
+    - id: 9
+      name: question8
+      label: What do you think is the biggest opportunity for schools to address climate
+        change?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Educate about climate change''}'
+      - '{''label'': ''Implement sustainable practices''}'
+      - '{''label'': ''Support climate change research and development''}'
+      required: false
+    - id: 10
+      name: question9
+      label: How can schools best educate students about climate change?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Classroom instruction''}'
+      - '{''label'': ''Field trips''}'
+      - '{''label'': ''Online resources''}'
+      required: false

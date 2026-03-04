@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_information_collection_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_age
+      label: student_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_dob
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: student_subject
+      label: Subject
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false

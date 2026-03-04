@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teachers Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: strengths
+      label: Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weakness
+      label: Weaknesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institutional_standing
+      label: Institutional Standing
+      hint: Please select your choice from below
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Needs Improvement
+      required: false
+    - id: 8
+      name: teaching_practice
+      label: Teaching Practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: institutional_achievements
+      label: Institutional Achievements
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

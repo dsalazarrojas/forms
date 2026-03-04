@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Feature Specification Survey
+    pages:
+    - id: 1
+      name: game_feature_specification_survey
+      label: Game Feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_teams
+      label: Game Teams
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Team A''}'
+      - '{''name'': ''Team B''}'
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: players
+      label: Players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Excellent''}'
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      required: false
+    - id: 6
+      name: feature_priorities
+      label: Feature Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: game_updates
+      label: Game Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_decisions
+      label: Product Decisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feature_specifications
+      label: Feature Specifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: player_pain_points
+      label: Player Pain Points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_pain_points
+      label: Team Pain Points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_performance
+      label: Game Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_performance
+      label: Product Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: jat
+      label: JAT
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: jat2
+      label: JAT2
+      hint: null
+      type: time
+      options: []
+      required: false

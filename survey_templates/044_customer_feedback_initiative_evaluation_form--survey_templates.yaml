@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Initiative Evaluation Form
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How satisfied are you with our service?
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very satisfied''}'
+      - '{''id'': 2, ''value'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''value'': ''Somewhat dissatisfied''}'
+      - '{''id'': 4, ''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 4
+      name: customer_complaint
+      label: Do You Have a Complaint?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 5
+      name: customer_recommend
+      label: Will You Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      - '{''id'': 3, ''value'': ''Not sure''}'
+      required: false
+    - id: 6
+      name: customer_comment
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_designation
+      label: Designation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''CEO''}'
+      - '{''id'': 2, ''value'': ''Manager''}'
+      - '{''id'': 3, ''value'': ''Team Member''}'
+      required: false
+    - id: 12
+      name: customer_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Marketing''}'
+      - '{''id'': 2, ''value'': ''Sales''}'
+      - '{''id'': 3, ''value'': ''Support''}'
+      required: false
+    - id: 13
+      name: customer_rating_5
+      label: Customer Rating 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_rating_3
+      label: Customer Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: customer_rating_4
+      label: Customer Rating 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_rating_2
+      label: Customer Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: customer_rating_1
+      label: Customer Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_satisfaction_5
+      label: Customer Satisfaction 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_satisfaction_2
+      label: Customer Satisfaction 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customer_satisfaction_3
+      label: Customer Satisfaction 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: customer_satisfaction_1
+      label: Customer Satisfaction 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: customer_satisfaction_4
+      label: Customer Satisfaction 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: customer_feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false

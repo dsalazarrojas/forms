@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Supply Order Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_options
+      label: Payment Options
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      required: false
+    - id: 5
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - Lab Supplies 1
+      - Lab Supplies 2
+      - Lab Supplies 3
+      required: false
+    - id: 6
+      name: order_items_2
+      label: Order Items 2
+      hint: null
+      type: select_multiple
+      options:
+      - Lab Supplies 4
+      - Lab Supplies 5
+      - Lab Supplies 6
+      required: false
+    - id: 7
+      name: order_items_3
+      label: Order Items 3
+      hint: null
+      type: select_multiple
+      options:
+      - Lab Supplies 7
+      - Lab Supplies 8
+      - Lab Supplies 9
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Teacher Application Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_lastname
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: highest_qualification
+      label: highest_qualification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preschool_name
+      label: preschool_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: position_applied_for
+      label: position_applied_for
+      hint: null
+      type: select_multiple
+      options:
+      - Preschool teacher
+      - Intern
+      - Job
+      - Other
+      required: false

@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Branding Questionnaire
+    pages:
+      - id: 1
+        name: client_name
+        label: Client or Company Name
+        hint: Full name of the client
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_type
+        label: What type of project is this
+        hint: Select the branding project type
+        type: select_one
+        options:
+          - New brand creation
+          - Logo redesign
+          - Brand refresh
+          - Product branding
+          - Service branding
+          - Rebranding campaign
+        required: true
+      - id: 3
+        name: current_brand_status
+        label: Current Brand Status
+        hint: Describe the current state of the brand
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: business_description
+        label: Business Description
+        hint: Explain what the business does
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: target_market
+        label: Target Market and Demographics
+        hint: Who is your ideal customer
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: brand_positioning
+        label: How should your brand be positioned
+        hint: Market positioning and differentiation
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: brand_archetype
+        label: Brand Archetype
+        hint: Which archetype best fits your brand
+        type: select_one
+        options:
+          - The Hero
+          - The Innocent
+          - The Sage
+          - The Explorer
+          - The Everyman
+          - The Lover
+          - The Creator
+          - The Jester
+          - The Magician
+          - The Ruler
+          - The Caregiver
+          - The Outlaw
+        required: false
+      - id: 8
+        name: key_brand_attributes
+        label: Key Brand Attributes
+        hint: List the primary characteristics of your brand
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: visual_style
+        label: Preferred Visual Style
+        hint: Describe your preferred design aesthetic
+        type: select_multiple
+        options:
+          - Modern and minimalist
+          - Classic and traditional
+          - Playful and fun
+          - Bold and dramatic
+          - Elegant and sophisticated
+          - Trendy and contemporary
+        required: false
+      - id: 10
+        name: color_preferences
+        label: Color Preferences
+        hint: Any preferred colors or color schemes
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: font_style
+        label: Font Style Preference
+        hint: Choose preferred typography style
+        type: select_one
+        options:
+          - Sans-serif (modern)
+          - Serif (traditional)
+          - Handwritten (personal)
+          - Display (bold)
+          - Geometric (clean)
+        required: false
+      - id: 12
+        name: imagery_style
+        label: Imagery and Graphics Style
+        hint: Describe preferred visual elements
+        type: select_one
+        options:
+          - Photography
+          - Illustrations
+          - Icons and symbols
+          - Abstract
+          - Minimal elements
+        required: false
+      - id: 13
+        name: logo_style
+        label: Logo Design Preference
+        hint: What logo style appeals to you
+        type: select_multiple
+        options:
+          - Word mark (text-based)
+          - Icon mark (symbol)
+          - Combination mark
+          - Mascot
+          - Lettermark
+          - Abstract
+        required: false
+      - id: 14
+        name: competitor_analysis
+        label: Competitor Brands to Reference
+        hint: List competitor brands you know
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: inspiration_sources
+        label: Design Inspiration Sources
+        hint: Where should the designer draw inspiration
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: core_message
+        label: Core Brand Message
+        hint: What should your brand communicate
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: brand_personality
+        label: Brand Personality
+        hint: Describe how your brand should feel
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: must_haves
+        label: Must-Have Elements
+        hint: Non-negotiable elements to include
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: avoid_elements
+        label: Elements to Avoid
+        hint: What should the designer NOT include
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: timeline
+        label: Project Timeline
+        hint: When is the branding needed
+        type: select_one
+        options:
+          - ASAP
+          - 2-4 weeks
+          - 4-8 weeks
+          - 8-12 weeks
+          - Flexible
+        required: true

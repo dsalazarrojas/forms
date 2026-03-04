@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intermediate Course Delegate Feedback Form
+    pages:
+    - id: 1
+      name: course_provider
+      label: Course Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_contact_information
+      label: Participant Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_provider_comment
+      label: Course Provider Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_comment
+      label: Participant Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 11
+      name: course_provider_rating
+      label: Course Provider Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participant_satisfaction_level
+      label: Participant Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 13
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: provider_satisfaction_level
+      label: Provider Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 15
+      name: provider_comment
+      label: Provider Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: course
+      label: Course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: course_level
+      label: Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 18
+      name: course_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: course_provider
+      label: Course Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

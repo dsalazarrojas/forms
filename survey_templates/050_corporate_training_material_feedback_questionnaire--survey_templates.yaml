@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_training_material_feedback_questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome To The Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What did you like most about this training material?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: What did you dislike about this training material?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: What suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: Do You Need More Information On A Topic?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: Was your training material relevant?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Enough Information
+      required: true
+    - id: 7
+      name: question6
+      label: Was this training material easy to understand?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Enough Information
+      required: true
+    - id: 8
+      name: question7
+      label: Do you have any other comments about this training material?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: Would you recommend this training material?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: question9
+      label: Is this material suitable for your training needs?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Enough Information
+      required: true
+    - id: 11
+      name: question10
+      label: What is the most important information you want the course creators to
+        know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question11
+      label: Is there anything else you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question12
+      label: Do you have any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: question13
+      label: Is your feedback important for our organization?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: question14
+      label: How likely is it to you that you will recommend this training material
+        to colleagues?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question15
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false

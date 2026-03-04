@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: key_account_planning_survey
+    pages:
+    - id: 1
+      name: objective
+      label: objective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stakeholders
+      label: stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: challenges
+      label: challenges
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: growth_opportunities
+      label: growth_opportunities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: key_performance_indicators
+      label: key_performance_indicators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_manager_info
+      label: account_manager_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_manager_email
+      label: account_manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: account_manager_phone
+      label: account_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_team
+      label: sales_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_contact_info
+      label: customer_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_decision_maker
+      label: customer_decision_maker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: key_account_priority
+      label: key_account_priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: customer_account_id
+      label: customer_account_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: customer_account_name
+      label: customer_account_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: customer_account_description
+      label: customer_account_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_account_address
+      label: customer_account_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_account_city
+      label: customer_account_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_account_state
+      label: customer_account_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_account_postal_code
+      label: customer_account_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_account_country
+      label: customer_account_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sales_team_members
+      label: sales_team_members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: account_notes
+      label: account_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: account_manager_notes
+      label: account_manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false

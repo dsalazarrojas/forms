@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Service Feedback Request Form
+    pages:
+    - id: 1
+      name: passenger_service_provider
+      label: passenger_service_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: route
+      label: route
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_type
+      label: service_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied'', ''value'': 1}'
+      - '{''label'': ''Somewhat dissatisfied'', ''value'': 2}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat satisfied'', ''value'': 4}'
+      - '{''label'': ''Very satisfied'', ''value'': 5}'
+      required: true
+    - id: 5
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''label'': ''Good'', ''value'': ''Good''}'
+      - '{''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''label'': ''Bad'', ''value'': ''Bad''}'
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Fair'', ''value'': 3}'
+      - '{''label'': ''Poor'', ''value'': 2}'
+      - '{''label'': ''Very Poor'', ''value'': 1}'
+      required: false
+    - id: 7
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Fair'', ''value'': 3}'
+      - '{''label'': ''Poor'', ''value'': 2}'
+      - '{''label'': ''Very Poor'', ''value'': 1}'
+      required: false
+    - id: 8
+      name: punctuality
+      label: punctuality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Fair'', ''value'': 3}'
+      - '{''label'': ''Late'', ''value'': 2}'
+      - '{''label'': ''Very Late'', ''value'': 1}'
+      required: false
+    - id: 9
+      name: value_for_money
+      label: value_for_money
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very cheap'', ''value'': 1}'
+      - '{''label'': ''Somewhat cheap'', ''value'': 2}'
+      - '{''label'': ''Average'', ''value'': 3}'
+      - '{''label'': ''Somewhat expensive'', ''value'': 4}'
+      - '{''label'': ''Very expensive'', ''value'': 5}'
+      required: false
+    - id: 10
+      name: comfort
+      label: comfort
+      hint: null
+      type: text
+      options: []
+      required: false

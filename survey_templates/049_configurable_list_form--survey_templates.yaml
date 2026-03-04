@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Configurable List Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: Name of this form
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: list_type
+      label: Type of List
+      hint: What are you creating
+      type: select_one
+      options:
+      - Item Inventory
+      - Task List
+      - Contact List
+      - Resource List
+      - Checklist
+      - Custom List
+      required: true
+    - id: 7
+      name: list_name
+      label: List Name
+      hint: Title for this list
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: list_description
+      label: List Description
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: list_purpose
+      label: Purpose of List
+      hint: Why creating this
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: item_1_name
+      label: Item 1 Name
+      hint: First item
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_1_category
+      label: Item 1 Category
+      hint: Category
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: item_1_priority
+      label: Item 1 Priority
+      hint: Importance
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: item_1_notes
+      label: Item 1 Notes
+      hint: Additional info
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: item_2_name
+      label: Item 2 Name
+      hint: Second item
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_2_category
+      label: Item 2 Category
+      hint: Category
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_2_priority
+      label: Item 2 Priority
+      hint: Importance
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: item_2_notes
+      label: Item 2 Notes
+      hint: Additional info
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_3_name
+      label: Item 3 Name
+      hint: Third item
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_3_category
+      label: Item 3 Category
+      hint: Category
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: item_3_priority
+      label: Item 3 Priority
+      hint: Importance
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: item_3_notes
+      label: Item 3 Notes
+      hint: Additional info
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_items
+      label: Additional Items
+      hint: List more items
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: total_items
+      label: Total Number of Items
+      hint: Count
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: list_status
+      label: List Status
+      hint: Current state
+      type: select_one
+      options:
+      - Draft
+      - In Progress
+      - Complete
+      - Under Review
+      required: true
+    - id: 28
+      name: due_date
+      label: Due Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: assigned_to
+      label: Assigned To
+      hint: Who is responsible
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: sharing_permissions
+      label: Sharing Permissions
+      hint: Who can view
+      type: select_one
+      options:
+      - Private
+      - Team Only
+      - Organization
+      - Public
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: Confirm submission
+      type: select_one
+      options:
+      - I Confirm
+      - Need Changes
+      required: true

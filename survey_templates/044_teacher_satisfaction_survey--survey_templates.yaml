@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_satisfaction_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_satisfaction_survey_questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 3
+      name: comments_and_suggestions
+      label: Comments and Suggestions
+      hint: Be as specific as possible when providing comments and suggestions
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_response
+      label: Email Response
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_response
+      label: Phone Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: teacher_satisfaction_survey_questions_2
+      label: More Questions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: teacher_satisfaction_survey_questions_3
+      label: Even More Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 10
+      name: email_response_2
+      label: Email Response 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_response_2
+      label: Phone Response 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: survey_completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: email_response_3
+      label: Email Response 3
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_response_3
+      label: Phone Response 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_3
+      label: Date 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_3
+      label: Time 3
+      hint: null
+      type: time
+      options: []
+      required: false

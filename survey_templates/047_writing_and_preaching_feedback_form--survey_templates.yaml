@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writing And Preaching Feedback Form
+    pages:
+    - id: 1
+      name: writing_and_preaching_feedback_form
+      label: Writing And Preaching Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate this message
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: Do you have any suggestions for the next message?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Sermon
+      - Written Message
+      - Video
+      required: false

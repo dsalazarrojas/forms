@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: survey_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question
+      label: What do you want to know about our school?
+      hint: null
+      type: select_one
+      options:
+      - School Facilities
+      - School Events
+      - School Food
+      - School Safety
+      - School Academics
+      - School Communication
+      required: false
+    - id: 5
+      name: feedback_response
+      label: How would you rate your experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Neutral
+      - Very Poor
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_class
+      label: Class
+      hint: null
+      type: select_multiple
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: false
+    - id: 9
+      name: parent_contact_email
+      label: Parent Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: parent_contact_phone
+      label: Parent Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: survey_end
+      label: survey_end
+      hint: null
+      type: note
+      options: []
+      required: false

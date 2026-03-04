@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Planning Community Needs Survey
+    pages:
+    - id: 1
+      name: neighborhood_satisfaction
+      label: Neighborhood Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: neighborhood_priorities
+      label: Neighborhood Priorities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Mail''}'
+      - '{''id'': 4, ''name'': ''None''}'
+      required: true
+    - id: 4
+      name: neighborhood_characteristics
+      label: Neighborhood Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Parks''}'
+      - '{''id'': 2, ''name'': ''Public Transportation''}'
+      - '{''id'': 3, ''name'': ''Community Center''}'
+      - '{''id'': 4, ''name'': ''None''}'
+      required: false
+    - id: 5
+      name: neighborhood_satisfaction_rating
+      label: Neighborhood Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

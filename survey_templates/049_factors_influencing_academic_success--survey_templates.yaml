@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factors Influencing Academic Success
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_habits
+      label: Study Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_background
+      label: Student Background
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: parent_involvement
+      label: Parental Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: peer_influence
+      label: Peer Influence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: school_environment
+      label: School Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Urban''}'
+      - '{''id'': 2, ''label'': ''Rural''}'
+      required: false
+    - id: 9
+      name: family_involvement
+      label: Family Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: self_confidence
+      label: Self-Confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: self_efficacy
+      label: Self-Efficacy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 12
+      name: teacher_student_relationship
+      label: Teacher-Student Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Strong''}'
+      - '{''id'': 2, ''label'': ''Weak''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 13
+      name: teacher_support_system
+      label: Teacher Support System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: student_support_system
+      label: Student Support System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: peer_support_system
+      label: Peer Support System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: student_perception
+      label: Student Perception
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 17
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 18
+      name: teacher_satisfaction
+      label: Teacher Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 19
+      name: student_attitude
+      label: Student Attitude
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      required: false
+    - id: 20
+      name: teacher_attitude
+      label: Teacher Attitude
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      required: false
+    - id: 21
+      name: student_behavior
+      label: Student Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: teacher_behavior
+      label: Teacher Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: teacher_perception
+      label: Teacher Perception
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 24
+      name: student_perception
+      label: Student Perception
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 25
+      name: other_factors
+      label: Other Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

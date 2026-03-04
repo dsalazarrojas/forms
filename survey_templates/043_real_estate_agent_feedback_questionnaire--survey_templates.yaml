@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_feedback_questionnaire
+    pages:
+    - id: 1
+      name: real_estate_agent
+      label: RealEstateAgent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_method
+      label: ContactMethod
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 3, ''label'': ''InPerson'', ''value'': ''in_person''}'
+      required: false
+    - id: 3
+      name: contact_info
+      label: ContactInfo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question1
+      label: Question1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''VeryGood'', ''value'': ''very_good''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 4, ''label'': ''VeryFair'', ''value'': ''very_fair''}'
+      required: false
+    - id: 5
+      name: question2
+      label: Question2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: Question3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question4
+      label: Question4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: question5
+      label: Question5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

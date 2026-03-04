@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Leadership Teacher Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_leadership_qualities
+      label: Student Leadership Qualities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_average
+      label: Evaluation Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: select_one_option_1
+      label: Option 1
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 8
+      name: select_multiple_option_1
+      label: Select Multiple Options
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      - Option E
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_evaluation_form_id
+      label: Teacher Evaluation Form ID
+      hint: null
+      type: text
+      options: []
+      required: true

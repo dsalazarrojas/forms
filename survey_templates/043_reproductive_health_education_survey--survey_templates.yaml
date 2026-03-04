@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: reproductive_health_education_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor's Degree
+      - Master's Degree
+      required: true
+    - id: 8
+      name: reproductive_health_concerns
+      label: Reproductive Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

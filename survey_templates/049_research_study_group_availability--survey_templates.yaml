@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_study_group_availability
+    pages:
+    - id: 1
+      name: member_schedules
+      label: Member Schedules
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: meeting_formats
+      label: Meeting Formats
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_sessions
+      label: Research Sessions
+      hint: null
+      type: select_one
+      options:
+      - Research Session 1
+      - Research Session 2
+      - Research Session 3
+      required: false
+    - id: 5
+      name: session_durations
+      label: Session Durations
+      hint: null
+      type: number
+      options: []
+      required: false

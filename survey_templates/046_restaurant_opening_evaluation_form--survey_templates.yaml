@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Opening Evaluation Form
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_type
+      label: Location Type
+      hint: null
+      type: select_one
+      options:
+      - Restaurant
+      - Store
+      - Food Truck
+      - Other
+      required: false
+    - id: 4
+      name: location_description
+      label: Location Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: operating_hours
+      label: Operating Hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: operating_days
+      label: Operating Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: staff_friendly
+      label: Staff Friendly
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: ambiance
+      label: Ambiance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: value_for_money
+      label: Value For Money
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: will_recommend
+      label: Will Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

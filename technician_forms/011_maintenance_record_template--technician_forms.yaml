@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Record Template
+    pages:
+    - id: 1
+      name: maintenance_record_template
+      label: Maintenance Record Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_record_date
+      label: Maintenance Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_record_start_time
+      label: Maintenance Record Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_record_duration
+      label: Maintenance Record Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: maintenance_description
+      label: Maintenance Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_record_status
+      label: Maintenance Record Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: maintenance_record_notes
+      label: Maintenance Record Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_record_comments
+      label: Maintenance Record Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunting Experience Feedback
+    pages:
+    - id: 1
+      name: rating
+      label: Overall Rating
+      hint: Rate this experience from 1 to 5
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 2
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with your experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: outfitter
+      label: Outfitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

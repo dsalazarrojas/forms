@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streetwear Order Form Template
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_notes
+      label: Customer Notes
+      hint: Enter any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_info
+      label: Product Info
+      hint: null
+      type: select_one
+      options:
+      - Sweater
+      - Hoodie
+      - Jacket
+      - Tank Top
+      - Sneakers
+      required: false
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Extra Extra Large
+      required: false
+    - id: 8
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Grey
+      - Blue
+      - Green
+      required: false
+    - id: 9
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter a shipping address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: Shipping City
+      hint: Enter a shipping city
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      - Texas
+      - Illinois
+      required: false
+    - id: 15
+      name: shipping_zip
+      label: Shipping Zip
+      hint: Enter a zip code
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: store_open_time
+      label: Store Open Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: store_close_time
+      label: Store Close Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: confirm_terms
+      label: Confirm Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

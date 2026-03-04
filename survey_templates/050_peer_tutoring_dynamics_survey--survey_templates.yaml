@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Tutoring Dynamics Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tutor_name
+      label: Tutor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_frequency
+      label: Role Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times a month
+      - 2-3 times a month
+      - Daily
+      - Weekly
+      - Never
+      required: false
+    - id: 4
+      name: role_effectiveness
+      label: Role Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Helping student
+      - Improving student
+      - Supporting student
+      - Teaching student
+      required: false
+    - id: 5
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: school_tutoring_frequency
+      label: How often do you go to the school for tutoring?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5 or more times a week
+      required: false
+    - id: 11
+      name: school_tutoring_effectiveness
+      label: How effective is your experience with school tutors?
+      hint: null
+      type: select_multiple
+      options:
+      - Not very effective
+      - Somewhat effective
+      - Somewhat very effective
+      - Very effective
+      required: false
+    - id: 12
+      name: school_tutoring_comments
+      label: Comments on school tutors
+      hint: null
+      type: note
+      options: []
+      required: false

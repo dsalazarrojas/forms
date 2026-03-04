@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Study Application Form
+    pages:
+    - id: 1
+      name: work_study_application_form_page_1
+      label: work_study_program_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_study_application_form_page_2
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_study_application_form_page_2
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: work_study_application_form_page_3
+      label: work_study_program_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_study_application_form_page_4
+      label: work_study_program_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_study_application_form_page_5
+      label: work_study_application_form_program_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: work_study_application_form_page_6
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_study_application_form_page_7
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_study_application_form_page_8
+      label: work_study_application_form_program_description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Music Playlist Voting
+    pages:
+    - id: 1
+      name: wedding_music_playlist_voting_form
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Pop
+      - Rock
+      - Jazz
+      - Classical
+      - R&B
+      - Hiphop
+      required: false
+    - id: 4
+      name: song_title
+      label: Song Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: music_year
+      label: Music Year
+      hint: null
+      type: select_one
+      options:
+      - 1980s
+      - 1990s
+      - 2000s
+      required: false
+    - id: 7
+      name: song_vote
+      label: Song Vote
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

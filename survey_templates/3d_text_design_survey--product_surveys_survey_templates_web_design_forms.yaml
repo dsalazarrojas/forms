@@ -1,0 +1,182 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Text Design Survey
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Respondent Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will not share your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_last_use
+      label: Date of last 3D text design session
+      hint: If you haven't used it yet, leave blank
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: platform_used
+      label: Primary platform for 3D text design
+      hint: Select the software you use most
+      type: select_one
+      options:
+      - Adobe After Effects
+      - Cinema 4D
+      - Blender
+      - Maya
+      - Other
+      required: true
+    - id: 6
+      name: skill_level
+      label: Your skill level with 3D text design
+      hint: Choose the level that best describes you
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 7
+      name: satisfaction
+      label: How satisfied are you with the 3D Text Design Survey?
+      hint: None
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: usage_frequency
+      label: How often do you use 3D Text Design Survey?
+      hint: None
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: key_features
+      label: Which features influenced your opinion?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Design flexibility
+      - Performance
+      - Ease of use
+      - Support
+      - Pricing
+      - Integration
+      required: true
+    - id: 10
+      name: performance_rating
+      label: Rate the overall performance (1-10)
+      hint: 1 = Poor, 10 = Excellent
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: likelihood_to_recommend
+      label: How likely are you to recommend to others? (0-10)
+      hint: 0 = Not at all, 10 = Extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: competitor_comparison
+      label: How does this compare to alternatives?
+      hint: None
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      required: true
+    - id: 13
+      name: price_perception
+      label: How do you perceive the pricing?
+      hint: None
+      type: select_one
+      options:
+      - Great value
+      - Fair price
+      - Slightly expensive
+      - Too expensive
+      required: true
+    - id: 14
+      name: budget_range
+      label: Typical budget range for 3D text design tools
+      hint: None
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $100-$200
+      - $200-$500
+      - Over $500
+      required: false
+    - id: 15
+      name: preferred_device
+      label: Preferred device for 3D text design
+      hint: None
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Tablet
+      - Mobile
+      required: false
+    - id: 16
+      name: improvement_suggestion
+      label: What would you improve about 3D Text Design Survey?
+      hint: Provide any suggestions you have
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Feel free to share anything else
+      type: text
+      options: []
+      required: false

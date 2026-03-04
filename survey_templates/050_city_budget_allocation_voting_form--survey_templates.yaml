@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Budget Allocation Voting Form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For voting confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: district
+      label: City District or Ward
+      hint: null
+      type: select_one
+      options:
+      - District 1
+      - District 2
+      - District 3
+      - District 4
+      - District 5
+      - District 6
+      - District 7
+      - District 8
+      - At-large
+      required: true
+    - id: 6
+      name: years_resident
+      label: How Long Have You Been a Resident
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 6-10 years
+      - 11-20 years
+      - Over 20 years
+      required: true
+    - id: 7
+      name: total_budget
+      label: Total Budget to Allocate
+      hint: This is your virtual budget
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: education_allocation
+      label: Education Budget Allocation
+      hint: Enter amount or percentage
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: public_safety_allocation
+      label: Public Safety Budget Allocation
+      hint: Police, fire, emergency services
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: infrastructure_allocation
+      label: Infrastructure Budget Allocation
+      hint: Roads, bridges, utilities
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: parks_recreation_allocation
+      label: Parks and Recreation Allocation
+      hint: Parks, community centers, programs
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: healthcare_allocation
+      label: Healthcare Budget Allocation
+      hint: Public health services
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: transportation_allocation
+      label: Transportation Budget Allocation
+      hint: Public transit, bike lanes
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: housing_allocation
+      label: Housing Budget Allocation
+      hint: Affordable housing initiatives
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: environment_allocation
+      label: Environment Budget Allocation
+      hint: Sustainability, green initiatives
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: economic_development_allocation
+      label: Economic Development Allocation
+      hint: Business support, job creation
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: social_services_allocation
+      label: Social Services Budget Allocation
+      hint: Community support programs
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: arts_culture_allocation
+      label: Arts and Culture Allocation
+      hint: Libraries, museums, cultural programs
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: budget_balance
+      label: Budget Balance Check
+      hint: Does your allocation equal 100%
+      type: select_one
+      options:
+      - Yes, fully allocated
+      - No, needs adjustment
+      required: true
+    - id: 20
+      name: priority_area
+      label: What Is Your Top Priority
+      hint: Single most important area
+      type: select_one
+      options:
+      - Education
+      - Public Safety
+      - Infrastructure
+      - Parks and Recreation
+      - Healthcare
+      - Transportation
+      - Housing
+      - Environment
+      - Economic Development
+      - Social Services
+      - Arts and Culture
+      required: true
+    - id: 21
+      name: priority_explanation
+      label: Why Is This Your Top Priority
+      hint: Explain your reasoning
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: current_satisfaction
+      label: How Satisfied Are You with Current Budget
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Other budget suggestions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: future_engagement
+      label: Would You Like to Participate in Future Budget Discussions
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: true
+    - id: 25
+      name: voting_confirmation
+      label: Voting Confirmation
+      hint: I confirm this is my authentic vote
+      type: select_one
+      options:
+      - I confirm my vote
+      - I need to make changes
+      required: true

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: user_training_materials_feedback_questionnaire
+    pages:
+    - id: 1
+      name: session_participation
+      label: Session Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_content
+      label: Session Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: materials_usefulness
+      label: Materials Usefulness
+      hint: On a scale of 1-5, how would you rate the usefulness of the training materials?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: How would you rate the instructor's teaching skills?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: materials_suggestions
+      label: Materials Suggestions
+      hint: Please provide any suggestions for improvement for the training materials.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: training_goals
+      label: Training Goals
+      hint: Were the training objectives met?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: training_length
+      label: Training Length
+      hint: How long did you feel the training session was?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything else you would like to add?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

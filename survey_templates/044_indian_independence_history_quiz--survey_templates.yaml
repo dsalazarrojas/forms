@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Indian Independence History Quiz
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: political_parties
+      label: Political Parties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dates_of_importance
+      label: Dates of Importance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: historical_figures
+      label: Historical Figures
+      hint: null
+      type: select_one
+      options:
+      - Gandhian
+      - Nehru
+      - Gandhi
+      required: false
+    - id: 5
+      name: independence_declaration
+      label: Independence Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: correct_answers
+      label: Correct Answers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incorrect_answers
+      label: Incorrect Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_points
+      label: Total Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: final_results
+      label: Final Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false

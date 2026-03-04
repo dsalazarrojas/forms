@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: DriveThru Service Satisfaction Poll
+    pages:
+    - id: 1
+      name: speed
+      label: How long did you wait in the drive-thru
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: accuracy
+      label: How accurate were the orders
+      hint: null
+      type: select_one
+      options:
+      - Very accurate
+      - Somewhat accurate
+      - Not very accurate
+      - Not at all accurate
+      required: false
+    - id: 3
+      name: staff_experience
+      label: How would you rate your experience with staff
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: cleanliness
+      label: How clean was the restaurant area
+      hint: null
+      type: select_one
+      options:
+      - Very clean
+      - Somewhat clean
+      - Neutral
+      - Somewhat dirty
+      - Very dirty
+      required: false
+    - id: 5
+      name: staff_friendly
+      label: How friendly were the staff
+      hint: null
+      type: select_one
+      options:
+      - Extremely friendly
+      - Very friendly
+      - Somewhat friendly
+      - Not very friendly
+      - Not at all friendly
+      required: false
+    - id: 6
+      name: staff_knowledgeable
+      label: How knowledgeable were the staff
+      hint: null
+      type: select_one
+      options:
+      - Extremely knowledgeable
+      - Very knowledgeable
+      - Somewhat knowledgeable
+      - Not very knowledgeable
+      - Not at all knowledgeable
+      required: false
+    - id: 7
+      name: staff_helpful
+      label: How helpful were the staff
+      hint: null
+      type: select_one
+      options:
+      - Extremely helpful
+      - Very helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not at all helpful
+      required: false
+    - id: 8
+      name: staff_punctual
+      label: How punctual were the staff
+      hint: null
+      type: select_one
+      options:
+      - Extremely punctual
+      - Very punctual
+      - Somewhat punctual
+      - Not very punctual
+      - Not at all punctual
+      required: false
+    - id: 9
+      name: order_correct
+      label: Were the orders correct
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: order_correct_had_to_wait
+      label: Were you forced to wait for your order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: staff_apologetic
+      label: Were you offered apologies if there were any mistakes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: staff_willing_to_help
+      label: Were the staff willing to help
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: How satisfied were you with your experience
+      hint: null
+      type: select_one
+      options:
+      - Extremely satisfied
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Extremely dissatisfied
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Do you have any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact
+      label: What is your contact information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: restaurant_id
+      label: How many people were with you at the drive-thru
+      hint: null
+      type: select_multiple
+      options:
+      - One person
+      - Two people
+      - Three or more people
+      required: false
+    - id: 17
+      name: restaurant_id_2
+      label: How many drive-thru visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: visit_length
+      label: What was the purpose of visit
+      hint: null
+      type: select_one
+      options:
+      - Drive-thru
+      - Pick-up
+      - Delivery
+      required: false
+    - id: 19
+      name: drive_thru_location
+      label: What was the location of the drive-thru
+      hint: null
+      type: select_one
+      options:
+      - Inside
+      - Outside
+      required: false
+    - id: 20
+      name: drive_thru_time
+      label: What was the time of visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: visit_date
+      label: What date did you visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: visit_time
+      label: What time did you visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: staff_wearing_gloves
+      label: Were the staff wearing gloves
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: staff_wearing_hats
+      label: Were the staff wearing hats
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: staff_wearing_masks
+      label: Were the staff wearing masks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

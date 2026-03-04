@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Information Form White And Responsive
+    pages:
+    - id: 1
+      name: student_identity
+      label: Student Identity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birthdate
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: family_members
+      label: Family Members
+      hint: How many family members are in the household?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sports_team
+      label: School Sports Team
+      hint: Does the student play on a school sports team?
+      type: select_one
+      options:
+      - School Basketball Team
+      - School Soccer Team
+      - School Volleyball Team
+      required: false
+    - id: 8
+      name: home_computer
+      label: Home Computer
+      hint: Does the student have access to a computer at home?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: home_internet
+      label: Home Internet
+      hint: Does the student have access to the internet at home?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: post_graduation_plan
+      label: Post Graduation Plan
+      hint: What is the student planning after graduating high school?
+      type: select_one
+      options:
+      - College
+      - University
+      - Vocational School
+      - Workforce
+      - Gap Year
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: student_photo
+      label: Student Photo
+      hint: null
+      type: text
+      options: []
+      required: false

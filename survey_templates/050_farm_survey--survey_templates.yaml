@@ -1,0 +1,39 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Farm Survey
+    pages:
+    - id: 1
+      name: farm_survey_page_1
+      label: farm survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_farmers_and_agronomists
+      label: farmers_and_agronomists
+      hint: null
+      type: select_multiple
+      options:
+      - farmers
+      - agronomists
+      required: false
+    - id: 3
+      name: farm_survey_page_2
+      label: farm_survey_2
+      hint: null
+      type: text
+      options: []
+      required: false

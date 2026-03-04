@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Friendsgiving Event Survey
+    pages:
+    - id: 1
+      name: form_1
+      label: Guest Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 2
+      name: form_2
+      label: How would you rate the food?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: form_3
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: What did you enjoy most about the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: What did you enjoy least about the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Would you attend the same event again?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 7
+      name: form_7
+      label: How likely are you to recommend this event?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Likely''}'
+      required: false
+    - id: 8
+      name: form_8
+      label: Will you attend next year's Friendsgiving Event?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false

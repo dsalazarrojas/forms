@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Program Reward Selection
+    pages:
+    - id: 1
+      name: reward_selection
+      label: Select Reward
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co-Researcher Demographic Survey
+    pages:
+    - id: 1
+      name: project_title
+      label: Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: section_profile
+      label: -- Co-Researcher Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 4
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: highest_education
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's
+      - Master's
+      - PhD
+      - MD
+      - Other
+      required: false
+    - id: 6
+      name: expertise_field
+      label: Primary Field of Expertise
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_experience
+      label: Total Years of Research Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_professional
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: institutional_affiliation
+      label: Current Institutional Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: academic_rank
+      label: Current Academic Rank or Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: residence_country
+      label: Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_collaboration
+      label: -- Collaboration Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_role
+      label: Primary Role in this Specific Project
+      hint: null
+      type: select_one
+      options:
+      - Lead Researcher
+      - Associate Researcher
+      - Data Collector
+      - Analyst
+      - Consultant
+      required: true
+    - id: 14
+      name: previous_team_collaboration
+      label: Have you collaborated with this team before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: demographic_ack
+      label: I acknowledge this information is used for research demographic analysis
+        only
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I acknowledge
+      required: true

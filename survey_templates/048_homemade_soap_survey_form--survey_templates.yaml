@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: homemade_soap_survey_form
+    pages:
+    - id: 1
+      name: purchase_location
+      label: Home
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: soap_type
+      label: Soap Type
+      hint: null
+      type: select_multiple
+      options:
+      - Soap
+      - Body Wash
+      - Hand Soap
+      - Body Oil
+      - Lotion
+      required: false
+    - id: 3
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - $0-$10
+      - $11-$20
+      - $21-$30
+      - $31-$40
+      - $41 or more
+      required: false
+    - id: 4
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Satisfied
+      - Very Satisfied
+      - Extremely Satisfied
+      required: false
+    - id: 6
+      name: will_recommend
+      label: Will Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: select_one
+      options:
+      - No Contact
+      - Yes, Call Me
+      - Yes, Email Me
+      required: false

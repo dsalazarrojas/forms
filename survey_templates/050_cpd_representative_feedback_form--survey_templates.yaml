@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CPD Representative Feedback Form
+    pages:
+    - id: 1
+      name: feedback_respondent_header
+      label: -- Respondent Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_respondent_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_email
+      Label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback_department
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_date
+      Label: Date of Feedback
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: feedback_interaction_header
+      label: -- CPD Representative Interaction --
+      hint: Information about the representative
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback_rep_name
+      Label: CPD Representative Name
+      hint: Name of the representative
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: feedback_interaction_type
+      label: Type of Interaction
+      hint: What was the purpose of interaction
+      type: select_one
+      options:
+        - Product presentation
+        - Consultation
+        - Training session
+        - Customer service
+        - Technical support
+        - Meeting
+        - Other
+      required: true
+    - id: 9
+      name: feedback_interaction_date
+      Label: Date of Interaction
+      hint: When did the interaction occur
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: feedback_interaction_duration
+      label: Duration of Interaction
+      hint: How long did the interaction take
+      type: select_one
+      options:
+        - Less than 15 minutes
+        - 15-30 minutes
+        - 30 minutes - 1 hour
+        - 1-2 hours
+        - Over 2 hours
+      required: false
+    - id: 11
+      name: feedback_professionalism_header
+      Label: -- Professional Conduct --
+      hint: Rate the representative's professionalism
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feedback_professional_demeanor
+      label: Professional Demeanor and Conduct
+      hint: Overall professionalism
+      type: select_one
+      options:
+        - Excellent
+        - Very good
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 13
+      name: feedback_communication_skills
+      Label: Communication Skills
+      hint: Clarity and effectiveness of communication
+      type: select_one
+      options:
+        - Excellent
+        - Very good
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 14
+      name: feedback_knowledge_expertise
+      label: Knowledge and Expertise
+      hint: Subject matter expertise demonstrated
+      type: select_one
+      options:
+        - Excellent
+        - Very good
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 15
+      name: feedback_listening_skills
+      Label: Listening and Understanding
+      hint: Did they listen to your needs
+      type: select_one
+      options:
+        - Excellent
+        - Very good
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 16
+      name: feedback_responsiveness_header
+      label: -- Responsiveness and Service --
+      hint: How responsive was the representative
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: feedback_response_time
+      Label: Responsiveness to Questions
+      hint: How quickly they answered your questions
+      type: select_one
+      options:
+        - Very responsive
+        - Responsive
+        - Neutral
+        - Slow to respond
+        - Not responsive
+      required: true
+    - id: 18
+      name: feedback_helpfulness
+      label: Helpfulness in Addressing Needs
+      hint: How helpful was the representative
+      type: select_one
+      options:
+        - Extremely helpful
+        - Very helpful
+        - Helpful
+        - Somewhat helpful
+        - Not helpful
+      required: true
+    - id: 19
+      name: feedback_problem_solving
+      Label: Problem-Solving Approach
+      hint: Ability to solve issues
+      type: select_one
+      options:
+        - Excellent
+        - Very good
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 20
+      name: feedback_value_delivery_header
+      label: -- Value Delivery --
+      hint: Rate the value received
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: feedback_value_received
+      Label: Value Received from Interaction
+      hint: How much value did you receive
+      type: select_one
+      options:
+        - Exceeded expectations
+        - Met expectations
+        - Partially met expectations
+        - Below expectations
+        - No value
+      required: true
+    - id: 22
+      name: feedback_overall_satisfaction
+      label: Overall Satisfaction
+      hint: Your overall satisfaction rating
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 23
+      name: feedback_recommendation_header
+      Label: -- Recommendation --
+      hint: Would you recommend this representative
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: feedback_recommend
+      label: Would You Recommend This Representative
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+        - Definitely recommend
+        - Likely to recommend
+        - Neutral
+        - Unlikely to recommend
+        - Would not recommend
+      required: true
+    - id: 25
+      name: feedback_additional_comments
+      Label: Additional Comments or Suggestions
+      hint: Any other feedback or suggestions
+      type: text
+      options: []
+      required: false

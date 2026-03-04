@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_service_report_form
+    pages:
+    - id: 1
+      name: technician_signature
+      label: Technician Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_signature
+      label: Customer Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_inspected
+      label: System Inspected
+      hint: null
+      type: select_one
+      options:
+      - HVAC
+      - Air Conditioning
+      - Heating
+      required: false
+    - id: 4
+      name: system_condition
+      label: System Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: temperature_setting
+      label: Temperature Setting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Standby
+      - 'False'
+      required: false
+    - id: 7
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: technician_comment
+      label: Technician Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_make
+      label: System Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: system_model
+      label: System Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: system_year_of_manufacture
+      label: Year of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: system_serial_number
+      label: System Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: system_location
+      label: System Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: system_notes
+      label: System Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false

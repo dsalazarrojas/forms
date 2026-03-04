@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Tattoo Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tattoo_section
+      label: -- Tattoo Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tattoo_location
+      label: Location on Body
+      hint: Where will the tattoo be placed
+      type: select_one
+      options:
+      - Upper arm
+      - Forearm
+      - Chest
+      - Back
+      - Leg
+      - Other
+      required: true
+    - id: 7
+      name: tattoo_size
+      label: Estimated Size
+      hint: null
+      type: select_one
+      options:
+      - Small - 1-2 inches
+      - Medium - 2-4 inches
+      - Large - 4-6 inches
+      - Extra large - 6+ inches
+      required: true
+    - id: 8
+      name: tattoo_color
+      label: Color Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_section
+      label: -- Health and Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_covid_status
+      label: Current COVID-19 Status
+      hint: null
+      type: select_one
+      options:
+      - Never had COVID-19
+      - Recovered from COVID-19
+      - Currently positive
+      - Unsure
+      required: true
+    - id: 11
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 12
+      name: skin_conditions
+      label: Do you have any skin conditions
+      hint: Eczema, psoriasis, allergies, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: skin_conditions_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Do you have any ink allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: blood_thinners
+      label: Are you taking blood thinners or anticoagulants
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: pregnancy
+      label: Are you currently pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 17
+      name: consent_section
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consent_understand_risks
+      label: I understand and accept the risks associated with getting a tattoo
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: consent_covid_aware
+      label: I am aware of COVID-19 transmission risks in close-contact activities
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: consent_aftercare
+      label: I agree to follow proper aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: consent_liability_waiver
+      label: I release the tattoo artist and studio from liability
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: signature_acknowledge
+      label: Client Signature or Digital Consent
+      hint: By submitting this form, I consent to the tattoo procedure
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: appointment_date
+      label: Scheduled Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cartoon Survey
+    pages:
+    - id: 1
+      name: section_profile
+      label: -- Participant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: Age Range
+      hint: helps us understand the demographics of fans
+      type: select_one
+      options:
+      - Under 12
+      - 13 to 18
+      - 19 to 30
+      - 31 to 50
+      - 51 and over
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: frequency_of_watching
+      label: How often do you watch cartoons or anime?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - A few times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 5
+      name: section_preferences
+      label: -- General Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_genre
+      label: Favorite Cartoon Genre
+      hint: select all that you enjoy
+      type: select_multiple
+      options:
+      - Comedy
+      - Action or Adventure
+      - Fantasy
+      - Sci-Fi
+      - Slice of Life
+      - Mystery
+      - Horror
+      required: true
+    - id: 7
+      name: preferred_art_style
+      label: Preferred Art Style
+      hint: null
+      type: select_one
+      options:
+      - 2D Hand-drawn
+      - 3D CGI
+      - Stop Motion
+      - Anime Style
+      - Retro or Classic
+      required: true
+    - id: 8
+      name: favorite_platform
+      label: Primary platform for watching
+      hint: null
+      type: select_one
+      options:
+      - Television
+      - Netflix
+      - Hulu
+      - Disney plus
+      - Crunchyroll
+      - YouTube
+      - Other
+      required: true
+    - id: 9
+      name: section_character_plot
+      label: -- Character and Plot --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: character_preference
+      label: What do you look for in a main character?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Relatability
+      - Heroism
+      - Humor
+      - Complexity
+      - Cool Design
+      required: true
+    - id: 11
+      name: plot_importance
+      label: Rate the importance of a deep plot
+      hint: 1 being not important, 5 being essential
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: favorite_sidekick_archetype
+      label: Favorite Sidekick Archetype
+      hint: null
+      type: select_one
+      options:
+      - Funny Relief
+      - Wise Mentor
+      - Loyal Pet
+      - Tech Expert
+      - Rival
+      required: true
+    - id: 13
+      name: section_favorites
+      label: -- Specific Favorites --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: top_3_cartoons
+      label: List your top 3 favorite cartoons of all time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: favorite_animation_studio
+      label: Favorite Animation Studio
+      hint: null
+      type: select_one
+      options:
+      - Disney
+      - Pixar
+      - Studio Ghibli
+      - DreamWorks
+      - Warner Bros
+      - Cartoon Network
+      - Nickelodeon
+      - MAPPA
+      - Toei
+      required: true
+    - id: 16
+      name: section_industry
+      label: -- Industry Opinions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cartoon_reboots_opinion
+      label: Opinion on modern reboots of classic cartoons
+      hint: e.g. DuckTales, She-Ra, etc.
+      type: select_one
+      options:
+      - Love them
+      - They are okay
+      - Prefer originals
+      - Should stop reboots
+      required: true
+    - id: 18
+      name: voice_acting_importance
+      label: How important is voice acting to your enjoyment?
+      hint: 1 being not important, 5 being critical
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_community
+      label: -- Merchandising and Community --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: purchase_merch
+      label: Do you purchase cartoon-related merchandise?
+      hint: toys, apparel, posters, etc.
+      type: select_one
+      options:
+      - Regularly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: community_engagement
+      label: Do you participate in fan communities or forums?
+      hint: Reddit, Discord, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: cosplay_interest
+      label: Have you ever cosplayed as a cartoon character?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Interested
+      required: true
+    - id: 23
+      name: section_future
+      label: -- Future Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: industry_suggestions
+      label: What would you like to see more of in the cartoon industry?
+      hint: e.g. more adult animation, specific genres
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: feedback_confirmation
+      label: Thank you for your responses
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

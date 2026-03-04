@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Tax Registration Form
+    pages:
+    - id: 1
+      name: employer_information
+      label: Employer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tax_identification
+      label: Tax Identification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: tax_agent
+      label: Tax Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_agent_phone
+      label: Tax Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_agent_email
+      label: Tax Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: business_fax
+      label: Business Fax
+      hint: null
+      type: text
+      options: []
+      required: false

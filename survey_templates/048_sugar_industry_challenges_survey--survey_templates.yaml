@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: sugar-industry-challenges-survey
+    pages:
+    - id: 1
+      name: industry_pain_points
+      label: What are some of the major pain points in the sugar industry?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: What is your role in the industry?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: region
+      label: Which region do you belong to?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: priority_one
+      label: What are your top.reported priority for your company/organisation?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: priority_two
+      label: What is your second reported priority for your company/organisation?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Additional notes or comments
+      hint: null
+      type: note
+      options: []
+      required: false

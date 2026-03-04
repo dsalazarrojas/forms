@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Service Feedback Form
+    pages:
+    - id: 1
+      name: delivery_service_feedback_form
+      label: welcome_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: delivery_service_experience
+      label: How was your delivery experience?
+      hint: Tell us about your experience
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: delivery_service_quality
+      label: What was the quality of our delivery service?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 4
+      name: communication
+      label: How would you rate our delivery service communication?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: How long did the delivery take?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: delivery_service_punctuality
+      label: Was the delivery time as expected?
+      hint: Were you informed about the expected delivery time?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: delivery_driver_attitude
+      label: How was the driver's attitude towards you?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: delivery_item_condition
+      label: Was the delivery item as described?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: delivery_cost
+      label: How much did you pay for the delivery?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: delivery_service_provider
+      label: Was the delivery service provider's help available?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Is there something you want to add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_us
+      label: Is there anything you'd like to contact us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: How would you like us to follow up with you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_details
+      label: Do you have any contact details?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_details
+      label: What would you like us to follow up with?
+      hint: null
+      type: text
+      options: []
+      required: false

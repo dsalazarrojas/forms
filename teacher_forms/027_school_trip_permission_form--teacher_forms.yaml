@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Trip Permission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_contact
+      label: Guardian Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: permission
+      label: Permission
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Both
+      required: false
+    - id: 7
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: trip_time
+      label: Trip Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: trip_duration
+      label: Trip Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: trip_cost
+      label: Trip Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

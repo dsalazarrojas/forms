@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Nutrition Product Feedback Survey
+    pages:
+    - id: 1
+      name: intro_question
+      label: How did you hear about our product?
+      hint: null
+      type: select_multiple
+      options:
+      - I saw an ad on social media
+      - I saw an ad on a website
+      - I got a recommendation from a friend
+      - Other
+      required: false
+    - id: 2
+      name: product_name
+      label: What was the name of the product you used?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question1
+      label: How did you find our product?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Neutral
+      - Bad
+      - Very bad
+      required: false
+    - id: 4
+      name: question2
+      label: How would you rate the quality of our product?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question3
+      label: What was the price of the product?
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: How satisfied were you with the product?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 7
+      name: question4
+      label: How did you use our product?
+      hint: 'null'
+      type: select_multiple
+      options:
+      - As a food for my pet
+      - As a treat for my pet
+      - As a supplement for my pet
+      - Other
+      required: false
+    - id: 8
+      name: question5
+      label: What type of pet do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Fish
+      - Other
+      required: false
+    - id: 9
+      name: question6
+      label: What do you like or dislike about the product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question7
+      label: Can we use this information for marketing purposes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: contact_info
+      label: How did you hear about our product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question9
+      label: Is this your first time purchasing from us?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: question10
+      label: Can we follow up with you about your experience?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: question11
+      label: How likely is it that you will recommend our product?
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Not likely
+      - Not likely at all
+      required: false
+    - id: 15
+      name: contact_info_2
+      label: How did you contact us?
+      hint: null
+      type: text
+      options: []
+      required: false

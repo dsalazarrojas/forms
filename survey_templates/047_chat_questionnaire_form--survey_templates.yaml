@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chat Questionnaire Form
+    pages:
+      - id: 1
+        name: section_respondent_info
+        label: -- Your Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: usage_frequency
+        label: How Often Do You Use Chat
+        hint: Frequency of chat usage
+        type: select_one
+        options: ["Daily", "Several Times a Week", "Weekly", "Monthly", "Rarely", "First Time"]
+        required: true
+      - id: 5
+        name: section_features
+        label: -- Chat Features --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: most_used_feature
+        label: Most Frequently Used Feature
+        hint: What do you use most
+        type: select_one
+        options: ["Direct Messages", "Group Chats", "Voice Calls", "File Sharing", "Search Function", "Other"]
+        required: true
+      - id: 7
+        name: feature_satisfaction
+        label: Satisfaction with Features
+        hint: How satisfied are you
+        type: select_one
+        options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+        required: true
+      - id: 8
+        name: missing_features
+        label: Missing Features or Functions
+        hint: What features do you wish existed
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_usability
+        label: -- Usability and Interface --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy is the app to use
+        type: select_one
+        options: ["Very Easy", "Easy", "Moderate", "Difficult", "Very Difficult"]
+        required: true
+      - id: 11
+        name: interface_design
+        label: Interface Design and Layout
+        hint: Rating of the design
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 12
+        name: navigation
+        label: Navigation and Menu Structure
+        hint: How easy to find things
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: false
+      - id: 13
+        name: section_performance
+        label: -- Performance and Reliability --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: app_speed
+        label: App Speed and Responsiveness
+        hint: How fast is the app
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Slow"]
+        required: true
+      - id: 15
+        name: stability
+        label: App Stability and Reliability
+        hint: Does it crash or have issues
+        type: select_one
+        options: ["Very Reliable", "Reliable", "Mostly Reliable", "Unreliable"]
+        required: true
+      - id: 16
+        name: crash_frequency
+        label: Crash or Technical Issue Frequency
+        hint: How often do you experience problems
+        type: select_one
+        options: ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+        required: false
+      - id: 17
+        name: section_satisfaction
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: overall_satisfaction
+        label: Overall Satisfaction with Chat App
+        hint: Rate your experience
+        type: select_one
+        options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+        required: true
+      - id: 19
+        name: likelihood_recommend
+        label: Likelihood to Recommend to Others
+        hint: Would you recommend this app
+        type: select_one
+        options: ["Definitely", "Probably", "Maybe", "Unlikely"]
+        required: true
+      - id: 20
+        name: section_feedback
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: best_aspects
+        label: Best Aspects of the Chat App
+        hint: What do you like most
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How can we improve
+        type: text
+        options: []
+        required: false

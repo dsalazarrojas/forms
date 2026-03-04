@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science And Literature Quiz
+    pages:
+    - id: 1
+      name: classroom_id
+      label: Classroom
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: subject_id
+      label: Subject
+      hint: Select one from the dropdown
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: question_id
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: answer_id
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: score_id
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments_id
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_id
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submitter_phone_id
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: classroom_comments_id
+      label: Classroom Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_comments_id
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_time_id
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: submitter_date_id
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: school_id
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: grade_id
+      label: Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_id
+      label: Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_id
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: teacher_id
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: course_id
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: subject_teacher_id
+      label: Subject Teacher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: classroom_id
+      label: Classroom
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: school_year_id
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: school_grade_id
+      label: School Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: student_count_id
+      label: Student Count
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: teacher_count_id
+      label: Teacher Count
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: school_comments_id
+      label: School Comments
+      hint: null
+      type: text
+      options: []
+      required: false

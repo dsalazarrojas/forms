@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Borehole Drilling Log Form
+    pages:
+    - id: 1
+      name: log_date
+      label: Log date
+      hint: Date of drilling activity
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: driller_name
+      label: Driller name
+      hint: Lead driller or supervisor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borehole_id
+      label: Borehole identifier
+      hint: Site specific borehole reference
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: Time drilling commenced
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End time
+      hint: Time drilling ended
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: depth_reached_m
+      label: Depth reached meters
+      hint: Enter the measured depth in meters
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: drilling_method
+      label: Drilling method
+      hint: Select the drilling technique used
+      type: select_one
+      options:
+      - Rotary
+      - Percussion
+      - Core
+      - Sonic
+      required: true
+    - id: 8
+      name: lithology_observed
+      label: Lithology observed
+      hint: Brief description of strata encountered
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: groundwater_encountered
+      label: Groundwater encountered
+      hint: Note presence and approximate level
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks
+      hint: Any other observations or safety notes
+      type: text
+      options: []
+      required: false

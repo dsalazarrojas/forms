@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scientific Claim Verification Submission Form
+    pages:
+    - id: 1
+      name: user_inputs
+      label: User inputs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reviewer_inputs
+      label: Reviewer inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_feedback
+      label: Reviewer feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_acceptance
+      label: Reviewer acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_status
+      label: Claim status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evidence_intake
+      label: Evidence intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_name
+      label: Reviewer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_email
+      label: Reviewer email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_title
+      label: Reviewer title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_signature
+      label: Reviewer signature
+      hint: null
+      type: text
+      options: []
+      required: false

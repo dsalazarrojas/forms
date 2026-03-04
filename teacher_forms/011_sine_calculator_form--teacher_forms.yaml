@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: sine_calculator_form
+    pages:
+    - id: 1
+      name: input_amplitude
+      label: Amplitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: input_period
+      label: Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: input_phase_shift
+      label: Phase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: select_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: select_frequency_unit
+      label: Frequency Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Hz''}'
+      - '{''name'': ''MHz''}'
+      - '{''name'': ''kHz''}'
+      required: false
+    - id: 6
+      name: input_wavelength
+      label: Wavelength
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: select_wavelength_unit
+      label: Wavelength Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''meters''}'
+      - '{''name'': ''kilometers''}'
+      - '{''name'': ''microns''}'
+      required: false
+    - id: 8
+      name: select_calculate_sine
+      label: Calculate Sine
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 9
+      name: select_calculate_cosine
+      label: Calculate Cosine
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 10
+      name: select_calculate_tangent
+      label: Calculate Tangent
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false

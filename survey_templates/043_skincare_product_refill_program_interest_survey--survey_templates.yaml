@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Refill Program Interest Survey
+    pages:
+    - id: 1
+      name: program_name
+      label: whats_in_your_refill_program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_did_you_hear
+      label: how_did_you_hear_about_us
+      hint: null
+      type: select_multiple
+      options:
+      - Referral
+      - Social Media
+      - Online Search
+      - Friends
+      required: false
+    - id: 3
+      name: product_type
+      label: what_product_type_do_you_want
+      hint: null
+      type: select_one
+      options:
+      - Moisturizers
+      - Exfoliants
+      - Serums
+      - Eye Cream
+      - Other
+      required: true
+    - id: 4
+      name: frequency
+      label: how_often_do_you_reorder
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 5
+      name: contact_method
+      label: how_would_you_like_to_contact_us
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - In-App
+      required: false
+    - id: 6
+      name: message
+      label: do_you_have_any_other_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_interest
+      label: what_products_are_you_most_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - Moisturizers
+      - Exfoliants
+      - Serums
+      - Eye Cream
+      required: false
+    - id: 8
+      name: comments
+      label: do_you_have_any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

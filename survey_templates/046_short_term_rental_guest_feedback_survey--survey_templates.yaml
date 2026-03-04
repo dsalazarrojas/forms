@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Term Rental Guest Feedback Survey
+    pages:
+    - id: 1
+      name: first_contact
+      label: First Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stay_type
+      label: Stay Type
+      hint: null
+      type: select_one
+      options:
+      - Airbnb
+      - Vacation Rental
+      - Serviced Apartment
+      - Other
+      required: true
+    - id: 3
+      name: checkin_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: property_name
+      label: Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accuracy
+      label: Accuracy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: amenities
+      label: Amenities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: will_recommend
+      label: Will Recommend
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: feedback
+      label: Any Other Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_address
+      label: Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_type
+      label: Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_manager_name
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_manager_email
+      label: Property Manager
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: property_manager_phone
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false

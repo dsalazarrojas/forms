@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form 1040
+    pages:
+    - id: 1
+      name: income_taxable
+      label: Income Taxable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: claim_deductions
+      label: Claim Deductions
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: calculate_tax
+      label: Calculate Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payments_refunds
+      label: Payments and Refunds
+      hint: null
+      type: select_one
+      options:
+      - Refunds
+      - Payments
+      required: false
+    - id: 5
+      name: amount_owed
+      label: Amount Owed
+      hint: null
+      type: number
+      options: []
+      required: false

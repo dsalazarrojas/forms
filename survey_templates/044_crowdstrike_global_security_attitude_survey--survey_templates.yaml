@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Global Security Attitude Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_page
+      label: Demographic Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: question_1
+      label: How do you perceive the importance of security?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Important'', ''label'': ''Very Important''}'
+      - '{''value'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
+      - '{''value'': ''Not Very Important'', ''label'': ''Not Very Important''}'
+      - '{''value'': ''Not at all Important'', ''label'': ''Not at all Important''}'
+      required: true
+    - id: 4
+      name: question_5
+      label: What is the average level of cybersecurity awareness among employees?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_6
+      label: How much emphasis do you place on incident response?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: question_8
+      label: What is the role of security in your organization's risk management process?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Important'', ''label'': ''Very Important''}'
+      - '{''value'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
+      - '{''value'': ''Not Very Important'', ''label'': ''Not Very Important''}'
+      - '{''value'': ''Not at all Important'', ''label'': ''Not at all Important''}'
+      required: true
+    - id: 7
+      name: question_9
+      label: How confident are you that your organization is prepared for a cyber-attack?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Confident'', ''label'': ''Very Confident''}'
+      - '{''value'': ''Somewhat Confident'', ''label'': ''Somewhat Confident''}'
+      - '{''value'': ''Not Very Confident'', ''label'': ''Not Very Confident''}'
+      - '{''value'': ''Not at all Confident'', ''label'': ''Not at all Confident''}'
+      required: true
+    - id: 8
+      name: question_10
+      label: How important do you think incident response is in terms of time?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: question_11
+      label: How important do you think incident response is in terms of cost?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: question_12
+      label: How important do you think incident response is in terms of resources?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: question_13
+      label: How do you rate the effectiveness of your organization's incident response
+        process?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Effective'', ''label'': ''Very Effective''}'
+      - '{''value'': ''Somewhat Effective'', ''label'': ''Somewhat Effective''}'
+      - '{''value'': ''Not Very Effective'', ''label'': ''Not Very Effective''}'
+      - '{''value'': ''Not at all Effective'', ''label'': ''Not at all Effective''}'
+      required: true
+    - id: 12
+      name: question_14
+      label: What is the role of incident response in your organization's IT budget?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: question_15
+      label: How do you rate the effectiveness of your organization's security posture?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Effective'', ''label'': ''Very Effective''}'
+      - '{''value'': ''Somewhat Effective'', ''label'': ''Somewhat Effective''}'
+      - '{''value'': ''Not Very Effective'', ''label'': ''Not Very Effective''}'
+      - '{''value'': ''Not at all Effective'', ''label'': ''Not at all Effective''}'
+      required: true

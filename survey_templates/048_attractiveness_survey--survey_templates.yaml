@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attractiveness Survey
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name (Optional)
+      hint: Your name or anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For research follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: false
+    - id: 6
+      name: cultural_background
+      label: Cultural or Ethnic Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_instructions
+      label: -- Survey Instructions --
+      hint: Please rate each image or description on the provided scale
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: image_1_rating
+      label: Image 1 - Attractiveness Rating
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: image_1_comments
+      label: Image 1 - Comments
+      hint: Optional feedback or observations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: image_2_rating
+      label: Image 2 - Attractiveness Rating
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: image_2_comments
+      label: Image 2 - Comments
+      hint: Optional feedback or observations
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: image_3_rating
+      label: Image 3 - Attractiveness Rating
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: image_3_comments
+      label: Image 3 - Comments
+      hint: Optional feedback or observations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: image_4_rating
+      label: Image 4 - Attractiveness Rating
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: image_4_comments
+      label: Image 4 - Comments
+      hint: Optional feedback or observations
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: image_5_rating
+      label: Image 5 - Attractiveness Rating
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: image_5_comments
+      label: Image 5 - Comments
+      hint: Optional feedback or observations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: perception_questions
+      label: -- Perception Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: definition_attractiveness
+      label: How do you define attractiveness?
+      hint: Your personal definition or perception
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: factors_contributing
+      label: What factors most contribute to attractiveness?
+      hint: Physical, personality, other aspects
+      type: select_multiple
+      options:
+      - Physical Appearance
+      - Personality
+      - Confidence
+      - Intelligence
+      - Sense of Humor
+      - Cultural Background
+      - Body Type
+      - Facial Features
+      - Style/Fashion
+      required: true
+    - id: 21
+      name: cultural_influence
+      label: How much does culture influence your perception of attractiveness?
+      hint: null
+      type: select_one
+      options:
+      - Very Much
+      - Somewhat
+      - Neutral
+      - Slightly
+      - Not at All
+      required: true
+    - id: 22
+      name: media_influence
+      label: Does media influence your attractiveness standards?
+      hint: Social media, television, advertising
+      type: select_one
+      options:
+      - Very Much
+      - Somewhat
+      - Neutral
+      - Slightly
+      - Not at All
+      required: true
+    - id: 23
+      name: personal_factors
+      label: Does personal experience shape your perception?
+      hint: Past relationships or experiences
+      type: select_one
+      options:
+      - Very Much
+      - Somewhat
+      - Neutral
+      - Slightly
+      - Not at All
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any final thoughts or observations?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: research_participation_consent
+      label: Consent for Research Participation
+      hint: I consent to my data being used for research
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

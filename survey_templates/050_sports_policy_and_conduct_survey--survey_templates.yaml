@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Policy And Conduct Survey
+    pages:
+    - id: 1
+      name: sports_club_info
+      label: Sports Club Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sports_club_info_answers
+      label: Sports Club Information Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sports_club_info_comments
+      label: Sports Club Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: coach_or_manager
+      label: Coach Or Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 5
+      name: staff_or_coach
+      label: Staff Or Coach
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 6
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 7
+      name: training_required
+      label: Training Required
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: coach_info
+      label: Coach Info
+      hint: null
+      type: note
+      options: []
+      required: false

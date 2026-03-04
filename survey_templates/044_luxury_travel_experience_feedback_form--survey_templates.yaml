@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: luxury_travel_experience_feedback_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services
+      label: Services & Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true

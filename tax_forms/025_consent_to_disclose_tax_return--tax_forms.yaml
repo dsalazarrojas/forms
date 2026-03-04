@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Disclose Tax Return
+    pages:
+    - id: 1
+      name: section_taxpayer_info
+      label: -- Taxpayer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: taxpayer_name
+      label: Taxpayer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: taxpayer_id_number
+      label: Taxpayer Identification Number (SSN or EIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tax_year_authorized
+      label: Tax Year(s) Authorized for Disclosure
+      hint: e.g., 2024, 2025
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_disclosure_auth
+      label: -- Disclosure Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: receiving_party_name
+      label: Name of Third Party to receive the information
+      hint: Person or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: receiving_party_address
+      label: Address of Third Party
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: purpose_of_disclosure
+      label: Specific Purpose for Disclosure
+      hint: e.g., Mortgage application, Legal proceedings
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_terms
+      label: -- Consent and Limitations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_validity_period
+      label: This consent is valid until
+      hint: If left blank, consent expires in 120 days
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: information_limit_choice
+      label: Limit of information to be disclosed
+      hint: null
+      type: select_one
+      options:
+      - Entire Tax Return
+      - Specific Schedules/Forms Only
+      - Only Adjusted Gross Income
+      required: true
+    - id: 12
+      name: internal_revenue_code_notice
+      label: I acknowledge my rights under IRC Section 7216
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 13
+      name: section_final_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: taxpayer_signature
+      label: Taxpayer Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: joint_filer_signature
+      label: Joint Filer Signature (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Power Sharing Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conflict_resolution
+      label: How do you think conflicts can be resolved effectively
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: power_sharing_models
+      label: What do you think about power sharing models
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: community_involvement
+      label: What is the role of community participation
+      hint: null
+      type: select_one
+      options:
+      - Community involvement is important
+      - Community involvement is not important
+      - Other
+      required: false
+    - id: 5
+      name: decision_making_process
+      label: How do you prefer your decision-making process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: power_sharing_models_details
+      label: Provide details about power-sharing models
+      hint: Please provide details about power-sharing models
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conflict_resolution_process
+      label: What is your preferred conflict resolution process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: civic_leadership
+      label: What do you think about civic leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: role_of_remediation
+      label: Role of remediation in conflict resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: political_culture
+      label: Political culture and power sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

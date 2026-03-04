@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Experience Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: what_did_you_most_enjoy
+      hint: null
+      type: select_one
+      options:
+      - The coaching staff's knowledge and expertise
+      - The playing conditions (lighting, temperature, etc.)
+      - The overall experience
+      - The food and drinks provided
+      - The social atmosphere
+      - The facilities (restrooms, locker rooms, etc.)
+      - Other
+      required: false
+    - id: 4
+      name: suggestions
+      label: do_you_have_any_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false

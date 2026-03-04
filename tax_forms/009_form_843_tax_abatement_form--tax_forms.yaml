@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form 843 Tax Abatement Form
+    pages:
+    - id: 1
+      name: tax_abatement_form
+      label: Tax Abatement Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_multiple
+      options:
+      - Claim for refund
+      - Claim for Abatement
+      - Claim for both
+      required: true
+    - id: 7
+      name: amount_claimed
+      label: Amount Claimed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false

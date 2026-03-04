@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Log Management Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Log Management Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: What is your role in IT?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_size
+      label: How many team members do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: log_data
+      label: On a scale of 0-10, how would you rate the ease of data collection in
+        your log management tool?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: security_concerns
+      label: Are you concerned about security and compliance in log management?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: How often do you provide feedback on log management tools?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: log_management_satisfaction
+      label: On a scale of 0-10, how satisfied are you with your current log management
+        tool?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: log_management_urgency
+      label: How urgently do you need improvements in log management?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: log_management_priorities
+      label: What are the top 3 improvements you need in log management?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments or feedback?
+      hint: null
+      type: note
+      options: []
+      required: false

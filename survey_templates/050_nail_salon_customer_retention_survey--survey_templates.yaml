@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Customer Retention Survey
+    pages:
+    - id: 1
+      name: salons_surveyed
+      label: salons_surveyed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: salons_name
+      label: salons_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visits_frequency
+      label: visits_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: services_received
+      label: services_received
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''nail_service''}'
+      - '{''option2'': ''nail_extension''}'
+      - '{''option3'': ''nail_painting''}'
+      required: false
+    - id: 5
+      name: services_suggested
+      label: services_suggested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''nail_service''}'
+      - '{''option2'': ''nail_extension''}'
+      - '{''option3'': ''nail_painting''}'
+      required: false
+    - id: 6
+      name: visit_habits
+      label: visit_habits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media
+      label: social_media
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''facebook''}'
+      - '{''option2'': ''instagram''}'
+      - '{''option3'': ''twitter''}'
+      - '{''option4'': ''tiktok''}'
+      required: false
+    - id: 12
+      name: visit_frequency
+      label: visit_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''weekly''}'
+      - '{''option2'': ''monthly''}'
+      - '{''option3'': ''quarterly''}'
+      - '{''option4'': ''never''}'
+      required: false
+    - id: 13
+      name: visit_date
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: visit_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: visit_location
+      label: visit_location
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''downtown''}'
+      - '{''option2'': ''northside''}'
+      - '{''option3'': ''other''}'
+      required: false
+    - id: 16
+      name: visit_time_of_day
+      label: visit_time_of_day
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''morning''}'
+      - '{''option2'': ''afternoon''}'
+      - '{''option3'': ''evening''}'
+      required: false
+    - id: 17
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: services_offered_frequency
+      label: services_offered_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: services_offered_satisfaction
+      label: services_offered_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''satisfied''}'
+      - '{''option2'': ''neutral''}'
+      - '{''option3'': ''dissatisfied''}'
+      required: false
+    - id: 20
+      name: services_offered_reasons
+      label: services_offered_reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: services_offered_reasons_other
+      label: services_offered_reasons_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: salons_recommendation
+      label: salons_recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 23
+      name: salons_recommendation_reasons
+      label: salons_recommendation_reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: salons_recommendation_reasons_other
+      label: salons_recommendation_reasons_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: salons_recommendation_reasons_why
+      label: salons_recommendation_reasons_why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: salons_recommendation_reasons_why_other
+      label: salons_recommendation_reasons_why_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: salons_recommendation_reasons_why_other_reasons
+      label: salons_recommendation_reasons_why_other_reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: salons_recommendation_reasons_why_other_reasons_other
+      label: salons_recommendation_reasons_why_other_reasons_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other_other_other
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other_other_other_why
+      label: salons_recommendation_reasons_why_other_reasons_other_reasons_why_other_other_other_other_why_other_other_other_other_why
+      hint: null
+      type: text
+      options: []
+      required: false

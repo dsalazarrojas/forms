@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Cycling Program Evaluation Form
+    pages:
+    - id: 1
+      name: program_participation
+      label: Program participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: On a scale of 0-100
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: Please provide any ideas you have for improving the program.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: frequency_participation
+      label: Frequency of participation
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times a week
+      - 3-4 times a week
+      - Daily
+      - Less than once a month
+      - Never
+      required: true
+    - id: 5
+      name: reasons_for_non_participation
+      label: Reasons for non-participation
+      hint: null
+      type: select_multiple
+      options:
+      - Health reasons
+      - Lack of interest
+      - Other (please specify)
+      - Schedule conflicts
+      - Work reasons
+      required: false

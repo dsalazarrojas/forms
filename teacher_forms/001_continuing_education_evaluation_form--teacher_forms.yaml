@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Evaluation Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Full name of the course participant
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: participant_email
+        label: Participant Email
+        hint: Email address for follow-up communication
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: course_name
+        label: Course Name
+        hint: Name of the continuing education course
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: course_date
+        label: Course Date
+        hint: Date when the course was completed
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: instructor_name
+        label: Instructor Name
+        hint: Name of the course instructor
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_course_content
+        label: -- Course Content Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: course_objectives_clarity
+        label: Course objectives were clearly stated
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 8
+        name: content_relevance
+        label: Content was relevant to my professional needs
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 9
+        name: material_quality
+        label: Quality of course materials
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: section_instruction
+        label: -- Instruction Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: instructor_knowledge
+        label: Instructor demonstrated strong knowledge of subject
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 12
+        name: instructor_effectiveness
+        label: Instructor was effective in presenting material
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 13
+        name: engagement_level
+        label: Level of engagement during the course
+        hint: null
+        type: select_one
+        options:
+          - Very Engaging
+          - Engaging
+          - Neutral
+          - Somewhat Boring
+          - Very Boring
+        required: true
+      - id: 14
+        name: section_learning_outcomes
+        label: -- Learning Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: knowledge_gained
+        label: I gained valuable knowledge from this course
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 16
+        name: skills_application
+        label: I can apply what I learned to my work
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 17
+        name: course_pace
+        label: The pace of the course was
+        hint: null
+        type: select_one
+        options:
+          - Too Fast
+          - Just Right
+          - Too Slow
+        required: true
+      - id: 18
+        name: section_overall
+        label: -- Overall Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: overall_rating
+        label: Overall rating of the course
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: recommend_to_others
+        label: Would you recommend this course to others
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: course_difficulty
+        label: Course difficulty level
+        hint: null
+        type: select_one
+        options:
+          - Too Easy
+          - Appropriate
+          - Too Difficult
+        required: true
+      - id: 22
+        name: strengths
+        label: What were the greatest strengths of this course
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: areas_for_improvement
+        label: What areas need improvement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional comments or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

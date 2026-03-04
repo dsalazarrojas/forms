@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Post-Vaccination Survey
+    pages:
+    - id: 1
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - Left Arm
+      - Right Arm
+      - Left Leg
+      - Right Leg
+      - Left Foot
+      - Right Foot
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vaccination_dose
+      label: Vaccination Dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Fever
+      - Rash
+      - Swelling
+      - Redness
+      - Other (please describe)
+      required: false
+    - id: 7
+      name: vaccination_date_2
+      label: Vaccination Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Mpox Vaccine
+      - Comiranta Vaccine
+      - Paxlovid Vaccine
+      required: false
+    - id: 9
+      name: vaccine_batch
+      label: Vaccine Batch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false

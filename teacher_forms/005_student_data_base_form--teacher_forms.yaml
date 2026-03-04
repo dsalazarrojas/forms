@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Data Base Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Enter student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Enter student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Enter student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_birthdate
+      label: Enter student birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_grade
+      label: Enter student grade
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: student_note
+      label: Enter student note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_category
+      label: Enter student category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false

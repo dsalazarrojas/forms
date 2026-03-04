@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Art Installation Voting Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: public_art_installation_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: public_art_installation_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artist
+      label: public_art_installation_artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: image
+      label: public_art_installation_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: public_art_installation_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vote
+      label: vote
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: name
+      hint: Your name
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: PM1 Teacher Evaluation
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: overall_quality_of_service
+      label: Overall Quality of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: lesson_planning
+      label: Lesson Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: teaching_style
+      label: Teaching Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_progress
+      label: Student Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: classroom_environment
+      label: Classroom Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: teacher_availability
+      label: Teacher Availability
+      hint: Please enter the teacher's availability
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Faculty Employment Workload Survey
+    pages:
+    - id: 1
+      name: teaching_workload
+      label: Teaching Workload
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: research_workload
+      label: Research Workload
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: service_workload
+      label: Service Workload
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: teaching_workload_duration
+      label: Teaching Workload Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: research_duration
+      label: Research Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: total_teaching_hours
+      label: Total Teaching Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_research_hours
+      label: Total Research Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_service_hours
+      label: Total Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other_workload
+      label: Other Workload
+      hint: Please select all that apply.
+      type: select_one
+      options:
+      - Academic Service
+      - Administrative Work
+      - Research Support
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: other_workload_details
+      label: Other Workload Details
+      hint: Please describe your other workload.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: academic_leader
+      label: Academic Leader
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Retired
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true

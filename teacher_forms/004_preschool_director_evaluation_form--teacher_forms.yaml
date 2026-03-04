@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: preschool_director_evaluation_form
+    pages:
+    - id: 1
+      name: teacher_feedback
+      label: teacher_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_qualifications
+      label: director_qualifications
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: teacher_performance
+      label: director_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: director_support
+      label: support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: director_communication
+      label: communication_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: teacher_availability
+      label: teacher_availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: director_safety
+      label: director_safety
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: director_safety_procedures
+      label: safety_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: European Union Institutions Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: European Union Institutions Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What are the European Union institutions that you are familiar with?
+      hint: null
+      type: select_multiple
+      options:
+      - European Commission
+      - European Parliament
+      - Council of the European Union
+      - Court of Auditors
+      - European Investment Bank
+      - European Investment Fund
+      - European Investment Bank
+      - European Central Bank
+      - European Stability Mechanism
+      - European Union
+      required: false
+    - id: 3
+      name: question2
+      label: Which of the institutions do you have experience with?
+      hint: null
+      type: select_one
+      options:
+      - European Commission
+      - European Parliament
+      - None of the above
+      required: false
+    - id: 4
+      name: question3
+      label: What is your level of satisfaction with the European Commission?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: Do you have experience with other institutions?
+      hint: null
+      type: select_multiple
+      options:
+      - European Court of Justice
+      - European Central Bank
+      - European Investment Bank
+      - European Commission
+      required: false
+    - id: 6
+      name: question5
+      label: What is your level of experience with the other institutions?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: How important is it for you to have experience with the European institutions?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: Do you have any suggestions or comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question10
+      label: When is your preferred contact time?
+      hint: null
+      type: date
+      options: []
+      required: false

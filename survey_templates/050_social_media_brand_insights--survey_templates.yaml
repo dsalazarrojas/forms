@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Brand Insights
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: social_media_platforms
+      label: Which social media platforms do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - Snapchat
+      - YouTube
+      required: true
+    - id: 5
+      name: presence_score
+      label: Presence Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: engagement_score
+      label: Engagement Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: improvement_areas
+      label: What are areas for improvement?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

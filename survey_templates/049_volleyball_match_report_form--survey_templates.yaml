@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Match Report Form
+    pages:
+    - id: 1
+      name: match_details
+      label: Match Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: match_time
+      label: Match Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: match_scorers
+      label: Match Scorers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: player_score
+      label: Player Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: player_points
+      label: Player Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: referee
+      label: Referee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score
+      label: Score
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: game_details
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: match_winner
+      label: Match Winner
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: true
+    - id: 12
+      name: team_a_score
+      label: Team A Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: team_b_score
+      label: Team B Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_c_score
+      label: Team C Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: team_d_score
+      label: Team D Score
+      hint: null
+      type: number
+      options: []
+      required: false

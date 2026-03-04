@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Observation Form
+    pages:
+    - id: 1
+      name: section_header_basics
+      label: -- Observation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of the teacher being observed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observer_name
+      label: Observer Name
+      hint: Name of the person conducting the observation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: Date of the classroom observation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time_start
+      label: Observation Start Time
+      hint: What time did the observation begin?
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: observation_time_end
+      label: Observation End Time
+      hint: What time did the observation end?
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: subject_grade
+      label: Subject and Grade Level
+      hint: What was being taught and to which grade?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_students_present
+      label: Number of Students Present
+      hint: How many students were in the class?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_header_instruction
+      label: -- Instructional Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lesson_objectives
+      label: Lesson objectives were clearly stated
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 11
+      name: content_accuracy
+      label: Content delivered was accurate and well-organized
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: instructional_pace
+      label: Pacing of instruction was appropriate
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 13
+      name: use_of_technology
+      label: Effective use of technology and instructional materials
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not Applicable
+      required: true
+    - id: 14
+      name: section_header_engagement
+      label: -- Student Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_engagement
+      label: Students were actively engaged in learning
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: participation_encouragement
+      label: Teacher encouraged student participation
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 17
+      name: student_question_response
+      label: Teacher responds effectively to student questions
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 18
+      name: section_header_classroom
+      label: -- Classroom Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: behavior_management
+      label: Teacher manages student behavior effectively
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 20
+      name: classroom_environment
+      label: Classroom environment is safe and conducive to learning
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 21
+      name: positive_relationships
+      label: Teacher has positive relationships with students
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 22
+      name: section_header_differentiation
+      label: -- Differentiation and Inclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: diverse_needs
+      label: Teacher addresses diverse learning needs
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 24
+      name: special_needs_support
+      label: Teacher provides support for students with special needs
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not Applicable
+      required: true
+    - id: 25
+      name: section_header_comments
+      label: -- Comments and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: strengths
+      label: Teacher Strengths Observed
+      hint: Describe positive aspects of the lesson
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: Suggest areas for professional development
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: overall_rating
+      label: Overall Observation Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Needs Improvement
+      required: true

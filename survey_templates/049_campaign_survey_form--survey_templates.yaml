@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Survey Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Optional for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options: [Under 18, 18-29, 30-44, 45-60, Over 60]
+        required: false
+      - id: 3
+        name: support_level
+        label: Support Level for Candidate
+        hint: How likely are you to support the candidate
+        type: select_one
+        options: [Strongly Support, Support, Neutral, Oppose]
+        required: true
+      - id: 4
+        name: key_issues
+        label: Key Issues
+        hint: Which issues matter most to you
+        type: select_multiple
+        options: [Economy, Health, Education, Environment, Security]
+        required: true
+      - id: 5
+        name: main_concern
+        label: Main Concern
+        hint: Primary concern about current policy or candidate
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: voting_intent
+        label: Voting Intent
+        hint: Are you likely to vote in the upcoming election
+        type: select_one
+        options: [Yes, Unsure, No]
+        required: true
+      - id: 7
+        name: information_sources
+        label: Information Sources
+        hint: Where do you get most of your political information
+        type: select_multiple
+        options: [TV, Social Media, Newspapers, Radio, Friends Family]
+        required: false
+      - id: 8
+        name: suggestions
+        label: Suggestions for Campaign
+        hint: What would you like the campaign to focus on
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_consent
+        label: Consent to Follow Up
+        hint: May the campaign contact you for more information
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you wish to provide
+        type: text
+        options: []
+        required: false

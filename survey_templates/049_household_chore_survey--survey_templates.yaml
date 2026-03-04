@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Chore Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Household Chore Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: household_members
+      label: Household Members
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 3
+      name: household_members_label
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 4
+      name: which_member_does_the_most_household_chores
+      label: Which member does the most household chores?
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Mary
+      - Jane
+      required: true
+    - id: 5
+      name: household_chores
+      label: Which household chores do you think each member should have?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: fair_split
+      label: How fair is the split of household chores?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_label
+      label: Your Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_label
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true

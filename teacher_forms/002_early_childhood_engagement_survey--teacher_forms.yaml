@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Childhood Engagement Survey
+    pages:
+    - id: 1
+      name: preschool_teacher
+      label: Preschool Teachers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: kindergarten_teacher
+      label: Kindergarten Teachers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: overall_experience
+      label: Overall Experience
+      hint: How would you rate your overall experience with our preschool/kindergarten
+        program?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication
+      label: Communication
+      hint: How often do you feel you are able to effectively communicate with parents/guardians?
+      type: select_one
+      options:
+      - '{''option1'': ''Often''}'
+      - '{''option2'': ''Sometimes''}'
+      - '{''option3'': ''Rarely''}'
+      required: true
+    - id: 5
+      name: support_from_colleagues
+      label: Support From Colleagues
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Strongly Agree''}'
+      - '{''option2'': ''Somewhat Agree''}'
+      - '{''option3'': ''Neutral''}'
+      - '{''option4'': ''Somewhat Disagree''}'
+      - '{''option5'': ''Strongly Disagree''}'
+      required: true
+    - id: 6
+      name: support_from_director
+      label: Support From Director
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Strongly Agree''}'
+      - '{''option2'': ''Somewhat Agree''}'
+      - '{''option3'': ''Neutral''}'
+      - '{''option4'': ''Somewhat Disagree''}'
+      - '{''option5'': ''Strongly Disagree''}'
+      required: true
+    - id: 7
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Strongly Agree''}'
+      - '{''option2'': ''Somewhat Agree''}'
+      - '{''option3'': ''Neutral''}'
+      - '{''option4'': ''Somewhat Disagree''}'
+      - '{''option5'': ''Strongly Disagree''}'
+      required: true
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: Is there anything else you would like to tell us about your experience?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

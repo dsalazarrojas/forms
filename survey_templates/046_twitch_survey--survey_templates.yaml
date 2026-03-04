@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Twitch Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rate_your_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: what_did_you_like_about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: what_could_we_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_streamer
+      label: any_suggestions_for_streamer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: how_can_we_contact_you
+      hint: null
+      type: email
+      options: []
+      required: false

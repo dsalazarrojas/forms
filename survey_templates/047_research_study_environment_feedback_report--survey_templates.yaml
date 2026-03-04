@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_study_environment_feedback_report_form
+    pages:
+    - id: 1
+      name: research_studies
+      label: Research Studies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: settings
+      label: Settings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site
+      label: Site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: cohorts
+      label: Cohorts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: milestone
+      label: Milestone
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

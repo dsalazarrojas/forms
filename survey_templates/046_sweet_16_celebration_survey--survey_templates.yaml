@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sweet 16 Celebration Survey
+    pages:
+    - id: 1
+      name: guest_attendance
+      label: Guest Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: party_preferences
+      label: Party Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_diet
+      label: Guest Diet
+      hint: What type of food will be served?
+      type: select_one
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      - Vegan
+      - None
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: party_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: celebration_location
+      label: Celebration Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - School
+      - Restaurant
+      - Park
+      - Other
+      required: false
+    - id: 10
+      name: celebration_duration
+      label: Celebration Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      - Other
+      required: false
+    - id: 11
+      name: celebration_theme
+      label: Celebration Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: party_host
+      label: Party Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: party_color
+      label: Party Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: party_invited_guests
+      label: Party Invited Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: party_favors
+      label: Party Favors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: party_games
+      label: Party Games
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

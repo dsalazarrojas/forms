@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Feedback Survey
+    pages:
+    - id: 1
+      name: survey_questions_1
+      label: What do you think is the most important thing we could do to help students
+        succeed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_questions_2
+      label: How can we improve the overall learning environment of the classroom?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_questions_3
+      label: Are you satisfied with the teacher's teaching style?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: survey_questions_4
+      label: How many students are in your current class?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: survey_questions_5
+      label: How do you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: survey_questions_6
+      label: Do you have any suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: survey_questions_7
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: survey_questions_8
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

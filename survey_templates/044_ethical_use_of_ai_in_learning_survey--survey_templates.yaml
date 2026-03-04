@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethical Use Of AI In Learning Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: educator_role
+      label: educators
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''AI-Expert''}'
+      - '{''label'': ''AI-Novice''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: benefits
+      label: benefits
+      hint: What benefits do you see from AI adoption in education? Select all that
+        apply.
+      type: select_multiple
+      options:
+      - '{''label'': ''Improved student outcomes''}'
+      - '{''label'': ''Increased teacher efficiency''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: concerns
+      label: concerns
+      hint: What concerns do you have regarding AI adoption in education? Select all
+        that apply.
+      type: select_multiple
+      options:
+      - '{''label'': ''Privacy''}'
+      - '{''label'': ''Security''}'
+      - '{''label'': ''Cost''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: responsible_use
+      label: responsible_use
+      hint: How do you believe AI should be used in education? Check all that apply.
+      type: select_multiple
+      options:
+      - '{''label'': ''Transparency''}'
+      - '{''label'': ''Accountability''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: student_outcomes
+      label: student_outcomes
+      hint: How might AI impact student outcomes in your institution?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: educator_outcomes
+      label: educator_outcomes
+      hint: How might AI impact educators outcomes in your institution?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: administrator_outcomes
+      label: administrator_outcomes
+      hint: How might AI impact administrator outcomes in your institution?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policies
+      label: policies
+      hint: What policies would you recommend for the responsible use of AI in education?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practices
+      label: practices
+      hint: What practices would you recommend for the responsible use of AI in education?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ai_expertise
+      label: ai_expertise
+      hint: What level of AI expertise do you have?
+      type: select_one
+      options:
+      - '{''label'': ''AI-Expert''}'
+      - '{''label'': ''AI-Novice''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: institution_size
+      label: institution_size
+      hint: What is the size of your institution?
+      type: select_one
+      options:
+      - '{''label'': ''Small''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Large''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: age_range
+      label: age_range
+      hint: What age range of students does your institution primarily serve?
+      type: select_multiple
+      options:
+      - '{''label'': ''Elementary School''}'
+      - '{''label'': ''High School''}'
+      - '{''label'': ''College''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: years_in_education
+      label: years_in_education
+      hint: How many years of experience do you have in education?
+      type: select_one
+      options:
+      - '{''label'': ''0-5''}'
+      - '{''label'': ''6-15''}'
+      - '{''label'': ''16-25''}'
+      - '{''label'': ''26+''}'
+      required: false
+    - id: 16
+      name: department
+      label: department
+      hint: What department do you work in?
+      type: select_multiple
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Curriculum Development''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: additional_info
+      label: additional_info
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: contact_email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: contact_phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_name
+      label: contact_name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: institution
+      label: institution
+      hint: Your institution
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_title
+      label: job_title
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: Any further comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm
+      label: confirm
+      hint: I confirm that my submission is accurate
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

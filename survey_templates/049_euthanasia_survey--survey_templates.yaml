@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: euthanasia_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Please answer the following questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attitude
+      label: attitudes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: behavior
+      label: behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: opinions
+      label: opinions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: euthanasia
+      label: euthanasia
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: Please select a valid age range
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employment
+      label: employment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: healthcare
+      label: healthcare
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false

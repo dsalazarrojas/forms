@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: hsvc_survey_form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_manufacturer
+      label: Equipment Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_history
+      label: Service History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

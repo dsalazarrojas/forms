@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: listening_skills_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: listen_to_what
+      label: Who do you listen to
+      hint: null
+      type: select_one
+      options:
+      - I have a favorite podcast
+      - News
+      - Music
+      - Sports
+      required: false
+    - id: 4
+      name: how_often_listen
+      label: How often do you listen to music
+      hint: null
+      type: select_multiple
+      options:
+      - Every time I have time
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: listen_to_length
+      label: How long do you listen to music
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: best_time_listen
+      label: Best time of day to listen
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: most_popular_music_channel
+      label: Most popular music channel
+      hint: null
+      type: select_one
+      options:
+      - Apple Music
+      - Spotify
+      - Amazon Music
+      - Tidal
+      required: false
+    - id: 8
+      name: music_streaming_service
+      label: Music streamingประก
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Music
+      - Spotify
+      - prophets
+      - Tidal
+      required: false

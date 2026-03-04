@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_reality_equipment_request_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_number
+      label: Class Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - ChatJ
+      - ChatJimmy
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true

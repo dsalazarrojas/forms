@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Survey
+    pages:
+    - id: 1
+      name: househould_survey_1_page
+      label: Household Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_survey_househould_demographics
+      label: Household Demographics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Urban''}'
+      - '{''id'': 2, ''label'': ''Rural''}'
+      - '{''id'': 3, ''label'': ''Not Specified''}'
+      required: false
+    - id: 3
+      name: household_survey_employed_members
+      label: Employed Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: household_survey_employed_household
+      label: Employed Household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: household_survey_income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: household_survey_employed_education
+      label: Employed Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High School''}'
+      - '{''id'': 2, ''label'': ''College''}'
+      - '{''id'': 3, ''label'': ''University''}'
+      required: true
+    - id: 7
+      name: household_survey_employed_occupation
+      label: Employed Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Service''}'
+      - '{''id'': 2, ''label'': ''White Collar''}'
+      - '{''id'': 3, ''label'': ''Blue Collar''}'
+      - '{''id'': 4, ''label'': ''Not Specified''}'
+      required: false
+    - id: 8
+      name: household_survey_employed_family
+      label: Employed Family
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 9
+      name: household_survey_employed_hobbies
+      label: Employed Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sports''}'
+      - '{''id'': 2, ''label'': ''Music''}'
+      - '{''id'': 3, ''label'': ''Reading''}'
+      - '{''id'': 4, ''label'': ''Traveling''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: false
+    - id: 10
+      name: household_survey_employed_housing
+      label: Employed Housing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 11
+      name: household_survey_employed_marital_status
+      label: Employed Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Single''}'
+      - '{''id'': 2, ''label'': ''Married''}'
+      - '{''id'': 3, ''label'': ''Divorced''}'
+      - '{''id'': 4, ''label'': ''Widow''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: false
+    - id: 12
+      name: household_survey_employed_marital_status_2
+      label: Employed Marital Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Not Specified''}'
+      required: true
+    - id: 13
+      name: household_survey_employed_education_level
+      label: Employed Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High School''}'
+      - '{''id'': 2, ''label'': ''Some College''}'
+      - '{''id'': 3, ''label'': ''College''}'
+      - '{''id'': 4, ''label'': ''Not Specified''}'
+      required: false
+    - id: 14
+      name: household_survey_employed_income_range
+      label: Employed Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Under 1000''}'
+      - '{''id'': 2, ''label'': ''1000-5000''}'
+      - '{''id'': 3, ''label'': ''5000-10000''}'
+      - '{''id'': 4, ''label'': ''10000-20000''}'
+      - '{''id'': 5, ''label'': ''20000-100000''}'
+      - '{''id'': 6, ''label'': ''Not Specified''}'
+      required: true
+    - id: 15
+      name: household_survey_employed_income_range_2
+      label: Employed Income Range 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 1000''}'
+      - '{''id'': 2, ''label'': ''1000-5000''}'
+      - '{''id'': 3, ''label'': ''5000-20000''}'
+      - '{''id'': 4, ''label'': ''20000-100000''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: false
+    - id: 16
+      name: household_survey_employed_income_range_3
+      label: Employed Income Range 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 1000''}'
+      - '{''id'': 2, ''label'': ''1000-5000''}'
+      - '{''id'': 3, ''label'': ''5000-20000''}'
+      - '{''id'': 4, ''label'': ''Not Specified''}'
+      required: true
+    - id: 17
+      name: household_survey_employed_income_range_4
+      label: Employed Income Range 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Under 1000''}'
+      - '{''id'': 2, ''label'': ''1000-5000''}'
+      - '{''id'': 3, ''label'': ''5000-10000''}'
+      - '{''id'': 4, ''label'': ''10000-50000''}'
+      - '{''id'': 5, ''label'': ''50000-100000''}'
+      - '{''id'': 6, ''label'': ''Not Specified''}'
+      required: false
+    - id: 18
+      name: household_survey_employed_education_level_2
+      label: Employed Education Level 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than High School''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''Some College''}'
+      - '{''id'': 4, ''label'': ''College''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: true
+    - id: 19
+      name: household_survey_employed_education_level_3
+      label: Employed Education Level 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than High School''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''Some College''}'
+      - '{''id'': 4, ''label'': ''College''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: false
+    - id: 20
+      name: household_survey_employed_education_level_4
+      label: Employed Education Level 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than High School''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''Some College''}'
+      - '{''id'': 4, ''label'': ''College''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: true
+    - id: 21
+      name: household_survey_employed_education_level_5
+      label: Employed Education Level 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than High School''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''Some College''}'
+      - '{''id'': 4, ''label'': ''College''}'
+      - '{''id'': 5, ''label'': ''Not Specified''}'
+      required: false
+    - id: 22
+      name: household_survey_employed_language
+      label: Employed Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''Not Specified''}'
+      required: true
+    - id: 23
+      name: household_survey_employed_language_2
+      label: Employed Language 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''Not Specified''}'
+      required: true
+    - id: 24
+      name: household_survey_employed_language_3
+      label: Employed Language 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Not Specified''}'
+      required: false
+    - id: 25
+      name: household_survey_employed_language_4
+      label: Employed Language 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Not Specified''}'
+      required: false

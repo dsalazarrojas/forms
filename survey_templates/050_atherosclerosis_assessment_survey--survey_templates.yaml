@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Atherosclerosis Assessment Survey
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Participant ID Number
+      hint: Study or medical record ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18-30
+      - 31-40
+      - 41-50
+      - 51-60
+      - 61-70
+      - 71-80
+      - 80+
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ethnicity
+      label: Ethnicity
+      hint: Your ethnic background
+      type: select_one
+      options:
+      - Caucasian
+      - African American
+      - Hispanic
+      - Asian
+      - Native American
+      - Pacific Islander
+      - Mixed Race
+      - Other
+      required: true
+    - id: 10
+      name: family_history_atherosclerosis
+      label: Family History of Atherosclerosis or Heart Disease
+      hint: Does family have heart disease?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 11
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: true
+    - id: 12
+      name: smoking_years
+      label: Years Smoking (if applicable)
+      hint: How many years have you smoked?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: hypertension
+      label: High Blood Pressure (Hypertension)
+      hint: Have you been diagnosed?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Unsure
+      required: true
+    - id: 14
+      name: diabetes
+      label: Diabetes
+      hint: Do you have diabetes?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Pre-diabetes
+      - Unsure
+      required: true
+    - id: 15
+      name: high_cholesterol
+      label: High Cholesterol
+      hint: Has this been diagnosed?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Unsure
+      required: true
+    - id: 16
+      name: obesity
+      label: Overweight or Obesity
+      hint: Current weight status
+      type: select_one
+      options:
+      - Underweight
+      - Normal Weight
+      - Overweight
+      - Obese
+      - Prefer Not to Say
+      required: true
+    - id: 17
+      name: physical_activity
+      label: Physical Activity Level
+      hint: How active are you?
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly Active
+      - Moderately Active
+      - Very Active
+      required: true
+    - id: 18
+      name: diet_quality
+      label: Diet Quality
+      hint: How would you rate your diet?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 19
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often do you drink alcohol?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Moderate (1-2 drinks per day)
+      - Heavy (more than 2 drinks per day)
+      required: true
+    - id: 20
+      name: stress_level
+      label: Stress Level
+      hint: How would you rate stress?
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 21
+      name: medications
+      label: Current Medications for Heart/Cholesterol
+      hint: What medications are you taking?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: chest_pain_symptoms
+      label: Chest Pain or Angina Symptoms
+      hint: Any chest pain experiences?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Occasionally
+      required: true
+    - id: 23
+      name: shortness_of_breath
+      label: Shortness of Breath with Activity
+      hint: Difficulty breathing with exertion?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Sometimes
+      required: true
+    - id: 24
+      name: prior_cardiovascular_events
+      label: Prior Heart Attack or Stroke
+      hint: Any cardiovascular events?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 25
+      name: survey_completion_date
+      label: Survey Completion Date
+      hint: Date survey completed
+      type: date
+      options: []
+      required: true

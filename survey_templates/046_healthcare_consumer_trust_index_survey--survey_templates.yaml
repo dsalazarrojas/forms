@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Consumer Trust Index Survey
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: trust_in_provider
+      label: Trust in Provider
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: trust_in_services
+      label: Trust in Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: trust_in_clinical_staff
+      label: Trust in Clinical Staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: trust_in_facility
+      label: Trust in Facility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: trust_in_services_quality
+      label: Trust in Services Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_with_care
+      label: Satisfaction with Care
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: communication_with_provider
+      label: Communication with Provider
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: privacy_and_security
+      label: Privacy and Security
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: demographic_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: demographic_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: demographic_ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: demographic_race
+      label: Race
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: demographic_income
+      label: Income
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: demographic_english_language
+      label: English Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: demographic_health_insurance_status
+      label: Health Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: matrix evaluation survey
+    pages:
+    - id: 1
+      name: survey_name
+      label: survey name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_area
+      label: performance area
+      hint: null
+      type: select_one
+      options:
+      - area1
+      - area2
+      - area3
+      required: false
+    - id: 3
+      name: evaluation_period
+      label: evaluation period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_start
+      label: evaluation start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_end
+      label: evaluation end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_score
+      label: evaluation score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_area_2
+      label: performance area 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: evaluation_period_2
+      label: evaluation period 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: evaluation_score_2
+      label: evaluation score 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Performance Evaluation
+    pages:
+    - id: 1
+      name: student_performance_evaluation
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_performance
+      label: performance_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_point_average
+      label: gpa
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 10
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: course_performance
+      label: course_performance
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - satisfactory
+      - unsatisfactory
+      required: false
+    - id: 15
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_performance_attendance
+      label: student_performance_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: course_attendance
+      label: course_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: student_progress
+      label: student_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: teacher_progress
+      label: teacher_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_performance_graph
+      label: student_performance_graph
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: teacher_performance_graph
+      label: teacher_performance_graph
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_evaluation_form_status
+      label: student_evaluation_form_status
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - incomplete
+      - pending
+      required: true
+    - id: 24
+      name: student_form_submission_time
+      label: student_form_submission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: student_form_submission_date
+      label: student_form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: true

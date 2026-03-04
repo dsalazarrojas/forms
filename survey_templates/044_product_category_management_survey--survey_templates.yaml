@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: product-category-management-survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Survey Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_questions
+      label: Category Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: preference_ratings
+      label: Preference Ratings
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 4
+      name: open_ended_questions
+      label: Open-Ended Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_finish
+      label: Survey Finish
+      hint: null
+      type: text
+      options: []
+      required: false

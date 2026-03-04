@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Program Audit Form
+    pages:
+    - id: 1
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_satisfaction
+      label: participant_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very satisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 3, ''label'': ''Not very satisfied''}'
+      - '{''value'': 4, ''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 3
+      name: participant_relevance
+      label: participant_relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trainer_effectiveness
+      label: trainer_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Very effective''}'
+      - '{''value'': 2, ''label'': ''Somewhat effective''}'
+      - '{''value'': 3, ''label'': ''Not very effective''}'
+      required: false
+    - id: 5
+      name: evaluation_process
+      label: evaluation_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_effectiveness
+      label: participant_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very effective''}'
+      - '{''value'': 2, ''label'': ''Somewhat effective''}'
+      - '{''value'': 3, ''label'': ''Not very effective''}'
+      required: false
+    - id: 7
+      name: training_location
+      label: training_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''In-person''}'
+      - '{''value'': 2, ''label'': ''Online''}'
+      - '{''value'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 8
+      name: program_effectiveness
+      label: program_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Very effective''}'
+      - '{''value'': 2, ''label'': ''Somewhat effective''}'
+      - '{''value'': 3, ''label'': ''Not very effective''}'
+      required: false
+    - id: 9
+      name: trainer_satisfaction
+      label: trainer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very satisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 3, ''label'': ''Not very satisfied''}'
+      - '{''value'': 4, ''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 10
+      name: participant_availability
+      label: participant_availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: training_schedule
+      label: training_schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: trainer_availability
+      label: trainer_availability
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Morning''}'
+      - '{''value'': 2, ''label'': ''Afternoon''}'
+      - '{''value'': 3, ''label'': ''Evening''}'
+      - '{''value'': 4, ''label'': ''All''}'
+      required: false
+    - id: 13
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: participant_schedule
+      label: participant_schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: training_hours
+      label: training_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: participant_hours
+      label: participant_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trainer_comments
+      label: trainer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: program_description
+      label: program_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_method
+      label: evaluation_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Survey''}'
+      - '{''value'': 2, ''label'': ''In-person''}'
+      required: false
+    - id: 21
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trainer_notes
+      label: trainer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: program_category
+      label: program_category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Mandatory''}'
+      - '{''value'': 2, ''label'': ''Optional''}'
+      required: false

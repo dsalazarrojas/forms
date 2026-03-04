@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireplace And Furnace Cleaning Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: repeat_booking
+      label: repeat_booking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''excellent''}'
+      - '{''label'': ''good''}'
+      - '{''label'': ''average''}'
+      - '{''label'': ''poor''}'
+      required: false
+    - id: 6
+      name: schedule_next
+      label: schedule_next
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false

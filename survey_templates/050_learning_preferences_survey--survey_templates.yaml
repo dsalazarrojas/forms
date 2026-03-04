@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Preferences Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: survey_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: learning_styles
+      label: learning_styles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: new_information
+      label: new_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_tasks
+      label: new_tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_preferences
+      label: survey_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: no_coding
+      label: no_coding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: get_started
+      label: get_started
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: survey_templates
+      label: survey_templates
+      hint: null
+      type: text
+      options: []
+      required: false

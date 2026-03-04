@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Mentorship Program Impact Evaluation Form
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mentorship_goals
+      label: Mentorship Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Accelerator
+      - Incubator
+      - Co-working space
+      required: true
+    - id: 4
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: program_outcomes
+      label: Program Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_impact
+      label: Program Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Quality of Support
+      - Quality of Feedback
+      - Effectiveness
+      - Others
+      required: false
+    - id: 9
+      name: submission_frequency
+      label: Submission Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 10
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 11
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Peer
+      - Both
+      required: false

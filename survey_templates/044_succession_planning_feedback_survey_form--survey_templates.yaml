@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: succession_planning_feedback_survey_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Please provide an overview of the current state of succession planning
+        in your organization.
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: effectiveness
+      label: How would you rate the current effectiveness of succession planning in
+        your organization?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: communication
+      label: How do you think the communication style of the succession planners in
+        your organization is?
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Neutral
+      - Not at all effective
+      required: true
+    - id: 4
+      name: succession_plan_status
+      label: What is the current status of the succession plan?
+      hint: null
+      type: select_multiple
+      options:
+      - In progress
+      - Complete
+      - Not started
+      required: true
+    - id: 5
+      name: feedback_frequency
+      label: How frequently do you receive feedback on succession planning?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: succession_plan_impact
+      label: What is the impact of succession planning on your job or role?
+      hint: null
+      type: select_multiple
+      options:
+      - Very positive
+      - Neutral
+      - Very negative
+      required: true
+    - id: 7
+      name: succession_planning_process
+      label: Which of the following aspects of succession planning do you find most
+        useful?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Goal setting
+      - Talent management
+      - Not applicable
+      required: true
+    - id: 8
+      name: succession_planning_support
+      label: How often do you feel supported in the succession planning process?
+      hint: null
+      type: select_one
+      options:
+      - Very often
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: succession_planning_opportunities
+      label: Are there opportunities for professional development and growth within
+        the succession planning process?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: succession_planning_barriers
+      label: What are the biggest barriers to effective succession planning in your
+        organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of resources
+      - Lack of support
+      - Not applicable
+      required: true
+    - id: 11
+      name: succession_planning_future
+      label: Do you see succession planning becoming more effective over the next
+        6 months?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: comments
+      label: Do you have any additional comments or suggestions about succession planning?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_title
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: What department are you in?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_function
+      label: What is your job function?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: manager_name
+      label: What is the name of your manager?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: team
+      label: What team are you on?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: org_location
+      label: What is your location?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: feedback
+      label: Do you have any feedback or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: org_size
+      label: What size is our organization?
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      - Not sure
+      required: true
+    - id: 24
+      name: org_type
+      label: What type is our organization?
+      hint: null
+      type: select_one
+      options:
+      - For-profit
+      - Non-profit
+      - Not applicable
+      required: true
+    - id: 25
+      name: org_level
+      label: What level is our organization?
+      hint: null
+      type: select_one
+      options:
+      - Corporate
+      - Division
+      - Department
+      - Not applicable
+      required: true

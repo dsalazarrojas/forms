@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acrylic Signage Solutions Survey
+    pages:
+    - id: 1
+      name: business_name_or_facility
+      label: Business Name or Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_use_for_signage
+      label: Primary Use for Signage
+      hint: Select the main purpose
+      type: select_one
+      options:
+      - Wayfinding
+      - Branding
+      - Safety Notices
+      - Menu Boards
+      - Decorative
+      required: true
+    - id: 3
+      name: durability_satisfaction
+      label: Durability Satisfaction
+      hint: 1 - Fragile, 5 - Very Durable
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 4
+      name: aesthetic_appeal_rating
+      label: Aesthetic Appeal Rating
+      hint: How does the signage look in your space?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: preferred_finishes
+      label: Preferred Finishes
+      hint: Select styles you are interested in
+      type: select_multiple
+      options:
+      - Clear
+      - Frosted
+      - Opaque
+      - Brushed Metal Backing
+      - Edge-lit
+      required: false
+    - id: 6
+      name: ease_of_installation
+      label: Ease of Installation
+      hint: null
+      type: select_one
+      options:
+      - Difficult
+      - Moderate
+      - Easy
+      required: true
+    - id: 7
+      name: current_provider_responsiveness
+      label: Current Provider Responsiveness
+      hint: Speed of communication and delivery
+      type: select_one
+      options:
+      - Slow
+      - Average
+      - Fast
+      required: true
+    - id: 8
+      name: specific_improvement_opportunities
+      label: Specific Improvement Opportunities
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: annual_signage_budget
+      label: Annual Signage Budget
+      hint: Approximate USD
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: frequency_of_signage_updates
+      label: Frequency of Signage Updates
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - As needed
+      required: true

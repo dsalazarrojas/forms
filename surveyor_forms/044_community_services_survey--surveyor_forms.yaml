@@ -1,0 +1,294 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Services Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: zip_code
+        label: ZIP Code
+        hint: Where you live
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+        - Under 18
+        - 18-24
+        - 25-34
+        - 35-44
+        - 45-54
+        - 55-64
+        - 65+
+        required: false
+      - id: 7
+        name: household_type
+        label: Household Type
+        hint: null
+        type: select_one
+        options:
+        - Single Person
+        - Family with Children
+        - Couple No Children
+        - Multi-Generational
+        - Roommates
+        required: false
+      - id: 8
+        name: services_awareness
+        label: Awareness of Community Services
+        hint: What do you know about
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: known_services
+        label: Which Services Are You Aware Of
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Food Assistance
+        - Housing Support
+        - Healthcare Services
+        - Mental Health Services
+        - Job Training
+        - Educational Programs
+        - Senior Services
+        - Youth Programs
+        - Disability Services
+        - Transportation Services
+        - Utility Assistance
+        - Legal Aid
+        - None
+        required: true
+      - id: 10
+        name: information_source
+        label: How Do You Learn About Services
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Word of Mouth
+        - Social Media
+        - Community Flyers
+        - Website
+        - Local Newspaper
+        - Radio or TV
+        - Healthcare Provider
+        - School
+        - Religious Organization
+        - Social Services
+        required: true
+      - id: 11
+        name: services_usage
+        label: Services Usage
+        hint: Your experience
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: used_services
+        label: Which Services Have You Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Food Assistance
+        - Housing Support
+        - Healthcare Services
+        - Mental Health Services
+        - Job Training
+        - Educational Programs
+        - Senior Services
+        - Youth Programs
+        - Disability Services
+        - Transportation Services
+        - Utility Assistance
+        - Legal Aid
+        - None
+        required: true
+      - id: 13
+        name: frequency
+        label: How Often Do You Use Services
+        hint: null
+        type: select_one
+        options:
+        - Weekly
+        - Monthly
+        - Few Times a Year
+        - Once a Year
+        - Rarely
+        - First Time
+        required: false
+      - id: 14
+        name: satisfaction_ratings
+        label: Satisfaction Ratings
+        hint: Rate the services
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: overall_satisfaction
+        label: Overall Satisfaction with Community Services
+        hint: null
+        type: select_one
+        options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        required: false
+      - id: 16
+        name: accessibility
+        label: How Easy Is It to Access Services
+        hint: null
+        type: select_one
+        options:
+        - Very Easy
+        - Easy
+        - Neutral
+        - Difficult
+        - Very Difficult
+        required: false
+      - id: 17
+        name: staff_helpfulness
+        label: How Helpful Is the Staff
+        hint: null
+        type: select_one
+        options:
+        - Very Helpful
+        - Helpful
+        - Neutral
+        - Unhelpful
+        - Very Unhelpful
+        required: false
+      - id: 18
+        name: wait_time
+        label: How Are the Wait Times
+        hint: null
+        type: select_one
+        options:
+        - Very Short
+        - Short
+        - Acceptable
+        - Long
+        - Very Long
+        required: false
+      - id: 19
+        name: service_quality
+        label: How Is the Quality of Services
+        hint: null
+        type: select_one
+        options:
+        - Excellent
+        - Very Good
+        - Good
+        - Fair
+        - Poor
+        required: false
+      - id: 20
+        name: barriers
+        label: Barriers to Accessing Services
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Lack of Information
+        - Transportation Issues
+        - Cost
+        - Long Wait Times
+        - Inconvenient Hours
+        - Language Barriers
+        - Eligibility Requirements
+        - Stigma
+        - Disability Access
+        - None
+        required: false
+      - id: 21
+        name: unmet_needs
+        label: Do You Have Unmet Needs
+        hint: Services you need but cannot access
+        type: select_one
+        options:
+        - Yes
+        - No
+        required: false
+      - id: 22
+        name: unmet_needs_description
+        label: What Services Do You Need
+        hint: Describe
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: improvements
+        label: What Improvements Would You Suggest
+        hint: Your ideas
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_services
+        label: What Additional Services Would Help
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: recommend_services
+        label: Would You Recommend Our Services
+        hint: null
+        type: select_one
+        options:
+        - Definitely Yes
+        - Probably Yes
+        - Maybe
+        - Probably No
+        - Definitely No
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

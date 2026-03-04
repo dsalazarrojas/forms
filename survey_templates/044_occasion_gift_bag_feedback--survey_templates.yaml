@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: occasion_gift_bag_feedback
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: swag_item
+      label: swag_item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true

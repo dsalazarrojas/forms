@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Wellbeing Check In
+    pages:
+    - id: 1
+      name: introduction
+      label: This is a wellbeing check in
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_are_you_feeling
+      label: how-are-you-feeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mental_health_condition
+      label: Do you have any mental health conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: have_you_considered_mental_health_support
+      label: have-you-considered-mental-health-support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wellbeing_score
+      label: wellbeing-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wellbeing_comment
+      label: wellbeing-comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_items
+      label: action-items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wellbeing_score_comment
+      label: wellbeing-score-comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wellbeing_action_item
+      label: wellbeing-action-item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: wellbeing_support_plan
+      label: wellbeing-support-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: wellbeing_referral
+      label: wellbeing-referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: wellbeing_note
+      label: wellbeing-note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wellbeing_score_averaged
+      label: wellbeing-score-averaged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: wellbeing_score_average
+      label: wellbeing-score-average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: wellbeing_score_average
+      label: wellbeing-score-average
+      hint: null
+      type: number
+      options: []
+      required: false

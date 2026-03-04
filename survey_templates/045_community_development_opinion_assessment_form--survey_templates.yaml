@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Development Opinion Assessment Form
+    pages:
+    - id: 1
+      name: section_opinion_assessment_intro
+      label: -- Community Development Opinion Assessment --
+      hint: Your opinions help us shape our community's development!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_full_name_ops
+      label: Full Name of Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email_ops
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone_ops
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_address_ops
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_opinion_assessments_ops
+      label: -- Opinion Assessment and Priorities --
+      hint: Assess the areas and issues that matter most to you.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: development_priority_opinion_ops
+      label: Which area in our community needs the most development attention
+      hint: Select your top priority
+      type: select_one
+      options:
+      - Infrastructure (Roads/Sidewalks)
+      - Public Safety (Lighting/Signage)
+      - Parks and Recreation (Trees/Greens)
+      - Education and Schools
+      - Commercial/Business Zones
+      - Community Services (HR/Support)
+      required: true
+    - id: 8
+      name: neighborhood_condition_opinion_ops
+      label: Rate the current condition of your neighborhood
+      hint: 1 (Very Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: safety_opinion_assess_ops
+      label: Do you feel safe in your neighborhood
+      hint: null
+      type: select_one
+      options:
+      - Yes, very safe
+      - Somewhat safe
+      - No, unsafe
+      required: true
+    - id: 10
+      name: improvement_ideas_opinion_ops
+      label: What are your ideas for neighborhood improvements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_community_engagement_feedback_ops
+      label: -- Community Engagement and Feedback --
+      hint: Tell us about your satisfaction and engagement.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: development_satisfaction_opinion_ops
+      label: Rate your overall satisfaction with our community's development
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: initiative_engagement_opinion_ops
+      label: Have you participated in any recent community initiatives
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have
+      - No, I haven't
+      - I am not sure
+      required: true
+    - id: 14
+      name: primary_reason_for_joining_opinion_ops
+      label: What was your primary reason for joining the initiative (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvement_suggestions_opinion_ops
+      label: What could we do to improve community engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_final_submission_ops
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: resident_signature_digital_ops
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_date_final_ops
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: newsletter_opt_in_ops
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 20
+      name: referral_source_ops
+      label: How did you hear about this opinion assessment form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

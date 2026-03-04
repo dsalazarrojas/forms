@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Feedback Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Control Feedback Form --
+      hint: Provide your feedback on the access control systems and procedures to help us improve security and user experience.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email address (optional)
+      hint: Provide if you would like us to follow up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: respondent_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+        - Employee
+        - Contractor
+        - Visitor
+        - Security Staff
+        - Management
+        - Other
+      required: true
+    - id: 5
+      name: department_or_location
+      label: Department or building location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: frequency_of_use
+      label: How often do you use the access control system
+      hint: null
+      type: select_one
+      options:
+        - Multiple times daily
+        - Once daily
+        - A few times a week
+        - Occasionally
+        - Rarely
+      required: true
+    - id: 7
+      name: ease_of_use
+      label: How easy is the access control system to use
+      hint: null
+      type: select_one
+      options:
+        - Very difficult
+        - Difficult
+        - Neutral
+        - Easy
+        - Very easy
+      required: true
+    - id: 8
+      name: reliability_rating
+      label: How reliable is the access control system (card readers, biometric scanners, etc.)
+      hint: null
+      type: select_one
+      options:
+        - Very unreliable
+        - Unreliable
+        - Neutral
+        - Reliable
+        - Very reliable
+      required: true
+    - id: 9
+      name: issues_experienced
+      label: What issues have you experienced with the access control system (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Card or badge not recognized
+        - Slow response time at entry points
+        - System downtime or outages
+        - Difficulty obtaining or replacing badges
+        - Unclear access permissions
+        - None - no issues experienced
+      required: true
+    - id: 10
+      name: response_time_security
+      label: When you reported an access issue, how quickly was it resolved
+      hint: null
+      type: select_one
+      options:
+        - Within minutes
+        - Within an hour
+        - Same day
+        - Next day or longer
+        - Issue was never resolved
+        - Never reported an issue
+      required: true
+    - id: 11
+      name: safety_feeling
+      label: How safe do you feel with the current access control measures in place
+      hint: null
+      type: select_one
+      options:
+        - Very unsafe
+        - Somewhat unsafe
+        - Neutral
+        - Safe
+        - Very safe
+      required: true
+    - id: 12
+      name: improvement_priorities
+      label: What aspect of access control is most important to improve (select up to 2)
+      hint: null
+      type: select_multiple
+      options:
+        - Speed of entry
+        - System reliability
+        - Badge replacement process
+        - Visitor check-in experience
+        - After-hours access
+        - Communication about access policies
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with the access control system
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 14
+      name: additional_feedback
+      label: Any additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

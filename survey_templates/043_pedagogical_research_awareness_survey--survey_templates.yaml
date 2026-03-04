@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedagogical Research Awareness Survey
+    pages:
+    - id: 1
+      name: survey_school
+      label: school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: research_areas
+      label: research_areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: familiarity_levels
+      label: familiarity_levels
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: impact
+      label: impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: gathered_feedback
+      label: gathered_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teaching_practice
+      label: teaching_practice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: teaching_initiatives
+      label: teaching_initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

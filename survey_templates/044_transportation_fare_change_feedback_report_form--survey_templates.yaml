@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Fare Change Feedback Report Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fare_change
+      label: Fare Change
+      hint: null
+      type: select_one
+      options:
+      - 0-10%
+      - 10-20%
+      - 20-30%
+      - 30-40%
+      - 40-50%
+      - 50-60%
+      - 60%
+      required: false
+    - id: 3
+      name: fare_increase
+      label: How would you rate the fare increase
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_fare_increase
+      label: Reason for fare increase
+      hint: null
+      type: select_multiple
+      options:
+      - Increase in fuel costs
+      - Increase in operational costs
+      - Increase in maintenance costs
+      - Other
+      required: false
+    - id: 5
+      name: communication_effectiveness
+      label: How effective was the communication of fare change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_method
+      label: Which communication channel was most effective
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Social media
+      - Text message
+      - In-app notification
+      - Other
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: rider_name
+      label: Rider Name
+      hint: null
+      type: text
+      options: []
+      required: false

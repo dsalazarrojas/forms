@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Accessibility Feedback Form
+    pages:
+    - id: 1
+      name: website_accessibility_feedback_form
+      label: What's your experience with our website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_title
+      label: What page do you have accessibility issues with?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_anchor
+      label: Specific page URL or anchor?
+      hint: If you can share the exact URL or anchor, that's very helpful!
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_type
+      label: What kind of accessibility issue?
+      hint: Please select one of the following
+      type: select_one
+      options:
+      - Screen reader issues
+      - Text size too small
+      - Button or input not accessible
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: issue_description
+      label: Describe the issue?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: solutions
+      label: What could we do to solve the issue?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

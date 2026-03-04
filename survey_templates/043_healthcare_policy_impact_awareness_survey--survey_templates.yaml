@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Policy Impact Awareness Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Healthcare Policy Impact Awareness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_changes_question_1
+      label: What are the most recent policy changes you are aware of in the healthcare
+        system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_changes_question_2
+      label: What do you think are the biggest impacts of these policy changes?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_policies_survey_category_awareness
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Policy A''}'
+      - '{''option'': ''Policy B''}'
+      - '{''option'': ''Policy C''}'
+      required: false
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: health_insurance_provider
+      label: provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_insurance_cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: health_insurance_type
+      label: health_insurance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Private''}'
+      - '{''option'': ''Public''}'
+      - '{''option'': ''Both''}'
+      required: false
+    - id: 9
+      name: health_insurance_provider_type
+      label: health_insurance_provider_type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Doctor''}'
+      - '{''option'': ''Hospital''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 10
+      name: survey_end
+      label: Survey Complete
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Profile Attributes Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Small (1-50)
+      - Medium (51-250)
+      - Large (251-1000)
+      - Enterprise (1000+)
+      required: true
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: B2B, B2C, etc.
+      type: select_one
+      options:
+      - B2B
+      - B2C
+      - B2G
+      - Non-profit
+      - Other
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $1M
+      - $1M - $10M
+      - $10M - $50M
+      - $50M - $100M
+      - Over $100M
+      required: false
+    - id: 10
+      name: years_in_business
+      label: Years in Business
+      hint: How long established?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: primary_products_services
+      label: Primary Products or Services
+      hint: What do you offer?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_market
+      label: Target Market
+      hint: Customer demographic
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: geographic_coverage
+      label: Geographic Coverage
+      hint: Service areas
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: growth_rate
+      label: Business Growth Rate
+      hint: Recent growth (%)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: main_competitors
+      label: Main Competitors
+      hint: Who are your competitors?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: unique_selling_proposition
+      label: Unique Selling Proposition
+      hint: What makes you different?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: primary_distribution_channels
+      label: Primary Distribution Channels
+      hint: How do you reach customers?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: key_business_challenges
+      label: Key Business Challenges
+      hint: What are your main challenges?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: strategic_objectives
+      label: Strategic Objectives
+      hint: What are your goals?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_satisfaction_level
+      label: Customer Satisfaction Level
+      hint: Rate on scale (1-5)
+      type: number
+      options: []
+      required: false

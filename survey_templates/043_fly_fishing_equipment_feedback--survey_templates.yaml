@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fly Fishing Equipment Feedback
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Unsatisfied''}'
+      - '{''id'': 2, ''name'': ''Neutral''}'
+      - '{''id'': 3, ''name'': ''Satisfied''}'
+      - '{''id'': 4, ''name'': ''Very Satisfied''}'
+      required: true
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

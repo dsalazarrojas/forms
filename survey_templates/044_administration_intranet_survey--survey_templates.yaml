@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Administration Intranet Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: Respondent information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: Which department do you represent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: frequency_of_use
+      label: Frequency of intranet use
+      hint: How often do you use the intranet
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: satisfaction_overall
+      label: Overall satisfaction
+      hint: Rate from 1 very dissatisfied to 5 very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: primary_purpose
+      label: Primary purpose for using intranet
+      hint: Select main use case
+      type: select_one
+      options:
+      - News
+      - HR forms
+      - Knowledge base
+      - Collaboration
+      required: true
+    - id: 6
+      name: improvement_suggestions
+      label: Improvement suggestions
+      hint: Ideas to make intranet more useful
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_needed
+      label: Training needed
+      hint: Would training improve usage
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: features_missing
+      label: Features missing from intranet
+      hint: List features you would like to see
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_for_followup
+      label: Contact for follow up
+      hint: Optional if you want to be contacted
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

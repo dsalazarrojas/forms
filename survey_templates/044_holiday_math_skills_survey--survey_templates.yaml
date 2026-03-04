@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Math Skills Survey
+    pages:
+    - id: 1
+      name: holiday_math_skills_survey_form
+      label: math_skills_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: holiday_math_skills_survey_title
+      label: math_skills_survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: holiday_math_skills_survey_description
+      label: math_skills_survey_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: holiday_math_skills_survey_math_practice
+      label: math_practice
+      hint: null
+      type: select_multiple
+      options:
+      - Multiplication
+      - Division
+      - Addition
+      - Subtraction
+      - Fractions
+      - Decimals
+      - Percentages
+      - Geometric sequences
+      - Algebra
+      - Geometry
+      - Calculus
+      required: false
+    - id: 5
+      name: holiday_math_skills_survey_confidence
+      label: confidence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: holiday_math_skills_survey_challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: holiday_math_skills_survey_additional_challenges
+      label: additional_challenges
+      hint: null
+      type: text
+      options: []
+      required: false

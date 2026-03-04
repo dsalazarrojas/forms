@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Appointment Feedback Form
+    pages:
+    - id: 1
+      name: doctor_appointment_feedback_form
+      label: What was the quality of care provided by your doctor?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: doctor_feedback
+      label: How likely are you to recommend this doctor to others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: doctor_office
+      label: How clean was the doctors office?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: staff_friendliness
+      label: How would you rate the friendliness of the staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: doctor_communication
+      label: How would you rate the communication style of your doctor?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: doctor_professionalism
+      label: How would you rate the professionalism of your doctor?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: waiting_time
+      label: How would you rate the waiting time you spent before your appointment?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: doctor_availability
+      label: How would you rate the availability of your doctor?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: How satisfied were you with your appointment?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: appointment_length
+      label: How long did you spend with the doctor?
+      hint: null
+      type: time
+      options: []
+      required: false

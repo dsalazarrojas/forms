@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Participation Questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_info
+      label: Session Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Improve
+      - Enhance
+      - Cancel
+      required: false
+    - id: 9
+      name: next_steps_reason
+      label: Next Steps Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_participants
+      label: Session Participants
+      hint: null
+      type: select_multiple
+      options:
+      - '2'
+      - '5'
+      - '7'
+      required: false
+    - id: 13
+      name: session_participants_count
+      label: Session Participants Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: session_participants_gender
+      label: Session Participants Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: session_participants_age
+      label: Session Participants Age
+      hint: null
+      type: select_multiple
+      options:
+      - 16-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56+
+      required: false
+    - id: 16
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_info_comments
+      label: Event Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_info
+      label: Event Organizer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: event_organizer_comments
+      label: Event Organizer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: workshop_info
+      label: Workshop Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: workshop_info_comments
+      label: Workshop Comments
+      hint: null
+      type: text
+      options: []
+      required: false

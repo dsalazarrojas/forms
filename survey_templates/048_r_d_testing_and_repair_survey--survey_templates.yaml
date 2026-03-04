@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: R&D Testing And Repair Survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is this form for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tester_id
+      label: tester id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tester_name
+      label: tester name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''QA''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Lab''}'
+      required: true
+    - id: 5
+      name: shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: issue_type
+      label: issue type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bug''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 10
+      name: issue_description
+      label: issue description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: outcome
+      label: outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''resolved''}'
+      - '{''value'': ''not resolved''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 12
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_plan
+      label: action plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''yes''}'
+      - '{''value'': ''no''}'
+      required: false
+    - id: 15
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tester_phone
+      label: tester phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tester_email
+      label: tester email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: tester_notes
+      label: tester notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Reopening Survey
+    pages:
+    - id: 1
+      name: intro
+      label: What are your thoughts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_closure
+      label: Our business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reopening_plans
+      label: Reopening plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - Gym
+      - Pool
+      - Sauna
+      - Tennis court
+      - Swimming pool
+      - Playground
+      - Fitness classes
+      required: false
+    - id: 5
+      name: classes
+      label: Fitness classes
+      hint: null
+      type: select_multiple
+      options:
+      - Yoga
+      - Weightlifting
+      - Cardio
+      - Dance
+      - Golf
+      - Martial arts
+      required: false
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_one
+      options:
+      - Free Wi-Fi
+      - Parking
+      - Snack bar
+      - Restaurant
+      - Locker room
+      - Shower
+      required: false
+    - id: 8
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up with you about this survey prophets
+      - Follow up with you about this survey
+      required: false
+    - id: 11
+      name: survey_time
+      label: Survey time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: survey_date
+      label: Survey date
+      hint: null
+      type: date
+      options: []
+      required: false

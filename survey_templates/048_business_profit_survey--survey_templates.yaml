@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Profit Survey
+    pages:
+    - id: 1
+      name: business_owner_name
+      label: Business Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Type of Business
+      hint: What industry?
+      type: select_one
+      options:
+      - Retail
+      - Service
+      - Manufacturing
+      - Technology
+      - Consulting
+      - Other
+      required: true
+    - id: 6
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current workforce
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: current_annual_revenue
+      label: Current Annual Revenue
+      hint: Last year revenue
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_operating_costs
+      label: Annual Operating Costs
+      hint: Total expenses
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_profit_margin
+      label: Current Profit Margin
+      hint: Percentage (%)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: revenue_growth_rate
+      label: Revenue Growth Rate
+      hint: Year-over-year (%)
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: primary_revenue_sources
+      label: Primary Revenue Sources
+      hint: Where does revenue come from?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cost_structure_analysis
+      label: Cost Structure Analysis
+      hint: What are major expenses?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: profitability_challenges
+      label: Profitability Challenges
+      hint: What limits your profit?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: cost_reduction_opportunities
+      label: Cost Reduction Opportunities
+      hint: Where can you cut costs?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: revenue_increase_strategies
+      label: Revenue Increase Strategies
+      hint: How will you grow revenue?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: profit_goals_next_year
+      label: Profit Goals - Next Year
+      hint: Target profit
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: profit_goals_three_years
+      label: Profit Goals - 3 Years
+      hint: Target for 3 years
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: pricing_strategy
+      label: Current Pricing Strategy
+      hint: How do you price?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: competitive_positioning
+      label: Competitive Positioning
+      hint: Price vs. competitors
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: business_efficiency
+      label: Business Operational Efficiency
+      hint: Rate efficiency (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: financial_help_needed
+      label: Type of Financial Help Needed
+      hint: What would help most?
+      type: text
+      options: []
+      required: false

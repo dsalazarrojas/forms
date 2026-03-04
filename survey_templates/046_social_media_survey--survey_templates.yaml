@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Social media survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_platforms
+      label: social platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - TikTok
+      - Snapchat
+      required: false
+    - id: 3
+      name: user_email
+      label: user email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_phone
+      label: user phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_age
+      label: user age
+      hint: Please enter your age.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: time_preference
+      label: What is your time preference?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_preference
+      label: What is your date preference?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: How often do you use the internet for social media?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Every other day
+      - Less than once a week
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Which social media platforms do you use for personal networking?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - TikTok
+      required: false
+    - id: 11
+      name: email_confirmation
+      label: email confirmation
+      hint: Please enter a valid email address.
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Learning Analytics Trust And Transparency Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Learning Analytics Trust and Transparency Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Survey Templates
+      - Form Examples
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: What is this form used for?
+      hint: Describe this form's purpose
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: data_use
+      label: Data use
+      hint: null
+      type: select_one
+      options:
+      - Collecting anonymous feedback
+      - Collecting user data
+      - Analyzing educational data
+      required: false
+    - id: 5
+      name: feedback_frequency
+      label: How often do you collect feedback?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 6
+      name: trust_level
+      label: What level of trust do you have in the data?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: transparency_level
+      label: What level of transparency do you have in the data?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: submission_frequency
+      label: How often do you submit data?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false

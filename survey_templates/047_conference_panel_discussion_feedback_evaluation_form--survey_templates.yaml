@@ -1,0 +1,270 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Panel Discussion Feedback Evaluation Form
+    pages:
+      - id: 1
+        name: feedback_header
+        label: Panel Discussion Feedback
+        hint: Evaluate the panel discussion
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: conference_name
+        label: Conference Name
+        hint: Event name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: panel_name
+        label: Panel Discussion Name
+        hint: Title of panel
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: panel_date
+        label: Panel Date
+        hint: When held
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: panel_time
+        label: Panel Time
+        hint: Start time
+        type: time
+        options: []
+        required: false
+      - id: 8
+        name: overall_ratings
+        label: Overall Ratings
+        hint: Rate the panel
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: overall_quality
+        label: Overall Quality
+        hint: General rating
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: content_relevance
+        label: Content Relevance
+        hint: How relevant was topic
+        type: select_one
+        options:
+          - Very Relevant
+          - Relevant
+          - Neutral
+          - Not Very Relevant
+          - Not Relevant
+        required: true
+      - id: 11
+        name: panelist_expertise
+        label: Panelist Expertise
+        hint: Rate knowledge level
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: moderator_effectiveness
+        label: Moderator Effectiveness
+        hint: Rate the moderator
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: panel_dynamics
+        label: Panel Dynamics
+        hint: Interaction quality
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: panelist_interaction
+        label: Panelist Interaction
+        hint: How well they worked together
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 15
+        name: audience_engagement
+        label: Audience Engagement
+        hint: How engaging was it
+        type: select_one
+        options:
+          - Very Engaging
+          - Engaging
+          - Neutral
+          - Somewhat Boring
+          - Very Boring
+        required: true
+      - id: 16
+        name: time_management
+        label: Time Management
+        hint: Was time used well
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 17
+        name: q_and_a_quality
+        label: Q and A Quality
+        hint: Audience questions session
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - No Q and A
+        required: false
+      - id: 18
+        name: content_assessment
+        label: Content Assessment
+        hint: What did you learn
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: key_takeaways
+        label: Key Takeaways
+        hint: Main learnings
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: most_valuable_insight
+        label: Most Valuable Insight
+        hint: Best point made
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: topics_wanted_more
+        label: Topics You Wanted More On
+        hint: What was missing
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: panelist_feedback
+        label: Panelist Feedback
+        hint: Rate individual panelists
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: favorite_panelist
+        label: Favorite Panelist
+        hint: Who stood out
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: panelist_suggestions
+        label: Panelist Suggestions
+        hint: Who else to invite
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: future_topics
+        label: Future Topic Suggestions
+        hint: What to discuss next
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How to make it better
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: would_recommend
+        label: Would Recommend
+        hint: Tell others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 28
+        name: attend_similar
+        label: Would Attend Similar Panel
+        hint: Future interest
+        type: select_one
+        options:
+          - Definitely
+          - Probably
+          - Maybe
+          - Probably Not
+          - Definitely Not
+        required: true
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

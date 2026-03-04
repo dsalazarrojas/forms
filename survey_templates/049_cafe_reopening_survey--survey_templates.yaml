@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Reopening Survey
+    pages:
+    - id: 1
+      name: reopening_intro
+      label: -- We are Reopening! --
+      hint: Help us prepare for your return
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_familiarity
+      label: How often did you visit us before our temporary closure
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Multiple times a week
+      - Weekly
+      - Monthly
+      - Occasional visitor
+      required: true
+    - id: 3
+      name: safety_priorities_header
+      label: -- Health and Safety Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: comfort_level_dine_in
+      label: How comfortable do you feel about dine-in service
+      hint: 1 is Not Comfortable, 5 is Very Comfortable
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: safety_measures_importance
+      label: Which safety measures are most important to you
+      hint: select top 3
+      type: select_multiple
+      options:
+      - Spaced Seating
+      - Visible Sanitizing
+      - Staff Masks
+      - Contactless Payment
+      - Digital Menu
+      required: true
+    - id: 6
+      name: menu_preferences_header
+      label: -- Menu and Service Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: menu_must_haves
+      label: Which menu items have you missed the most
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: limited_menu_acceptance
+      label: Would you accept a limited menu for the first few weeks
+      hint: ensuring quality and efficiency
+      type: select_one
+      options:
+      - true
+      - Only if my favorites are included
+      - false
+      required: true
+    - id: 9
+      name: service_hours_pref
+      label: Preferred Opening Hours
+      hint: null
+      type: select_multiple
+      options:
+      - Early Morning (before 7am)
+      - Standard (7am-5pm)
+      - Late Evening (after 5pm)
+      - Weekend Only
+      required: false
+    - id: 10
+      name: digital_adoption_header
+      label: -- Technology and Convenience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: mobile_ordering_interest
+      label: Would you use a mobile app to order and pay ahead
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Maybe
+      - No - Prefer standard service
+      required: true
+    - id: 12
+      name: curbside_pickup_interest
+      label: Interest in Curbside Pickup options
+      hint: null
+      type: select_one
+      options:
+      - High Interest
+      - Moderate Interest
+      - No Interest
+      required: true
+    - id: 13
+      name: opening_event_header
+      label: -- Grand Reopening Event --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reopening_specials
+      label: What kind of reopening special would interest you
+      hint: null
+      type: select_one
+      options:
+      - Buy-one-get-one-free
+      - Loyalty points bonus
+      - Free pastry with coffee
+      - Live music event
+      required: false
+    - id: 15
+      name: subscribe_alerts
+      label: Would you like to be notified of our exact reopening date
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: reopening_comments
+      label: Any other words of encouragement or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Email Address for notifications
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: survey_completion_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

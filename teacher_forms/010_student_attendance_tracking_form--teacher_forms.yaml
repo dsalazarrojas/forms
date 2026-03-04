@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Attendance Tracking Form
+    pages:
+    - id: 1
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_in
+      label: time in
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_status
+      label: attendance status
+      hint: null
+      type: select_multiple
+      options:
+      - present
+      - absent
+      required: true
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_count
+      label: student count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: student_attendance_count
+      label: student attendance count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_count
+      label: total count
+      hint: null
+      type: number
+      options: []
+      required: true

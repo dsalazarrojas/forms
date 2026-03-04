@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Repair Work Order Form
+    pages:
+    - id: 1
+      name: work_order_id
+      label: Work Order ID
+      hint: Unique work order identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of work order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name of customer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: Email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Name of company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_type
+      label: Device Type
+      hint: Type of device needing repair
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop Computer
+      - Tablet
+      - Server
+      - Workstation
+      - All-in-One
+      - Other
+      required: true
+    - id: 8
+      name: device_brand
+      label: Device Brand
+      hint: Brand or manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: device_model
+      label: Device Model
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: serial_number
+      label: Serial Number
+      hint: Device serial number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: operating_system
+      label: Operating System
+      hint: Select operating system
+      type: select_one
+      options:
+      - Windows 11
+      - Windows 10
+      - macOS
+      - Linux
+      - Chrome OS
+      - Other
+      - Unknown
+      required: true
+    - id: 12
+      name: problem_category
+      label: Problem Category
+      hint: Select the problem category
+      type: select_one
+      options:
+      - Hardware Failure
+      - Software Issue
+      - Virus or Malware
+      - Network Issue
+      - Performance Issue
+      - Display Issue
+      - Keyboard or Input Issue
+      - Data Recovery
+      - Upgrade Request
+      - Other
+      required: true
+    - id: 13
+      name: problem_description
+      label: Problem Description
+      hint: Describe the problem in detail
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: error_messages
+      label: Error Messages
+      hint: List any error messages displayed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: issue_frequency
+      label: Issue Frequency
+      hint: How often does the issue occur
+      type: select_one
+      options:
+      - Constant
+      - Frequent
+      - Intermittent
+      - Rare
+      - One Time
+      required: true
+    - id: 16
+      name: priority_level
+      label: Priority Level
+      hint: Select priority level
+      type: select_one
+      options:
+      - Low - Can Wait
+      - Medium - Within 48 Hours
+      - High - Within 24 Hours
+      - Critical - Immediate
+      required: true
+    - id: 17
+      name: data_backup_status
+      label: Data Backup Status
+      hint: Do you have a current backup
+      type: select_one
+      options:
+      - Yes, Recent Backup
+      - Yes, Old Backup
+      - No Backup
+      - Unsure
+      required: true
+    - id: 18
+      name: warranty_status
+      label: Warranty Status
+      hint: Is device under warranty
+      type: select_one
+      options:
+      - Yes, In Warranty
+      - No, Expired
+      - No Warranty
+      - Unsure
+      required: false
+    - id: 19
+      name: preferred_turnaround
+      label: Preferred Turnaround
+      hint: When do you need repair completed
+      type: select_one
+      options:
+      - Standard (3-5 Days)
+      - Expedited (1-2 Days)
+      - Same Day
+      - While You Wait
+      required: true
+    - id: 20
+      name: repair_estimate_limit
+      label: Repair Estimate Limit
+      hint: Maximum amount willing to spend
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: diagnostic_fee_agreed
+      label: Diagnostic Fee Agreed
+      hint: Do you agree to diagnostic fee
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 22
+      name: technician_assigned
+      label: Technician Assigned
+      hint: Name of assigned technician
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: diagnostic_results
+      label: Diagnostic Results
+      hint: Technician to complete after diagnosis
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: repair_status
+      label: Repair Status
+      hint: Current repair status
+      type: select_one
+      options:
+      - Received
+      - In Diagnosis
+      - Waiting for Parts
+      - In Repair
+      - Testing
+      - Ready for Pickup
+      - Completed
+      - Cancelled
+      required: true
+    - id: 25
+      name: customer_signature
+      label: Customer Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

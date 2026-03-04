@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Detention Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: safety
+      label: What is your general sense of safety while being detained?
+      hint: null
+      type: select_multiple
+      options:
+      - Safety is always a top priority for me.
+      - I feel somewhat safe.
+      - Safety is a concern for me.
+      required: true
+    - id: 3
+      name: staff_support
+      label: How would you rate the support from the staff?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: services
+      label: What services do you need to feel safe and supported?
+      hint: null
+      type: select_one
+      options:
+      - Emergency Services
+      - Basic Services
+      - Both
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: services_specify
+      label: Please specify other services you would like to see available.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

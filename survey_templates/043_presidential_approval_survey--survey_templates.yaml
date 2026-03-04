@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presidential Approval Survey
+    pages:
+    - id: 1
+      name: presidential_approval_survey_form_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: presidential_approval_survey_form_2
+      label: presidential_approval_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''strongly_approve'', ''label'': ''Strongly Approve''}'
+      - '{''value'': ''approve'', ''label'': ''Approve''}'
+      - '{''value'': ''neutral'', ''label'': ''Neutral''}'
+      - '{''value'': ''disagree'', ''label'': ''Disagree''}'
+      - '{''value'': ''strongly_disagree'', ''label'': ''Strongly Disagree''}'
+      required: true
+    - id: 3
+      name: presidential_approval_survey_form_3
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presidential_approval_survey_form_4
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: presidential_approval_survey_form_5
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presidential_approval_survey_form_6
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: presidential_approval_survey_form_7
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: presidential_approval_survey_form_8
+      label: presidential_approval_rating_scale
+      hint: null
+      type: number
+      options: []
+      required: true

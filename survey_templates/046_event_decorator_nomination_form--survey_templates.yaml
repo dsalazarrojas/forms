@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_decorator_nomination_form
+    pages:
+    - id: 1
+      name: event_planner_name
+      label: Event Planner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Attendee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_multiple
+      options:
+      - Best Decorator
+      - Most Innovative
+      - Most Outstanding
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominator_comment
+      label: Nominator Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominator_note
+      label: Nominator Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: nomination_type
+      label: Nomination Type
+      hint: null
+      type: select_one
+      options:
+      - Best Decorator
+      - Most Innovative
+      - Most Outstanding
+      required: true
+    - id: 16
+      name: nominator
+      label: Nominator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

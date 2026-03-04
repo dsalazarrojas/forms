@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operations Advisory Impact Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisory_engagements
+      label: advisory_engagements
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: perceived_impact
+      label: perceived_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false

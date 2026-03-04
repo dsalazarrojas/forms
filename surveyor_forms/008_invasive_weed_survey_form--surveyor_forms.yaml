@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invasive Weed Survey Form
+    pages:
+    - id: 1
+      name: surveyor_id
+      label: Surveyor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: location_id
+      label: location_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: location_name
+      label: location_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sighting_date
+      label: sighting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: plant_type
+      label: plant_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 6
+      name: plant_quantity
+      label: plant_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_priority
+      label: follow_up_priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false

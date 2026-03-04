@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ladder Inspection Form
+    pages:
+    - id: 1
+      name: ladder_inspection_form_page_1
+      label: Ladder Inspection Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ladder_inspection_form_page_2
+      label: Ladder Inspections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ladder_inspection_form_page_3
+      label: Ladder Inspection Form 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ladder_inspection_form_page_4
+      label: Ladder Inspections Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Option 10''}'
+      - '{''id'': 11, ''label'': ''Option 11''}'
+      - '{''id'': 12, ''label'': ''Option 12''}'
+      required: true
+    - id: 5
+      name: ladder_inspection_form_page_5
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ladder_inspection_form_page_6
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: patient_satisfaction_survey_form
+      label: Patient Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: E mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_satisfaction
+      label: Patient Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Average
+      - Poor
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: survey_id
+      label: Survey ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: patient_rating
+      label: Patient Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: survey_rating
+      label: Survey Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

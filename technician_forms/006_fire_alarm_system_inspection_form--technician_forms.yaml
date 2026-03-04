@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm System Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Alarm System
+      - Smoke Detector System
+      - Heat Detector System
+      - Combination System
+      required: false
+    - id: 3
+      name: system_location
+      label: System Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Disabled
+      required: false
+    - id: 5
+      name: system_description
+      label: System Description
+      hint: Describe the system in detail.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: system_inspection_date
+      label: System Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: system_inspection_by
+      label: System Inspected By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: system_inspection_notes
+      label: System Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: system_repair_needed
+      label: System Repair Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partial Repair Required
+      required: false
+    - id: 10
+      name: system_repair_cost
+      label: System Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: system_next_inspection
+      label: System Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: system_inspection_frequency
+      label: System Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 13
+      name: system_inspector_signature
+      label: System Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: system_inspector_name
+      label: System Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: system_inspector_title
+      label: System Inspector Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: system_inspector_phone
+      label: System Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_inspector_email
+      label: System Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: system_inspector
+      label: System Inspector Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: system_notes
+      label: System Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: system_additional_notes
+      label: System Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: system_signature
+      label: System Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: system_title
+      label: System Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: system_company
+      label: System Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: system_comments
+      label: System Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: system_other
+      label: System Other
+      hint: null
+      type: text
+      options: []
+      required: false

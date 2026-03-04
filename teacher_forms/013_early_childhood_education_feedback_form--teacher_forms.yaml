@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Childhood Education Feedback Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: teacher id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: education_program
+      label: education program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Teacher A''}'
+      - '{''label'': ''Teacher B''}'
+      - '{''label'': ''Teacher C''}'
+      required: false
+    - id: 12
+      name: assigned_by
+      label: assigned by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Teacher 1''}'
+      - '{''label'': ''Teacher 2''}'
+      required: false

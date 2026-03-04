@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_teaching_observation_recording_consent_form
+    pages:
+    - id: 1
+      name: teaching_observation_recording_consent
+      label: Virtual Observation Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant
+      label: Participant
+      hint: null
+      type: select_one
+      options:
+      - teacher
+      - participant
+      required: false
+    - id: 3
+      name: observation_recording
+      label: Recording of Observation
+      hint: null
+      type: select_multiple
+      options:
+      - video
+      - audio
+      required: false
+    - id: 4
+      name: purpose
+      label: Purpose of Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_tool
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movies Survey
+    pages:
+    - id: 1
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: genre
+      label: Genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: starring
+      label: Starring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: director
+      label: Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: movie_release_date
+      label: Movie Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: movie_rating
+      label: Movie Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite
+      label: Favorite
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: favorite_actor
+      label: Favorite Actor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: favorite_movie
+      label: Favorite Movie
+      hint: null
+      type: text
+      options: []
+      required: false

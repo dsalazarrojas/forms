@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interior Design Checklist Form
+    pages:
+    - id: 1
+      name: home_project_preferences
+      label: Project Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_project_brief
+      label: Project Brief
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: budget_range_start
+      label: Budget Range Start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget_range_end
+      label: Budget Range End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: design_goals
+      label: Design Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Home Staging
+      - Interior Design
+      - Architecture
+      - Furniture Selection
+      - Space Planning
+      - Lighting Design
+      - Color Scheme
+      required: false
+    - id: 7
+      name: design_goals_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_plan
+      label: Communication Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In Person
+      - Virtual Meetings
+      required: false
+    - id: 9
+      name: communication_preference
+      label: Communication Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: false
+    - id: 11
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Initial Meeting
+      - Design Meeting
+      - Construction Meeting
+      - Final Walk-through Meeting
+      required: false
+    - id: 12
+      name: design_deliverables
+      label: Design Deliverables
+      hint: null
+      type: select_multiple
+      options:
+      - 2D Design
+      - 3D Design
+      - Design Report
+      - Design Presentation
+      - Renderings
+      - CAD Files
+      required: false
+    - id: 13
+      name: design_deliverables_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

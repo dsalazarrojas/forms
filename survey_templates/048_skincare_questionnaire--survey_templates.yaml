@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Skincare Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_interest
+      label: Which of the following products are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Moisturiser
+      - Serum
+      - Mask
+      - Eye Cream
+      - Cleanser
+      required: true
+    - id: 3
+      name: skin_type
+      label: What type of skin do you have?
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Normal
+      required: true
+    - id: 4
+      name: skin_concerns
+      label: Which of the following skin concerns do you face?
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Dark spots
+      - Hyper-pigmentation
+      - Pores
+      - Rosacea
+      - Sensitive skin
+      - Tightening skin
+      required: true
+    - id: 5
+      name: skin_frequency
+      label: How often do you care for your skin?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - A few times a week
+      - Once a week
+      - Less than once a week
+      required: false
+    - id: 6
+      name: skin_product
+      label: Which skincare products do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Moisturiser
+      - Serum
+      - Mask
+      - Eye Cream
+      - Cleanser
+      - Sunscreen
+      - Exfoliant
+      - Toner
+      required: false
+    - id: 7
+      name: skin_pain
+      label: Do you have any skin concerns that cause you pain?
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Hyper-pigmentation
+      - Redness
+      - Pores
+      - Sensitive skin
+      - Tightening skin
+      required: false
+    - id: 8
+      name: skincare_frequency
+      label: How often do you use skincare products?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - A few times a week
+      - Once a week
+      - Less than once a week
+      required: true
+    - id: 9
+      name: skincare_brand
+      label: Are you loyal to any skincare brand?
+      hint: null
+      type: select_multiple
+      options:
+      - Neutrogena
+      - Olay
+      - L'Oreal
+      - Lancôme
+      - Estee
+      required: false
+    - id: 10
+      name: skincare_budget
+      label: What is your average monthly skincare budget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: skincare_purchase_frequency
+      label: How often do you purchase skincare products?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 12
+      name: skincare_pain
+      label: What is the most common pain point you experience with your current skincare
+        products?
+      hint: null
+      type: select_multiple
+      options:
+      - Pore size
+      - Acne
+      - Hyper-pigmentation
+      - Sensitive skin
+      - Tightening skin
+      - Lack of moisturising
+      - Lack of exfoliation
+      - Other
+      required: false
+    - id: 13
+      name: skincare_preferences
+      label: What do you look for in a skincare product?
+      hint: null
+      type: select_multiple
+      options:
+      - Moisturising
+      - Anti-aging
+      - Acne treatment
+      - Hydration
+      - Sensitive skin treatment
+      - Gentle exfoliation
+      - Anti-redness
+      - Anti-aging
+      - Other
+      required: false
+    - id: 14
+      name: skincare_preferences_list
+      label: Is there anything else you'd like to mention about your skincare preferences?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: skincare_frequency
+      label: How often do you use skincare products?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - A few times a week
+      - Once a week
+      - Less than once a week
+      required: false
+    - id: 16
+      name: skincare_purchase_method
+      label: How do you usually purchase skincare products?
+      hint: null
+      type: select_multiple
+      options:
+      - In-store
+      - Online
+      - Social media
+      - Other
+      required: false
+    - id: 17
+      name: skincare_product_satisfaction
+      label: How satisfied are you with your current skincare products?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 18
+      name: skincare_recommendation
+      label: Would you recommend your current skincare products to others?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false

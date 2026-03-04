@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOA Community Improvement Voting Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvement_priority
+      label: Improvement Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vote_for_project
+      label: Vote For Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: vote_against_project
+      label: Vote Against Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vote_not_project
+      label: Vote Not Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: resident_comments
+      label: Resident Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: resident_email
+      label: Resident Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: resident_phone
+      label: Resident Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false

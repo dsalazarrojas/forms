@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Precision Evaluation Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: Please provide patient information
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: surgeon_info
+      label: surgeon_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: procedure_info
+      label: procedure_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Surgical procedure 1''}'
+      - '{''id'': 2, ''label'': ''Surgical procedure 2''}'
+      - '{''id'': 3, ''label'': ''Surgical procedure 3''}'
+      required: false
+    - id: 5
+      name: question1
+      label: question1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: question2
+      label: question2
+      hint: Provide details about question 2
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question3
+      label: question3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: question4
+      label: question4
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: question5
+      label: question5
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: question6
+      label: question6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: question7
+      label: question7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 12
+      name: question8
+      label: question8
+      hint: Provide patient email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: question9
+      label: question9
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question10
+      label: question10
+      hint: Provide details about question 10
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question11
+      label: question11
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 16
+      name: question12
+      label: question12
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: question13
+      label: question13
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: question14
+      label: question14
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 19
+      name: question15
+      label: question15
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 20
+      name: question16
+      label: question16
+      hint: Provide details about question 16
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question17
+      label: question17
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 22
+      name: question18
+      label: question18
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 23
+      name: question19
+      label: question19
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: question20
+      label: question20
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: question21
+      label: question21
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 26
+      name: question22
+      label: question22
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: question23
+      label: question23
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 28
+      name: question24
+      label: question24
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 29
+      name: question25
+      label: question25
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 30
+      name: question26
+      label: question26
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: question27
+      label: question27
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 32
+      name: question28
+      label: question28
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 33
+      name: question29
+      label: question29
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: question30
+      label: question30
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 35
+      name: question31
+      label: question31
+      hint: null
+      type: text
+      options: []
+      required: false

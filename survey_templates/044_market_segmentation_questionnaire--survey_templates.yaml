@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Segmentation Questionnaire
+    pages:
+    - id: 1
+      name: segment
+      label: Segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: audience_insights
+      label: Audience Insights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: preferences
+      label: Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_segmentation
+      label: Customer Segmentation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: product_decisions
+      label: Product Decisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: brand_decisions
+      label: Brand Decisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_decisions
+      label: Campaign Decisions
+      hint: null
+      type: text
+      options: []
+      required: false

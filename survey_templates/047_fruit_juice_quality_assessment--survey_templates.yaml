@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fruit Juice Quality Assessment
+    pages:
+    - id: 1
+      name: fruit_juice_quality_assessment_1
+      label: Fruit Juice Quality
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Mango
+      - Pineapple
+      - Strawberry
+      - Watermelon
+      - Orange
+      - Grapes
+      - Blueberry
+      - Cherry
+      required: false
+    - id: 2
+      name: quality_rating_1
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_quality_sense_1_1_1
+      label: Overall Quality Sense 1-1-1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: overall_quality_sense_1_2_1
+      label: Overall Quality Sense 1-2-1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: overall_quality_sense_1_3_1
+      label: Overall Quality Sense 1-3-1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: overall_quality_sense_2_1_1
+      label: Overall Quality Sense 2-1-1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: overall_quality_sense_2_2_1
+      label: Overall Quality Sense 2-2-1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: overall_quality_sense_2_3_1
+      label: Overall Quality Sense 2-3-1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: taste_1
+      label: Taste
+      hint: null
+      type: select_one
+      options:
+      - Acidic
+      - Bitter
+      - Earthy
+      - Sweet
+      - Sour
+      - Salty
+      required: false
+    - id: 10
+      name: aroma_1
+      label: Aroma
+      hint: null
+      type: select_one
+      options:
+      - Fragrant
+      - Fruity
+      - Floral
+      - Earthy
+      - Bitter
+      - Pungent
+      required: false
+    - id: 11
+      name: appearance_1
+      label: Appearance
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Hazy
+      - Murky
+      - Sediment-rich
+      - Sparkly
+      required: false
+    - id: 12
+      name: color_1
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Green
+      - Yellow
+      - Brown
+      - Clear
+      - Purple
+      required: false
+    - id: 13
+      name: texture_1
+      label: Texture
+      hint: null
+      type: select_one
+      options:
+      - Smooth
+      - Rough
+      - Soft
+      - Hard
+      - Silky
+      - Bland
+      required: false
+    - id: 14
+      name: consistency_1
+      label: Consistency
+      hint: null
+      type: select_one
+      options:
+      - Smooth
+      - Coarse
+      - Thick
+      - Thin
+      - Silky
+      - Bland
+      required: false
+    - id: 15
+      name: packaging_1
+      label: Packaging
+      hint: null
+      type: select_one
+      options:
+      - Bottle
+      - Can
+      - Box
+      - Bag
+      - Carton
+      - Glass
+      required: false
+    - id: 16
+      name: price_1
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: fruit_1
+      label: Fruit
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Mango
+      - Pineapple
+      - Strawberry
+      - Watermelon
+      - Orange
+      - Grapes
+      - Blueberry
+      - Cherry
+      required: false
+    - id: 18
+      name: packaging_material_1
+      label: Packaging Material
+      hint: null
+      type: select_one
+      options:
+      - Plastic
+      - Glass
+      - Metal
+      - Paper
+      - Cardboard
+      - Bioplastic
+      required: false
+    - id: 19
+      name: production_date_1
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: manufacturing_location_1
+      label: Manufacturing Location
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - UK
+      - Australia
+      - Mexico
+      - China
+      - India
+      - Brazil
+      - South Africa
+      - Germany
+      required: true
+    - id: 21
+      name: certification_1
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - USDA
+      - EU
+      - FDA
+      - ISO
+      - GMD
+      - Halal
+      - Kosher
+      - Halaal
+      - Vegan
+      - Vegetarian
+      required: false
+    - id: 22
+      name: packaging_weight_1
+      label: Packaging Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: packaging_size_1
+      label: Packaging Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: storage_condition_1
+      label: Storage Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Bad
+      - Very Bad
+      - Horrible
+      required: false
+    - id: 25
+      name: notes_1
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

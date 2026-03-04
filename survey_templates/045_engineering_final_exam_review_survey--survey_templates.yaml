@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Final Exam Review Survey
+    pages:
+    - id: 1
+      name: review_session
+      label: Engineering Final Exam Review Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: effectiveness_rating
+      label: Effectiveness Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      required: true
+    - id: 5
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Mathematics
+      - Physics
+      required: true
+    - id: 7
+      name: review_session_length
+      label: Review Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: instructor_performance
+      label: Instructor Performance
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Not Good
+      required: true
+    - id: 9
+      name: future_improvements
+      label: Future Improvements
+      hint: null
+      type: text
+      options: []
+      required: false

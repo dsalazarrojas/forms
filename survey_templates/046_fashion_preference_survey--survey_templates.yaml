@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Preference Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clothing_type
+      label: clothing-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: color_scheme
+      label: color-scheme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: price_range
+      label: price-range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shopping_frequency
+      label: shopping-frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: preferred_color
+      label: preferred-color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: preferred_style
+      label: preferred-style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: purchase_location
+      label: purchase-location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

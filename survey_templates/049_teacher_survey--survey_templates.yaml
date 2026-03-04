@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_survey
+    pages:
+    - id: 1
+      name: teacher_survey_page_1
+      label: teacher_survey_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: what_is_your_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: what_is_your_department
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: question_3
+      label: what_is_your_salary_range
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1-1
+      - Option 2-1
+      - Option 3-1
+      - Option 4-1
+      - Option 5-1
+      required: true
+    - id: 5
+      name: teacher_survey_page_2
+      label: teacher_survey_page_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: what_is_your_years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: what_is_your_education_level
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: question_6
+      label: what_is_your_language
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: question_7
+      label: what_is_your_area_of_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_8
+      label: what_are_you_prepared_for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_9
+      label: what_is_your_employment_status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-course-instructor-feedback-form
+    pages:
+    - id: 1
+      name: instructor_feedback_form
+      label: Online Course Instructor Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_feedback
+      label: Course Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student'', ''value'': ''student''}'
+      - '{''label'': ''Parent'', ''value'': ''parent''}'
+      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      - '{''label'': ''Admin'', ''value'': ''admin''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: text
+      options: []
+      required: true

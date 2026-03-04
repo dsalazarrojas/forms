@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer T Shirt Order Form
+    pages:
+    - id: 1
+      name: tshirt_visuals
+      label: T-Shirt Visuals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: size_preference
+      label: size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: creditcard_type
+      label: Credit Card Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: creditcard_number
+      label: Credit Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: creditcard_expire
+      label: expire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: creditcard_ccv
+      label: CCV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false

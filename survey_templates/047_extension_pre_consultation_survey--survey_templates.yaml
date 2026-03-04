@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extension Pre Consultation Survey
+    pages:
+    - id: 1
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_finish_date
+      label: Project Finish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: architect_comments
+      label: Architect Comments
+      hint: null
+      type: text
+      options: []
+      required: false

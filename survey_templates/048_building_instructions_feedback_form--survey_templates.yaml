@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Instructions Feedback Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Your Role
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: project_name
+        label: Project Name
+        hint: Name of project
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: instruction_type
+        label: Instruction Type
+        hint: Type of instructions
+        type: select_one
+        options:
+          - Operating Instructions
+          - Assembly Instructions
+          - Safety Instructions
+          - Maintenance Instructions
+          - Installation Instructions
+          - User Manual
+          - Standard Operating Procedure
+          - Other
+        required: true
+      - id: 8
+        name: instruction_title
+        label: Instruction Title
+        hint: Name of instructions
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: usage_frequency
+        label: Usage Frequency
+        hint: How often do you use these
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Occasionally
+          - First Time
+        required: true
+      - id: 10
+        name: clarity_rating
+        label: Clarity Rating
+        hint: How clear are the instructions
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 11
+        name: completeness_rating
+        label: Completeness Rating
+        hint: Are all steps included
+        type: select_one
+        options:
+          - Very Complete
+          - Complete
+          - Somewhat Complete
+          - Incomplete
+          - Very Incomplete
+        required: true
+      - id: 12
+        name: accuracy_rating
+        label: Accuracy Rating
+        hint: Are instructions accurate
+        type: select_one
+        options:
+          - Very Accurate
+          - Accurate
+          - Somewhat Accurate
+          - Inaccurate
+          - Very Inaccurate
+        required: true
+      - id: 13
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy to follow
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 14
+        name: visual_aids
+        label: Visual Aids Quality
+        hint: Diagrams and images
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Applicable
+        required: true
+      - id: 15
+        name: formatting_rating
+        label: Formatting Rating
+        hint: Layout and organization
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 16
+        name: terminology_clarity
+        label: Terminology Clarity
+        hint: Is language appropriate
+        type: select_one
+        options:
+          - Very Appropriate
+          - Appropriate
+          - Somewhat Appropriate
+          - Inappropriate
+          - Very Inappropriate
+        required: true
+      - id: 17
+        name: missing_information
+        label: Missing Information
+        hint: What is missing
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: confusing_sections
+        label: Confusing Sections
+        hint: What was unclear
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: errors_found
+        label: Errors Found
+        hint: Any errors noticed
+        type: select_one
+        options:
+          - No Errors
+          - Minor Typos
+          - Some Factual Errors
+          - Significant Errors
+          - Many Errors
+        required: true
+      - id: 20
+        name: error_description
+        label: Error Description
+        hint: Describe errors
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: safety_warnings
+        label: Safety Warnings
+        hint: Are safety notices adequate
+        type: select_one
+        options:
+          - Very Adequate
+          - Adequate
+          - Somewhat Adequate
+          - Inadequate
+          - Very Inadequate
+          - Not Applicable
+        required: true
+      - id: 22
+        name: would_recommend
+        label: Would Recommend
+        hint: To others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 23
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: Your recommendations
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: overall_rating
+        label: Overall Rating
+        hint: Final assessment
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

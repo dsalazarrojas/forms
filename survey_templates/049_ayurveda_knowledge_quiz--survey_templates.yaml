@@ -1,0 +1,181 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ayurveda Knowledge Quiz
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student and Class Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name_ayu
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address_ayu
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: workshop_date_ayu
+        label: Workshop or Class Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: ayu_experience_level
+        label: Previous Experience with Ayurveda
+        hint: Choose your level
+        type: select_one
+        options:
+          - No previous experience
+          - Basic (General awareness)
+          - Intermediate (Some study/practice)
+          - Advanced (In-depth knowledge)
+        required: true
+      - id: 6
+        name: section_knowledge_check
+        label: -- Knowledge Check --
+        hint: Select the most accurate answer
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: q1_primary_doshas
+        label: What are the three primary Doshas in Ayurveda?
+        hint: null
+        type: select_one
+        options:
+          - Vata, Pitta, and Kapha
+          - Fire, Water, and Earth
+          - Wind, Fire, and Stone
+          - Mind, Body, and Spirit
+        required: true
+      - id: 8
+        name: q2_ayu_meaning
+        label: What is the literal meaning of - Ayurveda -?
+        hint: null
+        type: select_one
+        options:
+          - The Science of Life
+          - The Science of the Body
+          - The Science of Food
+          - The Science of Spirit
+        required: true
+      - id: 9
+        name: q3_ayu_goal
+        label: What is the main goal of Ayurvedic practice?
+        hint: null
+        type: select_one
+        options:
+          - Maintaining Balance and Harmony
+          - Curing Active Diseases
+          - Losing Weight and Building Muscle
+          - Predicting the Future
+        required: true
+      - id: 10
+        name: q4_vata_elements
+        label: Which Dosha is primarily associated with the elements of Air and Space?
+        hint: null
+        type: select_one
+        options:
+          - Vata
+          - Pitta
+          - Kapha
+        required: true
+      - id: 11
+        name: q5_pitta_elements
+        label: Which Dosha is primarily associated with the elements of Fire and Water?
+        hint: null
+        type: select_one
+        options:
+          - Vata
+          - Pitta
+          - Kapha
+        required: true
+      - id: 12
+        name: q6_kapha_elements
+        label: Which Dosha is primarily associated with the elements of Earth and Water?
+        hint: null
+        type: select_one
+        options:
+          - Vata
+          - Pitta
+          - Kapha
+        required: true
+      - id: 13
+        name: q7_ayu_nutrition
+        label: What is the primary focus of Ayurvedic nutrition?
+        hint: null
+        type: select_one
+        options:
+          - Supporting Agni (Digestive Fire)
+          - Minimizing Caloric Intake
+          - High-Protein Concentration
+          - Fasting for Long Periods
+        required: true
+      - id: 14
+        name: personal_dosha_ayu
+        label: What is your own dominant Dosha?
+        hint: If you have had an assessment
+        type: select_one
+        options:
+          - Vata
+          - Pitta
+          - Kapha
+          - Bi-Doshic (Mixed)
+          - Not sure yet
+        required: false
+      - id: 15
+        name: training_rating_ayu
+        label: How would you rate the training content?
+        hint: 1 (Poor) to 5 (Excellent)
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 16
+        name: further_topics_ayu
+        label: Areas you would like to learn more about
+        hint: Briefly list any specific interests
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: feedback_text_ayu
+        label: Participant Feedback
+        hint: Any other thoughts on the class
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: submission_date_ayu
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true

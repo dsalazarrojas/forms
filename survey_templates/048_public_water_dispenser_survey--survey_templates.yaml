@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Water Dispenser Survey
+    pages:
+    - id: 1
+      name: water_station_info
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: station_address
+      label: Station Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: water_quality
+      label: How is the water quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_occupancy_evaluation_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: comfort
+      label: how_comfortable_do_you_feel_in_your_space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: functionality
+      label: how_satisfied_are_you_with_the_building_s_functionality
+      hint: null
+      type: select_one
+      options:
+      - Building Systems
+      - Lighting
+      - Air Quality
+      - Temperature
+      - Noise Levels
+      - Water Quality
+      - Safety
+      - Other
+      required: false
+    - id: 4
+      name: space_satisfaction
+      label: how_satisfied_are_you_with_your_office_space
+      hint: null
+      type: number
+      options: []
+      required: false

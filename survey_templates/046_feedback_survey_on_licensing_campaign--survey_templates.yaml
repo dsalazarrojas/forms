@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Survey On Licensing Campaign
+    pages:
+    - id: 1
+      name: introduction
+      label: Feedback Survey On Licensing Campaign
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How did you hear about this survey?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: How satisfied are you with our services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comment
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: How long do you take to respond to a request?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question4
+      label: Would you like to be contacted about this survey?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question5
+      label: What is your preferred method of contact?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      - In-person
+      required: false

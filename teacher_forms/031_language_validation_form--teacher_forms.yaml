@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Language Validation Form
+    pages:
+    - id: 1
+      name: translation_project_details
+      label: Translation Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''Leader 1''}'
+      - '{''value'': ''2'', ''label'': ''Leader 2''}'
+      - '{''value'': ''3'', ''label'': ''Leader 3''}'
+      required: false
+    - id: 3
+      name: translators
+      label: Translators
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1'', ''label'': ''Translator 1''}'
+      - '{''value'': ''2'', ''label'': ''Translator 2''}'
+      - '{''value'': ''3'', ''label'': ''Translator 3''}'
+      required: false
+    - id: 4
+      name: target_language
+      label: Target Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''Lang 1''}'
+      - '{''value'': ''2'', ''label'': ''Lang 2''}'
+      - '{''value'': ''3'', ''label'': ''Lang 3''}'
+      required: false
+    - id: 5
+      name: translation_quality
+      label: Translation Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''High''}'
+      - '{''value'': ''2'', ''label'': ''Medium''}'
+      - '{''value'': ''3'', ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: source_file
+      label: Source File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: target_file
+      label: Target File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: translation_review
+      label: Translation Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

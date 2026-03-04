@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Holiday Customer Experience Report
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_experience
+      label: Store Experience
+      hint: How would you rate your overall store experience?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: staff_interaction
+      label: Staff Interaction
+      hint: How would you rate the interaction with staff?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: true
+    - id: 5
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: staff_appearance
+      label: Staff Appearance
+      hint: How would you rate the appearance of the staff?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_availability
+      label: Product Availability
+      hint: How would you rate the availability of products?
+      type: select_one
+      options:
+      - In stock
+      - Out of stock
+      - Not applicable
+      required: true
+    - id: 8
+      name: store_atmosphere
+      label: Store Atmosphere
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: How would you rate the knowledge of the staff?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: true
+    - id: 10
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service
+      label: Customer Service
+      hint: How would you rate the customer service?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 12
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_quality_rating
+      label: Product Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: staff_interaction_2
+      label: Staff Interaction 2
+      hint: How would you rate the interaction with staff at this store?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 15
+      name: staff_knowledge_2
+      label: Staff Knowledge 2
+      hint: How would you rate the knowledge of the staff?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 16
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: staff_appearance_2
+      label: Staff Appearance 2
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 18
+      name: product_availability_2
+      label: Product Availability 2
+      hint: null
+      type: select_one
+      options:
+      - In stock
+      - Out of stock
+      - Not applicable
+      required: false
+    - id: 19
+      name: store_atmosphere_2
+      label: Store Atmosphere 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_knowledge_3
+      label: Staff Knowledge 3
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 21
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - '5'
+      required: true
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Tracking Features Survey
+    pages:
+    - id: 1
+      name: tracking_preferences
+      label: Tracking Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: privacy_preferences
+      label: Privacy Preferences
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 3
+      name: acceptable_use_cases
+      label: Acceptable Use Cases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: user_opinions
+      label: User Opinions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_preferences
+      label: Email Preferences
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_preferences
+      label: Phone Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_last_interaction
+      label: Date Last Interaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_last_interaction
+      label: Time Last Interaction
+      hint: null
+      type: time
+      options: []
+      required: false

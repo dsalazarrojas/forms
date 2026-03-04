@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Theory Quiz
+    pages:
+    - id: 1
+      name: music_theory_quiz_form
+      label: What is your favorite instrument?
+      hint: null
+      type: select_one
+      options:
+      - Guitar
+      - Piano
+      - Violin
+      - Drums
+      - Cello
+      - Other
+      required: false
+    - id: 2
+      name: musical_experience
+      label: How much musical experience do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 3
+      name: music_style
+      label: What style of music do you enjoy most?
+      hint: null
+      type: select_multiple
+      options:
+      - Classical
+      - Jazz
+      - Rock
+      - Pop
+      - Country
+      required: false
+    - id: 4
+      name: favorite_genre
+      label: What is your favorite music genre?
+      hint: null
+      type: select_one
+      options:
+      - Classical
+      - Jazz
+      - Rock
+      - Pop
+      - Country
+      required: false
+    - id: 5
+      name: music_theory_level
+      label: How would you rate your level of knowledge in music theory?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 6
+      name: how_often_do_you_practice
+      label: How often do you practice music?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Several times a month
+      - Less than once a month
+      required: false
+    - id: 7
+      name: how_long_have_you_been_learning
+      label: How long have you been learning music?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      required: false
+    - id: 8
+      name: age_group
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - 0-12
+      - 13-18
+      - 19-25
+      - 26-35
+      required: false
+    - id: 9
+      name: how_many_minutes
+      label: How many minutes do you typically practice per session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: how_long_is_your_practice_session
+      label: How long is your typical practice session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: how_many_times_per_week
+      label: How many times do you practice per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: favorite_note_value
+      label: Do you have a favorite note value?
+      hint: null
+      type: select_multiple
+      options:
+      - Sharp
+      - Flat
+      - Natural
+      required: false
+    - id: 13
+      name: favorite_note_value_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: favorite_note_value_other_description
+      label: What is your favorite note value?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: favorite_chord_progression
+      label: Do you have a favorite chord progression?
+      hint: null
+      type: select_multiple
+      options:
+      - Major
+      - Minor
+      - Diminished
+      - Augmented
+      required: false
+    - id: 16
+      name: favorite_chord_progression_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: favorite_chord_progression_other_description
+      label: What is your favorite chord progression?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: music_genre_description
+      label: Can you give a brief description of your favorite music genre?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: practice_music_style
+      label: What style of music do you practice most often?
+      hint: null
+      type: select_multiple
+      options:
+      - Solo
+      - Ensemble
+      - Accompaniment
+      required: false
+    - id: 20
+      name: practice_music_style_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: practice_music_style_other_description
+      label: In what style of music do you typically practice?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: favorite_instrument_description
+      label: What is your favorite instrument to play?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: favorite_instrument
+      label: What is your favorite instrument?
+      hint: null
+      type: select_one
+      options:
+      - Guitar
+      - Piano
+      - Violin
+      - Cello
+      - Drums
+      - Other
+      required: false
+    - id: 24
+      name: music_theory_formation
+      label: What area of music theory do you find most interesting?
+      hint: null
+      type: select_multiple
+      options:
+      - Harmony
+      - Counterpoint
+      - Melody
+      - Rhythm
+      required: false
+    - id: 25
+      name: music_theory_formation_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: music_theory_formation_other_description
+      label: What area of music theory do you find most interesting?
+      hint: null
+      type: text
+      options: []
+      required: false

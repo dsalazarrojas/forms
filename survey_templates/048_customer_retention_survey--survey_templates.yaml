@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_retention_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_one
+      options:
+      - label1
+      - label2
+      - label3
+      required: true
+    - id: 4
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: staff_interaction
+      label: staff_interaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: loyalty_program
+      label: loyalty_program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: communication_channel
+      label: communication_channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: improvement_suggestion
+      label: improvement_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: product_quality
+      label: product_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 13
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: retention_rate
+      label: retention_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: survey_end
+      label: survey_end
+      hint: null
+      type: note
+      options: []
+      required: false

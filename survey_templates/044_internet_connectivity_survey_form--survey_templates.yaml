@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Connectivity Survey Form
+    pages:
+    - id: 1
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: internet_service_provider
+      label: Internet Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_with_internet_service
+      label: Satisfaction With Internet Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_usage
+      label: Frequency Of Usage
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times A Week
+      - Rarely
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Late Evening
+      required: false
+    - id: 6
+      name: device_used
+      label: Device Used
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop
+      - Laptop
+      - Mobile Phone
+      - Tablet
+      required: false
+    - id: 7
+      name: internet_speed
+      label: Internet Speed
+      hint: null
+      type: select_one
+      options:
+      - Slow
+      - Medium
+      - Fast
+      required: false
+    - id: 8
+      name: data_plan
+      label: Data Plan
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: connection_speed
+      label: Connection Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: data_transfer_rate
+      label: Data Transfer Rate
+      hint: null
+      type: select_multiple
+      options:
+      - Less Than 1 GB
+      - 1-5 GB
+      - 5-10 GB
+      - 10 GB or More
+      required: false
+    - id: 11
+      name: upload_speed
+      label: Upload Speed
+      hint: null
+      type: select_one
+      options:
+      - Less Than 1 MBps
+      - 1-5 MBps
+      - 5-10 MBps
+      - 10 MBps or More
+      required: false
+    - id: 12
+      name: download_speed
+      label: Download Speed
+      hint: null
+      type: select_one
+      options:
+      - Less Than 1 MBps
+      - 1-5 MBps
+      - 5-10 MBps
+      - 10 MBps or More
+      required: false
+    - id: 13
+      name: connection_type
+      label: Connection Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fiber-Optic
+      - Cable-Modem
+      - Wireless
+      - Satellite
+      required: false
+    - id: 14
+      name: signal_quality
+      label: Signal Quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 15
+      name: signal_strength
+      label: Signal Strength
+      hint: null
+      type: select_one
+      options:
+      - Weaker
+      - Medium
+      - Strong
+      required: false
+    - id: 16
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: select_one
+      options:
+      - Bad
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 17
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 18
+      name: billing_and_payment
+      label: Billing And Payment
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 19
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 20
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Bad
+      - Fair
+      - Good
+      - Excellent
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: question1
+      label: What did you think of our service?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Satisfactory
+      - Fair
+      - Bad
+      required: false
+    - id: 3
+      name: question2
+      label: How would you rate our service?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Bad
+      required: true
+    - id: 4
+      name: question3
+      label: How likely are you to recommend?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Not Very Likely
+      - Not at All Likely
+      required: false
+    - id: 5
+      name: question4
+      label: What did we do well?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: question5
+      label: What did we do poorly?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: question6
+      label: How can we improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: introduction_2
+      label: Thank you for your feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question1_2
+      label: How long did you spend on our service?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: question2_2
+      label: How many times have you visited our service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question3_2
+      label: How much money did you spend on our service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: question4_2
+      label: When did you visit our service?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: question5_2
+      label: At what time did you visit our service?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: question6_2
+      label: How many services have you purchased from us?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: question7_2
+      label: How much time did you spend on our service?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: question8_2
+      label: How much time did you spend per visit?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: question9_2
+      label: What service did you visit?
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: true
+    - id: 21
+      name: question10_2
+      label: What services did you visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      - Service D
+      required: true
+    - id: 22
+      name: question11_2
+      label: Did you visit any other services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: question12_2
+      label: What did you do during your last visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      - Service D
+      required: true
+    - id: 24
+      name: question13_2
+      label: What did you do during your last visit?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: introduction_3
+      label: Thank you for your feedback
+      hint: null
+      type: note
+      options: []
+      required: true

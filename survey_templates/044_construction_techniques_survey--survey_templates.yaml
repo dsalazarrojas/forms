@@ -1,0 +1,293 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Techniques Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: company_name
+        label: Company Name
+        hint: Your employer
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: job_title
+        label: Job Title
+        hint: Your position
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: years_experience
+        label: Years in Construction
+        hint: Total experience
+        type: select_one
+        options:
+          - Less than 5 years
+          - 5 to 10 years
+          - 11 to 20 years
+          - 21 to 30 years
+          - More than 30 years
+        required: true
+      - id: 7
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1 to 10 employees
+          - 11 to 50 employees
+          - 51 to 200 employees
+          - 201 to 500 employees
+          - More than 500 employees
+        required: true
+      - id: 8
+        name: primary_specialty
+        label: Primary Specialty
+        hint: Main area of work
+        type: select_one
+        options:
+          - General Contracting
+          - Residential Construction
+          - Commercial Construction
+          - Industrial Construction
+          - Civil Engineering
+          - Specialty Trade
+          - Design-Build
+          - Other
+        required: true
+      - id: 9
+        name: techniques_used_foundation
+        label: Foundation Techniques Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Traditional Concrete Footings
+          - Slab on Grade
+          - Pier and Beam
+          - Basement Foundation
+          - Raft Foundation
+          - Pile Foundation
+          - Insulated Concrete Forms
+          - Other
+        required: true
+      - id: 10
+        name: techniques_used_framing
+        label: Framing Techniques Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Wood Frame
+          - Steel Frame
+          - Concrete Frame
+          - Timber Frame
+          - Structural Insulated Panels
+          - Cross-Laminated Timber
+          - Light Gauge Steel
+          - Other
+        required: true
+      - id: 11
+        name: techniques_used_exterior
+        label: Exterior Wall Techniques
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Brick Veneer
+          - Vinyl Siding
+          - Fiber Cement
+          - Stucco
+          - Stone Veneer
+          - Metal Panels
+          - EIFS
+          - Other
+        required: true
+      - id: 12
+        name: techniques_used_roofing
+        label: Roofing Techniques Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Asphalt Shingles
+          - Metal Roofing
+          - Tile Roofing
+          - Slate Roofing
+          - Built-Up Roofing
+          - Single-Ply Membrane
+          - Green Roof
+          - Other
+        required: true
+      - id: 13
+        name: sustainable_practices
+        label: Sustainable Construction Practices
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Energy-Efficient Insulation
+          - Solar Panel Installation
+          - Rainwater Harvesting
+          - Recycled Materials
+          - Low-VOC Materials
+          - Geothermal Systems
+          - Green Building Certification
+          - None
+        required: true
+      - id: 14
+        name: technology_adoption
+        label: Technology Adoption Level
+        hint: How quickly do you adopt new tech
+        type: select_one
+        options:
+          - Early Adopter
+          - Quick Follower
+          - Average
+          - Late Adopter
+          - Resistant to Change
+        required: true
+      - id: 15
+        name: technology_used
+        label: Technologies Currently Using
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Building Information Modeling
+          - Drones
+          - 3D Printing
+          - Robotics
+          - Wearable Technology
+          - Project Management Software
+          - Mobile Apps
+          - None
+        required: true
+      - id: 16
+        name: most_effective_technique
+        label: Most Effective Technique
+        hint: What has worked best for you
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: least_effective_technique
+        label: Least Effective Technique
+        hint: What has not worked well
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: cost_effectiveness_priority
+        label: Cost Effectiveness Priority
+        hint: How important is cost
+        type: select_one
+        options:
+          - Most Important
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 19
+        name: quality_priority
+        label: Quality Priority
+        hint: How important is quality
+        type: select_one
+        options:
+          - Most Important
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 20
+        name: speed_priority
+        label: Speed Priority
+        hint: How important is construction speed
+        type: select_one
+        options:
+          - Most Important
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 21
+        name: safety_priority
+        label: Safety Priority
+        hint: How important is safety
+        type: select_one
+        options:
+          - Most Important
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 22
+        name: training_investment
+        label: Training Investment
+        hint: How much do you invest in training
+        type: select_one
+        options:
+          - Significant Investment
+          - Moderate Investment
+          - Minimal Investment
+          - No Investment
+        required: true
+      - id: 23
+        name: industry_trends
+        label: Industry Trends You Follow
+        hint: What trends interest you
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: future_techniques
+        label: Techniques You Plan to Adopt
+        hint: What are you considering
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: challenges_faced
+        label: Challenges in Adopting New Techniques
+        hint: What holds you back
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights
+        type: text
+        options: []
+        required: false

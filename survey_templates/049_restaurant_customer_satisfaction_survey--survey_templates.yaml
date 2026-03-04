@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Customer Satisfaction Survey
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: rating_value
+      label: How likely are you to recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''rating_value_option_1'', ''label'': ''Very likely''}'
+      - '{''id'': ''rating_value_option_2'', ''label'': ''Likely''}'
+      - '{''id'': ''rating_value_option_3'', ''label'': ''Not likely''}'
+      required: false
+    - id: 7
+      name: reason
+      label: Reason for visiting
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''reason_option_1'', ''label'': ''To dine in''}'
+      - '{''id'': ''reason_option_2'', ''label'': ''To take an order''}'
+      - '{''id'': ''reason_option_3'', ''label'': ''To meet a friend''}'
+      required: false
+    - id: 8
+      name: satisfaction
+      label: How satisfied were you with your experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''satisfaction_option_1'', ''label'': ''Very satisfied''}'
+      - '{''id'': ''satisfaction_option_2'', ''label'': ''Somewhat satisfied''}'
+      - '{''id'': ''satisfaction_option_3'', ''label'': ''Not satisfied''}'
+      required: false

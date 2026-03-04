@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Beverage Container Survey
+    pages:
+    - id: 1
+      name: household_beverage_container_survey
+      label: Household Beverage Container
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: household_beverage_container
+      label: Household Beverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_beverage_size
+      label: Size of Container
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: beverage_type
+      label: Type of Beverage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: household_beverage_container_odor
+      label: Household Beverage Container Odor
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: household_beverage_container_material
+      label: Material of Container
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_beverage_container_reusability
+      label: Reusability
+      hint: null
+      type: text
+      options: []
+      required: false

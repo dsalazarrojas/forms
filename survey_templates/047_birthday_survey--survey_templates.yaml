@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Survey
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Tell us about your birthday celebration
+      hint: We'd love to know how you're celebrating
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_respondent
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: respondent_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: respondent_age
+      label: Your Age
+      hint: How old are you
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: section_celebration
+      label: -- Birthday Celebration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: celebration_date
+      label: When is Your Birthday
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: how_celebrating
+      label: How Are You Celebrating Your Birthday
+      hint: Describe your celebration plans
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: celebration_style
+      label: Your Celebration Style
+      hint: What kind of celebration
+      type: select_multiple
+      options:
+      - Family Gathering
+      - Friend Party
+      - Romantic Dinner
+      - Adventure or Activity
+      - Quiet Celebration
+      - Work Celebration
+      - Large Party
+      - Solo Celebration
+      required: true
+    - id: 11
+      name: celebration_location
+      label: Where Are You Celebrating
+      hint: Location of celebration
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: celebration_date_actual
+      label: Date of Celebration
+      hint: When is the actual celebration
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: section_preferences
+      label: -- Birthday Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ideal_birthday
+      label: What Makes an Ideal Birthday For You
+      hint: Describe your perfect birthday
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: special_interests
+      label: Special Birthday Interests
+      hint: What do you love to do
+      type: select_multiple
+      options:
+      - Dining Out
+      - Entertainment
+      - Outdoor Activities
+      - Spa or Wellness
+      - Shopping
+      - Travel
+      - Art or Culture
+      - Sports
+      - Gaming
+      - Relaxation
+      required: false
+    - id: 16
+      name: favorite_gift_type
+      label: Favorite Gift Types
+      hint: What gifts do you prefer
+      type: select_multiple
+      options:
+      - Experiences
+      - Practical Items
+      - Sentimental Gifts
+      - Luxury Items
+      - DIY or Handmade
+      - Charitable Donation
+      - Travel
+      - Technology
+      - Cash or Gift Cards
+      - No Gifts
+      required: false
+    - id: 17
+      name: favorite_food
+      label: Favorite Birthday Foods or Treats
+      hint: What should be on the menu
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: favorite_cake
+      label: Favorite Cake Flavor
+      hint: Your ideal birthday cake
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_company
+      label: -- Birthday Company --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: who_to_celebrate_with
+      label: Who Do You Want to Celebrate With
+      hint: Who should be there
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: group_size_preference
+      label: Preferred Group Size
+      hint: How many people
+      type: select_one
+      options:
+      - Solo
+      - Intimate Group (2-5)
+      - Small Group (5-15)
+      - Large Group (15-30)
+      - Very Large (30+)
+      required: true
+    - id: 22
+      name: section_traditions
+      label: -- Birthday Traditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: birthday_traditions
+      label: Your Birthday Traditions
+      hint: Special things you do every year
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: new_traditions
+      label: New Traditions You Want to Start
+      hint: Any new ideas for your birthday
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: must_haves
+      label: Birthday Must-Haves
+      hint: What you can't skip
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_memories
+      label: -- Birthday Memories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: best_birthday_memory
+      label: Best Birthday Memory
+      hint: Describe a memorable birthday
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: most_meaningful_gift
+      label: Most Meaningful Gift Ever Received
+      hint: What touched you most
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_wishes
+      label: -- Birthday Wishes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: birthday_wish
+      label: Your Birthday Wish for This Year
+      hint: What do you hope for
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: message_to_others
+      label: Birthday Message to Others
+      hint: Share a message with the world
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_sharing
+      label: -- Sharing Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: share_with_birthday_person
+      label: Share Survey Results With Someone
+      hint: Send results to a specific person
+      type: select_one
+      options:
+      - Yes, Share Results
+      - No, Keep Private
+      required: false
+    - id: 34
+      name: share_with_email
+      label: Email to Share With
+      hint: Who should receive the results
+      type: email
+      options: []
+      required: false
+    - id: 35
+      name: section_feedback
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: additional_comments
+      label: Additional Comments or Thoughts
+      hint: Anything else about your birthday
+      type: text
+      options: []
+      required: false

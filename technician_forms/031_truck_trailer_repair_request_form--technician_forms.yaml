@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Trailer Repair Request Form
+    pages:
+    - id: 1
+      name: truck_trailer_repair_request_form
+      label: Truck Trailer Repair Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trailer_type
+      label: trailer_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: make
+      label: trailer_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model
+      label: trailer_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: trailer_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_in
+      label: date_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_out
+      label: date_out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: mileage
+      label: trailer_mileage
+      hint: null
+      type: number
+      options: []
+      required: false

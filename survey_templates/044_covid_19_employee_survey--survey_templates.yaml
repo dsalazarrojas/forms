@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Employee Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: tenure
+        label: How Long Have You Worked Here?
+        hint: Months or years
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: work_location
+        label: Primary Work Location
+        hint: null
+        type: select_one
+        options:
+          - Office
+          - Remote
+          - Hybrid
+          - Field
+          - Other
+        required: true
+      - id: 7
+        name: covid_impact
+        label: How has COVID-19 impacted your work?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: workplace_safety_concerns
+        label: Do you have workplace safety concerns?
+        hint: null
+        type: select_one
+        options:
+          - "No concerns"
+          - "Minor concerns"
+          - "Moderate concerns"
+          - "Significant concerns"
+        required: true
+      - id: 9
+        name: safety_concern_details
+        label: Please describe your safety concerns
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: masks_required
+        label: Do you think masks should be required?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Optional"
+          - "Unsure"
+        required: false
+      - id: 11
+        name: vaccination_policy
+        label: How do you feel about vaccination requirements?
+        hint: null
+        type: select_one
+        options:
+          - "Strongly support"
+          - "Support"
+          - "Neutral"
+          - "Oppose"
+          - "Strongly oppose"
+        required: false
+      - id: 12
+        name: testing_opinion
+        label: Should regular COVID-19 testing be required?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, weekly"
+          - "Yes, bi-weekly"
+          - "Yes, monthly"
+          - "No"
+          - "Unsure"
+        required: false
+      - id: 13
+        name: return_to_office
+        label: Are you comfortable returning to the office?
+        hint: null
+        type: select_one
+        options:
+          - "Very comfortable"
+          - "Somewhat comfortable"
+          - "Neutral"
+          - "Somewhat uncomfortable"
+          - "Very uncomfortable"
+        required: true
+      - id: 14
+        name: remote_work_continuation
+        label: Would you like to continue remote work options?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, fully remote"
+          - "Yes, hybrid"
+          - "No, return to office"
+          - "No preference"
+        required: false
+      - id: 15
+        name: mental_health_support
+        label: Have you needed mental health support due to COVID?
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes, already receiving"
+          - "Yes, would like to access"
+          - "Prefer not to answer"
+        required: false
+      - id: 16
+        name: company_communication
+        label: How clear is company communication about COVID policies?
+        hint: Rate 1-5
+        type: select_one
+        options:
+          - "1 - Very unclear"
+          - "2 - Somewhat unclear"
+          - "3 - Neutral"
+          - "4 - Mostly clear"
+          - "5 - Very clear"
+        required: false
+      - id: 17
+        name: policy_fairness
+        label: Do you think COVID policies are fair?
+        hint: null
+        type: select_one
+        options:
+          - "Very fair"
+          - "Somewhat fair"
+          - "Neutral"
+          - "Unfair"
+          - "Very unfair"
+        required: false
+      - id: 18
+        name: management_support
+        label: Do you feel supported by management?
+        hint: During the pandemic
+        type: select_one
+        options:
+          - "Very supported"
+          - "Somewhat supported"
+          - "Neutral"
+          - "Unsupported"
+          - "Very unsupported"
+        required: false
+      - id: 19
+        name: employee_concerns
+        label: What are your main concerns or issues?
+        hint: Related to COVID-19 and the workplace
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: improvement_suggestions
+        label: How can the company improve its COVID response?
+        hint: Your suggestions and ideas
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: feedback_type
+        label: How comfortable are you sharing feedback?
+        hint: null
+        type: select_one
+        options:
+          - "Fully transparent"
+          - "Mostly transparent"
+          - "Somewhat cautious"
+          - "Prefer anonymity"
+          - "No feedback to give"
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about COVID-19 at work
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Of The Year Survey
+    pages:
+    - id: 1
+      name: survey_name
+      label: Survey Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership and Teamwork
+      - Communication
+      - Strategic Thinking
+      - Problem Solving
+      - Decision Making
+      - Time Management
+      - Adaptability
+      - Conflict Resolution
+      - Collaboration
+      - Adaptability
+      - Problem Solving
+      - Decision Making
+      required: true
+    - id: 8
+      name: managerial_performance
+      label: Managerial Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_promotion
+      label: Date Of Last Promotion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_last_promotion
+      label: Time Of Last Promotion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: manager_performance_rating
+      label: Manager Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: manager_employees_count
+      label: Manager Employees Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: manager_years_of_service
+      label: Manager Years Of Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: manager_job_description
+      label: Manager Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_last_performance_review
+      label: Manager Last Performance Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: manager_next_evaluation_date
+      label: Manager Next Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: manager_current_salary
+      label: Manager Current Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: manager_benefits
+      label: Manager Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_403b_plan
+      label: Manager 403b Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: manager_hsa_plan
+      label: Manager Hsa Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: manager_flex_pension
+      label: Manager Flex Pension
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: manager_retirement_plan
+      label: Manager Retirement Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: manager_health_insurance
+      label: Manager Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: manager_life_insurance
+      label: Manager Life Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

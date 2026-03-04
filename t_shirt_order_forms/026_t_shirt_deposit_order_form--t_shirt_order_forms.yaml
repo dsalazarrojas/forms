@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Deposit Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: text
+      options: []
+      required: false

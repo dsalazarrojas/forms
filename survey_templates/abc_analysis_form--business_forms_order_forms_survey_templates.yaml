@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ABC Analysis Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional contact number
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: section_header_order_details
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order date
+      hint: Date when the order is placed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: item_name
+      label: Item or product name
+      hint: Full product name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Enter number of items
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit price
+      hint: Price per item in local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: total_value
+      label: Total value
+      hint: Auto-calculated as quantity × unit price
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: abc_category
+      label: ABC Category
+      hint: Classification based on inventory importance
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 12
+      name: stock_status
+      label: Current stock status
+      hint: Current availability level
+      type: select_one
+      options:
+      - In stock
+      - Low stock
+      - Out of stock
+      - Backordered
+      required: false
+    - id: 13
+      name: reorder_point
+      label: Reorder point
+      hint: Minimum quantity before reordering
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: section_header_delivery
+      label: '--- Delivery Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose the most suitable option
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery address
+      hint: Street, city, postal code
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_date
+      label: Requested delivery date
+      hint: Preferred date for delivery
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_payment
+      label: '--- Payment Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment method
+      hint: Select how you will pay
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 21
+      name: supplier_name
+      label: Supplier name
+      hint: Name of the supplier
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supplier_contact
+      label: Supplier contact
+      hint: Phone or email
+      type: phone
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

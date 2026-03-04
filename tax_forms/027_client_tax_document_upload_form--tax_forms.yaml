@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Tax Document Upload Form
+    pages:
+    - id: 1
+      name: header_section
+      label: Tax Document Upload Form
+      hint: Please provide all required tax documents for tax preparation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ssn
+      label: Social Security Number
+      hint: Last 4 digits only for security
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tax_year
+      label: Tax Year Being Prepared
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: filing_status_section
+      label: -- Filing Status and Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married Filing Jointly
+      - Married Filing Separately
+      - Head of Household
+      - Qualifying Widow(er)
+      required: true
+    - id: 11
+      name: spouse_name
+      label: Spouse Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: spouse_ssn
+      label: Spouse Social Security Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dependents_count
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: income_documents
+      label: -- Income Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: w2_forms
+      label: Upload W2 Forms (if applicable)
+      hint: From all employers
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: 1099_forms
+      label: Upload 1099 Forms (if applicable)
+      hint: 1099-NEC, 1099-INT, 1099-DIV, 1099-MISC, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: business_income
+      label: Upload Business Income Documents (if applicable)
+      hint: Profit and loss statements, schedule C, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rental_income
+      label: Upload Rental Income Documents (if applicable)
+      hint: Schedule E documentation
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: investment_documents
+      label: Upload Investment Documents (if applicable)
+      hint: 1099-B, dividend statements, interest statements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: deduction_documents
+      label: -- Deduction and Expense Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: mortgage_interest
+      label: Upload Mortgage Interest Statement (if applicable)
+      hint: Form 1098
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_tax
+      label: Upload Property Tax Documents (if applicable)
+      hint: Property tax receipts or assessments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: charitable_donations
+      label: Upload Charitable Donation Records (if applicable)
+      hint: Receipts from charitable contributions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_expenses
+      label: Upload Medical Expense Records (if applicable)
+      hint: if itemizing deductions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: education_documents
+      label: Upload Education Expense Documents (if applicable)
+      hint: 1098-T forms or education costs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: business_expenses
+      label: Upload Business Expense Documentation (if applicable)
+      hint: Receipts, mileage logs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: other_documents
+      label: -- Other Important Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: estimated_tax_payments
+      label: Upload Estimated Tax Payment Records (if applicable)
+      hint: Proof of quarterly payments
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: prior_year_return
+      label: Upload Prior Year Tax Return (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_documents
+      label: Upload Any Additional Documents (if applicable)
+      hint: Miscellaneous tax documents
+      type: text
+      options: []
+      required: false

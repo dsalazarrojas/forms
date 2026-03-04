@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Data Protection Audit Form
+    pages:
+    - id: 1
+      name: user_data_protection_audit_form
+      label: user_data_protection_audit_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: select_one
+      options:
+      - Personal Data
+      - Non-Personal Data
+      required: false
+    - id: 3
+      name: collection_frequency
+      label: collection_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 4
+      name: access_controls
+      label: access_controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_control_frequency
+      label: access_control_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 6
+      name: retention
+      label: retention
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: third_party_sharing
+      label: third_party_sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: data_subjects
+      label: data_subjects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: data_subjects_type
+      label: data_subjects_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: data_subjects_frequency
+      label: data_subjects_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 11
+      name: data_subjects_retention
+      label: data_subjects_retention
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: data_subjects_sharing
+      label: data_subjects_sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: data_subjects_control
+      label: data_subjects_control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: data_subjects_control_type
+      label: data_subjects_control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

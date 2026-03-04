@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Care Workshop Feedback Survey
+    pages:
+    - id: 1
+      name: workshop_participant_feedback
+      label: What did you think of the workshop
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: workshop_content
+      label: Workshop content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_quality
+      label: Quality of instructor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: workshop_organizers
+      label: Workshop organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Feedback comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

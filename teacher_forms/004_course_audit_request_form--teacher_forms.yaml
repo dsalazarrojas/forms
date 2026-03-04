@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Audit Request Form
+    pages:
+    - id: 1
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_audit
+      label: Reason for Audit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: faculty_approvals
+      label: Faculty Approvals
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: student_approval
+      label: Student Approval
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: educational_institution_approval
+      label: Educational Institution Approval
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: faculty_comments
+      label: Faculty Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - In Progress
+      required: true
+    - id: 13
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: faculty_signature
+      label: Faculty Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: educational_institution_signature
+      label: Educational Institution Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_signature
+      label: Form Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

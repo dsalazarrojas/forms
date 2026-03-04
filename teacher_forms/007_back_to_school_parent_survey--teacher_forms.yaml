@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Parent Survey
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Welcome to Our Parent Survey --
+        hint: Your feedback helps us support your child's learning
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: parent_name
+        label: Parent/Guardian Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_name
+        Label: Child Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: section_home_learning
+        label: -- Home Learning Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: home_learning_effectiveness
+        Label: How Effective Was Home Learning for Your Child?
+        hint: null
+        type: select_one
+        options:
+          - Very Effective
+          - Somewhat Effective
+          - Neutral
+          - Somewhat Ineffective
+          - Very Ineffective
+        required: true
+      - id: 7
+        name: learning_challenges
+        Label: Main Challenges With Home Learning
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Lack of Technology
+          - Internet Connectivity
+          - Distractions at Home
+          - Difficulty Understanding Material
+          - Teacher Communication
+          - Time Management
+        required: false
+      - id: 8
+        name: parental_support_level
+        label: Level of Support You Provided With Learning
+        hint: null
+        type: select_one
+        options:
+          - Highly Involved
+          - Moderately Involved
+          - Somewhat Involved
+          - Minimally Involved
+        required: true
+      - id: 9
+        name: child_motivation
+        Label: Child's Motivation During Home Learning
+        hint: null
+        type: select_one
+        options:
+          - Very Motivated
+          - Mostly Motivated
+          - Neutral
+          - Somewhat Unmotivated
+          - Very Unmotivated
+        required: true
+      - id: 10
+        name: section_school_reopening
+        label: -- School Reopening Perspectives --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: comfort_level_returning
+        Label: Comfort Level With School Reopening
+        hint: null
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 12
+        name: health_concerns
+        label: Health and Safety Concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: academic_progress_outlook
+        Label: Outlook on Child's Academic Progress
+        hint: null
+        type: select_one
+        options:
+          - Very Positive
+          - Positive
+          - Neutral
+          - Negative
+          - Very Negative
+        required: true
+      - id: 14
+        name: section_support_needs
+        label: -- Support Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: additional_tutoring_needed
+        Label: Does Your Child Need Additional Tutoring or Support?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Uncertain
+        required: false
+      - id: 16
+        name: support_areas
+        label: Areas Needing Support
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Reading
+          - Math
+          - Writing
+          - Science
+          - Social Skills
+          - Behavior Management
+        required: false
+      - id: 17
+        name: special_accommodations
+        Label: Special Accommodations or Services Needed
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: parent_expectations
+        label: Expectations for In-School Learning
+        hint: What would you like to see this school year?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: teacher_communication_preference
+        Label: Preferred Method of Teacher Communication
+        hint: null
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Text Message
+          - Parent Portal
+          - In-Person
+        required: false
+      - id: 20
+        name: feedback_comments
+        Label: Additional Comments or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

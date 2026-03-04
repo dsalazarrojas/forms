@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_learning_daily_log_form
+    pages:
+    - id: 1
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Tchr
+      required: true
+    - id: 4
+      name: student_grade_level
+      label: student grade level
+      hint: null
+      type: select_multiple
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: true
+    - id: 5
+      name: subject_area
+      label: subject area
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - Reading
+      - Science
+      - Social Studies
+      - Physical Education
+      required: true
+    - id: 6
+      name: learning_objective
+      label: learning objective
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false

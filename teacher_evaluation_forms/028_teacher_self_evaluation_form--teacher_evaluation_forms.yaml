@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Self Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_self_evaluation_form
+      label: teacher_self_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: areas_of_strength
+      label: areas_of_strength
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching
+      - Communication
+      - Organization
+      - Planning
+      - Implementation
+      required: false
+    - id: 4
+      name: performance_areas
+      label: performance_areas
+      hint: null
+      type: select_one
+      options:
+      - Planning
+      - Communication
+      - Teaching
+      - Organization
+      required: false
+    - id: 5
+      name: self_reflection
+      label: self_reflection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: goals_and_objectives
+      label: goals_and_objectives
+      hint: null
+      type: select_one
+      options:
+      - Set clear goals
+      - Establish routines
+      - Develop relationships
+      - Manage classroom
+      - Engage students
+      required: false
+    - id: 7
+      name: time_management
+      label: time_management
+      hint: null
+      type: select_multiple
+      options:
+      - Planning
+      - Organizing
+      - Coordinating
+      - Recording
+      required: false
+    - id: 8
+      name: classroom_environment
+      label: classroom_environment
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Emotional
+      - Social
+      - Safety
+      required: false
+    - id: 9
+      name: student_engagement
+      label: student_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Motivation
+      - Engagement
+      - Participation
+      - Learning
+      required: false
+    - id: 10
+      name: parent_engagement
+      label: parent_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Support
+      - Engagement
+      - Involvement
+      required: false
+    - id: 11
+      name: self_assessment
+      label: self_assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
+      required: false
+    - id: 12
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_signature
+      label: teacher_signature
+      hint: null
+      type: text
+      options: []
+      required: false

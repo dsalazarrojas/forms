@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Meeting Feedback Survey
+    pages:
+    - id: 1
+      name: meeting_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate the meeting
+      hint: Rate the meeting on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: action_items
+      label: Action Items
+      hint: List the action items from the meeting
+      type: select_multiple
+      options:
+      - Completed
+      - Not started
+      - In Progress
+      required: false
+    - id: 4
+      name: attendees
+      label: Attendees
+      hint: List the attendees
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Where was the meeting held
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Any additional notes from the meeting
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_questions
+      label: Follow-up questions
+      hint: null
+      type: text
+      options: []
+      required: false

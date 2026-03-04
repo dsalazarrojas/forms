@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Website Customer Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_type
+      label: how_did_you_book_your_travel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''domestic''}'
+      - '{''id'': 2, ''label'': ''international''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: false
+    - id: 3
+      name: travel_booking_method
+      label: how_did_you_book_your_travel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''direct''}'
+      - '{''id'': 2, ''label'': ''agency''}'
+      - '{''id'': 3, ''label'': ''online''}'
+      - '{''id'': 4, ''label'': ''offline''}'
+      required: false
+    - id: 4
+      name: travel_dates
+      label: when_did_you_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_destination
+      label: where_did_you_travel_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_experience
+      label: how_did_you_feel_about_your_travel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_satisfactory''}'
+      - '{''id'': 2, ''label'': ''satisfactory''}'
+      - '{''id'': 3, ''label'': ''neutral''}'
+      - '{''id'': 4, ''label'': ''dissatisfactory''}'
+      required: false
+    - id: 7
+      name: website_experience
+      label: how_did_you_feel_about_your_website_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_satisfactory''}'
+      - '{''id'': 2, ''label'': ''satisfactory''}'
+      - '{''id'': 3, ''label'': ''neutral''}'
+      - '{''id'': 4, ''label'': ''dissatisfactory''}'
+      required: false
+    - id: 8
+      name: website_feature
+      label: what_feature_do_you_like_most_about_your_website
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''design''}'
+      - '{''id'': 2, ''label'': ''content''}'
+      - '{''id'': 3, ''label'': ''navigation''}'
+      required: false
+    - id: 9
+      name: website_feature_2
+      label: what_feature_do_you_dislike_most_about_your_website
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''design''}'
+      - '{''id'': 2, ''label'': ''content''}'
+      - '{''id'': 3, ''label'': ''navigation''}'
+      required: false
+    - id: 10
+      name: website_feature_3
+      label: website_improvement_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website_experience_2
+      label: how_did_you_feel_about_your_travel_website
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_satisfactory''}'
+      - '{''id'': 2, ''label'': ''satisfactory''}'
+      - '{''id'': 3, ''label'': ''neutral''}'
+      - '{''id'': 4, ''label'': ''dissatisfactory''}'
+      required: false
+    - id: 14
+      name: website_feature
+      label: what_do_you_like_most_about_your_website
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''design''}'
+      - '{''id'': 2, ''label'': ''content''}'
+      - '{''id'': 3, ''label'': ''navigation''}'
+      required: false
+    - id: 15
+      name: website_feature_3
+      label: what_do_you_dislike_most_about_your_website
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''design''}'
+      - '{''id'': 2, ''label'': ''content''}'
+      - '{''id'': 3, ''label'': ''navigation''}'
+      required: false

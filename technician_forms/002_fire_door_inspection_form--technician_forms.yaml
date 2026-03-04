@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Door Inspection Form
+    pages:
+    - id: 1
+      name: fire_door_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: fire_exit_doors
+      label: Fire Exit Doors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: fire_doors
+      label: Fire Doors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_exit_doors_count
+      label: Number of Fire Exit Doors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: fire_doors_count
+      label: Number of Fire Doors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fire_exit_doors_description
+      label: Description of Fire Exit Doors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_doors_description
+      label: Description of Fire Doors
+      hint: null
+      type: text
+      options: []
+      required: false

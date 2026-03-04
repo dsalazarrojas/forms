@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Event Idea Poll
+    pages:
+    - id: 1
+      name: event_idea_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_idea_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: event_idea_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Activity
+      - Project
+      required: false
+    - id: 4
+      name: event_idea_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_idea_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_idea_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - School
+      - Community Center
+      - Park
+      - Other
+      required: false
+    - id: 7
+      name: event_idea_ideas
+      label: Ideas
+      hint: null
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      - Event 4
+      - Event 5
+      required: false
+    - id: 8
+      name: event_idea_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Regularly
+      - Irregularly
+      required: false
+    - id: 9
+      name: event_idea_target_audience
+      label: Target Audience
+      hint: null
+      type: select_one
+      options:
+      - Children
+      - Adults
+      - Both
+      required: false
+    - id: 10
+      name: event_idea_target_age_range
+      label: Target Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - All Ages
+      - Children (5-12)
+      - Teenagers (13-19)
+      - Young Adults (20-39)
+      - Adults (40+)
+      required: false
+    - id: 11
+      name: event_idea_target_interest
+      label: Target Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Interest 1
+      - Interest 2
+      - Interest 3
+      - Interest 4
+      - Interest 5
+      required: false
+    - id: 12
+      name: event_idea_other_info
+      label: Other Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_idea_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: event_idea_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: philippine_history_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - History
+      - Geography
+      - Science
+      - Art
+      - Culture
+      required: true
+    - id: 3
+      name: question_1
+      label: question_1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: question_2
+      label: question_2
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: goals
+      label: _goals
+      hint: null
+      type: select_one
+      options:
+      - a
+      - b
+      - c
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: goals
+      label: _goals
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: false
+    - id: 12
+      name: goals
+      label: _goals
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: false
+    - id: 13
+      name: goals
+      label: _goals
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: false
+    - id: 14
+      name: goals
+      label: _goals
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

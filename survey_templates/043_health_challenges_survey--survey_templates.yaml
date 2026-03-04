@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_challenges_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Health Challenges Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mental_health
+      label: Mental Health
+      hint: How would you rate your mental well-being?
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: false
+    - id: 4
+      name: sleep_habits
+      label: Sleep Habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-3 hours''}'
+      - '{''value'': ''4-6 hours''}'
+      - '{''value'': ''7-9 hours''}'
+      - '{''value'': ''10+ hours''}'
+      - '{''value'': ''Less than 3 hours''}'
+      required: false
+    - id: 5
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Excellent''}'
+      required: false
+    - id: 6
+      name: stress_management
+      label: Stress Management
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Excellent''}'
+      required: false
+    - id: 7
+      name: social_connections
+      label: Social Connections
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emotional_intelligence
+      label: Emotional Intelligence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 9
+      name: emotional_support
+      label: Emotional Support
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Some''}'
+      - '{''value'': ''A lot''}'
+      required: false
+    - id: 10
+      name: self_care
+      label: Self Care
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication
+      label: Medication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medication_details
+      label: Medication Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Friend''}'
+      - '{''value'': ''Partner''}'
+      required: false
+    - id: 17
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Chronic Condition''}'
+      - '{''value'': ''Acute Condition''}'
+      required: false
+    - id: 19
+      name: medical_conditions_details
+      label: Medical Conditions Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: health_challenges_survey_category_1
+      label: Health Challenges Category 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Physical Activity''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Sleep''}'
+      required: false
+    - id: 21
+      name: health_challenges_survey_category_2
+      label: Health Challenges Category 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Physical Activity''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Sleep''}'
+      required: false
+    - id: 22
+      name: health_challenges_survey_category_3
+      label: Health Challenges Category 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Physical Activity''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Sleep''}'
+      required: false
+    - id: 23
+      name: health_challenges_survey_category_4
+      label: Health Challenges Category 4
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Physical Activity''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Sleep''}'
+      required: false
+    - id: 24
+      name: health_challenges_survey_category_5
+      label: Health Challenges Category 5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Physical Activity''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Sleep''}'
+      required: false
+    - id: 25
+      name: health_challenges_survey_category_6
+      label: Health Challenges Category 6
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Physical Activity''}'
+      - '{''value'': ''Mental Health''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Sleep''}'
+      required: false

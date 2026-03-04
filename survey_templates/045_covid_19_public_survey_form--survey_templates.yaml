@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Public Survey Form
+    pages:
+      - id: 1
+        name: section_respondent_demographics
+        label: -- Respondent Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+          - Prefer not to answer
+        required: true
+      - id: 6
+        name: location
+        label: State or Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_vaccine_opinions
+        label: -- COVID-19 Vaccine Opinions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: vaccine_opinion
+        label: What is your opinion on the COVID-19 vaccine?
+        hint: null
+        type: select_one
+        options:
+          - Very positive
+          - Somewhat positive
+          - Neutral
+          - Somewhat negative
+          - Very negative
+          - Unsure
+        required: true
+      - id: 9
+        name: vaccine_effectiveness
+        label: Do you believe the COVID-19 vaccine is effective?
+        hint: null
+        type: select_one
+        options:
+          - Yes, very effective
+          - Somewhat effective
+          - Neutral
+          - Not very effective
+          - Ineffective
+          - Unsure
+        required: true
+      - id: 10
+        name: vaccine_safety
+        label: Do you believe the COVID-19 vaccine is safe?
+        hint: null
+        type: select_one
+        options:
+          - Yes, very safe
+          - Mostly safe
+          - Neutral
+          - Somewhat unsafe
+          - Very unsafe
+          - Unsure
+        required: true
+      - id: 11
+        name: section_vaccine_status
+        label: -- Vaccination Status --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: vaccination_status
+        label: What is your current vaccination status?
+        hint: null
+        type: select_one
+        options:
+          - Fully vaccinated
+          - Partially vaccinated
+          - Not vaccinated
+          - Not sure
+          - Prefer not to answer
+        required: true
+      - id: 13
+        name: intention_to_vaccinate
+        label: Do you plan to get vaccinated?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - Probably not
+          - Definitely not
+          - Already vaccinated
+        required: true
+      - id: 14
+        name: vaccine_hesitancy_reason
+        label: If hesitant, what is your main concern?
+        hint: null
+        type: select_one
+        options:
+          - Safety concerns
+          - Effectiveness concerns
+          - Government distrust
+          - Natural immunity preference
+          - Religious beliefs
+          - Side effects
+          - Other
+          - Not applicable
+        required: false
+      - id: 15
+        name: section_trust_and_info
+        label: -- Trust and Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: trust_government
+        label: How much do you trust government health guidance?
+        hint: null
+        type: select_one
+        options:
+          - Completely trust
+          - Mostly trust
+          - Neutral
+          - Mostly distrust
+          - Completely distrust
+        required: true
+      - id: 17
+        name: information_sources
+        label: Where do you get COVID-19 information? (select all)
+        hint: null
+        type: select_multiple
+        options:
+          - News media
+          - Social media
+          - Healthcare provider
+          - Government websites
+          - Family and friends
+          - Medical journals
+          - Online forums
+          - Other
+        required: true
+      - id: 18
+        name: section_impact
+        label: -- Personal Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: pandemic_impact
+        label: How has COVID-19 impacted your life?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: health_concern_level
+        label: How concerned are you about COVID-19?
+        hint: null
+        type: select_one
+        options:
+          - Very concerned
+          - Somewhat concerned
+          - Neutral
+          - Not very concerned
+          - Not concerned
+        required: true
+      - id: 21
+        name: section_additional_feedback
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: suggestions
+        label: Additional comments or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: survey_date
+        label: Survey Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

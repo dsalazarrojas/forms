@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Healing Frequency Survey
+    pages:
+    - id: 1
+      name: practitioner_name
+      label: Practitioner Name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization or Practice
+      hint: Affiliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_intro
+      label: Animal Healing Frequency Survey
+      hint: Help us understand healing practices and session frequency
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: practitioner_type
+      label: What Type of Healing Do You Practice
+      hint: Modality
+      type: select_one
+      options:
+      - Reiki
+      - Acupuncture
+      - Massage therapy
+      - Energy healing
+      - Sound therapy
+      - Aromatherapy
+      - Multiple modalities
+      - Other
+      required: true
+    - id: 6
+      name: years_practice
+      label: How Long Have You Practiced
+      hint: Experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 7
+      name: certification_status
+      label: What Is Your Certification Status
+      hint: Credentials
+      type: select_one
+      options:
+      - Certified by recognized body
+      - Trained but not certified
+      - Self-taught
+      - Currently training
+      required: true
+    - id: 8
+      name: animal_types
+      label: Which Animals Do You Work With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Horses
+      - Livestock
+      - Birds
+      - Exotic animals
+      - Wildlife
+      - Multiple species
+      required: true
+    - id: 9
+      name: session_frequency
+      label: How Often Do You Conduct Healing Sessions
+      hint: Frequency
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once per week
+      - Several times per month
+      - Once per month
+      - Occasionally
+      required: true
+    - id: 10
+      name: sessions_per_week
+      label: Average Number of Sessions Per Week
+      hint: Volume
+      type: select_one
+      options:
+      - 1-5 sessions
+      - 6-10 sessions
+      - 11-20 sessions
+      - More than 20 sessions
+      required: true
+    - id: 11
+      name: session_duration
+      label: Typical Session Duration
+      hint: Length
+      type: select_one
+      options:
+      - 15-30 minutes
+      - 31-45 minutes
+      - 46-60 minutes
+      - More than 60 minutes
+      required: true
+    - id: 12
+      name: session_format
+      label: How Do You Conduct Sessions
+      hint: Format
+      type: select_multiple
+      options:
+      - In-person hands-on
+      - In-person distance
+      - Remote - video call
+      - Remote - no video
+      - Combination
+      required: true
+    - id: 13
+      name: conditions_treated
+      label: What Conditions Do You Commonly Address
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pain management
+      - Anxiety or stress
+      - Post-surgical recovery
+      - Chronic illness
+      - Behavioral issues
+      - End-of-life comfort
+      - Performance enhancement
+      - General wellness
+      required: true
+    - id: 14
+      name: treatment_frequency
+      label: How Often Do Animals Typically Receive Treatment
+      hint: Animal schedule
+      type: select_one
+      options:
+      - Single session
+      - Weekly sessions
+      - Bi-weekly sessions
+      - Monthly sessions
+      - As needed
+      required: true
+    - id: 15
+      name: total_sessions
+      label: Average Total Sessions Per Animal
+      hint: Treatment course
+      type: select_one
+      options:
+      - 1-3 sessions
+      - 4-6 sessions
+      - 7-10 sessions
+      - Ongoing care
+      required: true
+    - id: 16
+      name: effectiveness_rating
+      label: How Would You Rate Overall Effectiveness
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Moderately effective
+      - Somewhat effective
+      - Not effective
+      required: true
+    - id: 17
+      name: observed_benefits
+      label: What Benefits Do You Most Commonly Observe
+      hint: Outcomes
+      type: select_multiple
+      options:
+      - Reduced pain
+      - Improved mobility
+      - Calmer behavior
+      - Better sleep
+      - Faster recovery
+      - Improved appetite
+      - Enhanced bonding
+      - Other
+      required: true
+    - id: 18
+      name: client_feedback
+      label: How Do You Collect Client Feedback
+      hint: Methods
+      type: select_multiple
+      options:
+      - Verbal feedback
+      - Written surveys
+      - Follow-up calls
+      - Observation
+      - Video documentation
+      - No formal collection
+      required: false
+    - id: 19
+      name: veterinary_collaboration
+      label: Do You Collaborate with Veterinarians
+      hint: Professional relationships
+      type: select_one
+      options:
+      - Yes - regular collaboration
+      - Yes - occasional
+      - No - independent practice
+      - Required by policy
+      required: true
+    - id: 20
+      name: challenges
+      label: What Challenges Do You Face
+      hint: Difficulties
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: success_stories
+      label: Would You Like to Share a Success Story
+      hint: Anecdote
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: research_interest
+      label: Are You Interested in Participating in Research
+      hint: Research
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - maybe
+      - No
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false

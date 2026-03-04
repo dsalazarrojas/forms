@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_semester_survey
+    pages:
+    - id: 1
+      name: semester
+      label: Which semester are you referring to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_feedback
+      label: Student feedback on course content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_experience
+      label: Overall experience in the course
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: selected_institution
+      label: Selected institution
+      hint: null
+      type: select_one
+      options:
+      - Institution A
+      - Institution B
+      - Institution C
+      required: true
+    - id: 11
+      name: comments_institution
+      label: Comments on institution
+      hint: null
+      type: text
+      options: []
+      required: false

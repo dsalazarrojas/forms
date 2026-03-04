@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bidder Registration Survey
+    pages:
+    - id: 1
+      name: section_header_bidder
+      label: -- Bidder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bidder_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_auction
+      label: -- Auction Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: auction_name
+      label: Auction or Event Name
+      hint: Which auction are you attending?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When is the auction?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: bidder_status
+      label: Bidder Status
+      hint: Are you a returning bidder?
+      type: select_one
+      options:
+      - First time bidder
+      - Returning bidder
+      - Frequent bidder
+      - Professional bidder
+      required: true
+    - id: 9
+      name: section_header_interests
+      label: -- Items and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: item_categories
+      label: Item Categories of Interest
+      hint: What are you interested in (Select all)?
+      type: select_multiple
+      options:
+      - Antiques
+      - Art and collectibles
+      - Vehicles
+      - Real estate
+      - Furniture
+      - Jewelry
+      - Electronics
+      - Sports memorabilia
+      - Books
+      - Tools and equipment
+      - Other
+      required: true
+    - id: 11
+      name: budget_range
+      label: Expected Bidding Budget
+      hint: What is your price range?
+      type: select_one
+      options:
+      - Under $100
+      - $100 - $500
+      - $500 - $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - Over $10,000
+      - Flexible
+      required: true
+    - id: 12
+      name: specific_items
+      label: Specific Items You Are Interested In
+      hint: Any items you're targeting?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_experience
+      label: -- Auction Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: auction_frequency
+      label: How Often Do You Attend Auctions
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Few times a year
+      - Monthly
+      - Several times a month
+      - Weekly or more
+      required: true
+    - id: 15
+      name: bidding_method
+      label: Preferred Bidding Method
+      hint: How do you like to bid?
+      type: select_one
+      options:
+      - In-person
+      - Online platform
+      - Phone bidding
+      - Proxy or absentee bid
+      - No preference
+      required: true
+    - id: 16
+      name: past_experience
+      label: Your Past Auction Experience
+      hint: How experienced are you?
+      type: select_one
+      options:
+      - Very experienced
+      - Experienced
+      - Somewhat experienced
+      - Limited experience
+      - No prior experience
+      required: true
+    - id: 17
+      name: successful_purchases
+      label: Approximate Number of Successful Purchases
+      hint: How many items have you won?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_preferences
+      label: -- Event Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: timing_preference
+      label: Preferred Event Timing
+      hint: When do you prefer to bid?
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Weekday
+      - No preference
+      required: false
+    - id: 20
+      name: event_frequency
+      label: Preferred Event Frequency
+      hint: How often should events occur?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      - No preference
+      required: false
+    - id: 21
+      name: additional_services
+      label: Interest in Additional Services
+      hint: What services interest you (Select all)?
+      type: select_multiple
+      options:
+      - Appraisal services
+      - Shipping and handling
+      - Buyer's advisory
+      - Pre-auction estimates
+      - Lot previews
+      - Insurance
+      - None
+      required: false
+    - id: 22
+      name: section_header_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: communication_method
+      label: Preferred Communication Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      - No preference
+      required: true
+    - id: 24
+      name: newsletter_interest
+      label: Interested in Auction Newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, not interested
+      required: true
+    - id: 25
+      name: section_header_feedback
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: auction_quality
+      label: Quality of Past Auction Items
+      hint: How do you rate the selection?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: false
+    - id: 27
+      name: bidding_experience
+      label: Overall Bidding Experience
+      hint: How was your experience?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: false
+    - id: 28
+      name: improvements
+      label: Suggested Improvements
+      hint: What could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other thoughts?
+      type: text
+      options: []
+      required: false

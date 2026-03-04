@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Technology Capacity Survey
+    pages:
+    - id: 1
+      name: organization_id
+      label: Organization Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tech_leads_id
+      label: Tech Leads Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: has_technology_leads
+      label: Has Technology Leads
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: tech_leads_count
+      label: Tech Leads Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: has_digital_skills
+      label: Has Digital Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Some''}'
+      - '{''id'': 2, ''label'': ''Partial''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 6
+      name: has_ict_equipment
+      label: Has Ict Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Computers''}'
+      - '{''id'': 2, ''label'': ''Laptops''}'
+      - '{''id'': 3, ''label'': ''Tablets''}'
+      - '{''id'': 4, ''label'': ''Mobile Phones''}'
+      required: false
+    - id: 7
+      name: has_internet_access
+      label: Has Internet Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fast Internet''}'
+      - '{''id'': 2, ''label'': ''Medium Internet''}'
+      - '{''id'': 3, ''label'': ''No Internet''}'
+      required: true
+    - id: 8
+      name: has_support_services
+      label: Has Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email Support''}'
+      - '{''id'': 2, ''label'': ''Phone Support''}'
+      - '{''id'': 3, ''label'': ''Online Chat Support''}'
+      required: true
+    - id: 9
+      name: has_technology_support
+      label: Has Technology Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email Support''}'
+      - '{''id'': 2, ''label'': ''Phone Support''}'
+      - '{''id'': 3, ''label'': ''Online Chat Support''}'
+      required: false
+    - id: 10
+      name: has_technology_training
+      label: Has Technology Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Basic Computer Training''}'
+      - '{''id'': 2, ''label'': ''Advanced Computer Training''}'
+      required: false
+    - id: 11
+      name: has_technology_resources
+      label: Has Technology Resources
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: has_digital_security
+      label: Has Digital Security
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Firewall''}'
+      - '{''id'': 2, ''label'': ''Anti-virus''}'
+      - '{''id'': 3, ''label'': ''Encryption''}'
+      - '{''id'': 4, ''label'': ''Backup''}'
+      required: false
+    - id: 13
+      name: has_digital_storage
+      label: Has Digital Storage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Local Server''}'
+      - '{''id'': 2, ''label'': ''Cloud Storage''}'
+      required: false
+    - id: 14
+      name: has_network_admin
+      label: Has Network Admin
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Network Admin''}'
+      - '{''id'': 2, ''label'': ''System Admin''}'
+      - '{''id'': 3, ''label'': ''IT Manager''}'
+      required: true
+    - id: 15
+      name: has_it_training
+      label: Has IT Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Network Training''}'
+      - '{''id'': 2, ''label'': ''System Training''}'
+      - '{''id'': 3, ''label'': ''IT Training''}'
+      required: false
+    - id: 16
+      name: it_skills_level
+      label: IT Skills Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Advanced''}'
+      - '{''id'': 3, ''label'': ''Expert''}'
+      required: true
+    - id: 17
+      name: has_other_technology
+      label: Has Other Technology
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Software''}'
+      - '{''id'': 2, ''label'': ''Hardware''}'
+      required: true

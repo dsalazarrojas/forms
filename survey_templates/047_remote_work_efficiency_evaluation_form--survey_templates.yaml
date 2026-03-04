@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Efficiency Evaluation Form
+    pages:
+    - id: 1
+      name: work_type
+      label: Remote Work Type
+      hint: Select the type of work you do
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: efficiency_level
+      label: Efficiency Level
+      hint: Select your current efficiency level
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges faced in remote work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: productivity_tools
+      label: Productivity Tools
+      hint: List the tools used for remote work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_methods
+      label: Communication Methods
+      hint: Describe your primary methods of communication
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collaboration_methods
+      label: Collaboration Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_enviroment
+      label: Work Environment
+      hint: Describe your typical work environment
+      type: text
+      options: []
+      required: false

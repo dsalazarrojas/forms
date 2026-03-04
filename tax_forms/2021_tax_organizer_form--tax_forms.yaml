@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Tax Organizer Form
+    pages:
+    - id: 1
+      name: section_header_taxpayer_info
+      label: '--- Taxpayer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As shown on Social Security card
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn
+      label: Social Security Number
+      hint: 'Format: XXX-XX-XXXX'
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: primary_email
+      label: Primary email address
+      hint: Provide email for correspondence about your return
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone
+      label: Primary phone number
+      hint: Include country code if outside U.S.
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: filing_status
+      label: Filing status for 2021
+      hint: Select the status you will use on the 2021 return
+      type: select_one
+      options:
+      - Single
+      - Married filing jointly
+      - Married filing separately
+      - Head of household
+      - Qualifying widow(er)
+      required: true
+    - id: 8
+      name: spouse_full_name
+      label: Spouse full name
+      hint: Only if filing jointly or separately
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_dependents
+      label: '--- Dependents ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: number_of_dependents
+      label: Number of dependents claimed
+      hint: Total number claimed on 2021 return
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: dependents_list
+      label: Dependent details
+      hint: 'List each dependent on a new line: Name, DOB, SSN, Relationship'
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_income
+      label: '--- Income Summary ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: income_types
+      label: Types of income received in 2021
+      hint: Select all types that apply; help preparer identify needed forms
+      type: select_multiple
+      options:
+      - W-2 wages
+      - Self-employment income (Schedule C)
+      - Interest and dividends (1099-INT/1099-DIV)
+      - Retirement distributions (1099-R)
+      - Unemployment (1099-G)
+      - Rental income
+      - Other
+      required: true
+    - id: 14
+      name: total_wages
+      label: Total wages (W-2) for 2021
+      hint: Enter combined wages from all W-2s in USD
+      type: decimal
+      options: []
+      required: false
+    - id: 15
+      name: business_income
+      label: Net self-employment income (Schedule C)
+      hint: Net profit (enter negative value for net loss)
+      type: decimal
+      options: []
+      required: false
+    - id: 16
+      name: deduction_type
+      label: Deduction preference for 2021
+      hint: Choose whether you expect to take the standard deduction or itemize
+      type: select_one
+      options:
+      - Standard deduction
+      - Itemized deductions
+      required: true
+    - id: 17
+      name: estimated_tax_payments
+      label: Estimated tax payments made for 2021
+      hint: Total of federal estimated payments (apply credits if any)
+      type: decimal
+      options: []
+      required: false
+    - id: 18
+      name: documents_attached
+      label: Supporting documents attached
+      hint: Indicate how documents are being provided to preparer
+      type: select_one
+      options:
+      - Yes (paper copies attached)
+      - Electronic copies only
+      - No, to be provided later
+      required: true
+    - id: 19
+      name: organizer_feedback_section
+      label: '--- Organizer Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: organizer_satisfaction
+      label: How satisfied are you with the 2021 Tax Organizer Form?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 21
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 22
+      name: open_feedback
+      label: What would you improve or change about this organizer?
+      hint: Provide specific suggestions or missing items
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_preparer
+      label: '--- Preparer / Submission Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preparer_name
+      label: Preparer or contact name
+      hint: Name of person preparing the return or primary contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_date
+      label: Date signed / submitted
+      hint: Date taxpayer signed this organizer or confirmed accuracy
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information preparer should know
+      type: text
+      options: []
+      required: false

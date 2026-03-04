@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Report Form
+    pages:
+    - id: 1
+      name: owner
+      label: owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: designation
+      label: designation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment
+      label: equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prophets
+      label: work details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false

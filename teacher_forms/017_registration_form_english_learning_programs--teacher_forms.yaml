@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Form English Learning Programs
+    pages:
+    - id: 1
+      name: english_learning_programs_program_id
+      label: Program ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: teacher name
+      hint: Enter teacher's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_profile_picture
+      label: Teacher Profile Picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: Enter school name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bachelors''}'
+      - '{''name'': ''Masters''}'
+      - '{''name'': ''Doctoral''}'
+      required: true
+    - id: 10
+      name: teacher_experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: teacher_language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''English''}'
+      - '{''name'': ''Spanish''}'
+      - '{''name'': ''French''}'
+      required: true
+    - id: 12
+      name: teacher_availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: teacher_description
+      label: Description
+      hint: Enter your description
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

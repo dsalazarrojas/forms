@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Peer Feedback Form
+    pages:
+    - id: 1
+      name: presentation_peer_feedback_form
+      label: Presentation Peer Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs improvement
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: presenter_name
+      label: presenter name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Club T Shirt Order Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Name of your baseball team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_manager_name
+      label: Team Manager Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_email
+      label: Manager Email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: manager_phone
+      label: Manager Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shirt_style
+      label: Shirt Style
+      hint: Select the style
+      type: select_one
+      options:
+      - Classic crew neck
+      - V neck
+      - Performance moisture wicking
+      - Long sleeve
+      - Sleeveless
+      - Polo style
+      required: true
+    - id: 7
+      name: shirt_color
+      label: Shirt Color
+      hint: Primary color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy blue
+      - Gray
+      - Red
+      - Royal blue
+      - Forest green
+      - Maroon
+      - Orange
+      - Yellow
+      required: true
+    - id: 8
+      name: accent_color
+      label: Accent Color
+      hint: Secondary color for trim
+      type: select_one
+      options:
+      - None
+      - White
+      - Black
+      - Navy
+      - Red
+      - Gray
+      required: true
+    - id: 9
+      name: small_quantity
+      label: Small Size Quantity
+      hint: Number of small shirts
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: medium_quantity
+      label: Medium Size Quantity
+      hint: Number of medium shirts
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: large_quantity
+      label: Large Size Quantity
+      hint: Number of large shirts
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: xl_quantity
+      label: Extra Large Quantity
+      hint: Number of XL shirts
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: xxl_quantity
+      label: XXL Size Quantity
+      hint: Number of XXL shirts
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: youth_small_quantity
+      label: Youth Small Quantity
+      hint: Number of youth small shirts
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: youth_medium_quantity
+      label: Youth Medium Quantity
+      hint: Number of youth medium shirts
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: youth_large_quantity
+      label: Youth Large Quantity
+      hint: Number of youth large shirts
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: front_design
+      label: Front Design
+      hint: Describe what goes on front
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: back_design
+      label: Back Design
+      hint: Describe what goes on back
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sleeve_design
+      label: Sleeve Design
+      hint: Any design on sleeves
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: player_names
+      label: Player Names on Back
+      hint: Will shirts have player names
+      type: select_one
+      options:
+      - Yes, all shirts
+      - Yes, some shirts
+      - No names
+      required: true
+    - id: 21
+      name: player_numbers
+      label: Player Numbers on Back
+      hint: Will shirts have numbers
+      type: select_one
+      options:
+      - Yes, all shirts
+      - Yes, some shirts
+      - No numbers
+      required: true
+    - id: 22
+      name: logo_file
+      label: Upload Team Logo
+      hint: If you have a logo file
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: total_quantity
+      label: Total Shirt Quantity
+      hint: Total number of shirts
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: delivery_deadline
+      label: Needed By Date
+      hint: When do you need shirts
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver
+      type: select_one
+      options:
+      - Ship to address
+      - Pickup in store
+      - Deliver to field
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Team check
+      - Purchase order
+      required: true
+    - id: 27
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false

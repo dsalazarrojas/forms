@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Teaching Practices Assessment
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''PK-8''}'
+      - '{''value'': ''9-12''}'
+      - '{''value'': ''Post-Secondary''}'
+      required: false
+    - id: 4
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Math''}'
+      - '{''value'': ''Language Arts''}'
+      - '{''value'': ''Science''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: edtech_used
+      label: EdTech Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Google Drive''}'
+      - '{''value'': ''Google Docs''}'
+      - '{''value'': ''Google Classroom''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

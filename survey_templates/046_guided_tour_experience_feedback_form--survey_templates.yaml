@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guided Tour Experience Feedback Form
+    pages:
+    - id: 1
+      name: feedback_questions
+      label: Feedback Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_participation_rating
+      label: Tour Participation Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback_text_area
+      label: Feedback Text Area
+      hint: null
+      type: note
+      options: []
+      required: false

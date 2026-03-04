@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: occlusal_splints_design_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: splint_design_preferences
+      label: SplintsDesignPreferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: design_challenge
+      label: DesignChallenges
+      hint: What challenges do you experience with current splint designs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: outcome_measures
+      label: OutcomeMeasures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: practice_outcomes
+      label: PracticeOutcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: practice_splint_use
+      label: PracticeSplintsUse
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: practice_splints_selection
+      label: PracticeSplintsSelection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: additional_comments
+      label: AdditionalComments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: true

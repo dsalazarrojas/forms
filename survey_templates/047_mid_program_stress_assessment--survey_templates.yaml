@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mid-Program Stress Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_stress_level
+      label: current stress level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stressors
+      label: stressors
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: impact_on_stressors
+      label: impact on stressors
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: current_support
+      label: current support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: suggestions_for_support
+      label: suggestions for support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

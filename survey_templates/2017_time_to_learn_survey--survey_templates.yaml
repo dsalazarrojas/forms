@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2017 Time To Learn Survey
+    pages:
+    - id: 1
+      name: section_header_survey
+      label: '--- 2017 Time To Learn Survey ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter an address we can use for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: 'Optional: include country code'
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: respondent_role
+      label: Which best describes you
+      hint: Select the single best option
+      type: select_one
+      options:
+      - Teacher
+      - Parent/Guardian
+      - Student
+      - Community member
+      - Union representative
+      - Other
+      required: true
+    - id: 6
+      name: date_submitted
+      label: Date of response
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: years_in_education
+      label: Years working in education
+      hint: Enter 0 if not applicable
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: hours_per_week_testing
+      label: Average hours per week spent on high-stakes testing preparation
+      hint: e.g., 2.5
+      type: decimal
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction
+      label: How satisfied are you with 2017 Time To Learn Survey?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: experience_aspects
+      label: Which aspects applied to your experience with 2017 Time To Learn Survey?
+        (select all)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 12
+      name: test_impact_areas
+      label: In what ways has high-stakes testing affected classroom time? (select
+        all)
+      hint: Leave blank if not observed
+      type: select_multiple
+      options:
+      - Reduced instructional time for projects
+      - Less time for arts and music
+      - Increased test prep
+      - Longer school days
+      - Reduced formative assessment
+      - Increased homework required
+      required: false
+    - id: 13
+      name: observed_consequences
+      label: Observed consequences of high-stakes testing (select all)
+      hint: Choose all that apply from your experience
+      type: select_multiple
+      options:
+      - Narrowed curriculum
+      - Student stress/anxiety
+      - Teaching to the test
+      - Lowered staff morale
+      - Reduced special education support
+      - Increased dropout risk
+      required: false
+    - id: 14
+      name: consent_share
+      label: May we share anonymized responses with partner organizations?
+      hint: Responses will be anonymized before sharing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: improvement_suggestions
+      label: What would you improve or change about 2017 Time To Learn Survey?
+      hint: Be specific about features, wording, or questions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Optional
+      type: text
+      options: []
+      required: false

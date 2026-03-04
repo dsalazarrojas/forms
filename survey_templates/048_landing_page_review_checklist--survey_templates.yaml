@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landing Page Review Checklist
+    pages:
+    - id: 1
+      name: review_checklist_1
+      label: landing_page_review_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: heading_1
+      label: is_the_title_clear
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: heading_2
+      label: is_the_title_focused
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: headline_1
+      label: is_the_headline_effective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: headline_2
+      label: is_the_headline_compelling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subheading_1
+      label: is_the_subheading_focused
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_1
+      label: is_the_description_effective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_2
+      label: is_the_description_compelling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: headline_button_1
+      label: is_the_call_to_action_effective
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: headline_button_2
+      label: is_the_cta_compelling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

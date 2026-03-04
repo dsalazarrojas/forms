@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Impact Assessment
+    pages:
+    - id: 1
+      name: teacher_impact_assessment
+      label: Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: teacher_evaluation_forms
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_effectiveness
+      label: Effectiveness
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: teacher_evaluation_process
+      label: Evaluation Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_support_system
+      label: Support System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

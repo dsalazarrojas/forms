@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Identification Number Survey
+    pages:
+    - id: 1
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name
+      label: Business Legal Name
+      hint: Registered business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: DBA Name (if different)
+      hint: Doing Business As name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: Entity structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Non-Profit
+      - Cooperative
+      - Trust
+      required: true
+    - id: 5
+      name: principal_address
+      label: Principal Place of Business
+      hint: Main business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: identification_section
+      label: -- Identification Numbers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ein_number
+      label: EIN (Employer Identification Number)
+      hint: Federal tax ID number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ein_issued_date
+      label: EIN Issued Date
+      hint: When was EIN issued?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: state_tax_id
+      label: State Tax ID
+      hint: State-specific tax identification
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: duns_number
+      label: DUNS Number
+      hint: Dun and Bradstreet number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_license
+      label: Business License Number
+      hint: Local or state license number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_section
+      label: -- Registration Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: state_registration_number
+      label: State Registration/Certificate Number
+      hint: State filing number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registration_date
+      label: Date of Registration
+      hint: When was business registered?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: sba_number
+      label: SBA Approval Number (if applicable)
+      hint: If SBA certified minority business
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: industry_classification
+      label: Industry Classification Code
+      hint: NAICS or SIC code
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: Any other IDs or details?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_t_shirt
+      label: Order T-Shirt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 3
+      name: t_shirt_color
+      label: T-Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Red
+      - Blue
+      required: false
+    - id: 4
+      name: t_shirt_style
+      label: T-Shirt Style
+      hint: null
+      type: select_one
+      options:
+      - Crew Neck
+      - V-Neck
+      - Henley
+      - Hoodie
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Other
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      required: false
+    - id: 10
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - FedEx
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: order_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Pacific
+      required: false
+    - id: 14
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false

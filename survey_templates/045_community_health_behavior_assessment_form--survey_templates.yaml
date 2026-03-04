@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Behavior Assessment Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name (Optional)
+      hint: Your name if you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: true
+    - id: 8
+      name: cigarettes_per_day
+      label: Cigarettes Per Day
+      hint: If you smoke
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often do you drink?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Daily
+      required: true
+    - id: 10
+      name: drinks_per_week
+      label: Drinks Per Week
+      hint: Average number
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often do you exercise?
+      type: select_one
+      options:
+      - Never
+      - 1-2 Times per Week
+      - 3-4 Times per Week
+      - 5-6 Times per Week
+      - Daily
+      required: true
+    - id: 12
+      name: exercise_type
+      label: Types of Exercise
+      hint: What activities do you do?
+      type: select_multiple
+      options:
+      - Walking
+      - Running
+      - Cycling
+      - Swimming
+      - Weight Training
+      - Yoga
+      - Sports
+      - Dance
+      required: false
+    - id: 13
+      name: fruit_vegetable_servings
+      label: Daily Fruit and Vegetable Servings
+      hint: Average servings per day
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fast_food_frequency
+      label: Fast Food Consumption
+      hint: How often do you eat fast food?
+      type: select_one
+      options:
+      - Never
+      - 1-2 Times per Month
+      - 1-2 Times per Week
+      - 3-5 Times per Week
+      - Daily
+      required: true
+    - id: 15
+      name: sleep_hours
+      label: Average Hours of Sleep
+      hint: Per night
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: sleep_quality
+      label: Sleep Quality
+      hint: Rate your sleep quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: stress_level
+      label: Stress Level
+      hint: Rate your current stress
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 18
+      name: stress_management
+      label: Stress Management Techniques
+      hint: How do you manage stress?
+      type: select_multiple
+      options:
+      - Exercise
+      - Meditation
+      - Talking to Friends
+      - Hobbies
+      - Professional Help
+      - None
+      required: false
+    - id: 19
+      name: preventive_care
+      label: Last Preventive Care Visit
+      hint: When was your last checkup?
+      type: select_one
+      options:
+      - Within 6 Months
+      - 6-12 Months Ago
+      - 1-2 Years Ago
+      - More than 2 Years Ago
+      - Never
+      required: true
+    - id: 20
+      name: health_goals
+      label: Health Goals
+      hint: What are your health goals?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: health_barriers
+      label: Barriers to Better Health
+      hint: What obstacles do you face?
+      type: text
+      options: []
+      required: false

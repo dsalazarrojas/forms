@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Collection Feedback Contact Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_details
+      label: Feedback Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date_time
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''product_a'', ''label'': ''Product A''}'
+      - '{''id'': 2, ''name'': ''product_b'', ''label'': ''Product B''}'
+      - '{''id'': 3, ''name'': ''product_c'', ''label'': ''Product C''}'
+      - '{''id'': 4, ''name'': ''product_d'', ''label'': ''Product D''}'
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''User 2''}'
+      - '{''id'': 3, ''name'': ''User 3''}'
+      - '{''id'': 4, ''name'': ''User 4''}'
+      required: false
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open'', ''label'': ''Open''}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Done'', ''label'': ''Done''}'
+      - '{''id'': 4, ''name'': ''Closed'', ''label'': ''Closed''}'
+      required: false
+    - id: 17
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''A'', ''label'': ''A''}'
+      - '{''id'': 2, ''name'': ''B'', ''label'': ''B''}'
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: deleted_reason
+      label: Deleted Reason
+      hint: null
+      type: text
+      options: []
+      required: false

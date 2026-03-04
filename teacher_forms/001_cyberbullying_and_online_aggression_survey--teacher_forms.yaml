@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyberbullying And Online Aggression Survey
+    pages:
+    - id: 1
+      name: survey_info
+      label: Survey Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_experience
+      label: Have you had any experience as a teacher?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: institution_type
+      label: Type of Institution
+      hint: null
+      type: select_one
+      options:
+      - School
+      - University
+      - College
+      required: false
+    - id: 4
+      name: student_age
+      label: How old are the students you interact with?
+      hint: null
+      type: select_multiple
+      options:
+      - 13-15
+      - 16-18
+      - 19-21
+      required: false
+    - id: 5
+      name: teacher_age
+      label: Age of Teacher
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: teacher_experience
+      label: How many years have you taught?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_behavior
+      label: How often do you see students displaying aggressive behavior?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 8
+      name: teacher_feeling
+      label: How often do you feel stressed when dealing with students displaying
+        aggressive behavior?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 9
+      name: student_feeling
+      label: How often do students feel stressed when interacting with you?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 10
+      name: teacher_help
+      label: What kind of help do you receive?
+      hint: null
+      type: select_multiple
+      options:
+      - Colleague
+      - School Administrator
+      - Mental Health Professional
+      required: false
+    - id: 11
+      name: student_support
+      label: What kind of support do the students receive?
+      hint: null
+      type: select_multiple
+      options:
+      - Colleague
+      - School Administrator
+      - Mental Health Professional
+      required: false
+    - id: 12
+      name: teacher_satisfaction
+      label: How satisfied are you with your current job?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: student_satisfaction
+      label: How satisfied are the students with their current job?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: teacher_support_system
+      label: What kind of support system do you have in place?
+      hint: null
+      type: select_multiple
+      options:
+      - Colleague
+      - School Administrator
+      - Mental Health Professional
+      required: true
+    - id: 15
+      name: student_support_system
+      label: What kind of support system do the students have in place?
+      hint: null
+      type: select_multiple
+      options:
+      - Colleague
+      - School Administrator
+      - Mental Health Professional
+      required: false
+    - id: 16
+      name: teacher_help_given
+      label: How often do you give help to students who are displaying aggressive
+        behavior?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 17
+      name: student_help_given
+      label: How often do students seek help for displaying aggressive behavior?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 18
+      name: teacher_help_given_reason
+      label: What is the reason you give help to students who are displaying aggressive
+        behavior?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_help_given_reason
+      label: What is the reason students seek help for displaying aggressive behavior?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: teacher_conclusion
+      label: Do you believe that this form helped you identify areas for improvement?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

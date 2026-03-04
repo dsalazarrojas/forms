@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Topic Voting Form
+    pages:
+    - id: 1
+      name: topic_1
+      label: Select One Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: topic_2
+      label: Select Another Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: format_1
+      label: Which Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: schedule_1
+      label: Preferred Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_2
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note_1
+      label: Additional Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: topic_3
+      label: Choose Another Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: topic_4
+      label: Select One More Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

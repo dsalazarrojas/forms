@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphics Configuration Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gpu_usage
+      label: What's your GPU usage like?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Low''}'
+      - High
+      - Medium
+      - Unlimited
+      required: true
+    - id: 3
+      name: display_needs
+      label: What do you need from your display?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Higher Resolution''}'
+      - More Frames Per Second (FPS)
+      - Better Graphics Quality
+      - No Change
+      required: true
+    - id: 4
+      name: satisfaction
+      label: On a scale of 1-5, how satisfied are you with your current graphics experience?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gaming_community
+      label: Do you belong to any gaming communities online?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Yes''}'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

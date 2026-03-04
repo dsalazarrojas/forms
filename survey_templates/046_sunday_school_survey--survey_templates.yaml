@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: sunday_school_survey
+    pages:
+    - id: 1
+      name: what_would_you_like_to_talk_about
+      label: What would you like to talk about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_did_you_feel_about_the_last_sunday_school
+      label: How did you feel about last Sunday school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: favorite_part_of_last_sunday_school
+      label: Favorite part of last Sunday school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sunday_school_is
+      label: Sunday School is
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: name_of_favorite_teacher
+      label: Name of favorite teacher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: have_your_parents_attended_last_sunday_school
+      label: Have your parents attended last Sunday school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: how_would_you_rate_last_sunday_school
+      label: How would you rate last Sunday school
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: what_was_missing_from_last_sunday_school
+      label: What was missing from last Sunday school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: do_you_feel_safe_attending_last_sunday_school
+      label: Do you feel safe attending last Sunday school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: would_you_recommend_last_sunday_school_to_a_friend
+      label: Would you recommend last Sunday school to a friend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

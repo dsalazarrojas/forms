@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Training Program Effectiveness Survey
+    pages:
+    - id: 1
+      name: session_title
+      label: Session Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_1
+      label: Satisfaction With Session Content
+      hint: Rate your level of satisfaction with the session content
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_2
+      label: Satisfaction With Session Delivery
+      hint: Rate your level of satisfaction with the session delivery
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_3
+      label: Satisfaction With Trainer
+      hint: Rate your level of satisfaction with the trainer
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_4
+      label: Satisfaction With Training Materials
+      hint: Rate your level of satisfaction with the training materials
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_goals
+      label: Session Goals
+      hint: Were the session goals met?
+      type: select_multiple
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - No, somewhat
+      - No, not at all
+      required: true
+    - id: 8
+      name: challenges
+      label: Session Challenges
+      hint: Were there any challenges during the session?
+      type: select_multiple
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - No, somewhat
+      - No, not at all
+      required: true
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: Do you have any recommendations for future sessions?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments you would like to share?
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: E-mail
+      hint: Participant email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

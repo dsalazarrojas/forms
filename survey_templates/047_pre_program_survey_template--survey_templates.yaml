@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre_program_survey_template
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter valid email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_program
+      label: Date of program
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_start_date
+      label: Program start date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: program_end_date
+      label: Program end date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: program_length
+      label: Program length
+      hint: in weeks
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: program_type
+      label: Program type
+      hint: null
+      type: select_one
+      options:
+      - IPFLP
+      - Other
+      required: true
+    - id: 12
+      name: program_location
+      label: Program location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: true

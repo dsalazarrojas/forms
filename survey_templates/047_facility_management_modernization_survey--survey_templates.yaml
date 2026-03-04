@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Modernization Survey
+    pages:
+    - id: 1
+      name: facility_types
+      label: Facility Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: modernization_initiatives
+      label: Modernization Initiatives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

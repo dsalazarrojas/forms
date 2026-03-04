@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: human_behavior_survey
+    pages:
+    - id: 1
+      name: routines
+      label: What are your daily routines?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stress_levels
+      label: How often do you experience stress?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 3
+      name: work_life_balance
+      label: How would you rate your work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Needs improvement
+      - No time for self
+      required: false
+    - id: 4
+      name: time_spent_woking
+      label: How many hours do you usually work per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hours_slept
+      label: How many hours do you usually sleep per night?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exercise_frequency
+      label: How frequent do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      required: false
+    - id: 7
+      name: self_care_practices
+      label: Which of the following self-care practices do you usually practice?
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness
+      - Journaling
+      - Meditation
+      required: false
+    - id: 8
+      name: time_mgt_practices
+      label: Do you practice time management skills?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: social_media_usage
+      label: How do you usually use social media?
+      hint: null
+      type: select_one
+      options:
+      - Casual browsing
+      - Moderate usage
+      - Excessive usage
+      required: false
+    - id: 10
+      name: screen_time
+      label: How many hours do you spend on screens per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sleep_quality
+      label: How would you rate your sleep quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Average
+      - Poor
+      required: false
+    - id: 12
+      name: physical_activity
+      label: How often do you usually engage in physical activity?
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      required: false
+    - id: 13
+      name: relationships
+      label: How would you rate your relationships with colleagues?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Needs improvement
+      - Poor
+      required: false
+    - id: 14
+      name: work_life_balance_scale
+      label: Where do you stand on the work-life balance scale?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
+      - Very poor
+      required: false
+    - id: 15
+      name: burnout_levels
+      label: How high is your burnout level?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 16
+      name: work_life_balance_importance
+      label: How important is work-life balance for you?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Neutral
+      - Not important
+      required: false
+    - id: 17
+      name: job_satisfaction
+      label: How satisfied are you with your job?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 18
+      name: job_stress
+      label: How stressful is your job?
+      hint: null
+      type: select_one
+      options:
+      - Very stressful
+      - Stressful
+      - Neutral
+      - Not stressful
+      required: false
+    - id: 19
+      name: stress_causes
+      label: Which of the following causes you stress?
+      hint: null
+      type: select_multiple
+      options:
+      - Work
+      - Home
+      - Financial
+      - Personal
+      required: false
+    - id: 20
+      name: stress_management
+      label: How would you rate your stress management skills?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 21
+      name: burnout_causes
+      label: Which of the following causes you burnout?
+      hint: null
+      type: select_multiple
+      options:
+      - Work
+      - Home
+      - Financial
+      - Personal
+      required: false
+    - id: 22
+      name: self_care_planning
+      label: How often do you plan for self-care?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 23
+      name: burnout_management
+      label: How would you rate your burnout management skills?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 24
+      name: self_care_skills
+      label: Which self-care skills do you usually practice?
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness
+      - Journaling
+      - Meditation
+      required: false
+    - id: 25
+      name: work_life_balance_strategies
+      label: Which work-life balance strategies do you usually use?
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness
+      - Goal setting
+      - Time management
+      required: false
+    - id: 26
+      name: work_life_balance_goals
+      label: What are your work-life balance goals?
+      hint: Please describe your work-life balance goals.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Teacher Performance Evaluation Form
+    pages:
+    - id: 1
+      name: preschool_teacher_performance_evaluation_form_page_1
+      label: first_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preschool_teacher_performance_evaluation_form_page_2
+      label: teacher_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preschool_teacher_performance_evaluation_form_page_3
+      label: teaching_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preschool_teacher_performance_evaluation_form_page_4
+      label: teaching_methods
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preschool_teacher_performance_evaluation_form_page_5
+      label: student_progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: preschool_teacher_performance_evaluation_form_page_6
+      label: student_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: preschool_teacher_performance_evaluation_form_page_7
+      label: parent_involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: preschool_teacher_performance_evaluation_form_page_8
+      label: overall_evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preschool_teacher_performance_evaluation_form_page_9
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preschool_teacher_performance_evaluation_form_page_10
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

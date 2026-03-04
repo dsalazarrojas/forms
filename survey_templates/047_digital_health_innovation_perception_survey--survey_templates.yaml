@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Health Innovation Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_range
+      label: Age Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age_range_2
+      label: Age Range 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: years_of_experience_2
+      label: Years of Experience 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Professional
+      - Non-Healthcare Professional
+      required: false
+    - id: 9
+      name: current_tool_usage
+      label: Current Tool Usage
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 10
+      name: digital_tool_usage
+      label: Digital Tool Usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: innovation
+      label: Innovation
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Significantly
+      required: false

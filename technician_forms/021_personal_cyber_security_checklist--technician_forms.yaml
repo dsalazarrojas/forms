@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Cyber Security Checklist
+    pages:
+    - id: 1
+      name: password_strength
+      label: Strong Password
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: two_factor_auth
+      label: Use Two-Factor Authentication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: password_manager
+      label: Password Manager
+      hint: null
+      type: select_multiple
+      options:
+      - LastPass
+      - 1Password
+      - Dashlane
+      required: false
+    - id: 5
+      name: antivirus_software
+      label: Antivirus Software
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: backup_data
+      label: Regular Backups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: software_updates
+      label: Software Updates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

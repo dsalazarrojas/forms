@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Club Application Form
+    pages:
+    - id: 1
+      name: school_club_application_form_1
+      label: school_club_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: club_type
+      label: club_type
+      hint: null
+      type: select_one
+      options:
+      - club_type_1
+      - club_type_2
+      - club_type_3
+      required: false
+    - id: 3
+      name: school_year
+      label: school_year
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_status
+      label: member_status
+      hint: null
+      type: select_one
+      options:
+      - member_status_1
+      - member_status_2
+      - member_status_3
+      required: false
+    - id: 6
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false

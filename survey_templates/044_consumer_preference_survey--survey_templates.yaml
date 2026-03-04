@@ -1,0 +1,289 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Preference Survey
+    pages:
+      - id: 1
+        name: respondent_first_name
+        label: First Name
+        hint: Your first name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up - optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 5
+        name: location
+        label: Location
+        hint: City and state
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: household_income
+        label: Household Income
+        hint: Select your income bracket
+        type: select_one
+        options:
+          - Under $25,000
+          - $25,000 - $49,999
+          - $50,000 - $74,999
+          - $75,000 - $99,999
+          - $100,000 - $149,999
+          - $150,000+
+          - Prefer Not to Say
+        required: false
+      - id: 7
+        name: education_level
+        label: Education Level
+        hint: Highest level completed
+        type: select_one
+        options:
+          - High School or Less
+          - Some College
+          - Associate Degree
+          - Bachelor's Degree
+          - Master's Degree
+          - Doctorate
+          - Other
+        required: false
+      - id: 8
+        name: product_category
+        label: Product Category
+        hint: Which category are we asking about
+        type: select_one
+        options:
+          - Food
+          - Beverage
+          - Clothing
+          - Electronics
+          - Home Goods
+          - Personal Care
+          - Automotive
+          - Entertainment
+          - Other
+        required: true
+      - id: 9
+        name: preferred_brands
+        label: Preferred Brands
+        hint: List your favorite brands
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: purchase_frequency
+        label: Purchase Frequency
+        hint: How often do you buy this type of product
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Twice a Year
+          - Once a Year
+          - Rarely
+        required: true
+      - id: 11
+        name: preferred_features
+        label: Preferred Features
+        hint: Select features you value most
+        type: select_multiple
+        options:
+          - Quality
+          - Price
+          - Durability
+          - Design
+          - Functionality
+          - Brand Name
+          - Sustainability
+          - Convenience
+          - Innovation
+          - Customer Service
+        required: true
+      - id: 12
+        name: color_preference
+        label: Color Preference
+        hint: Select preferred colors
+        type: select_multiple
+        options:
+          - Black
+          - White
+          - Gray
+          - Blue
+          - Red
+          - Green
+          - Yellow
+          - Purple
+          - Orange
+          - Pink
+          - Brown
+          - No Preference
+        required: false
+      - id: 13
+        name: style_preference
+        label: Style Preference
+        hint: Describe your style preference
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: size_preference
+        label: Size Preference
+        hint: Select preferred sizes
+        type: select_multiple
+        options:
+          - Small
+          - Medium
+          - Large
+          - Extra Large
+          - Compact
+          - Standard
+          - Bulk
+          - No Preference
+        required: false
+      - id: 15
+        name: price_sensitivity
+        label: Price Sensitivity
+        hint: How important is price
+        type: select_one
+        options:
+          - Most Important Factor
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 16
+        name: quality_vs_price
+        label: Quality vs Price Priority
+        hint: What matters more
+        type: select_one
+        options:
+          - Quality Always
+          - Quality Usually
+          - Depends on Product
+          - Price Usually
+          - Price Always
+        required: true
+      - id: 17
+        name: brand_loyalty
+        label: Brand Loyalty
+        hint: How loyal are you to brands
+        type: select_one
+        options:
+          - Very Loyal
+          - Somewhat Loyal
+          - Neutral
+          - Switch Frequently
+          - Always Looking for Deals
+        required: true
+      - id: 18
+        name: shopping_channel
+        label: Preferred Shopping Channel
+        hint: Where do you mostly shop
+        type: select_one
+        options:
+          - Online Only
+          - In-Store Only
+          - Mostly Online
+          - Mostly In-Store
+          - Equal Mix of Both
+        required: true
+      - id: 19
+        name: decision_factors
+        label: Purchase Decision Factors
+        hint: Select what influences you
+        type: select_multiple
+        options:
+          - Price
+          - Quality
+          - Reviews
+          - Recommendations
+          - Brand Reputation
+          - Advertising
+          - Social Media
+          - In-Store Display
+          - Past Experience
+          - Sustainability
+        required: true
+      - id: 20
+        name: sustainability_importance
+        label: Importance of Sustainability
+        hint: How important is eco-friendliness
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 21
+        name: new_product_openness
+        label: Openness to New Products
+        hint: How willing to try new products
+        type: select_one
+        options:
+          - Always First to Try
+          - Often Try New
+          - Sometimes Try New
+          - Rarely Try New
+          - Stick with What I Know
+        required: true
+      - id: 22
+        name: product_improvements
+        label: Desired Product Improvements
+        hint: What improvements would you like
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_preferences
+        label: Additional Preferences
+        hint: Any other preferences to share
+        type: text
+        options: []
+        required: false

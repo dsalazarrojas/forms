@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: tracking_pixel_setup_survey
+    pages:
+    - id: 1
+      name: setup_details
+      label: tracking_pixel_requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tracking_code
+      label: tracking_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_format
+      label: data_format
+      hint: null
+      type: select_one
+      options:
+      - Google
+      - Facebook
+      - Custom
+      required: false
+    - id: 4
+      name: data_collection_frequency
+      label: data_collection_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tracking_pixel_location
+      label: tracking_pixel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_storage_solution
+      label: data_storage_solution
+      hint: null
+      type: select_multiple
+      options:
+      - Google BigQuery
+      - AWS S3
+      - Custom
+      required: false
+    - id: 7
+      name: data_analysis_tool
+      label: data_analysis_tool
+      hint: null
+      type: select_multiple
+      options:
+      - Google
+      - Tableau
+      - Custom
+      required: false
+    - id: 8
+      name: pixel_id
+      label: pixel_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_data_collection
+      label: event_data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - pageviews
+      - clicks
+      - conversions
+      required: false
+    - id: 10
+      name: event_data_source
+      label: event_data_source
+      hint: null
+      type: select_multiple
+      options:
+      - Google
+      - Facebook
+      required: false
+    - id: 11
+      name: event_data_destination
+      label: event_data_destination
+      hint: null
+      type: select_one
+      options:
+      - Google Analytics
+      - Facebook Events
+      - Custom
+      required: false
+    - id: 12
+      name: tracking_pixel_description
+      label: tracking_pixel_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: custom_tracking_pixel_code
+      label: custom_tracking_pixel_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tracking_pixel_status
+      label: tracking_pixel_status
+      hint: null
+      type: select_one
+      options:
+      - Live
+      - Disabled
+      - Pending
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

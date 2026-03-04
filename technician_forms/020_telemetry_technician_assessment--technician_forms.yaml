@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemetry Technician Assessment
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_readiness
+      label: Shift Readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: telemetry_skills
+      label: Telemetry Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shift_preference
+      label: Shift Preference
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: available_shifts
+      label: Available Shifts
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

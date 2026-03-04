@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band T-Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: band_name
+      label: Band Name
+      hint: Which band's merchandise
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shirt_design
+      label: Shirt Design
+      hint: Choose your design
+      type: select_one
+      options:
+      - Tour 2024 Design
+      - Album Art Design
+      - Classic Logo
+      - Vintage Style
+      - Minimalist Design
+      - Limited Edition
+      required: true
+    - id: 6
+      name: shirt_color
+      label: Shirt Color
+      hint: Base color of the shirt
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Gray
+      - Red
+      - Royal Blue
+      - Forest Green
+      - Burgundy
+      required: true
+    - id: 7
+      name: shirt_size
+      label: Shirt Size
+      hint: What size do you wear
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      - XXX-Large
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: How many shirts
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: shirt_style
+      label: Shirt Style
+      hint: Type of shirt
+      type: select_one
+      options:
+      - Crew Neck T-Shirt
+      - V-Neck T-Shirt
+      - Long Sleeve
+      - Tank Top
+      - Hoodie
+      - Polo Shirt
+      required: true
+    - id: 10
+      name: gender_fit
+      label: Fit Type
+      hint: Mens or womens cut
+      type: select_one
+      options:
+      - Unisex
+      - Mens Fit
+      - Womens Fit
+      - Youth Fit
+      required: true
+    - id: 11
+      name: price_per_shirt
+      label: Price Per Shirt
+      hint: Cost per item
+      type: select_one
+      options:
+      - $20 - Standard Tee
+      - $25 - Premium Tee
+      - $35 - Long Sleeve
+      - $45 - Hoodie
+      - $30 - Polo
+      required: true
+    - id: 12
+      name: custom_name_number
+      label: Custom Name or Number
+      hint: Add personalization on back
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Pickup at Show
+      - Pickup at Store
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_country
+      label: Country
+      hint: Shipping destination
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Venmo
+      - Cash at Pickup
+      required: true
+    - id: 17
+      name: order_total
+      label: Order Total
+      hint: Total amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: promo_code
+      label: Promo Code
+      hint: Discount code
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: gift_message
+      label: Gift Message
+      hint: Include a note
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: is_gift
+      label: Is This a Gift
+      hint: Should we gift wrap
+      type: select_one
+      options:
+      - Yes, gift wrap
+      - No, standard packaging
+      required: false
+    - id: 21
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive band updates
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No thank you
+      required: true
+    - id: 22
+      name: additional_merchandise
+      label: Additional Merchandise Interest
+      hint: Other items you might want
+      type: select_multiple
+      options:
+      - CDs or Vinyl
+      - Posters
+      - Stickers
+      - Pins or Patches
+      - Tote Bags
+      - Hats
+      - None
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Any notes for your order
+      type: text
+      options: []
+      required: false

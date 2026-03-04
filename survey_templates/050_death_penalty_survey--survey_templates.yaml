@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Death Penalty Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Death Penalty Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_intro
+      label: Do you want to save time collecting information from your audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: do_you_approve
+      label: Do you approve of capital punishment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 4
+      name: why_no
+      label: Why do you disapprove of capital punishment
+      hint: Please describe your concerns
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: do_you_believe_it_is_effective
+      label: Do you believe that capital punishment is an effective deterrent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: do_you_believe_it_is_cost_effective
+      label: Do you believe that capital punishment is cost-effective
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: alternative_to_imprisonment
+      label: What is your alternative to imprisonment
+      hint: Please describe your alternative to imprisonment
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: do_you_support
+      label: Do you support capital punishment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: age
+      label: What is your age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: education_level
+      label: What is your education level
+      hint: Please select your education level
+      type: select_multiple
+      options:
+      - Less than High School
+      - High School
+      - Some college
+      - College/University
+      - Graduate Degree
+      required: false
+    - id: 11
+      name: occupation
+      label: What is your occupation
+      hint: Please select your occupation
+      type: select_multiple
+      options:
+      - Unemployed
+      - Student
+      - Artist
+      - Engineer
+      - Teacher
+      required: false
+    - id: 12
+      name: household_income
+      label: What is your household income
+      hint: Please select your household income
+      type: select_multiple
+      options:
+      - Less than 20k
+      - 20k-50k
+      - 50k-75k
+      - 75k or more
+      required: false
+    - id: 13
+      name: years_of_residence
+      label: How long have you lived in your city
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contact_method
+      label: How do you prefer to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Text
+      required: false
+    - id: 15
+      name: gender
+      label: What is your gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 16
+      name: ethnicity
+      label: What is your ethnic background
+      hint: null
+      type: select_multiple
+      options:
+      - American Indian/Alaska Native
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      required: false
+    - id: 17
+      name: marital_status
+      label: What is your marital status
+      hint: null
+      type: select_multiple
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: false
+    - id: 18
+      name: political_party_affiliation
+      label: What is your political party affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - Democrat
+      - Republican
+      - Independent
+      required: false
+    - id: 19
+      name: religious_affiliation
+      label: What is your religious affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - Atheist
+      - Buddhist
+      - Catholic
+      - Hindu
+      - Islam
+      - Jewish
+      - Protestant
+      - Other
+      required: false
+    - id: 20
+      name: education_level2
+      label: How would you rate your education level
+      hint: Please select your education level
+      type: select_multiple
+      options:
+      - Less than High School
+      - High School
+      - Some college
+      - College/University
+      - Graduate Degree
+      required: false
+    - id: 21
+      name: contact_method2
+      label: How would you like to be contacted
+      hint: Please select your contact method
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Text
+      required: false
+    - id: 22
+      name: gender2
+      label: What is your gender
+      hint: Please select your gender
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 23
+      name: ethnicity2
+      label: What is your ethnic background
+      hint: Please select your ethnic background
+      type: select_multiple
+      options:
+      - American Indian/Alaska Native
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      required: false
+    - id: 24
+      name: marital_status2
+      label: What is your marital status
+      hint: Please select your marital status
+      type: select_multiple
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: false
+    - id: 25
+      name: political_party_affiliation2
+      label: What is your political party affiliation
+      hint: Please select your political party affiliation
+      type: select_multiple
+      options:
+      - Democrat
+      - Republican
+      - Independent
+      required: false

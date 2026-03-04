@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: welding_inspection_form
+    pages:
+    - id: 1
+      name: production_process
+      label: Production Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: welding_method
+      label: Welding Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: weld_id
+      label: Weld ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: material_id
+      label: Material ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: machine_id
+      label: Machine ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_product_user_experience_report_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_info
+      label: Product Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apple''}'
+      - '{''id'': 2, ''label'': ''Google''}'
+      - '{''id'': 3, ''label'': ''Microsoft''}'
+      required: false
+    - id: 3
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issues
+      label: Issues
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tech_products
+      label: Tech Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tech_teams
+      label: Tech Teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tech_products_teams
+      label: Tech Products Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tech_product_issues
+      label: Tech Product Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_rating
+      label: User Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tech_product_improvements
+      label: Tech Product Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tech_product_usability
+      label: Tech Product Usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: usability_issues
+      label: Usability Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tech_product_support
+      label: Tech Product Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: support_channels
+      label: Support Channels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: tech_product_design
+      label: Tech Product Design
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: tech_product_usability_features
+      label: Tech Product Usability Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: tech_product_support_channels
+      label: Tech Product Support Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: tech_product_usability_issues
+      label: Tech Product Usability Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: tech_product_usability_features
+      label: Tech Product Usability Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: tech_product_support_teams
+      label: Tech Product Support Teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: tech_product_usability_features_improvements
+      label: Tech Product Usability Features Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tech_product_support_channels_improvements
+      label: Tech Product Support Channels Improvements
+      hint: null
+      type: text
+      options: []
+      required: false

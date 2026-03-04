@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Captain Nomination Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Team Captain Nomination Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Nominate a team member to be captain. Please provide details about why
+        they are an excellent choice for leadership.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: nominator_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_email
+      label: Your Email
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: nominator_phone
+      label: Your Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_role
+      label: Your Role/Position
+      hint: Your position on team
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nomination_date
+      label: Nomination Date
+      hint: Date of nomination
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: team_info_header
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: team_name
+      label: Team Name
+      hint: Which team
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team_sport
+      label: Sport or Activity
+      hint: Select one
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Volleyball
+      - Baseball
+      - Softball
+      - Swimming
+      - Cross Country
+      - Track and Field
+      - Other
+      required: true
+    - id: 12
+      name: team_level
+      label: Team Level
+      hint: Select one
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club
+      - Intramural
+      - Other
+      required: true
+    - id: 13
+      name: nominee_info_header
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: nominee_name
+      label: Nominee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nominee_number
+      label: Jersey Number (if applicable)
+      hint: Player number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nominee_year
+      label: Class Year or Tenure
+      hint: Select one
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - First year
+      - Multiple years
+      - Other
+      required: true
+    - id: 17
+      name: nominee_position
+      label: Position on Team
+      hint: Player position
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nominee_email
+      label: Nominee Email (if known)
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: leadership_qualities_header
+      label: -- Leadership Qualities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: leadership_skills
+      label: What leadership qualities does this nominee possess?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Communication skills
+      - Decision-making ability
+      - Work ethic
+      - Team player mentality
+      - Motivates others
+      - Problem solving
+      - Integrity and honesty
+      - Leads by example
+      - Conflict resolution
+      - Strategic thinking
+      required: true
+    - id: 21
+      name: nomination_reason
+      label: Why do you nominate this person?
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: specific_examples
+      label: Specific Examples of Leadership
+      hint: Share concrete examples
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: team_impact
+      label: How has this person positively impacted the team?
+      hint: Describe impact
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: experience_header
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: prior_leadership
+      label: Has nominee held leadership positions before?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 26
+      name: prior_positions
+      label: Prior Leadership Positions (if any)
+      hint: Describe roles held
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: experience_benefit
+      label: How will experience benefit the team?
+      hint: Explain connection
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: team_dynamics_header
+      label: -- Team Dynamics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: peer_support
+      label: Will teammates respect and follow this captain?
+      hint: Select one
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Possibly
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 30
+      name: team_unity
+      label: Will this captain improve team unity?
+      hint: Select one
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional additional information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: confirmation
+      label: I confirm this nomination is sincere and well-considered
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      required: true

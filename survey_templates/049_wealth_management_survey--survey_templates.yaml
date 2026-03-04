@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: wealth_management_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: financial_history
+      label: financial_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_institutions
+      label: financial_institutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_preferences
+      label: communication_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: investment_experience
+      label: investment_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: financial_advice
+      label: financial_advice
+      hint: null
+      type: text
+      options: []
+      required: false

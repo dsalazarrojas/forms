@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: decode_e_numbers_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_page
+      label: Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - E1
+      - E110
+      - E160
+      - E170
+      - E180
+      - E200
+      - E290
+      - E330
+      - E400
+      - E460
+      - E500
+      - E600
+      - E900
+      required: false
+    - id: 3
+      name: concerns_page
+      label: Concerns
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Somewhat Concerned
+      - Very Concerned
+      required: false
+    - id: 4
+      name: behaviors_page
+      label: Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: false
+    - id: 5
+      name: demographics_page
+      label: Demographics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: comments_page
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_page
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Behavior Tracking Form
+    pages:
+    - id: 1
+      name: student_behavior_tracking_1
+      label: general_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_behavior_tracking_2
+      label: general_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_behavior_tracking_3
+      label: specific_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_behavior_tracking_4
+      label: student_behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_behavior_tracking_5
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false

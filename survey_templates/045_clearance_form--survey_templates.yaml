@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clearance Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee or identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Your work or personal email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_clearance
+      label: -- Clearance Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: clearance_type
+      label: Type of Clearance Requested
+      hint: What clearance do you need?
+      type: select_one
+      options:
+      - Background Check Clearance
+      - Security Clearance
+      - Financial Clearance
+      - Medical Clearance
+      - Administrative Clearance
+      - Equipment Clearance
+      - Travel Clearance
+      - Other
+      required: true
+    - id: 10
+      name: clearance_level
+      label: Clearance Level Required
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Enhanced
+      - Top Secret
+      - Confidential
+      - Public
+      - Not Specified
+      required: true
+    - id: 11
+      name: clearance_purpose
+      label: Purpose of Clearance
+      hint: Why is this clearance needed?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: clearance_start_date
+      label: Requested Clearance Start Date
+      hint: When do you need the clearance?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: section_header_background
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: criminal_history
+      label: Do you have any criminal history?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: criminal_details
+      label: If Yes, Please Provide Details
+      hint: Type and date of conviction
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: outstanding_warrants
+      label: Are there any outstanding warrants against you?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: financial_issues
+      label: Outstanding financial or credit issues?
+      hint: Bankruptcy, liens, or unpaid debts
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: financial_details
+      label: If Yes, Please Provide Details
+      hint: Description of financial issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_conduct
+      label: -- Conduct and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: company_policy_compliance
+      label: I will comply with all company policies and procedures
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: confidentiality_agreement
+      label: I agree to maintain confidentiality of sensitive information
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: code_of_conduct
+      label: I have read and will adhere to the Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: section_header_medical
+      label: -- Medical and Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_clearance_needed
+      label: Medical clearance required for this position?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 25
+      name: doctor_name
+      label: Physician Name
+      hint: Name of your healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: health_conditions
+      label: Any health conditions that could affect work?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: health_condition_details
+      label: Health Condition Details
+      hint: Description of conditions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_verification
+      label: -- Verification and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: information_accuracy
+      label: I certify that all information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true
+    - id: 30
+      name: background_check_consent
+      label: I consent to a background check and investigation
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 31
+      name: additional_information
+      label: Additional Information or Explanation
+      hint: Anything else relevant to your clearance?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: submission_date
+      label: Form Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

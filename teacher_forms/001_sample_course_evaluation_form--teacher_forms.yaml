@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Course Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_id
+      label: Teacher Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: course_id
+      label: Course Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question1
+      label: How would you rate the course?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: question1_answer
+      label: How would you rate the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: question2
+      label: What did you think of the course content?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question2_answer
+      label: What did you think of the course content?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question3
+      label: Did you find this course useful?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: question3_answer
+      label: Did you find this course useful?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

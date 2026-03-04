@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_reality_experience_survey_form
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome_to_the_virtual_reality_experience_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: what_do_you_think_of_the_virtual_reality_program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: experience_level
+      label: how_did_you_rate_your_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comfort_level
+      label: how_comfortable_did_you_feel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recommendation
+      label: would_you_recommend_the_virtual_reality_program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: do_you_have_any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: how_can_we_reach_you
+      hint: null
+      type: text
+      options: []
+      required: false

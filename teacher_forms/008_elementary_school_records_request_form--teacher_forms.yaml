@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School Records Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Student's full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: Parent's full name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Grade level of student
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: Reason for requesting the record
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_comments
+      label: Teacher Comments
+      hint: Any comments from the teacher
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false

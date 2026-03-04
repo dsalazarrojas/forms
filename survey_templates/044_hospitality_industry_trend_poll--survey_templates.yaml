@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Industry Trend Poll
+    pages:
+    - id: 1
+      name: industry_role
+      label: Hotel Management
+      hint: null
+      type: select_one
+      options:
+      - General Manager
+      - Assistant Manager
+      - Other
+      required: false
+    - id: 2
+      name: region
+      label: Which region do you belong to?
+      hint: null
+      type: select_multiple
+      options:
+      - Europe
+      - Asia
+      - Africa
+      - North America
+      required: false
+    - id: 3
+      name: org_type
+      label: What type of organization do you work for?
+      hint: null
+      type: select_one
+      options:
+      - Hospitality Company
+      - Independent Hotel
+      - Other
+      required: false
+    - id: 4
+      name: challenges_faced
+      label: What are your biggest challenges when it comes to trends and challenges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_spent_on_trends
+      label: How much time do you spend on researching and implementing trends?
+      hint: Please enter the amount in minutes
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: impact_of_trends
+      label: What is the impact of trends on your role?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 7
+      name: time_spent_on_trends
+      label: How much time do you spend on implementing trends?
+      hint: Please enter the amount in minutes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: trend_priorities
+      label: Which trend priorities are you most interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Management
+      - Operational Management
+      - Guest Management
+      required: false

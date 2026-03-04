@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Walkthrough Template
+    pages:
+    - id: 1
+      name: general_info_header
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer/Administrator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_observed
+      label: Teacher Observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_subject
+      label: Grade Level and Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_walkthrough
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_walkthrough
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: duration_minutes
+      label: Duration of Observation (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: instruction_header
+      label: -- Instruction and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: learning_objective_posted
+      label: Is the learning objective clearly posted?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 10
+      name: student_engagement_level
+      label: Student Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - High (80-100% engaged)
+      - Moderate (50-80% engaged)
+      - Low (Less than 50% engaged)
+      required: true
+    - id: 11
+      name: instructional_strategies
+      label: Instructional Strategies Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Direct Instruction
+      - Small Group Work
+      - Independent Practice
+      - Hands-on Activity
+      - Technology Integration
+      - Collaborative Discussion
+      required: false
+    - id: 12
+      name: environment_header
+      label: -- Classroom Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: classroom_management
+      label: Classroom Management and Behavior
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Seamless transitions
+      - Effective - Occasional redirects
+      - Developing - Frequent interruptions
+      - Needs Improvement - Significant disruption
+      required: true
+    - id: 14
+      name: evidence_of_learning
+      label: Evidence of student learning displayed
+      hint: null
+      type: select_one
+      options:
+      - Current work displayed
+      - Some work displayed
+      - No current work displayed
+      required: true
+    - id: 15
+      name: observers_feedback
+      label: Praise - What was working well?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: growth_opportunity
+      label: Polish - Area for growth or consideration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: share_with_teacher
+      label: Would you like to email this summary to the teacher?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: follow_up_meeting
+      label: Follow-up meeting requested?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

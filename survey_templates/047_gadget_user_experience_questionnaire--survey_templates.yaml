@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gadget User Experience Questionnaire
+    pages:
+    - id: 1
+      name: gadget_user_experience_questionnaire
+      label: How do you feel about using our gadget?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: usage_habits
+      label: What do you use our gadget for?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: improvement_opportunities
+      label: improvement_opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_satisfaction
+      label: How satisfied are you with your device?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 6
+      name: device_satisfaction_reasons
+      label: Please select all the reasons you are dissatisfied with your device
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

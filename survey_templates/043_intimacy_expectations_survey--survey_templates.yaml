@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: intimacy_expectations_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''In a relationship''}'
+      - '{''label'': ''In a long-term relationship''}'
+      - '{''label'': ''In a marriage''}'
+      - '{''label'': ''In a long-term partnership''}'
+      - '{''label'': ''In a domestic partnership''}'
+      required: false
+    - id: 3
+      name: intimacy_expectations
+      label: Intimacy Expectations
+      hint: What do you expect from your partner in terms of physical intimacy?
+      type: select_multiple
+      options:
+      - '{''label'': ''Physical touch''}'
+      - '{''label'': ''Emotional intimacy''}'
+      - '{''label'': ''Financial support''}'
+      - '{''label'': ''Emotional support''}'
+      required: false
+    - id: 4
+      name: intimacy_boundaries
+      label: Intimacy Boundaries
+      hint: What are your boundaries regarding intimacy?
+      type: select_multiple
+      options:
+      - '{''label'': ''No boundaries''}'
+      - '{''label'': ''Some boundaries''}'
+      - '{''label'': ''Physical boundaries (e.g. no kissing, no touching)''}'
+      - '{''label'': ''Emotional boundaries (e.g. no talking about feelings, no emotional
+        support)''}'
+      required: false
+    - id: 5
+      name: boundaries_reasons
+      label: Intimacy Boundary Reasons
+      hint: Please describe your boundaries and why they are important for you.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship_expectations
+      label: Relationship Expectations
+      hint: What do you expect from your partner in terms of the relationship?
+      type: select_multiple
+      options:
+      - '{''label'': ''Emotional support''}'
+      - '{''label'': ''Financial support''}'
+      - '{''label'': ''Physical support''}'
+      - '{''label'': ''Intellectual support''}'
+      required: false
+    - id: 7
+      name: communication_style
+      label: Communication Style
+      hint: How do you like to communicate with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Open and direct''}'
+      - '{''label'': ''Indirect and sensitive''}'
+      - '{''label'': ''Avoiding conflict''}'
+      - '{''label'': ''Not very important''}'
+      required: false
+    - id: 8
+      name: communication_channels
+      label: Communication Channels
+      hint: What methods of communication do you prefer to use with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Text message''}'
+      - '{''label'': ''In-person conversation''}'
+      - '{''label'': ''Video call''}'
+      - '{''label'': ''Social media''}'
+      required: false
+    - id: 9
+      name: emotional_expression
+      label: Emotional Expression
+      hint: How do you like to express your emotions with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Openly''}'
+      - '{''label'': ''Indirectly''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Not very important''}'
+      required: false
+    - id: 10
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: How do you like to resolve conflicts with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Directly''}'
+      - '{''label'': ''Indirectly''}'
+      - '{''label'': ''Avoiding''}'
+      - '{''label'': ''Not very important''}'
+      required: false
+    - id: 11
+      name: emotional_support
+      label: Emotional Support
+      hint: How do you expect your partner to support you emotionally?
+      type: select_multiple
+      options:
+      - '{''label'': ''Constantly''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Not very important''}'
+      required: false
+    - id: 12
+      name: intimacy_expectations_important
+      label: Intimacy Expectations Important
+      hint: How important is it for you to have the things you expect from your partner?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: intimacy_expectations_frequency
+      label: Intimacy Expectations Frequency
+      hint: How often do you expect these expectations from your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 14
+      name: intimacy_boundaries_important
+      label: Intimacy Boundaries Important
+      hint: How important are your intimacy boundaries?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: intimacy_boundaries_frequency
+      label: Intimacy Boundaries Frequency
+      hint: How often do you enforce your intimacy boundaries?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 16
+      name: review_frequency
+      label: Review Frequency
+      hint: How often do you review your intimacy expectations and boundaries with
+        your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 17
+      name: review_style
+      label: Review Style
+      hint: How do you like to review your intimacy expectations and boundaries with
+        your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Directly''}'
+      - '{''label'': ''Indirectly''}'
+      - '{''label'': ''Avoiding''}'
+      - '{''label'': ''Not very important''}'
+      required: false
+    - id: 18
+      name: relationship_status_update
+      label: Relationship Status Update
+      hint: How often do you update your relationship status with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 19
+      name: intimacy_expectations_update
+      label: Intimacy Expectations Update
+      hint: How often do you update your intimacy expectations with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 20
+      name: boundaries_update
+      label: Boundaries Update
+      hint: How often do you update your intimacy boundaries with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 21
+      name: relationship_expectations_update
+      label: Relationship Expectations Update
+      hint: How often do you update your relationship expectations with your partner?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: Is there anything else you'd like to add or any additional comments?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: relationship_expectations_important
+      label: Relationship Expectations Important
+      hint: How important are your relationship expectations?
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: boundaries_important
+      label: Boundaries Important
+      hint: How important are your intimacy boundaries?
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: score
+      label: Score
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      - '{''label'': 6}'
+      - '{''label'': 7}'
+      - '{''label'': 8}'
+      - '{''label'': 9}'
+      - '{''label'': 10}'
+      required: false

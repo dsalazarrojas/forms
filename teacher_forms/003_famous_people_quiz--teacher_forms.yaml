@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: famous_people_quiz
+    pages:
+    - id: 1
+      name: quiz_form
+      label: quiz_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: occupation_others
+      label: other_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: occupation_others_other
+      label: other_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: period
+      label: period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: period_others
+      label: other_period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fields
+      label: fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fields_others
+      label: other_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fields_others_other
+      label: other_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fields_others_other_other
+      label: other_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

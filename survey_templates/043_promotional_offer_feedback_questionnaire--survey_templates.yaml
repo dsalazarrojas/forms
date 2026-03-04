@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotional Offer Feedback Questionnaire
+    pages:
+    - id: 1
+      name: page_1
+      label: What did you think about the offer
+      hint: Tell us about your experience
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Was it what you expected
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Very
+      required: true
+    - id: 3
+      name: page_3
+      label: Why did you choose this option
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: How did you like the design
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Did you have any issues with the process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page_6
+      label: How did you feel about the price
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Do you have any recommendations
+      hint: Tell us about your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Would you recommend this offer to a friend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Styling And Fitting Information Form
+    pages:
+    - id: 1
+      name: personal_style_form_1
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: clients_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: clients_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: clients_phones
+      label: clients_phones
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Landline
+      - Work
+      required: false
+    - id: 5
+      name: client_address
+      label: clients_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: clients_city
+      label: clients_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clients_state
+      label: clients_state
+      hint: null
+      type: select_one
+      options:
+      - NSW
+      - QLD
+      - VIC
+      - Other
+      required: false
+    - id: 8
+      name: clients_postcode
+      label: clients_postcode
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: clients_postcode_area
+      label: clients_postcode_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: measurement_info
+      label: measurement_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: style_info
+      label: style_info
+      hint: null
+      type: text
+      options: []
+      required: false

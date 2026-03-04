@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pickup Truck Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      required: false
+    - id: 6
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: drive_train
+      label: Drive Train
+      hint: null
+      type: select_one
+      options:
+      - Front Wheel Drive
+      - Rear Wheel Drive
+      - 4-wheel Drive
+      required: false
+    - id: 8
+      name: suspension_system
+      label: Suspension System
+      hint: null
+      type: select_multiple
+      options:
+      - Hydrolic
+      - Semi-Electric
+      - Hydraulic
+      required: false
+    - id: 9
+      name: brakes_system
+      label: Brakes System
+      hint: null
+      type: select_multiple
+      options:
+      - Power Brakes
+      - Drum Brakes
+      - Disc Brakes
+      required: false
+    - id: 10
+      name: steering_system
+      label: Steering System
+      hint: null
+      type: select_one
+      options:
+      - Rack & Pinion
+      - Recirculating
+      - Power
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: ISP Sampling Survey
+    pages:
+    - id: 1
+      name: isp_name
+      label: ISP name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sampling_interest
+      label: Sampling interest
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 4
+      name: current_isp
+      label: Current ISP
+      hint: null
+      type: select_one
+      options:
+      - AT&T
+      - Comcast
+      - Spectrum
+      - Other
+      - No current ISP
+      required: false
+    - id: 5
+      name: why_other_isp
+      label: Why other ISP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: why_not_other_isp
+      label: Why not other ISP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: isp_satisfaction
+      label: ISP satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: would_trial
+      label: Would you try
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: why_trial
+      label: Why try or not
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: isp_service_level
+      label: Service Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: isp_speed
+      label: Internet speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: isp_security
+      label: ISP security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: isp_support
+      label: ISP support
+      hint: null
+      type: text
+      options: []
+      required: false

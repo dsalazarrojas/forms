@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lyft Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: vehicle-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_status
+      label: vehicle-status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Bad''}'
+      required: true
+    - id: 3
+      name: vehicle_maintenance
+      label: vehicle-maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Fair''}'
+      - '{''id'': 3, ''value'': ''Bad''}'
+      required: true
+    - id: 4
+      name: vehicle_condition
+      label: vehicle-condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Bad''}'
+      required: true
+    - id: 5
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: vehicle-model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_color
+      label: vehicle-color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year_made
+      label: vehicle-year-made
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_license
+      label: vehicle-license
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_status_memo
+      label: vehicle-status-memo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_photo_url
+      label: vehicle-photo-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_condition
+      label: vehicle-condition-2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Bad''}'
+      required: true
+    - id: 14
+      name: vehicle_mileage
+      label: vehicle-mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_engine_number
+      label: vehicle-engine-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_vin
+      label: vehicle-vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_year_purchased
+      label: vehicle-year-purchased
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_last_inspection
+      label: vehicle-last-inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_status_notes
+      label: vehicle-status-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_status_notes_photo
+      label: vehicle-status-notes-photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_status_notes_photo_url
+      label: vehicle-status-notes-photo-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_status_notes_video_url
+      label: vehicle-status-notes-video-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_status_notes_audio_url
+      label: vehicle-status-notes-audio-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_status_notes_file_url
+      label: vehicle-status-notes-file-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_status_notes_comments
+      label: vehicle-status-notes-comments
+      hint: null
+      type: text
+      options: []
+      required: false

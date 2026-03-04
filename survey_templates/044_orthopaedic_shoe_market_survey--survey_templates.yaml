@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orthopaedic Shoe Market Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_1_title
+      label: what_do_you_buy_for_purpose
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: page_1_question_1
+      label: which_shoe_type_are_you_most_likely_to_buy
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 4
+      name: page_1_question_2
+      label: average_number_of_times_you_ve_bought_orthopaedic_shoes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: page_2
+      label: survey_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_2_question_1
+      label: what_do_you_prefer_in_terms_of_shoe_style
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: page_2_question_2
+      label: what_is_your_current_shoe_size
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: page_2_question_3
+      label: have_you_previously_purchased_from_us
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 9
+      name: page_2_question_4
+      label: average_amount_you_spent_on_orthopaedic_shoes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: page_3
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Sitter Feedback Form
+    pages:
+    - id: 1
+      name: pet_sitter_feedback_form_1
+      label: How likely are you to recommend the pet sitter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pet_sitter_rating
+      label: Overall rating of the pet sitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Unacceptable''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: service_quality_1
+      label: How satisfied are you with the service quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 5
+      name: communication_1
+      label: How would you rate the communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Unacceptable''}'
+      required: false
+    - id: 6
+      name: availability
+      label: How would you rate the availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Almost always available''}'
+      - '{''label'': ''Sometimes available''}'
+      - '{''label'': ''Rarely available''}'
+      required: false
+    - id: 7
+      name: availability_1
+      label: How would you rate the communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Almost always available''}'
+      - '{''label'': ''Sometimes available''}'
+      - '{''label'': ''Rarely available''}'
+      required: false
+    - id: 8
+      name: availability_2
+      label: How responsive is the sitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always responsive''}'
+      - '{''label'': ''Often responsive''}'
+      - '{''label'': ''Occasionally responsive''}'
+      - '{''label'': ''Rarely responsive''}'
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Unacceptable''}'
+      required: false
+    - id: 10
+      name: communication_2
+      label: How responsive is the pet sitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 11
+      name: availability_3
+      label: How available is the pet sitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always available''}'
+      - '{''label'': ''Often available''}'
+      - '{''label'': ''Sometimes available''}'
+      - '{''label'': ''Rarely available''}'
+      required: false
+    - id: 12
+      name: availability_4
+      label: How responsive is the sitter available
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      required: false

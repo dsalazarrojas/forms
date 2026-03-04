@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Experience Feedback
+    pages:
+    - id: 1
+      name: experience
+      label: What was your experience today
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: What rating would you give today
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: comment
+      label: What did you like or dislike about today
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

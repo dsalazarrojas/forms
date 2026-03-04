@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Compliance Verification Form
+    pages:
+    - id: 1
+      name: school_compliance_verification_form
+      label: school-compliance-verification-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: student-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_last_attended
+      label: date-last-attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: email-address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_status
+      label: student-status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 9
+      name: staff_member
+      label: staff-member
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 10
+      name: parent_name
+      label: parent-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_relationship
+      label: parent-relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: signature-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: school_administrator
+      label: school-administrator
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 15
+      name: school_administrator_title
+      label: school-administrator-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_department
+      label: school-department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_administrator_signature_date
+      label: school-administrator-signature-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: school_administrator_signature
+      label: school-administrator-signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: parent_signature_date
+      label: parent-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: parent_signature
+      label: parent-signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: staff_signature_date
+      label: staff-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: staff_signature
+      label: staff-signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: student_signature_date
+      label: student-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: student_signature
+      label: student-signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_signature_date
+      label: review-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false

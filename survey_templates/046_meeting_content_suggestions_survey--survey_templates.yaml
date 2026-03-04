@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Content Suggestions Survey
+    pages:
+    - id: 1
+      name: meeting_content_suggestions_survey_name
+      label: Meeting Content Suggestions Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_content_suggestions_survey_description
+      label: Description
+      hint: Briefly describe the content suggestions
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_content_suggestions_survey_category
+      label: Category
+      hint: Select a category for your meeting content suggestions
+      type: select_one
+      options:
+      - Meeting Content
+      - Meeting Agenda
+      - Meeting Minutes
+      required: false
+    - id: 4
+      name: meeting_content_suggestions_survey_tags
+      label: Tags
+      hint: Add relevant tags for your meeting content suggestions
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_content_suggestions_survey_comments
+      label: Comments
+      hint: Add additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_content_suggestions_survey_suggestions
+      label: Suggestions
+      hint: Suggest new content or ideas
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_content_suggestions_survey_rating
+      label: Rate this suggestion
+      hint: Rate your satisfaction with this suggestion
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meeting_content_suggestions_survey_rating_comments
+      label: Why did you rate this?
+      hint: null
+      type: text
+      options: []
+      required: false

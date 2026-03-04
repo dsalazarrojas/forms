@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Booking Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: course_hours
+      label: Course Hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_availability
+      label: Teacher Availability
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 12
+      name: teacher_experience
+      label: Teacher Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: courses
+      label: Courses
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Data Science
+      - Web Development
+      required: true
+    - id: 14
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Beginners
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 15
+      name: student_interest
+      label: Student Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Data Science
+      - Web Development
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Experience Request Form
+    pages:
+    - id: 1
+      name: delivery_experience
+      label: Delivery Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_delivery
+      label: Date of Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_team_member
+      label: Delivery Team Member
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Jim''}'
+      required: false
+    - id: 4
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

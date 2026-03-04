@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Content Recommendation Consent Form
+    pages:
+    - id: 1
+      name: consent_form_header
+      label: '--- AI Content Recommendation Consent ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send you personalized content recommendations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 5
+      name: consent_agreement
+      label: Do you consent to receive personalized content recommendations based
+        on your preferences and usage data?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 6
+      name: data_usage_consent
+      label: I agree that my usage data may be analyzed to improve recommendation
+        accuracy
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 7
+      name: content_categories
+      label: Which content categories interest you? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - News & Current Events
+      - Technology
+      - Entertainment
+      - Health & Wellness
+      - Finance
+      - Sports
+      - Travel
+      - Education
+      - Business
+      - Science
+      required: false
+    - id: 8
+      name: recommendation_frequency
+      label: How often would you like to receive recommendations?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: privacy_policy_acknowledged
+      label: Have you read and understood our privacy policy?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have read and understood
+      - No, I have not read
+      required: true
+    - id: 10
+      name: data_sharing_consent
+      label: I consent to sharing anonymized usage data with trusted partners to enhance
+        content discovery
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - Do not consent
+      required: true
+    - id: 11
+      name: account_creation_date
+      label: Account creation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notification_preference
+      label: Preferred notification method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mobile push notifications
+      - Both
+      - None
+      required: true
+    - id: 13
+      name: consent_timestamp
+      label: Consent given at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: marketing_communication_consent
+      label: I agree to receive marketing communications related to recommended content
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: data_retention_period
+      label: How long should we retain your preference data?
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - Indefinitely
+      - Until I withdraw consent
+      required: true
+    - id: 16
+      name: withdrawal_method
+      label: How would you prefer to withdraw consent in the future?
+      hint: null
+      type: select_one
+      options:
+      - Via email
+      - Through app settings
+      - Via website portal
+      - Any of the above
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments or concerns about data usage
+      hint: Feel free to share any specific preferences or concerns
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_acceptance
+      label: I accept the terms and conditions governing AI content recommendations
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Do not accept
+      required: true
+    - id: 19
+      name: signature
+      label: Electronic signature
+      hint: Typing your name serves as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: consent_version
+      label: Consent form version
+      hint: This helps us track updates to our policies
+      type: text
+      options: []
+      required: false

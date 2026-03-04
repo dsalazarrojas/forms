@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Cruise Participation Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: headcount
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_preferences
+      label: Date Preferences
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cabin_preferences
+      label: Cabin Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''4-person cabin''}'
+      - '{''label'': ''3-person cabin''}'
+      - '{''label'': ''2-person cabin''}'
+      - '{''label'': ''1-person cabin''}'
+      required: false
+    - id: 5
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair''}'
+      - '{''label'': ''Walker''}'
+      - '{''label'': ''Medical Condition''}'
+      required: false
+    - id: 6
+      name: cabin_type
+      label: Cabin Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Balcony''}'
+      - '{''label'': ''Balcony Suite''}'
+      - '{''label'': ''Non-smoking''}'
+      required: false
+    - id: 7
+      name: cabin_location
+      label: Cabin Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Starboard''}'
+      - '{''label'': ''Center Deck''}'
+      - '{''label'': ''Aft Deck''}'
+      required: false
+    - id: 8
+      name: family_info
+      label: Family Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

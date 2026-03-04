@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Integrity Form
+    pages:
+    - id: 1
+      name: integrity_header
+      label: -- Academic Integrity Notice --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of student involved
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student id
+      hint: Institutional identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_date
+      label: Date of incident
+      hint: Date when alleged incident occurred
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: description_of_incident
+      label: Description of incident
+      hint: Provide factual account of events
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evidence_provided
+      label: Evidence provided
+      hint: List documents or witnesses
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_action
+      label: Recommended action
+      hint: Suggested disciplinary or remedial actions
+      type: select_one
+      options:
+        - Warning
+        - Probation
+        - Suspension
+        - Dismissal
+        - Other
+      required: false
+    - id: 8
+      name: reporter_name
+      label: Name of reporter
+      hint: Person completing this form
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporter_contact
+      label: Reporter contact email
+      hint: For follow up questions
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date submitted
+      hint: Date of form submission
+      type: date
+      options: []
+      required: true

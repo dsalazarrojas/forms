@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Book Recommendations
+    pages:
+    - id: 1
+      name: book_title
+      label: What is the title of the book?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_rating
+      label: What is your rating of the book?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: genre
+      label: What genre is the book in?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: reasons
+      label: Why do you like this book?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: book_genre1
+      label: Fiction
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: book_genre2
+      label: Non-Fiction
+      hint: null
+      type: select_one
+      options:
+      - option3
+      - option4
+      required: true
+    - id: 11
+      name: book_genre3
+      label: Romance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: book_genre4
+      label: Mystery
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: book_genre5
+      label: Science
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: book_genre6
+      label: Fantasy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: book_genre7
+      label: Horror
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: book_genre8
+      label: Historical
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: book_genre9
+      label: Sci-fi
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: contact_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: book_cover
+      label: Book cover URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: book_author
+      label: Book author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: book_publisher
+      label: Book publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: book_published
+      label: Book published
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: book_year
+      label: Book year
+      hint: null
+      type: number
+      options: []
+      required: false

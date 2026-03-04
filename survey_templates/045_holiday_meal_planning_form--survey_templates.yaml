@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Meal Planning Form
+    pages:
+    - id: 1
+      name: main_page
+      label: What is your preferred holiday meal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_preferences
+      label: What kind of food do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Pie
+      - Ham
+      - Mashed Potatoes
+      - Roasted Turkey
+      - Stuffing
+      - Cranberry Sauce
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten-Free
+      - Lactose-Free
+      - Nut-Free
+      - Vegetarian
+      - Vegan
+      required: false
+    - id: 4
+      name: guest_counts
+      label: How many guests are you planning to invite?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

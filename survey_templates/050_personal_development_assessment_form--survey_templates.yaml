@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Development Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_company
+      label: job_company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Company A''}'
+      - '{''id'': 2, ''name'': ''Company B''}'
+      - '{''id'': 3, ''name'': ''Company C''}'
+      required: true
+    - id: 7
+      name: years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: salary_range
+      label: salary_range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Less than $50,000''}'
+      - '{''id'': 2, ''name'': ''$50,000-$74,999''}'
+      - '{''id'': 3, ''name'': ''$75,000-$99,999''}'
+      - '{''id'': 4, ''name'': ''$100,000 or more''}'
+      required: true
+    - id: 9
+      name: areas_of_growth
+      label: areas_of_growth
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Leadership''}'
+      - '{''id'': 2, ''name'': ''Adaptability''}'
+      - '{''id'': 3, ''name'': ''Communication''}'
+      required: true
+    - id: 10
+      name: coaching_focus
+      label: coaching_focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: coaching_status
+      label: coaching_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Started''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Completed''}'
+      required: true
+    - id: 19
+      name: coaching_frequency
+      label: coaching_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Never''}'
+      - '{''id'': 2, ''name'': ''Monthly''}'
+      - '{''id'': 3, ''name'': ''Quarterly''}'
+      - '{''id'': 4, ''name'': ''Bi-Annual''}'
+      - '{''id'': 5, ''name'': ''Annual''}'
+      required: true
+    - id: 20
+      name: coaching_location
+      label: coaching_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online''}'
+      - '{''id'': 2, ''name'': ''In-person''}'
+      required: true
+    - id: 21
+      name: coaching_method
+      label: coaching_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Video call''}'
+      - '{''id'': 3, ''name'': ''In-person''}'
+      required: true
+    - id: 22
+      name: coaching_outcome
+      label: coaching_outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Improved''}'
+      - '{''id'': 2, ''name'': ''Maintained''}'
+      - '{''id'': 3, ''name'': ''Declined''}'
+      required: true
+    - id: 23
+      name: assessment_by
+      label: assessment_by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Self''}'
+      - '{''id'': 2, ''name'': ''Manager''}'
+      - '{''id'': 3, ''name'': ''HR''}'
+      required: true
+    - id: 24
+      name: assessment_type
+      label: assessment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Development''}'
+      - '{''id'': 2, ''name'': ''Growth''}'
+      required: true
+    - id: 25
+      name: follow_up_contact
+      label: follow_up_contact
+      hint: null
+      type: text
+      options: []
+      required: false

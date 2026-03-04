@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Feedback Form
+    pages:
+    - id: 1
+      name: patient_feedback_form
+      label: What was your overall experience with the clinic?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_interaction
+      label: How would you rate the interaction with our staff?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: clinic_environment
+      label: How would you rate the cleanliness of our clinic?
+      hint: null
+      type: select_one
+      options:
+      - Cleanliness of the clinic is good
+      - Cleanliness of the clinic is average
+      - Cleanliness of the clinic is poor
+      required: false
+    - id: 4
+      name: patient_clinic_relationship
+      label: How would you rate your relationship with the clinic staff?
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Average
+      - Poor
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with the clinic?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Do you have any additional comments about your visit?
+      hint: null
+      type: note
+      options: []
+      required: false

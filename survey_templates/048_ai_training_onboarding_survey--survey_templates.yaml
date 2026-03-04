@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Training Onboarding Survey
+    pages:
+    - id: 1
+      name: --learner_profile--
+      label: -- Learner Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: learner_name
+      label: Learner name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prior_experience
+      label: Prior experience with AI
+      hint: Select one
+      type: select_one
+      options:
+      - None
+      - Some practical experience
+      - Completed courses
+      - Professional experience
+      required: true
+    - id: 4
+      name: learning_goals
+      label: Learning goals for this training
+      hint: Select up to three
+      type: select_multiple
+      options:
+      - Understand fundamentals
+      - Apply to job tasks
+      - Certification preparation
+      - Project development
+      required: true
+    - id: 5
+      name: preferred_learning_format
+      label: Preferred learning format
+      hint: Select one
+      type: select_one
+      options:
+      - Live instructor led
+      - Self paced online
+      - Hybrid
+      - Cohort based
+      required: true
+    - id: 6
+      name: availability
+      label: Preferred availability windows
+      hint: Days and times you are available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technology_ready
+      label: Technology readiness
+      hint: Do you have access to required tools
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Need assistance
+      required: true
+    - id: 9
+      name: expectations
+      label: Expectations from the training
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

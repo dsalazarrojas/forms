@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Injury Attorney Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_of_last_treatment
+      label: Date of Last Treatment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: location_of_injury
+      label: Location of Injury
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: description_of_injury
+      label: Description of Injury
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attorney_name
+      label: Name of Attorney
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attorney_phone
+      label: Phone of Attorney
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attorney_email
+      label: Email of Attorney
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Aetna'', ''label'': ''Aetna''}'
+      - '{''value'': ''Blue Cross'', ''label'': ''Blue Cross''}'
+      - '{''value'': ''Blue Shield'', ''label'': ''Blue Shield''}'
+      - '{''value'': ''Cigna'', ''label'': ''Cigna''}'
+      - '{''value'': ''Humana'', ''label'': ''Humana''}'
+      - '{''value'': ''None'', ''label'': ''None''}'
+      - '{''value'': ''UnitedHealth'', ''label'': ''UnitedHealth''}'
+      required: true
+    - id: 13
+      name: insurance_provider_other
+      label: Other Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: injury_type
+      label: Type of Injury
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Car Accident'', ''label'': ''Car Accident''}'
+      - '{''value'': ''Slip and Fall'', ''label'': ''Slip and Fall''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 16
+      name: medical_bills
+      label: Medical Bills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 17
+      name: medical_reports
+      label: Medical Reports
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 18
+      name: police_report
+      label: Police Report
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 19
+      name: hospitalization
+      label: Hospitalization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 20
+      name: lost_wages
+      label: Lost Wages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 21
+      name: emotional_disturbance
+      label: Emotional Disturbance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 22
+      name: physical_disturbance
+      label: Physical Disturbance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 23
+      name: property_damage
+      label: Property Damage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 24
+      name: vehicle
+      label: Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 25
+      name: other_injuries
+      label: Other Injuries
+      hint: null
+      type: text
+      options: []
+      required: false

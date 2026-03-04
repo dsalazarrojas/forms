@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Booking Form
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_selection
+      label: Select Facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: school_booking_form_id
+      label: School Booking Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

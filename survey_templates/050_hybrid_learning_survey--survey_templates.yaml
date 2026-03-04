@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Learning Survey
+    pages:
+    - id: 1
+      name: user_input_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: learning_style
+      hint: null
+      type: select_one
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      required: false
+    - id: 5
+      name: user_input_5
+      label: learning_level
+      hint: null
+      type: select_multiple
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      required: false
+    - id: 6
+      name: date_taken
+      label: date_taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: user_comment
+      label: user_comment
+      hint: null
+      type: note
+      options: []
+      required: false

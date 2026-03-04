@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language School Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_grade_level
+      label: School grade level
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 7
+      name: school_program_of_interest
+      label: School program of interest
+      hint: null
+      type: select_multiple
+      options:
+      - Language Program A
+      - Language Program B
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: school_program_other_specify
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: language_skills
+      label: Language skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: language_level
+      label: Language level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 11
+      name: available_languages
+      label: Available languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: false
+    - id: 12
+      name: preferred_language
+      label: Preferred language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: false
+    - id: 13
+      name: language_interest
+      label: Language interest
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Writing
+      - Listening
+      - Speaking
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_of_arrival
+      label: Date of arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_of_departure
+      label: Date of departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: language_schools_attended
+      label: Language schools attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_language_school
+      label: Current language school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_attending
+      label: Reason for attending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: teacher_recommendation
+      label: Teacher recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: parent_signature
+      label: Parent signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_signature
+      label: Student signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_name
+      label: Parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: parent_phone
+      label: Parent phone
+      hint: null
+      type: text
+      options: []
+      required: false

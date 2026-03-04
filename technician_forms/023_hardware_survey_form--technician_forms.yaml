@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: hardware_survey_form
+    pages:
+    - id: 1
+      name: hardware_survey
+      label: Hardware Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - MS Windows
+      - Linux
+      - Mac OS
+      required: false
+    - id: 3
+      name: processor_type
+      label: Processor Type
+      hint: null
+      type: select_one
+      options:
+      - i3
+      - i5
+      - i7
+      required: false
+    - id: 4
+      name: computer_age
+      label: Computer Age
+      hint: How old is the computer?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: operating_system_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: processor_version
+      label: Processor Version
+      hint: null
+      type: select_one
+      options:
+      - i3 10th Gen
+      - i5 10th Gen
+      - i7 10th Gen
+      required: false
+    - id: 7
+      name: motherboard_type
+      label: Motherboard Type
+      hint: null
+      type: select_one
+      options:
+      - Intel
+      - AMD
+      - NVIDIA
+      required: false
+    - id: 8
+      name: monitor_size
+      label: Monitor Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: monitor_resolution
+      label: Monitor Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: computer_model
+      label: Computer Model
+      hint: null
+      type: text
+      options: []
+      required: false

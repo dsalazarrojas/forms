@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Course Feedback Poll
+    pages:
+    - id: 1
+      name: course_title
+      label: How was the course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_rating
+      label: What was your overall course rating?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: instructor_name
+      label: What is your instructor's name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: instructor_rating
+      label: How would you rate your instructor?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: course_content
+      label: How was the course content relevant to you?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very relevant''}'
+      - '{2: ''Somewhat relevant''}'
+      - '{3: ''Not very relevant''}'
+      - '{4: ''Not at all relevant''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: Do you have any additional feedback?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_date
+      label: What date did you take the course?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: course_time
+      label: What time did you take the course?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: course_location
+      label: Where did you take the course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: course_length
+      label: How long was the course?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: course_satisfaction
+      label: How satisfied were you with the course overall?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: course_enjoyment
+      label: How enjoyable was the course?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: course_improvement_area
+      label: What areas of improvement for the course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: course_repetition
+      label: How often would you like to repeat the course?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very often''}'
+      - '{2: ''Somewhat often''}'
+      - '{3: ''Not very often''}'
+      - '{4: ''Never''}'
+      required: true
+    - id: 17
+      name: course_recommendation
+      label: Would you recommend this course?
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      - '{3: ''Undecided''}'
+      required: true
+    - id: 18
+      name: course_rating_again
+      label: How would you rate this course again?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: course_recommended_by
+      label: How did you hear about this course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: course_previous_courses
+      label: Have you taken previous courses with us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 21
+      name: course_next_courses
+      label: Will you take more courses with us in the future?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 22
+      name: course_other_comments
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: course_additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_likert_index
+      label: Likert Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: course_likert_scale
+      label: Likert Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: course_likert_label
+      label: Likert Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: course_likert_description
+      label: Likert Description
+      hint: null
+      type: text
+      options: []
+      required: false

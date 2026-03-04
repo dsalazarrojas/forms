@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Student Evaluation Form
+    pages:
+    - id: 1
+      name: student_full_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_age
+      label: Student Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_contact_phone
+      label: Parent Contact Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_email
+      label: Parent Email Address
+      hint: For progress reports and communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: class_level
+      label: Current Class Level
+      hint: Student's current ballet level
+      type: select_one
+      options:
+      - Pre-Ballet (Ages 3-5)
+      - Beginning Ballet (Ages 6-8)
+      - Intermediate Ballet (Ages 9-12)
+      - Advanced Ballet (Ages 13+)
+      - Pointe Work
+      - Pre-Professional
+      required: true
+    - id: 8
+      name: years_of_training
+      label: Years of Ballet Training
+      hint: How long has the student been training
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: technique_rating
+      label: Technique Rating
+      hint: Overall technical proficiency
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: posture_alignment
+      label: Posture and Alignment
+      hint: Body positioning and form
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: flexibility
+      label: Flexibility
+      hint: Range of motion and stretching ability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: musicality
+      label: Musicality
+      hint: Rhythm and timing with music
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: artistry_expression
+      label: Artistry and Expression
+      hint: Emotional connection and performance quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 14
+      name: turnout
+      label: Turnout
+      hint: External rotation of legs from hips
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 15
+      name: jumps_allegro
+      label: Jumps and Allegro
+      hint: Jumping technique and elevation
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      - Not Yet Assessed
+      required: true
+    - id: 16
+      name: pirouettes_turns
+      label: Pirouettes and Turns
+      hint: Turning technique and balance
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      - Not Yet Assessed
+      required: true
+    - id: 17
+      name: attendance_rate
+      label: Attendance Rate
+      hint: Class participation consistency
+      type: select_one
+      options:
+      - Excellent (90-100%)
+      - Very Good (80-89%)
+      - Good (70-79%)
+      - Fair (60-69%)
+      - Poor (Below 60%)
+      required: true
+    - id: 18
+      name: attitude_effort
+      label: Attitude and Effort
+      hint: Work ethic and classroom behavior
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Needs Improvement
+      required: true
+    - id: 19
+      name: strengths
+      label: Student Strengths
+      hint: Areas where the student excels
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Skills that need development
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: teacher_recommendations
+      label: Teacher Recommendations
+      hint: Suggestions for continued growth
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: ready_for_advancement
+      label: Ready for Level Advancement
+      hint: Should the student move to the next level
+      type: select_one
+      options:
+      - Yes, Ready Now
+      - Ready Next Semester
+      - Needs More Time
+      - Not Recommended
+      required: true
+    - id: 23
+      name: performance_readiness
+      label: Performance Readiness
+      hint: Is the student ready for recital or competition
+      type: select_one
+      options:
+      - Ready for Solo
+      - Ready for Ensemble
+      - Needs More Preparation
+      - Not Ready
+      required: true
+    - id: 24
+      name: evaluation_period
+      label: Evaluation Period
+      hint: Term or semester being evaluated
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Intensive
+      - Full Year
+      required: true
+    - id: 25
+      name: teacher_name
+      label: Teacher Name
+      hint: Instructor completing this evaluation
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or notes
+      type: text
+      options: []
+      required: false

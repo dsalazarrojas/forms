@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Survey
+    pages:
+    - id: 1
+      name: page1
+      label: page1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: presentation_title
+      label: Presentation Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Excellent
+      - Fair
+      - Poor
+      - Undecided
+      required: false
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page2
+      label: page2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question1
+      label: Question 1
+      hint: What do you think about the presentation?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question2
+      label: Question 2
+      hint: What do you think about the slides?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question3
+      label: Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

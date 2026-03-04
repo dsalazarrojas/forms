@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Aide Conduct Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_conduct
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: teacher_aide_conduct
+      label: Teacher Aide Conduct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: area_for_improvement
+      label: Areas For Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false

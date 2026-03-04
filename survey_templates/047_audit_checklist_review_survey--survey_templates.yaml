@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Checklist Review Survey
+    pages:
+    - id: 1
+      name: section_reviewer
+      label: -- Reviewer and Audit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audit_title
+      label: Audit Title/Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: checklist_version
+      label: Checklist Name/Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_evaluation
+      label: -- Checklist Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ease_of_use
+      label: Ease of Use of the Checklist
+      hint: Was it easy to navigate and complete?
+      type: select_one
+      options:
+      - Extremely Easy
+      - Easy
+      - Neutral
+      - Difficult
+      required: true
+    - id: 7
+      name: clarity_of_items
+      label: Clarity of Checklist Items/Questions
+      hint: Were the items easy to understand?
+      type: select_one
+      options:
+      - Very Clear
+      - Mostly Clear
+      - Somewhat Ambiguous
+      - Unclear
+      required: true
+    - id: 8
+      name: time_to_complete
+      label: Approximate time spent using this checklist (Hours)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: relevance_of_items
+      label: Are all items in the checklist relevant?
+      hint: null
+      type: select_one
+      options:
+      - All Relevant
+      - Mostly Relevant
+      - Many Irrelevant Items
+      required: true
+    - id: 10
+      name: comprehensive_rating
+      label: Was the checklist comprehensive?
+      hint: Did it cover all necessary audit points?
+      type: select_one
+      options:
+      - Yes, very thorough
+      - Mostly, but missed minor points
+      - No, significant gaps
+      required: true
+    - id: 11
+      name: section_feedback
+      label: -- Improvement and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: missing_items
+      label: What items or sections should be added?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confusing_items
+      label: Which items were most confusing or difficult to verify?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_rating
+      label: Overall Rating of the Audit Checklist
+      hint: null
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 15
+      name: review_date
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true

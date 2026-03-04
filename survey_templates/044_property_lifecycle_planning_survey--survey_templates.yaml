@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Lifecycle Planning Survey
+    pages:
+    - id: 1
+      name: property_type
+      label: What type of property
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
+    - id: 2
+      name: purchase_option
+      label: How do you plan to use the property
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Buy
+      - Sell
+      required: true
+    - id: 3
+      name: property_location
+      label: What location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_age
+      label: How old is the property
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: property_size
+      label: How large is the property
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: property_condition
+      label: What condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Old
+      - Used
+      required: true
+    - id: 7
+      name: property_value
+      label: What is the value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: property_use
+      label: What use
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
+    - id: 9
+      name: property_status
+      label: What status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 10
+      name: property_features
+      label: What features
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_needs
+      label: What needs
+      hint: null
+      type: select_multiple
+      options:
+      - Renovation
+      - Remodeling
+      - Update
+      required: true
+    - id: 12
+      name: property_preferences
+      label: What preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_planning
+      label: What planning
+      hint: null
+      type: select_multiple
+      options:
+      - Planning
+      - Design
+      - Construction
+      required: true
+    - id: 14
+      name: property_insurance
+      label: What insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Property
+      - Liability
+      - Comprehensive
+      required: true
+    - id: 15
+      name: property_maintenance
+      label: What maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Occasional
+      - Special
+      required: true
+    - id: 16
+      name: property_parking
+      label: What parking
+      hint: null
+      type: select_multiple
+      options:
+      - Free
+      - Paid
+      - Private
+      required: true
+    - id: 17
+      name: property_access
+      label: What access
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Limited
+      required: true
+    - id: 18
+      name: property_facilities
+      label: What facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Premium
+      required: true
+    - id: 19
+      name: property_equipment
+      label: What equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - High-end
+      required: true
+    - id: 20
+      name: property_utilities
+      label: What utilities
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - High-end
+      required: true
+    - id: 21
+      name: property_security
+      label: What security
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - High-end
+      required: true
+    - id: 22
+      name: property_amenity
+      label: What amenity
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - High-end
+      required: false
+    - id: 23
+      name: property_environment
+      label: What environment
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: true
+    - id: 24
+      name: property_history
+      label: What history
+      hint: null
+      type: select_multiple
+      options:
+      - Old
+      - New
+      - Renovated
+      required: false
+    - id: 25
+      name: property_other
+      label: Is there anything else?
+      hint: null
+      type: text
+      options: []
+      required: false

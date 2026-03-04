@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Peer Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: peer_name
+      label: Peer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: peer_attendance
+      label: Peer Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      - '{''value'': 3, ''label'': ''Sometimes''}'
+      - '{''value'': 4, ''label'': ''Unable to determine''}'
+      required: true
+    - id: 4
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: peer_comments
+      label: Peer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: peer_comments_2
+      label: Peer Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating_scale
+      label: Overall Rating Scale
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: true
+    - id: 10
+      name: peer_rating
+      label: Peer Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      - '{''value'': 6, ''label'': 6}'
+      - '{''value'': 7, ''label'': 7}'
+      - '{''value'': 8, ''label'': 8}'
+      - '{''value'': 9, ''label'': 9}'
+      - '{''value'': 10, ''label'': 10}'
+      required: true
+    - id: 11
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comments_2
+      label: Teacher Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false

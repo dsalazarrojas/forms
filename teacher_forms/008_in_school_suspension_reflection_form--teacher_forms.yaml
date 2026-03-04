@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: In School Suspension Reflection Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Grade K
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 7
+      name: teacher_comment
+      label: Teacher Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspension_duration
+      label: Suspension Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: suspension_date
+      label: Suspension Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: student_suspension_reflection
+      label: Student Suspension Reflection
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Listener Survey
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_one
+      label: question_one
+      hint: What do you think about our podcast?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_two
+      label: question_two
+      hint: How likely are you to recommend our podcast to a friend?
+      type: select_one
+      options:
+      - '{''label'': ''very_likely''}'
+      - '{''label'': ''somewhat_likely''}'
+      - '{''label'': ''not_likely''}'
+      required: true
+    - id: 7
+      name: question_three
+      label: question_three
+      hint: What would you like to hear more of in our podcast?
+      type: select_multiple
+      options:
+      - '{''label'': ''news''}'
+      - '{''label'': ''stories''}'
+      - '{''label'': ''interviews''}'
+      - '{''label'': ''other''}'
+      required: true
+    - id: 8
+      name: question_four
+      label: question_four
+      hint: What format would you prefer for our podcast? (e.g. video, audio, written,
+        etc.)
+      type: select_one
+      options:
+      - '{''label'': ''video''}'
+      - '{''label'': ''audio''}'
+      - '{''label'': ''written''}'
+      required: true
+    - id: 9
+      name: question_five
+      label: question_five
+      hint: Is there anything that would make our podcast more enjoyable for you?
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_six
+      label: question_six
+      hint: Do you listen to our podcast on more than one device?
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 11
+      name: question_seven
+      label: question_seven
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: name_of_device
+      label: name_of_device
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''mobile_phone''}'
+      - '{''label'': ''laptop''}'
+      - '{''label'': ''tablet''}'
+      - '{''label'': ''desktop''}'
+      required: true
+    - id: 13
+      name: frequency_of_use
+      label: frequency_of_use
+      hint: How often do you listen to our podcast?
+      type: select_one
+      options:
+      - '{''label'': ''rarely''}'
+      - '{''label'': ''occasionally''}'
+      - '{''label'': ''often''}'
+      - '{''label'': ''very_often''}'
+      required: true
+    - id: 14
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: how_long
+      label: how_long
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: name_of_podcast
+      label: name_of_podcast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: name_of_host
+      label: name_of_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: name_of_co_host
+      label: name_of_co_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: name_of_engineer
+      label: name_of_engineer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: name_of_producer
+      label: name_of_producer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: name_of_editor
+      label: name_of_editor
+      hint: null
+      type: text
+      options: []
+      required: false

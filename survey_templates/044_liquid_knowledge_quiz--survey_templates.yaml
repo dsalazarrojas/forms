@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liquid Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Liquid Knowledge Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_type
+      label: Which type of question would you like to use?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''True/False''}'
+      - '{''text'': ''Multiple Choice''}'
+      - '{''text'': ''Multiple Select''}'
+      required: false
+    - id: 3
+      name: quiz_type
+      label: What type of quiz?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''True/False''}'
+      - '{''text'': ''Survey''}'
+      - '{''text'': ''Quizlet''}'
+      required: false
+    - id: 4
+      name: number_of_questions
+      label: How many questions would you like to include?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_text
+      label: Question text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: correct_answer
+      label: Correct answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: answer_options
+      label: Answer options
+      hint: Separate each option with a comma
+      type: select_multiple
+      options:
+      - '{''text'': ''A''}'
+      - '{''text'': ''B''}'
+      - '{''text'': ''C''}'
+      - '{''text'': ''D''}'
+      - '{''text'': ''E''}'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

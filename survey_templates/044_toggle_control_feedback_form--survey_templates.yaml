@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toggle Control Feedback Form
+    pages:
+    - id: 1
+      name: toggle_control_rating
+      label: How would you rate this toggle control?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: bugs_found
+      label: Have you found any bugs?
+      hint: null
+      type: select_multiple
+      options:
+      - Bug in the toggle control
+      - Bug in the surrounding UI
+      - No bugs
+      required: false
+    - id: 3
+      name: feedback
+      label: What would you like to improve in this toggle control?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: device
+      label: Which device were you using when experiencing this issue?
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop
+      - Mobile
+      - Tablet
+      - Other
+      required: false
+    - id: 5
+      name: platform
+      label: What platform were you using when experiencing this issue?
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - macOS
+      - iOS
+      - Android
+      - Other
+      required: false
+    - id: 6
+      name: browser
+      label: What browser were you using when experiencing this issue?
+      hint: null
+      type: select_multiple
+      options:
+      - Google Chrome
+      - Mozilla Firefox
+      - Safari
+      - Other
+      required: false
+    - id: 7
+      name: steps
+      label: Walk me through the steps to reproduce the issue
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: expected_result
+      label: What did you expect to see when you interacted with the toggle control?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: actual_result
+      label: What did you actually see when you interacted with the toggle control?
+      hint: null
+      type: note
+      options: []
+      required: false

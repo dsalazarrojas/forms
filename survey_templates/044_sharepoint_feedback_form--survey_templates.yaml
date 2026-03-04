@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: sharepoint_feedback_form
+    pages:
+    - id: 1
+      name: question_1
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question_2
+      label: what_is_your_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_3
+      label: which_sharepoint_features_do_you_use
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: feedback
+      label: sharepoint_features_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comment
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_4
+      label: what_do_you_suggest_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: question_5
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question_6
+      label: how_did_you_hear_about_sharepoint
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 11
+      name: question_7
+      label: other_sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_8
+      label: additional_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: question_9
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: question_10
+      label: have_you_attended_sharepoint_training
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 16
+      name: question_11
+      label: have_you_read_sharepoint_blogs
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 17
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

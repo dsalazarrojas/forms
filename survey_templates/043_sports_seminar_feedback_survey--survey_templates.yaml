@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Seminar Feedback Survey
+    pages:
+    - id: 1
+      name: seminar_sports_feedback
+      label: Sports Seminar Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seminar_attended_training
+      label: Have you attended the seminar?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_seminar
+      label: Emacs Seminar
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: seminar_topics
+      label: Which topics were covered in the seminar?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: seminar_presentation
+      label: How clear were the seminar topics presented?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: seminar_presentation_venue
+      label: Seminar presentation venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seminar_speaker
+      label: Who was the seminar speaker?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seminar_date
+      label: Seminar date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: seminar_time
+      label: Seminar time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: seminar_duration
+      label: Seminar duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: seminar_location
+      label: Seminar location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seminar_notes
+      label: Additional notes
+      hint: null
+      type: text
+      options: []
+      required: false

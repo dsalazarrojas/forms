@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_viewer_preference_report_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: viewer_type
+      label: viewer_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''viewer_type_1''}'
+      - '{''id'': 2, ''label'': ''viewer_type_2''}'
+      - '{''id'': 3, ''label'': ''viewer_type_3''}'
+      required: true
+    - id: 3
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''age_group_1''}'
+      - '{''id'': 2, ''label'': ''age_group_2''}'
+      - '{''id'': 3, ''label'': ''age_group_3''}'
+      - '{''id'': 4, ''label'': ''age_group_4''}'
+      - '{''id'': 5, ''label'': ''age_group_5''}'
+      - '{''id'': 6, ''label'': ''age_group_6''}'
+      required: true
+    - id: 4
+      name: viewing_frequency
+      label: viewing_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: favorite_feature
+      label: favorite_feature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''favorite_feature_1''}'
+      - '{''id'': 2, ''label'': ''favorite_feature_2''}'
+      - '{''id'': 3, ''label'': ''favorite_feature_3''}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_contact_info
+      label: other_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

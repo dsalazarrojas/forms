@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: sunday_school_teacher_evaluation_form
+    pages:
+    - id: 1
+      name: sunday_school_teacher
+      label: Sunday School Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lesson_effectiveness
+      label: Lesson Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: teacher_availability
+      label: Teacher Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: class_size
+      label: Class Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 5
+      name: teaching_style
+      label: Teaching Style
+      hint: null
+      type: select_multiple
+      options:
+      - Conventional
+      - Innovative
+      - Interactive
+      required: false
+    - id: 6
+      name: lesson_length
+      label: Lesson Length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: overall_impression
+      label: Overall Impression
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: teacher_materials
+      label: Teacher Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Adequate
+      - Good
+      - Excellent
+      required: false

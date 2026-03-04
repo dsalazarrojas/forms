@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Consumption Benchmark Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_manager_email
+      label: Facility Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: energy_consumption_data
+      label: Energy Consumption Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: energy_source
+      label: Energy Source
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: energy_type
+      label: Energy Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: building_manager
+      label: Building Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: building_size
+      label: Building Size
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: benchmark_date
+      label: Benchmark Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: benchmark_time
+      label: Benchmark Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: benchmark_duration
+      label: Benchmark Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: building_id
+      label: Building ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: energy_units
+      label: Energy Units
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 23
+      name: energy_consumption_rate
+      label: Energy Consumption Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: energy_consultant
+      label: Energy Consultant
+      hint: null
+      type: text
+      options: []
+      required: false

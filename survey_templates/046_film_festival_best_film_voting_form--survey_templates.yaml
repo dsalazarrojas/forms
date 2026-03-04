@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Festival Best Film Voting Form
+    pages:
+    - id: 1
+      name: best_film
+      label: Best Film
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Romance
+      required: true
+    - id: 2
+      name: audience_feedback
+      label: Audience Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: film_title
+      label: Film Title
+      hint: Enter film title
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: film_year
+      label: Year Released
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: film_director
+      label: Film Director
+      hint: Enter film director
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: film_length
+      label: Film Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: film_rating
+      label: Film Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Recommended
+      - Good
+      - Average
+      - Bad
+      required: true
+    - id: 8
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: user_phone
+      label: User Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

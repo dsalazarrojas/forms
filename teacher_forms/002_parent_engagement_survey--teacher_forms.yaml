@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: parent_engagement_survey
+    pages:
+    - id: 1
+      name: parent_engagement_survey_page_1
+      label: what_is_your_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_contact_info
+      label: what_is_your_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: how_do_you_wish_to_receive_news
+      label: how_do_you_wish_to_receive_news
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text
+      - Phone
+      - None
+      required: true
+    - id: 5
+      name: best_method_of_communication
+      label: what_is_your_best_method_of_communication
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text
+      - Phone
+      - In-person
+      required: false
+    - id: 6
+      name: parent_involvement
+      label: parent_involvement
+      hint: null
+      type: select_one
+      options:
+      - Very involved
+      - Somewhat involved
+      - Not involved
+      required: true
+    - id: 7
+      name: frequency_of_communication
+      label: frequency_of_communication
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true

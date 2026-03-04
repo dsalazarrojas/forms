@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Survey Form
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: respondent_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: respondent_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: respondent_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: respondent_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65 and older
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: voter_registration
+      label: Are you a registered voter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: party_affiliation
+      label: Party Affiliation
+      hint: null
+      type: select_one
+      options:
+      - Democratic
+      - Republican
+      - Independent
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 13
+      name: section_candidate_issues
+      label: -- Candidate and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: candidate_familiarity
+      label: How familiar are you with our candidate
+      hint: null
+      type: select_one
+      options:
+      - Very Familiar
+      - Somewhat Familiar
+      - Not Very Familiar
+      - Not Familiar at All
+      required: true
+    - id: 15
+      name: candidate_support
+      label: Would you support our candidate in the upcoming election
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Undecided
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 16
+      name: important_issues
+      label: Which issues are most important to you
+      hint: null
+      type: select_multiple
+      options:
+      - Economy
+      - Healthcare
+      - Education
+      - Environment
+      - Public Safety
+      - Taxes
+      - Jobs
+      - Other
+      required: false
+    - id: 17
+      name: candidate_position_agreement
+      label: Do you agree with the candidate's position on key issues
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 18
+      name: section_concerns
+      label: -- Concerns and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_concerns
+      label: What are your main concerns about current leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: solutions_important
+      label: What solutions are most important to you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_engagement
+      label: -- Campaign Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_interest
+      label: Are you interested in volunteering for the campaign
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 23
+      name: likely_to_vote
+      label: How likely are you to vote in the next election
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Undecided
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 24
+      name: friend_persuade
+      label: Would you persuade friends and family to support our candidate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

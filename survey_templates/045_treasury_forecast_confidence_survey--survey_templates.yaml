@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: treasury_forecast_confidence_survey
+    pages:
+    - id: 1
+      name: first_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions_1
+      label: what_is_your_current_cfo_confidence_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: questions_1_1
+      label: very_confident
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_confident''}'
+      - '{''label'': ''somewhat_confident''}'
+      - '{''label'': ''not_confident''}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 4
+      name: questions_1_2
+      label: what_is_the_main_reason_for_your_current_cfo_confidence_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''accurate_forecast''}'
+      - '{''label'': ''inaccurate_forecast''}'
+      - '{''label'': ''uncertain_forecast''}'
+      - '{''label'': ''other''}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 5
+      name: questions_2
+      label: which_of_the_following_are_your_top_3_risks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''liquidity_management''}'
+      - '{''label'': ''cashflow''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 6
+      name: questions_3
+      label: what_improvement_ideas_do_you_have
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: questions_3_1
+      label: idea_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: questions_3_2
+      label: idea_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: questions_4
+      label: do_you_have_another_idea
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: questions_4_1
+      label: additional_idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_page
+      label: thank_you
+      hint: null
+      type: note
+      options: []
+      required: false

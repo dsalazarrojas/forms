@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Questionnaire Submission Form
+    pages:
+    - id: 1
+      name: survey_submission_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_submission_page_2
+      label: Additional Pages
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: Enter your contact details
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question2
+      label: Do you have any questions or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: What can we improve?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: question4
+      label: Which option do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: question5
+      label: Can we contact you?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: question6
+      label: How soon can we contact you?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question7
+      label: Do you have any other questions or concerns?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: question8
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question9
+      label: Do you have any other questions?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: question10
+      label: Do we have any other questions?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

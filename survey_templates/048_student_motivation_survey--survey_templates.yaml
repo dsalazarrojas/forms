@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: student_motivation_survey--survey_templates
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_type
+      label: What motivates you?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''I am motivated by a sense of purpose and meaning''}'
+      - '{''option2'': ''I am motivated by a desire for financial gain''}'
+      - '{''option3'': ''I am motivated by a desire for personal growth and development''}'
+      - '{''option4'': ''I am motivated by a desire for social recognition''}'
+      - '{''option5'': ''I am motivated by a desire for fun''}'
+      required: false
+    - id: 3
+      name: strength
+      label: Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Leadership skills''}'
+      - '{''option2'': ''Creativity skills''}'
+      - '{''option3'': ''Analytical skills''}'
+      - '{''option4'': ''Problem-solving skills''}'
+      - '{''option5'': ''Communication skills''}'
+      required: false
+    - id: 4
+      name: weakness
+      label: Weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Procrastination''}'
+      - '{''option2'': ''Distractions''}'
+      - '{''option3'': ''Self-doubt''}'
+      - '{''option4'': ''Time-management''}'
+      - '{''option5'': ''Lack of focus''}'
+      required: false
+    - id: 5
+      name: need
+      label: Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Guidance''}'
+      - '{''option2'': ''Support''}'
+      - '{''option3'': ''Resources''}'
+      - '{''option4'': ''Feedback''}'
+      - '{''option5'': ''Recognition''}'
+      required: false
+    - id: 6
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question1
+      label: Do you have a goal that you are currently working towards?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Yes, I am working towards a specific goal''}'
+      - '{''option2'': ''No, I do not have a goal''}'
+      required: false
+    - id: 8
+      name: question2
+      label: Do you have any obstacles that are preventing you from achieving this
+        goal?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Lack of motivation''}'
+      - '{''option2'': ''Limited resources''}'
+      - '{''option3'': ''Lack of time''}'
+      - '{''option4'': ''External factors''}'
+      - '{''option5'': ''Internal factors''}'
+      required: false
+    - id: 9
+      name: question3
+      label: What would you do to overcome these obstacles?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Develop a plan''}'
+      - '{''option2'': ''Seek help and support''}'
+      - '{''option3'': ''Change my behavior''}'
+      - '{''option4'': ''Practice self-reflection''}'
+      - '{''option5'': ''Seek out new opportunities''}'
+      required: false
+    - id: 10
+      name: question4
+      label: Do you have a plan for achieving your goal?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Yes, I have a clear plan''}'
+      - '{''option2'': ''No, I do not have a plan''}'
+      required: false
+    - id: 11
+      name: question5
+      label: Who would you seek help from if you were unable to achieve your goal?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Teacher''}'
+      - '{''option2'': ''Parent''}'
+      - '{''option3'': ''Peer''}'
+      - '{''option4'': ''Counselor''}'
+      - '{''option5'': ''Self''}'
+      required: false
+    - id: 12
+      name: question6
+      label: What would you do if you were unable to achieve your goal?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Re-evaluate my goals''}'
+      - '{''option2'': ''Seek help and support''}'
+      - '{''option3'': ''Change my approach''}'
+      - '{''option4'': ''Set a new goal''}'
+      - '{''option5'': ''Give up on the goal''}'
+      required: false

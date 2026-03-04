@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Campaign Outcome Report Form
+    pages:
+    - id: 1
+      name: campaign_performance
+      label: Campaign Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_feedback
+      label: Donor Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: outcome_impact
+      label: Outcome Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: outcome_measures
+      label: Outcome Measures
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: campaign_budget
+      label: Campaign Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: target_amount
+      label: Target Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: actual_amount
+      label: Actual Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donor_survey
+      label: Donor Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donor_survey_2
+      label: Donor Survey 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_survey_3
+      label: Donor Survey 3
+      hint: null
+      type: text
+      options: []
+      required: false

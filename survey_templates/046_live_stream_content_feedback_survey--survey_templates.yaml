@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Stream Content Feedback Survey
+    pages:
+    - id: 1
+      name: broadcast_date
+      label: What date was the broadcast?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: broadcast_time
+      label: What time was the broadcast?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: content_type
+      label: Type of content?
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 4
+      name: content_satisfaction
+      label: How satisfied were you with the content?
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Unsatisfied
+      - Neither
+      required: false
+    - id: 5
+      name: viewer_satisfaction
+      label: How would you rate your overall satisfaction with the live stream?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: What would you like to see more of in future live streams?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

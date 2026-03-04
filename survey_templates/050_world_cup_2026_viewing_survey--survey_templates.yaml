@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: world_cup_2026_viewing_survey
+    pages:
+    - id: 1
+      name: intro
+      label: How many matches will you watch
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: match_1_plan
+      label: What are your plans for Match 1?
+      hint: null
+      type: select_multiple
+      options:
+      - Watching alone
+      - Watching with friends
+      - Watching with family
+      - Watching with others
+      required: false
+    - id: 3
+      name: excitement_level_1
+      label: On a scale of 0 to 10 how excited are you about Match 1?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: match_2_plan
+      label: What are your plans for Match 2?
+      hint: null
+      type: select_one
+      options:
+      - Watching alone
+      - Watching with friends
+      - Watching with family
+      - Watching with others
+      required: false
+    - id: 5
+      name: excitement_level_2
+      label: On a scale of 0 to 10 how excited are you about Match 2?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: match_3_plan
+      label: What are your plans for Match 3?
+      hint: null
+      type: select_multiple
+      options:
+      - Watching alone
+      - Watching with friends
+      - Watching with family
+      - Watching with others
+      required: false
+    - id: 7
+      name: excitement_level_3
+      label: On a scale of 0 to 10 how excited are you about Match 3?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_player
+      label: Who is your favorite player?
+      hint: null
+      type: select_one
+      options:
+      - Messi
+      - Ronaldo
+      - Other
+      required: false
+    - id: 9
+      name: favorite_team
+      label: Who is your favorite team?
+      hint: null
+      type: select_one
+      options:
+      - Argentina
+      - Brazil
+      - Other
+      required: false
+    - id: 10
+      name: overall_excitement
+      label: On a scale of 0 to 10 how excited are you about the World Cup?
+      hint: null
+      type: number
+      options: []
+      required: false

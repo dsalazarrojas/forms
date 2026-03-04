@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debt Review Cancellation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: select_reason
+      label: Select Reason
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: select_reason_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_cancellation_other
+      label: Reason for Cancellation (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_enrollment
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: select_date_format
+      label: Date Format
+      hint: null
+      type: select_one
+      options:
+      - month/day/year
+      - month/year
+      - year
+      required: false
+    - id: 9
+      name: select_date_format_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_details_additional
+      label: Additional Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_cancellation
+      label: Confirm Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: select_agency
+      label: Select Agency
+      hint: null
+      type: select_one
+      options:
+      - agency1
+      - agency2
+      - agency3
+      required: false
+    - id: 19
+      name: agency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agency_other_details
+      label: Agency (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_id
+      label: Review ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_denial
+      label: Reason for Denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reason_for_denial_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reason_for_denial_other_reason
+      label: Reason for Denial (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm_denial
+      label: Confirm Denial
+      hint: null
+      type: text
+      options: []
+      required: false

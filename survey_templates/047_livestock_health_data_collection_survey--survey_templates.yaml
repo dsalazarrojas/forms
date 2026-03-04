@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Health Data Collection Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: farm_name
+      label: farm name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_location
+      label: farm location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: farm_size
+      label: farm size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: herd_type
+      label: herd type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: health_status
+      label: health status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: disease_management
+      label: disease management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_administered
+      label: treatment administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_history
+      label: vaccination history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: veterinary_care
+      label: veterinary care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: biosecurity
+      label: biosecurity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: farm_practices
+      label: farm practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: animal_species
+      label: animal species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: animal_breed
+      label: animal breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: age_range
+      label: age range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: health_status_animal
+      label: health status animal
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: mortality_rate
+      label: mortality rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: farm_operated_by
+      label: farm operated by
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 19
+      name: farm_operated_since
+      label: farm operated since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: farm_operated_by_type
+      label: farm operated by type
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 21
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: contact_email
+      label: contact email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: farm_location_coordinates
+      label: farm location coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: farm_location_description
+      label: farm location description
+      hint: null
+      type: text
+      options: []
+      required: false

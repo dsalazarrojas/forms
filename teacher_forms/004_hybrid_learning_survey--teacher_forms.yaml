@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Learning Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hybrid_learning
+      label: What is your experience with hybrid learning?
+      hint: null
+      type: select_multiple
+      options:
+      - I am not sure
+      - Somewhat familiar
+      - Very familiar
+      required: true
+    - id: 3
+      name: feedback
+      label: What do you think about hybrid learning?
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: true
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions about hybrid learning?
+      hint: We value your input!
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Participation Grade Reporting Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_id
+      label: team id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sport_name
+      label: sport name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sport_type
+      label: sport type
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      required: false
+    - id: 5
+      name: season
+      label: season
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participation_points
+      label: participation points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participation_grade
+      label: participation grade
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Technique Assessment
+    pages:
+    - id: 1
+      name: participant_details_section
+      label: '--- Participant Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proficiency_level
+      label: Current AI Proficiency Level
+      hint: Self-assess your current knowledge.
+      type: select_one
+      options:
+      - Expert (Research/Architect level)
+      - Advanced (Active Developer)
+      - Intermediate (Knowledgeable but limited practice)
+      - Beginner (Learning the basics)
+      - None (No prior exposure)
+      required: true
+    - id: 4
+      name: knowledge_assessment_section
+      label: '--- Knowledge Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: familiar_techniques
+      label: Which AI techniques are you familiar with?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Supervised Learning (Regression, Classification)
+      - Unsupervised Learning (Clustering, PCA)
+      - Reinforcement Learning
+      - Deep Learning (Neural Networks)
+      - Natural Language Processing (NLP)
+      - Computer Vision
+      - Generative AI / Large Language Models
+      required: true
+    - id: 6
+      name: most_challenging_technique
+      label: Which technique do you find most challenging?
+      hint: Select the one that requires the most study for you.
+      type: select_one
+      options:
+      - Supervised Learning
+      - Unsupervised Learning
+      - Reinforcement Learning
+      - Deep Learning
+      - NLP
+      - Computer Vision
+      - Generative AI
+      required: true
+    - id: 7
+      name: practical_application_section
+      label: '--- Practical Application ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: production_experience
+      label: Have you implemented an AI model in a production environment?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: tools_frameworks_used
+      label: Tools & Frameworks you have used
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - PyTorch
+      - TensorFlow / Keras
+      - Scikit-learn
+      - HuggingFace Transformers
+      - OpenAI / Anthropic APIs
+      - LangChain / LlamaIndex
+      - Pandas / NumPy
+      required: false
+    - id: 10
+      name: project_description
+      label: Describe a specific AI project or experiment you have worked on.
+      hint: If none, write "N/A".
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_feedback_section
+      label: '--- Workshop/Training Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assessment_relevance
+      label: How relevant was this assessment to your learning goals?
+      hint: (1 = Irrelevant, 5 = Highly Relevant)
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: question_clarity
+      label: Clarity of the technical topics/questions provided
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Neutral
+      - Confusing
+      - Very Confusing
+      required: true
+    - id: 14
+      name: future_depth_topics
+      label: Topics you would like to cover in more depth
+      hint: Select up to 3 topics.
+      type: select_multiple
+      options:
+      - Advanced LLM Architectures
+      - Prompt Engineering & RAG
+      - Model Deployment & MLOps
+      - Data Preprocessing & Feature Engineering
+      - AI Ethics, Bias & Governance
+      - Reinforcement Learning from Human Feedback (RLHF)
+      required: false
+    - id: 15
+      name: self_evaluation_section
+      label: '--- Self-Evaluation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: neural_network_score
+      label: Self-rated score on understanding Neural Networks (0-100)
+      hint: 0 = No idea, 100 = Can explain backpropagation from scratch.
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: transformer_score
+      label: Self-rated score on understanding Transformer architecture (0-100)
+      hint: 0 = No idea, 100 = Expert on Attention mechanisms.
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: primary_learning_goal
+      label: What is your primary goal for learning AI techniques?
+      hint: e.g., Career shift, project automation, research.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: request_training_materials
+      label: Would you like to receive advanced training materials?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: contact_email
+      label: Email Address
+      hint: For materials delivery and future updates.
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Histology Techniques Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technique_1
+      label: Microscopy
+      hint: null
+      type: select_multiple
+      options:
+      - Microtome
+      - Histology
+      - Scanning
+      - Transmission
+      required: false
+    - id: 3
+      name: technique_2
+      label: Microtome
+      hint: null
+      type: select_multiple
+      options:
+      - Microtome
+      - Cryo
+      - Histology
+      - Sectioning
+      required: true
+    - id: 4
+      name: technique_3
+      label: Histology
+      hint: null
+      type: select_multiple
+      options:
+      - Histology
+      - Sectioning
+      - Embedding
+      required: true
+    - id: 5
+      name: technique_4
+      label: Scanning
+      hint: null
+      type: select_multiple
+      options:
+      - Scanning
+      - Transmission
+      - Confocal
+      required: true
+    - id: 6
+      name: technique_5
+      label: Transmission
+      hint: null
+      type: select_multiple
+      options:
+      - Transmission
+      - Confocal
+      - Electron
+      required: true
+    - id: 7
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_days
+      label: Training Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_years
+      label: Training Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_months
+      label: Training Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_weeks
+      label: Training Weeks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_weeks
+      label: Training Weeks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_days_total
+      label: Training Days Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: training_hours_total
+      label: Training Hours Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: training_years_total
+      label: Training Years Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: training_months_total
+      label: Training Months Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: training_weeks_total
+      label: Training Weeks Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: experience_years
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: experience_months
+      label: Months of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: experience_weeks
+      label: Weeks of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: experience_days
+      label: Days of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: experience_hours
+      label: Hours of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: technique_6
+      label: Other Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Microscope
+      - Histology
+      - Scanning
+      - Confocal
+      - Transmission
+      - Electron
+      - Other Techniques
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comments 1
+      - Comments 2
+      - Comments 3
+      - Other
+      required: true
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Submission 1
+      - Submission 2
+      - Submission 3
+      - Submission 4
+      required: true

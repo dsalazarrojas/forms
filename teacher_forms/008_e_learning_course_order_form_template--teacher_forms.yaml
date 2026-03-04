@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Learning Course Order Form Template
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_price
+      label: Course Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: course_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Instructor
+      - Admin
+      required: true
+    - id: 13
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

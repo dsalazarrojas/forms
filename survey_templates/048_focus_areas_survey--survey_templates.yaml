@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: focus_areas_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: focus_areas
+      label: focus_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question1
+      label: focus_areas_what_is_a_focus_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: focus_areas_what_are_your_focus_areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question3
+      label: focus_areas_what_focus_areas_are_most_important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 6
+      name: question4
+      label: focus_areas_what_focus_areas_would_you_prioritize
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

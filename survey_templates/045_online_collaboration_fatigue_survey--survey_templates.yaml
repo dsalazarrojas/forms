@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Collaboration Fatigue Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Virtual Meeting Fatigue Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: virtual_meeting_frequency
+      label: How often do you have virtual meetings?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Several times a month
+      - Rarely
+      required: false
+    - id: 3
+      name: meeting_duration
+      label: What is the length of your virtual meetings in minutes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: meeting_quality
+      label: How would you rate the quality of your virtual meetings?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: collaboration_fatigue
+      label: How often do you experience collaboration fatigue during virtual meetings?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 6
+      name: productivity_impact
+      label: How does virtual meeting fatigue impact your productivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_level
+      label: How does collaboration fatigue impact your satisfaction level during
+        virtual meetings?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_frequency
+      label: How often do you submit virtual meeting minutes?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 9
+      name: submission_method
+      label: What method do you use to submit virtual meeting minutes?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Cloud-based platform
+      - Collaboration software
+      - Other
+      required: false
+    - id: 10
+      name: collaboration_satisfaction
+      label: How satisfied are you with virtual meetings?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false

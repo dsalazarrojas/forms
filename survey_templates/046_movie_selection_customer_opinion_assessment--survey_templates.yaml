@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Selection Customer Opinion Assessment
+    pages:
+    - id: 1
+      name: film_title
+      label: Select a Film
+      hint: null
+      type: select_one
+      options:
+      - The Shawshank Redemption
+      - The Godfather
+      - The Dark Knight
+      - '{''The Lord of the Rings'': ''The Return of the King''}'
+      - Pulp Fiction
+      - The Silence of the Lambs
+      - Schindler's List
+      - The Pianist
+      - The Bridge on the River Kwai
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate this film?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 3
+      name: genre
+      label: What genre do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Romance
+      required: false
+    - id: 4
+      name: watched
+      label: Have you ever watched this film?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: favorite
+      label: Is this a favorite film?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: time_watched
+      label: How much time did you spend watching this film?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_watched_date
+      label: On what date did you watch this film?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_watched_time
+      label: At what time did you watch this film?
+      hint: null
+      type: time
+      options: []
+      required: false

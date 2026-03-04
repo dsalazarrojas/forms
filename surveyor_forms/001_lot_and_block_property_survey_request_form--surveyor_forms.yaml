@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lot And Block Property Survey Request Form
+    pages:
+    - id: 1
+      name: lot_and_block_property_survey_request_form
+      label: lot and block property survey request form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: surveyor_name
+      label: surveyor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Lot
+      - Block
+      - Mixed
+      required: true
+    - id: 7
+      name: property_size
+      label: property size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_information
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_status
+      label: request status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Completed
+      - Cancelled
+      required: true
+    - id: 10
+      name: schedule_date
+      label: schedule date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: scheduled_by
+      label: scheduled by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: surveyor_phone
+      label: surveyor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: schedule_time
+      label: schedule time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_company
+      label: submitter company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_position
+      label: submitter position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_notes
+      label: submitter notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_address
+      label: submitter address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_zip
+      label: submitter zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_city
+      label: submitter city
+      hint: null
+      type: text
+      options: []
+      required: false

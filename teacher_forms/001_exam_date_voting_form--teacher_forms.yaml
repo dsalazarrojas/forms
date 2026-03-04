@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Date Voting Form
+    pages:
+    - id: 1
+      name: exam_date_voting_form_page
+      label: Exam Date Voting Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exam_date_voting_form_page_2
+      label: Date of Next Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exam_date_voting_form_page_3
+      label: Student Response
+      hint: null
+      type: text
+      options: []
+      required: false

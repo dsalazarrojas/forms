@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Teaching Practices Awareness Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sustainable_practices_question
+      label: Sustainability Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: barriers_to_adoption_question
+      label: Barriers to Adoption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_practices_question
+      label: Current Practices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Label 1''}'
+      - '{''label'': ''Label 2''}'
+      - '{''label'': ''Label 3''}'
+      - '{''label'': ''Label 4''}'
+      - '{''label'': ''Label 5''}'
+      required: false
+    - id: 5
+      name: future_adoption_question
+      label: Future Adoption
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Label 1''}'
+      - '{''label'': ''Label 2''}'
+      - '{''label'': ''Label 3''}'
+      - '{''label'': ''Label 4''}'
+      required: false
+    - id: 6
+      name: email_question
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_question
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_question
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_question
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

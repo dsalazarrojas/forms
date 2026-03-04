@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Platform Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: course_enrollment
+      label: courseenrollment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_enrollment_type
+      label: courseenrollmenttype
+      hint: What type of course do you want to enroll in?
+      type: select_one
+      options:
+      - Online Course
+      - Self-paced
+      - Instructor-led
+      required: false
+    - id: 4
+      name: course_enrollment_frequency
+      label: courseenrollmentfrequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple Times
+      - Ongoing
+      required: true
+    - id: 5
+      name: course_enrollment_time
+      label: courseenrollmenttime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: course_enrollment_start_date
+      label: courseenrollmentstartdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: course_enrollment_end_date
+      label: courseenrollmentenddate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: course_enrollment_hours
+      label: courseenrollmenthours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: course_enrollment_minutes
+      label: courseenrollmentminutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: course_enrollment_days
+      label: courseenrollmentdays
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: course_enrollment_what_do_you_want
+      label: courseenrollmentwhatdoyouwant
+      hint: null
+      type: select_one
+      options:
+      - To enroll
+      - To take a tour
+      - Not to enroll
+      required: false
+    - id: 12
+      name: course_enrollment_what_next_step
+      label: courseenrollmentwhatnextstep
+      hint: null
+      type: select_one
+      options:
+      - Enroll
+      - Contact
+      - Not interested
+      required: false
+    - id: 13
+      name: course_enrollment_comments
+      label: courseenrollmentcomments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_enrollment_additional_comments
+      label: courseenrollmentadditionalcomments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_enrollment_what_do_you_prefer
+      label: courseenrollmentwhatdoyouprefer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: course_enrollment_what_next_steps
+      label: courseenrollmentwhatnextsteps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: course_enrollment_why_dont_enroll
+      label: courseenrollmentwhydontenroll
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: course_enrollment_why_dont_enroll_other
+      label: courseenrollmentwhydontenrollother
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: course_enrollment_dont_enroll_reason
+      label: courseenrollmentdontenrollreason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: course_enrollment_dont_enroll_other_reason
+      label: courseenrollmentdontenrollotherreason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_enrollment_dont_enroll_other_reasons
+      label: courseenrollmentdontenrollotherreasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: course_enrollment_what_prefer
+      label: courseenrollmentwhatprefer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: course_enrollment_what_prefer_other
+      label: courseenrollmentwhatpreferother
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_enrollment_what_prefer_other_details
+      label: courseenrollmentwhatpreferotherdetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: course_enrollment_submit
+      label: courseenrollmentsubmit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 26
+      name: user_feedback
+      label: userfeedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: user_rating
+      label: userrating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: user_comments
+      label: usercomments
+      hint: null
+      type: text
+      options: []
+      required: false

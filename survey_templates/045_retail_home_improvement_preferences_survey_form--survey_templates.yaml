@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Home Improvement Preferences Survey Form
+    pages:
+    - id: 1
+      name: shopping_habits
+      label: Shopping Habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_products
+      label: Satisfaction With Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvement_preferences
+      label: Improvement Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Improvement of Kitchen
+      - Improvement of Bathroom
+      - Improvement of Bedroom
+      - Improvement of Living Room
+      - Improvement of Outdoor Space
+      - Improvement of Other
+      required: false
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shopping_frequency
+      label: Shopping Frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5 or more times a week
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: home_improvement_goals
+      label: Home Improvement Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_insights
+      label: Customer Insights
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: demographics
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 12
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: income
+      label: Income
+      hint: null
+      type: select_one
+      options:
+      - Below $25,000
+      - $25,000-$50,000
+      - $50,000-$100,000
+      - $100,000+
+      required: false
+    - id: 14
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false

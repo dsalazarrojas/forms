@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: franchise_tax_extension_form
+    pages:
+    - id: 1
+      name: taxpayer_information
+      label: Taxpayer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: null
+      type: select_one
+      options:
+      - Small Entity
+      - Large Entity
+      required: false
+    - id: 4
+      name: entity_name
+      label: Entity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: franchise_tax_filing_date
+      label: Franchise Tax Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: franchise_tax_return_due_date
+      label: Franchise Tax Return Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: extension_request_date
+      label: Extension Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: requested_filing_date
+      label: Requested Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

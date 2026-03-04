@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Training Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: input_table_1
+      label: Input Table 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: input_table_2
+      label: Input Table 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: long_text_1
+      label: Long Text 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: single_choice_1
+      label: Single Choice 1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Choice 1'', ''value'': 1}'
+      - '{''label'': ''Choice 2'', ''value'': 2}'
+      - '{''label'': ''Choice 3'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: single_choice_2
+      label: Single Choice 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: long_text_2
+      label: Long Text 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

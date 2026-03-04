@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stress Management Monitoring Form
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stress_levels
+      label: stress_levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: emotional_states
+      label: emotional_states
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: triggers
+      label: triggers
+      hint: null
+      type: select_multiple
+      options:
+      - Work
+      - Personal
+      - Financial
+      required: false
+    - id: 5
+      name: stressors
+      label: stressors
+      hint: null
+      type: select_multiple
+      options:
+      - Work
+      - Family
+      - Health
+      required: false
+    - id: 6
+      name: coping_mechanisms
+      label: coping_mechanisms
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Meditation
+      - Journaling
+      required: false
+    - id: 7
+      name: support_systems
+      label: support_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Family
+      - Therapist
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Wellness Professional
+      - Client
+      required: false
+    - id: 10
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false

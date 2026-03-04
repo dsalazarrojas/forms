@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Placement Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_grade_level
+      label: Current Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Student Email
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Student Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: academic_header
+      label: -- Academic Assessment and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reading_level
+      label: Reading Level Assessment
+      hint: null
+      type: select_one
+      options:
+      - Below grade level
+      - At grade level
+      - Above grade level
+      - Advanced
+      - Needs assessment
+      required: true
+    - id: 13
+      name: math_level
+      label: Math Level Assessment
+      hint: null
+      type: select_one
+      options:
+      - Below grade level
+      - At grade level
+      - Above grade level
+      - Advanced
+      - Needs assessment
+      required: true
+    - id: 14
+      name: recent_test_scores
+      label: Recent Standardized Test Scores
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gpa
+      label: Current GPA or Grade Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: strengths_header
+      label: -- Student Strengths and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: academic_strengths
+      label: Academic Strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: academic_challenges
+      label: Academic Challenges or Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: learning_style
+      label: Learning Style Preference
+      hint: Visual, auditory, kinesthetic
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_needs_header
+      label: -- Special Needs and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: special_education
+      label: Currently in Special Education Program
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Under evaluation
+      required: true
+    - id: 22
+      name: iep_plan
+      label: Has IEP (Individualized Education Plan)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In development
+      required: false
+    - id: 23
+      name: accommodations
+      label: Required Accommodations or Modifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: placement_header
+      label: -- Class Placement Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: recommended_placement
+      label: Recommended Class Placement
+      hint: null
+      type: select_one
+      options:
+      - Accelerated or advanced class
+      - Regular curriculum
+      - Below grade level support
+      - Special education class
+      - Combination approach
+      - Under review
+      required: true
+    - id: 26
+      name: placement_justification
+      label: Justification for Placement Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_services
+      label: Additional Services or Support Needed
+      hint: Tutoring, counseling, speech therapy, etc.
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: teacher_notes
+      label: Teacher Notes and Observations
+      hint: null
+      type: text
+      options: []
+      required: false

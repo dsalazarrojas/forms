@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: find_the_best_beginner_program_for_you
+    pages:
+    - id: 1
+      name: program_goals
+      label: What do you want to achieve?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: time_commitment
+      label: How much time do you have for the program per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: experience_level
+      label: What is your level of experience?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: format_preference
+      label: What format do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - In-person
+      - Group
+      required: false
+    - id: 5
+      name: preferred_language
+      label: What language do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 6
+      name: recommended_programs
+      label: Recommended Programs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: selected_program
+      label: Select a program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: program_details
+      label: Program Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Platform Usability Questionnaire
+    pages:
+    - id: 1
+      name: survey_platform_use
+      label: How do you usually start a session on the platform
+      hint: null
+      type: select_one
+      options:
+      - Session Start
+      - Platform Home
+      - Content Page
+      - Search Bar
+      - Link
+      required: true
+    - id: 2
+      name: survey_content_use
+      label: How do you usually find content on the platform
+      hint: null
+      type: select_one
+      options:
+      - Content Search
+      - Content List
+      - Recommendations
+      - Search Bar
+      required: true
+    - id: 3
+      name: survey_navigation_use
+      label: How do you usually navigate on the platform
+      hint: null
+      type: select_one
+      options:
+      - Navigation Menu
+      - Search Bar
+      - Content Page
+      - Links
+      required: true
+    - id: 4
+      name: survey_platform_feature_use
+      label: What features do you usually use on the platform?
+      hint: null
+      type: select_multiple
+      options:
+      - Personalization
+      - Recommendations
+      - Search Bar
+      - Content Page
+      required: false
+    - id: 5
+      name: survey_content_quality_use
+      label: What content quality do you usually expect on the platform
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: survey_content_relevance_use
+      label: How relevant is the content on the platform to your learning goals
+      hint: null
+      type: select_one
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Not at all
+      required: true
+    - id: 7
+      name: survey_learning_outcome_use
+      label: What do you think about learning outcomes on the platform
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Strongly Disagree
+      required: true
+    - id: 8
+      name: survey_completion_rate_use
+      label: How often do you complete sessions on the platform?
+      hint: null
+      type: select_one
+      options:
+      - Almost Always
+      - Often
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 9
+      name: survey_satisfaction_use
+      label: How satisfied are you with the platform overall?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 10
+      name: survey_comments_use
+      label: Do you have any additional comments about your experience with the platform?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: survey_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: survey_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: survey_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: survey_why_quit
+      label: Why would you quit the platform
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of Content
+      - Lack of Features
+      - Poor User Experience
+      - Technical Issues
+      - Other
+      required: false
+    - id: 15
+      name: survey_what_we_can_improve
+      label: What would we need to improve to make you stay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_who_contact
+      label: Who would you contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_other_comments
+      label: Other comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: survey_recommendations
+      label: Have you recommended this platform to someone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: survey_why_not_recommended
+      label: Why not recommended
+      hint: null
+      type: select_one
+      options:
+      - Lack of Content
+      - Lack of Features
+      - Poor User Experience
+      - Technical Issues
+      - No Interest
+      - Other
+      required: false
+    - id: 20
+      name: survey_improve_usability
+      label: How would you rate the usability of our platform?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Neither Easy nor Hard
+      - Somewhat Hard
+      - Very Hard
+      required: false
+    - id: 21
+      name: survey_improve_usability_comments
+      label: Improve Usability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: survey_improve_usability_reason
+      label: Why improve usability
+      hint: null
+      type: select_one
+      options:
+      - Improve User Experience
+      - Improve Features
+      - Improve Content
+      - None
+      required: false
+    - id: 23
+      name: survey_improve_usability_comments
+      label: Improve Usability Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: survey_improve_usability_reason_comments
+      label: Improve Usability Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: survey_improve_usability_reason_comments
+      label: Improve Usability Reason Comments
+      hint: null
+      type: note
+      options: []
+      required: false

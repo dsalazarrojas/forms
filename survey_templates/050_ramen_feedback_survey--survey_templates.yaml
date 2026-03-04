@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ramen Feedback Survey
+    pages:
+    - id: 1
+      name: restaurant_visit
+      label: Restaurant Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: ramen_quality
+      label: Raman Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: ambiance
+      label: Ambiance
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: recommended
+      label: Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: will_visit_again
+      label: Will Visit Again
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

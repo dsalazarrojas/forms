@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Class Feedback Questionnaire
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: class_attended
+      label: classAttended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher
+      label: teacher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_type
+      label: classType
+      hint: null
+      type: select_one
+      options:
+      - yin
+      - yang
+      - restorative
+      - other
+      required: true
+    - id: 7
+      name: report
+      label: Report
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: additionalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

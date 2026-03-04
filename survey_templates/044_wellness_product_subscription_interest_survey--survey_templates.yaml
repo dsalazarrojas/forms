@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Product Subscription Interest Survey
+    pages:
+    - id: 1
+      name: product_type
+      label: What type of wellness products are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Protein powder
+      - Collagen supplements
+      - Vitamins
+      - Essential oils
+      - Herbal supplements
+      required: true
+    - id: 2
+      name: pricing
+      label: What price range are you willing to pay for a subscription?
+      hint: null
+      type: select_one
+      options:
+      - 0-10
+      - 11-20
+      - 21-50
+      - 51-100
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: frequency
+      label: How often would you like to receive your subscription?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-monthly
+      required: false
+    - id: 4
+      name: updates
+      label: How often would you like to receive updates on new products?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: false
+    - id: 5
+      name: notes
+      label: Do you have any notes or questions about our subscription offerings?
+      hint: null
+      type: note
+      options: []
+      required: false

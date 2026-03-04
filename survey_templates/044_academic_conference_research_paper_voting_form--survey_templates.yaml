@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Conference Research Paper Voting Form
+    pages:
+    - id: 1
+      name: voting_form_header
+      label: -- Academic Conference Research Paper Voting Form --
+      hint: Use this form to submit your peer-review vote for each paper
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_email
+      label: Reviewer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_affiliation
+      label: Institutional affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: review_panel
+      label: Review panel or track
+      hint: e.g. Computer Science, Social Sciences, Biomedical
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: paper_details_section
+      label: -- Paper Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: paper_id
+      label: Paper submission ID
+      hint: Enter the unique paper identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: paper_title
+      label: Paper title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: originality_rating
+      label: Originality and novelty of the research
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: select_one
+      options:
+        - 1 - Poor
+        - 2 - Below Average
+        - 3 - Average
+        - 4 - Above Average
+        - 5 - Excellent
+      required: true
+    - id: 10
+      name: methodology_rating
+      label: Soundness of methodology
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: select_one
+      options:
+        - 1 - Poor
+        - 2 - Below Average
+        - 3 - Average
+        - 4 - Above Average
+        - 5 - Excellent
+      required: true
+    - id: 11
+      name: clarity_rating
+      label: Clarity and quality of writing
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: select_one
+      options:
+        - 1 - Poor
+        - 2 - Below Average
+        - 3 - Average
+        - 4 - Above Average
+        - 5 - Excellent
+      required: true
+    - id: 12
+      name: significance_rating
+      label: Significance and impact of findings
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: select_one
+      options:
+        - 1 - Poor
+        - 2 - Below Average
+        - 3 - Average
+        - 4 - Above Average
+        - 5 - Excellent
+      required: true
+    - id: 13
+      name: references_rating
+      label: Adequacy of references and literature review
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: select_one
+      options:
+        - 1 - Poor
+        - 2 - Below Average
+        - 3 - Average
+        - 4 - Above Average
+        - 5 - Excellent
+      required: true
+    - id: 14
+      name: overall_recommendation
+      label: Overall recommendation
+      hint: null
+      type: select_one
+      options:
+        - Strong Accept
+        - Accept
+        - Weak Accept
+        - Borderline
+        - Weak Reject
+        - Reject
+        - Strong Reject
+      required: true
+    - id: 15
+      name: strengths
+      label: Key strengths of the paper
+      hint: Summarize the main strengths
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: weaknesses
+      label: Key weaknesses of the paper
+      hint: Summarize the main weaknesses
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: detailed_comments
+      label: Detailed comments for the authors
+      hint: Provide constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confidential_comments
+      label: Confidential comments for the program committee
+      hint: These comments will not be shared with the authors
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: conflict_of_interest
+      label: Do you have any conflict of interest with this paper
+      hint: null
+      type: select_one
+      options:
+        - No conflict
+        - Yes - please describe below
+      required: true
+    - id: 20
+      name: conflict_description
+      label: If yes, please describe the conflict of interest
+      hint: null
+      type: text
+      options: []
+      required: false

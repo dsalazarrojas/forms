@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: name_our_new_product
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_info
+      label: Submitter Information
+      hint: We will not share your information with anyone.
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: true
+    - id: 7
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Select Product Type A
+      - Select Product Type B
+      - Select Product Type C
+      - Select Product Type D
+      required: true
+    - id: 8
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag A
+      - Tag B
+      - Tag C
+      - Tag D
+      required: false
+    - id: 9
+      name: submitters_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitters_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitters_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitters_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitters_job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitters_date_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitters_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_state
+      label: Submitter State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_postal
+      label: Submitter Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitters_language
+      label: Submitter Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_ip_address
+      label: Submitter IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_browser
+      label: Submitter Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_os
+      label: Submitter OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_screen_resolution
+      label: Submitter Screen Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_device_type
+      label: Submitter Device Type
+      hint: null
+      type: text
+      options: []
+      required: false

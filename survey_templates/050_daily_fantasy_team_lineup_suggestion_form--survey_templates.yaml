@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Fantasy Team Lineup Suggestion Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Templates
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_preferences
+      label: Lineup Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Contest Types
+      required: true
+    - id: 5
+      name: form_sports
+      label: Sports
+      hint: null
+      type: select_multiple
+      options:
+      - NFL
+      - NBA
+      - MLB
+      - NHL
+      required: true
+    - id: 6
+      name: form_contest_types
+      label: Contest Types
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Free
+      - Roster
+      required: true
+    - id: 7
+      name: form_league_size
+      label: League Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_league_type
+      label: League Type
+      hint: null
+      type: select_one
+      options:
+      - Pick'em
+      - H2H
+      - Roto
+      required: true

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Standards Compliance Checklist
+    pages:
+    - id: 1
+      name: project_phase
+      label: Project Phase
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: document_exception
+      label: Document Exception
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_member_2
+      label: Team Member 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_coordinator
+      label: Survey Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exception_date
+      label: Exception Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: team_lead_status
+      label: Team Lead Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: project_lead_status
+      label: Project Lead Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: team_member_status
+      label: Team Member Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: standard_awareness
+      label: Standard Awareness
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: documentation_status
+      label: Documentation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: project_phase_status
+      label: Project Phase Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: standard_compliance
+      label: Standard Compliance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

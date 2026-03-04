@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_extra_resource_organization_form
+    pages:
+    - id: 1
+      name: teacher_extra_resource
+      label: Extra Resource
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: classroom_resources
+      label: Classroom Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_url
+      label: Resource URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resource_description
+      label: Resource Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_date
+      label: Resource Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resource_time
+      label: Resource Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resource_grade_level
+      label: Resource Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: resource_subjects
+      label: Resource Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

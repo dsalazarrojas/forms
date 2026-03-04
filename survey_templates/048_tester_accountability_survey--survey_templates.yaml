@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tester Accountability Survey
+    pages:
+    - id: 1
+      name: test_cycle_status
+      label: Test Cycle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Testing
+      - Done
+      - Blocked
+      - Pending
+      required: true
+    - id: 2
+      name: blocker_status
+      label: Blocker Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Blocking
+      required: true
+    - id: 3
+      name: self_assessed_accountability
+      label: Self Assessed Accountability
+      hint: Describe any accountability issues or blockers
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: blockers
+      label: Blockers
+      hint: Please provide detailed blockers
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: blockers_comments
+      label: Blockers Comments
+      hint: Provide detailed comments on blockers
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      required: true
+    - id: 7
+      name: blockers_count
+      label: Blocker Count
+      hint: Count of blockers
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: blockers_frequency
+      label: Blocker Frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: blocker_impact
+      label: Blocker Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: blocker_type
+      label: Blocker Type
+      hint: null
+      type: select_one
+      options:
+      - Technical
+      - Non Technical
+      required: true
+    - id: 11
+      name: blocker_severity
+      label: Blocker Severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Major
+      - Minor
+      required: true
+    - id: 12
+      name: blocker_category
+      label: Blocker Category
+      hint: null
+      type: select_one
+      options:
+      - Performance
+      - Security
+      - Usability
+      required: true
+    - id: 13
+      name: blocker_resolution
+      label: Blocker Resolution
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 14
+      name: blocker_resolution_comments
+      label: Blocker Resolution Comments
+      hint: Provide resolution comments on blocker
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: blockers_count_comment
+      label: Blockers Count Comment
+      hint: Provide count comment on blocker
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tester_feedback
+      label: Tester Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: test_cycle_duration
+      label: Test Cycle Duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: tester_name
+      label: Tester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: tester_email
+      label: Tester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: tester_department
+      label: Tester Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tester_phone
+      label: Tester Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tester_comments
+      label: Tester Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: blocker_frequency_count
+      label: Blocker Frequency Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: blocker_impact_count
+      label: Blocker Impact Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: blocker_type_count
+      label: Blocker Type Count
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Country Profile Submission Form
+    pages:
+    - id: 1
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: key_facts
+      label: Key Facts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: descriptions
+      label: Descriptions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: country_id
+      label: Country ID
+      hint: Enter a country ID
+      type: select_one
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - '...'
+      required: false

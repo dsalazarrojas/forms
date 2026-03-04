@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academy Application Form
+    pages:
+    - id: 1
+      name: section_student_app
+      label: -- Student Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: Legal name as it appears on birth certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: verification of age
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applying_grade
+      label: Grade Level Applying For
+      hint: Academic year placement
+      type: select_one
+      options:
+      - Preschool
+      - Kindergarten
+      - Grade 1-5
+      - Grade 6-8
+      - Grade 9-12
+      required: true
+    - id: 5
+      name: section_guardian
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_name
+      label: Parent or Guardian Full Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_email
+      label: Parent or Guardian Email
+      hint: For admissions correspondence
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone
+      label: Parent or Guardian Phone
+      hint: Daytime contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Residential Address
+      hint: Full street address, city, and state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_academic
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_school
+      label: Name of Previous School Attended
+      hint: For record transfer purposes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_leaving
+      label: Primary Reason for Leaving Previous School
+      hint: Brief explanation
+      type: select_one
+      options:
+      - Relocation
+      - Seeking Better Programs
+      - Graduation
+      - Other
+      required: true
+    - id: 13
+      name: academic_awards
+      label: List any academic awards or honors
+      hint: Optional accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_interests
+      label: -- Interests and Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: extracurricular_interests
+      label: Interests outside of academics
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Music
+      - Sports
+      - Arts
+      - Coding
+      - Debate
+      - Drama
+      required: false
+    - id: 16
+      name: section_medical
+      label: -- Medical and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: known_allergies
+      label: List any known allergies or medical conditions
+      hint: Important for student safety
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_education_needs
+      label: Does the student require special education services?
+      hint: IEP or 504 plan requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: section_sig
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: applicant_signature
+      label: Parent or Guardian Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: application_date
+      label: Application Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

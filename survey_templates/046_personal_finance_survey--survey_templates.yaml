@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal-finance-survey
+    pages:
+    - id: 1
+      name: personal_income_1
+      label: Annual income in thousands
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: family_size_1
+      label: family_size
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Both
+      - Other
+      required: false
+    - id: 3
+      name: annual_savings_1
+      label: Annual savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employment_status_1
+      label: Employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-employed
+      - Student
+      - Retired
+      - Other
+      required: false
+    - id: 5
+      name: annual_savings_2
+      label: Annual savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income_source_1
+      label: Income source
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Investments
+      - Business
+      - Other
+      required: false
+    - id: 7
+      name: annual_savings_3
+      label: Annual savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: family_member_1
+      label: Is this information about an individual or a family?
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      required: false
+    - id: 9
+      name: income_source_2
+      label: Income source
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Investments
+      - Business
+      - Other
+      required: false
+    - id: 10
+      name: annual_savings_4
+      label: Annual savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: annual_savings_5
+      label: Annual savings
+      hint: null
+      type: number
+      options: []
+      required: false

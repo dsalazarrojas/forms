@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: homeschool-attendance-form
+    pages:
+    - id: 1
+      name: homeschool_attendance
+      label: Homeschool Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendance_date
+      label: Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: attendance_status_options
+      label: Select Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Absent
+      - Late
+      required: true
+    - id: 6
+      name: reason_absent
+      label: Reason Absent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_late
+      label: Reason Late
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote University Class Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: remote_university_class_satisfaction_questionnaire
+      label: Remote University Class Satisfaction Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: courseName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: remote_learning_experience
+      label: Remote Learning Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Poor''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_performance
+      label: Instructor Performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Good''}'
+      - '{''id'': 4, ''label'': ''Excellent''}'
+      required: false
+    - id: 6
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Poor''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: true
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Poor''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: true
+    - id: 8
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: communication_rating
+      label: Communication Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: course_materials_rating
+      label: Course Materials Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: course
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: course_id
+      label: Course ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: remote_university
+      label: Remote University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: course_section
+      label: Course Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: course_number
+      label: Course Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fall''}'
+      - '{''id'': 2, ''label'': ''Spring''}'
+      required: true
+    - id: 24
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: instructor_id
+      label: Instructor ID
+      hint: null
+      type: text
+      options: []
+      required: true

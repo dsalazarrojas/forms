@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Flight Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cabin_details
+      label: Cabin
+      hint: null
+      type: select_multiple
+      options:
+      - First Class
+      - Business Class
+      - Economy Class
+      required: true
+    - id: 3
+      name: flight_rating
+      label: Flight Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: cabin_rating
+      label: Cabin Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: food_and_beverage
+      label: Food and Beverage
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Poor
+      required: true
+    - id: 6
+      name: seat_comfort
+      label: Seat Comfort
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Fair
+      - Uncomfortable
+      required: true
+    - id: 7
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: airline_name
+      label: Airline Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: aircraft_model
+      label: Aircraft Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: flight_duration
+      label: Flight Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: crew_name
+      label: Crew Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: seat_letter
+      label: Seat Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments2
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cabin_number
+      label: Cabin Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: airline_name2
+      label: Airline Name
+      hint: null
+      type: text
+      options: []
+      required: false

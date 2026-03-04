@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: elementary_student_reading_log
+    pages:
+    - id: 1
+      name: reading_log
+      label: reading_log
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade
+      label: grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

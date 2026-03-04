@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Learning Plan Form
+    pages:
+    - id: 1
+      name: learner_profile
+      label: -- Learner Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: learner_name
+      label: Learner full name
+      hint: Enter legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: learning_goals
+      label: Learning goals
+      hint: Describe short and long term goals
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: prior_education
+      label: Prior education or certifications
+      hint: List relevant credentials
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_learning_style
+      label: Preferred learning style
+      hint: Choose the preferred mode
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Kinesthetic
+      - Blended
+      required: false
+    - id: 6
+      name: available_time_per_week
+      label: Available study time per week hours
+      hint: Estimate hours per week
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: required_support
+      label: Support or accommodations needed
+      hint: Describe any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_completion_date
+      label: Target completion date
+      hint: Optional expected finish date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: instructor_notes
+      label: Instructor notes and recommendations
+      hint: For teacher use only
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Agreement date
+      hint: Date learner signed plan
+      type: date
+      options: []
+      required: true

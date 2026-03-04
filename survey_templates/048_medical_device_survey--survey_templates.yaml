@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Survey
+    pages:
+    - id: 1
+      name: medical_device_survey_device_name
+      label: medical_device_survey_device_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_device_survey_device_description
+      label: device_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_device_survey_device_performance
+      label: device_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''name'': ''average'', ''value'': ''Average''}'
+      - '{''id'': 3, ''name'': ''bad'', ''value'': ''Bad''}'
+      required: false
+    - id: 4
+      name: medical_device_survey_device_usability
+      label: device_usability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''easy_to_use'', ''value'': ''Easy_to_use''}'
+      - '{''id'': 2, ''name'': ''average_usability'', ''value'': ''Average_usability''}'
+      - '{''id'': 3, ''name'': ''hard_to_use'', ''value'': ''Hard_to_use''}'
+      required: false
+    - id: 5
+      name: medical_device_survey_device_safety
+      label: device_safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_device_survey_device_compliance
+      label: device_compliance
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Tax Client Intake Form
+    pages:
+    - id: 1
+      name: individual_info
+      label: Individual Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tax_return
+      label: Tax Return
+      hint: null
+      type: select_one
+      options:
+      - '1040'
+      - 1040A
+      - 1040EZ
+      - 1040NR
+      - 1040-PW
+      - '1065'
+      required: false
+    - id: 4
+      name: tax_status
+      label: Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Head of Household
+      required: false
+    - id: 5
+      name: dependents
+      label: Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: deductions
+      label: Deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_advisor
+      label: Tax Advisor
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

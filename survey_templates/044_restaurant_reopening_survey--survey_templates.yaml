@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_reopening_survey
+    pages:
+    - id: 1
+      name: restaurant_location
+      label: restaurant_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reopening_date
+      label: reopening_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: safety_measures
+      label: safety_measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_training
+      label: employee_training
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_empathy
+      label: customer_empathy
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: restaurant_capacity
+      label: restaurant_capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: customer_capacity
+      label: customer_capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media_links
+      label: social_media_links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: online_ordering
+      label: online_ordering
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: delivery_info
+      label: delivery_info
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: pickup_info
+      label: pickup_info
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 19
+      name: reservation
+      label: reservation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: gift_card
+      label: gift_card
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Service Survey Form
+    pages:
+    - id: 1
+      name: lobby_survey
+      label: Spa Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: Add any additional feedback
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false

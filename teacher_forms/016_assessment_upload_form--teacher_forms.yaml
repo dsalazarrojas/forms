@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Upload Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: Full name of teacher
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_id
+      label: Teacher ID
+      hint: Employee or staff ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School or Institution Name
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Academic department
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - English Language Arts
+      - Social Studies
+      - Foreign Languages
+      - Arts
+      - Physical Education
+      - Special Education
+      - Other
+      required: true
+    - id: 5
+      name: assessment_title
+      label: Assessment Title
+      hint: Name of assessment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_type
+      label: Assessment Type
+      hint: Category of assessment
+      type: select_one
+      options:
+      - Formative Assessment
+      - Summative Assessment
+      - Diagnostic Assessment
+      - Performance Assessment
+      - Portfolio Assessment
+      - Standardized Test
+      required: true
+    - id: 7
+      name: subject_area
+      label: Subject Area
+      hint: What subject
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grade_level
+      label: Grade Level
+      hint: Which grade
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 9
+      name: assessment_date
+      label: Assessment Date
+      hint: When was assessment given
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_students
+      label: Total Number of Students
+      hint: How many students took assessment
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: upload_type
+      label: What Are You Uploading
+      hint: Type of files
+      type: select_multiple
+      options:
+      - Assessment Results
+      - Student Work Samples
+      - Answer Keys
+      - Rubrics
+      - Data Analysis
+      - Reflection Notes
+      required: true
+    - id: 12
+      name: files_description
+      label: Description of Files
+      hint: What do the files contain
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: file_count
+      label: Number of Files
+      hint: How many files
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: average_score
+      label: Class Average Score
+      hint: Percentage if available
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: performance_summary
+      label: Performance Summary
+      hint: Brief overview of results
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: areas_of_strength
+      label: Areas of Strength
+      hint: What did students do well on
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs work
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_actions
+      label: Follow-up Actions Planned
+      hint: What will you do next
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sharing_permissions
+      label: Who Can Access This Assessment
+      hint: Sharing settings
+      type: select_multiple
+      options:
+      - Students
+      - Parents
+      - Other Teachers
+      - Administrators
+      - District Officials
+      required: true
+    - id: 20
+      name: comments
+      label: Additional Comments
+      hint: Any other notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_date
+      label: Upload Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

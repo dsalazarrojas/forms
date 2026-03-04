@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: wind_energy_quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wind_energy_quiz
+      label: wind_energy_quiz
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: wind_energy_quiz2
+      label: wind_energy_quiz2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: wind_energy_quiz3
+      label: wind_energy_quiz3
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

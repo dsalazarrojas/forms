@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_handover_information_form
+    pages:
+    - id: 1
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: outstanding_tasks
+      label: outstanding_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resources
+      label: resources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: class_notes
+      label: class_notes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: class_outstanding_tasks
+      label: class_outstanding_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: key_documents
+      label: key_documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_actions
+      label: next_actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: handover_form_status
+      label: handover_form_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: class_handovers
+      label: class_handovers
+      hint: null
+      type: text
+      options: []
+      required: false

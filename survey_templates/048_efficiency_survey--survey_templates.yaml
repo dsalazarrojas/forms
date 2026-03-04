@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Efficiency Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: How satisfied are employees with their job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_satisfaction
+      label: Overall employee satisfaction with their job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_with_manager
+      label: How satisfied are employees with their communication with their manager
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: employee_satisfaction_2
+      label: How would you rate your overall satisfaction with your manager?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: job_performance
+      label: What are the key performance indicators you use to measure job performance?
+      hint: Please enter the numbers or text that you use to measure job performance.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_performance_2
+      label: What are some key performance indicators that are not met?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_support
+      label: How satisfied are employees with their manager's support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: communication_with_teams
+      label: How satisfied are employees with communication with their teams
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: communication_with_teams_2
+      label: How satisfied are employees with communication with their teams
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: communication_with_teams_3
+      label: How satisfied are employees with communication with their teams
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: job_satisfaction
+      label: Overall job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: job_satisfaction_2
+      label: Overall job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Application Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tuition_fees_payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Square
+      - PayPal
+      required: false
+    - id: 3
+      name: tuition_fees
+      label: Tuition Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_address
+      label: Student Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false

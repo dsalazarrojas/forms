@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal_waste_survey
+    pages:
+    - id: 1
+      name: resident_info
+      label: Municipal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_type
+      label: household_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Home''}'
+      - '{''id'': 2, ''label'': ''Commercial''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: household_size
+      label: household_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waste_disposal
+      label: waste_disposal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Recycling''}'
+      - '{''id'': 2, ''label'': ''Composting''}'
+      - '{''id'': 3, ''label'': ''Landfill''}'
+      required: false
+    - id: 5
+      name: recycling_frequency
+      label: recycling_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 6
+      name: collection_type
+      label: collection_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Weekly''}'
+      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: waste_type
+      label: waste_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Organic''}'
+      - '{''id'': 2, ''label'': ''Inorganic''}'
+      - '{''id'': 3, ''label'': ''Glass''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: disposal_location
+      label: disposal_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Home''}'
+      - '{''id'': 2, ''label'': ''Curbside''}'
+      - '{''id'': 3, ''label'': ''Landfill''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: waste_description
+      label: waste_description
+      hint: Please describe the type of waste you dispose
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waste_frequency
+      label: waste_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 11
+      name: survey_completed
+      label: survey_completed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

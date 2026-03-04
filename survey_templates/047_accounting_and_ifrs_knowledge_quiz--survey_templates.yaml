@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting And IFRS Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Accounting Experience Level
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Entry-level professional
+        - Mid-career professional
+        - Senior professional
+        - Academic or educator
+      required: true
+    - id: 6
+      name: section_general_accounting
+      label: -- General Accounting Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: q1_accounting_equation
+      label: What is the fundamental accounting equation
+      hint: null
+      type: select_one
+      options:
+        - Assets = Liabilities + Equity
+        - Revenue = Expenses + Profit
+        - Assets = Revenue - Liabilities
+        - Equity = Assets + Liabilities
+      required: true
+    - id: 8
+      name: q2_accrual_basis
+      label: Under the accrual basis of accounting, when is revenue recognized
+      hint: null
+      type: select_one
+      options:
+        - When cash is received
+        - When the performance obligation is satisfied
+        - At the end of the fiscal year
+        - When the invoice is sent
+      required: true
+    - id: 9
+      name: q3_depreciation
+      label: Which of the following is NOT a method of depreciation
+      hint: null
+      type: select_one
+      options:
+        - Straight-line
+        - Declining balance
+        - Sum-of-the-years-digits
+        - First-in, first-out
+      required: true
+    - id: 10
+      name: q4_current_asset
+      label: Which of the following is classified as a current asset
+      hint: null
+      type: select_one
+      options:
+        - Land
+        - Accounts receivable
+        - Goodwill
+        - Long-term investments
+      required: true
+    - id: 11
+      name: section_ifrs_questions
+      label: -- IFRS Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: q5_ifrs_stands_for
+      label: What does IFRS stand for
+      hint: null
+      type: select_one
+      options:
+        - International Financial Reporting Standards
+        - International Fiscal Regulatory Standards
+        - Internal Financial Recording System
+        - International Finance and Revenue Standards
+      required: true
+    - id: 13
+      name: q6_ifrs_issuer
+      label: Which body issues IFRS standards
+      hint: null
+      type: select_one
+      options:
+        - FASB
+        - IASB
+        - SEC
+        - AICPA
+      required: true
+    - id: 14
+      name: q7_fair_value
+      label: Under IFRS, what is the definition of fair value
+      hint: null
+      type: select_one
+      options:
+        - Historical cost of an asset
+        - Price received to sell an asset in an orderly transaction
+        - Replacement cost of an asset
+        - Net book value after depreciation
+      required: true
+    - id: 15
+      name: q8_inventory_method
+      label: Which inventory valuation method is NOT permitted under IFRS
+      hint: null
+      type: select_one
+      options:
+        - FIFO
+        - Weighted average
+        - LIFO
+        - Specific identification
+      required: true
+    - id: 16
+      name: q9_ifrs_vs_gaap
+      label: A key difference between IFRS and US GAAP is
+      hint: null
+      type: select_one
+      options:
+        - IFRS allows LIFO, GAAP does not
+        - IFRS is principles-based, GAAP is rules-based
+        - GAAP is used globally, IFRS is not
+        - IFRS does not require financial statements
+      required: true
+    - id: 17
+      name: q10_lease_standard
+      label: Which IFRS standard deals with leases
+      hint: null
+      type: select_one
+      options:
+        - IFRS 9
+        - IFRS 15
+        - IFRS 16
+        - IFRS 17
+      required: true
+    - id: 18
+      name: section_self_assessment
+      label: -- Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: confidence_level
+      label: How Confident Are You in Your IFRS Knowledge
+      hint: null
+      type: select_one
+      options:
+        - Very confident
+        - Confident
+        - Somewhat confident
+        - Not very confident
+        - Not confident at all
+      required: true
+    - id: 20
+      name: training_interest
+      label: Would You Be Interested in Further IFRS Training
+      hint: null
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: false

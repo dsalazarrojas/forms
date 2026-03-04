@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Program Performance Evaluation Form
+    pages:
+    - id: 1
+      name: program_effectiveness
+      label: Program Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_data
+      label: Satisfaction Data
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rehabilitation_center_info
+      label: Rehabilitation Center Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: survey_answers
+      label: Survey Answers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_questions_2
+      label: Survey Questions 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: survey_answers_2
+      label: Survey Answers 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: program_effectiveness_2
+      label: Program Effectiveness 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Studio Survey
+    pages:
+    - id: 1
+      name: dance_studio_name
+      label: Dance Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance
+      label: Performance
+      hint: How would you rate the overall performance of our dance studio?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: instructors
+      label: Instructors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_scheduling
+      label: Class Scheduling
+      hint: How do you feel about our class scheduling?
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Very Bad''}'
+      required: false
+    - id: 8
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Very Bad''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

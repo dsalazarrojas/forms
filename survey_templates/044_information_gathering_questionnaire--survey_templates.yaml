@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Gathering Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audience_insights_page
+      label: What do you think
+      hint: null
+      type: select_multiple
+      options:
+      - Audience Engagement
+      - Audience Satisfaction
+      - Audience Retention
+      required: false
+    - id: 3
+      name: satisfaction_feedback_page
+      label: How do you feel
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 4
+      name: contact_details_page
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details_page
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_details_page
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

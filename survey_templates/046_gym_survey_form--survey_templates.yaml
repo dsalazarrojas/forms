@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Survey Form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_media_preference
+      label: Social Media Preference
+      hint: Which platform do you prefer to leave feedback?
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - YouTube
+      required: false
+    - id: 3
+      name: comment_preference
+      label: Comment Preference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comment
+      label: Leave Comment
+      hint: Please enter your comments about the gym
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: social_media_choice
+      label: Social Media Choice
+      hint: Which social media platforms do you have?
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - YouTube
+      required: false
+    - id: 6
+      name: decision_factor
+      label: Decision Factor
+      hint: null
+      type: select_one
+      options:
+      - Stay with this gym
+      - Leave this gym
+      - No preference
+      required: false
+    - id: 7
+      name: comment_count
+      label: How many times have you been to this gym?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: last_visit_date
+      label: Last Visit Date
+      hint: Please select the date of your last visit
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: last_visit_time
+      label: Last Visit Time
+      hint: Please select the time of your last visit
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: frequency_visit
+      label: How often do you visit this gym?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false

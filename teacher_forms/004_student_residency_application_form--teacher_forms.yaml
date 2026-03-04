@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Residency Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College/University
+      - Doctoral/Ph.D.
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: (###) ###-#####'
+      type: text
+      options: []
+      required: true

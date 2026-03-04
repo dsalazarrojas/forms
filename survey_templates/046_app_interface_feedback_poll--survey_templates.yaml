@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Interface Feedback Poll
+    pages:
+      - id: 1
+        name: poll_date
+        label: Poll date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: app_name
+        label: App name
+        hint: Which app interface are you evaluating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: interface_element
+        label: Interface element being evaluated
+        hint: Menu, buttons, layout, etc
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: usage_familiarity
+        label: How familiar are you with this interface?
+        hint: null
+        type: select_one
+        options:
+          - Very familiar
+          - Familiar
+          - Somewhat familiar
+          - New to the interface
+          - First time seeing it
+        required: true
+      - id: 7
+        name: navigation_ease
+        label: Ease of navigation
+        hint: How easy is it to find things
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 8
+        name: interface_layout
+        label: Interface layout and organization
+        hint: Is it logically organized
+        type: select_one
+        options:
+          - Excellent - very logical
+          - Good - mostly logical
+          - Fair - somewhat confusing
+          - Poor - very confusing
+          - Chaotic
+        required: true
+      - id: 9
+        name: button_placement
+        label: Button and icon placement
+        hint: Are they where you expect them
+        type: select_one
+        options:
+          - Perfect placement
+          - Good placement
+          - Adequate placement
+          - Poor placement
+          - Confusing placement
+        required: true
+      - id: 10
+        name: text_readability
+        label: Text readability
+        hint: Font size, color contrast
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very difficult to read
+        required: true
+      - id: 11
+        name: menu_intuitiveness
+        label: Menu and option intuitiveness
+        hint: Are menus labeled clearly
+        type: select_one
+        options:
+          - Very intuitive
+          - Intuitive
+          - Somewhat intuitive
+          - Not intuitive
+          - Confusing
+        required: true
+      - id: 12
+        name: icon_clarity
+        label: Icon clarity and meaning
+        hint: Are icons understandable
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Confusing
+        required: true
+      - id: 13
+        name: color_scheme
+        label: Color scheme and visual appeal
+        hint: null
+        type: select_one
+        options:
+          - Excellent - visually appealing
+          - Good - nice colors
+          - Fair - acceptable
+          - Poor - unappealing
+          - Very unappealing
+        required: true
+      - id: 14
+        name: mobile_responsiveness
+        label: Mobile responsiveness
+        hint: Does it work well on mobile
+        type: select_one
+        options:
+          - Excellent on mobile
+          - Good on mobile
+          - Okay on mobile
+          - Poor on mobile
+          - Not usable on mobile
+        required: true
+      - id: 15
+        name: gesture_controls
+        label: Gesture controls if applicable
+        hint: Swipe, tap, pinch, etc
+        type: select_one
+        options:
+          - Work perfectly
+          - Mostly work
+          - Partially work
+          - Rarely work
+          - Do not work
+          - N/A
+        required: false
+      - id: 16
+        name: accessibility_features
+        label: Accessibility features
+        hint: Font size adjustment, dark mode, etc
+        type: select_one
+        options:
+          - Excellent accessibility
+          - Good accessibility
+          - Fair accessibility
+          - Poor accessibility
+          - Not accessible
+        required: true
+      - id: 17
+        name: interface_consistency
+        label: Consistency across the interface
+        hint: Do all screens look and feel similar
+        type: select_one
+        options:
+          - Very consistent
+          - Mostly consistent
+          - Somewhat inconsistent
+          - Very inconsistent
+          - Chaotic
+        required: true
+      - id: 18
+        name: loading_state
+        label: Loading states and feedback
+        hint: Is it clear when app is busy
+        type: select_one
+        options:
+          - Always clear
+          - Usually clear
+          - Sometimes clear
+          - Often unclear
+          - Never clear
+        required: true
+      - id: 19
+        name: interface_improvement_suggestions
+        label: Suggestions for interface improvements
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: overall_interface_satisfaction
+        label: Overall interface satisfaction
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_year_programming_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is an End of Year Programming Survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: team_size_hint
+      label: How many developers are in your team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: average_years_experience
+      label: Average Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: average_years_experience_hint
+      label: What is the average years of experience of your developers?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skills_identified
+      label: Skills Identified
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - C++
+      - C#
+      - C
+      - C
+      - Ruby
+      - Swift
+      - SQL
+      required: true
+    - id: 7
+      name: skills_identified_hint
+      label: What programming skills does your team have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: productivity_improvement
+      label: Productivity Improvement
+      hint: null
+      type: select_one
+      options:
+      - Boost
+      - Identify
+      - Analyze
+      - Create
+      required: true
+    - id: 9
+      name: productivity_improvement_hint
+      label: How do you want to improve productivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: strategy_development
+      label: Strategy Development
+      hint: null
+      type: select_one
+      options:
+      - Informed
+      - Incremental
+      - Continuous
+      required: true
+    - id: 11
+      name: strategy_development_hint
+      label: What kind of development strategy do you want to implement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_steps_hint
+      label: What are your next steps for the next year?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submit_hint
+      label: Submit Hint
+      hint: null
+      type: text
+      options: []
+      required: false

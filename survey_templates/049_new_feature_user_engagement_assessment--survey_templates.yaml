@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_feature_user_engagement_assessment
+    pages:
+    - id: 1
+      name: new_feature_adoption
+      label: How did you hear about the new feature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: new_feature_satisfaction
+      label: What do you think about the new feature?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: new_feature_improvement
+      label: How does this feature improve your workflow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: new_feature_frequency
+      label: How often do you use the new feature?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: new_feature_difficulty
+      label: What difficulties do you encounter while using the new feature?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: new_feature_satisfaction_joy
+      label: How much joy do you derive from using the new feature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: new_feature_improvement_ideas
+      label: Do you have any improvement ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: new_feature_satisfaction_likert
+      label: How would you rate your satisfaction with the new feature
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: new_feature_satisfaction_scale
+      label: How would you rate your satisfaction on a scale of 1-5
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: new_feature_satisfaction_comments
+      label: Can you provide more comments
+      hint: null
+      type: note
+      options: []
+      required: false

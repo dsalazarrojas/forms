@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: satellite_technician_service_request
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satellite_location
+      label: Satellite Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technician_notes
+      label: Technician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satellite_equipment
+      label: Satellite Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_request_time
+      label: Service Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_confirmation_email
+      label: Customer Confirmation Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_confirmation_phone
+      label: Customer Confirmation Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: satellite_status
+      label: Satellite Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: false
+    - id: 12
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_request_comments
+      label: Service Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_schedule
+      label: Service Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: technician_schedule
+      label: Technician Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: satellite_address
+      label: Satellite Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: satellite_notes
+      label: Satellite Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_service_request
+      label: Customer Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_request_priority
+      label: Service Request Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 22
+      name: service_request_type
+      label: Service Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Urgent
+      - Routine
+      required: false
+    - id: 23
+      name: technician_availability
+      label: Technician Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: technician_availability_date
+      label: Technician Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

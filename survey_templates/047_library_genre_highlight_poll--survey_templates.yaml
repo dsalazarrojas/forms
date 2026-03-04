@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Genre Highlight Poll
+    pages:
+    - id: 1
+      name: library_genre_highlight_poll_page_1
+      label: library_genre_highlight_poll_page_1_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: library_genre_highlight_poll_page_2
+      label: favorite_genres
+      hint: Select up to 3 favorite genres
+      type: select_multiple
+      options:
+      - Fantasy
+      - Mystery
+      - Sci-Fi
+      - Romance
+      - Crime
+      - Historical
+      - Horror
+      - Thriller
+      - Humor
+      - Non-Fiction
+      - Historical Fiction
+      required: false
+    - id: 3
+      name: reading_preferences
+      label: reading_preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: preferred_format
+      label: preferred_format
+      hint: null
+      type: select_one
+      options:
+      - E-book
+      - Paperback
+      - Hardcover
+      - Audiobook
+      - Digital audiobook
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: preferred_length
+      label: preferred_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: other_preference
+      label: other_preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_length_other
+      label: other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

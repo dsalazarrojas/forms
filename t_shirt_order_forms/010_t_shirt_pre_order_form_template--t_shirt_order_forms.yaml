@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Pre Order Form Template
+    pages:
+    - id: 1
+      name: t_shirt_pre_order_form_template
+      label: T Shirt Pre Order Form Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_name
+      label: T Shirt Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: size
+      label: T Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false

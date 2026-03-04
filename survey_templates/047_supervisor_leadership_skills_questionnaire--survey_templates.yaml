@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Leadership Skills Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_leadership_skills
+      label: Supervisor Leadership Skills
+      hint: Please rate your self- leadership skills as a supervisor
+      type: select_one
+      options:
+      - Coaching and Development
+      - Communication
+      - Decision Making
+      - Emotional Intelligence
+      - Leadership
+      - Problem Solving
+      - Resilience
+      - Time Management
+      required: true
+    - id: 3
+      name: supervisor_leadership_skills_rating
+      label: Supervisor Leadership Skills Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: coaching
+      label: Coaching
+      hint: null
+      type: select_multiple
+      options:
+      - Coaching for Results
+      - Developmental Coaching
+      - Situational Coaching
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Communication Skills
+      - Conflict Resolution
+      - Interpersonal Relationships
+      required: false
+    - id: 6
+      name: decision_making
+      label: Decision Making
+      hint: null
+      type: select_multiple
+      options:
+      - Critical Thinking
+      - Decision Making
+      - Problem Analysis
+      required: false
+    - id: 7
+      name: emotional_intelligence
+      label: Emotional Intelligence
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional Awareness
+      - Self-Awareness
+      - Social Awareness
+      required: false
+    - id: 8
+      name: leadership
+      label: Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - Change Management
+      - Leadership
+      - Strategic Management
+      required: false
+    - id: 9
+      name: problem_solving
+      label: Problem Solving
+      hint: null
+      type: select_multiple
+      options:
+      - Analytical Thinking
+      - Problem Analysis
+      - Situational Problem Solving
+      required: false
+    - id: 10
+      name: resilience
+      label: Resilience
+      hint: null
+      type: select_multiple
+      options:
+      - Adaptability
+      - Flexibility
+      - Resilience
+      required: false

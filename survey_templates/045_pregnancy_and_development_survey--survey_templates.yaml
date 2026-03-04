@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy And Development Survey
+    pages:
+    - id: 1
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pregnant''}'
+      - '{''value'': ''Not Pregnant''}'
+      - '{''value'': ''Miscarriage''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 2
+      name: prenatal_care_habits
+      label: Prenatal Care Habits
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''Yes, received regular prenatal check-ups and care''}'
+      - '{''value'': ''Yes, but did not receive regular prenatal check-ups and care''}'
+      - '{''value'': ''No, did not receive any prenatal care''}'
+      - '{''value'': ''Other, please describe''}'
+      required: false
+    - id: 3
+      name: pregnancy_experiences
+      label: Pregnancy Experiences
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: baby_status
+      label: Baby Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Boy''}'
+      - '{''value'': ''Girl''}'
+      - '{''value'': ''Twins''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: prenatal_test_results
+      label: Prenatal Test Results
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Negative''}'
+      - '{''value'': ''Not Done''}'
+      required: false
+    - id: 7
+      name: ultrasound_result
+      label: Ultrasound Result
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Abnormal''}'
+      required: false
+    - id: 8
+      name: birth_weight
+      label: Birth Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gestational_age
+      label: Gestational Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pregnancy_length
+      label: Pregnancy Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: baby_gender
+      label: Baby Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Boy''}'
+      - '{''value'': ''Girl''}'
+      required: false
+    - id: 12
+      name: birth_weight_gram
+      label: Birth Weight Grams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vaginal''}'
+      - '{''value'': ''C-section''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: baby_age
+      label: Baby Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: baby_height
+      label: Baby Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: mother_name
+      label: Mother
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: father_name
+      label: Father
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hospitalization_days
+      label: Hospitalization Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hospitalization_cost
+      label: Hospitalization Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_cost
+      label: Insurance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: hospital_type
+      label: Hospital Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Private''}'
+      - '{''value'': ''Public''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 24
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true

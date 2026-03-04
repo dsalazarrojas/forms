@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_paper_comprehension_quiz
+    pages:
+    - id: 1
+      name: research_paper_comprehension_quiz_questions
+      label: Research Paper Comprehension Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_number
+      label: question_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_answer
+      label: Student Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_response
+      label: Instructor Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_completion_status
+      label: Quiz Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: research_paper_title
+      label: Research Paper Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_comments
+      label: Instructor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Rejected
+      required: false
+    - id: 11
+      name: research_paper_file_upload
+      label: Research Paper File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false

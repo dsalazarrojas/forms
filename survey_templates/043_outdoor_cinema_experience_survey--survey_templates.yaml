@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Cinema Experience Survey
+    pages:
+    - id: 1
+      name: movie_night
+      label: Movie Night
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: location_details
+      label: location_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1-2-3''}'
+      - '{''id'': 2, ''label'': ''4-5''}'
+      - '{''id'': 3, ''label'': ''6-7''}'
+      required: true
+    - id: 5
+      name: review
+      label: Review
+      hint: Write your feedback about the movie or cinema
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommend
+      label: Will You Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 13
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: favorite_cinema
+      label: Favorite Cinema
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: favorite_movies
+      label: Favorite Movies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: favorite_genres
+      label: Favorite Genres
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_ofter
+      label: How Often Do You Attend Cinema
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1-2 times per month''}'
+      - '{''id'': 2, ''label'': ''1-2 times per year''}'
+      - '{''id'': 3, ''label'': ''Less than once a year''}'
+      required: true
+    - id: 18
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_issues
+      label: Accessibility Issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 23
+      name: preferred_subtitles
+      label: Preferred Subtitles
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

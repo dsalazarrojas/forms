@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Approval Request Form
+    pages:
+    - id: 1
+      name: school_principal_name
+      label: School Principal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_principal_email
+      label: School Principal Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_trip
+      label: Date of Trip
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_details
+      label: Trip Details
+      hint: Enter a brief description of the trip.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: student_count
+      label: Number of Students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sponsor_company
+      label: Sponsor Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sponsor_contact
+      label: Sponsor Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: school_principal_approval_status
+      label: School Principal Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 12
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true

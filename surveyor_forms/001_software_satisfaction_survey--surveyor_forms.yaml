@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_satisfaction_survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: usability
+      label: usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: features
+      label: features
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 5
+      name: bugs
+      label: bugs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

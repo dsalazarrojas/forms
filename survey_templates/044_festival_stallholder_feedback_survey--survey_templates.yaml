@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Stallholder Feedback Survey
+    pages:
+    - id: 1
+      name: vendor_satisfaction_rating
+      label: How would you rate your overall satisfaction with your festival experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: comments
+      label: What are your comments about this festival?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: future_participation_interest
+      label: Are you interested in participating in future festivals?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''Undecided''}'
+      required: false
+    - id: 4
+      name: vendor_feedback
+      label: How could we improve the festival to serve you better?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dad Sweatshirt Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: t_shirt_size
+      label: t-shirt size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 4
+      name: t_shirt_color
+      label: t-shirt color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Gray
+      required: false
+    - id: 5
+      name: t_shirt_design
+      label: t-shirt design
+      hint: null
+      type: select_one
+      options:
+      - Design 1
+      - Design 2
+      - Design 3
+      required: false
+    - id: 6
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: t_shirt_quantity
+      label: t-shirt quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: order notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Research Presentation Submission Form
+    pages:
+    - id: 1
+      name: research_presentation
+      label: Research Presentation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: research_topic
+      label: Research Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: research_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: research_institution
+      label: Institution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: university_email
+      label: University Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_file
+      label: Research File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: researcher_affiliation
+      label: Researcher Affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_phone
+      label: Submitter Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: research_institutional_review
+      label: Institutional Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: research_institutional_review_date
+      label: Institutional Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: research_institutional_review_notes
+      label: Institutional Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_institutional_review_status
+      label: Institutional Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: institutional_review_comments
+      label: Institutional Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitter_declaration
+      label: Submitter Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_acknowledgement
+      label: Submitter Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: researcher_acknowledgement
+      label: Researcher Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: researcher_declaration
+      label: Researcher Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

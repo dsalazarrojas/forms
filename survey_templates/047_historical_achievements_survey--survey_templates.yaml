@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Achievements Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: public_familiarity
+      label: What is the public's familiarity with historical events?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: perceived_impact
+      label: What is the perceived impact of historical events on daily life?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: learning_habits
+      label: What are the learning habits of history among the public?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: historical_events
+      label: Historical Events
+      hint: List 10 historical events
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      - Event 4
+      - Event 5
+      - Event 6
+      - Event 7
+      - Event 8
+      - Event 9
+      - Event 10
+      required: true
+    - id: 6
+      name: event_importance
+      label: How important do you think each event was?
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: historical_figure
+      label: Historical Figure
+      hint: null
+      type: select_one
+      options:
+      - Napoleon
+      - George
+      - Queen
+      required: false
+    - id: 8
+      name: historical_period
+      label: Historical Period
+      hint: null
+      type: select_one
+      options:
+      - Medieval
+      - Ancient
+      - Modern
+      - Renaissance
+      required: false
+    - id: 9
+      name: impact_on_law
+      label: Impact on Law
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: impact_on_society
+      label: Impact on Society
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: impact_on_economy
+      label: Impact on Economy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: historical_figure_other
+      label: Historical Figure (other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Napoleon
+      - George
+      - Queen
+      required: false
+    - id: 13
+      name: historical_period_other
+      label: Historical Period (other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Medieval
+      - Ancient
+      - Modern
+      - Renaissance
+      required: false
+    - id: 14
+      name: impact_on_law_other
+      label: Impact on Law (other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: impact_on_society_other
+      label: Impact on Society (other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: impact_on_economy_other
+      label: Impact on Economy (other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: other_event
+      label: Other Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_frequency
+      label: How often have you heard of this event?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 19
+      name: event_frequency_other
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 20
+      name: date
+      label: Date
+      hint: Date of the event (approximate or exact)
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time
+      label: Time
+      hint: Time of the event
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: event_importance_other
+      label: Event Importance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: perceived_importance
+      label: Perceived Importance (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: learning_habits_other
+      label: Learning Habits (other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_end
+      label: Thank you for taking the survey!
+      hint: null
+      type: note
+      options: []
+      required: false

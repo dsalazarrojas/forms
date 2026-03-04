@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Gratitude Notes
+    pages:
+    - id: 1
+      name: thanksgiving_gratitude_notes
+      label: What's on your mind
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: Write a message expressing your gratitude
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: How did you hear about the gratitude notes form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Social media''}'
+      - '{''id'': 12, ''label'': ''Word of mouth''}'
+      - '{''id'': 13, ''label'': ''Email''}'
+      - '{''id'': 14, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Who are you grateful to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15, ''label'': ''Family''}'
+      - '{''id'': 16, ''label'': ''Friends''}'
+      - '{''id'': 17, ''label'': ''Neighbors''}'
+      - '{''id'': 18, ''label'': ''Colleagues''}'
+      - '{''id'': 19, ''label'': ''Strangers''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

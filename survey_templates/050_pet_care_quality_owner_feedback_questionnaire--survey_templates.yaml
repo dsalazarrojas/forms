@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Care Quality Owner Feedback Questionnaire
+    pages:
+    - id: 1
+      name: pet_care_quality_owner_feedback_questionnaire
+      label: Pet Care Quality Owner Feedback Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_care_service_date
+      label: Pet Care Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pet_care_service_type
+      label: Pet Care Service Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Grooming
+      - Boarding
+      - Walking
+      - Clinic Visit
+      required: true
+    - id: 4
+      name: pet_care_service_quality
+      label: Pet Care Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      required: true
+    - id: 5
+      name: pet_care_owner_feedback
+      label: Pet Care Owner Feedback
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact E Mail
+      hint: null
+      type: email
+      options: []
+      required: true

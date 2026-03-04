@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacant Land Listing Survey
+    pages:
+    - id: 1
+      name: land_details
+      label: Land Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_features
+      label: Property Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: land_area
+      label: Land Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: zoning
+      label: Zoning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: property_address
+      label: Property Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: land_value
+      label: Land Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: land_area_value
+      label: Land Area Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: property_status_date
+      label: Property Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: land_status_date
+      label: Land Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: surveyor_name
+      label: Surveyor
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: surveyor_notes
+      label: Surveyor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: surveyor_phone
+      label: Surveyor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: surveyor_email
+      label: Surveyor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: land_manager
+      label: Land Manager
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: land_manager_phone
+      label: Land Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: land_manager_email
+      label: Land Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: Legal first, middle, last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Applicant's birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_employment
+      label: Current Employment Status
+      hint: Are you currently employed
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-Employed
+      - Unemployed
+      - Student
+      required: true
+    - id: 7
+      name: employment_position
+      label: Current Position or Title
+      hint: Your job title if employed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: In the field related to certification
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: certification_program
+      label: Certification Program Applying For
+      hint: Select the program you wish to enter
+      type: select_one
+      options:
+      - Early Childhood Education
+      - Elementary Education
+      - Secondary Education
+      - Special Education
+      - Administrative Leadership
+      - Instructional Technology
+      required: true
+    - id: 10
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: Your educational credential
+      type: select_one
+      options:
+      - High School Diploma
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      required: true
+    - id: 11
+      name: degree_field
+      label: Field of Study for Highest Degree
+      hint: Major or subject area
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: college_attended
+      label: College or University Attended
+      hint: Name of institution
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gpa_record
+      label: Grade Point Average
+      hint: Last completed degree GPA
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to a background check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: criminal_history
+      label: Any Criminal History
+      hint: Have you ever been convicted of a crime
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Prefer Not to Answer
+      required: true
+    - id: 16
+      name: criminal_details
+      label: If Yes, Please Provide Details
+      hint: Description of conviction if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: professional_references
+      label: Three Professional References
+      hint: Names, titles, and contact information
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: motivation_essay
+      label: Motivation for Seeking Certification
+      hint: Brief statement about why you're pursuing this
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: professional_goals
+      label: Professional Goals
+      hint: Your objectives after earning certification
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: financial_need
+      label: Financial Assistance Needed
+      hint: Do you need financial aid
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: availability_start
+      label: When Can You Start Program
+      hint: Preferred program start date
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: application_agreement
+      label: Agreement to Program Requirements
+      hint: Do you agree to meet all program requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: acknowledgment
+      label: I Certify Information is True and Complete
+      hint: Acknowledge truthfulness of application
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true

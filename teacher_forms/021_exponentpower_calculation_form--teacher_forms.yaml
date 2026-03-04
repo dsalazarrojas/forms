@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: ExponentPower Calculation Form
+    pages:
+    - id: 1
+      name: base_input
+      label: base_input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: exponent_input
+      label: exponent_input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: calculate_button
+      label: calculate_button
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''base_to_exponent''}'
+      - '{''label'': ''exponent_to_base''}'
+      required: true

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Service Request Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appliance_details
+      label: -- Appliance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: appliance_type
+      label: Type of Appliance
+      hint: null
+      type: select_one
+      options:
+      - Refrigerator
+      - Washing Machine
+      - Dishwasher
+      - Microwave
+      - Oven
+      - Air Conditioner
+      - Water Heater
+      - Other
+      required: true
+    - id: 8
+      name: brand_model
+      label: Brand and Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: warranty_status
+      label: Is it under warranty?
+      hint: null
+      type: select_one
+      options:
+      - Yes, manufacturer warranty
+      - Yes, extended warranty
+      - No warranty
+      - Unsure
+      required: false
+    - id: 12
+      name: service_request
+      label: -- Service Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: issue_description
+      label: Describe the problem or issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: issue_started
+      label: When did the issue start?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: issue_frequency
+      label: How often does the issue occur?
+      hint: null
+      type: select_one
+      options:
+      - Constantly
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 16
+      name: troubleshooting_done
+      label: Have you tried any troubleshooting steps?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: troubleshooting_description
+      label: Describe what troubleshooting you have done
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_scheduling
+      label: -- Service Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_service_date
+      label: Preferred service date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: preferred_time
+      label: Preferred time slot
+      hint: null
+      type: select_one
+      options:
+      - Morning - 8 AM to 12 PM
+      - Afternoon - 12 PM to 5 PM
+      - Evening - 5 PM to 8 PM
+      - Flexible
+      required: true

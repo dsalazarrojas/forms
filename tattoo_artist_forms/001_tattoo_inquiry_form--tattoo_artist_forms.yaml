@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: tattoo_inquiry_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tattoo_inquiry
+      label: Tattoo Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tattoo_style
+      label: Tattoo Style
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''tattoo_style_option_1'', ''label'': ''Line Art''}'
+      - '{''name'': ''tattoo_style_option_2'', ''label'': ''Color''}'
+      - '{''name'': ''tattoo_style_option_3'', ''label'': ''Color and Line''}'
+      required: false
+    - id: 4
+      name: tattoo_size
+      label: Tattoo Size
+      hint: null
+      type: number
+      options: []
+      required: false

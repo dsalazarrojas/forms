@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: explore_your_family_heritage
+    pages:
+    - id: 1
+      name: family_history
+      label: share_your_family_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: family_tree
+      label: family_tree
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: ancestors
+      label: ancestral_origins
+      hint: Where did your ancestors come from?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: family_events
+      label: family_events
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: family_events_date
+      label: date_of_event
+      hint: The date of the event (optional)
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: family_events_time
+      label: time_of_event
+      hint: The time of the event
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: family_events_location
+      label: location_of_event
+      hint: Where did the event occur?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_events_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_members
+      label: family_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: family_members_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: family_members_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: family_members_relationship
+      label: relationship_to_you
+      hint: null
+      type: text
+      options: []
+      required: false

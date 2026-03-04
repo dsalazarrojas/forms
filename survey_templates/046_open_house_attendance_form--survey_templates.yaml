@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Attendance Form
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visitor_info
+      label: Visitor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_time_zone
+      label: Event Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{12: ''AM''}'
+      - '{1: ''PM''}'
+      - '{13: ''All Day''}'
+      required: false
+    - id: 10
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: visitors_count
+      label: Visitors Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_date_ordinal
+      label: Event Date Ordinal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_time_ordinal
+      label: Event Time Ordinal
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: visitor_gender
+      label: Visitor Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 20
+      name: visitor_age
+      label: Visitor Age
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 21
+      name: visitor_employment_status
+      label: Visitor Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Other
+      required: false
+    - id: 22
+      name: visitor_education_level
+      label: Visitor Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Bachelor's Degree
+      - Master's Degree
+      - Ph.D.
+      - Other
+      required: false
+    - id: 23
+      name: visitor_occupation
+      label: Visitor Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Engineer
+      - Manager
+      - Artist
+      - Student
+      - Other
+      required: false
+    - id: 24
+      name: visitor_hobbies
+      label: Visitor Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Music
+      - Reading
+      - Other
+      required: false
+    - id: 25
+      name: visitor_travel_history
+      label: Visitor Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

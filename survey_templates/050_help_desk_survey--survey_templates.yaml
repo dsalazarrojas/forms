@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Help Desk Survey
+    pages:
+    - id: 1
+      name: form_1
+      label: Help Desk Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: helpdesk_service
+      label: Help Desk Service
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 5
+      name: helpdesk_rating
+      label: Help Desk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

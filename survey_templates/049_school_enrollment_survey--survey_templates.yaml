@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Enrollment Survey
+    pages:
+    - id: 1
+      name: family_info
+      label: Family Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_background
+      label: Student Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_size
+      label: How many people live in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: family_income
+      label: Household income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: family_education
+      label: What is the highest level of education your parent(s) or guardian(s)
+        have achieved?
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      - Associate's Degree
+      required: true
+    - id: 7
+      name: student_grade_level
+      label: What is your current grade level?
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Middle School
+      required: true
+    - id: 8
+      name: student_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_id
+      label: School id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_grade_level_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_other_info
+      label: Other info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: family_language
+      label: What is the main language spoken at home?
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: true
+    - id: 15
+      name: family_language_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family_language_spoken
+      label: How many languages spoken at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: student_achievements
+      label: Achievements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_hobbies
+      label: What are the student’s favorite hobbies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_hobbies
+      label: Family members' hobbies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: family_education_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: family_education_level
+      label: Highest level of education
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Master's Degree
+      - Bachelor's Degree
+      required: true
+    - id: 22
+      name: family_employment_status
+      label: What is your parents' or guardian's employment status?
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 23
+      name: family_education_field
+      label: What field of education do you think will be the best for you or your
+        family member?
+      hint: null
+      type: select_multiple
+      options:
+      - Science and Technology
+      - Arts
+      - Sports
+      - Business
+      - Humanities
+      required: false
+    - id: 24
+      name: student_language_skills
+      label: Which of these languages do you speak?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: false
+    - id: 25
+      name: student_education_level
+      label: Which level of education do you expect to achieve?
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Associate's Degree
+      - Bachelor's Degree
+      - Doctoral Degree
+      - Master's Degree
+      - Other
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Service Experience Report Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': ''Bank''}'
+      - '{''id'': 4.2, ''label'': ''Insurance''}'
+      - '{''id'': 4.3, ''label'': ''Financial Advisor''}'
+      required: true
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5.1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 5.2, ''label'': ''Satisfied''}'
+      - '{''id'': 5.3, ''label'': ''Not Satisfied''}'
+      required: true
+    - id: 6
+      name: staff_attitude
+      label: Staff Attitude
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6.1, ''label'': ''Friendly''}'
+      - '{''id'': 6.2, ''label'': ''Polite''}'
+      - '{''id'': 6.3, ''label'': ''Not Polite''}'
+      required: true
+    - id: 7
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 7.1, ''label'': ''Good''}'
+      - '{''id'': 7.2, ''label'': ''Very Good''}'
+      - '{''id'': 7.3, ''label'': ''Excellent''}'
+      required: true
+    - id: 8
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''Less than 1 minute''}'
+      - '{''id'': 8.2, ''label'': ''1-2 minutes''}'
+      - '{''id'': 8.3, ''label'': ''2-5 minutes''}'
+      required: true
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 9.1, ''label'': ''Excellent''}'
+      - '{''id'': 9.2, ''label'': ''Good''}'
+      - '{''id'': 9.3, ''label'': ''Fair''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13.1, ''label'': ''Once''}'
+      - '{''id'': 13.2, ''label'': ''Multiple Times''}'
+      required: true
+    - id: 14
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_branch
+      label: Service Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_branch
+      label: Customer Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customer_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 22.1, ''label'': ''Male''}'
+      - '{''id'': 22.2, ''label'': ''Female''}'
+      - '{''id'': 22.3, ''label'': ''Other''}'
+      required: true
+    - id: 23
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false

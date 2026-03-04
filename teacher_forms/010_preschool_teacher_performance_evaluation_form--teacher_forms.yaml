@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Teacher Performance Evaluation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_evaluation
+      label: Teacher Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: teacher_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_feedback
+      label: Student Feedback
+      hint: This form is for student feedback, so please be honest
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

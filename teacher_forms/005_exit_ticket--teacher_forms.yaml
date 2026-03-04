@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Ticket
+    pages:
+    - id: 1
+      name: teacher_form_data
+      label: teacher_form_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_data
+      label: student_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: submission_notes
+      label: submission_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: teacher_assessment
+      label: teacher_assessment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: teacher_signature
+      label: teacher_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

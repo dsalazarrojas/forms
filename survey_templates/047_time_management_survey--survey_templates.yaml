@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Management Survey
+    pages:
+    - id: 1
+      name: time_management_survey
+      label: Time Management Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_management_survey_page_1
+      label: What time does your workday start?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: time_management_survey_page_2
+      label: Time Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_management_survey_page_3
+      label: What time do you usually take a break?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: time_management_survey_page_4
+      label: Time management is
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_management_survey_page_5
+      label: What is the best time management technique you have ever used?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_management_survey_page_6
+      label: What time do you usually leave your work place?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_management_survey_page_7
+      label: How many hours do you usually work per day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_management_survey_page_8
+      label: Do you usually take a break?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: time_management_survey_page_9
+      label: How long do you take for breaks?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: time_management_survey_page_10
+      label: What time do you usually have a meeting?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: time_management_survey_page_11
+      label: How many meetings do you have per day?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: time_management_survey_page_12
+      label: How many hours do you usually spend on meetings?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: time_management_survey_page_13
+      label: Do you usually have a lunch break?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

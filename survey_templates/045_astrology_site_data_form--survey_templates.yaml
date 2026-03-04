@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Astrology Site Data Form
+    pages:
+      - id: 1
+        name: user_first_name
+        label: Your First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: user_last_name
+        label: Your Last Name
+        hint: Your last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: user_email
+        label: Your Email Address
+        hint: Email for horoscope delivery
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: user_gender
+        label: Gender
+        hint: Your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Other
+          - Prefer Not to Say
+        required: true
+      - id: 5
+        name: user_birth_date
+        label: Your Birth Date
+        hint: Date of birth
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: user_birth_time
+        label: Your Birth Time
+        hint: Time of birth (for accuracy)
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: user_birth_city
+        label: Your Birth City
+        hint: City where you were born
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: user_birth_state
+        label: Your Birth State/Province
+        hint: State or province
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: user_birth_country
+        label: Your Birth Country
+        hint: Country where you were born
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: user_time_zone
+        label: Time Zone at Birth
+        hint: Your birth timezone
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: user_sun_sign
+        label: Your Sun Sign (Zodiac Sign)
+        hint: Calculated from birth date
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: partner_information
+        label: Include Partner Information
+        hint: Also generate partner horoscope?
+        type: select_one
+        options:
+          - "No"
+          - "Yes"
+        required: true
+      - id: 13
+        name: partner_first_name
+        label: Partner First Name
+        hint: Your partner's first name
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: partner_last_name
+        label: Partner Last Name
+        hint: Your partner's last name
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: partner_birth_date
+        label: Partner Birth Date
+        hint: Partner's date of birth
+        type: date
+        options: []
+        required: false
+      - id: 16
+        name: partner_birth_time
+        label: Partner Birth Time
+        hint: Time of birth for accuracy
+        type: time
+        options: []
+        required: false
+      - id: 17
+        name: partner_birth_city
+        label: Partner Birth City
+        hint: City where partner was born
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: partner_birth_state
+        label: Partner Birth State/Province
+        hint: State or province
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: partner_birth_country
+        label: Partner Birth Country
+        hint: Country where partner was born
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: partner_sun_sign
+        label: Partner Sun Sign
+        hint: Calculated from partner's birth date
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: horoscope_type
+        label: Type of Horoscope Requested
+        hint: What kind of reading?
+        type: select_one
+        options:
+          - Daily Horoscope
+          - Weekly Horoscope
+          - Monthly Horoscope
+          - Annual Horoscope
+          - Love Horoscope
+          - Career Horoscope
+          - Compatibility Reading
+          - General Reading
+        required: true
+      - id: 22
+        name: focus_areas
+        label: Areas of Focus
+        hint: What aspects of life?
+        type: select_multiple
+        options:
+          - Love and Relationships
+          - Career and Finances
+          - Health and Wellness
+          - Family and Home
+          - Personal Growth
+          - Travel
+          - Creativity
+          - General
+        required: false
+      - id: 23
+        name: additional_notes
+        label: Additional Notes or Requests
+        hint: Any specific interests?
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: form_submission_date
+        label: Form Submission Date
+        hint: Date horoscope requested
+        type: date
+        options: []
+        required: true
+      - id: 25
+        name: receive_updates
+        label: Receive Astrology Updates and Horoscopes
+        hint: Opt-in to updates
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

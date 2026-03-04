@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Pole Inspection Form
+    pages:
+    - id: 1
+      name: power_pole_inspection_form
+      label: power_pole_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pole_condition
+      label: pole_condition
+      hint: null
+      type: select_one
+      options:
+      - Inspect
+      - Repair
+      - Replace
+      - Other
+      required: false
+    - id: 3
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: pole_height
+      label: pole_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspector
+      label: inspector
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 7
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false

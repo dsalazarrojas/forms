@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Summer School Application Form
+    pages:
+    - id: 1
+      name: application_submission
+      label: Application Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: num_students
+      label: Number Of Students
+      hint: Enter how many students will participate in summer classes
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_start_date
+      label: School Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: school_start_time
+      label: School Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: school_end_date
+      label: School End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: school_end_time
+      label: School End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: teacher_phone
+      label: Teacher Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_names
+      label: Student Names
+      hint: Enter student names
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_emails
+      label: Student Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_phones
+      label: Student Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

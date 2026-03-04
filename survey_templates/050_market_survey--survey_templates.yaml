@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: market_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: questions
+      label: market_survey_questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: target_market
+      label: targeted_market
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: market_segments
+      label: market_segments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: demographic_characteristics
+      label: demographic_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: geographic_segment
+      label: geographic_segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: behavioral_characteristics
+      label: behavioral_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: psychographic_characteristics
+      label: psychographic_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: note
+      options: []
+      required: false

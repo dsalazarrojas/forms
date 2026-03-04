@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drainage Survey
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drainage_system_status
+      label: drainage_system_status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: flow_rates
+      label: flow_rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: water_quality
+      label: water_quality
+      hint: null
+      type: text
+      options: []
+      required: false

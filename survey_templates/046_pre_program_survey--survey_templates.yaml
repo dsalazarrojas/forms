@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Program Survey
+    pages:
+    - id: 1
+      name: program_info
+      label: program_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_location
+      label: program_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: program_interest
+      label: program_interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: program_language
+      label: program_language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_start_date
+      label: program_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_expected_graduation_date
+      label: program_expected_graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_expected_graduation_date
+      label: program_expected_graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: program_notes
+      label: program_notes
+      hint: null
+      type: note
+      options: []
+      required: false

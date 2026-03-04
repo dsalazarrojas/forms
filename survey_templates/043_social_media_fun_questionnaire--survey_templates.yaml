@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Fun Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: What is your age range?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: social_media_preference
+      label: Which social media platforms do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - YouTube
+      - Snapchat
+      required: false
+    - id: 4
+      name: social_media_frequency
+      label: How often do you use social media?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 5
+      name: content_creation
+      label: What type of content do you like to see on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Videos
+      - Photos
+      - Posts
+      - Stories
+      - Live streams
+      required: false
+    - id: 6
+      name: content_likes
+      label: What type of content do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - Funny
+      - Informative
+      - Inspirational
+      - Educational
+      - Entertaining
+      required: false
+    - id: 7
+      name: content_sharing
+      label: How do you share content on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - With friends
+      - With family
+      - With colleagues
+      - With strangers
+      required: false
+    - id: 8
+      name: content_engagement
+      label: What type of content engages you on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Funny
+      - Relatable
+      - Informative
+      - Engaging
+      - Inspiring
+      required: false
+    - id: 9
+      name: content_share
+      label: What do you share on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Personal experiences
+      - Product reviews
+      - News
+      - Events
+      - Photos
+      required: false
+    - id: 10
+      name: content_sources
+      label: Where do you get your social media content from?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media platforms
+      - Blogs
+      - Influencers
+      - News
+      - Word of mouth
+      required: false
+    - id: 11
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - YouTube
+      required: false
+    - id: 12
+      name: social_media_audience
+      label: Who do you use social media to connect with?
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Colleagues
+      - Brands
+      - Strangers
+      required: false
+    - id: 13
+      name: social_media_behavior
+      label: How do you think social media affects your life?
+      hint: null
+      type: select_multiple
+      options:
+      - Positively
+      - Negatively
+      - Neutral
+      - Somewhat positively
+      - Somewhat negatively
+      required: false
+    - id: 14
+      name: content_creation_frequency
+      label: How often do you share your own content?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 15
+      name: social_media_friends
+      label: What kind of social media friendships are most meaningful to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Casual
+      - Meaningful
+      - Superficial
+      required: false
+    - id: 16
+      name: content_style
+      label: What type of content style do you like on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Humor
+      - Serious
+      - Informal
+      - Formal
+      - Storytelling
+      required: false
+    - id: 17
+      name: personal_data_sharing
+      label: How much do you share your personal data on social media?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 18
+      name: content_style_effect
+      label: What effect does content style have on your engagement with social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Somewhat positive
+      - Somewhat negative
+      required: false
+    - id: 19
+      name: personal_data_privacy
+      label: How concerned are you about your online personal data privacy?
+      hint: null
+      type: select_one
+      options:
+      - Highly concerned
+      - Somewhat concerned
+      - Not concerned
+      - Very concerned
+      - Not at all concerned
+      required: false
+    - id: 20
+      name: social_media_consequences
+      label: What are the consequences of social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 21
+      name: final_question
+      label: Thank you for taking the time to fill out this survey.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: social_media_fun_facts
+      label: Do you find social media fun?
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 23
+      name: social_media_interests
+      label: What are your interests on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Entertainment
+      - Music
+      - Travel
+      - Food
+      required: false
+    - id: 24
+      name: social_media_activities
+      label: What activities do you do on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Browsing
+      - Sharing
+      - Engaging
+      - Commenting
+      - Watching
+      required: false
+    - id: 25
+      name: social_media_future
+      label: What do you think the future of social media will be?
+      hint: null
+      type: text
+      options: []
+      required: false

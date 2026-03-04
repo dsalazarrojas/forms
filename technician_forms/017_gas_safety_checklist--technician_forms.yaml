@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Safety Checklist
+    pages:
+    - id: 1
+      name: install_gas_appliance
+      label: Install Gas Appliance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_leaks
+      label: Check For Leaks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: verify_valves
+      label: Verify Valves
+      hint: null
+      type: select_one
+      options:
+      - Valve A
+      - Valve B
+      required: false
+    - id: 4
+      name: ensure_proper_installation
+      label: Ensure Proper Installation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_gas_leak_test
+      label: Confirm Gas Leak Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_fitting_and_connections
+      label: Check Fitting And Connections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: verify_gas_valve_location
+      label: Verify Gas Valve Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspect_valve_body
+      label: Inspect Valve Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ensure_proper_gasket_seal
+      label: Ensure Proper Gasket Seal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: check_gas_leak_test_equipment
+      label: Check Gas Leak Test Equipment
+      hint: null
+      type: select_one
+      options:
+      - Equipment A
+      - Equipment B
+      required: false
+    - id: 11
+      name: inspect_gasket_and_valve
+      label: Inspect Gasket And Valve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ensure_correct_gas_valve_type
+      label: Ensure Correct Gas Valve Type
+      hint: null
+      type: select_one
+      options:
+      - Valve Type A
+      - Valve Type B
+      required: false

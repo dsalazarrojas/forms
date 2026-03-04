@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_delivery_app_usability_inquiry_form
+    pages:
+    - id: 1
+      name: form_header
+      label: What do you think of our app?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate our food app
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Neutral''}'
+      - '{4: ''Bad''}'
+      - '{5: ''Very bad''}'
+      required: false
+    - id: 3
+      name: food_quality
+      label: How would you rate the quality of our food?
+      hint: On a scale from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ordering_process
+      label: How would you rate the ordering process?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very easy''}'
+      - '{2: ''Easy''}'
+      - '{3: ''Neutral''}'
+      - '{4: ''Difficult''}'
+      - '{5: ''Very difficult''}'
+      required: false
+    - id: 5
+      name: food_quality_rating
+      label: food quality rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_frequency
+      label: How often do you order from us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Once a week or less''}'
+      - '{2: ''2-3 times a week''}'
+      - '{3: ''Daily or almost daily''}'
+      required: false
+    - id: 7
+      name: order_frequency_days
+      label: How many days do you order from us?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_value
+      label: How much money do you spend in our app in a month?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_rating
+      label: How would you rate our customer service?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Neutral''}'
+      - '{4: ''Bad''}'
+      - '{5: ''Very bad''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false

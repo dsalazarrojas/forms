@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Survey
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defense
+      - Midfielder
+      - Forward
+      required: false
+    - id: 3
+      name: player_height
+      label: Player Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: game_experience
+      label: Game Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: game_frequency
+      label: Games Played per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: game_frequency_days
+      label: Games Played per Week Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: game_day_start_time
+      label: Game Day Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

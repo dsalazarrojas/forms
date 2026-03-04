@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparer Agreement Form
+    pages:
+    - id: 1
+      name: agreement_form
+      label: Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tax_return_submission
+      label: Tax Return Submission
+      hint: null
+      type: select_one
+      options:
+      - Federal
+      - State
+      - Local
+      - Amended
+      required: true
+    - id: 3
+      name: tax_return_due_date
+      label: Tax Return Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tax_return_filing_status
+      label: Tax Return Filing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Filing
+      - Amended
+      - Waived
+      required: true
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: tax_return_prep_service
+      label: Tax Return Preparer Service
+      hint: null
+      type: select_one
+      options:
+      - Preparer
+      - Preparer and Advisor
+      - Preparer and Consultant
+      - Preparer and Advisor and Consultant
+      required: true
+    - id: 7
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      required: true
+    - id: 8
+      name: tax_return_prep_fees
+      label: Tax Return Preparer Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      - Video
+      required: true
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preparer_signature
+      label: Preparer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: tax_return_prep_agreement
+      label: Tax Return Preparer Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tax_return_prep_agreement_terms
+      label: Tax Return Preparer Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_acknowledgement
+      label: Client Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_image
+      label: Signature Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: tax_return_prep_agreement_form_completion_date
+      label: Tax Return Preparer Agreement Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: tax_return_prep_agreement_form_revision
+      label: Tax Return Preparer Agreement Form Revision
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: preparer_name
+      label: Preparer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tax_return_prep_agreement_form_version
+      label: Tax Return Preparer Agreement Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tax_return_prep_agreement_form_status
+      label: Tax Return Preparer Agreement Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Signed
+      - Completed
+      required: true
+    - id: 23
+      name: tax_return_prep_service_agreement_form_notes
+      label: Tax Return Preparer Service Agreement Form Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: client_signature_note
+      label: Client Signature Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

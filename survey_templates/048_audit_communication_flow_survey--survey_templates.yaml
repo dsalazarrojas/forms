@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Communication Flow Survey
+    pages:
+      - id: 1
+        name: section_survey_info
+        label: -- Survey Participants --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: auditor_name
+        label: Name of Auditor
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: auditee_department
+        label: Department Audited
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: audit_project_ref
+        label: Audit Project Reference
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_comm_channels
+        label: -- Communication Channels --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: primary_comm_method
+        label: Primary Method of Communication used
+        hint: null
+        type: select_one
+        options:
+          - Email
+          - Face-to-Face Meetings
+          - Video Calls (Zoom/Teams)
+          - Shared Audit Platform/Portal
+          - Phone Calls
+        required: true
+      - id: 7
+        name: frequency_rating
+        label: Frequency of Communication
+        hint: Was there enough contact during the audit?
+        type: select_one
+        options:
+          - Just Right
+          - Too Frequent (Disruptive)
+          - Not Frequent Enough
+        required: true
+      - id: 8
+        name: timeliness_of_responses
+        label: Timeliness of Responses from the other party
+        hint: How quickly did you get answers?
+        type: select_one
+        options:
+          - Very Prompt
+          - Acceptable
+          - Sometimes Delayed
+          - Consistently Late
+        required: true
+      - id: 9
+        name: section_quality
+        label: -- Communication Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: clarity_of_requests
+        label: Clarity of Information and Document Requests
+        hint: Was it easy to understand what was needed?
+        type: select_one
+        options:
+          - Extremely Clear
+          - Mostly Clear
+          - Often Vague
+          - Very Unclear
+        required: true
+      - id: 11
+        name: communication_barriers
+        label: Did you encounter any communication barriers?
+        hint: e.g., Technical issues, language, siloed info
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: professionalism_rating
+        label: Professionalism of Communication
+        hint: Tone, respect, and courtesy
+        type: select_one
+        options:
+          - 5 - Highly Professional
+          - 4 - Professional
+          - 3 - Neutral
+          - 2 - Needs Improvement
+          - 1 - Unprofessional
+        required: true
+      - id: 13
+        name: section_feedback
+        label: -- Suggestions for Flow Improvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: improvement_suggestions
+        label: How can we improve the audit communication flow?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: completion_date
+        label: Date of Survey Completion
+        hint: null
+        type: date
+        options: []
+        required: true

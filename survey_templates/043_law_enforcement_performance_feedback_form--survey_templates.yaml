@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Enforcement Performance Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: police_force
+      label: Police Force
+      hint: null
+      type: select_one
+      options:
+      - Police Department 1
+      - Police Department 2
+      - Police Department 3
+      required: true
+    - id: 5
+      name: police_officer_name
+      label: Police Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: officer_rating
+      label: Officer Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: police_station
+      label: Police Station
+      hint: null
+      type: select_one
+      options:
+      - Station 1
+      - Station 2
+      - Station 3
+      required: true
+    - id: 12
+      name: officer_credential
+      label: Officer Credential
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 14
+      name: officer_response
+      label: Officer Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interaction_type
+      label: Interaction Type
+      hint: null
+      type: select_one
+      options:
+      - Interaction Type 1
+      - Interaction Type 2
+      - Interaction Type 3
+      required: true
+    - id: 16
+      name: police_equipment
+      label: Police Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interaction_details
+      label: Interaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 19
+      name: officer_notes
+      label: Officer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: community_suggestions
+      label: Community Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: officer_agreement
+      label: Officer Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Undecided
+      required: true
+    - id: 22
+      name: officer_concerns
+      label: Officer Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_comments
+      label: Department Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: community_comments
+      label: Community Comments
+      hint: null
+      type: text
+      options: []
+      required: false

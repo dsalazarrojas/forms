@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Favorite Things Form
+    pages:
+    - id: 1
+      name: teacher_favorits
+      label: Favorite Things
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: things_liked
+      label: Things Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: things_disliked
+      label: Things Disliked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: favorite_colors
+      label: Favorite Colors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Orange
+      - Yellow
+      - Green
+      - Blue
+      - Purple
+      - Pink
+      - Brown
+      - Black
+      - Grey
+      - White
+      - Brown
+      - Yellow
+      - Grey
+      required: false

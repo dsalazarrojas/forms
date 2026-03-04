@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Waste Reduction Practices Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hospital_info
+      label: hospital_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: waste_stream
+      label: waste_stream
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare
+      - Non-healthcare
+      - Other
+      required: false
+    - id: 4
+      name: waste_types
+      label: waste_types
+      hint: null
+      type: select_one
+      options:
+      - Non-hazardous
+      - Hazardous
+      - Unknown
+      required: false
+    - id: 5
+      name: waste_quantities
+      label: waste_quantities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reduction_efforts
+      label: reduction_efforts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: barriers
+      label: barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_suggestions
+      label: staff_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_driven_planning
+      label: data_driven_planning
+      hint: null
+      type: text
+      options: []
+      required: false

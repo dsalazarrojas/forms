@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Remote Employee Connectivity And Morale Check In
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Marketing''}'
+      - '{''id'': 2, ''value'': ''Sales''}'
+      - '{''id'': 3, ''value'': ''Customer Support''}'
+      required: true
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_location
+      label: work_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''On-site''}'
+      - '{''id'': 2, ''value'': ''Remote''}'
+      - '{''id'': 3, ''value'': ''Hybrid''}'
+      required: true
+    - id: 6
+      name: manager_contact
+      label: manager_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_leads
+      label: team_leads
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''John''}'
+      - '{''id'': 2, ''value'': ''Jane''}'
+      required: false
+    - id: 8
+      name: colleagues
+      label: colleagues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Alex''}'
+      - '{''id'': 2, ''value'': ''Bob''}'
+      - '{''id'': 3, ''value'': ''Mike''}'
+      required: false
+    - id: 9
+      name: collaborators
+      label: collaborators
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Sam''}'
+      - '{''id'': 2, ''value'': ''Alex''}'
+      - '{''id'': 3, ''value'': ''John''}'
+      required: false
+    - id: 10
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Bob''}'
+      - '{''id'': 2, ''value'': ''Mike''}'
+      - '{''id'': 3, ''value'': ''Jane''}'
+      required: false
+    - id: 11
+      name: direct_reports
+      label: direct_reports
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Sam''}'
+      - '{''id'': 2, ''value'': ''John''}'
+      - '{''id'': 3, ''value'': ''Bob''}'
+      required: false
+    - id: 12
+      name: indirect_reports
+      label: indirect_reports
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Alex''}'
+      - '{''id'': 2, ''value'': ''Jane''}'
+      - '{''id'': 3, ''value'': ''Mike''}'
+      required: false
+    - id: 13
+      name: reports_to_manager
+      label: reports_to_manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''John''}'
+      - '{''id'': 2, ''value'': ''Bob''}'
+      - '{''id'': 3, ''value'': ''Mike''}'
+      required: false
+    - id: 14
+      name: work_from_home
+      label: work_from_home
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: true
+    - id: 15
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: work_hours_start
+      label: work_hours_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: work_hours_end
+      label: work_hours_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: work_hours_break
+      label: work_hours_break
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''EST''}'
+      - '{''id'': 2, ''value'': ''CST''}'
+      - '{''id'': 3, ''value'': ''MST''}'
+      - '{''id'': 4, ''value'': ''PST''}'
+      required: true
+    - id: 20
+      name: team_meetings
+      label: team_meetings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_meetings_frequency
+      label: team_meetings_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Daily''}'
+      - '{''id'': 2, ''value'': ''Weekly''}'
+      - '{''id'': 3, ''value'': ''Monthly''}'
+      required: false
+    - id: 22
+      name: team_meetings_time
+      label: team_meetings_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: team_meetings_date
+      label: team_meetings_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

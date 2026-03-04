@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agile Maturity Assessment Form Template
+    pages:
+    - id: 1
+      name: template_header
+      label: -- Assessment Template --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Organization being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_period
+      label: Assessment period
+      hint: Dates covered by this assessment
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agile_practices
+      label: Agile practices in use
+      hint: Check all that apply
+      type: select_multiple
+      options: [Scrum, Kanban, XP, Lean, DevOps]
+      required: true
+    - id: 5
+      name: leadership_support
+      label: Leadership support
+      hint: Level of visible executive sponsorship
+      type: select_one
+      options: [Strong, Moderate, Weak]
+      required: true
+    - id: 6
+      name: measurement_maturity
+      label: Measurement maturity
+      hint: Use of metrics and KPIs
+      type: select_one
+      options: [Advanced, Established, Developing, None]
+      required: true
+    - id: 7
+      name: team_autonomy
+      label: Team autonomy level
+      hint: Degree to which teams make decisions
+      type: select_one
+      options: [High, Medium, Low]
+      required: true
+    - id: 8
+      name: cultural_readiness
+      label: Cultural readiness for change
+      hint: Readiness level across organization
+      type: select_one
+      options: [High, Medium, Low]
+      required: true
+    - id: 9
+      name: maturity_level
+      label: Suggested maturity level
+      hint: Recommended level after assessment
+      type: select_one
+      options: [Level 1, Level 2, Level 3, Level 4, Level 5]
+      required: false
+    - id: 10
+      name: recommendations
+      label: Recommendations and next steps
+      hint: Brief action plan for improvement
+      type: text
+      options: []
+      required: false

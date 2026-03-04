@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location History Form
+    pages:
+    - id: 1
+      name: user_contacted
+      label: Contacted Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location_visited
+      label: Last Location Visited
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_visited
+      label: Time Visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_affected
+      label: Location Affected
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Home'', ''label'': ''Home''}'
+      - '{''value'': ''Work'', ''label'': ''Work''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Contacted Person'', ''label'': ''Contacted Person''}'
+      - '{''value'': ''Shared Equipment'', ''label'': ''Shared Equipment''}'
+      - '{''value'': ''Shared Vehicle'', ''label'': ''Shared Vehicle''}'
+      - '{''value'': ''Shared Food'', ''label'': ''Shared Food''}'
+      required: false
+    - id: 7
+      name: contact_duration
+      label: Contact Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_frequency
+      label: Frequency of Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Once'', ''label'': ''Once''}'
+      - '{''value'': ''Multiple Times'', ''label'': ''Multiple Times''}'
+      - '{''value'': ''Regularly'', ''label'': ''Regularly''}'
+      required: false
+    - id: 9
+      name: contact_distance
+      label: Contact Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_medium
+      label: Contact Medium
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Air'', ''label'': ''Air''}'
+      - '{''value'': ''Water'', ''label'': ''Water''}'
+      - '{''value'': ''Ground'', ''label'': ''Ground''}'
+      required: false
+    - id: 11
+      name: contact_other_medium
+      label: Contact Medium Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_location
+      label: Contact Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Home'', ''label'': ''Home''}'
+      - '{''value'': ''Work'', ''label'': ''Work''}'
+      - '{''value'': ''School'', ''label'': ''School''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: user_surveyed
+      label: Infected Person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Affected'', ''label'': ''Affected''}'
+      - '{''value'': ''Not Affected'', ''label'': ''Not Affected''}'
+      required: false
+    - id: 15
+      name: contact_other_location
+      label: Location of Exposure
+      hint: null
+      type: text
+      options: []
+      required: false

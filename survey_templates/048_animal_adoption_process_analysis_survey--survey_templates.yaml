@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Process Analysis Survey
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Process Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: responder_name
+      label: Responder name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role in adoption process
+      hint: Staff volunteer or adopter
+      type: select_one
+      options: [Staff, Volunteer, Adopter]
+      required: true
+    - id: 4
+      name: process_stage
+      label: Process stage being evaluated
+      hint: Choose one
+      type: select_one
+      options: [Application, Screening, Match, Follow up]
+      required: true
+    - id: 5
+      name: pain_points
+      label: Main pain points
+      hint: Describe key issues
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Practical recommendations
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority_level
+      label: Priority for action
+      hint: Select priority
+      type: select_one
+      options: [Low, Medium, High]
+      required: false
+    - id: 8
+      name: follow_up_contact
+      label: Contact for follow up
+      hint: Email if follow up is desired
+      type: email
+      options: []
+      required: false

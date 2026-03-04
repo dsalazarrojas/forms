@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Air Quality Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_2
+      label: How many hours per day do you spend outdoors?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: question_3
+      label: On average, how much time per day do you spend in the city center?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: question_4
+      label: How many days per week do you work outdoors?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      required: true
+    - id: 5
+      name: question_5
+      label: What is the primary source of air pollution for you?
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bus
+      - Train
+      - Plane
+      - Other
+      required: true
+    - id: 6
+      name: question_6
+      label: How concerned are you about air pollution?
+      hint: null
+      type: select_one
+      options:
+      - Very concerned
+      - Somewhat concerned
+      - Not very concerned
+      - Not concerned at all
+      required: true
+    - id: 7
+      name: question_7
+      label: Do you think air pollution is a serious issue in your community?
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Strongly disagree
+      - Unsure
+      required: true
+    - id: 8
+      name: question_8
+      label: Would you like to report any issues related to air quality in your community?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: question_10
+      label: How did you hear about this survey?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friends and family
+      - Online search
+      - Other
+      required: false
+    - id: 11
+      name: question_11
+      label: How did you find this survey?
+      hint: null
+      type: select_one
+      options:
+      - Internet
+      - Paper/Print
+      required: false
+    - id: 12
+      name: question_12
+      label: What is your role in the community?
+      hint: null
+      type: select_multiple
+      options:
+      - Resident
+      - Community group
+      - Organization
+      - Other
+      required: true
+    - id: 13
+      name: question_13
+      label: How long have you lived in this city?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question_14
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: question_15
+      label: Do you have any additional comments or concerns?
+      hint: null
+      type: note
+      options: []
+      required: false

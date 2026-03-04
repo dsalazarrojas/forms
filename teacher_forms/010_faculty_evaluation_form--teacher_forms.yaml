@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Evaluation Form
+    pages:
+    - id: 1
+      name: faculty_rating
+      label: Faculty Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department_rating
+      label: Department Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false

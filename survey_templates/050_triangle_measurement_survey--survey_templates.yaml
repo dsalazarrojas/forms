@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Triangle Measurement Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question
+      label: What is the best way to measure a triangle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How do you rate the ease of use of this method?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: question_4
+      label: What is your role in using this survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: question_5
+      label: How do you rate the accuracy of the data collected?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_6
+      label: When do you use the Triangle Measurement Survey?
+      hint: null
+      type: date
+      options: []
+      required: false

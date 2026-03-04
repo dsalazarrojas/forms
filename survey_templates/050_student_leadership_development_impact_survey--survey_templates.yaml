@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Leadership Development Impact Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: SurveyIntro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_programs
+      label: SchoolPrograms
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Junior College
+      - Community College
+      - University
+      - Post-Graduate
+      required: false
+    - id: 3
+      name: survey_year
+      label: SurveyYear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: StudentName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: SchoolName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_name
+      label: ProgramName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: school_survey_date
+      label: SchoolSurveyDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_coordinator
+      label: ProgramCoordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_admin
+      label: SchoolAdmin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_info
+      label: OtherInfo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: school_survey
+      label: SchoolSurvey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

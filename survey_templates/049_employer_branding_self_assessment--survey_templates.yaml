@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: employer-branding-self-assessment
+    pages:
+    - id: 1
+      name: employee_engagement
+      label: Employee Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: job-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: diversity_and_inclusion
+      label: diversity-and-inclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: benefits_and_compensation
+      label: benefits-and-compensation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: career_development
+      label: career-development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: diversity_and_inclusion_practices
+      label: diversity-and-inclusion-practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_life_balance
+      label: work-life-balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_satisfaction_practices
+      label: job-satisfaction-practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: leadership_effectiveness
+      label: leadership-effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: diversity_and_inclusion_leadership
+      label: diversity-and-inclusion-leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

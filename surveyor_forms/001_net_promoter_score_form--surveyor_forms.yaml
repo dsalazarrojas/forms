@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Promoter Score Form
+    pages:
+    - id: 1
+      name: net_promoter_score_form
+      label: Net Promoter Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_feedback
+      label: What do you usually do when you think about this company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_feelings
+      label: On a scale of 0-10, how likely are you to recommend this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_feelings_2
+      label: On a scale of 0-10, how likely are you to recommend this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_feelings_3
+      label: How likely are you to recommend this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_referrals
+      label: How likely are you to refer a friend to this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_referrals_2
+      label: How likely are you to refer a friend to this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_referrals_3
+      label: Referrals
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0, ''label'': ''Never''}'
+      - '{''value'': 1, ''label'': ''Rarely''}'
+      - '{''value'': 2, ''label'': ''Occasionally''}'
+      - '{''value'': 3, ''label'': ''Often''}'
+      - '{''value'': 4, ''label'': ''Almost always''}'
+      - '{''value'': 5, ''label'': ''Always''}'
+      required: true
+    - id: 9
+      name: customer_referrals_4
+      label: How likely are you to refer a friend to this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_feelings_2_2
+      label: On a scale of 0-10, how likely are you to recommend this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_feelings_3_2
+      label: How likely are you to recommend this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_feelings_4
+      label: On a scale of 0-10, how likely are you to recommend this company?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,385 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chore Management Survey
+    pages:
+    - id: 1
+      name: household_information
+      label: Household Information
+      hint: About your living situation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_type
+      label: Type of Household
+      hint: null
+      type: select_one
+      options:
+      - Family with children
+      - Roommates sharing
+      - Couple
+      - Single person
+      - Other
+      required: true
+    - id: 4
+      name: number_of_residents
+      label: Number of Residents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: number_of_children
+      label: Number of Children
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: living_space
+      label: Type of Living Space
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Townhouse
+      - Dormitory
+      - Other
+      required: false
+    - id: 7
+      name: current_chore_system
+      label: Current Chore System
+      hint: How chores are managed
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: have_chore_system
+      label: Do you have a current chore system
+      hint: null
+      type: select_one
+      options:
+      - Yes, formal schedule
+      - Yes, informal arrangement
+      - No system
+      - Not applicable
+      required: true
+    - id: 9
+      name: chore_distribution
+      label: How are chores distributed
+      hint: null
+      type: select_one
+      options:
+      - Assigned by person
+      - Rotating schedule
+      - Whoever does it first
+      - Hired help
+      - No system
+      required: true
+    - id: 10
+      name: satisfaction_current
+      label: Satisfaction with Current System
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: true
+    - id: 11
+      name: chore_frequency
+      label: Chore Frequency
+      hint: How often chores are done
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: daily_chores
+      label: Daily Chores Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dishes
+      - Cooking
+      - Making beds
+      - Tidying up
+      - Pet care
+      - Trash removal
+      - None
+      required: false
+    - id: 13
+      name: weekly_chores
+      label: Weekly Chores Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vacuuming
+      - Mopping
+      - Bathroom cleaning
+      - Dusting
+      - Laundry
+      - Grocery shopping
+      - Yard work
+      - None
+      required: false
+    - id: 14
+      name: monthly_chores
+      label: Monthly Chores Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Deep cleaning
+      - Window washing
+      - Appliance cleaning
+      - Decluttering
+      - Car maintenance
+      - None
+      required: false
+    - id: 15
+      name: fairness_assessment
+      label: Fairness Assessment
+      hint: Distribution of work
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: chore_distribution_fair
+      label: Is the chore distribution fair
+      hint: null
+      type: select_one
+      options:
+      - Very fair
+      - Somewhat fair
+      - Neutral
+      - Somewhat unfair
+      - Very unfair
+      required: true
+    - id: 17
+      name: who_does_most
+      label: Who does most of the chores
+      hint: null
+      type: select_one
+      options:
+      - Me
+      - Partner or spouse
+      - Children
+      - Roommates
+      - Hired help
+      - Shared equally
+      required: true
+    - id: 18
+      name: chore_burden
+      label: Do you feel burdened by chores
+      hint: null
+      type: select_one
+      options:
+      - Yes, very burdened
+      - Yes, somewhat burdened
+      - Neutral
+      - No, manageable
+      - No, I enjoy chores
+      required: true
+    - id: 19
+      name: challenges
+      label: Challenges
+      hint: Problems faced
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: main_challenges
+      label: Main Chore Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Getting others to help
+      - Remembering to do chores
+      - Finding time
+      - Disagreements about standards
+      - Not knowing who does what
+      - Lack of motivation
+      - Physical limitations
+      - None
+      required: true
+    - id: 21
+      name: biggest_challenge
+      label: What is your biggest chore challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: conflict_frequency
+      label: How often do chores cause conflict
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 23
+      name: improvements_desired
+      label: Desired Improvements
+      hint: What would help
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: want_better_system
+      label: Would you like a better chore management system
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - Maybe
+      - No, current system works
+      required: true
+    - id: 25
+      name: helpful_tools
+      label: What tools would be helpful
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chore chart
+      - Mobile app
+      - Rotating schedule
+      - Reward system
+      - Clear assignments
+      - Regular meetings
+      - Professional help
+      - None
+      required: false
+    - id: 26
+      name: willing_to_try
+      label: Would you be willing to try a new system
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, if others agree
+      - Maybe
+      - false
+      required: true
+    - id: 27
+      name: children_involvement
+      label: Children and Chores
+      hint: If applicable
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: children_have_chores
+      label: Do children in household have assigned chores
+      hint: null
+      type: select_one
+      options:
+      - Yes, age-appropriate
+      - Yes, but inconsistent
+      - false
+      - Not applicable
+      required: false
+    - id: 29
+      name: children_chores_list
+      label: What chores do children do
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: reward_system
+      label: Is there a reward system for children
+      hint: null
+      type: select_one
+      options:
+      - Yes, allowance
+      - Yes, privileges
+      - Yes, praise only
+      - false
+      - Not applicable
+      required: false
+    - id: 31
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Your home management
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: home_cleanliness
+      label: Satisfaction with Home Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 33
+      name: stress_level
+      label: How much do chores cause you stress
+      hint: null
+      type: select_one
+      options:
+      - Very high stress
+      - Moderate stress
+      - Low stress
+      - No stress
+      required: true
+    - id: 34
+      name: time_spent
+      label: How much time do you spend on chores weekly
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 11-15 hours
+      - 16-20 hours
+      - More than 20 hours
+      required: true
+    - id: 35
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Your thoughts
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: what_works_well
+      label: What works well in your household
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: suggestions
+      label: Do you have any suggestions for chore management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: additional_comments
+      label: Any Additional Comments
+      hint: We value your feedback
+      type: text
+      options: []
+      required: false

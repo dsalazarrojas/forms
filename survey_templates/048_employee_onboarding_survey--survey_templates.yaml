@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Onboarding Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_info
+      label: Team Information
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Team Manager
+      - Team Member
+      required: false
+    - id: 4
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: On a scale of 1-5, how satisfied are you with your current job?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: What do you suggest we do to improve onboarding for you and your team?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - Review
+      - Approve
+      - Not Review
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save as Draft
+      - Not Submit
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Collection Form
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Personal Details --
+      hint: Please provide your primary contact information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach out to you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS/Text
+      - WhatsApp
+      required: true
+    - id: 6
+      name: tattoo_interests_header
+      label: -- Tattoo Interests --
+      hint: Tell us about your style preferences
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_styles
+      label: Preferred Tattoo Styles
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Traditional (Old School)
+      - Realism
+      - Watercolor
+      - Tribal
+      - New School
+      - Neo Traditional
+      - Japanese (Irezumi)
+      - Blackwork
+      required: false
+    - id: 8
+      name: first_tattoo
+      label: Is this your first tattoo
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: newsletter_subscription
+      label: Subscribe to our newsletter
+      hint: Stay updated on guest artists and events
+      type: select_one
+      options:
+      - Yes, please sign me up
+      - No, thanks
+      required: true
+    - id: 10
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Word of mouth
+      - Google Search
+      - Walking by the studio
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Report Form
+    pages:
+    - id: 1
+      name: training_program_name
+      label: Training Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_completed
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: training_attended
+      label: Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      - declined
+      required: true
+    - id: 4
+      name: training_effectiveness
+      label: Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_attendance
+      label: Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: trainer_name
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: survey_completed
+      label: Completed By
+      hint: null
+      type: time
+      options: []
+      required: false

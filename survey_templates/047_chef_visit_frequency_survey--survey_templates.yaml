@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chef Visit Frequency Survey
+    pages:
+      - id: 1
+        name: section_visitor_info
+        label: -- Visitor Context --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visitor_name_optional
+        label: Guest Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: frequency_of_chef_visits
+        label: How often do you visit for a chef-led experience
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Once every few months
+          - First-time visitor
+        required: true
+      - id: 4
+        name: primary_visit_reason
+        label: What is the primary reason for your visit
+        hint: null
+        type: select_one
+        options:
+          - Special Occasion
+          - Culinary Learning
+          - Business Dining
+          - Casual Interest
+          - Recommended by Friend
+        required: true
+      - id: 5
+        name: section_chef_interaction
+        label: -- Chef Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: chef_interaction_satisfaction
+        label: Satisfaction with Chef Interaction
+        hint: Engagement and explanation of dishes
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Unsatisfied
+        required: true
+      - id: 7
+        name: food_quality_rating_visit
+        label: Overall Quality of Food
+        hint: null
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+        required: true
+      - id: 8
+        name: menu_variety_satisfaction
+        label: Satisfaction with Menu Variety
+        hint: null
+        type: select_one
+        options:
+          - Highly Satisfied
+          - Satisfied
+          - Needs More Variety
+        required: true
+      - id: 9
+        name: favorite_dish_served
+        label: Which dish stood out most to you
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_future_planning
+        label: -- Future Planning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: suggested_new_dishes_cuisines
+        label: What other dishes or cuisines would you like to see
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: likelihood_to_return_visit
+        label: How likely are you to return for another visit
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Unlikely
+        required: true
+      - id: 13
+        name: preferred_time_for_visits
+        label: Preferred time for chef visits
+        hint: null
+        type: select_one
+        options:
+          - Lunch (12-00 PM - 02-00 PM)
+          - Early Dinner (05-00 PM - 07-00 PM)
+          - Late Dinner (08-00 PM - 10-00 PM)
+          - Weekend Brunch
+        required: true
+      - id: 14
+        name: additional_hospitality_comments
+        label: Any other comments for our hospitality team
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: survey_visit_date_log
+        label: Date of Visit Surveyed
+        hint: null
+        type: date
+        options: []
+        required: true

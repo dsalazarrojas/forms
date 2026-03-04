@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: State Football Championship T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: fan email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - xs
+      - s
+      - m
+      - l
+      - xl
+      - xxl
+      required: false
+    - id: 8
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_button_2
+      label: Submit Button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit_button_3
+      label: Submit Button 2
+      hint: null
+      type: text
+      options: []
+      required: false

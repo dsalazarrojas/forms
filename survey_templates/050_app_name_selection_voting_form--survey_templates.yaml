@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Name Selection Voting Form
+    pages:
+      - id: 1
+        name: voting_date
+        label: Voting date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: voter_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: voter_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: voter_role
+        label: Your role in the organization
+        hint: null
+        type: select_one
+        options:
+          - Product manager
+          - Developer
+          - Designer
+          - Marketer
+          - Executive
+          - Team member
+          - Stakeholder
+          - Other
+        required: true
+      - id: 5
+        name: voter_department
+        label: Department or team
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: app_type
+        label: App type or category
+        hint: What does this app do
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: app_purpose
+        label: App primary purpose
+        hint: Describe the app's main function
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target audience for the app
+        hint: Who will use this app
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: option_one_name
+        label: Option 1 - App name candidate
+        hint: First proposed name
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: option_one_rating
+        label: Option 1 rating
+        hint: How do you rate this name
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 11
+        name: option_two_name
+        label: Option 2 - App name candidate
+        hint: Second proposed name
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: option_two_rating
+        label: Option 2 rating
+        hint: How do you rate this name
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 13
+        name: option_three_name
+        label: Option 3 - App name candidate
+        hint: Third proposed name
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: option_three_rating
+        label: Option 3 rating
+        hint: How do you rate this name
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 15
+        name: option_four_name
+        label: Option 4 - App name candidate
+        hint: Fourth proposed name
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: option_four_rating
+        label: Option 4 rating
+        hint: How do you rate this name
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+          - N/A
+        required: false
+      - id: 17
+        name: preferred_name
+        label: Most preferred name choice
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Option 1
+          - Option 2
+          - Option 3
+          - Option 4
+          - Other candidate
+        required: true
+      - id: 18
+        name: naming_criteria_alignment
+        label: Selected name aligns with brand identity
+        hint: null
+        type: select_one
+        options:
+          - Strongly align
+          - Align
+          - Neutral
+          - Misaligned
+          - Strongly misaligned
+        required: true
+      - id: 19
+        name: memorability_rating
+        label: How memorable is the preferred name?
+        hint: null
+        type: select_one
+        options:
+          - Very memorable
+          - Memorable
+          - Moderately memorable
+          - Hard to remember
+          - Very hard to remember
+        required: true
+      - id: 20
+        name: pronunciation_clarity
+        label: Is the name easy to pronounce and spell?
+        hint: null
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 21
+        name: market_differentiation
+        label: Does the name differentiate well in market?
+        hint: Distinct from competitors
+        type: select_one
+        options:
+          - Highly differentiated
+          - Differentiated
+          - Neutral
+          - Similar to competitors
+          - Confusingly similar
+        required: true
+      - id: 22
+        name: concerns_or_feedback
+        label: Any concerns or additional feedback
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: alternative_name_suggestion
+        label: Alternative name suggestion
+        hint: If you have another idea
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: voting_confidence
+        label: Confidence in this selection
+        hint: null
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Uncertain
+          - No confidence
+        required: true

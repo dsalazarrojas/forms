@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: snf_measurement_data_survey
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: measurement_location
+      label: Measurement Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: snf_measurements
+      label: SNF Measurements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: measurement_units
+      label: Measurement Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: measured_by
+      label: Measured By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: site_phone
+      label: Site Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_site
+      label: Site Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      required: true
+    - id: 15
+      name: survey_id
+      label: Survey ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: site_id
+      label: Site ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: site_survey_count
+      label: Site Survey Count
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 19
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Invalid
+      required: true

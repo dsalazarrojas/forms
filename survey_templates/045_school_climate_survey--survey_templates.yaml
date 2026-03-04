@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: school-climate-survey
+    pages:
+    - id: 1
+      name: school_environmental_satisfaction
+      label: School Environmental Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: academic_expectations
+      label: Academic Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_teacher_ratio
+      label: Student Teacher Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_climate_satisfaction
+      label: School Climate Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: teacher_student_relationship
+      label: Teacher Student Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: peer_acceptance
+      label: Peer Acceptance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_safety
+      label: Student Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

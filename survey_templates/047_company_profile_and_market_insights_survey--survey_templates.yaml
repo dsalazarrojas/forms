@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Profile And Market Insights Survey
+    pages:
+      - id: 1
+        name: company_name
+        label: Company name
+        hint: Legal or trading name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: industry
+        label: Industry
+        hint: Primary industry sector
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: main_products_services
+        label: Main products or services
+        hint: Short description
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: market_geography
+        label: Market geography
+        hint: Regions served
+        type: select_multiple
+        options: [Local, Regional, National, International]
+        required: false
+      - id: 5
+        name: growth_challenges
+        label: Main challenges to growth
+        hint: Select or describe key obstacles
+        type: text
+        options: []
+        required: false

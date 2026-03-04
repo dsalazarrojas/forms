@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Pitch Voting Form
+    pages:
+    - id: 1
+      name: judge_name
+      label: Judge Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: judge_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: judge_title
+      label: Judge Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of pitch event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pitch_category
+      label: Pitch Category
+      hint: Which category are you judging
+      type: select_one
+      options:
+      - Technology startup
+      - Social enterprise
+      - Consumer product
+      - Service business
+      - Student pitch
+      - All categories
+      required: true
+    - id: 7
+      name: company_name_1
+      label: Company Name - First Choice
+      hint: Name of your top pick
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: score_company_1
+      label: Score for First Choice
+      hint: Overall score out of 100
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: company_name_2
+      label: Company Name - Second Choice
+      hint: Name of your runner-up
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: score_company_2
+      label: Score for Second Choice
+      hint: Overall score out of 100
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: company_name_3
+      label: Company Name - Third Choice
+      hint: Name of your third choice
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: score_company_3
+      label: Score for Third Choice
+      hint: Overall score out of 100
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_criteria_innovation
+      label: Innovation Score Weight
+      hint: How important is innovation in your scoring
+      type: select_one
+      options:
+      - Very important - 30 percent plus
+      - Important - 20 to 30 percent
+      - Moderate - 10 to 20 percent
+      - Less important - under 10 percent
+      required: true
+    - id: 14
+      name: evaluation_criteria_market
+      label: Market Potential Score Weight
+      hint: How important is market potential
+      type: select_one
+      options:
+      - Very important - 30 percent plus
+      - Important - 20 to 30 percent
+      - Moderate - 10 to 20 percent
+      - Less important - under 10 percent
+      required: true
+    - id: 15
+      name: evaluation_criteria_team
+      label: Team Quality Score Weight
+      hint: How important is team quality
+      type: select_one
+      options:
+      - Very important - 30 percent plus
+      - Important - 20 to 30 percent
+      - Moderate - 10 to 20 percent
+      - Less important - under 10 percent
+      required: true
+    - id: 16
+      name: evaluation_criteria_financials
+      label: Financial Projections Score Weight
+      hint: How important are financials
+      type: select_one
+      options:
+      - Very important - 30 percent plus
+      - Important - 20 to 30 percent
+      - Moderate - 10 to 20 percent
+      - Less important - under 10 percent
+      required: true
+    - id: 17
+      name: best_pitch_reason
+      label: Reason for Top Pick
+      hint: Why did you choose your first place winner
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: standout_qualities
+      label: Standout Qualities
+      hint: What qualities stood out in top pitches
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Common Areas for Improvement
+      hint: What could most pitchers improve
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: investment_interest
+      label: Investment Interest
+      hint: Are you interested in investing in any pitches
+      type: select_one
+      options:
+      - Yes - definitely interested
+      - Yes - would like more information
+      - Maybe - depends on terms
+      - No - not investing
+      required: true
+    - id: 21
+      name: companies_of_interest
+      label: Companies of Interest
+      hint: List any companies you are interested in
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mentoring_offer
+      label: Mentoring Offer
+      hint: Would you offer mentoring to any participants
+      type: select_one
+      options:
+      - Yes - to multiple companies
+      - Yes - to specific companies
+      - No - not at this time
+      required: false
+    - id: 23
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments about the pitches or event
+      type: text
+      options: []
+      required: false

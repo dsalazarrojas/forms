@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Box Truck Inspection Form
+    pages:
+    - id: 1
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_id
+      label: Vehicle ID Number
+      hint: Fleet or plate number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_plate
+      label: License Plate Number
+      hint: Current plate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model type
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_inspection
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of vehicle check
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fuel_level
+      label: Fuel Level
+      hint: Current fuel gauge reading
+      type: select_one
+      options:
+      - Empty
+      - Quarter tank
+      - Half tank
+      - Three-quarter tank
+      - Full
+      required: true
+    - id: 12
+      name: section_header_exterior
+      label: -- Exterior Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: body_condition
+      label: Vehicle Body Condition
+      hint: Dents, scratches, damage
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 14
+      name: tires_condition
+      label: Tire Condition
+      hint: Overall tread and condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs replacement
+      required: true
+    - id: 15
+      name: lights_working
+      label: All lights functioning
+      hint: Headlights, taillights, signals
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 16
+      name: section_header_interior
+      label: -- Interior Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cargo_area_condition
+      label: Cargo Area Condition
+      hint: Floor, walls, doors
+      type: select_one
+      options:
+      - Clean and excellent
+      - Good condition
+      - Fair condition
+      - Dirty/needs cleaning
+      - Damaged
+      required: true
+    - id: 18
+      name: equipment_present
+      label: All Equipment Present
+      hint: Tools, straps, blankets, dollies
+      type: select_one
+      options:
+      - Yes, all present
+      - Partial
+      - Missing items
+      - Not applicable
+      required: true
+    - id: 19
+      name: section_header_mechanical
+      label: -- Mechanical Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: brakes_working
+      label: Brakes Operating Properly
+      hint: Test drive confirmation
+      type: select_one
+      options:
+      - Yes, responsive
+      - Yes, adequate
+      - Yes, but soft
+      - No, needs service
+      required: true
+    - id: 21
+      name: final_status
+      label: Overall Inspection Status
+      hint: Ready for rental or needs repair
+      type: select_one
+      options:
+      - Approved for rental
+      - Approved with minor issues noted
+      - Not approved, needs repair
+      - Requires second opinion
+      required: true

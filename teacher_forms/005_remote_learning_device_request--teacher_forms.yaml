@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Learning Device Request
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: number_of_students
+      label: Number Of Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Desktop
+      - Tablet
+      - Smartphone
+      required: false
+    - id: 5
+      name: device_request_reason
+      label: Device Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

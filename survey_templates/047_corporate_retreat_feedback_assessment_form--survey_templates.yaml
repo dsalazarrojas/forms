@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_retreat_feedback_assessment_form
+    pages:
+    - id: 1
+      name: welcome_page
+      label: Welcome Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: feedback_questions
+      label: Feedback Questions
+      hint: Please answer the following questions truthfully.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: How would you rate the level of communication from the retreat organizers?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Well-organized''}'
+      - '{2: ''Somewhat well-organized''}'
+      - '{3: ''Not well-organized''}'
+      required: false
+    - id: 7
+      name: materials
+      label: Materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 8
+      name: food_and_drinks
+      label: Food and Drinks
+      hint: How would you rate the quality of the food and drinks?
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 9
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_of_retreat
+      label: Date of Retreat
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time_of_retreat
+      label: Time of Retreat
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: duration_of_retreat
+      label: Duration of Retreat
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: feedback_sentiment
+      label: Feedback Sentiment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

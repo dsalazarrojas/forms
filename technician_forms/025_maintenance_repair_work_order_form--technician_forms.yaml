@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Repair Work Order Form
+    pages:
+    - id: 1
+      name: work_order_form
+      label: Work Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical
+      - Plumbing
+      - HVAC
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_order_number
+      label: Work Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Complete
+      required: false
+    - id: 8
+      name: technician
+      label: Technician
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 9
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - Needs Repair
+      - Does Not Need Repair
+      - Unknown
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Satisfaction Survey
+    pages:
+    - id: 1
+      name: job_satisfaction
+      label: How was your overall job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction_1
+      label: How would you rate your job satisfaction
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: salary_satisfaction
+      label: How satisfied are you with your salary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: benefits_satisfaction
+      label: How satisfied are you with your benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: time_off_satisfaction
+      label: Do you receive enough time off
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: work_life_balance
+      label: How satisfied are you with your work-life balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_satisfaction
+      label: How would you rate your job satisfaction with your manager
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_satisfaction
+      label: How would you rate your job satisfaction with your team
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_security
+      label: Do you feel secure in your job
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: career_growth_opportunities
+      label: Do you have job growth opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: job_satisfaction_changes
+      label: Have your job satisfaction changed
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: feedback
+      label: Do you want to provide feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

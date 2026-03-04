@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Attendance Form
+    pages:
+    - id: 1
+      name: workshop_participation
+      label: Workshop Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_attendance
+      label: Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seminar_participation
+      label: Seminar Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: conference_participation
+      label: Conference Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_participation
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sync_apps
+      label: Sync Apps
+      hint: Select from 100+ popular apps
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

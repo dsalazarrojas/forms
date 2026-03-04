@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Follow Up Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_survey
+      label: Follow Up Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_survey
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

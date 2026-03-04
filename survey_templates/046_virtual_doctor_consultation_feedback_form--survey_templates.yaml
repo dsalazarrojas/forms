@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_doctor_consultation_feedback_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: question_1
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 3
+      name: question_2
+      label: question_2
+      hint: null
+      type: select_multiple
+      options:
+      - option_5
+      - option_6
+      - option_7
+      - option_8
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_satisfaction
+      label: patient_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option_9
+      - option_10
+      - option_11
+      - option_12
+      required: false
+    - id: 10
+      name: provider_satisfaction
+      label: provider_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - option_13
+      - option_14
+      - option_15
+      - option_16
+      required: false
+    - id: 11
+      name: quality_of_care
+      label: quality_of_care
+      hint: null
+      type: select_one
+      options:
+      - option_17
+      - option_18
+      - option_19
+      - option_20
+      required: false
+    - id: 12
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - option_21
+      - option_22
+      - option_23
+      - option_24
+      required: false

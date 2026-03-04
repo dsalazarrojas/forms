@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: FinOps Tool Evaluation Survey
+    pages:
+    - id: 1
+      name: page1
+      label: Page 1
+      hint: This is the first page
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page2
+      label: Page 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: page3
+      label: Page 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page4
+      label: Page 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page5
+      label: Page 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: page6
+      label: Page 6
+      hint: This is page 6
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: page7
+      label: Page 7
+      hint: null
+      type: time
+      options: []
+      required: false

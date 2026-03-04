@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_interest_survey
+    pages:
+    - id: 1
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_relationships
+      label: contact_relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 4
+      name: extracurricular_interests
+      label: extracurricular_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Drama
+      - Chorus
+      - Instrumental
+      - Sports
+      - Clubs
+      - Other
+      required: false
+    - id: 5
+      name: parent_occupation
+      label: parent_occupation
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Counselor
+      - Stay-at-Home Parent
+      - Other
+      required: false
+    - id: 6
+      name: work_status
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: false
+    - id: 7
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false

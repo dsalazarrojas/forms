@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access To Internet For Learning Survey
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Current Grade Level
+      hint: Select your present level of schooling
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College or University
+      required: true
+    - id: 3
+      name: primary_learning_device
+      label: What is your primary device for schoolwork?
+      hint: e.g. Laptop, Tablet, Smartphone, Desktop
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_internet
+      label: -- Internet Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: home_internet_availability
+      label: Do you have reliable internet access at home?
+      hint: Consistency of connection
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Never
+      required: true
+    - id: 6
+      name: connection_type
+      label: What type of internet connection do you use at home?
+      hint: Primary method of connection
+      type: select_one
+      options:
+      - High-speed Fiber or Cable
+      - DSL
+      - Mobile Hotspot
+      - Satellite
+      - Public Wi-Fi
+      required: true
+    - id: 7
+      name: average_download_speed
+      label: How would you describe your internet speed?
+      hint: Perception of bandwidth
+      type: select_one
+      options:
+      - Fast - no issues streaming video
+      - Sufficient for basic tasks
+      - Slow - frequently buffers
+      - Very Slow - unusable for video
+      required: true
+    - id: 8
+      name: section_impact
+      label: -- Learning Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hours_online_for_learning
+      label: Average hours spent online for schoolwork per day
+      hint: academic usage only
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: online_learning_activities
+      label: What activities do you do online for school?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Watching Video Lectures
+      - Attending Live Classes
+      - Researching Projects
+      - Submitting Assignments
+      - Collaborative Writing
+      required: true
+    - id: 11
+      name: impact_of_slow_internet
+      label: How often does slow internet prevent you from completing schoolwork?
+      hint: barrier to completion
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: section_alternatives
+      label: -- Alternatives and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: alternative_access_locations
+      label: Where else do you go for internet access?
+      hint: backup locations
+      type: select_multiple
+      options:
+      - Public Library
+      - School or Campus
+      - Friends or Relatives Home
+      - Coffee Shop or Public Space
+      - None
+      required: true
+    - id: 14
+      name: financial_assistance_interest
+      label: Would you be interested in programs that provide low-cost internet?
+      hint: support services
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Any other comments about your internet access for learning
+      hint: optional feedback
+      type: text
+      options: []
+      required: false

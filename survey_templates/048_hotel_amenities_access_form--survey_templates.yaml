@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Amenities Access Form
+    pages:
+    - id: 1
+      name: guest_information
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: room_rate_plan
+      label: Room Rate Plan
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Standard''}'
+      - '{2: ''Suite''}'
+      required: false
+    - id: 5
+      name: checkin_status
+      label: Checkin Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Checkin''}'
+      - '{2: ''Checkin Not''}'
+      - '{3: ''No Show''}'
+      required: false
+    - id: 6
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Single''}'
+      - '{2: ''Double''}'
+      - '{3: ''Suite''}'
+      required: false
+    - id: 7
+      name: amenities_accessed
+      label: Amenities Accessed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: amenities_available
+      label: Amenities Available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: guest_notes
+      label: Guest Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guest_id
+      label: Guest ID
+      hint: null
+      type: number
+      options: []
+      required: false

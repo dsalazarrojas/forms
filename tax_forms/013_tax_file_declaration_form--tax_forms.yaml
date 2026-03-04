@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax File Declaration Form
+    pages:
+    - id: 1
+      name: tax_file_declaration_form
+      label: Tax File Declaration Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: tax_forms
+      hint: null
+      type: select_one
+      options:
+      - Forms
+      - Documents
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Brief description of the form
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_number
+      label: file_number
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_student_major_change_form
+    pages:
+    - id: 1
+      name: user_major
+      label: Major
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 2
+      name: reason_for_major_change
+      label: reason_for_major_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_major
+      label: New Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_gpa
+      label: Current GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expected_degree
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

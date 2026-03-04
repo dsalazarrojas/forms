@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Reliability Customer Feedback Form
+    pages:
+    - id: 1
+      name: service_reliability_customer_feedback
+      label: service_reliability_customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: service_disruption
+      label: service_disruption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: impact
+      label: impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_team
+      label: support_team
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - SaaS
+      - Support
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine Service Knowledge Quiz
+    pages:
+    - id: 1
+      name: page_1
+      label: What is your role in the wine service industry?
+      hint: null
+      type: select_one
+      options:
+      - Beverage Manager
+      - Bartender
+      - Waiter/Waitress
+      - Sommelier
+      - Wine Server
+      - Kitchen Staff
+      - Owner/Manager
+      - Other
+      required: false
+    - id: 2
+      name: page_2
+      label: How many years of experience do you have in the wine service industry?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: What is your level of wine knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: page_4
+      label: How many wine knowledge courses have you taken in the past 2 years?
+      hint: null
+      type: select_multiple
+      options:
+      - Wine and Spirit Education Group (WSET)
+      - Court of Two Thousand
+      - Wine Spirit Education Council
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: page_5
+      label: How often do you participate in wine tastings?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: page_6
+      label: What is your level of knowledge about wine and spirits?
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: page_7
+      label: How many wine service certifications do you have?
+      hint: null
+      type: select_one
+      options:
+      - 0-2
+      - 3-5
+      - 6 or more
+      required: false
+    - id: 8
+      name: page_8
+      label: How many wine knowledge certifications do you have?
+      hint: null
+      type: select_one
+      options:
+      - 0-2
+      - 3-5
+      - 6 or more
+      required: false
+    - id: 9
+      name: page_9
+      label: How many languages do you speak fluently?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Japanese
+      - Other
+      required: false

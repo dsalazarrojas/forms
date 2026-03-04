@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: van_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_license_plate
+      label: vehicle_license_plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: safety_checklist
+      label: safety_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: select_one
+      options:
+      - Exterior
+      - Interior
+      - Under the Hood
+      - Engine Compartment
+      - Under the Floor
+      - Other
+      required: true
+    - id: 8
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      - Good
+      - Average
+      required: true
+    - id: 11
+      name: inspection_completed
+      label: inspection_completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_recommended
+      label: vehicle_recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - In Service
+      - Out of Service
+      - In prophets
+      - In transit
+      - In storage
+      required: false
+    - id: 16
+      name: vin_number
+      label: vin_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_mileage
+      label: vehicle_mileage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_make_model_year
+      label: vehicle_make_model_year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vin_verification
+      label: vin_verification
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      required: false
+    - id: 20
+      name: vin_verification_status
+      label: vin_verification_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vin_verification_method
+      label: vin_verification_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vin_verification_date
+      label: vin_verification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vin_verification_location
+      label: vin_verification_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vin_verification_notes
+      label: vin_verification_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vin_verification_status
+      label: vin_verification_status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economic Indicators Survey
+    pages:
+    - id: 1
+      name: audience
+      label: Audience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Audience 1''}'
+      - '{''id'': 2, ''label'': ''Audience 2''}'
+      required: false
+    - id: 2
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Country 1''}'
+      - '{''id'': 2, ''label'': ''Country 2''}'
+      required: false
+    - id: 3
+      name: economic_sentiment
+      label: Economic Sentiment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sentiment_change
+      label: Sentiment Change
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sentiment Change 1''}'
+      - '{''id'': 2, ''label'': ''Sentiment Change 2''}'
+      required: false
+    - id: 5
+      name: outlook
+      label: Outlook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: impact
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: likelihood
+      label: Likelihood
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Likelihood 1''}'
+      - '{''id'': 2, ''label'': ''Likelihood 2''}'
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Industry 1''}'
+      - '{''id'': 2, ''label'': ''Industry 2''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Assigned To 1''}'
+      - '{''id'': 2, ''label'': ''Assigned To 2''}'
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Created By 1''}'
+      - '{''id'': 2, ''label'': ''Created By 2''}'
+      required: false
+    - id: 13
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: last_viewed
+      label: Last Viewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: views
+      label: Views
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: comments_count
+      label: Comments Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: ratings_count
+      label: Ratings Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: ratings_sum
+      label: Ratings Sum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: ratings_average
+      label: Ratings Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_id
+      label: Form ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Form ID 1''}'
+      - '{''id'': 2, ''label'': ''Form ID 2''}'
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_data
+      label: Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: custom_data
+      label: Custom Data
+      hint: null
+      type: note
+      options: []
+      required: false

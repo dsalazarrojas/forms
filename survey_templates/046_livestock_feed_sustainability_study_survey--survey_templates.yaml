@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Feed Sustainability Study Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feed_practices
+      label: Feed Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Wheat
+      - Corn
+      - Soybean
+      - Alfalfa
+      - Oats
+      - Barley
+      - Sorghum
+      - Other
+      required: false
+    - id: 3
+      name: sustainability_measures
+      label: Sustainability Measures
+      hint: null
+      type: select_one
+      options:
+      - Implementing integrated farm management practices
+      - Using certified sustainable feed sources
+      - Reducing manure management
+      - Increasing crop rotations
+      - Other
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Climate change
+      - Water scarcity
+      - Labor shortages
+      - Disease management
+      - Other
+      required: false
+    - id: 5
+      name: demographic
+      label: Demographic
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 6
+      name: contact
+      label: Contact Information
+      hint: Please provide your contact information
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

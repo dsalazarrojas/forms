@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: ticket_incident_portal_for_it_issues_form
+    pages:
+    - id: 1
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_multiple
+      options:
+      - Hardware
+      - Software
+      - Networking
+      required: false
+    - id: 4
+      name: incident_category
+      label: incident_category
+      hint: null
+      type: select_multiple
+      options:
+      - Hardware
+      - Software
+      - Networking
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_severity
+      label: incident_severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Critical
+      required: false
+    - id: 7
+      name: incident_priority
+      label: incident_priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Critical
+      required: false

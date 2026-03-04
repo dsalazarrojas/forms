@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Survey Customization Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: features
+      label: features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: formats
+      label: formats
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: data_collection
+      label: data collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

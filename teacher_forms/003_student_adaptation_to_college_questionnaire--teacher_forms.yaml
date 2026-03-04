@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Adaptation To College Questionnaire
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_year
+      label: school_year
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Elementary School
+      - Middle School
+      - High School
+      - Middle School
+      required: false
+    - id: 6
+      name: teacher_rating
+      label: teacher_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: adaptation_level
+      label: adaptation_level
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 8
+      name: school_program
+      label: school_program
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      - Program 4
+      required: false
+    - id: 9
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: parent_comments
+      label: parent_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_adaptation_level
+      label: adaptation_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: teacher_involvement
+      label: involvement
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 15
+      name: student_participation
+      label: participation
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 16
+      name: teacher_adaptation
+      label: adaptation
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 17
+      name: student_adaptation_to_college
+      label: adaptation_to_college
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: teacher_adaptation_to_college_comments
+      label: adaptation_to_college_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: teacher_adaptation_to_college
+      label: adaptation_to_college
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 20
+      name: school_program_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

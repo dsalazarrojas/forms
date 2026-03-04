@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: llc_filing_intake_survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: registered_address
+      label: Registered Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: principal_place_of_business
+      label: Principal Place of Business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: principal_business_name
+      label: Principal Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: principal_business_type
+      label: Principal Business Type
+      hint: null
+      type: select_one
+      options:
+      - Single Member LLC
+      - Multi Member LLC
+      - Series LLC
+      - Series LLC with Series LLC Articles
+      required: true
+    - id: 8
+      name: number_of_owners
+      label: Number of Owners
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_inception
+      label: Date of Inception
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_of_inception_note
+      label: Date of Inception Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: principal_place_and_goals_of_business
+      label: Principal Place and Goals of Business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_person_title
+      label: Authorized Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: principal_business_id
+      label: Principal Business ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registered_agent
+      label: Registered Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registered_agent_name
+      label: Registered Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registered_agent_title
+      label: Registered Agent Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registered_agent_address
+      label: Registered Agent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: registered_agent_phone
+      label: Registered Agent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: registered_agent_email
+      label: Registered Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: llc_filing_agent_name
+      label: LLC Filing Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: llc_filing_agent_phone
+      label: LLC Filing Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: llc_filing_agent_address
+      label: LLC Filing Agent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: llc_filing_agent_email
+      label: LLC Filing Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false

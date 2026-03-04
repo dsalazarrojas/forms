@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Annual Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_certificate
+      label: Inspector Certificate Number
+      hint: A&P or IA certificate number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: N-number or registration
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: aircraft_make
+      label: Aircraft Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: aircraft_model
+      label: Aircraft Model
+      hint: Model designation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: aircraft_serial
+      label: Aircraft Serial Number
+      hint: Manufacturer serial number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_airframe_hours
+      label: Total Airframe Hours
+      hint: Total time in service
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: engine_make
+      label: Engine Make
+      hint: Engine manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: engine_model
+      label: Engine Model
+      hint: Engine model
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: engine_serial_left
+      label: Left Engine Serial Number
+      hint: Serial number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: engine_serial_right
+      label: Right Engine Serial Number
+      hint: Serial number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_engine_hours
+      label: Total Engine Hours
+      hint: Time since new
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: hours_since_overhaul
+      label: Hours Since Overhaul
+      hint: TSO
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: propeller_type
+      label: Propeller Type
+      hint: Propeller manufacturer and type
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: airworthiness_directives
+      label: Airworthiness Directives Status
+      hint: AD compliance status
+      type: select_one
+      options:
+      - All ADs complied with
+      - Some ADs pending
+      - Non-compliant
+      required: true
+    - id: 17
+      name: fuselage_inspection
+      label: Fuselage Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 18
+      name: wing_inspection
+      label: Wing Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 19
+      name: empennage_inspection
+      label: Empennage Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 20
+      name: landing_gear_inspection
+      label: Landing Gear Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 21
+      name: flight_controls_inspection
+      label: Flight Controls Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 22
+      name: engine_inspection
+      label: Engine Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 23
+      name: avionics_inspection
+      label: Avionics Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 24
+      name: electrical_system_inspection
+      label: Electrical System Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 25
+      name: fuel_system_inspection
+      label: Fuel System Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not satisfactory
+      required: true
+    - id: 26
+      name: hydraulic_system_inspection
+      label: Hydraulic System Inspection
+      hint: Condition assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs minor repair
+      - Needs major repair
+      - Not applicable
+      - Not satisfactory
+      required: true
+    - id: 27
+      name: emergency_equipment
+      label: Emergency Equipment Check
+      hint: All equipment present and serviceable
+      type: select_one
+      options:
+      - All equipment satisfactory
+      - Some items need replacement
+      - Missing equipment
+      required: true
+    - id: 28
+      name: discrepancies_found
+      label: Discrepancies Found
+      hint: List all discrepancies
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: corrective_action
+      label: Corrective Action Taken
+      hint: Describe actions taken
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: parts_replaced
+      label: Parts Replaced
+      hint: List parts replaced
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: airworthiness_status
+      label: Airworthiness Status
+      hint: Final determination
+      type: select_one
+      options:
+      - Aircraft is airworthy
+      - Aircraft is not airworthy
+      - Airworthy with limitations
+      required: true
+    - id: 32
+      name: next_inspection_due
+      label: Next Annual Inspection Due
+      hint: Due date
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: owner_signature
+      label: Owner Signature
+      hint: Owner acknowledgment
+      type: text
+      options: []
+      required: false

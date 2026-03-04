@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Competency Assessment
+    pages:
+    - id: 1
+      name: survey_1
+      label: Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: knowledge_level
+      label: Knowledge Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: competency
+      label: Competency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: scientist
+      label: Scientist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: laboratory
+      label: Laboratory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_laboratory
+      label: Medical Laboratory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: coding
+      label: Coding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

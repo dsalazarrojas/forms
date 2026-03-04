@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Survey
+    pages:
+    - id: 1
+      name: income_levels
+      label: income_levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      required: false
+    - id: 5
+      name: monthly_income
+      label: monthly_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hourly_wage
+      label: hourly_wage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: annual_bonus
+      label: annual_bonus
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_filing_status
+      label: tax_filing_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Head of Household
+      - Partnership
+      required: false
+    - id: 9
+      name: household_members
+      label: household_members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: annual_bonus_type
+      label: annual_bonus_type
+      hint: null
+      type: select_multiple
+      options:
+      - Bonus
+      - Commissions
+      - Stock Options
+      required: false
+    - id: 11
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Self-employed
+      - Unemployed
+      required: false
+    - id: 12
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false

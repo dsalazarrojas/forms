@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_service_program_efficiency_assessment
+    pages:
+    - id: 1
+      name: program_efficiency
+      label: Program Efficiency
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 2
+      name: program_improvement
+      label: Program Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Cost Savings
+      - Service Quality
+      - Time Efficiency
+      - Other
+      required: true
+    - id: 3
+      name: program_improvement_area
+      label: Program Improvement Area
+      hint: Describe the area where you see the greatest room for improvement.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Responsive
+      - Effective
+      - Friendly
+      - Efficient
+      - Other
+      required: true
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 7
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Online
+      required: false
+    - id: 8
+      name: communication_method_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_effectiveness
+      label: Service Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_improvement
+      label: Service Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Cost Savings
+      - Service Quality
+      - Time Efficiency
+      - Other
+      required: false
+    - id: 13
+      name: service_improvement_area
+      label: Service Improvement Area
+      hint: Describe the area you would like to see improved.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: overall_satisfaction_reason
+      label: Reason for Overall Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_improvement_suggestions
+      label: Service Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: program_area
+      label: Program Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: feedback_details
+      label: Feedback Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: communication_details
+      label: Communication Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

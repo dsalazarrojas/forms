@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: course_completion_form
+    pages:
+    - id: 1
+      name: course_name
+      label: Enter Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: course_progress
+      label: Course Progress
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_completion_date
+      label: Course Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 11
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Teacher
+      - Administrator
+      required: false
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Teacher
+      - Admin
+      required: false
+    - id: 19
+      name: course_completion_form_id
+      label: Course Completion Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: form_data
+      label: Form Data
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

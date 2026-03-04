@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Tracking Survey
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: Donor Information prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: donation_funds_used
+      label: Donation Funds Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: text
+      options: []
+      required: false

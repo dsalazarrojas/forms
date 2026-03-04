@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: piercing_request_form
+    pages:
+    - id: 1
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: body_area
+      label: body_area
+      hint: null
+      type: select_multiple
+      options:
+      - ear
+      - neck
+      - face
+      - hand
+      - foot
+      required: false
+    - id: 3
+      name: piercing_type
+      label: piercing_type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_request
+      label: date_of_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tattoo_artist
+      label: tattoo_artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: School T Shirt Purchase Form
+    pages:
+    - id: 1
+      name: school_t_shirt_purchase_form_fields
+      label: School T Shirt Purchase Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_t_shirt_size
+      label: Student T Shirt Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Students Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 5
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_fee
+      label: Class Fee
+      hint: Enter the class fee
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_fee
+      label: Student Fee
+      hint: Enter the student fee
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit_form
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - I have reviewed the above information carefully
+      - I confirm the above information is correct
+      - I confirm that I am a parent or guardian of the student
+      required: true
+    - id: 9
+      name: school_email
+      label: School Email
+      hint: Enter school email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false

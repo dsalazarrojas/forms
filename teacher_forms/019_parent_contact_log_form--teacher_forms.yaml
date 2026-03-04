@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Contact Log Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_contacted
+      label: Date Contacted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_contacted
+      label: Time Contacted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_staff_member
+      label: Assigned Staff Member
+      hint: null
+      type: select_one
+      options:
+      - Mr. Jimmy
+      - Ms. Jane
+      - Mr. Mike
+      required: true
+    - id: 9
+      name: contact_status
+      label: Contact Status
+      hint: null
+      type: select_one
+      options:
+      - New Contact
+      - Re-Contact
+      - No Contact
+      required: true
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Follow-up Done
+      - No Follow-up
+      required: true
+    - id: 17
+      name: parent_response
+      label: Parent Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parent_notes
+      label: Parent Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_response
+      label: Staff Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false

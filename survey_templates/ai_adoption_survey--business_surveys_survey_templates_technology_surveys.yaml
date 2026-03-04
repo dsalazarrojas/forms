@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Adoption Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- AI Adoption Survey Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full name
+      hint: Enter your full name as the survey respondent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Provide your professional email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company name
+      hint: Enter the name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: Your current position in the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department do you belong to?
+      type: select_one
+      options:
+      - IT/Technology
+      - Operations
+      - Sales/Marketing
+      - Human Resources
+      - Finance
+      - Research & Development
+      - Executive Leadership
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company size
+      hint: Number of employees in your organization
+      type: select_one
+      options:
+      - 1-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1001-5000 employees
+      - Over 5000 employees
+      required: true
+    - id: 8
+      name: industry_sector
+      label: Industry sector
+      hint: Which industry best describes your organization?
+      type: select_one
+      options:
+      - Healthcare
+      - Finance/Banking
+      - Retail/E-commerce
+      - Manufacturing
+      - Technology
+      - Education
+      - Government
+      - Transportation
+      - Media/Entertainment
+      - Other
+      required: true
+    - id: 9
+      name: ai_maturity_level
+      label: Current AI maturity level
+      hint: How would you rate your organization's current AI adoption?
+      type: select_one
+      options:
+      - No AI initiatives
+      - Exploring possibilities
+      - Piloting solutions
+      - Deployed in limited areas
+      - Integrated across departments
+      - AI-driven organization
+      required: true
+    - id: 10
+      name: ai_investment_budget
+      label: Annual AI investment budget (USD)
+      hint: Approximate amount allocated for AI initiatives this year
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: current_ai_implementations
+      label: Current AI implementations (select all that apply)
+      hint: Which AI technologies is your organization currently using?
+      type: select_multiple
+      options:
+      - Chatbots/Virtual assistants
+      - Predictive analytics
+      - Image recognition
+      - Natural language processing
+      - Robotic process automation
+      - Machine learning models
+      - Recommendation engines
+      - None currently
+      required: false
+    - id: 12
+      name: biggest_ai_challenge
+      label: Biggest challenge in AI adoption
+      hint: What is the primary obstacle to AI implementation in your organization?
+      type: select_one
+      options:
+      - Lack of skilled personnel
+      - High implementation costs
+      - Data privacy concerns
+      - Integration with existing systems
+      - Resistance to change
+      - Unclear ROI
+      - Regulatory compliance
+      required: true
+    - id: 13
+      name: ai_benefits_experienced
+      label: Benefits experienced from AI (select all that apply)
+      hint: What positive outcomes has your organization seen from AI?
+      type: select_multiple
+      options:
+      - Increased efficiency
+      - Cost reduction
+      - Improved customer experience
+      - Better decision-making
+      - Enhanced productivity
+      - Competitive advantage
+      - Innovation acceleration
+      - None yet
+      required: false
+    - id: 14
+      name: ai_future_priority
+      label: AI priority for next 2 years
+      hint: How important is AI to your organization's strategic plan?
+      type: select_one
+      options:
+      - Low priority
+      - Medium priority
+      - High priority
+      - Critical priority
+      required: true
+    - id: 15
+      name: planned_ai_investments
+      label: Planned AI investments (select all that apply)
+      hint: What AI technologies does your organization plan to invest in?
+      type: select_multiple
+      options:
+      - Process automation
+      - Customer service enhancement
+      - Data analytics
+      - Cybersecurity
+      - Supply chain optimization
+      - Product development
+      - Employee training
+      - No current plans
+      required: false
+    - id: 16
+      name: ai_decision_maker
+      label: Who makes AI decisions in your organization?
+      hint: Select the primary decision-making body for AI initiatives
+      type: select_one
+      options:
+      - Executive leadership
+      - IT department
+      - Business units
+      - External consultants
+      - Cross-functional team
+      - Board of directors
+      required: true
+    - id: 17
+      name: employee_ai_training
+      label: Percentage of employees trained in AI
+      hint: Approximate percentage of staff with AI-related training
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: satisfaction_with_ai_tools
+      label: How satisfied are you with current AI tools in your organization?
+      hint: Rate your satisfaction with existing AI implementations
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: overall_ai_rating
+      label: Overall AI readiness rating (1-10)
+      hint: 1 = not ready at all, 10 = fully prepared for AI transformation
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: additional_ai_comments
+      label: Additional comments about AI adoption in your organization
+      hint: Share any other thoughts about your AI journey
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_completion_date
+      label: Date of survey completion
+      hint: null
+      type: date
+      options: []
+      required: true

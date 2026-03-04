@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: eCheck.net_t_shirt_order_form
+    pages:
+    - id: 1
+      name: echeck_net
+      label: eCheck Net
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: t_shirt_size
+      label: t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''small'', ''label'': ''small''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''medium''}'
+      - '{''id'': 3, ''name'': ''large'', ''label'': ''large''}'
+      required: true
+    - id: 4
+      name: t_shirt_color
+      label: t_shirt_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''blue'', ''label'': ''blue''}'
+      - '{''id'': 2, ''name'': ''red'', ''label'': ''red''}'
+      - '{''id'': 3, ''name'': ''green'', ''label'': ''green''}'
+      required: true
+    - id: 5
+      name: echeck_net_option
+      label: echeck_net_option
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''echeck_net'', ''label'': ''eCheck Net''}'
+      - '{''id'': 2, ''name'': ''other'', ''label'': ''other''}'
+      required: true
+    - id: 6
+      name: shipping
+      label: shipping
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

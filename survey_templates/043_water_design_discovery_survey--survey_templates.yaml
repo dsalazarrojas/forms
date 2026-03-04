@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_design_discovery_survey
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Public
+      required: false
+    - id: 3
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Remote
+      required: false
+    - id: 4
+      name: project_priority
+      label: project_priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stakeholders
+      label: stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Architect
+      - Contractor
+      required: false
+    - id: 7
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: budget_allocation
+      label: budget_allocation
+      hint: null
+      type: select_multiple
+      options:
+      - Infrastructure
+      - Equipment
+      - Labor
+      required: false
+    - id: 9
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: design_preferences
+      label: design_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Water Quality
+      - Budget Friendliness
+      - Aesthetics
+      required: false
+    - id: 12
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false

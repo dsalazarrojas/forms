@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Happiness Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What's Your Current Level Of Happiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Do You Think The World Is A Fair Place
+      hint: Select one that suits your answer
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 3
+      name: page_3
+      label: On A Scale Of 0-10, How Happy Are You
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: page_7
+      hint: null
+      type: note
+      options: []
+      required: false

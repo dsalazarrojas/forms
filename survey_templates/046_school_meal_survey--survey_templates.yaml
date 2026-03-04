@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: School Meal Survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_quality
+      label: Food Quality
+      hint: How would you rate the quality of the food served in the school cafeteria?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: student_survey
+      label: Student Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: teacher_rating
+      label: Teacher Rating
+      hint: How would you rate the quality of your teacher?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: school_meal_time
+      label: School Meal Time
+      hint: What time do you usually eat at school?
+      type: select_one
+      options:
+      - Before School
+      - Lunchtime
+      - After School
+      required: false
+    - id: 6
+      name: school_meal_frequency
+      label: How often do you have school meals?
+      hint: null
+      type: select_one
+      options:
+      - Every Day
+      - 2-3 times a week
+      - 1-2 times a week
+      - Rarely
+      required: false

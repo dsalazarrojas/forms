@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: name_error_identification_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name_display_system
+      label: Name Display System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name_display_document
+      label: Name Display Document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: name_display_communication
+      label: Name Display Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_support
+      label: Team Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: team_support_other
+      label: Other Team Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_support_other_details
+      label: Other Team Support Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hr
+      label: HR
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hr_other
+      label: Other HR
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: operations
+      label: Operations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: operations_other
+      label: Other Operations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name_error_count
+      label: Name Error Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: name_error_location
+      label: Name Error Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: name_error_type
+      label: Name Error Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: name_error_frequency
+      label: Name Error Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: name_error_description
+      label: Name Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: name_error_description_other
+      label: Other Name Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: name_error_other_details
+      label: Other Name Error Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_review
+      label: Team Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_review_details
+      label: Team Review Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

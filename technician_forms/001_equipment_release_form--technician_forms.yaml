@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Release Form
+    pages:
+    - id: 1
+      name: request_borrow
+      label: Request to borrow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_issued
+      label: date_issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_return_date
+      label: expected_return_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Loaned out
+      - Lost
+      - Broken
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: loaner_name
+      label: loaner_name
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      - Bob Johnson
+      required: false
+    - id: 10
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_company
+      label: submitter_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_extension
+      label: submitter_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_jobtitle
+      label: submitter_jobtitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_supervisor
+      label: submitter_supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: note
+      options: []
+      required: false

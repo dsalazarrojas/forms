@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Experience Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trip_info
+      label: what_was_the_purpose_of_your_trip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: how_satisfied_were_you_with_your_trip
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''not_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''neutral''}'
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''extremely_satisfied''}'
+      required: false
+    - id: 4
+      name: accommodation
+      label: what_was_the_name_of_your_accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_details
+      label: what_were_the_details_of_your_accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_rating
+      label: accommodation_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: trip_details
+      label: what_was_the_duration_of_your_trip
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-3_days''}'
+      - '{''label'': ''4-7_days''}'
+      - '{''label'': ''8-14_days''}'
+      - '{''label'': ''more_than_14_days''}'
+      required: false
+    - id: 9
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: travel_location
+      label: travel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''car''}'
+      - '{''label'': ''plane''}'
+      - '{''label'': ''public_transport''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 13
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_comments
+      label: travel_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''not_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''neutral''}'
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''extremely_satisfied''}'
+      required: false
+    - id: 16
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

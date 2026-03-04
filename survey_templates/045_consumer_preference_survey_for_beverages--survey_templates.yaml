@@ -1,0 +1,309 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Preference Survey For Beverages
+    pages:
+      - id: 1
+        name: respondent_first_name
+        label: First Name
+        hint: Your first name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up - optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 5
+        name: location
+        label: Location
+        hint: City and state
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: beverage_category
+        label: Beverage Category
+        hint: Which category are we asking about
+        type: select_one
+        options:
+          - Soft Drinks
+          - Water
+          - Juice
+          - Coffee
+          - Tea
+          - Energy Drinks
+          - Sports Drinks
+          - Alcoholic Beverages
+          - Dairy
+          - Plant-Based
+          - Other
+        required: true
+      - id: 7
+        name: consumption_frequency
+        label: Consumption Frequency
+        hint: How often do you drink this type
+        type: select_one
+        options:
+          - Multiple Times Daily
+          - Once Daily
+          - Several Times Weekly
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: preferred_brands
+        label: Preferred Brands
+        hint: List your favorite beverage brands
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: favorite_flavors
+        label: Favorite Flavors
+        hint: Select preferred flavors
+        type: select_multiple
+        options:
+          - Original
+          - Citrus
+          - Berry
+          - Tropical
+          - Vanilla
+          - Chocolate
+          - Coffee
+          - Mint
+          - Spice
+          - Unsweetened
+          - Other
+        required: true
+      - id: 10
+        name: sweetness_preference
+        label: Sweetness Preference
+        hint: How sweet do you like it
+        type: select_one
+        options:
+          - Very Sweet
+          - Sweet
+          - Moderately Sweet
+          - Slightly Sweet
+          - Unsweetened
+        required: true
+      - id: 11
+        name: temperature_preference
+        label: Temperature Preference
+        hint: How do you prefer to drink it
+        type: select_one
+        options:
+          - Ice Cold
+          - Cold
+          - Room Temperature
+          - Warm
+          - Hot
+          - No Preference
+        required: true
+      - id: 12
+        name: container_preference
+        label: Container Preference
+        hint: Select preferred packaging
+        type: select_one
+        options:
+          - Can
+          - Plastic Bottle
+          - Glass Bottle
+          - Carton
+          - Paper Cup
+          - Reusable Bottle
+          - No Preference
+        required: true
+      - id: 13
+        name: size_preference
+        label: Size Preference
+        hint: Select preferred size
+        type: select_one
+        options:
+          - Small (8-12 oz)
+          - Medium (12-16 oz)
+          - Large (16-24 oz)
+          - Extra Large (24+ oz)
+          - No Preference
+        required: true
+      - id: 14
+        name: purchase_location
+        label: Where Do You Purchase
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Grocery Store
+          - Convenience Store
+          - Gas Station
+          - Restaurant
+          - Coffee Shop
+          - Vending Machine
+          - Online
+          - Wholesale Club
+          - Other
+        required: true
+      - id: 15
+        name: price_range
+        label: Typical Price Range
+        hint: How much do you usually spend
+        type: select_one
+        options:
+          - Under $1
+          - $1 - $2
+          - $2 - $4
+          - $4 - $6
+          - $6+
+          - No Preference
+        required: true
+      - id: 16
+        name: health_consciousness
+        label: Health Consciousness
+        hint: How important are health factors
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 17
+        name: ingredient_importance
+        label: Important Ingredients
+        hint: Select ingredients you look for
+        type: select_multiple
+        options:
+          - Natural
+          - Organic
+          - Low Sugar
+          - Zero Sugar
+          - Vitamins
+          - Protein
+          - Caffeine
+          - Probiotics
+          - No Artificial Sweeteners
+          - No Preservatives
+        required: false
+      - id: 18
+        name: ingredients_to_avoid
+        label: Ingredients to Avoid
+        hint: Select ingredients you avoid
+        type: select_multiple
+        options:
+          - High Fructose Corn Syrup
+          - Artificial Sweeteners
+          - Artificial Colors
+          - Preservatives
+          - Caffeine
+          - Sodium
+          - Allergens
+          - None
+        required: false
+      - id: 19
+        name: brand_loyalty
+        label: Brand Loyalty
+        hint: How loyal are you to brands
+        type: select_one
+        options:
+          - Very Loyal
+          - Somewhat Loyal
+          - Neutral
+          - Switch Frequently
+          - Always Looking for Deals
+        required: true
+      - id: 20
+        name: new_product_openness
+        label: Openness to New Products
+        hint: Willing to try new beverages
+        type: select_one
+        options:
+          - Always First to Try
+          - Often Try New
+          - Sometimes Try New
+          - Rarely Try New
+          - Stick with What I Know
+        required: true
+      - id: 21
+        name: sustainability_importance
+        label: Importance of Sustainability
+        hint: How important is eco-friendly packaging
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 22
+        name: occasion
+        label: Typical Occasion
+        hint: When do you usually consume
+        type: select_multiple
+        options:
+          - Breakfast
+          - With Meals
+          - During Work
+          - During Exercise
+          - Social Events
+          - Relaxation
+          - On the Go
+          - Other
+        required: true
+      - id: 23
+        name: flavor_suggestions
+        label: Flavor Suggestions
+        hint: What new flavors would you like
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Satisfaction Survey
+    pages:
+    - id: 1
+      name: ministry_satisfaction_survey
+      label: How do you feel about our ministry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: How do you rate the quality of our services
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Poor''}'
+      - '{''value'': 2, ''label'': ''Poor''}'
+      - '{''value'': 3, ''label'': ''Average''}'
+      - '{''value'': 4, ''label'': ''Good''}'
+      - '{''value'': 5, ''label'': ''Excellent''}'
+      required: false
+    - id: 3
+      name: programs
+      label: How do you rate the quality of our programs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Poor''}'
+      - '{''value'': 2, ''label'': ''Poor''}'
+      - '{''value'': 3, ''label'': ''Average''}'
+      - '{''value'': 4, ''label'': ''Good''}'
+      - '{''value'': 5, ''label'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: community_engagement
+      label: How do you rate your participation in our community events
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Very Low''}'
+      - '{''value'': 2, ''label'': ''Low''}'
+      - '{''value'': 3, ''label'': ''Average''}'
+      - '{''value'': 4, ''label'': ''High''}'
+      - '{''value'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Do you have any comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ministry_services
+      label: How do you rate our services
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Poor''}'
+      - '{''value'': 2, ''label'': ''Poor''}'
+      - '{''value'': 3, ''label'': ''Average''}'
+      - '{''value'': 4, ''label'': ''Good''}'
+      - '{''value'': 5, ''label'': ''Excellent''}'
+      required: false
+    - id: 9
+      name: services_quality
+      label: What do you think are the biggest areas of improvement for our services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: programs_quality
+      label: What do you think are the biggest areas of improvement for our programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: community_events_quality
+      label: What do you think are the biggest areas of improvement for our community
+        events
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: services_improvement
+      label: What would you like to see improved in our services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: programs_improvement
+      label: What would you like to see improved in our programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: community_events_improvement
+      label: What would you like to see improved in our community events
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: services_comments
+      label: Do you have any suggestions for our services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: programs_comments
+      label: Do you have any suggestions for our programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: community_events_comments
+      label: Do you have any suggestions for our community events
+      hint: null
+      type: text
+      options: []
+      required: false

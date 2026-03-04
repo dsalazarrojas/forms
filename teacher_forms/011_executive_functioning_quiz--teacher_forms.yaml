@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Functioning Quiz
+    pages:
+    - id: 1
+      name: intro_question
+      label: What is this quiz for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_info
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_info
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cognitive_skills_assessed
+      label: Which of the following cognitive skills were assessed?
+      hint: null
+      type: select_multiple
+      options:
+      - Working Memory
+      - Planning
+      - Problem Solving
+      - Sustained Attention
+      - Self Monitoring
+      - Inhibitory Control
+      - Emotional Regulation
+      - Organization
+      - Task Initiation
+      - Task Monitoring
+      - Time Management
+      - Self Evaluation
+      - Self Regulation
+      - Flexibility
+      - Multi Tasking
+      - Self Control
+      required: true
+    - id: 7
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_performance
+      label: Which of the following statements describe the student's performance?
+      hint: null
+      type: select_multiple
+      options:
+      - Strengths
+      - Weaknesses
+      required: true
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Develop Interventions
+      - Monitor Progress
+      - Support Diagnosis
+      - Guide Educational Plans
+      - Guide Therapeutic Plans
+      required: true
+    - id: 10
+      name: output_statement
+      label: Output statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: output_goals
+      label: Output goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: output_therapist_goals
+      label: Output therapist goals
+      hint: null
+      type: text
+      options: []
+      required: true

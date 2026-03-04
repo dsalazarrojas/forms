@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Motorways Information Survey
+    pages:
+    - id: 1
+      name: smart_motorways_awareness
+      label: Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: smart_motorways_experiences
+      label: Experiences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: smart_motorways_improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: smart_motorways_frequency_of_use
+      label: Frequency of Use
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: smart_motorways_time_last_used
+      label: Last Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: smart_motorways_last_updated
+      label: Last Updated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: smart_motorways_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: smart_motorways_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: smart_motorways_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

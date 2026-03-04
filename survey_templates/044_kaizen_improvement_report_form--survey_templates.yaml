@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kaizen Improvement Report Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: suggestion_type
+      label: Suggestion Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Workflow''}'
+      - '{''id'': 2, ''name'': ''Product''}'
+      - '{''id'': 3, ''name'': ''Service''}'
+      required: true
+    - id: 3
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Other''}'
+      - '{''id'': 2, ''name'': ''Workflow''}'
+      - '{''id'': 3, ''name'': ''Product''}'
+      required: true
+    - id: 5
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: true
+    - id: 6
+      name: benefit
+      label: Benefit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resources
+      label: Resources
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Approved''}'
+      - '{''id'': 4, ''name'': ''Approved (Archived)''}'
+      - '{''id'': 5, ''name'': ''Closed''}'
+      - '{''id'': 6, ''name'': ''Rejected''}'
+      required: true
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: modified_on
+      label: Modified On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 25
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false

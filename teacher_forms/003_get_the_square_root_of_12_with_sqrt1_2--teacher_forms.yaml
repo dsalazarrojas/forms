@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Get The Square Root Of 12 With SQRT1_2
+    pages:
+    - id: 1
+      name: entered_number
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: math_function
+      label: function
+      hint: null
+      type: select_one
+      options:
+      - SQRT1_2
+      - SQRT1_5
+      - SQRT2
+      required: false
+    - id: 3
+      name: calculation_result
+      label: result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: result_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

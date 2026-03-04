@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Relationship Survey
+    pages:
+    - id: 1
+      name: user1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user1_email
+      label: first_name_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user2
+      label: second_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user2_email
+      label: second_name_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: relationship_type
+      label: do_you_know_the_person
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 6
+      name: relationship_length
+      label: how_long_do_you_know_the_person
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: relationship_frequency
+      label: how_frequently_do_you_meet_or_communicate
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: true
+    - id: 8
+      name: relationship_satisfaction
+      label: how_satisfied_are_you_with_your_current_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 9
+      name: relationship_status
+      label: what_is_the_status_of_your_current_relationship
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: true
+    - id: 10
+      name: relationship_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user1_relationship_comments
+      label: user1_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user2_relationship_comments
+      label: user2_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: relationship_dominance
+      label: who_is_more_dominant
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 14
+      name: relationship_conflict
+      label: have_you_had_conflict_with_your_partner
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: true
+    - id: 15
+      name: relationship_dominance_comments
+      label: why_do_you_feel_like_the_other_person_is_more_dominant
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: relationship_conflict_comments
+      label: why_do_you_have_conflict_with_your_partner
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: relationship_satisfaction_comments
+      label: why_are_you_satisfied_with_your_current_relationship
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: relationship_status_comments
+      label: why_do_you_feel_like_your_current_relationship_is
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date_last_met
+      label: date_last_met
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_last_met
+      label: time_last_met
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: location_last_met
+      label: location_last_met
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 22
+      name: date_last_met_comments
+      label: where_and_when_did_you_last_meet_your_partner
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: time_last_met_comments
+      label: what_time_did_you_last_meet_your_partner
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: location_last_met_comments
+      label: where_did_you_last_meet_your_partner
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false

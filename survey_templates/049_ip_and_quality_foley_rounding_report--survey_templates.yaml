@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: ip_and_quality_foley_rounding_report
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_round
+      label: date of round
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_of_round
+      label: time of round
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: ip_rounds_completed
+      label: ip rounds completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: quality_foley_rounds_completed
+      label: quality foley rounds completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_ip_round
+      label: reason for ip round
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''N/A''}'
+      - '{''value'': ''Catheter placement''}'
+      - '{''value'': ''Catheter removal''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: reason_for_quality_round
+      label: reason for quality round
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''N/A''}'
+      - '{''value'': ''Foley removal''}'
+      - '{''value'': ''Foley adjustment''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: support_needed
+      label: support needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nurse_name
+      label: nurse name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_round_scheduled
+      label: date of round scheduled
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_round_scheduled
+      label: time of round scheduled
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: priority
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ip_scheduled_rounds
+      label: ip scheduled rounds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ip_completed_rounds
+      label: ip completed rounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: quality_scheduled_rounds
+      label: quality scheduled rounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: quality_completed_rounds
+      label: quality completed rounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: days_between_rounds
+      label: days between rounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: next_ip_scheduled
+      label: next ip scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_quality_scheduled
+      label: next quality scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: last_ip_scheduled
+      label: last ip scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_quality_scheduled
+      label: last quality scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_ip_completed
+      label: last ip completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: last_quality_completed
+      label: last quality completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: true

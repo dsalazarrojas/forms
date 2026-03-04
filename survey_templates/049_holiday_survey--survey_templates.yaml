@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Survey
+    pages:
+    - id: 1
+      name: holiday_survey
+      label: Holiday Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 6
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false

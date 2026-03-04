@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball T Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Where we can send order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: Your basketball team name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shirt_style
+      label: Shirt Style
+      hint: Choose your preferred style
+      type: select_one
+      options:
+      - Crew Neck
+      - V-Neck
+      - Tank Top
+      - Long Sleeve
+      - Performance Jersey
+      required: true
+    - id: 6
+      name: shirt_color
+      label: Shirt Color
+      hint: Primary shirt color
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Orange
+      - Purple
+      required: true
+    - id: 7
+      name: size_small
+      label: Quantity - Small
+      hint: Number of small shirts
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: size_medium
+      label: Quantity - Medium
+      hint: Number of medium shirts
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: size_large
+      label: Quantity - Large
+      hint: Number of large shirts
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: size_xl
+      label: Quantity - XL
+      hint: Number of XL shirts
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: size_xxl
+      label: Quantity - XXL
+      hint: Number of XXL shirts
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: custom_text
+      label: Custom Text
+      hint: Text to print on shirts
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: logo_upload
+      label: Logo Upload
+      hint: Upload your team logo if available
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - Ship to Address
+      - Pick Up In Store
+      - Team Delivery
+      required: true
+    - id: 15
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash on Pickup
+      required: true
+    - id: 17
+      name: order_notes
+      label: Order Notes
+      hint: Any special instructions for your order
+      type: text
+      options: []
+      required: false

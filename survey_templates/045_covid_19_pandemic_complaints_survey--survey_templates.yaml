@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pandemic Complaints Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: complaint_header
+      label: -- Complaint Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: complaint_type
+      label: Type of Complaint
+      hint: null
+      type: select_one
+      options:
+      - Public Health Response
+      - Business Impact
+      - Employment
+      - Healthcare Access
+      - Mental Health
+      - Education
+      - Government Communication
+      - Misinformation
+      - Other
+      required: true
+    - id: 9
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - Service Closure or Limitation
+      - Restrictions Too Strict
+      - Restrictions Not Strict Enough
+      - Unclear Communication
+      - Lack of Support
+      - Unfair Policies
+      - Other
+      required: true
+    - id: 10
+      name: complaint_description
+      label: Detailed Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: complaint_date
+      label: When Did This Complaint Arise
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: impact_header
+      label: -- Impact of Complaint --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: personal_impact
+      label: Personal Impact
+      hint: null
+      type: select_one
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      - None
+      required: true
+    - id: 14
+      name: impact_areas
+      label: Areas of Impact
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial
+      - Physical Health
+      - Mental Health
+      - Family
+      - Employment
+      - Education
+      - Other
+      required: false
+    - id: 15
+      name: positive_header
+      label: -- Positive Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: positive_feedback
+      label: Any positive aspects of pandemic response
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: positive_details
+      label: Describe positive feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suggestion_header
+      label: -- Suggestions and Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: suggestions
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_requested
+      label: Action requested or resolution sought
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up
+      label: Follow-up response desired
+      hint: null
+      type: select_one
+      options:
+      - Yes, Contact Me
+      - No, Anonymous
+      required: true

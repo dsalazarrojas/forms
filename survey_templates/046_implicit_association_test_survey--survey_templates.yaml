@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Implicit Association Test Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome to the Implicit Association Test
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: iat_survey
+      label: Implicit Association Test
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

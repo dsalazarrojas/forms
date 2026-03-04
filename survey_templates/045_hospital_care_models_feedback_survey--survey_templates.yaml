@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Care Models Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Hospital Care Models Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Survey Templates
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_feedback
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 5
+      name: care_models
+      label: Which of the following care models have you been a part of?
+      hint: null
+      type: select_multiple
+      options:
+      - Care Model 1
+      - Care Model 2
+      - Care Model 3
+      required: false
+    - id: 6
+      name: care_model_comments
+      label: Do you have any comments about our care models?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_satisfaction
+      label: How satisfied are you with our care models?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 8
+      name: care_model_improvement
+      label: What would you like to see improved in our care models?
+      hint: null
+      type: text
+      options: []
+      required: false

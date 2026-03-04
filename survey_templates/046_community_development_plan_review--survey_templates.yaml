@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Development Plan Review
+    pages:
+    - id: 1
+      name: section_plan_review_intro
+      label: -- Community Development Plan Review --
+      hint: Your feedback is vital to our community's development plan!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_full_name_pln
+      label: Full Name of Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_email_pln
+      label: Email Address
+      hint: For follow-up and review results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_phone_pln
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reviewer_address_pln
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_development_plan_review_pln
+      label: -- Development Plan Review and Feedback --
+      hint: Review the areas and issues that matter most to you.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: development_priority_review_pln
+      label: Which area in our community's development plan needs the most attention
+      hint: Select your top priority
+      type: select_one
+      options:
+      - Housing and Real Estate
+      - Public Transportation
+      - Parks and Recreation
+      - Commercial/Business Zones
+      - Education and Schools
+      - Public Safety and Infrastructure
+      required: true
+    - id: 8
+      name: plan_satisfaction_review_pln
+      label: Rate your overall satisfaction with the proposed development plan
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: plan_engagement_review_pln
+      label: Do you feel adequately engaged in the development planning process
+      hint: null
+      type: select_one
+      options:
+      - Yes, adequately engaged
+      - Somewhat engaged
+      - No, unengaged
+      required: true
+    - id: 10
+      name: improvement_ideas_review_pln
+      label: What are your ideas for improving the development plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_community_sentiment_review_pln
+      label: -- Community Sentiment and Feedback --
+      hint: Tell us about your satisfaction and engagement.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: development_initiative_satisfaction_pln
+      label: Rate your satisfaction with recent development initiatives
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: future_development_ideas_pln
+      label: What are your ideas for future development initiatives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: development_support_availability_pln
+      label: Would you be willing to support a development initiative
+      hint: null
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      - Maybe, more info please
+      required: true
+    - id: 15
+      name: section_final_submission_review_pln
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_signature_digital_pln
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date_final_pln
+      label: Date of Review Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: newsletter_opt_in_pln
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 19
+      name: referral_source_pln
+      label: How did you hear about this plan review form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 20
+      name: emergency_contact_full_name_pln
+      label: Emergency Contact Person
+      hint: Someone not living with the reviewer
+      type: text
+      options: []
+      required: true

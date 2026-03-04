@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Answer Sheet
+    pages:
+    - id: 1
+      name: section_instructions
+      label: -- Instructions --
+      hint: Fill student answers clearly and submit per assignment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Enter full name as on roster
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student id number
+      hint: School or class identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class name or code
+      hint: e g Math 101
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_date
+      label: Test date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: answer_sheet_type
+      label: Answer sheet type
+      hint: Multiple choice or short answer
+      type: select_one
+      options:
+      - Multiple choice
+      - Short answer
+      - Mixed
+      required: true
+    - id: 7
+      name: total_questions
+      label: Total number of questions
+      hint: Enter whole number
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: teacher_comments
+      label: Teacher comments
+      hint: Optional notes from instructor
+      type: text
+      options: []
+      required: false

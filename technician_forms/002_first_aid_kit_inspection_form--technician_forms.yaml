@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Kit Inspection Form
+    pages:
+    - id: 1
+      name: first_aid_kit_inspection_form
+      label: First Aid Kit Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: kit_contents_location
+      label: Kit Contents Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: first_aids
+      label: First Aids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: bandages
+      label: Bandages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: antiseptic
+      label: Antiseptic
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gauze
+      label: Gauze
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_kits
+      label: Medical Kits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cold_pack
+      label: Cold Pack
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gloves
+      label: Gloves
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: first_aid_manual
+      label: First Aid Manual
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: inspected_by
+      label: Inspected By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

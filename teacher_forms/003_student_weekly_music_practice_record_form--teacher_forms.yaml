@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Weekly Music Practice Record Form
+    pages:
+    - id: 1
+      name: practice_sessions
+      label: Music Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: practice_time
+      label: Practice Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: practice_days
+      label: Practice Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: goals
+      label: Practice Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_comments_2
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: practice_frequency
+      label: Practice Frequency
+      hint: null
+      type: select_one
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      required: false
+    - id: 9
+      name: practice_duration
+      label: Practice Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 11
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comments_2
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_rating
+      label: Student Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: text
+      options: []
+      required: false

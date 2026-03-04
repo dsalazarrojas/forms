@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Retail Checkout Experience Survey
+    pages:
+      - id: 1
+        name: visit_header
+        label: -- Visit Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: store_location
+        label: Store Location Visited
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: visit_date
+        label: Visit Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: visit_time
+        label: Time of Visit
+        hint: null
+        type: select_one
+        options: [Early Morning, Mid-Morning, Midday, Afternoon, Evening, Night]
+        required: true
+      - id: 5
+        name: customer_type
+        label: Are You A
+        hint: null
+        type: select_one
+        options: [First-time Visitor, Occasional Customer, Regular Customer]
+        required: true
+      - id: 6
+        name: checkout_header
+        label: -- Checkout Process --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: checkout_lines
+        label: Wait Time in Checkout Line
+        hint: null
+        type: select_one
+        options: [No Wait, Under 5 minutes, 5-10 minutes, 10-15 minutes, Over 15 minutes]
+        required: true
+      - id: 8
+        name: checkout_speed
+        label: Checkout Speed and Efficiency
+        hint: null
+        type: select_one
+        options: [Very Slow, Slow, Average, Fast, Very Fast]
+        required: true
+      - id: 9
+        name: payment_options
+        label: Availability of Payment Options
+        hint: Cash, card, mobile payment, etc.
+        type: select_one
+        options: [Very Limited, Limited, Adequate, Good, Excellent]
+        required: true
+      - id: 10
+        name: checkout_technology
+        label: Checkout Technology Experience
+        hint: POS system, card reader, etc.
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 11
+        name: staff_header
+        label: -- Staff Interaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: staff_availability
+        label: Staff Availability at Checkout
+        hint: null
+        type: select_one
+        options: [None Available, Limited, Adequate, Always Available]
+        required: true
+      - id: 13
+        name: staff_friendliness
+        label: Staff Friendliness and Courtesy
+        hint: null
+        type: select_one
+        options: [Very Unfriendly, Unfriendly, Neutral, Friendly, Very Friendly]
+        required: true
+      - id: 14
+        name: staff_knowledge
+        label: Staff Product Knowledge
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 15
+        name: staff_helpfulness
+        label: Staff Helpfulness with Questions
+        hint: null
+        type: select_one
+        options: [Not Helpful, Somewhat Helpful, Neutral, Helpful, Very Helpful]
+        required: true
+      - id: 16
+        name: environment_header
+        label: -- Store Environment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: store_cleanliness
+        label: Store Cleanliness and Organization
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 18
+        name: checkout_area_comfort
+        label: Checkout Area Comfort and Safety
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 19
+        name: lighting_visibility
+        label: Lighting and Product Visibility
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 20
+        name: issues_header
+        label: -- Issues and Problems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: checkout_issues
+        label: Any Issues or Problems During Checkout
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: system_issues
+        label: Technical Issues Experienced
+        hint: Payment system, register, etc.
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: pricing_issues
+        label: Pricing or Promotional Issues
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: satisfaction_header
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: overall_experience
+        label: Overall Checkout Experience
+        hint: null
+        type: select_one
+        options: [Very Dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied]
+        required: true
+      - id: 26
+        name: recommend_store
+        label: Would You Recommend This Store
+        hint: null
+        type: select_one
+        options: [Definitely Not, Probably Not, Unsure, Probably Yes, Definitely Yes]
+        required: true
+      - id: 27
+        name: shop_again
+        label: Will You Shop Here Again
+        hint: null
+        type: select_one
+        options: [Definitely Not, Probably Not, Unsure, Probably Yes, Definitely Yes]
+        required: true

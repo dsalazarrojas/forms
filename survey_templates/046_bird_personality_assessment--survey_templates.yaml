@@ -1,0 +1,406 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bird Personality Assessment
+    pages:
+      - id: 1
+        name: participant_information
+        label: Participant Information
+        hint: Enter your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Your last name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: Contact email for results
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 6
+        name: assessment_instructions
+        label: Assessment Instructions
+        hint: Read before starting
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: instruction_text
+        label: Instructions
+        hint: Answer honestly based on how you typically behave
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: question_1
+        label: Question 1 - In social situations, I tend to be
+        hint: Select the best answer
+        type: select_one
+        options:
+          - The center of attention, singing loudly
+          - Observant, watching from a distance
+          - Friendly but selective about interactions
+          - Loyal to my close group
+        required: true
+      - id: 9
+        name: question_2
+        label: Question 2 - When facing a challenge, I typically
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Dive in headfirst with energy
+          - Carefully observe before acting
+          - Seek help from trusted allies
+          - Use clever problem-solving
+        required: true
+      - id: 10
+        name: question_3
+        label: Question 3 - My ideal weekend involves
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Adventurous outdoor activities
+          - Quiet time in nature
+          - Socializing with friends
+          - Building or creating something
+        required: true
+      - id: 11
+        name: question_4
+        label: Question 4 - People would describe me as
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Bold and confident
+          - Wise and thoughtful
+          - Warm and nurturing
+          - Clever and resourceful
+        required: true
+      - id: 12
+        name: question_5
+        label: Question 5 - In a group project, I prefer to
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Take charge and lead
+          - Analyze and provide insight
+          - Support and encourage others
+          - Find innovative solutions
+        required: true
+      - id: 13
+        name: question_6
+        label: Question 6 - My communication style is
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Direct and expressive
+          - Thoughtful and measured
+          - Warm and empathetic
+          - Quick and witty
+        required: true
+      - id: 14
+        name: question_7
+        label: Question 7 - When stressed, I tend to
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Become agitated and vocal
+          - Withdraw and reflect
+          - Seek comfort from loved ones
+          - Busy myself with tasks
+        required: true
+      - id: 15
+        name: question_8
+        label: Question 8 - I value most in myself
+        hint: Select the best answer
+        type: select_one
+        options:
+          - My courage and strength
+          - My wisdom and insight
+          - My loyalty and care
+          - My adaptability and wit
+        required: true
+      - id: 16
+        name: question_9
+        label: Question 9 - My living space is typically
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Bold and colorful
+          - Organized and peaceful
+          - Cozy and welcoming
+          - Functional and interesting
+        required: true
+      - id: 17
+        name: question_10
+        label: Question 10 - In conflicts, I usually
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Confront directly
+          - Analyze before responding
+          - Seek harmony and compromise
+          - Find a clever workaround
+        required: true
+      - id: 18
+        name: question_11
+        label: Question 11 - My approach to learning is
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Hands-on and active
+          - Observant and reflective
+          - Collaborative and social
+          - Experimental and curious
+        required: true
+      - id: 19
+        name: question_12
+        label: Question 12 - I feel most energized when
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Taking on new challenges
+          - Having quiet contemplation time
+          - Connecting with loved ones
+          - Solving interesting problems
+        required: true
+      - id: 20
+        name: question_13
+        label: Question 13 - My decision-making style is
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Quick and decisive
+          - Careful and analytical
+          - Considerate of others
+          - Flexible and adaptive
+        required: true
+      - id: 21
+        name: question_14
+        label: Question 14 - In friendships, I prioritize
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Excitement and adventure
+          - Deep meaningful conversations
+          - Loyalty and emotional support
+          - Fun and intellectual stimulation
+        required: true
+      - id: 22
+        name: question_15
+        label: Question 15 - My greatest strength is my
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Courage and leadership
+          - Wisdom and perception
+          - Compassion and loyalty
+          - Intelligence and adaptability
+        required: true
+      - id: 23
+        name: question_16
+        label: Question 16 - I prefer my daily routine to be
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Varied and spontaneous
+          - Structured and predictable
+          - Balanced with social time
+          - Flexible with variety
+        required: true
+      - id: 24
+        name: question_17
+        label: Question 17 - When meeting new people, I am
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Immediately friendly and outgoing
+          - Cautious and observant
+          - Warm but selective
+          - Curious and engaging
+        required: true
+      - id: 25
+        name: question_18
+        label: Question 18 - My approach to goals is
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Ambitious and driven
+          - Thoughtful and strategic
+          - Steady and persistent
+          - Creative and flexible
+        required: true
+      - id: 26
+        name: question_19
+        label: Question 19 - I handle change by
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Embracing it enthusiastically
+          - Analyzing its implications
+          - Seeking support from others
+          - Adapting quickly
+        required: true
+      - id: 27
+        name: question_20
+        label: Question 20 - My natural instinct is to be
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A leader and protector
+          - A thinker and observer
+          - A nurturer and supporter
+          - An innovator and explorer
+        required: true
+      - id: 28
+        name: results_section
+        label: Results Section
+        hint: Your bird personality type
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: personality_type
+        label: Your Bird Personality Type
+        hint: Based on your answers
+        type: select_one
+        options:
+          - Eagle - Bold Leader
+          - Owl - Wise Observer
+          - Dove - Peaceful Nurturer
+          - Raven - Clever Innovator
+          - Hummingbird - Energetic Explorer
+          - Penguin - Loyal Companion
+          - Parrot - Social Communicator
+          - Hawk - Strategic Hunter
+        required: false
+      - id: 30
+        name: personality_description
+        label: Personality Description
+        hint: Learn about your type
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: strengths
+        label: Your Strengths
+        hint: Based on your personality
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: growth_areas
+        label: Areas for Growth
+        hint: Suggestions for development
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: career_matches
+        label: Career Matches
+        hint: Careers that suit your type
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: relationship_style
+        label: Relationship Style
+        hint: How you connect with others
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: feedback
+        label: Feedback
+        hint: About this assessment
+        type: note
+        options: []
+        required: false
+      - id: 36
+        name: accuracy_rating
+        label: How Accurate Were the Results
+        hint: Rate the accuracy
+        type: select_one
+        options:
+          - Very Accurate
+          - Somewhat Accurate
+          - Neutral
+          - Not Very Accurate
+          - Not Accurate At All
+        required: true
+      - id: 37
+        name: enjoyment_rating
+        label: How Much Did You Enjoy This
+        hint: Rate your enjoyment
+        type: select_one
+        options:
+          - Very Much
+          - Somewhat
+          - Neutral
+          - Not Much
+          - Not At All
+        required: true
+      - id: 38
+        name: would_share
+        label: Would You Share This Assessment
+        hint: With friends or family
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 39
+        name: additional_comments
+        label: Additional Comments
+        hint: Any feedback
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: assessment_date
+        label: Assessment Date
+        hint: Date completed
+        type: date
+        options: []
+        required: true

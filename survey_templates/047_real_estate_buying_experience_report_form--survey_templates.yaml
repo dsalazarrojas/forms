@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Buying Experience Report Form
+    pages:
+    - id: 1
+      name: real_estate_buying_form
+      label: real_estate_buying_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: what_drove_your_decision
+      label: what_drove_your_decision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: why_did_you_choose
+      label: why_did_you_choose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: were_your_expectations_met
+      label: were_your_expectations_met
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: what_did_you_purchase
+      label: what_did_you_purchase
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: real_estate_office
+      label: real_estate_office
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

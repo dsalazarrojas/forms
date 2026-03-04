@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Salm Knowledge Assessment
+    pages:
+    - id: 1
+      name: salm_knowledge_assessment_form
+      label: Salm Knowledge Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salm_questions
+      label: Salm Questions
+      hint: null
+      type: select_one
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      required: true
+    - id: 3
+      name: salm_knowledge_areas
+      label: Salm Knowledge Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 4
+      name: salm_assessment_date
+      label: Salm Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: salm_assessment_time
+      label: Salm Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: salm_assessment_outcome
+      label: Salm Assessment Outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 7
+      name: salm_additional_comments
+      label: Salm Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

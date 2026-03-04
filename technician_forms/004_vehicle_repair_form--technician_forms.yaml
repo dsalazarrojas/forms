@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_repair_form
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_problem
+      label: Vehicle Problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: repair_type
+      label: Repair Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Oil Change''}'
+      - '{''label'': ''Maintenance''}'
+      - '{''label'': ''Repair''}'
+      required: true
+    - id: 6
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mechanic_notes
+      label: Mechanic Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: parts_cost
+      label: Parts Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_cost
+      label: Vehicle Cost
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: technician
+      label: Technician
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Jim''}'
+      - '{''label'': ''Bob''}'
+      - '{''label'': ''Joe''}'
+      required: true
+    - id: 15
+      name: vehicle_problem_date
+      label: Date of Problem
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_repair_date
+      label: Repair Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_repair_time
+      label: Repair Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Complete''}'
+      - '{''label'': ''In Progress''}'
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mechanic_signature
+      label: Mechanic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_repair_form_id
+      label: Vehicle Repair Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: true

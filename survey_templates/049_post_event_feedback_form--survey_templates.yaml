@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Feedback Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_rating
+      label: Event Rating
+      hint: On a scale of 1-5, how would you rate this event?
+      type: select_one
+      options:
+      - '{''label'': ''1 - 2/5''}'
+      - '{''label'': ''2 - 3/5''}'
+      - '{''label'': ''3 - 4/5''}'
+      - '{''label'': ''4 - 5/5''}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: F1 Season Predictions Survey
+    pages:
+    - id: 1
+      name: season_picks
+      label: Season Picks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: top_drivers
+      label: Top Drivers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: season_forecasts
+      label: Season Forecasts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: top_engineering
+      label: Top Engineering
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: top_engineer
+      label: Top Engineering Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: top_constructor
+      label: Top Constructor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: top_drivers_picks
+      label: Top Drivers Picks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: season_forecast_picks
+      label: Season Forecast Picks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: top_driver
+      label: Top Driver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: top_constructor_picks
+      label: Top Constructor Picks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: function_performance_feedback
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Meeting''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attended
+      label: attended
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 7
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Follow up via phone''}'
+      - '{''label'': ''Follow up via email''}'
+      - '{''label'': ''Follow up in person''}'
+      - '{''label'': ''No follow up''}'
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 5}'
+      - '{''label'': 4}'
+      - '{''label'': 3}'
+      - '{''label'': 2}'
+      - '{''label'': 1}'
+      required: true
+    - id: 10
+      name: rating_comment
+      label: rating_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_email
+      label: follow_up_email
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Send follow up via email''}'
+      - '{''label'': ''Do not send follow up via email''}'
+      required: false
+    - id: 14
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Send follow up via phone''}'
+      - '{''label'': ''Do not send follow up via phone''}'
+      required: false
+    - id: 15
+      name: follow_up_in_person
+      label: follow_up_in_person
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Send follow up in person''}'
+      - '{''label'': ''Do not send follow up in person''}'
+      required: false
+    - id: 16
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Follow up via email''}'
+      - '{''label'': ''Follow up via phone''}'
+      - '{''label'': ''Follow up in person''}'
+      required: false
+    - id: 17
+      name: follow_up_timeframe
+      label: follow_up_timeframe
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_for_event
+      label: comments_for_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_type_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_type_meeting
+      label: meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_type_training
+      label: training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_method_in_person
+      label: follow_up_method_in_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_method_via_email
+      label: follow_up_method_via_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_method_via_phone
+      label: follow_up_method_via_phone
+      hint: null
+      type: text
+      options: []
+      required: false

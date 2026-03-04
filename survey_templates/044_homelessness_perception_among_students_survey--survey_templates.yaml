@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homelessness Perception Among Students Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_much_do_you_know_about_homelessness
+      label: How much do you know about homelessness?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: what_does_homelessness_mean_to_you
+      label: What does homelessness mean to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_could_be_done_to_help_people_who_are_homeless
+      label: What could be done to help people who are homeless?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_multiple
+      options:
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      required: true
+    - id: 7
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_2
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Homeless Shelter
+      - Food bank
+      - Health clinic
+      - Job center
+      - Mental health service
+      required: false
+    - id: 8
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_3
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Homeless Shelter
+      - Homeless Shelter
+      - Food bank
+      required: false
+    - id: 9
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_4
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Homeless Shelter
+      - Food bank
+      required: false
+    - id: 10
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_5
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Homeless Shelter
+      - Food bank
+      required: false
+    - id: 11
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_6
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Food bank
+      - Other
+      required: false
+    - id: 12
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_7
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Health clinic
+      - Other
+      required: false
+    - id: 13
+      name: how_much_do_you_know_about_services_and_resources_for_people_who_are_homeless_options_8
+      label: How much do you know about services and resources for people who are
+        homeless?
+      hint: null
+      type: select_one
+      options:
+      - Job center
+      - Other
+      required: false
+    - id: 14
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Age'': ''18-24''}'
+      - '{''Age'': ''25-34''}'
+      - '{''Age'': ''35-44''}'
+      - '{''Age'': ''45-54''}'
+      - '{''Age'': ''55-64''}'
+      - '{''Age'': ''65+''}'
+      - '{''Gender'': ''Male''}'
+      - '{''Gender'': ''Female''}'
+      - '{''Gender'': ''Nonbinary''}'
+      - '{''Ethnicity'': ''White''}'
+      - '{''Ethnicity'': ''Black''}'
+      - '{''Ethnicity'': ''Asian''}'
+      - '{''Ethnicity'': ''Hispanic''}'
+      - '{''Ethnicity'': ''Other''}'
+      required: false
+    - id: 15
+      name: how_much_time_have_you_spent_learning_about_homelessness
+      label: How much time have you spent learning about homelessness?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - More than 20 hours
+      required: false
+    - id: 16
+      name: how_much_time_have_you_spent_learning_about_homelessness_options_2
+      label: How much time have you spent learning about homelessness?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-5 hours
+      - 5-10 hours
+      - 10-20 hours
+      required: false
+    - id: 17
+      name: how_much_time_have_you_spent_learning_about_homelessness_options_3
+      label: How much time have you spent learning about homelessness?
+      hint: null
+      type: select_one
+      options:
+      - 1-5 hours
+      - 5-10 hours
+      - 10-20 hours
+      required: false
+    - id: 18
+      name: how_much_time_have_you_spent_learning_about_homelessness_options_4
+      label: How much time have you spent learning about homelessness?
+      hint: null
+      type: select_one
+      options:
+      - 10-20 hours
+      - Other
+      required: false
+    - id: 19
+      name: how_much_time_have_you_spent_learning_about_homelessness_options_5
+      label: How much time have you spent learning about homelessness?
+      hint: null
+      type: select_one
+      options:
+      - More than 20 hours
+      - Other
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_info_2
+      label: contact_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_info_3
+      label: contact_info_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_info_4
+      label: contact_info_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_info_5
+      label: contact_info_5
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year's Business Goals Survey
+    pages:
+    - id: 1
+      name: survey_year
+      label: New Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_objectives
+      label: What are your company objectives
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Improve customer satisfaction''}'
+      - '{''id'': 2, ''value'': ''Increase sales''}'
+      - '{''id'': 3, ''value'': ''Enhance customer experience''}'
+      required: false
+    - id: 3
+      name: business_aspirations
+      label: What are your business aspirations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_market
+      label: Who is your primary target market
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Local customers''}'
+      - '{''id'': 2, ''value'': ''National customers''}'
+      - '{''id'': 3, ''value'': ''International customers''}'
+      required: false
+    - id: 5
+      name: business_expectations
+      label: What are your business expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_goal
+      label: What is your financial goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: marketing_strategy
+      label: What is your marketing strategy
+      hint: null
+      type: text
+      options: []
+      required: false

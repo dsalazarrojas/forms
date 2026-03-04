@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: ged-practice-test-booking-form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: teacher_comment
+      label: Teacher Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jimbob
+      required: true

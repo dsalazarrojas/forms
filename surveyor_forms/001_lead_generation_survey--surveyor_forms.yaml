@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: lead_generation_survey
+    pages:
+    - id: 1
+      name: lead_generation_survey
+      label: Lead Generation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      required: false
+    - id: 3
+      name: lead_generation_practices
+      label: lead_generation_practices
+      hint: null
+      type: select_multiple
+      options:
+      - Lead Generation
+      - Account Management
+      - Relationship Building
+      - Lead Nurturing
+      - Lead Qualification
+      required: false
+    - id: 4
+      name: lead_generation_leads
+      label: lead_generation_leads
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lead_generation_sources
+      label: lead_generation_sources
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Phone
+      - Referral
+      required: false
+    - id: 6
+      name: lead_generation_challenges
+      label: lead_generation_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of Resources
+      - Lack of Knowledge
+      - Lack of Motivation
+      required: false
+    - id: 7
+      name: lead_generation_strategies
+      label: lead_generation_strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Lead Magnitude
+      - Lead Qualification
+      - Lead Nurturing
+      required: false
+    - id: 8
+      name: lead_generation_outcomes
+      label: lead_generation_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Success
+      - Failure
+      - Undetermined
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lead_generation_rating
+      label: lead_generation_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lead_generation_score
+      label: lead_generation_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatfred
+      - chatjohn
+      required: false

@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Attributes Survey
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name (Optional)
+        hint: Name is optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address (Optional)
+        hint: For follow-up communications
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56+
+        required: true
+      - id: 5
+        name: section_header_familiarity
+        label: -- Brand Familiarity --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: brand_awareness
+        label: How Aware Are You of Our Brand
+        hint: Awareness level
+        type: select_one
+        options:
+          - Very aware
+          - Somewhat aware
+          - Slightly aware
+          - Not aware
+          - Just learning
+        required: true
+      - id: 7
+        name: brand_relationship
+        label: Your Relationship With Brand
+        hint: How you interact with brand
+        type: select_one
+        options:
+          - Loyal customer
+          - Regular customer
+          - Occasional customer
+          - First time exposure
+          - Unfamiliar with brand
+        required: true
+      - id: 8
+        name: section_header_perception
+        label: -- Brand Perception --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: brand_trust
+        label: How Much Do You Trust This Brand
+        hint: Trust level
+        type: select_one
+        options:
+          - Very trustworthy
+          - Trustworthy
+          - Neutral
+          - Somewhat untrustworthy
+          - Not trustworthy
+        required: true
+      - id: 10
+        name: brand_quality
+        label: Perception of Brand Quality
+        hint: Quality assessment
+        type: select_one
+        options:
+          - Excellent quality
+          - Good quality
+          - Average quality
+          - Below average
+          - Poor quality
+        required: true
+      - id: 11
+        name: brand_innovation
+        label: Brand Innovation and Creativity
+        hint: How innovative is the brand
+        type: select_one
+        options:
+          - Very innovative
+          - Innovative
+          - Somewhat innovative
+          - Not very innovative
+          - Not innovative
+        required: true
+      - id: 12
+        name: section_header_attributes
+        label: -- Brand Attributes Rating --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: brand_reliability
+        label: Brand Reliability
+        hint: Can you count on this brand
+        type: select_one
+        options:
+          - Extremely reliable
+          - Very reliable
+          - Somewhat reliable
+          - Not very reliable
+          - Not reliable
+        required: true
+      - id: 14
+        name: brand_value
+        label: Value for Money
+        hint: Is brand worth the price
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Below average value
+          - Poor value
+        required: true
+      - id: 15
+        name: brand_customer_service
+        label: Customer Service Quality
+        hint: Quality of customer support
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: false
+      - id: 16
+        name: section_header_comparison
+        label: -- Competitive Positioning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: vs_competitors
+        label: How Does Brand Compare to Competitors
+        hint: Competitive positioning
+        type: select_one
+        options:
+          - Significantly better
+          - Better
+          - Equal
+          - Worse
+          - Significantly worse
+        required: true
+      - id: 18
+        name: section_header_experience
+        label: -- Brand Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: brand_experience_rating
+        label: Overall Brand Experience Rating
+        hint: Rate your total experience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: recommendation
+        label: Would You Recommend This Brand
+        hint: Likelihood of recommendation
+        type: select_one
+        options:
+          - Definitely recommend
+          - Probably recommend
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 21
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

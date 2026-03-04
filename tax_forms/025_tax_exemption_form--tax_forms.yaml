@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_exemption_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exemption_status
+      label: Exemption Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 3
+      name: reason_for_exemption
+      label: Reason For Exemption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_exemption
+      label: Date Of Exemption
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exemption_type
+      label: Exemption Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Organization
+      - Government Agency
+      required: false
+    - id: 6
+      name: tax_id_number
+      label: Tax ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exempted_by
+      label: Exempted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exemption_amount
+      label: Exemption Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tax_authority
+      label: Tax Authority
+      hint: null
+      type: text
+      options: []
+      required: false

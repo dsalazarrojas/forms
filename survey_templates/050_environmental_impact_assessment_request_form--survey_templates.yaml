@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_impact_assessment_request_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact_categories
+      label: Impact Categories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: potential_hazards
+      label: Potential Hazards
+      hint: null
+      type: select_one
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: true
+    - id: 4
+      name: risk_characteristics
+      label: Risk Characteristics
+      hint: null
+      type: select_one
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      required: true
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: environmental_impacts
+      label: Environmental Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 8
+      name: regulatory_frameworks
+      label: Regulatory Frameworks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

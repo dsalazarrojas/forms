@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Social Networking Questionnaire
+    pages:
+    - id: 1
+      name: social_media_platforms_used
+      label: Social Media Platforms Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: online_shopping_frequency
+      label: Online Shopping Frequency
+      hint: How often do you shop online?
+      type: select_one
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      - '{''option4'': ''Rarely''}'
+      - '{''option5'': ''Never''}'
+      required: false
+    - id: 3
+      name: email_service
+      label: Email Service
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Gmail''}'
+      - '{''option2'': ''Yahoo''}'
+      - '{''option3'': ''AOL''}'
+      - '{''option4'': ''Hotmail''}'
+      - '{''option5'': ''Other''}'
+      - '{''option6'': ''None''}'
+      required: false
+    - id: 4
+      name: phone_service
+      label: Phone Service
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Verizon''}'
+      - '{''option2'': ''TMobile''}'
+      - '{''option3'': ''AT&T''}'
+      - '{''option4'': ''Other''}'
+      - '{''option5'': ''None''}'
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_spent_online
+      label: Time Spent Online
+      hint: How much time do you spend online per day?
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: online_shopping_purchases
+      label: Online Shopping Purchases
+      hint: How many online purchases you make in a month?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: online_hobbies
+      label: Online Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: social_media_friends
+      label: Social Media Friends
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: favorite_online_shops
+      label: Favorite Online Shops
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: social_networking_preferences
+      label: Social Networking Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: online_shopping_frequency_per_month
+      label: Online Shopping Frequency Per Month
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''1-5''}'
+      - '{''option2'': ''6-10''}'
+      - '{''option3'': ''11-15''}'
+      - '{''option4'': ''16-20''}'
+      - '{''option5'': ''More than 20''}'
+      required: false
+    - id: 14
+      name: online_shopping_frequency_per_week
+      label: Online Shopping Frequency Per Week
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''1-2''}'
+      - '{''option2'': ''3-5''}'
+      - '{''option3'': ''6-7''}'
+      - '{''option4'': ''Daily''}'
+      - '{''option5'': ''Never''}'
+      required: false
+    - id: 15
+      name: favorite_online_shops
+      label: Favorite Online Shops
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: time_spent_on_social_media
+      label: Time Spent On Social Media
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: most_popular_social_media_channels
+      label: Most Popular Social Media Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: online_shopping_frequency_per_day
+      label: Online Shopping Frequency Per Day
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Never''}'
+      - '{''option2'': ''1-5''}'
+      - '{''option3'': ''6-10''}'
+      - '{''option4'': ''11-15''}'
+      - '{''option5'': ''16-30''}'
+      required: false
+    - id: 19
+      name: online_shopping_frequency_per_weekend
+      label: Online Shopping Frequency Per Weekend
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Never''}'
+      - '{''option2'': ''1-2''}'
+      - '{''option3'': ''3-5''}'
+      - '{''option4'': ''6-7''}'
+      required: false
+    - id: 20
+      name: average_online_shopping_time
+      label: Average Online Shopping Time
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Less than 10''}'
+      - '{''option2'': ''10-30''}'
+      - '{''option3'': ''30-60''}'
+      - '{''option4'': ''More than 60''}'
+      required: false
+    - id: 21
+      name: online_shopping_frequency_per_month
+      label: Online Shopping Frequency Per Month
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Less than 5''}'
+      - '{''option2'': ''5-10''}'
+      - '{''option3'': ''11-20''}'
+      - '{''option4'': ''21-30''}'
+      - '{''option5'': ''More than 30''}'
+      required: false
+    - id: 22
+      name: online_shopping_frequency_per_quarter
+      label: Online Shopping Frequency Per Quarter
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''1-2''}'
+      - '{''option2'': ''3-4''}'
+      - '{''option3'': ''5-6''}'
+      - '{''option4'': ''More than 6''}'
+      required: false
+    - id: 23
+      name: average_time_spent_on_social_media
+      label: Average Time Spent On Social Media
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: online_shopping_frequency_per_year
+      label: Online Shopping Frequency Per Year
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Less than 2''}'
+      - '{''option2'': ''2-4''}'
+      - '{''option3'': ''5-6''}'
+      - '{''option4'': ''More than 6''}'
+      required: false
+    - id: 25
+      name: online_shopping_frequency
+      label: Online Shopping Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      - '{''option4'': ''Rarely''}'
+      - '{''option5'': ''Never''}'
+      required: false

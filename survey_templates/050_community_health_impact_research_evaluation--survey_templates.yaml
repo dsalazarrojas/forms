@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Impact Research Evaluation
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Name (Optional)
+        hint: Your name if you wish to share
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Your organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Position or title
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: stakeholder_type
+        label: Stakeholder Type
+        hint: Your relationship to the program
+        type: select_one
+        options:
+          - Program Participant
+          - Healthcare Provider
+          - Program Staff
+          - Community Leader
+          - Funder
+          - Researcher
+          - Family Member
+          - Other
+        required: true
+      - id: 6
+        name: program_name
+        label: Program Name
+        hint: Which program are you evaluating?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: involvement_duration
+        label: Duration of Involvement
+        hint: How long have you been involved?
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - More than 5 years
+        required: true
+      - id: 8
+        name: program_effectiveness
+        label: Program Effectiveness
+        hint: Rate overall effectiveness
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Not Very Effective
+          - Not Effective
+        required: true
+      - id: 9
+        name: health_impact
+        label: Health Impact
+        hint: What health improvements occurred?
+        type: select_multiple
+        options:
+          - Improved Health Outcomes
+          - Increased Health Knowledge
+          - Better Health Behaviors
+          - Increased Access to Care
+          - Reduced Health Disparities
+          - Improved Quality of Life
+          - No Observable Impact
+        required: true
+      - id: 10
+        name: community_impact
+        label: Community Impact
+        hint: What community changes occurred?
+        type: select_multiple
+        options:
+          - Increased Awareness
+          - Better Resources
+          - Stronger Partnerships
+          - Policy Changes
+          - Increased Engagement
+          - Reduced Stigma
+          - No Observable Impact
+        required: true
+      - id: 11
+        name: reach_assessment
+        label: Program Reach Assessment
+        hint: Did it reach the intended audience?
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Partially Met Expectations
+          - Did Not Meet Expectations
+        required: true
+      - id: 12
+        name: resource_adequacy
+        label: Resource Adequacy
+        hint: Were resources sufficient?
+        type: select_one
+        options:
+          - More Than Adequate
+          - Adequate
+          - Somewhat Adequate
+          - Inadequate
+        required: true
+      - id: 13
+        name: program_strengths
+        label: Program Strengths
+        hint: What worked well?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: program_weaknesses
+        label: Program Weaknesses
+        hint: What needs improvement?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: unintended_consequences
+        label: Unintended Consequences
+        hint: Any unexpected outcomes?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: sustainability
+        label: Program Sustainability
+        hint: Is the program sustainable?
+        type: select_one
+        options:
+          - Very Sustainable
+          - Sustainable
+          - Somewhat Sustainable
+          - Not Sustainable
+        required: true
+      - id: 17
+        name: replicability
+        label: Replicability
+        hint: Could this be replicated elsewhere?
+        type: select_one
+        options:
+          - Easily Replicable
+          - Replicable with Modifications
+          - Difficult to Replicate
+          - Not Replicable
+        required: true
+      - id: 18
+        name: recommendations
+        label: Recommendations for Improvement
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: future_funding
+        label: Should Program Continue Receiving Funding
+        hint: Your recommendation
+        type: select_one
+        options:
+          - Yes, Increase Funding
+          - Yes, Maintain Funding
+          - Yes, Reduce Funding
+          - No, Discontinue Funding
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

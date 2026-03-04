@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Retreat Location Voting Form
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee name
+        hint: Optional for tallying participation
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: preferred_location
+        label: Preferred retreat location
+        hint: Choose your top location
+        type: select_one
+        options: [Resort A, Conference center B, Beach venue, Mountain lodge]
+        required: true
+      - id: 3
+        name: preferred_activities
+        label: Preferred activities
+        hint: Select preferred retreat activities
+        type: select_multiple
+        options: [Workshops, Team building, Outdoor activities, Networking events]
+        required: false
+      - id: 4
+        name: accommodation_preference
+        label: Accommodation preference
+        hint: Single, shared, or other
+        type: select_one
+        options: [Single, Shared, No preference]
+        required: false
+      - id: 5
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: List any dietary requirements
+        type: text
+        options: []
+        required: false

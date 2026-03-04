@@ -1,0 +1,421 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotinylation And Proteins Research Form
+    pages:
+    - id: 1
+      name: researcher_information
+      label: Researcher Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researcher_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: Your institution or company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: research_background
+      label: Research Background
+      hint: About your research experience
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: years_of_experience
+      label: Years of Research Experience
+      hint: Total years in research
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 11
+      name: research_field
+      label: Primary Research Field
+      hint: Your main area of research
+      type: select_one
+      options:
+      - Biochemistry
+      - Molecular Biology
+      - Cell Biology
+      - Structural Biology
+      - Proteomics
+      - Chemical Biology
+      - Other
+      required: true
+    - id: 12
+      name: biotinylation_experience
+      label: Biotinylation Experience
+      hint: Your experience with biotinylation
+      type: select_one
+      options:
+      - Extensive Experience
+      - Moderate Experience
+      - Limited Experience
+      - No Experience - Learning
+      required: true
+    - id: 13
+      name: biotinylation_applications
+      label: Biotinylation Applications Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Protein Labeling
+      - Protein Purification
+      - Protein-Protein Interaction Studies
+      - Cell Surface Labeling
+      - In Vivo Biotinylation
+      - Enzyme Assays
+      - Western Blotting
+      - ELISA Development
+      - Other
+      required: false
+    - id: 14
+      name: protein_research
+      label: Protein Research
+      hint: About your protein research
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: protein_types_studied
+      label: Types of Proteins Studied
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Enzymes
+      - Receptors
+      - Antibodies
+      - Membrane Proteins
+      - Structural Proteins
+      - Signaling Proteins
+      - Transport Proteins
+      - Other
+      required: true
+    - id: 16
+      name: protein_expression_system
+      label: Protein Expression Systems Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - E. coli
+      - Yeast
+      - Insect Cells
+      - Mammalian Cells
+      - Cell-Free System
+      - Plant System
+      - Other
+      required: true
+    - id: 17
+      name: protein_purification_methods
+      label: Protein Purification Methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Affinity Chromatography
+      - Ion Exchange Chromatography
+      - Size Exclusion Chromatography
+      - HPLC
+      - FPLC
+      - Precipitation
+      - Other
+      required: true
+    - id: 18
+      name: current_projects
+      label: Current Projects
+      hint: Describe your current research projects
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: biotinylation_methods
+      label: Biotinylation Methods
+      hint: Questions about methods
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: biotinylation_reagents_used
+      label: Biotinylation Reagents Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - NHS-Biotin
+      - Sulfo-NHS-Biotin
+      - Maleimide-Biotin
+      - Hydrazide-Biotin
+      - Photoactivatable Biotin
+      - Enzymatic Biotinylation
+      - Other
+      required: false
+    - id: 21
+      name: biotinylation_site
+      label: Preferred Biotinylation Site
+      hint: Where do you biotinylate
+      type: select_one
+      options:
+      - N-terminus
+      - C-terminus
+      - Lysine Residues
+      - Cysteine Residues
+      - Random
+      - Site-Specific
+      required: false
+    - id: 22
+      name: biotin_to_protein_ratio
+      label: Typical Biotin to Protein Ratio
+      hint: Molar ratio used
+      type: select_one
+      options:
+      - 61
+      - 2:1 to 5:1
+      - 5:1 to 10:1
+      - 10:1 to 20:1
+      - Greater than 20:1
+      required: false
+    - id: 23
+      name: purification_after_biotinylation
+      label: Purification After Biotinylation
+      hint: Do you purify after labeling
+      type: select_one
+      options:
+      - Yes - Always
+      - Yes - Sometimes
+      - No - Not Required
+      required: false
+    - id: 24
+      name: quality_control_methods
+      label: Quality Control Methods
+      hint: How do you verify biotinylation
+      type: select_multiple
+      options:
+      - Western Blot
+      - ELISA
+      - Mass Spectrometry
+      - Gel Shift Assay
+      - Functional Assay
+      - HABA Assay
+      - Other
+      required: false
+    - id: 25
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges do you face
+      type: select_multiple
+      options:
+      - Low Biotinylation Efficiency
+      - Protein Aggregation
+      - Loss of Protein Function
+      - Non-Specific Binding
+      - Purification Issues
+      - Reproducibility
+      - Cost
+      - Time Constraints
+      - Other
+      required: true
+    - id: 26
+      name: detection_methods
+      label: Detection Methods
+      hint: How do you detect biotinylated proteins
+      type: select_multiple
+      options:
+      - Streptavidin-HRP
+      - Streptavidin-Fluorophore
+      - Avidin-Based Detection
+      - NeutrAvidin
+      - Other
+      required: false
+    - id: 27
+      name: storage_conditions
+      label: Storage Conditions
+      hint: How do you store biotinylated proteins
+      type: select_one
+      options:
+      - 4 degrees Celsius Short-Term
+      - Minus 20 degrees Celsius
+      - Minus 80 degrees Celsius
+      - Lyophilized
+      - Other
+      required: false
+    - id: 28
+      name: collaboration_interests
+      label: Collaboration Interests
+      hint: Are you interested in collaborations
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: collaboration_interest
+      label: Interested in Collaboration
+      hint: Would you like to collaborate
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Yes - Possibly
+      - No - Not Currently
+      required: true
+    - id: 30
+      name: collaboration_areas
+      label: Areas for Collaboration
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Method Development
+      - Reagent Sharing
+      - Joint Publications
+      - Equipment Sharing
+      - Student Exchange
+      - Grant Applications
+      - Other
+      required: false
+    - id: 31
+      name: resource_needs
+      label: Resource Needs
+      hint: What resources would help your research
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: training_interests
+      label: Training Interests
+      hint: Would you like additional training
+      type: select_one
+      options:
+      - Yes - Biotinylation Techniques
+      - Yes - Protein Purification
+      - Yes - Detection Methods
+      - Yes - All Areas
+      - No - Sufficiently Trained
+      required: true
+    - id: 33
+      name: publications
+      label: Relevant Publications
+      hint: List your relevant publications
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: techniques_expertise
+      label: Techniques You Can Share Expertise In
+      hint: What can you teach others
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: equipment_available
+      label: Equipment Available for Sharing
+      hint: List shareable equipment
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: funding_sources
+      label: Current Funding Sources
+      hint: List funding sources
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: future_research_directions
+      label: Future Research Directions
+      hint: Where is your research heading
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: community_involvement
+      label: Community Involvement
+      hint: How do you engage with the research community
+      type: select_multiple
+      options:
+      - Conference Presentations
+      - Publications
+      - Peer Review
+      - Social Media
+      - Workshops and Teaching
+      - Collaborative Networks
+      - Limited Involvement
+      required: false
+    - id: 39
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Conference
+      - In-Person Meeting
+      required: true
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: survey_completion
+      label: Survey Completion
+      hint: Confirm completion
+      type: select_one
+      options:
+      - I Have Completed This Survey Accurately
+      - I Agree to Be Contacted for Follow-up
+      required: true
+    - id: 42
+      name: completion_date
+      label: Completion Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

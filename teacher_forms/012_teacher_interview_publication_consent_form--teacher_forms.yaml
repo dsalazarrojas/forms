@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Interview Publication Consent Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_district
+      label: school_district
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_email
+      label: Teacher Email
+      hint: Enter a valid teacher email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publication_consent
+      label: Publication Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: published_by
+      label: Published By
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - School
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: publication_url
+      label: Publication URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: published_on
+      label: Published On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: published_by_date
+      label: Published By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: teacher_survey_response
+      label: Teacher Survey Response
+      hint: null
+      type: text
+      options: []
+      required: false

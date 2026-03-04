@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insomnia Questionnaire
+    pages:
+    - id: 1
+      name: sleep_history
+      label: Sleep History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sleep_onset
+      label: Sleep Onset
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_efficiency
+      label: Sleep Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sleep_discomfort
+      label: Sleep Discomfort
+      hint: null
+      type: select_one
+      options:
+      - Sleep Disorder 1
+      - Sleep Disorder 2
+      - Sleep Disorder 3
+      required: false
+    - id: 7
+      name: sleep_disorder_1
+      label: Sleep Disorder 1
+      hint: null
+      type: select_multiple
+      options:
+      - Disorder 1a
+      - Disorder 1b
+      - Disorder 1c
+      required: false
+    - id: 8
+      name: sleep_disorder_2
+      label: Sleep Disorder 2
+      hint: null
+      type: select_multiple
+      options:
+      - Disorder 2a
+      - Disorder 2b
+      - Disorder 2c
+      required: false
+    - id: 9
+      name: sleep_disorder_3
+      label: Sleep Disorder 3
+      hint: null
+      type: select_multiple
+      options:
+      - Disorder 3a
+      - Disorder 3b
+      - Disorder 3c
+      required: false
+    - id: 10
+      name: sleep_disorder_4
+      label: Sleep Disorder 4
+      hint: null
+      type: select_multiple
+      options:
+      - Disorder 4a
+      - Disorder 4b
+      - Disorder 4c
+      required: false

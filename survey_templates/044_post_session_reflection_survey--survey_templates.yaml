@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Session Reflection Survey
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facilitator_name
+      label: facilitator name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_goals
+      label: session goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_outcomes
+      label: session outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: what_went_well
+      label: what went well
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: what_did_not_go_as_planned
+      label: what did not go as planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 11
+      name: session_duration
+      label: session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: facilitator_comments
+      label: facilitator comments
+      hint: null
+      type: text
+      options: []
+      required: false

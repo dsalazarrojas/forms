@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gadget Prototype Evaluation Form
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: user-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: user-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_title
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_description
+      label: form-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: overall-rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_1
+      label: rating-1
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: rating_2
+      label: rating-2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: rating_3
+      label: rating-3
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 10
+      name: rating_4
+      label: rating-4
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_spent
+      label: time-spent
+      hint: null
+      type: time
+      options: []
+      required: false

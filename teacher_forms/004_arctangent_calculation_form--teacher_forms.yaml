@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arctangent Calculation Form
+    pages:
+    - id: 1
+      name: section_calculator
+      label: -- Arctangent Calculator --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_section
+      label: Class Section or Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: calculation_date
+      label: Date of Calculation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: input_value
+      label: Input Value (X)
+      hint: Enter the value for which you want to find arctangent
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: calculation_method
+      label: Calculation Method
+      hint: How did you solve this
+      type: select_one
+      options:
+      - Scientific calculator
+      - Computer software
+      - Manual calculation using tables
+      - Approximation formula
+      required: true
+    - id: 7
+      name: result_radians
+      label: Result in Radians
+      hint: atan(X) in radians
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: result_degrees
+      label: Result in Degrees
+      hint: atan(X) converted to degrees
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: show_calculation_steps
+      label: Show your calculation steps or reasoning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_verification
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: verification_method
+      label: How did you verify your answer
+      hint: null
+      type: select_multiple
+      options:
+      - Checked with calculator
+      - Compared with study guide
+      - Asked a classmate
+      - Reviewed reference tables
+      - Did not verify
+      required: true
+    - id: 12
+      name: confidence_answer
+      label: Confidence in your answer
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Unsure
+      - Not confident
+      required: true
+    - id: 13
+      name: concepts_understood
+      label: What arctangent concepts do you understand best
+      hint: null
+      type: select_multiple
+      options:
+      - Basic definition of arctangent
+      - Inverse trigonometric function relationship
+      - Radian to degree conversion
+      - Practical applications
+      - Graphical representation
+      required: false
+    - id: 14
+      name: concepts_challenging
+      label: Which concepts are most challenging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_practice
+      label: Do you want additional practice problems
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, I understand
+      - Maybe later
+      required: true
+    - id: 16
+      name: teacher_notes
+      label: Teacher Notes
+      hint: For instructor use only
+      type: text
+      options: []
+      required: false

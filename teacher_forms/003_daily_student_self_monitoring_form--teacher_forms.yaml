@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Student Self Monitoring Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_behavior_rating
+      label: Student Behavior Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: student_academic_rating
+      label: Student Academic Rating
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angles And Scales Assessment
+    pages:
+    - id: 1
+      name: section_assessment_header
+      label: -- Angles and Scales Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_angles_identification
+      label: -- Angles Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: acute_angle_definition
+      label: What is the definition of an acute angle?
+      hint: null
+      type: select_one
+      options:
+      - Less than 90 degrees
+      - Exactly 90 degrees
+      - More than 90 but less than 180
+      - Exactly 180
+      required: true
+    - id: 6
+      name: reflex_angle_range
+      label: What is the range for a reflex angle?
+      hint: null
+      type: select_one
+      options:
+      - 180 to 360 degrees
+      - 90 to 180 degrees
+      - 0 to 90 degrees
+      required: true
+    - id: 7
+      name: degrees_in_a_right_angle
+      label: How many degrees are in a right angle?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_scales_measurements
+      label: -- Scales and Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: interpret_a_1_to_100_map_scale
+      label: Explain what a 1 to 100 map scale means.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: calculate_distance_if_2cm_equals_5km
+      label: Calculate actual distance if 2cm on map equals 5km and map distance is
+        6cm.
+      hint: Enter numbers only
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: instrument_for_measuring_angles
+      label: Which instrument is primarily used for measuring angles?
+      hint: null
+      type: select_one
+      options:
+      - Protractor
+      - Compass
+      - Ruler
+      - Set Square
+      required: true
+    - id: 12
+      name: section_assessment_reflection
+      label: -- Assessment Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confidence_with_scale_drawings
+      label: Rate your confidence with scale drawings.
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Needs Practice
+      - Confused
+      required: true
+    - id: 14
+      name: show_working_for_angle_calculation_problem
+      label: Show your working for a multi-step angle calculation problem.
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Employee Satisfaction Survey
+    pages:
+    - id: 1
+      name: patient_satisfaction
+      label: What do patients say about our care?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: staff_satisfaction
+      label: What do staff say about our care?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: communication
+      label: How do we communicate with patients?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: leadership_support
+      label: How well do you feel supported?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_life
+      label: What is your work life balance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_satisfaction
+      label: How satisfied are you with your team?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_support
+      label: How would you rate your manager's support?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: work_life_benefits
+      label: What are the biggest work life benefits that matter most to you?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: leave_request
+      label: How would you rate leaving the hospital on your days off?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_care_team
+      label: What does the patient care team do well?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: staff_care_team
+      label: What does the staff care team do well?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: patient_care_team_leadership
+      label: How do you rate the patient care team leadership?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: staff_care_team_leadership
+      label: How do you rate the staff care team leadership?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: patient_care_team_skills
+      label: How would you rate the patient care team's skills?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: staff_care_team_skills
+      label: How would you rate the staff care team's skills?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 16
+      name: patient_care_team_skills
+      label: How would you rate the staff care team's skills?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: manager_communication
+      label: What do you think about communication with your manager?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: staff_communication
+      label: What do you think about communication with your team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: staff_communication
+      label: What do you think about communication with your team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: staff_communication
+      label: What do you think about communication with your team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: staff_communication
+      label: What do you think about communication with team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: feedback
+      label: Is there a way to improve communication with your team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: feedback
+      label: Is there a way to improve communication with team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: feedback
+      label: Is there a way to improve communication with staff?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: feedback
+      label: Is there a way to improve communication with staff?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: comments
+      label: Is there anything else you would like to add?
+      hint: null
+      type: note
+      options: []
+      required: false

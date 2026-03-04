@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2017 2018 Media Center Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Welcome to the Media Center Survey ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll never share your email with third parties
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date of survey completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 6
+      name: satisfaction
+      label: How satisfied are you with 2017 2018 Media Center Survey?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 7
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: experience_aspects
+      label: Which aspects applied to your experience with 2017 2018 Media Center
+        Survey? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 9
+      name: primary_use
+      label: What is your primary use of the Media Center?
+      hint: null
+      type: select_one
+      options:
+      - Entertainment
+      - Education
+      - Research
+      - Professional work
+      - Other
+      required: true
+    - id: 10
+      name: frequency_of_use
+      label: How often do you use the Media Center?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time user
+      required: true
+    - id: 11
+      name: device_used
+      label: What device do you primarily use to access the Media Center?
+      hint: null
+      type: select_one
+      options:
+      - Desktop computer
+      - Laptop
+      - Tablet
+      - Smartphone
+      - Smart TV
+      - Other
+      required: true
+    - id: 12
+      name: media_types_accessed
+      label: Which types of media do you typically access? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Videos
+      - Audio recordings
+      - Images
+      - Documents
+      - Interactive content
+      - Live streams
+      required: false
+    - id: 13
+      name: search_functionality_rating
+      label: How would you rate the search functionality?
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: navigation_rating
+      label: How would you rate the navigation experience?
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: content_quality_rating
+      label: How would you rate the quality of available content?
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: technical_issues
+      label: Have you experienced any technical issues?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Significant
+      - Severe
+      required: true
+    - id: 17
+      name: customer_support_rating
+      label: If you contacted support, how would you rate the service?
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: recommend_likelihood
+      label: How likely are you to recommend the Media Center to others?
+      hint: 0 = not likely, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: open_feedback
+      label: What would you improve or change about 2017 2018 Media Center Survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_features_desired
+      label: What additional features would you like to see?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: null
+      type: text
+      options: []
+      required: false

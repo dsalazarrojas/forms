@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Involvement Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: How often do you want to be informed about your child's activities?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: question_2
+      label: What is the best way to contact you?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: false
+    - id: 5
+      name: question_3
+      label: What time is best for you to call?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: question_4
+      label: What time of day do you prefer to talk during the day?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: What would you like to talk about?
+      hint: null
+      type: select_multiple
+      options:
+      - Schoolwork
+      - Homework
+      - Personal matters
+      required: false
+    - id: 8
+      name: question_6
+      label: Are you interested in volunteering at school?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: question_7
+      label: How can we reach you in an emergency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_8
+      label: How do you like to communicate with your child about their grades?
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Email
+      - In-person
+      required: false
+    - id: 11
+      name: question_9
+      label: How would you like to receive updates on your child's activities and
+        progress?
+      hint: null
+      type: select_one
+      options:
+      - Daily updates
+      - Weekly updates
+      - Monthly updates
+      required: false
+    - id: 12
+      name: question_10
+      label: Is there a specific time of day you would like to receive updates?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: question_11
+      label: How often would you like to talk about your child's activities and progress?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: question_12
+      label: How do you like to communicate about concerns?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: false
+    - id: 15
+      name: question_13
+      label: How would you like to receive feedback on your child's assignments?
+      hint: null
+      type: select_multiple
+      options:
+      - Text
+      - Email
+      - Parent portal
+      required: false
+    - id: 16
+      name: question_14
+      label: Are you available for a parent-teacher conference?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: question_15
+      label: How would you like to communicate about your child's behavior?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      - Parent portal
+      required: false
+    - id: 18
+      name: question_16
+      label: Is there something else you would like to discuss about your child?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question_17
+      label: Would you like to be informed about school closures or other events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: question_18
+      label: How do you like to communicate about school events?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      - Parent portal
+      required: false
+    - id: 21
+      name: question_19
+      label: Do you have a preferred method of communication?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 22
+      name: question_20
+      label: Is there a time of day you are unavailable for a call?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: question_21
+      label: Is there a specific time of day you would like to be called?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: question_22
+      label: Do you have any other questions or concerns?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: survey_footer
+      label: Survey Footer
+      hint: null
+      type: note
+      options: []
+      required: false

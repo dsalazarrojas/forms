@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Performance Questionnaire
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: Name of the course taught by this instructor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: Full name of the instructor being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction with Instructor
+      hint: Rate your overall satisfaction with the instructor
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 5
+      name: teaching_clarity
+      label: Teaching Clarity
+      hint: How clearly does the instructor present material?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 6
+      name: assignment_relevance
+      label: Assignment Relevance
+      hint: How relevant are assignments to course objectives?
+      type: select_one
+      options: ["Highly Relevant", "Relevant", "Somewhat Relevant", "Not Very Relevant", "Not Relevant"]
+      required: true
+    - id: 7
+      name: class_participation_encouragement
+      label: Class Participation Encouragement
+      hint: Does the instructor encourage class participation?
+      type: select_one
+      options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+      required: true
+    - id: 8
+      name: feedback_quality
+      label: Quality of Feedback
+      hint: How helpful is the instructor's feedback?
+      type: select_one
+      options: ["Very Helpful", "Helpful", "Moderately Helpful", "Minimally Helpful", "Not Helpful"]
+      required: true
+    - id: 9
+      name: course_materials_quality
+      label: Quality of Course Materials
+      hint: How would you rate the quality of course materials?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 10
+      name: accessibility_outside_class
+      label: Accessibility Outside Class
+      hint: Is the instructor accessible outside of class hours?
+      type: select_one
+      options: ["Always Available", "Usually Available", "Sometimes Available", "Rarely Available", "Not Available"]
+      required: true
+    - id: 11
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: What could the instructor improve?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: strengths_comment
+      label: Instructor Strengths
+      hint: What are the instructor's greatest strengths?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about the instructor or course
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: titanic_syndrome_survey
+    pages:
+    - id: 1
+      name: practice_date
+      label: Last Practice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Confusion
+      - Disorientation
+      - Difficulty concentrating
+      - Difficulty sleeping
+      - Dizziness
+      - Fatigue
+      - Headache
+      - Loss of interest
+      - Loss of speech
+      - Memory loss
+      - Muscle weakness
+      - Personality changes
+      - Ringing in ears
+      - Stomach upset
+      - Tingling in hands
+      - Vision loss
+      required: false
+    - id: 4
+      name: practice_frequency
+      label: Practice frequency
+      hint: How often do you practice?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: practice_method
+      label: Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: practice_time
+      label: Practice time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: practice_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: practice_date_last
+      label: Last practice date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: symptoms_other
+      label: Other symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: symptoms_description
+      label: Please describe the symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Any comments about the symptoms
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_date_previously
+      label: Preceding Practice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: practice_frequency_previously
+      label: Practice frequency preceding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: practice_method_previously
+      label: Method of practice preceding
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: practice_time_previously
+      label: Practice time preceding
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: symptoms_previously
+      label: Symptoms previously
+      hint: null
+      type: select_multiple
+      options:
+      - Confusion
+      - Disorientation
+      - Difficulty concentrating
+      - Difficulty sleeping
+      - Dizziness
+      - Fatigue
+      - Headache
+      - Loss of interest
+      - Loss of speech
+      - Memory loss
+      - Muscle weakness
+      - Personality changes
+      - Ringing in ears
+      - Stomach upset
+      - Tingling in hands
+      - Vision loss
+      required: false
+    - id: 17
+      name: doctor_name
+      label: Name of Doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: doctor_department
+      label: Doctor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hospital_name
+      label: Name of hospital
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: hospital_address
+      label: Address of hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hospital_phone
+      label: Phone number of hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: hospital_email
+      label: Email of hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospital_department
+      label: Department of hospital
+      hint: null
+      type: text
+      options: []
+      required: false

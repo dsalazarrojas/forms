@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker And Topic Suggestions
+    pages:
+    - id: 1
+      name: speaker_and_topic_suggestions
+      label: speaker_and_topic_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: speaker_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: topic_suggestions
+      label: topic_suggestions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: topic_suggestions_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false

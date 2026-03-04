@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Media Release Form
+    pages:
+    - id: 1
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_types
+      label: media_types
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: permission
+      label: permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publication_channels
+      label: publication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: publication_purpose
+      label: publication_purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: photo_video_audio
+      label: photo_video_audio
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_media
+      label: other_media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_permission
+      label: parent_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: school_permission
+      label: school_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_school_id
+      label: student_school_id
+      hint: null
+      type: text
+      options: []
+      required: false

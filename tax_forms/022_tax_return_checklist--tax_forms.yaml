@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Return Checklist
+    pages:
+    - id: 1
+      name: individual_form_data
+      label: Individual Form Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: business_form_data
+      label: Business Form Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_return_type
+      label: Tax Return Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_tax_return_type
+      label: Business Tax Return Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tax_return_date
+      label: Tax Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tax_return_note
+      label: Tax Return Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_date_2
+      label: Tax Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tax_return_note_2
+      label: Tax Return Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

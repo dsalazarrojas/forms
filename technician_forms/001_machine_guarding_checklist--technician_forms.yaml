@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Guarding Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: machine_guards
+      label: Machine Guards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: electrical_components
+      label: Electrical Components
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: warning_labels
+      label: Warning Labels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: guarding_system
+      label: Guarding System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: guarding_system_components
+      label: Guarding System Components
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: inspection_schedule
+      label: Inspection Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false

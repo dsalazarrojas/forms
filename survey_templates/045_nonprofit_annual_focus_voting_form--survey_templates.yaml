@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Annual Focus Voting Form
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_is_your_priority
+      label: What is your priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 3
+      name: what_are_your_goals
+      label: What are your goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nonprofit_focus_areas
+      label: Nonprofit focus areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

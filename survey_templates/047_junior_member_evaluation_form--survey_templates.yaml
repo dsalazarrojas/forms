@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Member Evaluation Form
+    pages:
+    - id: 1
+      name: junior_member_evaluation
+      label: Junior Member Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: performance_metrics
+      label: Performance Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: development_goals
+      label: Development Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: strengths_and_areas_for_improvement
+      label: Strengths and Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: junior_member_feedback
+      label: Junior Member Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_feedback
+      label: Manager Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

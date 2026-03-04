@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homemade Soap Survey Form Template
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: What do you think about our homemade soap?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: soap_characteristics
+      label: Characteristics of our soap
+      hint: Select multiple options that apply
+      type: select_multiple
+      options:
+      - Bubbles
+      - Fragrance
+      - Moisturizing
+      - Colorful
+      required: false
+    - id: 9
+      name: would_you_like
+      label: Would you like to see more soaps like this?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false

@@ -1,0 +1,413 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Technician Service Agreement
+    pages:
+    - id: 1
+      name: introduction
+      label: Auto Technician Service Agreement
+      hint: Please read and complete this service agreement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: Provide your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Details about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_info
+      label: Service Information
+      hint: Details about requested services
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: service_description
+      label: Description of Services
+      hint: What work will be performed
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: service_category
+      label: Service Category
+      hint: Type of service
+      type: select_one
+      options:
+      - Diagnostic
+      - Repair
+      - Maintenance
+      - Inspection
+      - Modification
+      - Custom Work
+      - Other
+      required: true
+    - id: 22
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will it take
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - 1-2 days
+      - Over 2 days
+      required: true
+    - id: 23
+      name: appointment_info
+      label: Appointment Information
+      hint: Schedule details
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: appointment_date
+      label: Appointment Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: appointment_time
+      label: Appointment Time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: true
+    - id: 26
+      name: drop_off_time
+      label: Expected Drop-Off Time
+      hint: When will you arrive
+      type: time
+      options: []
+      required: false
+    - id: 27
+      name: pickup_preference
+      label: Pickup Preference
+      hint: How will you get your vehicle
+      type: select_one
+      options:
+      - Pick Up Same Day
+      - Next Day Pickup
+      - Will Schedule Later
+      - Need Shuttle Service
+      required: false
+    - id: 28
+      name: pricing_info
+      label: Pricing Information
+      hint: Cost estimates
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Total estimated price
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: deposit_required
+      label: Deposit Required
+      hint: Is a deposit needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      - Financing
+      required: true
+    - id: 33
+      name: parts_info
+      label: Parts Information
+      hint: Details about parts
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: parts_included
+      label: Parts Included
+      hint: Are parts included
+      type: select_one
+      options:
+      - Yes All Parts
+      - Yes Some Parts
+      - No Customer Provides
+      - To Be Determined
+      required: true
+    - id: 35
+      name: parts_type
+      label: Parts Type
+      hint: What type of parts
+      type: select_one
+      options:
+      - OEM
+      - Aftermarket
+      - Used or Rebuilt
+      - Customer Preference
+      required: false
+    - id: 36
+      name: parts_warranty
+      label: Parts Warranty
+      hint: Warranty coverage
+      type: select_one
+      options:
+      - Yes Included
+      - Available for Purchase
+      - No Warranty
+      - Not Applicable
+      required: false
+    - id: 37
+      name: consent_terms
+      label: Consent and Terms
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: work_authorization
+      label: Work Authorization
+      hint: Do you authorize this work
+      type: select_one
+      options:
+      - Yes I Authorize
+      - false
+      required: true
+    - id: 39
+      name: additional_work
+      label: Additional Work Authorization
+      hint: If more work is needed
+      type: select_one
+      options:
+      - Call Before Proceeding
+      - Authorize Up to 10 Percent
+      - Authorize Up to 25 Percent
+      - Technician Discretion
+      required: true
+    - id: 40
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Understanding of risks
+      type: select_one
+      options:
+      - I Understand and Accept
+      - I Do Not Accept
+      required: true
+    - id: 41
+      name: vehicle_condition
+      label: Vehicle Condition Acknowledgment
+      hint: Pre-existing conditions noted
+      type: select_one
+      options:
+      - Yes Understood
+      - false
+      required: true
+    - id: 42
+      name: personal_items
+      label: Personal Items
+      hint: Remove all valuables
+      type: select_one
+      options:
+      - I Have Removed Items
+      - Shop Not Responsible
+      required: true
+    - id: 43
+      name: test_drive
+      label: Test Drive Authorization
+      hint: Technician may test drive
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      required: true
+    - id: 44
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Do you understand
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 45
+      name: warranty_terms
+      label: Warranty Terms
+      hint: Service warranty details
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 46
+      name: client_signature
+      label: Client Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 48
+      name: technician_name
+      label: Technician Name
+      hint: Assigned technician
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: technician_signature
+      label: Technician Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: reopening_school_survey
+    pages:
+    - id: 1
+      name: school_survey
+      label: send_children_to_school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: school_type
+      label: school_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: parent_contact_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reopen_school
+      label: reopen_school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: send_info_to_school
+      label: send_info_to_school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: send_info_to_school_admins
+      label: send_info_to_school_admins
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: send_info_to_parents
+      label: send_info_to_parents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: send_info_to_parents_admins
+      label: send_info_to_parents_admins
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: send_info_to_both
+      label: send_info_to_both
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: school_survey_response
+      label: survey prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: parent_comments
+      label: parent_comments
+      hint: null
+      type: note
+      options: []
+      required: false

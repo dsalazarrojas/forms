@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_infrastructure_evaluation_form
+    pages:
+    - id: 1
+      name: infrastructure_question
+      label: What is your current infrastructure level?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hardware_question
+      label: Hardware quality and performance
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: software_question
+      label: Software quality and performance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: network_question
+      label: Network quality and performance
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: storage_question
+      label: Storage quality and performance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: security_question
+      label: Security quality and performance
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: scalability_question
+      label: Scalability and performance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: support_question
+      label: Support and maintenance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: communication_question
+      label: Communication and collaboration
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: training_question
+      label: Training and documentation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: infrastructure_level
+      label: What level of infrastructure do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Serverless
+      - Virtualized
+      - Physical
+      - Hybrid
+      required: false
+    - id: 12
+      name: data_center_question
+      label: Datacenter quality and performance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: backup_question
+      label: Backup and recovery
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: monitoring_question
+      label: Monitoring and logging
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: cost_question
+      label: What is the cost of your current infrastructure?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Do you have any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: infrastructure_comments
+      label: Do you have any infrastructure comments?
+      hint: null
+      type: text
+      options: []
+      required: false

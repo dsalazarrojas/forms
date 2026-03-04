@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Career Services Impact Questionnaire
+    pages:
+    - id: 1
+      name: form_title
+      label: University Career Services Impact Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_alumni_info
+      label: student_alumni_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: usage_services
+      label: Usage of Career Services
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: satisfaction_services
+      label: Satisfaction with Career Services
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 5
+      name: usage_outcomes
+      label: Outcomes of Career Services
+      hint: null
+      type: select_multiple
+      options:
+      - Graduate School
+      - Job Placement
+      - Internship/Co-op
+      - Research
+      - Extracurricular
+      - Other
+      required: false
+    - id: 6
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_alumni_info_2
+      label: student_alumni_info_2
+      hint: null
+      type: text
+      options: []
+      required: false

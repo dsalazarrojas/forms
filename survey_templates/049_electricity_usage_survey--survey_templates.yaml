@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: electricity_usage_survey
+    pages:
+    - id: 1
+      name: electricity_usage_survey_1
+      label: Electricity Usage Survey 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electricity_usage_survey_2
+      label: What type of electricity usage do you have?
+      hint: null
+      type: select_one
+      options:
+      - Meter
+      - Kilowatt
+      - Watt
+      required: false
+    - id: 3
+      name: electricity_usage_survey_3
+      label: Usage Location
+      hint: Please select the location where the usage occurs
+      type: select_multiple
+      options:
+      - Home
+      - Building
+      - Office
+      required: true
+    - id: 4
+      name: electricity_usage_survey_4
+      label: Usage Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: electricity_usage_survey_5
+      label: Usage End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: electricity_usage_survey_6
+      label: Electricity Usage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: electricity_usage_survey_7
+      label: Electricity Consumption Unit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: electricity_usage_survey_8
+      label: Frequency of Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: electricity_usage_survey_9
+      label: Frequency of Usage 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: electricity_usage_survey_10
+      label: Electricity Usage Notes
+      hint: null
+      type: text
+      options: []
+      required: false

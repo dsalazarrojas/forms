@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulletin Submission Survey
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: When submitting this announcement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department_organization
+      label: Department or Organization
+      hint: Which area or group
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: announcement_title
+      label: Announcement Title
+      hint: Brief title of announcement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: announcement_category
+      label: Announcement Category
+      hint: Type of announcement
+      type: select_one
+      options:
+      - News
+      - Event
+      - Meeting
+      - Job Posting
+      - Volunteer Opportunity
+      - Community Service
+      - Update
+      - Other
+      required: true
+    - id: 8
+      name: announcement_content
+      label: Announcement Content
+      hint: Full text of announcement
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: Who should see this
+      type: select_multiple
+      options:
+      - All Members
+      - Staff Only
+      - Students
+      - Families
+      - Volunteers
+      - Specific Department
+      - External Community
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: If announcement is about event
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: Start time if applicable
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: Where event is held
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_contact_info
+      label: Event Contact Information
+      hint: Who to contact about event
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: publication_date
+      label: Desired Publication Date
+      hint: When to publish this
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: publication_end_date
+      label: Publication End Date
+      hint: When to stop showing
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Urgent - Top Priority
+      - High Priority
+      - Normal Priority
+      - Low Priority
+      required: false
+    - id: 17
+      name: featured
+      label: Request as Featured Announcement
+      hint: Highlight in bulletin
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: image_attachment
+      label: Image or Document Attached
+      hint: Supporting materials
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: approval_required
+      label: Approval Required Before Publishing
+      hint: Need supervisor approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: approver_name
+      label: Approver Name
+      hint: Who to approve
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

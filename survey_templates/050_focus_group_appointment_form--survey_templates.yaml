@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Appointment Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: Select Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_input_2
+      label: Provide Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false

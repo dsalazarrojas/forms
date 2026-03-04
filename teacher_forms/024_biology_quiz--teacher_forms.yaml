@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Biology Quiz
+    pages:
+      - id: 1
+        name: student_information
+        label: Student Information
+        hint: Enter your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Full Name
+        hint: Your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: class_name
+        label: Class Name
+        hint: Biology class or period
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: quiz_date
+        label: Quiz Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: quiz_section_1
+        label: Section 1 - Cell Biology
+        hint: Answer the following questions
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: question_1
+        label: Question 1 - What is the powerhouse of the cell
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Nucleus
+          - Mitochondria
+          - Ribosome
+          - Endoplasmic Reticulum
+        required: true
+      - id: 7
+        name: question_2
+        label: Question 2 - Which organelle is responsible for protein synthesis
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Golgi Apparatus
+          - Lysosome
+          - Ribosome
+          - Vacuole
+        required: true
+      - id: 8
+        name: question_3
+        label: Question 3 - Plant cells have which structure that animal cells do not
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Cell membrane
+          - Cell wall
+          - Nucleus
+          - Mitochondria
+        required: true
+      - id: 9
+        name: quiz_section_2
+        label: Section 2 - Genetics
+        hint: Answer the following questions
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: question_4
+        label: Question 4 - What does DNA stand for
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Deoxyribonucleic Acid
+          - Dinucleic Acid
+          - Deoxyribose Nucleic Atom
+          - Dual Nitrogen Acid
+        required: true
+      - id: 11
+        name: question_5
+        label: Question 5 - How many chromosomes do humans typically have
+        hint: Select the best answer
+        type: select_one
+        options:
+          - 23
+          - 46
+          - 48
+          - 44
+        required: true
+      - id: 12
+        name: question_6
+        label: Question 6 - What is the process of copying DNA called
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Transcription
+          - Translation
+          - Replication
+          - Mutation
+        required: true
+      - id: 13
+        name: quiz_section_3
+        label: Section 3 - Ecology
+        hint: Answer the following questions
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: question_7
+        label: Question 7 - What is an organism that produces its own food called
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Consumer
+          - Decomposer
+          - Producer
+          - Herbivore
+        required: true
+      - id: 15
+        name: question_8
+        label: Question 8 - Which gas do plants absorb from the atmosphere
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Oxygen
+          - Nitrogen
+          - Carbon Dioxide
+          - Hydrogen
+        required: true
+      - id: 16
+        name: question_9
+        label: Question 9 - What is the primary source of energy for most ecosystems
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Wind
+          - Water
+          - Sun
+          - Soil
+        required: true
+      - id: 17
+        name: quiz_section_4
+        label: Section 4 - Human Body Systems
+        hint: Answer the following questions
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: question_10
+        label: Question 10 - Which system is responsible for transporting oxygen and nutrients
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Digestive System
+          - Circulatory System
+          - Nervous System
+          - Respiratory System
+        required: true
+      - id: 19
+        name: question_11
+        label: Question 11 - What is the largest organ in the human body
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Liver
+          - Heart
+          - Skin
+          - Lungs
+        required: true
+      - id: 20
+        name: question_12
+        label: Question 12 - Which system controls body movements and responses
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Endocrine System
+          - Nervous System
+          - Muscular System
+          - Skeletal System
+        required: true
+      - id: 21
+        name: bonus_question
+        label: Bonus Question - Name one difference between prokaryotic and eukaryotic cells
+        hint: Write your answer
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: time_spent
+        label: How long did this quiz take you
+        hint: Approximate time
+        type: select_one
+        options:
+          - Less than 10 minutes
+          - 10-20 minutes
+          - 20-30 minutes
+          - More than 30 minutes
+        required: false
+      - id: 23
+        name: academic_honesty
+        label: Academic Honesty
+        hint: Confirm your work is original
+        type: select_one
+        options:
+          - I completed this quiz on my own
+          - I did not cheat
+        required: true

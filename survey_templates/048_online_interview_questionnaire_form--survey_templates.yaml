@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_interview_questionnaire_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

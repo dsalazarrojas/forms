@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Glass Quotation Request Form
+    pages:
+    - id: 1
+      name: vehicle_glass_quotation_request_form
+      label: Vehicle Glass Quotation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Van
+      - Truck
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: damage_details
+      label: Damage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quotation_requestor
+      label: Quotation Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_image
+      label: Vehicle Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: repair_location
+      label: Repair Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: estimated_insurance
+      label: Estimated Insurance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: quotation_details
+      label: Quotation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_owner
+      label: Vehicle Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quotation_request_date
+      label: Quotation Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_image_upload
+      label: Vehicle Image Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: insurance_claim
+      label: Insurance Claim
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: quotation_submission
+      label: Quotation Submission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: quotation_accepted
+      label: Quotation Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: quotation_status
+      label: Quotation Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      - Accepted
+      required: false

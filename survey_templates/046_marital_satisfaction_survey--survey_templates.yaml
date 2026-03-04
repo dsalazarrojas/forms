@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marital Satisfaction Survey
+    pages:
+    - id: 1
+      name: marital_satisfaction_survey_1
+      label: What do you think about your relationship satisfaction?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: marital_satisfaction_survey_2
+      label: What do you think about your marriage satisfaction?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: marital_satisfaction_survey_3
+      label: What do you think about your communication with your spouse?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: marital_satisfaction_survey_4
+      label: How often do you have a romantic date night with your spouse?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: marital_satisfaction_survey_5
+      label: What time do you usually go to bed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: marital_satisfaction_survey_6
+      label: How many times have you had an argument with your spouse in the last
+        week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: marital_satisfaction_survey_7
+      label: What do you think about your sex life with your spouse?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: marital_satisfaction_survey_8
+      label: How satisfied are you with your financial situation with your spouse?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: marital_satisfaction_survey_9
+      label: How satisfied are you with your overall relationship?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

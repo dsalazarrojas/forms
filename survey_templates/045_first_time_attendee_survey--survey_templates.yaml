@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Time Attendee Survey
+    pages:
+    - id: 1
+      name: attending_event_for_first_time
+      label: attending event for first time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_attendance_status
+      label: event attendance status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''maybe''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''conference''}'
+      - '{''label'': ''workshop''}'
+      - '{''label'': ''seminar''}'
+      required: false
+    - id: 5
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_durations
+      label: expected duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attended_event_before
+      label: attended event before
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: previous_attendee_status
+      label: previous attendee status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''first time''}'
+      - '{''label'': ''return''}'
+      required: false
+    - id: 9
+      name: attended_sponsored_event_before
+      label: attended sponsored event before
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: sponsored
+      label: sponsored
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: sponsor
+      label: sponsor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone_extension
+      label: contact phone extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_cell
+      label: contact cell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_address
+      label: contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_city
+      label: contact city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_state
+      label: contact state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_zip
+      label: contact zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_country
+      label: contact country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_work_phone
+      label: contact work phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_job_title
+      label: contact job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_attendance_date
+      label: event attendance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: event_sponsor
+      label: event sponsor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

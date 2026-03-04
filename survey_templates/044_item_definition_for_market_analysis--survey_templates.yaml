@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Item Definition For Market Analysis
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: item-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_description
+      label: item-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_type
+      label: item-type
+      hint: Select only one type that applies
+      type: select_one
+      options:
+      - Competitor
+      - New Item
+      - Product
+      - Service
+      required: true
+    - id: 5
+      name: target_audience
+      label: target-audience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consumer
+      - Business
+      - Other
+      required: true
+    - id: 6
+      name: market_segment
+      label: market-segment
+      hint: Select only one segment that applies
+      type: select_one
+      options:
+      - B2B
+      - B2C
+      - B2B2C
+      required: true
+    - id: 7
+      name: target_geography
+      label: target-geography
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - North America
+      - South America
+      - South East Asia
+      required: true
+    - id: 8
+      name: target_language
+      label: target-language
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Chinese
+      required: true
+    - id: 9
+      name: item_price
+      label: item-price
+      hint: Enter price in USD
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: item_price_currency
+      label: item-price-currency
+      hint: Select only one currency that applies
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      required: true
+    - id: 11
+      name: item_status
+      label: item-status
+      hint: Select only one status that applies
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Discontinued
+      required: true
+    - id: 12
+      name: item_priority
+      label: item-priority
+      hint: Select only one priority that applies
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: item_category
+      label: item-category
+      hint: Select only one category that applies
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Service
+      required: true
+    - id: 14
+      name: item_subcategory
+      label: item-subcategory
+      hint: Select only one subcategory that applies
+      type: select_one
+      options:
+      - Sub Category 1
+      - Sub Category 2
+      - Sub Category 3
+      required: true
+    - id: 15
+      name: item_subcategory2
+      label: item-subcategory2
+      hint: Select only one subcategory that applies
+      type: select_one
+      options:
+      - Sub Category 4
+      - Sub Category 5
+      required: true
+    - id: 16
+      name: item_subcategory3
+      label: item-subcategory3
+      hint: Select only one subcategory that applies
+      type: select_one
+      options:
+      - Sub Category 6
+      - Sub Category 7
+      required: true
+    - id: 17
+      name: item_status_history
+      label: item-status-history
+      hint: Enter the status history for this item
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: item_image_url
+      label: item-image-url
+      hint: Enter the image URL for this item
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: item_image_caption
+      label: item-image-caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_price_history
+      label: item-price-history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: item_price_date
+      label: item-price-date
+      hint: Enter the date for this item
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: item_price_time
+      label: item-price-time
+      hint: Enter the time for this item
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: item_image_date
+      label: item-image-date
+      hint: Enter the date for this item's image
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: item_image_time
+      label: item-image-time
+      hint: Enter the time for this item's image
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: item_image_url2
+      label: item-image-url2
+      hint: Enter the second image URL for this item
+      type: text
+      options: []
+      required: true

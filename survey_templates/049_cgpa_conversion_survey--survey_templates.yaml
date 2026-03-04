@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: CGPA Conversion Survey
+    pages:
+    - id: 1
+      name: conversion_intro_section
+      label: -- CGPA to GPA Conversion Request --
+      hint: Provide your academic details for an official conversion assessment.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name_conversion
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: university_name_conversion
+      label: University or Awarding Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: country_of_education
+      label: Country of Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: academic_stream_major
+      label: Academic Major/Stream
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: original_grading_scale
+      label: Original Grading Scale
+      hint: e.g., 10.0 scale, 4.0 scale, Percentage
+      type: select_one
+      options:
+      - 4.0 Scale (US)
+      - 5.0 Scale
+      - 7.0 Scale
+      - 10.0 Scale (India/Europe)
+      - Percentage (0-100)
+      - Other
+      required: true
+    - id: 7
+      name: current_cgpa_value
+      label: Current Cumulative CGPA/Percentage
+      hint: Enter numerical value
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: maximum_possible_cgpa
+      label: Maximum Possible CGPA in your system
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: target_conversion_system
+      label: Target Conversion System
+      hint: Which system do you need to convert TO?
+      type: select_one
+      options:
+      - US 4.0 Scale (WES Equivalent)
+      - UK Classification (1st, 2:1, etc.)
+      - ECTS (European)
+      - German Scale (1-5)
+      required: true
+    - id: 10
+      name: purpose_of_conversion
+      label: Purpose of Conversion
+      hint: null
+      type: select_one
+      options:
+      - Graduate School Application
+      - Job Application
+      - Visa Requirement
+      - Internal Record
+      required: true
+    - id: 11
+      name: transcripts_uploaded_check
+      label: Have you uploaded your official transcripts for verification?
+      hint: null
+      type: select_one
+      options:
+      - Yes, uploaded
+      - Not yet
+      required: true
+    - id: 12
+      name: graduation_year_conversion
+      label: Year of Graduation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: contact_email_conversion
+      label: Your Contact Email
+      hint: Results will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: processing_speed_request
+      label: Required Processing Speed
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Rush (48 hours)
+      required: true
+    - id: 15
+      name: accuracy_confirmation_conversion
+      label: I certify that the academic data provided matches my official records
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

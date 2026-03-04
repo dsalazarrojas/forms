@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Damage Report Form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: damaged_part
+      label: Damaged Part
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Front Door''}'
+      - '{''id'': 2, ''name'': ''Rear Door''}'
+      - '{''id'': 3, ''name'': ''Handle''}'
+      required: true
+    - id: 5
+      name: damage_condition
+      label: Damage Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Broken''}'
+      - '{''id'': 2, ''name'': ''Cracked''}'
+      - '{''id'': 3, ''name'': ''Dented''}'
+      required: true
+    - id: 6
+      name: repair_info
+      label: Repair Info
+      hint: null
+      type: text
+      options: []
+      required: true

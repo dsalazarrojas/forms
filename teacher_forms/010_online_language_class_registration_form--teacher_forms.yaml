@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Language Class Registration Form
+    pages:
+    - id: 1
+      name: language_class_id
+      label: language_class_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: language_class_level
+      label: language class level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 7
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: class_time
+      label: class time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: teacher_rating
+      label: teacher rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Satisfactory''}'
+      - '{''id'': 3, ''label'': ''Needs Improvement''}'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

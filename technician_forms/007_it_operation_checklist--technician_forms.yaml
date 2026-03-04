@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_operation_checklist
+    pages:
+    - id: 1
+      name: check_status
+      label: check_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: power_on_off
+      label: power_on_off
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: network_connections
+      label: network_connections
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ram_usage
+      label: ram_usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cpu_usage
+      label: cpu_usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: disk_space
+      label: disk_space
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: system_time
+      label: system_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: installed_apps
+      label: installed_apps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_accounts
+      label: user_accounts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: system_updates
+      label: system_updates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: network_speed
+      label: network_speed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: network_protocols
+      label: network_protocols
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: network_interfaces
+      label: network_interfaces
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: network_adapters
+      label: network_adapters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: network_address
+      label: network_address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: server_status
+      label: server_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: system_uptime
+      label: system_uptime
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: system_reboot
+      label: system_reboot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: user_login
+      label: user_login
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: network_firewall
+      label: network_firewall
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: system_patches
+      label: system_patches
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: system_backups
+      label: system_backups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: system_patches
+      label: system_patches
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

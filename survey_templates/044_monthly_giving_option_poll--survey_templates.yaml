@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Giving Option Poll
+    pages:
+    - id: 1
+      name: monthly_giving_option_poll
+      label: monthly_giving_option_poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monthly_donation_frequency
+      label: monthly_donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: monthly_gift_frequency
+      label: monthly_gift_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: monthly_donation_frequency_hint
+      label: monthly_donation_frequency_hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gift_frequency_type
+      label: gift_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: gift_frequency_value
+      label: gift_frequency_value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: donation_frequency_type
+      label: donation_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: gift_amount
+      label: gift_amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunday School Teacher Evaluation Form
+    pages:
+    - id: 1
+      name: sunday_school_teacher_evaluation_form_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sunday_school_teacher_evaluation_form_2
+      label: how_well_did_your_students_listen
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sunday_school_teacher_evaluation_form_3
+      label: how_effective_was_your_lesson
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 4
+      name: sunday_school_teacher_evaluation_form_4
+      label: what_subject_area
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 5
+      name: sunday_school_teacher_evaluation_form_5
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false

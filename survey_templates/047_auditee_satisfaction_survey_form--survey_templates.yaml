@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Auditee Satisfaction Survey Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department audited
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role_title
+        label: Role Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_name
+        label: Audit Name
+        hint: Name of audit you experienced
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: audit_start_date
+        label: Audit Start Date
+        hint: When did the audit begin?
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: audit_end_date
+        label: Audit End Date
+        hint: When did the audit end?
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: audit_team_professionalism
+        label: Audit Team Professionalism
+        hint: Rate the professionalism of the audit team
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: auditor_knowledge
+        label: Auditor Knowledge
+        hint: Rate the knowledge and expertise of auditors
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: communication_quality
+        label: Communication Quality
+        hint: Rate the quality of auditor communications
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: respect_shown
+        label: Respect Shown
+        hint: How respectfully were you treated?
+        type: select_one
+        options:
+          - Very respectfully
+          - Respectfully
+          - Neutral
+          - Disrespectfully
+          - Very disrespectfully
+        required: true
+      - id: 13
+        name: audit_disruption
+        label: Audit Disruption
+        hint: How disruptive was the audit to operations?
+        type: select_one
+        options:
+          - Not disruptive at all
+          - Minimally disruptive
+          - Moderately disruptive
+          - Very disruptive
+          - Extremely disruptive
+        required: true
+      - id: 14
+        name: resource_requirements
+        label: Resource Requirements
+        hint: How reasonable were resource requirements?
+        type: select_one
+        options:
+          - Very reasonable
+          - Reasonable
+          - Neutral
+          - Unreasonable
+          - Very unreasonable
+        required: true
+      - id: 15
+        name: timeline_reasonable
+        label: Timeline Reasonable
+        hint: Was the audit timeline reasonable?
+        type: select_one
+        options:
+          - Very reasonable
+          - Reasonable
+          - Neutral
+          - Unreasonable
+          - Very unreasonable
+        required: true
+      - id: 16
+        name: findings_fairness
+        label: Findings Fairness
+        hint: How fair were the audit findings?
+        type: select_one
+        options:
+          - Very fair
+          - Fair
+          - Neutral
+          - Unfair
+          - Very unfair
+        required: true
+      - id: 17
+        name: recommendations_usefulness
+        label: Recommendations Usefulness
+        hint: How useful are the recommendations?
+        type: select_one
+        options:
+          - Very useful
+          - Useful
+          - Neutral
+          - Not useful
+          - Not useful at all
+        required: true
+      - id: 18
+        name: value_added
+        label: Value Added
+        hint: Did the audit add value to your department?
+        type: select_one
+        options:
+          - Significant value
+          - Moderate value
+          - Some value
+          - Little value
+          - No value
+        required: true
+      - id: 19
+        name: would_cooperate_again
+        label: Would Cooperate Again
+        hint: Would you cooperate with this audit team again?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How can the audit process be improved?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any additional comments
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall satisfaction with the audit
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true

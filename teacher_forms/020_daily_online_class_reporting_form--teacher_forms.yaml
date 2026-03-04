@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Online Class Reporting Form
+    pages:
+    - id: 1
+      name: daily_online_class_reporting_form
+      label: teacher-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: teacher_answers
+      label: teacher-answers
+      hint: Please answer the following questions
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_answers
+      label: student-answers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_feedback
+      label: teacher-feedback
+      hint: Please provide feedback
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_feedback
+      label: student-feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Teacher Forms
+      - Other
+      - Unknown
+      - Unspecified
+      required: true

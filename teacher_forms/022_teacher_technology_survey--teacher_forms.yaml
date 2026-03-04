@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_technology_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technology_used
+      label: technology_used
+      hint: null
+      type: select_multiple
+      options:
+      - computer
+      - smartphone
+      - tablet
+      required: true
+    - id: 3
+      name: equipment_needed
+      label: equipment_needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: knowledge_required
+      label: knowledge_required
+      hint: null
+      type: select_one
+      options:
+      - hardware
+      - software
+      - networking
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - teacher
+      - student
+      - administrator
+      required: true
+    - id: 7
+      name: technology_survey
+      label: technology_survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_equipment
+      label: additional_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - laptop
+      - desktop
+      - smartboard
+      required: false
+    - id: 9
+      name: total_equipment_cost
+      label: total_equipment_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: technology_survey_category
+      label: technology_survey_category
+      hint: null
+      type: select_one
+      options:
+      - classroom
+      - school
+      - district
+      required: true

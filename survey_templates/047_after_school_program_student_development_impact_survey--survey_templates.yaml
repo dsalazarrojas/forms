@@ -1,0 +1,350 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Program Student Development Impact Survey
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade_level
+      label: Current Grade Level
+      hint: What grade is the student currently in?
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 4
+      name: student_age
+      label: Student Age
+      hint: Current age of the student
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: program_participation_duration
+      label: Program Participation Duration
+      hint: How long has the student been participating in the after-school program?
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 6
+      name: program_name
+      label: Program Name
+      hint: Name of the after-school program
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_information_section
+      label: Parent/Guardian Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Name of the parent or guardian completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_relationship
+      label: Relationship to Student
+      hint: Relationship of the survey respondent to the student
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Other
+      required: true
+    - id: 10
+      name: academic_development_section
+      label: Academic Development
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: homework_completion_improvement
+      label: Homework Completion Improvement
+      hint: Has the student's homework completion improved since joining the program?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Somewhat Declined
+      - Significantly Declined
+      required: true
+    - id: 12
+      name: academic_confidence_level
+      label: Academic Confidence Level
+      hint: How has the student's confidence in academic abilities changed?
+      type: select_one
+      options:
+      - Much More Confident
+      - Somewhat More Confident
+      - No Change
+      - Somewhat Less Confident
+      - Much Less Confident
+      required: true
+    - id: 13
+      name: subject_improvement_areas
+      label: Subject Improvement Areas
+      hint: In which subjects has the student shown the most improvement?
+      type: select_multiple
+      options:
+      - Mathematics
+      - Reading
+      - Writing
+      - Science
+      - Social Studies
+      - Foreign Language
+      - Study Skills
+      - Organization
+      required: true
+    - id: 14
+      name: study_habit_development
+      label: Study Habit Development
+      hint: Has the student developed better study habits since joining the program?
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, somewhat
+      - No change
+      - No, declined
+      required: true
+    - id: 15
+      name: social_emotional_development_section
+      label: Social and Emotional Development
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: peer_relationship_improvement
+      label: Peer Relationship Improvement
+      hint: Has the student's ability to interact with peers improved?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Somewhat Declined
+      - Significantly Declined
+      required: true
+    - id: 17
+      name: self_confidence_level
+      label: Self-Confidence Level
+      hint: How has the student's overall self-confidence changed?
+      type: select_one
+      options:
+      - Much More Confident
+      - Somewhat More Confident
+      - No Change
+      - Somewhat Less Confident
+      - Much Less Confident
+      required: true
+    - id: 18
+      name: conflict_resolution_skills
+      label: Conflict Resolution Skills
+      hint: Has the student's ability to resolve conflicts improved?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Somewhat Declined
+      - Significantly Declined
+      required: true
+    - id: 19
+      name: emotional_regulation_improvement
+      label: Emotional Regulation Improvement
+      hint: Has the student's ability to manage emotions improved?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Somewhat Declined
+      - Significantly Declined
+      required: true
+    - id: 20
+      name: behavioral_improvement_section
+      label: Behavioral Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: classroom_behavior_improvement
+      label: Classroom Behavior Improvement
+      hint: Has the student's behavior in regular classes improved?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Somewhat Declined
+      - Significantly Declined
+      required: true
+    - id: 22
+      name: following_directions_ability
+      label: Following Directions Ability
+      hint: Has the student's ability to follow directions improved?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Somewhat Declined
+      - Significantly Declined
+      required: true
+    - id: 23
+      name: participation_level_increase
+      label: Participation Level Increase
+      hint: Has the student's participation in class activities increased?
+      type: select_one
+      options:
+      - Significantly Increased
+      - Somewhat Increased
+      - No Change
+      - Somewhat Decreased
+      - Significantly Decreased
+      required: true
+    - id: 24
+      name: program_satisfaction_section
+      label: Program Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: overall_program_satisfaction
+      label: Overall Program Satisfaction
+      hint: How satisfied are you with the after-school program overall?
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: staff_quality_rating
+      label: Staff Quality Rating
+      hint: How would you rate the quality of the program staff?
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: program_safety_rating
+      label: Program Safety Rating
+      hint: How would you rate the safety of the program environment?
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: communication_with_parents
+      label: Communication with Parents
+      hint: How satisfied are you with communication from program staff?
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: skill_development_section
+      label: Skill Development
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: leadership_skill_development
+      label: Leadership Skill Development
+      hint: Has the student developed leadership skills through the program?
+      type: select_one
+      options:
+      - Significantly Developed
+      - Somewhat Developed
+      - No Development
+      - Not Applicable
+      required: true
+    - id: 31
+      name: creativity_development
+      label: Creativity Development
+      hint: Has the student's creativity improved through the program?
+      type: select_one
+      options:
+      - Significantly Improved
+      - Somewhat Improved
+      - No Change
+      - Not Applicable
+      required: true
+    - id: 32
+      name: technology_skill_development
+      label: Technology Skill Development
+      hint: Has the student developed technology skills through the program?
+      type: select_one
+      options:
+      - Significantly Developed
+      - Somewhat Developed
+      - No Development
+      - Not Applicable
+      required: true
+    - id: 33
+      name: additional_comments_section
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: positive_changes_observed
+      label: Positive Changes Observed
+      hint: What positive changes have you observed in the student since joining the
+        program?
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: program_improvement_suggestions
+      label: Program Improvement Suggestions
+      hint: What suggestions do you have for improving the program?
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: continued_participation_likelihood
+      label: Continued Participation Likelihood
+      hint: How likely are you to continue participating in this program?
+      type: number
+      options: []
+      required: true

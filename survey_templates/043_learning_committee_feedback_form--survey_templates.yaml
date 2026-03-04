@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_committee_feedback_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: question2
+      label: When
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''label'': ''Option 4''}'
+      - '{''id'': 5, ''label'': ''Option 5''}'
+      - '{''id'': 6, ''label'': ''Option 6''}'
+      required: true
+    - id: 4
+      name: question3
+      label: Where
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: How
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''label'': ''Option 7''}'
+      - '{''id'': 8, ''label'': ''Option 8''}'
+      - '{''id'': 9, ''label'': ''Option 9''}'
+      required: true
+    - id: 6
+      name: question5
+      label: Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Feedback Survey
+    pages:
+    - id: 1
+      name: checkin_date
+      label: Checkin Date
+      hint: Select date of checkin
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: checkout_date
+      label: Checkout Date
+      hint: Select date of checkout
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Restaurant
+      - Room
+      - Service
+      required: true
+    - id: 8
+      name: sub_category
+      label: Sub-Category
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      required: true
+    - id: 9
+      name: comment_subcategory
+      label: Comment Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Quality
+      - Cleanliness
+      - Service
+      - Food
+      - Ambiance
+      required: true
+    - id: 10
+      name: comment_details
+      label: Comment Details
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: true
+    - id: 11
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

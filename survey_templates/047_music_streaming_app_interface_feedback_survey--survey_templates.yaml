@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Streaming App Interface Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Main Menu''}'
+      - '{''label'': ''Search''}'
+      - '{''label'': ''Profile''}'
+      required: false
+    - id: 3
+      name: category_other
+      label: Other Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subcategory_other
+      label: Other Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: What do you think of our main menu?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Easy to use''}'
+      - '{''label'': ''Confusing''}'
+      - '{''label'': ''Unnecessary feature''}'
+      required: false
+    - id: 7
+      name: question_1_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_2
+      label: How would you rate our search function?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Not good at all''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Neither''}'
+      required: false
+    - id: 9
+      name: question_2_other
+      label: Not applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_3
+      label: How would you rate our profile page?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Not good at all''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Neither''}'
+      required: false
+    - id: 11
+      name: question_3_other
+      label: Not applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Do you have any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: category_2
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: subcategory_2
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question_4
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question_4_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

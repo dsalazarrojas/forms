@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pledge Of Allegiance Request Form
+    pages:
+    - id: 1
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_pledge
+      label: Date Of Pledge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_pledge
+      label: Time Of Pledge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_of_pledge
+      label: Location Of Pledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pledge_request_status
+      label: Pledge Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - other
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

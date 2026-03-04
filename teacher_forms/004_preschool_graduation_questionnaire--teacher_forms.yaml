@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Graduation Questionnaire
+    pages:
+    - id: 1
+      name: preschool_graduation_questionnaire
+      label: Preschool Graduation Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Teacher Forms''}'
+      - '{''label'': ''Parent Forms''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preschool_experience
+      label: preschool_experience
+      hint: How would you rate your experience?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: graduation_day
+      label: graduation_day
+      hint: When is the preschool graduation?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: graduation_ceremony
+      label: graduation_ceremony
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_assigned_tool
+      label: form_assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 9
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

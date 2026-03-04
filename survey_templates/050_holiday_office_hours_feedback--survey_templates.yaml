@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Office Hours Feedback
+    pages:
+    - id: 1
+      name: holiday_office_hours_feedback_1
+      label: Office Hours Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 2
+      name: holiday_office_hours_satisfaction_1
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1 - Highly Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Not Satisfied
+      required: false
+    - id: 3
+      name: holiday_office_hours_satisfaction_2
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1 - Highly Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Not Satisfied
+      required: false
+    - id: 4
+      name: holiday_office_hours_preferred_hours_1
+      label: Preferred Hours
+      hint: null
+      type: select_one
+      options:
+      - 1 - 9:00 AM - 5:00 PM
+      - 2 - 10:00 AM - 6:00 PM
+      - 3 - 11:00 AM - 7:00 PM
+      required: false
+    - id: 5
+      name: holiday_office_hours_preferred_hours_2
+      label: Preferred Hours
+      hint: null
+      type: select_one
+      options:
+      - 1 - 9:00 AM - 5:00 PM
+      - 2 - 10:00 AM - 6:00 PM
+      - 3 - 11:00 AM - 7:00 PM
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

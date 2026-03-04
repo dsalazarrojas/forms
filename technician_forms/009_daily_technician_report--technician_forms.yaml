@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Technician Report
+    pages:
+    - id: 1
+      name: daily_technician_report_1
+      label: Daily Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: daily_technician_report_2
+      label: Maintenance Tasks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: daily_technician_report_3
+      label: Completed Work Orders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: daily_technician_report_4
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: daily_technician_report_5
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: daily_technician_report_6
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: daily_technician_report_7
+      label: Technician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: daily_technician_report_8
+      label: Technician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: daily_technician_report_9
+      label: Technician Notes
+      hint: null
+      type: note
+      options: []
+      required: false

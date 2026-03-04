@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Letter To Santa Template
+    pages:
+    - id: 1
+      name: letter_to_santa_template
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: letter_to_santa_template_question
+      label: What is your favorite holiday tradition?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: letter_to_santa_template_answer
+      label: What is the reason you love the holiday season?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: letter_to_santa_template_wishes
+      label: What is your wish to Santa?
+      hint: This is a special place for you to write your wishes to Santa.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: letter_to_santa_template_additional_wishes
+      label: What else would you like to share with Santa?
+      hint: null
+      type: text
+      options: []
+      required: false

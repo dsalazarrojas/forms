@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Match Day Experience Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_rating
+      label: event_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_food
+      label: event_food
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Very Good''}'
+      - '{''id'': 3, ''label'': ''Average''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 4
+      name: event_ambience
+      label: event_ambience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: staff_friendly
+      label: staff_friendly
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Friendly''}'
+      - '{''id'': 2, ''label'': ''Friendly''}'
+      - '{''id'': 3, ''label'': ''Not Very Friendly''}'
+      - '{''id'': 4, ''label'': ''Not at All Friendly''}'
+      required: true
+    - id: 6
+      name: staff_welcoming
+      label: staff_welcoming
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Welcoming''}'
+      - '{''id'': 2, ''label'': ''Welcoming''}'
+      - '{''id'': 3, ''label'': ''Not Very Welcoming''}'
+      - '{''id'': 4, ''label'': ''Not at All Welcoming''}'
+      required: true
+    - id: 7
+      name: staff_knowledgeable
+      label: staff_knowledgeable
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Knowledgeable''}'
+      - '{''id'': 2, ''label'': ''Knowledgeable''}'
+      - '{''id'': 3, ''label'': ''Not Very Knowledgeable''}'
+      - '{''id'': 4, ''label'': ''Not at All Knowledgeable''}'
+      required: true
+    - id: 8
+      name: staff_attentive
+      label: staff_attentive
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Attentive''}'
+      - '{''id'': 2, ''label'': ''Attentive''}'
+      - '{''id'': 3, ''label'': ''Not Very Attentive''}'
+      - '{''id'': 4, ''label'': ''Not at All Attentive''}'
+      required: true
+    - id: 9
+      name: staff_helpful
+      label: staff_helpful
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Helpful''}'
+      - '{''id'': 2, ''label'': ''Helpful''}'
+      - '{''id'': 3, ''label'': ''Not Very Helpful''}'
+      - '{''id'': 4, ''label'': ''Not at All Helpful''}'
+      required: true
+    - id: 10
+      name: staff_responsive
+      label: staff_responsive
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Responsive''}'
+      - '{''id'': 2, ''label'': ''Responsive''}'
+      - '{''id'': 3, ''label'': ''Not Very Responsive''}'
+      - '{''id'': 4, ''label'': ''Not at All Responsive''}'
+      required: true
+    - id: 11
+      name: staff_punctual
+      label: staff_punctual
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Punctual''}'
+      - '{''id'': 2, ''label'': ''Punctual''}'
+      - '{''id'': 3, ''label'': ''Not Very Punctual''}'
+      - '{''id'': 4, ''label'': ''Not at All Punctual''}'
+      required: true
+    - id: 12
+      name: event_safety
+      label: event_safety
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Very Good''}'
+      - '{''id'': 3, ''label'': ''Average''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 13
+      name: event_value
+      label: event_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_value_2
+      label: event_value_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_recommend
+      label: event_recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_suggestion
+      label: event_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: overall_experience_2
+      label: overall_experience_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: overall_recommend
+      label: overall_recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_suggestion
+      label: overall_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_attendance
+      label: event_attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_attendance_2
+      label: event_attendance_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: event_parking
+      label: event_parking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Average''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 25
+      name: event_food
+      label: event_food_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Very Good''}'
+      - '{''id'': 3, ''label'': ''Average''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false

@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: City Development Plan Approval Voting Form
+    pages:
+      - id: 1
+        name: section_header_instructions
+        label: -- City Development Plan Community Vote --
+        hint: Share your feedback on the proposed development plan
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: voter_address
+        label: Your Address
+        hint: Confirm you are a community member
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: affected_directly
+        label: Will You Be Directly Affected by This Development
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Unsure
+        required: false
+      - id: 6
+        name: section_header_plan_details
+        label: -- Plan Details Review --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: plan_familiarity
+        label: How Familiar Are You with the Development Plan
+        hint: null
+        type: select_one
+        options:
+          - Very familiar
+          - Somewhat familiar
+          - Slightly familiar
+          - Not familiar
+        required: true
+      - id: 8
+        name: plan_review
+        label: Have You Reviewed the Plan Documents
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partially
+        required: false
+      - id: 9
+        name: section_header_vote
+        label: -- Development Plan Vote --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: approval_vote
+        label: Do You Approve of This Development Plan
+        hint: null
+        type: select_one
+        options:
+          - Strongly approve
+          - Approve
+          - Neutral
+          - Disapprove
+          - Strongly disapprove
+        required: true
+      - id: 11
+        name: vote_reason
+        label: Main Reason for Your Vote
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_header_concerns
+        label: -- Concerns and Considerations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: major_concerns
+        label: Major Concerns About This Plan (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - Environmental impact
+          - Traffic and transportation
+          - Parking availability
+          - Impact on schools
+          - Housing affordability
+          - Community character
+          - Public services capacity
+          - Construction disruption
+          - Cost and financing
+          - Safety concerns
+        required: false
+      - id: 14
+        name: concerns_description
+        label: Describe Your Specific Concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: section_header_benefits
+        label: -- Potential Benefits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: potential_benefits
+        label: Potential Benefits You See (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - Economic development
+          - Job creation
+          - Increased tax revenue
+          - Improved infrastructure
+          - Community revitalization
+          - Increased housing options
+          - Enhanced services
+          - Environmental improvements
+        required: false
+      - id: 17
+        name: section_header_conditions
+        label: -- Conditions for Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: conditional_approval
+        label: Would You Approve If Certain Conditions Were Met
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Maybe
+        required: false
+      - id: 19
+        name: required_conditions
+        label: What Conditions Would You Require
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: section_header_alternatives
+        label: -- Alternatives and Modifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: modifications_preferred
+        label: Would You Prefer Modifications to the Plan
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Unsure
+        required: false
+      - id: 22
+        name: suggested_modifications
+        label: Suggested Modifications
+        hint: What changes would make this plan acceptable
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: section_header_additional
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments or Concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: information_source
+        label: How Did You Learn About This Development Plan
+        hint: null
+        type: select_one
+        options:
+          - City council meeting
+          - Newspaper or media
+          - Social media
+          - Neighborhood organization
+          - Official city notice
+          - Word of mouth
+          - Public hearing
+          - Other
+        required: false
+      - id: 26
+        name: interested_involvement
+        label: Interested in Further Involvement in Planning
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Not interested
+        required: false

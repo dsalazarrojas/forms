@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Heater Assessment Survey
+    pages:
+    - id: 1
+      name: water_heater_assessment
+      label: What is the condition of the water heater?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Kitchen''}'
+      - '{''label'': ''Bathroom''}'
+      - '{''label'': ''Utility''}'
+      required: false
+    - id: 3
+      name: water_heater_age
+      label: How old is the water heater?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: water_heater_brand
+      label: Which of the following brands is your water heater?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A.O. Smith''}'
+      - '{''label'': ''American''}'
+      - '{''label'': ''Rheem''}'
+      required: false
+    - id: 5
+      name: water_heater_model
+      label: Water Heater Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: water_heater_type
+      label: What type of water heater do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tankless''}'
+      - '{''label'': ''Tank-type''}'
+      - '{''label'': ''Hybrid''}'
+      required: false
+    - id: 7
+      name: water_heater_size
+      label: What size is the water heater?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: water_heater_temperature
+      label: What is the temperature setting?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: last_maintenance_date
+      label: When was the last maintenance performed?
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

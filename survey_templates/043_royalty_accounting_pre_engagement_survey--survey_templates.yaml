@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: royalty_accounting_pre_engagement_survey
+    pages:
+    - id: 1
+      name: pre_engagement_details
+      label: Pre-Engagement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: royalty_processes
+      label: Royalty Processes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: current_processes
+      label: Current Royalty Processes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: new_processes
+      label: New Royalty Processes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: royalty_accounting
+      label: Royalty Accounting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: financial_reporting
+      label: Financial Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: engagement_expectations
+      label: Engagement Expectations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: engagement_expectations_details
+      label: Engagement Expectations Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_company
+      label: Client Company
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: client_contacts
+      label: Client Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: accounting_firms
+      label: Accounting Firms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

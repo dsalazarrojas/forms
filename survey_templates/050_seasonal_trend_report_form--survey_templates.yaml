@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Trend Report Form
+    pages:
+    - id: 1
+      name: seasonal_trend_report_form
+      label: What is the product category?
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Fashion
+      - Home Goods
+      - Beauty
+      - Sports
+      - Other
+      required: false
+    - id: 2
+      name: seasonal_trend_report
+      label: Which season is this report for?
+      hint: null
+      type: select_multiple
+      options:
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seasonal_trend_data
+      label: Seasonal Trend Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_trend_data
+      label: Sales Trend Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: Describe the marketing strategy for this season.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_perspectives
+      label: Customer Perspectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: competitor_perspectives
+      label: Competitor Perspectives
+      hint: Describe the competitor's product strategies for this season.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_forecast
+      label: Sales Forecast
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sales_forecast_holiday
+      label: Holiday Sales Forecast
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sales_forecast_non_holiday
+      label: Non-holiday Sales Forecast
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: sales_channel
+      label: Sales Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 16
+      name: seasonal_trend_data2
+      label: Seasonal Trend Data 2
+      hint: null
+      type: text
+      options: []
+      required: false

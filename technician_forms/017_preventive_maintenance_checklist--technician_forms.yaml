@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Maintenance Checklist
+    pages:
+    - id: 1
+      name: equipment_status
+      label: What is the current status of the equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_frequency
+      label: Maintenance frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: planned_maintenance_start_date
+      label: Planned maintenance start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: actual_maintenance_start_date
+      label: Actual maintenance start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: Maintenance status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: technician_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_frequency_1
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_frequency_2
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_frequency_3
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: actual_maintenance_duration
+      label: Actual maintenance duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: planned_maintenance_duration
+      label: Planned maintenance duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: next_maintenance_date
+      label: Next maintenance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_maintenance_frequency
+      label: Next maintenance frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

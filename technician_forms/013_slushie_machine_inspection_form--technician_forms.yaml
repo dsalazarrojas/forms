@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slushie Machine Inspection Form
+    pages:
+    - id: 1
+      name: machine_id
+      label: Slushie Machine ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pressure
+      label: Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: flow
+      label: Flow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: machine_state
+      label: Machine State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Operational'', ''value'': ''operational''}'
+      - '{''id'': 2, ''label'': ''Non-operational'', ''value'': ''non-operational''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false

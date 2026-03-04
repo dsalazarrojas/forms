@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beginning Of The Year Student Questionnaire
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_parent
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_parent
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: favorite_subject
+      label: Student Favorite Subject
+      hint: What does your child enjoy learning most
+      type: select_one
+      options:
+      - Reading
+      - Math
+      - Science
+      - Social Studies
+      - Art
+      - Music
+      - Physical Education
+      - Other
+      required: true
+    - id: 8
+      name: learning_style
+      label: How Does Your Child Learn Best
+      hint: null
+      type: select_one
+      options:
+      - Visual Learning
+      - Auditory Learning
+      - Kinesthetic Learning
+      - Reading and Writing
+      - Mixed
+      required: true
+    - id: 9
+      name: extracurricular_interests
+      label: Extracurricular Interests
+      hint: Sports, clubs, activities
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: strengths
+      label: Student Strengths
+      hint: What areas does your child excel in
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: challenges
+      label: Areas for Improvement
+      hint: What subjects or skills need support
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: IEP, learning disabilities, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies or Medical Conditions
+      hint: Include medications
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_interaction
+      label: How Does Your Child Interact with Peers
+      hint: null
+      type: select_one
+      options:
+      - Very Socially Active
+      - Socially Active
+      - Somewhat Reserved
+      - Prefers Small Groups
+      - Struggles with Peer Relationships
+      required: false
+    - id: 15
+      name: home_reading
+      label: Does Your Child Read at Home
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 16
+      name: screen_time
+      label: Average Screen Time Daily
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - More than 3 hours
+      required: false
+    - id: 17
+      name: behavioral_concerns
+      label: Any Behavioral Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: classroom_expectations
+      label: What Are Your Expectations This Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_support
+      label: Ways Parent Can Support Learning
+      hint: null
+      type: text
+      options: []
+      required: false

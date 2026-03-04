@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recipe Ingredient List Submission
+    pages:
+    - id: 1
+      name: submission_page
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ingredient_details
+      label: Ingredient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contributor_info
+      label: Contributor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_info
+      label: Submission Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipe_name
+      label: Recipe Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ingredient_name
+      label: Ingredient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ingredient_type
+      label: Ingredient Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: ingredient_group
+      label: Ingredient Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contributor_email
+      label: Contributor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: contributor_phone
+      label: Contributor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contributor_info
+      label: Contributor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: submission_status_other
+      label: Submission Status Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submission_url
+      label: Submission URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_tags
+      label: Submission Tags
+      hint: null
+      type: text
+      options: []
+      required: false

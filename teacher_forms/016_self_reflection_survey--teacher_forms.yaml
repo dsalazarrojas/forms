@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Reflection Survey
+    pages:
+    - id: 1
+      name: self_reflection_survey
+      label: Self reflection survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: strengths
+      label: strengths
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: weaknesses
+      label: weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 6
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_time
+      label: submitted time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: self_assessment
+      label: self assessment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: self_reflection_survey_date
+      label: self reflection survey date
+      hint: null
+      type: date
+      options: []
+      required: false

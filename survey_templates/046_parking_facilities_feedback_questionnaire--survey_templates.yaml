@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: parking_facilities_feedback_questionnaire
+    pages:
+    - id: 1
+      name: parking_facilities_rating
+      label: Parking Facilities Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parking_facilities_satisfaction
+      label: Parking Facilities Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: parking_facilities_services
+      label: Parking Facilities Services
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 4
+      name: parking_facilities_facility_condition
+      label: Parking Facilities Facility Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 5
+      name: parking_facilities_parking_options
+      label: Parking Facilities Parking Options
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: parking_facilities_accessibility
+      label: Parking Facilities Accessibility
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 7
+      name: parking_facilities_facility_easiness
+      label: Parking Facilities Facility Ease
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parking_facilities_parking_options_easiness
+      label: Parking Facilities Parking Options Ease
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: parking_facilities_accessibility_easiness
+      label: Parking Facilities Accessibility Ease
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: parking_facilities_satisfaction_why
+      label: Parking Facilities Satisfaction Why
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 11
+      name: parking_facilities_satisfaction_why_text
+      label: Parking Facilities Satisfaction Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parking_facilities_additional_comments
+      label: Parking Facilities Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

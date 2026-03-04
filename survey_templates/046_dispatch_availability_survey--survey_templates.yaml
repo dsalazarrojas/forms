@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispatch Availability Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: dispatcher_details
+      label: dispatcher details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferred_shifts
+      label: preferred shifts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: scheduling_constraints
+      label: scheduling constraints
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: scheduling_constraints_2
+      label: scheduling constraints 2
+      hint: null
+      type: time
+      options: []
+      required: false

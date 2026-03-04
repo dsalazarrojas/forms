@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Resistant Jacket Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: jacket_performance
+      label: jacket performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: safety_features
+      label: safety features
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''very good''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''poor''}'
+      - '{''value'': ''very poor''}'
+      required: false
+    - id: 4
+      name: comfort
+      label: comfort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: durability
+      label: durability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ease_of_movement
+      label: ease of movement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manufacturer_recommendation
+      label: manufacturer recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''undecided''}'
+      required: false

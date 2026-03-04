@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Case Outcome Evaluation Form
+    pages:
+    - id: 1
+      name: case_outcome
+      label: Legal Case Outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 2
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 3
+      name: judge_decision
+      label: Judge Decision
+      hint: null
+      type: select_one
+      options:
+      - Decision 1
+      - Decision 2
+      - Decision 3
+      required: true
+    - id: 4
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: lawyer_feedback
+      label: Lawyer Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: case_manager_comment
+      label: Case Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lawyer_manager
+      label: Lawyer Manager
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: lawyer_manager_comment
+      label: Lawyer Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: case_outcome_rating
+      label: Case Outcome Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: case_outcome_satisfaction
+      label: Case Outcome Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: overall_outcome_rating
+      label: Overall Outcome Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: overall_outcome_satisfaction
+      label: Overall Outcome Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: lawyer_rating
+      label: Lawyer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lawyer_satisfaction
+      label: Lawyer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: case_type_rating
+      label: Case Type Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: case_type_satisfaction
+      label: Case Type Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: judge_rating
+      label: Judge Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: judge_satisfaction
+      label: Judge Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: date_of_disposition
+      label: Date of Disposition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_of_disposition
+      label: Time of Disposition
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 23
+      name: case_outcome_comments
+      label: Case Outcome Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lawyer_comments
+      label: Lawyer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

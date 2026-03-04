@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Onion Shed Management Survey
+    pages:
+    - id: 1
+      name: onion_shed_name
+      label: Onion Shed Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shed_location
+      label: Shed Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shed_capacity
+      label: Shed Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shed_operations
+      label: Shed Operations
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Maintenance
+      - Harvesting
+      - Packing
+      - Cleaning
+      - Monitoring
+      - Repair
+      required: false
+    - id: 5
+      name: storage_type
+      label: Storage Type
+      hint: null
+      type: select_one
+      options:
+      - Silo
+      - Bin
+      - Room
+      - Crate
+      - Rack
+      required: true
+    - id: 6
+      name: storage_capacity
+      label: Storage Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment failure
+      - Labour shortages
+      - Storage capacity
+      - Weather conditions
+      - Insect pests
+      - Water damage
+      - Fire
+      required: false
+    - id: 9
+      name: storage_outcome
+      label: Storage Outcome
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: storage_outcome_description
+      label: Storage Outcome Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: onion_shed_manager
+      label: Onion Shed Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

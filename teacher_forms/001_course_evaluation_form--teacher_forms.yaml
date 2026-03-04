@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Evaluation Form
+    pages:
+    - id: 1
+      name: course_evaluation_form_1
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_evaluation_form_2
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: course_evaluation_form_3
+      label: Rate this course
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: course_evaluation_form_4
+      label: Rate this instructor
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: course_evaluation_form_5
+      label: What did you learn from this course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_evaluation_form_6
+      label: Would you take this course again?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: course_evaluation_form_7
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_evaluation_form_8
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

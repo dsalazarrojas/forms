@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Registration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_type
+      label: Exam Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Exam 1''}'
+      - '{''label'': ''Exam 2''}'
+      required: false
+    - id: 3
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: exam_location
+      label: Exam Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Room 1''}'
+      - '{''label'': ''Room 2''}'
+      required: false
+    - id: 6
+      name: exam_duration
+      label: Exam Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Short''}'
+      - '{''label'': ''Long''}'
+      required: false
+    - id: 7
+      name: exam_notes
+      label: Exam Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

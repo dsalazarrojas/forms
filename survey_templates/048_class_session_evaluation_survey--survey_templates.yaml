@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Session Evaluation Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_name
+      label: Student Name
+      hint: Optional - responses can be anonymous
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_content_header
+      label: -- Session Content and Learning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: content_clarity
+      label: The session content was clear and well-presented - scale 1-5
+      hint: 1 = not clear, 5 = very clear
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: content_relevance
+      label: The content was relevant to the course objectives - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: learning_level
+      label: The session helped me learn the material - scale 1-5
+      hint: 1 = no learning, 5 = significant learning
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pace_appropriateness
+      label: The pace of the session was appropriate - scale 1-5
+      hint: 1 = too slow, 5 = too fast
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: instruction_header
+      label: -- Instructor and Teaching Methods --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: instructor_knowledge
+      label: The instructor demonstrated subject expertise - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: instructor_engagement
+      label: The instructor engaged students effectively - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: teaching_effectiveness
+      label: The teaching methods were effective - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: instructor_communication
+      label: The instructor communicated clearly - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: activities_header
+      label: -- Activities and Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: activity_quality
+      label: In-class activities were helpful - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: material_quality
+      label: Quality of course materials provided - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: resource_availability
+      label: Resources were accessible and available - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: feedback_header
+      label: -- Feedback and Interaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: feedback_quality
+      label: Feedback from instructor was constructive - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: discussion_opportunities
+      label: Opportunity for questions and discussion - scale 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: strengths
+      label: What were the strongest aspects of this session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: improvements
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: Overall, I was satisfied with this session - scale 1-5
+      hint: 1 = very dissatisfied, 5 = very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

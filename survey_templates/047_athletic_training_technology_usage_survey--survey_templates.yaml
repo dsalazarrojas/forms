@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Technology Usage Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Your Role
+      hint: Primary role
+      type: select_one
+      options:
+      - Athletic Trainer
+      - Sports Medicine Physician
+      - Physical Therapist
+      - Strength and Conditioning Coach
+      - Sports Coach
+      - Administrator
+      - Student Athletic Trainer
+      - Researcher
+      - Other
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - High School
+      - College or University
+      - Professional Sports
+      - Sports Medicine Clinic
+      - Hospital
+      - Private Practice
+      - Research Institution
+      - Other
+      required: true
+    - id: 5
+      name: sport_focus
+      label: Primary Sport Focus
+      hint: Which sport do you primarily work with
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Multi-Sport
+      - Other
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of Experience
+      hint: In your current role
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: technology_categories_used
+      label: Technology Categories Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronic Health Records (EHR)
+      - Injury Tracking Software
+      - Video Analysis Tools
+      - Wearable Technology
+      - Force Plates
+      - Motion Capture Systems
+      - Heart Rate Monitors
+      - GPS Tracking
+      - Mobile Apps
+      - Telehealth Platforms
+      - None
+      required: true
+    - id: 9
+      name: ehr_usage
+      label: Electronic Health Records Usage
+      hint: How often do you use EHR systems
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: injury_tracking_usage
+      label: Injury Tracking Software Usage
+      hint: How often do you use injury tracking
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: video_analysis_usage
+      label: Video Analysis Tools Usage
+      hint: How often do you use video analysis
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: wearable_technology_usage
+      label: Wearable Technology Usage
+      hint: How often do you use wearables
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: technology_satisfaction
+      label: Overall Technology Satisfaction
+      hint: Rate your satisfaction with current technology
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 14
+      name: technology_effectiveness
+      label: Technology Effectiveness
+      hint: How effective is technology in improving outcomes
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Very Ineffective
+      required: true
+    - id: 15
+      name: ease_of_use
+      label: Ease of Use
+      hint: Rate ease of use of current technology
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 16
+      name: training_received
+      label: Technology Training Received
+      hint: Have you received training on your technology
+      type: select_one
+      options:
+      - Comprehensive Training
+      - Basic Training
+      - Minimal Training
+      - No Training
+      - Self-Taught
+      required: true
+    - id: 17
+      name: training_adequacy
+      label: Training Adequacy
+      hint: Was the training adequate
+      type: select_one
+      options:
+      - More Than Adequate
+      - Adequate
+      - Somewhat Inadequate
+      - Very Inadequate
+      - Not Applicable
+      required: true
+    - id: 18
+      name: barriers_to_adoption
+      label: Barriers to Technology Adoption
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost
+      - Lack of Training
+      - Technical Complexity
+      - Time Constraints
+      - Resistance to Change
+      - Lack of Evidence
+      - Privacy Concerns
+      - Limited Access
+      - No Barriers
+      required: true
+    - id: 19
+      name: technology_budget
+      label: Technology Budget
+      hint: Annual budget for technology
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $5000
+      - $5000 to $10000
+      - $10000 to $50000
+      - Over $50000
+      - No Dedicated Budget
+      required: true
+    - id: 20
+      name: future_technology_interest
+      label: Future Technology Interest
+      hint: Select technologies you are interested in
+      type: select_multiple
+      options:
+      - AI-Powered Injury Prediction
+      - Advanced Biomechanics Analysis
+      - Virtual Reality Training
+      - Remote Monitoring Systems
+      - Advanced Wearables
+      - Data Analytics Platforms
+      - Mobile Health Apps
+      - None
+      required: true
+    - id: 21
+      name: data_privacy_concerns
+      label: Data Privacy Concerns
+      hint: How concerned are you about data privacy
+      type: select_one
+      options:
+      - Very Concerned
+      - Concerned
+      - Neutral
+      - Not Very Concerned
+      - Not Concerned At All
+      required: true
+    - id: 22
+      name: technology_impact_patient_care
+      label: Impact on Patient Care
+      hint: How has technology impacted patient care
+      type: select_one
+      options:
+      - Significantly Improved
+      - Moderately Improved
+      - Slightly Improved
+      - No Impact
+      - Negative Impact
+      required: true
+    - id: 23
+      name: technology_impact_efficiency
+      label: Impact on Efficiency
+      hint: How has technology impacted your efficiency
+      type: select_one
+      options:
+      - Significantly Improved
+      - Moderately Improved
+      - Slightly Improved
+      - No Impact
+      - Decreased Efficiency
+      required: true
+    - id: 24
+      name: most_valuable_technology
+      label: Most Valuable Technology
+      hint: Which technology is most valuable to you
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: least_valuable_technology
+      label: Least Valuable Technology
+      hint: Which technology is least valuable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: technology_recommendations
+      label: Technology Recommendations
+      hint: What technology would you recommend
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts on technology usage
+      type: text
+      options: []
+      required: false

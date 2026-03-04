@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Transport Agreement Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipper_name
+      label: shipper-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipment_date
+      label: shipment-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipment_time
+      label: shipment-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shipment_duration
+      label: shipment-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipper_transport_method
+      label: shipper-transport-method
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Land
+      - Sea
+      - Rail
+      - Mixed
+      required: false
+    - id: 10
+      name: shipment_mode
+      label: shipment-mode
+      hint: null
+      type: select_one
+      options:
+      - Door-to-door
+      - Door-to-door (with customs clearance)
+      - Port-to-port
+      - Store-to-store
+      - Mixed
+      required: false
+    - id: 11
+      name: shipper_address
+      label: shipper-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_notice
+      label: customer-notice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shipper_notice
+      label: shipper-notice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipment_status
+      label: shipment-status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Rejected
+      required: false
+    - id: 15
+      name: shipment_tracking_number
+      label: shipment-tracking-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipper_comments
+      label: shipper-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_comments
+      label: customer-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipment_delivery_date
+      label: shipment-delivery-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: shipment_delivery_time
+      label: shipment-delivery-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: shipment_delivery_status
+      label: shipment-delivery-status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Rejected
+      required: false
+    - id: 21
+      name: shipment_delivery_notes
+      label: shipment-delivery-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipper_remarks
+      label: shipper-remarks
+      hint: null
+      type: select_multiple
+      options:
+      - Special conditions
+      - Customs
+      - Insurance
+      - Other
+      required: false
+    - id: 23
+      name: customer_remarks
+      label: customer-remarks
+      hint: null
+      type: select_multiple
+      options:
+      - Special conditions
+      - Customs
+      - Insurance
+      - Other
+      required: false
+    - id: 24
+      name: shipper_agreement
+      label: shipper-agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: customer_agreement
+      label: customer-agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

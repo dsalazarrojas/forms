@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Feedback Form
+    pages:
+    - id: 1
+      name: section_client_project_ident
+      label: -- Client and Project Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_ident
+      label: Client Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name_ident
+      label: Consulting Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consultant_name_ident
+      label: Primary Consultant(s) Involved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_end_date_ident
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_delivery_satisfaction
+      label: -- Delivery and Satisfaction Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction with Consulting Delivery (1-10)
+      hint: 1 - Dissatisfied, 10 - Highly Satisfied
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: scope_fulfillment_rating
+      label: To what extent did we fulfill the original project scope?
+      hint: 1 - Not at All, 5 - Fully Fulfilled
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: deliverable_quality_rating
+      label: Satisfaction with the Quality of Final Deliverables
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: expertise_demonstration_rating
+      label: Demonstration of Subject Matter Expertise
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_consultant_communication
+      label: -- Consultant Communication Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: responsiveness_rating
+      label: Responsiveness and Promptness of Communication
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: clarity_rating
+      label: Clarity and Professionalism of Advice/Guidance
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: coordination_rating
+      label: Effectiveness in Coordinating with Client Team
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_improvement_referral
+      label: -- Improvement and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_strength_ident
+      label: What was the strongest aspect of our consulting engagement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: primary_improvement_suggestion
+      label: One area where we could improve our consulting services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: likelihood_to_rehire_rating
+      label: How likely are you to hire our consultancy again?
+      hint: 1 - Not Likely, 5 - Very Likely
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: refer_to_others_likelihood
+      label: How likely are you to refer us to a professional colleague?
+      hint: 1 - Not Likely, 5 - Very Likely
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_final_comments
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: permission_to_use_testimonial
+      label: May we use your feedback as a professional testimonial?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Include my name/company
+      - Yes - Keep it anonymous
+      - No - Internal use only
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Feedback Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: respondent_name_title_label
+      label: Your Name and Title
+      hint: null
+      type: text
+      options: []
+      required: true

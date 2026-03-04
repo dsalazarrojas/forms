@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Engagement Survey
+    pages:
+    - id: 1
+      name: teacher_engagement_survey
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_location
+      label: school location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_location_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_location_phone
+      label: school phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_location_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: teacher_engagement
+      label: teacher engagement level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_support
+      label: level of support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication_level
+      label: communication level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: feedback_message
+      label: feedback message
+      hint: null
+      type: text
+      options: []
+      required: false

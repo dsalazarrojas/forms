@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Baptism Interest Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: faith_background
+      label: What's your faith background?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: baptism_date
+      label: When do you want to be baptized?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: baptism_time
+      label: What time of day would you like to be baptized?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: parents_consent
+      label: Does your parent/guardian know you're interested in baptism?
+      hint: null
+      type: select_one
+      options:
+      - Parent 1
+      - Parent 2
+      - Parent 3 or other (if applicable)
+      required: false
+    - id: 6
+      name: church_attendance
+      label: How often do you attend church?
+      hint: null
+      type: select_one
+      options:
+      - Every Sunday
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Rarely
+      required: false
+    - id: 7
+      name: youth_group_attendance
+      label: Do you attend a local youth group?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: contact_request
+      label: When would you like to be contacted about baptism?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: student_baptism_interest
+      label: Would you like to schedule a meeting with a pastor to discuss baptism?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: student_baptism_consent
+      label: I consent to share this information with church staff.
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: church_name
+      label: Which church would you like to schedule a baptism?
+      hint: null
+      type: select_multiple
+      options:
+      - Church 1
+      - Other
+      required: false
+    - id: 12
+      name: church_address
+      label: What is your church's address?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pastor_name
+      label: Which pastor would you like to schedule a baptism?
+      hint: null
+      type: select_multiple
+      options:
+      - Pastor 1
+      - Other
+      required: false
+    - id: 14
+      name: baptism_preferred_date
+      label: When would you like to be baptized?
+      hint: null
+      type: select_one
+      options:
+      - Within 3 months
+      - Within 6 months
+      - Within 12 months
+      - ASAP
+      required: false
+    - id: 15
+      name: baptism_preferred_time
+      label: What time would you like to be baptized?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 16
+      name: baptism_location
+      label: Where would you like to be baptized?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: baptism_type
+      label: What type of baptism would you like?
+      hint: null
+      type: select_one
+      options:
+      - Infant
+      - Immersion
+      - Sprinkling
+      required: false
+    - id: 18
+      name: baptism_father_name
+      label: Father's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: baptism_mother_name
+      label: Mother's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: baptism_guardian_name
+      label: Guardian's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: baptism_address
+      label: What is your address?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: baptism_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: baptism_email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: baptism_note
+      label: Is there anything else we should know?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: baptism_additional_comments
+      label: Additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

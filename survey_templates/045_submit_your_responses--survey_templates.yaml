@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: submit_your_responses
+    pages:
+    - id: 1
+      name: user_input_form
+      label: User Input Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_1
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Very Good''}'
+      - '{''id'': 3, ''label'': ''Good''}'
+      - '{''id'': 4, ''label'': ''Fair''}'
+      - '{''id'': 5, ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: rating_2
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Highly''}'
+      - '{''id'': 2, ''label'': ''Somewhat''}'
+      - '{''id'': 3, ''label'': ''Not at all''}'
+      required: false
+    - id: 4
+      name: text
+      label: Text Input
+      hint: Please enter.report
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Please enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: Please select a time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Any comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

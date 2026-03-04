@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Market Research Form
+    pages:
+      - id: 1
+        name: research_intro
+        label: -- Coffee Shop Consumer Research --
+        hint: Help us understand the local market and coffee preferences
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options: [Under 18, 18-24, 25-34, 35-44, 45-54, 55 plus]
+        required: true
+      - id: 3
+        name: occupation_status
+        label: Occupation Status
+        hint: null
+        type: select_one
+        options: [Student, Employed Full-time, Employed Part-time, Self-employed, Retired, Unemployed]
+        required: true
+      - id: 4
+        name: coffee_habits_header
+        label: -- Consumption Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: visit_frequency
+        label: How often do you visit a cafe or coffee shop
+        hint: null
+        type: select_one
+        options: [Daily, 2-3 times per week, Weekly, Monthly, Rarely]
+        required: true
+      - id: 6
+        name: primary_visit_reason
+        label: Primary reason for visiting a cafe
+        hint: null
+        type: select_one
+        options: [Coffee Quality, Work/Study Environment, Socializing, Quick Snack, Meeting Place]
+        required: true
+      - id: 7
+        name: spend_per_visit
+        label: Average spend per visit
+        hint: per person
+        type: select_one
+        options: [Under $5, $5 to $10, $10 to $20, Over $20]
+        required: true
+      - id: 8
+        name: preferences_header
+        label: -- Product and Service Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: favorite_coffee_drink
+        label: Your favorite coffee-based drink
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: dietary_requirements
+        label: Importance of dietary options
+        hint: e.g. Vegan, Gluten-free, Dairy alternatives
+        type: select_one
+        options: [Very Important, Somewhat Important, Not Important]
+        required: true
+      - id: 11
+        name: loyalty_usage
+        label: Do you use cafe loyalty apps or cards
+        hint: null
+        type: select_one
+        options: [Yes - Frequently, Yes - Occasionally, No]
+        required: true
+      - id: 12
+        name: ambiance_preference
+        label: Preferred Cafe Ambiance
+        hint: null
+        type: select_multiple
+        options: [Quiet and Cozy, Vibrant and Energetic, Modern and Minimal, Artistic and Quirky, Outdoor Seating]
+        required: true
+      - id: 13
+        name: locality_header
+        label: -- Local Market Insights --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: preferred_local_cafe
+        label: Your current favorite local cafe
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: gap_in_market
+        label: What is missing from the local cafe scene
+        hint: e.g. late night hours, specific food, better WiFi
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: new_opening_interest
+        label: How interested would you be in a new specialty coffee shop in this area
+        hint: null
+        type: select_one
+        options: [Very Interested, Neutral, Not Interested]
+        required: true
+      - id: 17
+        name: research_comments
+        label: Any additional insights you'd like to share
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: contact_for_focus_group
+        label: Would you be interested in participating in a paid focus group
+        hint: if yes, please provide your email
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 19
+        name: researcher_email
+        label: Contact Email
+        hint: null
+        type: email
+        options: []
+        required: false

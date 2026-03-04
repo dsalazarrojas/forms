@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Powder Flowability Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: powder_handling
+      label: powder_handling
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Very bad''}'
+      required: true
+    - id: 3
+      name: flowability
+      label: flowability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very easy''}'
+      - '{''label'': ''Easy''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Hard''}'
+      - '{''label'': ''Very hard''}'
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: manufacturer
+      label: manufacturer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Manufacturer A''}'
+      - '{''label'': ''Manufacturer B''}'
+      - '{''label'': ''Manufacturer C''}'
+      required: true
+    - id: 10
+      name: lab
+      label: lab
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lab A''}'
+      - '{''label'': ''Lab B''}'
+      - '{''label'': ''Lab C''}'
+      required: false
+    - id: 11
+      name: quality_team
+      label: quality_team
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Quality Team A''}'
+      - '{''label'': ''Quality Team B''}'
+      - '{''label'': ''Quality Team C''}'
+      required: true
+    - id: 12
+      name: research_area
+      label: research_area
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Research Area A''}'
+      - '{''label'': ''Research Area B''}'
+      - '{''label'': ''Research Area C''}'
+      required: true
+    - id: 13
+      name: comparison
+      label: comparison
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Comparison 1''}'
+      - '{''label'': ''Comparison 2''}'
+      - '{''label'': ''Comparison 3''}'
+      required: false
+    - id: 14
+      name: improvement
+      label: improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Improvement 1''}'
+      - '{''label'': ''Improvement 2''}'
+      - '{''label'': ''Improvement 3''}'
+      required: true
+    - id: 15
+      name: ongoing_improvement
+      label: ongoing_improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: notes_3
+      label: notes_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: notes_4
+      label: notes_4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: notes_5
+      label: notes_5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: notes_6
+      label: notes_6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: notes_7
+      label: notes_7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: notes_8
+      label: notes_8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes_9
+      label: notes_9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes_10
+      label: notes_10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: true

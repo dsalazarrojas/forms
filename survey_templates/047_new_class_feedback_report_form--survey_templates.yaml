@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Class Feedback Report Form
+    pages:
+    - id: 1
+      name: new_class_feedback_report_form
+      label: New Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_id
+      label: Class ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_answer
+      label: Feedback Answer
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

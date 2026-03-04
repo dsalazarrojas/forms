@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 4 Point Inspection Form
+    pages:
+    - id: 1
+      name: section_header_property
+      label: "--- Property & Inspector Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property address
+      hint: Street address, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: Property owner name
+      hint: Name on deed or lease
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Date of inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector name
+      hint: Enter full name and license if applicable
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: roof_condition
+      label: Roof condition
+      hint: Quick overall assessment
+      type: select_one
+      options:
+        - Good
+        - Fair (minor issues)
+        - Poor (major issues)
+        - Not accessible
+      required: true
+    - id: 7
+      name: electrical_system_condition
+      label: Electrical system condition
+      hint: Note visible hazards or deficiencies
+      type: select_one
+      options:
+        - Good
+        - Requires repair
+        - Hazardous
+        - Not applicable
+      required: true
+    - id: 8
+      name: plumbing_system_condition
+      label: Plumbing system condition
+      hint: Check for leaks, water damage
+      type: select_one
+      options:
+        - Good
+        - Requires repair
+        - Hazardous / active leak
+        - Not applicable
+      required: true
+    - id: 9
+      name: hvac_system_condition
+      label: HVAC / heating condition
+      hint: Operational status and obvious defects
+      type: select_one
+      options:
+        - Operational
+        - Partially operational
+        - Non-operational
+        - Not present
+      required: true
+    - id: 10
+      name: observed_defects
+      label: Observed defects (select all that apply)
+      hint: Check each observed issue
+      type: select_multiple
+      options:
+        - Roof leaks
+        - Faulty wiring
+        - Plumbing leaks
+        - HVAC failure
+        - Structural cracks
+        - Water intrusion / mold
+      required: false
+    - id: 11
+      name: safety_rating
+      label: Overall safety rating (1-10)
+      hint: 10 = fully safe, 1 = immediate hazard
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: photos_taken
+      label: Photos taken and attached
+      hint: Attach photos in platform if available
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 13
+      name: recommended_actions
+      label: Recommended actions or repairs
+      hint: Short list of highest-priority items
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: inspector_notes
+      label: Inspector additional notes
+      hint: Describe observations in detail
+      type: text
+      options: []
+      required: false

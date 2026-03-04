@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Purchasing Habits Survey
+    pages:
+    - id: 1
+      name: respondent_first_name
+      label: First Name
+      hint: Your first name - optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up - optional
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: false
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: household_income
+      label: Household Income
+      hint: Select your income bracket
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $49,999
+      - $50,000 - $74,999
+      - $75,000 - $99,999
+      - $100,000 - $149,999
+      - $150,000+
+      - Prefer Not to Say
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 8
+      name: shopping_frequency
+      label: Shopping Frequency
+      hint: How often do you shop
+      type: select_one
+      options:
+      - Daily
+      - Several Times a Week
+      - Weekly
+      - 2-3 Times a Month
+      - Once a Month
+      - Less Than Once a Month
+      required: true
+    - id: 9
+      name: typical_shopping_day
+      label: Typical Shopping Day
+      hint: When do you usually shop
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: typical_shopping_time
+      label: Typical Shopping Time
+      hint: What time of day
+      type: select_one
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Night (9pm-6am)
+      - No Specific Time
+      required: false
+    - id: 11
+      name: preferred_shopping_channel
+      label: Preferred Shopping Channel
+      hint: Where do you mostly shop
+      type: select_one
+      options:
+      - Online Only
+      - In-Store Only
+      - Mostly Online
+      - Mostly In-Store
+      - Equal Mix of Both
+      required: true
+    - id: 12
+      name: online_platforms
+      label: Online Platforms Used
+      hint: Select platforms you use
+      type: select_multiple
+      options:
+      - Amazon
+      - eBay
+      - Walmart
+      - Target
+      - Brand Websites
+      - Social Media Shops
+      - Etsy
+      - Other
+      required: false
+    - id: 13
+      name: in_store_preferences
+      label: In-Store Preferences
+      hint: Select preferred store types
+      type: select_multiple
+      options:
+      - Department Stores
+      - Specialty Stores
+      - Discount Stores
+      - Warehouse Clubs
+      - Grocery Stores
+      - Convenience Stores
+      - Boutiques
+      - Other
+      required: false
+    - id: 14
+      name: average_transaction_amount
+      label: Average Transaction Amount
+      hint: Typical amount per purchase
+      type: select_one
+      options:
+      - Under $25
+      - $25 - $50
+      - $51 - $100
+      - $101 - $200
+      - $201 - $500
+      - Over $500
+      required: true
+    - id: 15
+      name: monthly_spending
+      label: Estimated Monthly Spending
+      hint: Total monthly shopping spend
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,001 - $2,000
+      - $2,001 - $3,000
+      - $3,001 - $5,000
+      - Over $5,000
+      required: false
+    - id: 16
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How do you usually pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Digital Wallet
+      - Buy Now Pay Later
+      - Check
+      required: true
+    - id: 17
+      name: decision_factors
+      label: Purchase Decision Factors
+      hint: Select what influences you most
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Brand
+      - Reviews
+      - Recommendations
+      - Convenience
+      - Sustainability
+      - Promotions
+      - Product Features
+      - Availability
+      required: true
+    - id: 18
+      name: research_habits
+      label: Research Habits
+      hint: How do you research before buying
+      type: select_multiple
+      options:
+      - Read Online Reviews
+      - Watch Videos
+      - Ask Friends
+      - Visit Stores
+      - Compare Prices
+      - Check Social Media
+      - Minimal Research
+      - Impulse Buy
+      required: true
+    - id: 19
+      name: promotional_response
+      label: Response to Promotions
+      hint: How do promotions affect you
+      type: select_one
+      options:
+      - Always Look for Deals
+      - Often Use Promotions
+      - Sometimes Use Promotions
+      - Rarely Use Promotions
+      - Never Use Promotions
+      required: true
+    - id: 20
+      name: brand_loyalty
+      label: Brand Loyalty
+      hint: How loyal are you to brands
+      type: select_one
+      options:
+      - Very Loyal
+      - Somewhat Loyal
+      - Neutral
+      - Switch Frequently
+      - Always Looking for Deals
+      required: true
+    - id: 21
+      name: impulse_buying
+      label: Impulse Buying Tendency
+      hint: How often do you buy impulsively
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 22
+      name: return_frequency
+      label: Return Frequency
+      hint: How often do you return items
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 23
+      name: sustainability_importance
+      label: Importance of Sustainability
+      hint: How important is eco-friendliness
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Neutral
+      - Not Very Important
+      - Not Important
+      required: true
+    - id: 24
+      name: shopping_goals
+      label: Shopping Goals
+      hint: What drives your shopping
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_habits
+      label: Additional Habits
+      hint: Any other shopping habits to share
+      type: text
+      options: []
+      required: false

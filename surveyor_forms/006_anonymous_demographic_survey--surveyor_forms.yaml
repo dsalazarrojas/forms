@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Demographic Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Demographic Information --
+      hint: All responses are anonymous
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age group
+      hint: Select the range that applies to you
+      type: select_one
+      options:
+        - Under 18
+        - 18 to 24
+        - 25 to 34
+        - 35 to 44
+        - 45 to 54
+        - 55 or older
+      required: true
+    - id: 3
+      name: gender_identity
+      label: Gender identity
+      hint: Choose the option that best represents you
+      type: select_one
+      options:
+        - Female
+        - Male
+        - Non binary
+        - Prefer not to answer
+        - Other
+      required: false
+    - id: 4
+      name: education_level
+      label: Highest education level achieved
+      hint: Select the highest level completed
+      type: select_one
+      options:
+        - High school or equivalent
+        - Some college
+        - Bachelor degree
+        - Graduate degree
+        - Other
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment status
+      hint: Current employment situation
+      type: select_one
+      options:
+        - Employed full time
+        - Employed part time
+        - Unemployed
+        - Student
+        - Retired
+      required: false
+    - id: 6
+      name: household_income_range
+      label: Household income range
+      hint: Optional income bracket
+      type: select_one
+      options:
+        - Less than 25k
+        - 25k to 50k
+        - 50k to 100k
+        - Over 100k
+        - Prefer not to answer
+      required: false
+    - id: 7
+      name: geographic_region
+      label: Geographic region
+      hint: City state or region
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Optional feedback or context about your responses
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - option3
+      required: false
+    - id: 7
+      name: student_type
+      label: student_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false

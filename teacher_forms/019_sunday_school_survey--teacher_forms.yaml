@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: sunday_school_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our sunday school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_interests
+      label: How do you like the sunday school?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''I love it'', ''value'': True}'
+      - '{''id'': 2, ''name'': ''I like it'', ''value'': ''somewhat''}'
+      - '{''id'': 3, ''name'': ''I dislike it'', ''value'': False}'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: favorite_subject
+      label: Favorite subject
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Bible'', ''value'': ''Bible''}'
+      - '{''id'': 2, ''name'': ''Sunday school'', ''value'': ''Sunday school''}'
+      required: false
+    - id: 5
+      name: teacher_rating
+      label: How would you rate your teacher?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: student_rating
+      label: How would you rate the sunday school?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

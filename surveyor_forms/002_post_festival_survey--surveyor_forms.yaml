@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_festival_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: Favorite Food
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pineapple'', ''description'': None}'
+      - '{''id'': 2, ''name'': ''Orange'', ''description'': None}'
+      - '{''id'': 3, ''name'': ''Pizza'', ''description'': None}'
+      - '{''id'': 4, ''name'': ''Pears'', ''description'': None}'
+      required: false
+    - id: 8
+      name: first_name
+      label: Favorite Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''red'', ''description'': None}'
+      - '{''id'': 2, ''name'': ''blue'', ''description'': None}'
+      - '{''id'': 3, ''name'': ''green'', ''description'': None}'
+      - '{''id'': 4, ''name'': ''purple'', ''description'': None}'
+      required: false

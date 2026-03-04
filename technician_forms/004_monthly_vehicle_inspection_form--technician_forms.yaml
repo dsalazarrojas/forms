@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_registration
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

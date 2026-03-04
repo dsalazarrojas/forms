@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Socioeconomic Registration Form
+    pages:
+    - id: 1
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_size
+      label: Household Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''unemployed''}'
+      - '{''value'': ''employed''}'
+      - '{''value'': ''retired''}'
+      - '{''value'': ''student''}'
+      required: false
+    - id: 4
+      name: family_member_age
+      label: Family Member Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: family_member_gender
+      label: Family Member Gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high_school''}'
+      - '{''value'': ''bachelor''}'
+      - '{''value'': ''master''}'
+      - '{''value'': ''doctor''}'
+      required: false
+    - id: 7
+      name: household_assets
+      label: Household Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''part_time''}'
+      - '{''value'': ''full_time''}'
+      - '{''value'': ''contract''}'
+      - '{''value'': ''self_employed''}'
+      required: false
+    - id: 9
+      name: family_member_marital_status
+      label: Family Member Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''married''}'
+      - '{''value'': ''single''}'
+      - '{''value'': ''divorced''}'
+      - '{''value'': ''widowed''}'
+      required: false
+    - id: 10
+      name: family_member_country_of_birth
+      label: Family Member Country of Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: family_member_language
+      label: Family Member Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: family_member_residence_country
+      label: Family Member Residence Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_member_migration_status
+      label: Family Member Migration Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''citizen''}'
+      - '{''value'': ''non_citizen''}'
+      - '{''value'': ''resident''}'
+      required: false
+    - id: 14
+      name: family_member_ethnic_group
+      label: Family Member Ethnic Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: family_member_disability_status
+      label: Family Member Disability Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 16
+      name: family_member_language_spoken
+      label: Family Member Language Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_member_english_language
+      label: Family Member English Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''fluent''}'
+      - '{''value'': ''basic''}'
+      - '{''value'': ''none''}'
+      required: false
+    - id: 18
+      name: family_member_employment_in_last_3_months
+      label: Family Member Employment in Last 3 Months
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_member_previous_employment_duration
+      label: Family Member Previous Employment Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: family_member_education_level
+      label: Family Member Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''elementary''}'
+      - '{''value'': ''high_school''}'
+      - '{''value'': ''vocational''}'
+      - '{''value'': ''bachelor''}'
+      - '{''value'': ''master''}'
+      required: false
+    - id: 21
+      name: family_member_education_field
+      label: Family Member Education Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: family_member_education_institution
+      label: Family Member Education Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: family_member_education_country
+      label: Family Member Education Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: family_member_education_level_other
+      label: Family Member Education Level Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: family_member_notes
+      label: Family Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false

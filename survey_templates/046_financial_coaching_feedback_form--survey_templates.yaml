@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_coaching_feedback_form
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: session_topics
+      label: session_topics
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Goals
+      - Goal Setting
+      - Budgeting
+      - Saving
+      - Investment
+      - Tax Planning
+      - Retirement Planning
+      - Financial Planning
+      required: true
+    - id: 4
+      name: feedback_on_coach
+      label: feedback_on_coach
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: feedback_on_coaching
+      label: feedback_on_coaching
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Organization
+      - Planning
+      - Goal Setting
+      - Problem Solving
+      - Presentation
+      - Listening
+      - Empathy
+      required: true
+    - id: 6
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Organization
+      - Planning
+      - Goal Setting
+      - Problem Solving
+      - Presentation
+      - Listening
+      - Empathy
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coaching_session_date
+      label: Coaching Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: coaching_session_duration
+      label: Coaching Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coaching_session_topic
+      label: Coaching Session Topic
+      hint: null
+      type: select_one
+      options:
+      - Financial Goal Setting
+      - Financial Planning
+      - Debt Reduction
+      - Retirement Planning
+      - Budgeting
+      - Investment
+      - Tax Planning
+      - Wealth Management
+      required: true
+    - id: 17
+      name: coaching_program_name
+      label: Coaching Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: coaching_session_notes
+      label: Coaching Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_session_topic
+      label: Next Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_phone
+      label: Follow Up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_email
+      label: Follow Up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_phone_number
+      label: Follow Up Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

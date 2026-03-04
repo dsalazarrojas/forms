@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Network Connectivity Survey
+    pages:
+    - id: 1
+      name: mobile_network_connectivity
+      label: Mobile Network Connectivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mobile_coverage
+      label: Mobile Coverage
+      hint: On a scale of 1-5, how satisfied are you with your mobile coverage in
+        this area?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mobile_reliability
+      label: Mobile Reliability
+      hint: On a scale of 1-5, how satisfied are you with the reliability of your
+        mobile network in this area?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mobile_satisfaction
+      label: Mobile Satisfaction
+      hint: On a scale of 1-5, how satisfied are you with your mobile network in this
+        area?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: Describe any issues you have faced with your mobile network in this area.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mobile_network_issue
+      label: Mobile Network Issue
+      hint: What type of issue did you face with your mobile network in this area?
+      type: select_one
+      options:
+      - coverage
+      - data
+      - voice
+      - video
+      - voice_video
+      required: false
+    - id: 8
+      name: network_type
+      label: Network Type
+      hint: What type of network do you have in this area?
+      type: select_multiple
+      options:
+      - 4G
+      - 3G
+      - 2G
+      - Wi-Fi
+      - WiMAX
+      required: false

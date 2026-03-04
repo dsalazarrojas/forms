@@ -1,0 +1,60 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: skin_pigmentation_assessment_quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_pigmentation_levels
+      label: Skin Pigmentation Levels
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Mild''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''Severe''}'
+      - '{''id'': 5, ''label'': ''Very Severe''}'
+      required: false
+    - id: 3
+      name: skin_concerns
+      label: Skin Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Hyper-Pigmentation''}'
+      - '{''id'': 2, ''label'': ''Hypopigmentation''}'
+      - '{''id'': 3, ''label'': ''Skin Redness''}'
+      - '{''id'': 4, ''label'': ''Skin Discoloration''}'
+      required: false
+    - id: 4
+      name: skin_pigmentation_treatment
+      label: Skin Pigmentation Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

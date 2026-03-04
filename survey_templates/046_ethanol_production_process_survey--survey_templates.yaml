@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethanol Production Process Survey
+    pages:
+    - id: 1
+      name: plant_location
+      label: Plant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_capacity
+      label: Production Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: process_type
+      label: Process Type
+      hint: null
+      type: select_one
+      options:
+      - Distillation
+      - Fermentation
+      - Other
+      required: false
+    - id: 4
+      name: production_volume
+      label: Production Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_frequency
+      label: Production Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 6
+      name: production_start_date
+      label: Production Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: production_end_date
+      label: Production End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 10
+      name: production_operators
+      label: Production Operators
+      hint: null
+      type: select_multiple
+      options:
+      - Operator 1
+      - Operator 2
+      - Operator 3
+      - Operator 4
+      - Operator 5
+      - Operator 6
+      required: false
+    - id: 11
+      name: production_equipments
+      label: Production Equipments
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      - Equipment 4
+      - Equipment 5
+      - Equipment 6
+      required: false
+    - id: 12
+      name: production_capacity_units
+      label: Production Capacity Units
+      hint: null
+      type: select_multiple
+      options:
+      - Unit 1
+      - Unit 2
+      - Unit 3
+      - Unit 4
+      - Unit 5
+      required: false
+    - id: 13
+      name: ethanol_quality
+      label: Ethanol Quality
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: assigned_from
+      label: Assigned From
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

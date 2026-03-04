@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Powder Flowability Assessment Quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is powder flowability?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: question_2
+      label: What is the primary purpose of powder flowability?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: question_3
+      label: Which of the following is NOT included in the flowability test?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: question_4
+      label: How confident are you with powder flowability?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Provide your work email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Provide your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

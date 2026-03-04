@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Data Collection Survey Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Professional Data Collection Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: A short description of the form
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 5
+      name: form_input_1
+      label: Input 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_input_2
+      label: Input 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_input_3
+      label: Input 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_input_4
+      label: Input 4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_input_5
+      label: Input 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

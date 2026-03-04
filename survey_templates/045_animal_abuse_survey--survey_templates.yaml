@@ -1,0 +1,144 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Abuse Survey
+    pages:
+    - id: 1
+      name: section_survey_header
+      label: -- Animal Abuse and Neglect Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_demographic_info
+      label: Age Group or General Location
+      hint: e.g. 25-34, City/State
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_awareness_observations
+      label: -- Awareness and Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: witnessed_animal_abuse_in_past_year
+      label: Have you witnessed animal abuse or neglect in the past year?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Unsure
+      required: true
+    - id: 5
+      name: types_of_abuse_observed
+      label: Types of Abuse Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical Violence
+      - Neglect (No food / water)
+      - Abandonment
+      - Animal Hoarding
+      - Dog Fighting
+      - Overworking
+      required: false
+    - id: 6
+      name: frequency_of_observations
+      label: Frequency of Observations
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Once
+      required: false
+    - id: 7
+      name: section_reporting_action
+      label: -- Reporting and Action --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: did_you_report_the_incident
+      label: Did you report the incident to authorities?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Intended to but didn't
+      required: true
+    - id: 9
+      name: if_not_reported_why
+      label: If not reported, what was the primary reason?
+      hint: null
+      type: select_one
+      options:
+      - Didn't know who to call
+      - Feared retaliation
+      - Thought it wasn't serious enough
+      - Didn't want to get involved
+      required: false
+    - id: 10
+      name: awareness_of_local_animal_welfare_laws
+      label: Level of awareness regarding local animal welfare laws.
+      hint: null
+      type: select_one
+      options:
+      - Well Informed
+      - Somewhat Informed
+      - Not Informed
+      required: true
+    - id: 11
+      name: section_opinions_education
+      label: -- Opinions and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: adequacy_of_current_penalties
+      label: Adequacy of current penalties for animal abuse.
+      hint: null
+      type: select_one
+      options:
+      - Too Lenient
+      - Just Right
+      - Too Harsh
+      required: true
+    - id: 13
+      name: support_for_mandatory_humane_education_in_schools
+      label: Support for mandatory humane education in schools.
+      hint: null
+      type: select_one
+      options:
+      - Strongly Support
+      - Support
+      - Oppose
+      - Strongly Oppose
+      required: true
+    - id: 14
+      name: suggestions_for_reducing_animal_neglect
+      label: Suggestions for reducing animal neglect in your community.
+      hint: null
+      type: text
+      options: []
+      required: false

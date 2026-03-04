@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Heated Socks Gift Review
+    pages:
+    - id: 1
+      name: heated_socks_gift_review_page_1
+      label: Gift Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_recipient_information
+      label: Recipient Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Friend''}'
+      - '{''id'': 2, ''label'': ''Family Member''}'
+      - '{''id'': 3, ''label'': ''Family Friend''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gift_were_glad
+      label: Were you Glad with the Gift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Yes, Definitely''}'
+      - '{''id'': 2, ''label'': ''Somewhat''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: gift_suggestions
+      label: What would you improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gift_suggestions_text
+      label: Gift Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winding Department Shift Report Form
+    pages:
+    - id: 1
+      name: winding_department_shift_report_form_page_1
+      label: start_time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: winding_department_shift_report_form_page_1
+      label: end_time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: winding_department_shift_report_form_page_2
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: winding_department_shift_report_form_page_2
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: winding_department_shift_report_form_page_3
+      label: break_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: winding_department_shift_report_form_page_3
+      label: break_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: winding_department_shift_report_form_page_4
+      label: machine_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: winding_department_shift_report_form_page_4
+      label: machine_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: winding_department_shift_report_form_page_5
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: winding_department_shift_report_form_page_6
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: winding_department_shift_report_form_page_7
+      label: technician_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: winding_department_shift_report_form_page_8
+      label: winding_department
+      hint: null
+      type: select_one
+      options:
+      - Winding Department
+      - Other
+      required: true
+    - id: 13
+      name: winding_department_shift_report_form_page_9
+      label: shift_leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: winding_department_shift_report_form_page_10
+      label: shift_leader_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: winding_department_shift_report_form_page_11
+      label: shift_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: winding_department_shift_report_form_page_12
+      label: machine_status
+      hint: null
+      type: select_multiple
+      options:
+      - Running
+      - Offline
+      - Maintenance
+      required: true
+    - id: 17
+      name: winding_department_shift_report_form_page_13
+      label: machine_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: winding_department_shift_report_form_page_14
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: winding_department_shift_report_form_page_15
+      label: notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: winding_department_shift_report_form_page_16
+      label: technician_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: winding_department_shift_report_form_page_17
+      label: technician_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: winding_department_shift_report_form_page_18
+      label: shift_leader_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: winding_department_shift_report_form_page_19
+      label: shift_leader_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: winding_department_shift_report_form_page_20
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: winding_department_shift_report_form_page_21
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true

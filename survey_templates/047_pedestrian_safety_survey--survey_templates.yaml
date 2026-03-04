@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedestrian Safety Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: street_name
+      label: Street Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description of incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pedestrian_age
+      label: Age of Pedestrian
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pedestrian_gender
+      label: Gender of Pedestrian
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 8
+      name: pedestrian_injury
+      label: Injured
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: pedestrian_injured_severity
+      label: Injured severity level
+      hint: null
+      type: select_multiple
+      options:
+      - Minor
+      - Major
+      required: false
+    - id: 10
+      name: police_response
+      label: Police response time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_involved
+      label: Vehicle involved
+      hint: null
+      type: select_one
+      options:
+      - Bicycle
+      - Car
+      - Pedestrian
+      - Other
+      required: false
+    - id: 12
+      name: pedestrian_cause
+      label: Cause of incident
+      hint: null
+      type: select_multiple
+      options:
+      - Left turn
+      - Right turn
+      - Pedestrian crossing
+      - Other
+      required: false
+    - id: 13
+      name: pedestrian_cause_other
+      label: Other cause
+      hint: Other
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pedestrian_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pedestrian_safety_risk
+      label: Safety Risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_speed
+      label: Vehicle speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_distance
+      label: Vehicle Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_type
+      label: Vehicle type
+      hint: null
+      type: select_one
+      options:
+      - Bicycle
+      - Car
+      - Motorbike
+      - Other
+      required: false
+    - id: 19
+      name: pedestrian_crossing
+      label: Pedestrian crossing
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: pedestrian_crossing_location
+      label: Pedestrian crossing location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pedestrian_crossing_type
+      label: Pedestrian crossing type
+      hint: null
+      type: select_one
+      options:
+      - Pedestrian crossing
+      - Other
+      required: false
+    - id: 22
+      name: pedestrian_crossing_other
+      label: Other pedestrian crossing
+      hint: Other
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pedestrian_speed
+      label: Pedestrian speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: pedestrian_visibility
+      label: Pedestrian visibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: pedestrian_visibility_time
+      label: Pedestrian visibility time
+      hint: null
+      type: time
+      options: []
+      required: false

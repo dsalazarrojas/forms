@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Community Content Voting Form
+    pages:
+    - id: 1
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vote
+      label: Vote
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

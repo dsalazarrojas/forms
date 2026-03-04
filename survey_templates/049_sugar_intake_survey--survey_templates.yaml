@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugar Intake Survey
+    pages:
+    - id: 1
+      name: sugar_consumption_frequency
+      label: How often do you consume sugar?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sugar_consumption_per_week
+      label: How much sugar do you consume per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: daily_sugar_consumption
+      label: Daily Sugar Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: eating_habits
+      label: What time of day do you tend to consume sugar?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      - '{''id'': 4, ''label'': ''Late Night''}'
+      required: false
+    - id: 5
+      name: reasons_for_sugar_consumption
+      label: Why do you consume sugar?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Hunger''}'
+      - '{''id'': 2, ''label'': ''Boredom''}'
+      - '{''id'': 3, ''label'': ''Social''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: sugar_sources
+      label: What sources of sugar do you consume?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Table sugar''}'
+      - '{''id'': 2, ''label'': ''Honey''}'
+      - '{''id'': 3, ''label'': ''Maple syrup''}'
+      - '{''id'': 4, ''label'': ''Fruits''}'
+      - '{''id'': 5, ''label'': ''Dairy''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

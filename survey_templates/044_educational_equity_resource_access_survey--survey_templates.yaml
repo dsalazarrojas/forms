@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Equity Resource Access Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_access
+      label: Do you have access to the following resources?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: resource_request
+      label: If you do not have access, what is the reason?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_info
+      label: School Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resource_availability
+      label: How often do you have access to these resources?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: resource_availability_time
+      label: How long have you had access to these resources?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resource_access_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

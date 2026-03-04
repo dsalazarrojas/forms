@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Property Data Collection
+    pages:
+    - id: 1
+      name: material_property_form
+      label: Material Property Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: material_category
+      label: Material Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: material_size
+      label: Material Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: material_weight
+      label: Material Weight
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: material_color
+      label: Material Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: material_chemical_composition
+      label: Material Chemical Composition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_safety_rating
+      label: Material Safety Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: material_hazard_statement
+      label: Material Hazard Statement
+      hint: null
+      type: text
+      options: []
+      required: false

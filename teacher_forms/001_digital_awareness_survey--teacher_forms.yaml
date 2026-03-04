@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Awareness Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: intro_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: awareness_level
+      label: awareness_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: technology_familiarity
+      label: technology_familiarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: behavior_tendency
+      label: behavior_tendency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: attitude_towards_digital
+      label: attitude_towards_digital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: digital_skills
+      label: digital_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: digital_skills_level
+      label: digital_skills_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: technology_adoption
+      label: technology_adoption
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: technology_usage
+      label: technology_usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: concerns_and_challenges
+      label: concerns_and_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestions_and_comments
+      label: suggestions_and_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_and_follow_up
+      label: contact_and_follow_up
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false

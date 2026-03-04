@@ -1,0 +1,182 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AGM And Budget Planning Survey
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Used for follow-up and meeting materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional — include country code if outside local area
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: membership_id
+      label: Membership ID (if known)
+      hint: Enter membership or account number, or leave blank
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendance_intent
+      label: AGM attendance intent
+      hint: Choose how you plan to participate
+      type: select_one
+      options:
+      - Will attend in person
+      - Will attend virtually
+      - Not attending
+      - Undecided
+      required: true
+    - id: 7
+      name: past_agm_attendance_count
+      label: AGMs attended in past 5 years
+      hint: Enter a whole number (0 if none)
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: response_date
+      label: Date of response
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: How satisfied are you with recent AGM and budget planning?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: budget_priority_areas
+      label: Top budget priority areas (select all that apply)
+      hint: Select up to 3 priorities if possible
+      type: select_multiple
+      options:
+      - Operating expenses
+      - Capital projects
+      - Reserve funds
+      - Membership services
+      - Events & programs
+      - Sustainability initiatives
+      required: true
+    - id: 12
+      name: preferred_budget_change_percent
+      label: Preferred annual budget change (%)
+      hint: Enter percentage as number, e.g., 5.0 or -2.5
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: preferred_funding_sources
+      label: Acceptable funding sources to support priorities
+      hint: Select all that you consider acceptable
+      type: select_multiple
+      options:
+      - Membership fees
+      - Grants
+      - Sponsorships
+      - Fundraising events
+      - Service charges
+      - Reserve funds
+      required: false
+    - id: 14
+      name: program_priority_level
+      label: Priority level for member-facing programs
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - No opinion
+      required: true
+    - id: 15
+      name: proposed_policy_changes
+      label: Which policy changes would you support? (select all)
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Change membership dues structure
+      - Introduce new service fees
+      - Reduce scope of certain programs
+      - Increase transparency/reporting
+      - Establish a designated reserve
+      - No changes
+      required: false
+    - id: 16
+      name: planning_process_satisfaction
+      label: Satisfaction with last year's budget planning process
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: open_feedback
+      label: What would you improve or change about the AGM and budget planning process?
+      hint: Provide specific suggestions or examples
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Optional — any other feedback
+      type: text
+      options: []
+      required: false

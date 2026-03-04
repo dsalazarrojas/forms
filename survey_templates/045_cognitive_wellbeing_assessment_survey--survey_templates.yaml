@@ -1,0 +1,298 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cognitive Wellbeing Assessment Survey
+    pages:
+      - id: 1
+        name: section_respondent
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: age_range
+        label: Age Range
+        hint: null
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 5
+        name: assessment_date
+        label: Date of Assessment
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_mental_health
+        label: -- Mental Health and Cognitive Function --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_mental_health
+        label: Overall Mental Health
+        hint: Rate from 1 - poor to 5 - excellent
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 8
+        name: cognitive_clarity
+        label: Mental Clarity and Focus
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very unclear and unfocused"
+          - "2 - Often unclear"
+          - "3 - Somewhat clear"
+          - "4 - Clear and focused"
+          - "5 - Very clear and focused"
+        required: true
+      - id: 9
+        name: memory_function
+        label: Memory Function
+        hint: How is your memory
+        type: select_one
+        options:
+          - "1 - Very poor"
+          - "2 - Poor"
+          - "3 - Average"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: true
+      - id: 10
+        name: decision_making
+        label: Decision Making Ability
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very difficult"
+          - "2 - Difficult"
+          - "3 - Neutral"
+          - "4 - Easy"
+          - "5 - Very easy"
+        required: true
+      - id: 11
+        name: section_emotional
+        label: -- Emotional Wellbeing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: stress_level
+        label: Current Stress Level
+        hint: Rate from 1 - very low to 5 - very high
+        type: select_one
+        options:
+          - "1 - Very low"
+          - "2 - Low"
+          - "3 - Moderate"
+          - "4 - High"
+          - "5 - Very high"
+        required: true
+      - id: 13
+        name: anxiety_level
+        label: Anxiety Level
+        hint: null
+        type: select_one
+        options:
+          - "1 - None"
+          - "2 - Minimal"
+          - "3 - Moderate"
+          - "4 - Significant"
+          - "5 - Severe"
+        required: true
+      - id: 14
+        name: mood
+        label: Overall Mood
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very depressed"
+          - "2 - Depressed"
+          - "3 - Neutral"
+          - "4 - Positive"
+          - "5 - Very positive"
+        required: true
+      - id: 15
+        name: emotional_regulation
+        label: Ability to Regulate Emotions
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very difficult"
+          - "2 - Difficult"
+          - "3 - Moderate"
+          - "4 - Good"
+          - "5 - Very good"
+        required: true
+      - id: 16
+        name: section_social
+        label: -- Social and Relational Wellbeing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: social_connection
+        label: Sense of Social Connection
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very isolated"
+          - "2 - Somewhat isolated"
+          - "3 - Moderate connection"
+          - "4 - Good connection"
+          - "5 - Strong connection"
+        required: true
+      - id: 18
+        name: relationship_quality
+        label: Quality of Important Relationships
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 19
+        name: section_physical
+        label: -- Physical Health Impact on Cognition --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: sleep_quality
+        label: Sleep Quality
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very poor"
+          - "2 - Poor"
+          - "3 - Fair"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: true
+      - id: 21
+        name: energy_level
+        label: Energy Level
+        hint: null
+        type: select_one
+        options:
+          - "1 - Exhausted"
+          - "2 - Low energy"
+          - "3 - Moderate energy"
+          - "4 - Good energy"
+          - "5 - High energy"
+        required: true
+      - id: 22
+        name: physical_health
+        label: Overall Physical Health
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 23
+        name: section_lifestyle
+        label: -- Lifestyle Factors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: exercise_frequency
+        label: Exercise Frequency
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Regular
+          - Very regularly
+        required: true
+      - id: 25
+        name: nutrition
+        label: Nutritional Habits
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 26
+        name: section_overall
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: overall_wellbeing
+        label: Overall Cognitive Wellbeing
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 28
+        name: wellbeing_changes
+        label: Changes in Cognitive Wellbeing
+        hint: Positive or negative changes recently
+        type: text
+        options: []
+        required: false

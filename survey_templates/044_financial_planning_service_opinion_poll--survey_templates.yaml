@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Planning Service Opinion Poll
+    pages:
+    - id: 1
+      name: financial_planning_service_opinion_poll_form
+      label: Financial Planning Service Opinion Poll Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: financial_advisor_suggestion
+      label: Financial Advisor Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

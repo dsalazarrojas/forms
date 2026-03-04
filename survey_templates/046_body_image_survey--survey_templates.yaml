@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Image Survey
+    pages:
+    - id: 1
+      name: respondent_id
+      label: Respondent ID
+      hint: Optional anonymous identifier
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: Your age
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: ethnicity
+      label: Ethnicity
+      hint: Optional
+      type: select_one
+      options:
+      - White/Caucasian
+      - Black/African American
+      - Hispanic/Latino
+      - Asian
+      - Native American
+      - Pacific Islander
+      - Mixed Race
+      - Other
+      - Prefer Not to Say
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: body_satisfaction_overall
+      label: Overall Body Satisfaction
+      hint: How satisfied are you with your body overall?
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 8
+      name: satisfaction_clothed
+      label: Satisfaction When Clothed
+      hint: How do you feel about your body in regular clothes?
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 9
+      name: satisfaction_swimsuit
+      label: Satisfaction in Swimsuit
+      hint: How do you feel in a swimsuit?
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 10
+      name: satisfaction_formal_wear
+      label: Satisfaction in Formal Wear
+      hint: How do you feel in formal attire?
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 11
+      name: satisfaction_workout_clothes
+      label: Satisfaction in Workout Clothes
+      hint: How do you feel in athletic wear?
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 12
+      name: body_part_satisfaction_face
+      label: Satisfaction with Face
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 13
+      name: body_part_satisfaction_arms
+      label: Satisfaction with Arms
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 14
+      name: body_part_satisfaction_abs
+      label: Satisfaction with Abdomen
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 15
+      name: body_part_satisfaction_thighs
+      label: Satisfaction with Thighs
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 16
+      name: body_part_satisfaction_legs
+      label: Satisfaction with Legs
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 17
+      name: media_influence
+      label: Media Influence on Body Image
+      hint: How much does media affect your body image?
+      type: select_one
+      options:
+      - Very Much
+      - Somewhat
+      - Neutral
+      - Not Much
+      - Not at All
+      required: true
+    - id: 18
+      name: social_media_influence
+      label: Social Media Influence
+      hint: How does social media affect how you feel?
+      type: select_one
+      options:
+      - Very Negative
+      - Somewhat Negative
+      - Neutral
+      - Somewhat Positive
+      - Very Positive
+      required: true
+    - id: 19
+      name: exercise_motivation
+      label: Exercise Motivation
+      hint: Why do you exercise?
+      type: select_one
+      options:
+      - Primarily for Appearance
+      - Mostly for Appearance
+      - Equal Mix
+      - Mostly for Health
+      - Primarily for Health
+      required: true
+    - id: 20
+      name: body_comparison_frequency
+      label: Body Comparison Frequency
+      hint: How often do you compare yourself to others?
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: confidence_level
+      label: General Confidence Level
+      hint: How would you rate your confidence?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Average
+      - Low
+      - Very Low
+      required: true
+    - id: 22
+      name: body_image_impact_daily
+      label: Body Image Impact on Daily Life
+      hint: How much does body image affect your daily life?
+      type: select_one
+      options:
+      - Very Much
+      - Somewhat
+      - Neutral
+      - Not Much
+      - Not at All
+      required: true
+    - id: 23
+      name: support_system
+      label: Support System
+      hint: Do you have support for body image concerns?
+      type: select_one
+      options:
+      - Yes, Strong Support
+      - Yes, Some Support
+      - Neutral
+      - Limited Support
+      - No Support
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts you would like to share
+      type: text
+      options: []
+      required: false

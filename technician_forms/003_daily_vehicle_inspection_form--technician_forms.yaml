@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vin
+      label: vehicle_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Inspected
+      - Not inspected
+      - Not Applicable
+      required: false
+    - id: 4
+      name: inspection_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_result
+      label: result
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: next_inspection_date
+      label: next_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_status_comments
+      label: status_comments
+      hint: null
+      type: text
+      options: []
+      required: false

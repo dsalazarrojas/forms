@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Survey
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: structure_type
+      label: Structure Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''House''}'
+      - '{''id'': 2, ''name'': ''Commercial''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      - '{''id'': 4, ''name'': ''Land''}'
+      required: false
+    - id: 3
+      name: property_boundaries
+      label: Property Boundaries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_charges
+      label: Property Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_guarantee
+      label: Property Guarantee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 6
+      name: property_features
+      label: Property Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single Family Home''}'
+      - '{''id'': 2, ''name'': ''Multi Family Home''}'
+      - '{''id'': 3, ''name'': ''Townhouse''}'
+      - '{''id'': 4, ''name'': ''Condo''}'
+      - '{''id'': 5, ''name'': ''Land''}'
+      required: false
+    - id: 11
+      name: property_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single Family Home''}'
+      - '{''id'': 2, ''name'': ''Multi Family Home''}'
+      - '{''id'': 3, ''name'': ''Townhouse''}'
+      - '{''id'': 4, ''name'': ''Condo''}'
+      - '{''id'': 5, ''name'': ''Land''}'
+      required: false
+    - id: 13
+      name: surveyor_name
+      label: Surveyor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: survey_notes
+      label: Survey Notes
+      hint: null
+      type: note
+      options: []
+      required: false

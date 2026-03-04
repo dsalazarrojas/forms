@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Connection Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - Elementary School
+      - High School
+      - University
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - Grade 6-8
+      - Grade 9-10
+      - Grade 11-12
+      - Post-Graduate
+      - Other
+      required: true
+    - id: 7
+      name: class_size
+      label: Class Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: true
+    - id: 8
+      name: student_teacher_ratio
+      label: Student-Teacher Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: teacher_student_ratio
+      label: Teacher-Student Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teacher_qualifications
+      label: Teacher Qualifications
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Associate's or Bachelor's Degree
+      - Master's or Doctoral Degree
+      - Other
+      required: true
+    - id: 11
+      name: teacher_experience
+      label: Teacher Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 12
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: teacher_support_prophets
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Somewhat
+      - Not Very Well
+      - Not At All
+      required: true
+    - id: 14
+      name: student_support_providing
+      label: Student Support
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Somewhat
+      - Not Very Well
+      - Not At All
+      required: true
+    - id: 15
+      name: teacher_student_interaction
+      label: Teacher-Student Interaction
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: teacher_climate
+      label: Teacher Climate
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: student_climate
+      label: Student Climate
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Poor
+      required: true

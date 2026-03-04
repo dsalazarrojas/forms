@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Systems Survey
+    pages:
+      - id: 1
+        name: section_background
+        label: -- Background Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: role
+        label: Respondent role
+        hint: Select your role
+        type: select_one
+        options:
+          - Faculty
+          - Student
+          - Staff
+          - Administrator
+        required: true
+      - id: 3
+        name: awareness_of_systems
+        label: Awareness of recognition systems
+        hint: How familiar are you with recognition systems
+        type: select_one
+        options:
+          - Very familiar
+          - Somewhat familiar
+          - Not familiar
+        required: true
+      - id: 4
+        name: effectiveness_rating
+        label: Effectiveness of recognition systems
+        hint: Rate the effectiveness in recognizing achievement
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Somewhat effective
+          - Ineffective
+        required: true
+      - id: 5
+        name: transparency_rating
+        label: Transparency of selection criteria
+        hint: Rate how clear the selection criteria are
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Not clear
+        required: false
+      - id: 6
+        name: equity_rating
+        label: Equity in recognition decisions
+        hint: Rate perceived equity of the process
+        type: select_one
+        options:
+          - Very equitable
+          - Somewhat equitable
+          - Not equitable
+        required: false
+      - id: 7
+        name: barriers
+        label: Barriers to fair recognition
+        hint: Select barriers that exist
+        type: select_multiple
+        options:
+          - Limited nomination awareness
+          - Implicit bias
+          - Overreliance on networks
+          - Lack of diverse panels
+        required: false
+      - id: 8
+        name: improvement_ideas
+        label: Ideas to improve recognition systems
+        hint: Practical changes or policies
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: examples_of_good_practice
+        label: Examples of good practice
+        hint: Share successful approaches you have seen
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other insights on recognition systems
+        type: text
+        options: []
+        required: false

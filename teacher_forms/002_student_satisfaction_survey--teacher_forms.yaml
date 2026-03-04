@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Satisfaction Survey
+    pages:
+    - id: 1
+      name: student_survey
+      label: What did you learn today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate your experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructor_rating
+      label: Rate instructor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_comments
+      label: Comments about instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: instructor_name
+      label: Instructor name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: course_name
+      label: Course name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_url
+      label: Course URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false

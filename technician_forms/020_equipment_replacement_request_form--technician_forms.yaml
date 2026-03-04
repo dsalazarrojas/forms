@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Replacement Request Form
+    pages:
+    - id: 1
+      name: equipment_replacement_request_form
+      label: equipment_replacement_request_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Equipment 1''}'
+      - '{''id'': 2, ''text'': ''Equipment 2''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Briefly describe the reason for the equipment replacement request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requested_parts_list
+      label: requested_parts_list
+      hint: List the parts you are requesting
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: assigned_technician
+      label: assigned_technician
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Technician 1''}'
+      - '{''id'': 2, ''text'': ''Technician 2''}'
+      - '{''id'': 3, ''text'': ''Technician 3''}'
+      required: true
+    - id: 8
+      name: date_requested
+      label: date_requested
+      hint: Date equipment was requested
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Active''}'
+      - '{''id'': 2, ''text'': ''Inactive''}'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substitute Teacher Feedback Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher
+      label: Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Teacher 1''}'
+      - '{''value'': 2, ''label'': ''Teacher 2''}'
+      - '{''value'': 3, ''label'': ''Teacher 3''}'
+      required: false
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Subject 1''}'
+      - '{''value'': 2, ''label'': ''Subject 2''}'
+      - '{''value'': 3, ''label'': ''Subject 3''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class
+      label: Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_teacher
+      label: Assigned Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Teacher 1''}'
+      - '{''value'': 2, ''label'': ''Teacher 2''}'
+      - '{''value'': 3, ''label'': ''Teacher 3''}'
+      required: false

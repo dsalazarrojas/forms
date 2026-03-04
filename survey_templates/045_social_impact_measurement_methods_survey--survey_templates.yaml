@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Impact Measurement Methods Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: measurement_approach
+      label: Measurement Approach
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: social_impact_indicators
+      label: Social Impact Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: data_analysis
+      label: Data Analysis
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insights
+      label: Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nonprofit_characteristics
+      label: Nonprofit Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: foundation_characteristics
+      label: Foundation Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: enterprise_characteristics
+      label: Enterprise Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: impact_area_focus
+      label: Impact Area Focus
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

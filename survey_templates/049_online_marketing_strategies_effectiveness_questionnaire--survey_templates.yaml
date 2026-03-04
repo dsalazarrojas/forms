@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Marketing Strategies Effectiveness Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: marketing_channels
+      label: Marketing channels
+      hint: null
+      type: select_multiple
+      options:
+      - Digital
+      - Social media
+      - Email
+      - Print
+      - Offline
+      required: true
+    - id: 3
+      name: marketing_channels_frequency
+      label: How often do you use marketing channels?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: marketing_channels_persuasion
+      label: What is the most persuasive marketing channel?
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Social media
+      - Email
+      - Print
+      - Offline
+      required: true
+    - id: 5
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Product
+      - Customer service
+      - Other
+      required: true
+    - id: 6
+      name: industries
+      label: Industries
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Retail
+      - Healthcare
+      - Technology
+      - Other
+      required: true
+    - id: 7
+      name: challenges
+      label: What are some of the challenges you face using online marketing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: effectiveness
+      label: What's the most effective online marketing strategy?
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Social media
+      - Email
+      - Print
+      - Offline
+      required: true
+    - id: 9
+      name: comparison
+      label: How do you compare the effectiveness of online marketing strategies?
+      hint: null
+      type: note
+      options: []
+      required: false

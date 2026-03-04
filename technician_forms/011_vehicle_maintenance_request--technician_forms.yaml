@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_maintenance_request
+    pages:
+    - id: 1
+      name: maintenance_request
+      label: Vehicle Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Tractor
+      - Motorcycle
+      - Other
+      required: false
+    - id: 3
+      name: service_required
+      label: Service Required
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Change
+      - Tire Change
+      - Brake Change
+      - Other
+      required: false
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: technician_notes
+      label: Technician's Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Usability Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How satisfied are you with the overall experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Very Unsatisfied''}'
+      required: false
+    - id: 3
+      name: question2
+      label: What features do you find most useful?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option A''}'
+      - '{''label'': ''Option B''}'
+      - '{''label'': ''Option C''}'
+      required: false
+    - id: 4
+      name: question3
+      label: question3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: question4
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: question5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: question6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: question7
+      hint: null
+      type: time
+      options: []
+      required: false

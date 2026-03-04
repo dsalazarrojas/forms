@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural And Entertainment Insights Survey
+    pages:
+    - id: 1
+      name: cultural_institutions_name
+      label: Cultural Institutions Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer_name
+      label: event organizer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: audience_demographics
+      label: Audience Demographics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''18-24''}'
+      - '{''label'': ''25-34''}'
+      - '{''label'': ''35-44''}'
+      - '{''label'': ''45-54''}'
+      - '{''label'': ''55-64''}'
+      - '{''label'': ''65 or older''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Print''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 9
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Mandarin''}'
+      required: false
+    - id: 10
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 12
+      name: preferred_start_time
+      label: Preferred Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: preferred_end_time
+      label: Preferred End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: cultural_habits
+      label: Cultural Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_frequency
+      label: Preferred Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 16
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_method
+      label: Preferred Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In person''}'
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Mobile app''}'
+      - '{''label'': ''Phone call''}'
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_device
+      label: Preferred Device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Computer''}'
+      - '{''label'': ''Mobile''}'
+      - '{''label'': ''Tablet''}'
+      required: false
+    - id: 20
+      name: preferred_platform
+      label: Preferred Platform
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''iOS''}'
+      - '{''label'': ''Android''}'
+      - '{''label'': ''Windows''}'
+      required: false
+    - id: 21
+      name: preferred_browser
+      label: Preferred Browser
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Chrome''}'
+      - '{''label'': ''Safari''}'
+      - '{''label'': ''Firefox''}'
+      required: false
+    - id: 22
+      name: preferred_os
+      label: Preferred OS
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''macOS''}'
+      - '{''label'': ''Windows''}'
+      - '{''label'': ''Linux''}'
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

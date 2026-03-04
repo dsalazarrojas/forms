@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bluepay T-Shirt Order Form
+    pages:
+    - id: 1
+      name: t_shirt_style
+      label: T-Shirt Style
+      hint: Select the style of t-shirt
+      type: select_one
+      options:
+      - Classic Crew Neck
+      - V-Neck
+      - Polo Shirt
+      - Long Sleeve
+      - Tank Top
+      required: true
+    - id: 2
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: Select your preferred size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - 4XL
+      required: true
+    - id: 3
+      name: t_shirt_color
+      label: T-Shirt Color
+      hint: Choose your preferred color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy Blue
+      - Red
+      - Gray
+      - Royal Blue
+      - Forest Green
+      - Maroon
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: How many t-shirts would you like to order?
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: additional_sizes
+      label: Additional Sizes Needed
+      hint: Select if you need multiple sizes
+      type: select_multiple
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - None - Single Size Only
+      required: false
+    - id: 6
+      name: custom_text
+      label: Custom Text
+      hint: Enter text for custom printing (optional)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: custom_logo
+      label: Upload Logo
+      hint: Upload your logo or design file
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: print_location
+      label: Print Location
+      hint: Where should the design be printed?
+      type: select_one
+      options:
+      - Front Center
+      - Back Center
+      - Left Chest
+      - Sleeve
+      - Front and Back
+      required: false
+    - id: 9
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: For order-related communications
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: company_name
+      label: Company or Organization Name
+      hint: Optional - for bulk orders
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: Shipping address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: Select your preferred shipping option
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Express Shipping (2-3 days)
+      - Overnight Shipping
+      - Store Pickup
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: Select your payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bluepay
+      required: true
+    - id: 20
+      name: card_number
+      label: Card Number
+      hint: Enter your card details
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes for your order
+      type: text
+      options: []
+      required: false

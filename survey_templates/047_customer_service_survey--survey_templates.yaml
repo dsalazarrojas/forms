@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Survey
+    pages:
+    - id: 1
+      name: customer_service_interaction
+      label: Customer Interaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not at all satisfied
+      required: false
+    - id: 2
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_of_contact
+      label: Time of Contact
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_survey_response
+      label: Customer Service Survey Response
+      hint: null
+      type: text
+      options: []
+      required: false

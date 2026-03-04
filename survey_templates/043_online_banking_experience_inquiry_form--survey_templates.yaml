@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Banking Experience Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: How satisfied are you with your online banking experience?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: security
+      label: Security
+      hint: How secure do you feel when accessing our online services?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ratings
+      label: Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: What did you expect to see in our online banking services?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_updates
+      label: Product Updates
+      hint: Are you satisfied with our product updates?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 8
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - Online Banking
+      - Mobile Banking
+      - ATM Withdrawal
+      - ATM Deposit
+      - Online Support
+      required: false
+    - id: 9
+      name: other_services
+      label: Other Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

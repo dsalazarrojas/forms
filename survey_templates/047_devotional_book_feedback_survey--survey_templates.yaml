@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Devotional Book Feedback Survey
+    pages:
+    - id: 1
+      name: book_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating Scale
+      hint: Select a rating from 1-5
+      type: select_one
+      options:
+      - '{''name'': 1}'
+      - '{''name'': 2}'
+      - '{''name'': 3}'
+      - '{''name'': 4}'
+      - '{''name'': 5}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommended_books
+      label: Recommended Books
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Fiction''}'
+      - '{''name'': ''Nonfiction''}'
+      - '{''name'': ''Romance''}'
+      - '{''name'': ''Mystery''}'
+      - '{''name'': ''Science Fiction''}'
+      - '{''name'': ''Fantasy''}'
+      required: false
+    - id: 11
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Form For University
+    pages:
+    - id: 1
+      name: applicant_basics
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education_history
+      label: -- Education History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: secondary_school
+      label: Secondary School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: secondary_completion_year
+      label: Year of Completion
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: secondary_gpa
+      label: Grade Point Average
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: standardized_tests
+      label: Standardized Test Results
+      hint: SAT, ACT, or equivalent
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_information
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: degree_sought
+      label: Degree Level Sought
+      hint: null
+      type: select_one
+      options:
+      - Bachelor of Science
+      - Bachelor of Arts
+      - Graduate Degree
+      - Doctoral Degree
+      - Certificate Program
+      required: true
+    - id: 14
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: academic_interests
+      label: Academic interests and specializations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: motivation_statement
+      label: -- Motivation Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: why_choose_university
+      label: Why do you want to study at our university?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: career_goals
+      label: What are your career goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_achievements
+      label: Highlight any special achievements or awards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: extracurricular_involvement
+      label: Extracurricular involvement and leadership
+      hint: null
+      type: text
+      options: []
+      required: false

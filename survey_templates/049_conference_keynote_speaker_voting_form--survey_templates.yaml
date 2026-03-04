@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Keynote Speaker Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Voter name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email address
+        hint: For verification if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: speaker_choices
+        label: Select your top speaker choices
+        hint: Choose up to three speakers
+        type: select_multiple
+        options:
+          - Speaker A
+          - Speaker B
+          - Speaker C
+          - Speaker D
+          - Speaker E
+        required: true
+      - id: 4
+        name: priority_reason
+        label: Reason for top choice
+        hint: Brief explanation of preference
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: session_format_preference
+        label: Preferred session format
+        hint: Keynote length and Q and A preference
+        type: select_one
+        options:
+          - 45 minute keynote
+          - 30 minute keynote
+          - Panel discussion
+          - Workshop style
+        required: false
+      - id: 6
+        name: topic_interest
+        label: Topic interest level
+        hint: How relevant is the topic to attendees
+        type: select_one
+        options:
+          - High
+          - Medium
+          - Low
+        required: false
+      - id: 7
+        name: conflicts_of_interest
+        label: Conflicts of interest
+        hint: Any affiliations with suggested speakers
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback about speaker selection
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: consent_contact
+        label: Consent to contact
+        hint: Allow organizers to contact you about votes
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: submission_reference
+        label: Submission reference
+        hint: System generated reference after voting
+        type: text
+        options: []
+        required: false

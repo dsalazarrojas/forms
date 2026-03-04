@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Project Planning Survey
+    pages:
+    - id: 1
+      name: project_objectives
+      label: Project Objectives
+      hint: Write a brief summary of the project
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_timeline
+      label: Project Timeline
+      hint: Enter start and end dates for the project
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_resources
+      label: Project Resources
+      hint: null
+      type: select_multiple
+      options:
+      - Video Editor
+      - Director
+      - Producer
+      - Designer
+      - Cinematographer
+      required: false
+    - id: 4
+      name: project_contacts
+      label: Project Contacts
+      hint: List all project contacts
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: Enter a budget for the project
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: Enter the location of the project
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_timeline_dates
+      label: Timeline Dates
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: project_timeline_start_date
+      label: Timeline Start Date
+      hint: Enter start date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_timeline_end_date
+      label: Timeline End Date
+      hint: Enter end date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_contacts_email
+      label: Project Contacts Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: project_contacts_phone
+      label: Project Contacts Phone
+      hint: Enter contact phone
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_budget_notes
+      label: Project Budget Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_location_notes
+      label: Project Location Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_resources_notes
+      label: Project Resources Notes
+      hint: null
+      type: note
+      options: []
+      required: false

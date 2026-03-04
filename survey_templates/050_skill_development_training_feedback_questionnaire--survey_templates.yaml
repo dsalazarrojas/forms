@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Development Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_experience
+      label: Training Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skills_acquired
+      label: Skills Acquired
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: trainer_performance
+      label: Trainer Performance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_value
+      label: Training Value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Strongly Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Strongly Unsatisfied
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

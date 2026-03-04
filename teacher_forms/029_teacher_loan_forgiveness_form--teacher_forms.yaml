@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Loan Forgiveness Form
+    pages:
+    - id: 1
+      name: student_loan_forgiveness_program_application
+      label: Student Loan Forgiveness Program Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_loan_amount_borrowed
+      label: Teacher Loan Amount Borrowed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_forgiveness_amount
+      label: Loan Forgiveness Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: teacher_loan_interest_rate
+      label: Teacher Loan Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teacher_loan_forgiveness_program
+      label: Teacher Loan Forgiveness Program
+      hint: null
+      type: select_one
+      options:
+      - Public Service Loan Forgiveness (PSLF) Program
+      - Teacher Loan Forgiveness (TLF) Program
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: date_loan_forgiveness_granted
+      label: Date Loan Forgiveness Granted
+      hint: null
+      type: date
+      options: []
+      required: false

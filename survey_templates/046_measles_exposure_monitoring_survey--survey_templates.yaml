@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Measles Exposure Monitoring Survey
+    pages:
+    - id: 1
+      name: survey_date_label
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: case_description
+      label: Case Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Measles''}'
+      - '{''value'': ''Rash''}'
+      - '{''value'': ''Fever''}'
+      - '{''value'': ''Rash with Fever''}'
+      required: false
+    - id: 5
+      name: exposure_location
+      label: Exposure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exposure_date
+      label: Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: exposure_start_time
+      label: Exposure Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: exposure_end_time
+      label: Exposure End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vaccinated''}'
+      - '{''value'': ''Not Vaccinated''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 11
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_country
+      label: Travel Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_start_date
+      label: Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: travel_end_date
+      label: Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: travel_length
+      label: Travel Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Domestic''}'
+      - '{''value'': ''International''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 18
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Moderate''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 19
+      name: exposure_source
+      label: Exposure Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: exposure_description
+      label: Exposure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_action
+      label: Follow Up Action
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: case_closed
+      label: Case Closed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unknown''}'
+      required: false

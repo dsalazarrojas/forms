@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_usage_survey
+    pages:
+    - id: 1
+      name: general_questions
+      label: General Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mobile_operator
+      label: mobile_operator
+      hint: null
+      type: select_one
+      options:
+      - Mobile Operator 1
+      - Mobile Operator 2
+      - Mobile Operator 3
+      required: false
+    - id: 3
+      name: screen_time
+      label: Screen Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mobile_device
+      label: mobile_device
+      hint: null
+      type: select_one
+      options:
+      - iPhone
+      - Android
+      - Other
+      required: false
+    - id: 5
+      name: phone_model
+      label: phone_model
+      hint: null
+      type: select_one
+      options:
+      - Galaxy
+      - iPhone
+      - Nokia
+      required: false
+    - id: 6
+      name: phone_os
+      label: phone_os
+      hint: null
+      type: select_one
+      options:
+      - iOS
+      - Android
+      - Other
+      required: false
+    - id: 7
+      name: screen_usage
+      label: screen_usage
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Social Media
+      - Gaming
+      - Other
+      required: false
+    - id: 8
+      name: usage_frequency
+      label: usage_frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: false
+    - id: 9
+      name: most_used_app
+      label: most_used_app
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - WhatsApp
+      - Other
+      required: false
+    - id: 10
+      name: app_usage_frequency
+      label: app_usage_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - WhatsApp
+      - Other
+      required: false

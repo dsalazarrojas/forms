@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Participant Expectation Check In Form
+    pages:
+    - id: 1
+      name: introduction
+      label: How are you feeling today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_expectation
+      label: What do you hope to get out of this workshop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: readiness
+      label: How ready are you to participate
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: topic_interests
+      label: Are there any topics you are specifically interested in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: technical_skills
+      label: Do you have any technical skills you would like to share
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_style
+      label: How do you prefer to communicate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: learning_preferences
+      label: What are your preferred learning methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_expectation_follow_up
+      label: How will you follow up on the workshop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: technical_skills_share
+      label: Would you like to share any technical skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: facilitation_style
+      label: How would you like the facilitator to facilitate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_commitment
+      label: Can you commit to the full workshop schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Any note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: feedback
+      label: Do you have any feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expectation_awaiting_response
+      label: Is there anything you are expecting to hear from us
+      hint: null
+      type: text
+      options: []
+      required: false

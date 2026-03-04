@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Easter Quiz
+    pages:
+    - id: 1
+      name: easter_egg_hunt
+      label: Easter egg hunt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_color
+      label: Favorite color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 3
+      name: date_born
+      label: Date of birth
+      hint: Enter a valid date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_spent
+      label: How many hours you have spent in Easter?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: favorite_food
+      label: Favorite food
+      hint: null
+      type: select_one
+      options:
+      - Chicken
+      - Chocolate
+      - Carrot cake
+      required: false
+    - id: 6
+      name: favorite_drink
+      label: Favorite drink
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Juice
+      - Soda
+      required: false
+    - id: 7
+      name: favorite_activity
+      label: Favorite activity
+      hint: null
+      type: select_one
+      options:
+      - Egg hunt
+      - Easter egg decoration
+      - Easter egg hunt
+      required: false
+    - id: 8
+      name: total_score
+      label: Total score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submit_quiz
+      label: Submit quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: easter_egg_hunt_score
+      label: Easter egg hunt score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: favorite_easter_egg_color
+      label: Favorite Easter egg color
+      hint: null
+      type: select_one
+      options:
+      - Pink
+      - Blue
+      - Yellow
+      required: false
+    - id: 12
+      name: easter_egg_shape
+      label: Easter egg shape
+      hint: null
+      type: select_multiple
+      options:
+      - Bunny
+      - Chick
+      - Egg
+      required: false

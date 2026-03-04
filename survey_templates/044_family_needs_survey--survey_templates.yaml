@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Needs Survey
+    pages:
+    - id: 1
+      name: family_needs_survey
+      label: Family Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_members
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - More
+      required: false
+    - id: 3
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: household_expenses
+      label: Household Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_needs
+      label: Food Needs
+      hint: null
+      type: select_one
+      options:
+      - Food
+      - Clothing
+      - Shelter
+      - Medical
+      - Transportation
+      - Education
+      - Other
+      required: false
+    - id: 6
+      name: household_needs
+      label: Household Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_assets
+      label: Household Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: household_assets_type
+      label: Type of Assets
+      hint: null
+      type: select_one
+      options:
+      - Assets
+      - Property
+      - Vehicle
+      - Other
+      - None
+      required: false
+    - id: 9
+      name: household_needs_2
+      label: Household Needs 2
+      hint: null
+      type: select_multiple
+      options:
+      - Needs
+      - Wants
+      - Urgent Needs
+      - Less Urgent Needs
+      required: true
+    - id: 10
+      name: household_needs_3
+      label: Household Needs 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Threat Report Form
+    pages:
+    - id: 1
+      name: threat_type
+      label: threat_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: threat_severity
+      label: threat_severity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: threat_frequency
+      label: threat_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: false
+    - id: 4
+      name: threat_description
+      label: threat_description
+      hint: The nature of the threat
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: threat_impact
+      label: threat_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: threat_category
+      label: threat_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_date
+      label: report_date
+      hint: When was the report submitted?
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: threat_status
+      label: threat_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: threat_status_update
+      label: threat_status_update
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: threat_resolution
+      label: threat_resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: threat_comment
+      label: threat_comment
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: threat_suggestions
+      label: threat_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: threat_resolution_date
+      label: threat_resolution_date
+      hint: When was the threat resolved?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: threat_resolution_method
+      label: threat_resolution_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reported_by_email
+      label: reported_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: report_by_name
+      label: report_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: report_by_phone
+      label: report_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: threat_id
+      label: threat_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: threat_id_number
+      label: threat_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: threat_reported_date
+      label: threat_reported_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: threat_reported_time
+      label: threat_reported_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: threat_reported_time_zone
+      label: threat_reported_time_zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: threat_reported_location
+      label: threat_reported_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_source
+      label: report_source
+      hint: null
+      type: text
+      options: []
+      required: false

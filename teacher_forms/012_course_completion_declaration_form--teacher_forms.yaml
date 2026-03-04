@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Completion Declaration Form
+    pages:
+    - id: 1
+      name: course_identifier
+      label: Course Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: course_completion_date
+      label: Course Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_program_name
+      label: Training Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - In Progress
+      - Completed
+      - Withdrawn
+      required: true
+    - id: 10
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hours_completed
+      label: Hours Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      - Location 5
+      required: true
+    - id: 14
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: select_one
+      options:
+      - Facilitator 1
+      - Facilitator 2
+      - Facilitator 3
+      - Facilitator 4
+      - Facilitator 5
+      required: true
+    - id: 15
+      name: course_notes
+      label: Course Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false

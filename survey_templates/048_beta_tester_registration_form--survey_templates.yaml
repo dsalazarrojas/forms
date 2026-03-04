@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beta Tester Registration Form
+    pages:
+    - id: 1
+      name: tester_registration_header
+      label: -- Beta Tester Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tester_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tester_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: tester_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tester_mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_tech_header
+      label: -- Experience and Technical Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: previous_tester_experience
+      label: Have you been a beta tester before
+      hint: null
+      type: select_one
+      options:
+      - Yes - I have tested before
+      - No - I am new to beta testing
+      required: true
+    - id: 8
+      name: primary_os_selection
+      label: Primary Operating Systems Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - iOS (iPhone/iPad)
+      - Android Mobile/Tablet
+      - Windows PC
+      - macOS (Mac)
+      - Linux Distributions
+      required: true
+    - id: 9
+      name: hardware_details_text
+      label: Specific Hardware Details
+      hint: Processor, RAM, Graphic card, or Device model
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tech_savviness_rating
+      label: Tech-savviness Level
+      hint: 1 being low, 5 being expert
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: participation_header
+      label: -- Participation and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: availability_hours_weekly
+      label: Time Commitment Weekly
+      hint: How much time can you dedicate
+      type: select_one
+      options:
+      - 1 to 5 hours per week
+      - 5 to 10 hours per week
+      - Over 10 hours per week
+      required: true
+    - id: 13
+      name: preferred_testing_areas
+      label: Preferred Testing Areas
+      hint: Select the parts of the app you are most interested in
+      type: select_multiple
+      options:
+      - UI and Visual Design
+      - Functionality and Workflows
+      - Performance and Speed
+      - Security and Privacy
+      - Localization and Language
+      - Documentation and Guides
+      required: true
+    - id: 14
+      name: motivation_narrative
+      label: Why do you want to test our product
+      hint: Describe your interest in this project
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: legal_compliance_header
+      label: -- Legal and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: nda_agreement_choice
+      label: Non-Disclosure Agreement (NDA)
+      hint: You must keep the software confidential
+      type: select_one
+      options:
+      - I agree to the NDA terms
+      - I do not agree
+      required: true
+    - id: 17
+      name: privacy_policy_agreement
+      label: Privacy Policy Agreement
+      hint: How we handle your personal information
+      type: select_one
+      options:
+      - I agree to the privacy terms
+      - I do not agree
+      required: true
+    - id: 18
+      name: conclusion_header
+      label: -- Final Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_info_text
+      label: Any other information you would like to provide
+      hint: Final comments or questions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: registration_date_stamp
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

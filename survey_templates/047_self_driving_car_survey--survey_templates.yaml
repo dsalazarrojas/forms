@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Driving Car Survey
+    pages:
+    - id: 1
+      name: car_owner_input
+      label: car_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driving_experience
+      label: driving_experience
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_feature
+      label: favorite_feature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''feature1'', ''label'': ''feature1''}'
+      - '{''id'': 2, ''name'': ''feature2'', ''label'': ''feature2''}'
+      - '{''id'': 3, ''name'': ''feature3'', ''label'': ''feature3''}'
+      - '{''id'': 4, ''name'': ''feature4'', ''label'': ''feature4''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: self_driving_car_survey_comments
+      label: self_driving_car_survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false

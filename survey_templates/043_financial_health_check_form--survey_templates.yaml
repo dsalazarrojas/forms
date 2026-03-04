@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Health Check Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: savings
+      label: Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investments
+      label: Investments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Financially Stable''}'
+      - '{''options'': ''Financially Unstable''}'
+      - '{''options'': ''Financially Unknown''}'
+      required: false
+    - id: 7
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: financial_influence
+      label: Financial Influence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Income''}'
+      - '{''options'': ''Investments''}'
+      - '{''options'': ''Expenses''}'
+      required: false
+    - id: 9
+      name: savings_goal
+      label: Savings Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: investment_goal
+      label: Investment Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: investment_strategy
+      label: Investment Strategy
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Aggressive''}'
+      - '{''options'': ''Moderate''}'
+      - '{''options'': ''Conservative''}'
+      required: false
+    - id: 12
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Low''}'
+      - '{''options'': ''Medium''}'
+      - '{''options'': ''High''}'
+      required: false
+    - id: 13
+      name: risk_free
+      label: Risk Free
+      hint: null
+      type: number
+      options: []
+      required: false

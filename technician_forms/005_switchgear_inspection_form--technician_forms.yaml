@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Switchgear Inspection Form
+    pages:
+    - id: 1
+      name: switchgear_item
+      label: switchgear_item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: switchgear_condition
+      label: switchgear_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: switchgear_rack_status
+      label: switchgear_rack_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: switchgear_rack_condition
+      label: switchgear_rack_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: switchgear_rack_mounting
+      label: switchgear_rack_mounting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: switchgear_connection_type
+      label: switchgear_connection_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: switchgear_ins_reported
+      label: switchgear_ins_reported
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: switchgear_ins_checked
+      label: switchgear_ins_checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: switchgear_ins_notes
+      label: switchgear_ins_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: switchgear_ins_action_items
+      label: switchgear_ins_action_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: switchgear_ins_date_inspected
+      label: switchgear_ins.reported_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: switchgear_ins_remark
+      label: switchgear_ins_remark
+      hint: null
+      type: note
+      options: []
+      required: false

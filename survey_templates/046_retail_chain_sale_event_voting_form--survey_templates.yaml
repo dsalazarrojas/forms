@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Chain Sale Event Voting Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question1
+      label: What was the event name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: How many stores were involved?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: Was the event well-organized?
+      hint: null
+      type: select_one
+      options:
+      - Well-organized
+      - Not well-organized
+      - Neutral
+      required: false
+    - id: 5
+      name: question4
+      label: What did you learn from the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: Will you attend another event like this?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 7
+      name: question6
+      label: Which store had the best sales display?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: question7
+      label: What would you like to see improved in future events?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: What was your favorite sale?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: How many sales did you make during the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_rating
+      label: Event Rating
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: store_manager
+      label: Store Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false

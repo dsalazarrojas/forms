@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Tax Questionnaire
+    pages:
+    - id: 1
+      name: personal_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married Filing Jointly
+      - Married Filing Separately
+      - Head of Household
+      - Qualifying Widow/Widower
+      required: true
+    - id: 5
+      name: dependents
+      label: Number of dependents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: changes_section
+      label: -- Life Changes in Past Year --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: marriage
+      label: Marriage or divorce?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: birth_death
+      label: Birth, death, or adoption in family?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: home_purchase
+      label: Purchased or sold a home?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: income_section
+      label: -- Income Sources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employment_income
+      label: Employment income (W-2)?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: self_employment
+      label: Self-employment or business income?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: investment_income
+      label: Investment income or dividends?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: rental_income
+      label: Rental property income?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: deduction_section
+      label: -- Deductible Expenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: mortgage_interest
+      label: Paid mortgage interest?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: property_taxes
+      label: Paid significant property taxes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: charitable_donations
+      label: Made charitable donations?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: medical_expenses
+      label: Had significant medical expenses?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: education_expenses
+      label: Paid education expenses or student loans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: business_expenses
+      label: Business supplies or equipment purchases?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: vehicle_expenses
+      label: Business vehicle expenses?
+      hint: Mileage, fuel, maintenance, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

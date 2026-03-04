@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Term Medication Safety Evaluation Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: medication_side_effects_page
+      label: medication_side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: adherence_pattern_page
+      label: adherence_patterns
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: overall_experience_page
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: additional_comments_page
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: side_effects_frequency
+      label: side_effects_frequency
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: side_effects_severity
+      label: side_effects_severity
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: medication_safety_concerns
+      label: medication_safety_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: adherence_adverse_events
+      label: adherence_adverse_events
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: adherence_adherence
+      label: adherence_adherence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: medication_dosage
+      label: medication_dosage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medication_duration
+      label: medication_duration
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: dosage_form
+      label: dosage_form
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 18
+      name: medication_route
+      label: medication_route
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 19
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true

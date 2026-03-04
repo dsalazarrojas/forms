@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lecture Evaluation Form
+    pages:
+    - id: 1
+      name: lecture_evaluation_form_1
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lecture_evaluation_form_2
+      label: content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lecture_evaluation_form_3
+      label: speaker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

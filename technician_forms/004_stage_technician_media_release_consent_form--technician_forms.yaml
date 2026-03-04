@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Technician Media Release Consent Form
+    pages:
+    - id: 1
+      name: media_usage_consent
+      label: Media Usage Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: media_release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Photo
+      - Audio
+      - Live Stream
+      required: true
+    - id: 11
+      name: release_location
+      label: Release Location
+      hint: null
+      type: select_multiple
+      options:
+      - Stage
+      - Backstage
+      - Online
+      required: true
+    - id: 12
+      name: release_expiration_date
+      label: Release Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: release_expiration_time
+      label: Release Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: release_signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: release_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: release_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: release_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: release_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: release_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: release_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: release_media_url
+      label: Media URL
+      hint: null
+      type: text
+      options: []
+      required: false

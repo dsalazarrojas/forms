@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: (Region/City) PSAV Back To School Drive
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Used for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Provide if registering a minor
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade / Year level
+      hint: e.g., 3rd Grade, Year 10, Freshman
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_name
+      label: School or institution name
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mailing_address
+      label: Mailing address
+      hint: Street address for delivery (optional)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Postal / ZIP code
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: subject_area
+      label: Primary subject area
+      hint: Choose the subject most relevant to the student's needs
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - Language Arts
+      - Social Studies
+      - Arts
+      - Physical Education
+      - Technology
+      - Other
+      required: false
+    - id: 11
+      name: learning_style
+      label: Preferred learning style
+      hint: null
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Reading/Writing
+      - Hands-on/Kinesthetic
+      required: false
+    - id: 12
+      name: hours_studied
+      label: Average study hours per week
+      hint: Enter whole hours (approximate)
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: items_requested
+      label: Items requested (select all that apply)
+      hint: Select the supplies most needed
+      type: select_multiple
+      options:
+      - Notebooks
+      - Pens / Pencils
+      - Backpacks
+      - Calculators
+      - Art supplies
+      - Uniforms / Clothing
+      - Hygiene kits
+      required: false
+    - id: 14
+      name: total_items_requested
+      label: Total quantity of items requested
+      hint: Enter a whole number if requesting multiple units
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: pickup_needed
+      label: Will you pick up the supplies or need delivery?
+      hint: Select one option
+      type: select_one
+      options:
+      - I will pick up
+      - Please deliver if possible
+      required: true
+    - id: 16
+      name: preferred_pickup_location
+      label: Preferred pickup location
+      hint: Select the most convenient distribution site (if picking up)
+      type: select_one
+      options:
+      - Central Community Center
+      - School distribution site
+      - Mobile distribution van
+      - Local partner organization
+      - Other
+      required: false
+    - id: 17
+      name: volunteer_interest
+      label: Interest in volunteering with the drive
+      hint: Choose even if you need more information
+      type: select_one
+      options:
+      - Yes — I can help
+      - Maybe — need more info
+      - No — not available
+      required: false
+    - id: 18
+      name: volunteer_time
+      label: Preferred volunteer time
+      hint: Provide a time range if available
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: photo_publicity_consent
+      label: Consent to be acknowledged in publicity (first name and city)
+      hint: Select yes to allow recognition posts
+      type: select_one
+      options:
+      - Yes — allow sharing first name and city
+      - No — do not share my information
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional comments or special needs
+      hint: Include accessibility needs, allergy info, or delivery notes
+      type: text
+      options: []
+      required: false

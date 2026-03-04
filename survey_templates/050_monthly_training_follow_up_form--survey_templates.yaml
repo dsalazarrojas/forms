@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Training Follow Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: training_participants
+      label: Training Participants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_of_training
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_training
+      label: Time of Training
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_follow_up_time
+      label: Next Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_follow_up_note
+      label: Next Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: follow_up_follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chimney Inspection Form
+    pages:
+    - id: 1
+      name: inspection_details
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_certification
+      label: Certification Number
+      hint: Chimney sweep license or certification
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_information
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_phone
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: chimney_structure
+      label: -- Chimney Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: chimney_type
+      label: Chimney Type
+      hint: null
+      type: select_one
+      options:
+      - Masonry
+      - Metal
+      - Prefabricated
+      - Factory-built
+      - Other
+      required: true
+    - id: 16
+      name: chimney_height
+      label: Approximate Chimney Height
+      hint: In feet
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: fireplace_type
+      label: Fireplace or Appliance Type
+      hint: null
+      type: select_one
+      options:
+      - Wood fireplace
+      - Gas fireplace
+      - Wood stove
+      - Gas stove
+      - Furnace vent
+      - Other
+      required: true
+    - id: 18
+      name: inspection_findings
+      label: -- Inspection Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: creosote_buildup
+      label: Creosote Buildup Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Light (less than 1/8 inch)
+      - Moderate (1/8 to 1/4 inch)
+      - Heavy (more than 1/4 inch)
+      required: true
+    - id: 20
+      name: cleaning_recommended
+      label: Cleaning Recommended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: obstructions_found
+      label: Obstructions Found
+      hint: Birds nest, debris, blockage, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: obstruction_description
+      label: Description of Obstruction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: safety_assessment
+      label: -- Safety Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: safety_status
+      label: Overall Safety Status
+      hint: null
+      type: select_one
+      options:
+      - Safe to use
+      - Safe with cleaning
+      - Unsafe - repairs needed
+      - Unsafe - do not use
+      required: true
+    - id: 25
+      name: recommended_repairs
+      label: Recommended Repairs or Maintenance
+      hint: Detailed description of needed work
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_feedback_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What would you like to do
+      hint: null
+      type: select_one
+      options:
+      - I want to give feedback
+      - I want to report an issue
+      required: true
+    - id: 2
+      name: question_1
+      label: what_do_you_like
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_2
+      label: what_do_you_dont_like
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: suggestion
+      label: do you have any suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_1
+      label: How likely are you to recommend us
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2 - Somewhat
+      - 3 - Likely
+      - 4 - Very Likely
+      - 5 - Extremely Likely
+      required: true
+    - id: 6
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: comment
+      label: Your Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_8
+      label: Do you have any feedback about our website
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: question_9
+      label: Do you have any feedback about our customer support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

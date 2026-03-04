@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_distribution_timing_questionnaire
+    pages:
+    - id: 1
+      name: survey_distribution_timing
+      label: survey_distribution_timing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: channel
+      label: channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''email''}'
+      - '{''id'': 2, ''label'': ''phone''}'
+      - '{''id'': 3, ''label'': ''message''}'
+      - '{''id'': 4, ''label'': ''text''}'
+      required: false
+    - id: 3
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''morning''}'
+      - '{''id'': 2, ''label'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''evening''}'
+      required: false
+    - id: 4
+      name: day_of_week
+      label: day_of_week
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''monday''}'
+      - '{''id'': 2, ''label'': ''tuesday''}'
+      - '{''id'': 3, ''label'': ''wednesday''}'
+      - '{''id'': 4, ''label'': ''thursday''}'
+      - '{''id'': 5, ''label'': ''friday''}'
+      - '{''id'': 6, ''label'': ''saturday''}'
+      - '{''id'': 7, ''label'': ''sunday''}'
+      required: false
+    - id: 5
+      name: day_of_month
+      label: day_of_month
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''first''}'
+      - '{''id'': 2, ''label'': ''second''}'
+      - '{''id'': 3, ''label'': ''third''}'
+      - '{''id'': 4, ''label'': ''fourth''}'
+      - '{''id'': 5, ''label'': ''fifth''}'
+      required: false
+    - id: 6
+      name: survey_frequency
+      label: survey_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''one_time''}'
+      - '{''id'': 2, ''label'': ''daily''}'
+      - '{''id'': 3, ''label'': ''weekly''}'
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: time_interval
+      label: time_interval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''minutes''}'
+      - '{''id'': 2, ''label'': ''hours''}'
+      - '{''id'': 3, ''label'': ''days''}'
+      required: false
+    - id: 11
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''EST''}'
+      - '{''id'': 2, ''label'': ''PST''}'
+      - '{''id'': 3, ''label'': ''CST''}'
+      - '{''id'': 4, ''label'': ''MST''}'
+      - '{''id'': 5, ''label'': ''AST''}'
+      required: false
+    - id: 12
+      name: timezone
+      label: timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''America''}'
+      - '{''id'': 2, ''label'': ''Europe''}'
+      - '{''id'': 3, ''label'': ''Asia''}'
+      - '{''id'': 4, ''label'': ''Africa''}'
+      - '{''id'': 5, ''label'': ''Australia''}'
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: timezone_offset
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 14
+      name: timezone_offset_2
+      label: timezone_offset_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': -1}'
+      - '{''id'': 3, ''label'': -2}'
+      - '{''id'': 4, ''label'': -3}'
+      - '{''id'': 5, ''label'': -4}'
+      required: false
+    - id: 15
+      name: timezone_offset_3
+      label: timezone_offset_3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': -1}'
+      - '{''id'': 3, ''label'': -2}'
+      - '{''id'': 4, ''label'': -3}'
+      - '{''id'': 5, ''label'': -4}'
+      required: false
+    - id: 16
+      name: timezone_offset_4
+      label: timezone_offset_4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 17
+      name: timezone_offset_5
+      label: timezone_offset_5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 18
+      name: timezone_offset_6
+      label: timezone_offset_6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 19
+      name: timezone_offset_7
+      label: timezone_offset_7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': -1}'
+      - '{''id'': 3, ''label'': -2}'
+      - '{''id'': 4, ''label'': -3}'
+      - '{''id'': 5, ''label'': -4}'
+      required: false
+    - id: 20
+      name: timezone_offset_8
+      label: timezone_offset_8
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': -1}'
+      - '{''id'': 3, ''label'': -2}'
+      - '{''id'': 4, ''label'': -3}'
+      - '{''id'': 5, ''label'': -4}'
+      required: false
+    - id: 21
+      name: timezone_offset_9
+      label: timezone_offset_9
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 22
+      name: timezone_offset_10
+      label: timezone_offset_10
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 23
+      name: timezone_offset_11
+      label: timezone_offset_11
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 24
+      name: timezone_offset_12
+      label: timezone_offset_12
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false
+    - id: 25
+      name: timezone_offset_13
+      label: timezone_offset_13
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 0}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: false

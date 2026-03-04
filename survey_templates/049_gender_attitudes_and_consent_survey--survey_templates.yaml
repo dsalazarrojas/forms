@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Attitudes And Consent Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender_roles
+      label: Gender Roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_in_public_life
+      label: Role In Public Life
+      hint: null
+      type: select_multiple
+      options:
+      - Very Low
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 6
+      name: role_in_private_life
+      label: Role In Private Life
+      hint: null
+      type: select_multiple
+      options:
+      - Very Low
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 7
+      name: attitudes_towards_gender
+      label: Attitudes Towards Gender
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Non-traditional
+      - Neither
+      required: false
+    - id: 8
+      name: attitudes_towards_consent
+      label: Attitudes Towards Consent
+      hint: null
+      type: select_one
+      options:
+      - Forced
+      - Expected
+      - Not Expected
+      required: false
+    - id: 9
+      name: feelings_towards_self_and_other_gender
+      label: Feelings Towards Self and Other Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Very Negative
+      - Negative
+      - Neutral
+      - Positive
+      - Very Positive
+      required: false
+    - id: 10
+      name: feelings_towards_men_and_women
+      label: Feelings Towards Men and Women
+      hint: null
+      type: select_multiple
+      options:
+      - Very Negative
+      - Negative
+      - Neutral
+      - Positive
+      - Very Positive
+      required: false
+    - id: 11
+      name: beliefs_in_society
+      label: Beliefs in Society
+      hint: null
+      type: select_multiple
+      options:
+      - Very Traditional
+      - Traditional
+      - Neither
+      - Non-traditional
+      - Very Non-traditional
+      required: false
+    - id: 12
+      name: beliefs_in_school
+      label: Beliefs In School
+      hint: null
+      type: select_multiple
+      options:
+      - Very Low
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false

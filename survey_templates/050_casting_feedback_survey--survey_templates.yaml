@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Casting Feedback Survey
+    pages:
+      - id: 1
+        name: survey_header_section
+        label: -- Survey Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: audition_date
+        label: Audition Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: production_title
+        label: Production Title
+        hint: Name of film, show, or project
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: performer_information_section
+        label: -- Performer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: performer_name
+        label: Performer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: role_auditioned
+        label: Role Auditioned For
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: casting_feedback_section
+        label: -- Casting Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: professional_presentation
+        label: Professional Presentation and Appearance
+        hint: Overall presentation during audition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: acting_ability
+        label: Acting Ability and Performance
+        hint: Skill level demonstrated
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: character_fit
+        label: Fit for Requested Role
+        hint: Suitability for the character
+        type: select_one
+        options:
+          - Excellent Match
+          - Good Match
+          - Acceptable
+          - Fair Match
+          - Poor Match
+        required: true
+      - id: 12
+        name: direction_following
+        label: Ability to Take Direction
+        hint: Response to feedback during audition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: range_versatility
+        label: Range and Versatility
+        hint: Demonstrated emotional range
+        type: select_one
+        options:
+          - Strong
+          - Good
+          - Adequate
+          - Limited
+          - Poor
+        required: true
+      - id: 14
+        name: personality_section
+        label: -- Personality and Professionalism --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: professionalism
+        label: Professionalism and Demeanor
+        hint: Attitude and behavior during audition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: punctuality
+        label: Punctuality and Preparedness
+        hint: Arrival time and material preparation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: collaboration_potential
+        label: Collaboration and Team Potential
+        hint: Ability to work with others
+        type: select_one
+        options:
+          - Strong
+          - Good
+          - Average
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: decision_section
+        label: -- Casting Decision --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: casting_recommendation
+        label: Casting Recommendation
+        hint: null
+        type: select_one
+        options:
+          - Strong Consider - Offer Role
+          - Consider - Callback
+          - Maybe - Keep on File
+          - Do Not Consider
+          - Consider for Different Role
+        required: true
+      - id: 20
+        name: callback_interest
+        label: Would you recommend for callback?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Yes, possibly"
+          - "No"
+        required: true
+      - id: 21
+        name: alternative_roles
+        label: Suitable for Alternative Roles?
+        hint: Other characters they could play
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: feedback_section
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: strengths
+        label: Key Strengths Observed
+        hint: Positive attributes to note
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: development_areas
+        label: Areas for Development
+        hint: Constructive suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: general_comments
+        label: General Comments or Notes
+        hint: Any additional observations
+        type: text
+        options: []
+        required: false

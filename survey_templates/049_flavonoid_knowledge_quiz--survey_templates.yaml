@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flavonoid Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What are flavonoids?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: What are the main food sources of flavonoids?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: What are the benefits of flavonoids?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: Which of the following are benefits of flavonoids?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Health benefits'', ''value'': ''Health benefits''}'
+      - '{''id'': 2, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: question_5
+      label: Which of the following are sources of flavonoids?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fruits'', ''value'': ''Fruits''}'
+      - '{''id'': 2, ''label'': ''Vegetables'', ''value'': ''Vegetables''}'
+      - '{''id'': 3, ''label'': ''Tea'', ''value'': ''Tea''}'
+      required: false
+    - id: 7
+      name: question_6
+      label: How often do you consume flavonoids?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Occasionally'', ''value'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      - '{''id'': 4, ''label'': ''Never'', ''value'': ''Never''}'
+      required: false
+    - id: 8
+      name: question_7
+      label: How would you rate your knowledge of flavonoids?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''None'', ''value'': ''None''}'
+      required: false
+    - id: 9
+      name: date_of_completion
+      label: Date of completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_completion
+      label: Time of completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

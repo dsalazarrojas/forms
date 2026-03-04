@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: internship_supervisor_evaluation_form
+    pages:
+    - id: 1
+      name: supervisor_name
+      label: supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_submission
+      label: date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_employment
+      label: date of employment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_period
+      label: evaluation period
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_signature
+      label: supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Risk Management Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_areas
+      label: What are the risk areas you are concerned about?
+      hint: null
+      type: select_multiple
+      options:
+      - Risk of Injury
+      - Financial Risk
+      - Risk to Others
+      - Cyber Risk
+      required: false
+    - id: 3
+      name: staff_awareness
+      label: Are your staff members aware of these risk areas?
+      hint: null
+      type: select_one
+      options:
+      - Fully
+      - Partially
+      - Not at all
+      required: true
+    - id: 4
+      name: current_protocols
+      label: Are your current protocols and procedures up-to-date?
+      hint: null
+      type: select_one
+      options:
+      - Fully
+      - Partially
+      - Not at all
+      required: true
+    - id: 5
+      name: safety_and_quality
+      label: How do you prioritize safety and quality improvements?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

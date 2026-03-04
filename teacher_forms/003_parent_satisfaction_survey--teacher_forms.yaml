@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Satisfaction Survey
+    pages:
+    - id: 1
+      name: parent_program_rating
+      label: Parent Program Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What do you think of the educational program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_satisfaction
+      label: Parent Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: false

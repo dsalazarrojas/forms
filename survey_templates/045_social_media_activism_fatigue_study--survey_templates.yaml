@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_activism_fatigue_study
+    pages:
+    - id: 1
+      name: survey_participation
+      label: how_do_you_use_facebook
+      hint: null
+      type: select_one
+      options:
+      - I use Facebook to stay informed about current events
+      - I use Facebook to connect with friends
+      - I use Facebook to find new job opportunities
+      required: true
+    - id: 2
+      name: emotional_state
+      label: how_did_you_feel_before_using_facebook_last_week
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: emotional_state_after
+      label: how_did_you_feel_after_using_facebook_last_week
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: survey_participation_frequency
+      label: how_often_do_you_use_facebook
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      - never
+      required: true
+    - id: 5
+      name: engagement_mechanism
+      label: what_motivates_you_to_engage_with_social_media
+      hint: null
+      type: select_one
+      options:
+      - boring_content
+      - interesting_content
+      - engaging_content
+      - emotional_content
+      - other_reasons
+      required: true
+    - id: 6
+      name: activism_content
+      label: what_type_of_content_motivates_you_to_engage_with_social_media
+      hint: null
+      type: select_multiple
+      options:
+      - activism_content
+      - non_activism_content
+      - ads
+      - political_content
+      required: true
+    - id: 7
+      name: fatigue_level
+      label: on_a_scale_of_1_to_10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: survey_participation_reasons
+      label: why_do_you_participate_in_this_study
+      hint: null
+      type: select_one
+      options:
+      - to_understand_more_about_social_media
+      - to_gain_insight_into_your_own_behavior
+      - to_provide_valuable_data
+      - other_reasons
+      required: true
+    - id: 9
+      name: social_media_platforms
+      label: which_social_media_platforms_do_you_use
+      hint: null
+      type: select_multiple
+      options:
+      - facebook
+      - instagram
+      - twitter
+      - reddit
+      - tiktok
+      required: true
+    - id: 10
+      name: survey_participation_duration
+      label: how_long_do_you_plan_to_participate
+      hint: null
+      type: select_multiple
+      options:
+      - 5_minutes
+      - 10_minutes
+      - 15_minutes
+      - 30_minutes
+      - more_than_30_minutes
+      required: true
+    - id: 11
+      name: survey_participation_frequency_2
+      label: how_often_do_you_participate_in_social_media
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      - never
+      required: true
+    - id: 12
+      name: engagement_mechanism_2
+      label: what_motivates_you_to_engage_with_social_media_2
+      hint: null
+      type: select_one
+      options:
+      - boring_content
+      - interesting_content
+      - engaging_content
+      - emotional_content
+      - other_reasons
+      required: true
+    - id: 13
+      name: fatigue_level_2
+      label: on_a_scale_of_1_to_10_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: survey_participation_reasons_2
+      label: why_do_you_participate_in_this_study_2
+      hint: null
+      type: select_one
+      options:
+      - to_understand_more_about_social_media
+      - to_gain_insight_into_your_own_behavior
+      - to_provide_valuable_data
+      - other_reasons
+      required: true
+    - id: 15
+      name: social_media_platforms_2
+      label: which_social_media_platforms_do_you_use_2
+      hint: null
+      type: select_multiple
+      options:
+      - facebook
+      - instagram
+      - twitter
+      - reddit
+      - tiktok
+      required: true
+    - id: 16
+      name: survey_participation_duration_2
+      label: how_long_do_you_plan_to_participate_2
+      hint: null
+      type: select_multiple
+      options:
+      - 5_minutes
+      - 10_minutes
+      - 15_minutes
+      - 30_minutes
+      - more_than_30_minutes
+      required: true
+    - id: 17
+      name: survey_participation_report
+      label: will_your_results_be_shared_with_others
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 18
+      name: survey_participation_surveyor
+      label: how_do_you_prefer_your_survey_results_to_be_delivered
+      hint: null
+      type: select_one
+      options:
+      - email
+      - text_message
+      required: true
+    - id: 19
+      name: survey_participation_surveyor_2
+      label: how_do_you_prefer_your_results_to_be_delivered_2
+      hint: null
+      type: select_one
+      options:
+      - email
+      - text_message
+      required: true
+    - id: 20
+      name: thank_you
+      label: Thank You
+      hint: null
+      type: note
+      options: []
+      required: true

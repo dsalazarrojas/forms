@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Health Assessment
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_duration
+      label: How Long Have You Been a Member?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 semester
+      - 1-2 semesters
+      - 1-2 years
+      - 2-4 years
+      - 4+ years
+      required: true
+    - id: 4
+      name: participation_level
+      label: Level of Participation
+      hint: How active are you in the club?
+      type: select_one
+      options:
+      - Very active - officer or leadership
+      - Active - regular attendee
+      - Somewhat active - occasional events
+      - Minimal - rarely attend
+      required: true
+    - id: 5
+      name: section_engagement
+      label: -- Member Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sense_of_belonging
+      label: Sense of Belonging in Club
+      hint: Rate from 1 (no belonging) to 5 (strong belonging)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: feel_valued
+      label: Feel Valued as a Member
+      hint: Rate from 1 (not valued) to 5 (highly valued)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: opportunities_involvement
+      label: Opportunities for Involvement and Leadership
+      hint: Rate from 1 (limited) to 5 (abundant)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: member_retention
+      label: Likelihood to Remain a Member Next Year
+      hint: Rate from 1 (unlikely) to 5 (very likely)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_communication
+      label: -- Communication and Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_quality
+      label: Quality of Club Communication
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: informed_updates
+      label: Kept Informed About Club Activities
+      hint: Rate from 1 (not informed) to 5 (very informed)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: feedback_heard
+      label: Feel Your Voice is Heard
+      hint: Rate from 1 (not heard) to 5 (fully heard)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_inclusion
+      label: -- Inclusion and Diversity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: inclusive_environment
+      label: Club is Inclusive and Welcoming
+      hint: Rate from 1 (not inclusive) to 5 (very inclusive)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: diversity_representation
+      label: Diversity Well-Represented
+      hint: Rate from 1 (not diverse) to 5 (very diverse)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: safe_environment
+      label: Safe and Respectful Environment
+      hint: Rate from 1 (not safe) to 5 (very safe)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_leadership
+      label: -- Leadership and Direction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: leadership_effectiveness
+      label: Leadership Effectiveness
+      hint: Rate from 1 (ineffective) to 5 (very effective)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: clear_direction
+      label: Club Has Clear Goals and Direction
+      hint: Rate from 1 (not clear) to 5 (very clear)
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_concerns
+      label: -- Concerns and Improvement Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: main_concerns
+      label: Main Concerns About Club Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: needed_improvements
+      label: Most Important Improvements Needed
+      hint: What would strengthen the club?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suggestions
+      label: Additional Suggestions or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

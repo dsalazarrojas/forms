@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipality Transition Plan Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your feedback on our transition plan?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: concerns
+      label: What are your concerns about our transition plan?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: readiness
+      label: How ready do you feel about our transition plan?
+      hint: null
+      type: select_one
+      options:
+      - Very Unprepared
+      - Somewhat Prepared
+      - Neutral
+      - Somewhat Unprepared
+      - Very Prepared
+      required: true
+    - id: 4
+      name: improvement_ideas
+      label: What ideas do you have to improve our transition plan?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information so we can follow up with you.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: A good contact email is required.
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: A good contact phone number is required.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

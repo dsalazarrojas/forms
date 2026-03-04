@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_family_event_attendance_form
+    pages:
+    - id: 1
+      name: family_event_details
+      label: family_event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 5
+      name: attendee_relationships
+      label: attendee_relationships
+      hint: null
+      type: select_one
+      options:
+      - parent
+      - sibling
+      - parent_and_sibling
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendance_confirmed
+      label: attendance_confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: false
+    - id: 10
+      name: attendance_comments
+      label: attendance_comments
+      hint: null
+      type: note
+      options: []
+      required: false

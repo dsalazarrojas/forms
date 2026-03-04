@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frequency Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: habits
+      label: habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: routines
+      label: routines
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wellbeing
+      label: wellbeing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency_assessment
+      label: frequency-assessment
+      hint: null
+      type: number
+      options: []
+      required: false

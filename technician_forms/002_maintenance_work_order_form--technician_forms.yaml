@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Work Order Form
+    pages:
+    - id: 1
+      name: maintenance_work_order_form
+      label: maintenance_work_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_id
+      label: job_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - equipment_id
+      - maintenance_type_2
+      - maintenance_type_3
+      required: false
+    - id: 6
+      name: maintenance_type_2
+      label: maintenance_type_2
+      hint: null
+      type: select_one
+      options:
+      - maintenance_type_2
+      - maintenance_type_3
+      - maintenance_type_4
+      required: false
+    - id: 7
+      name: maintenance_type_3
+      label: maintenance_type_3
+      hint: null
+      type: select_one
+      options:
+      - maintenance_type_2
+      - maintenance_type_3
+      - maintenance_type_4
+      required: false
+    - id: 8
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_cost
+      label: maintenance_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_technician
+      label: assigned_technician
+      hint: null
+      type: select_one
+      options:
+      - assigned_technician_1
+      - assigned_technician_2
+      - assigned_technician_3
+      required: false
+    - id: 13
+      name: assigned_technician_1
+      label: assigned_technician_1
+      hint: null
+      type: select_one
+      options:
+      - assigned_technician_1
+      - assigned_technician_2
+      - assigned_technician_3
+      required: false
+    - id: 14
+      name: assigned_technician_2
+      label: assigned_technician_2
+      hint: null
+      type: select_one
+      options:
+      - assigned_technician_1
+      - assigned_technician_2
+      - assigned_technician_3
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - submitted_by_1
+      - submitted_by_2
+      - submitted_by_3
+      required: false
+    - id: 16
+      name: submitted_by_1
+      label: submitted_by_1
+      hint: null
+      type: select_one
+      options:
+      - submitted_by_1
+      - submitted_by_2
+      - submitted_by_3
+      required: false
+    - id: 17
+      name: submitted_by_2
+      label: submitted_by_2
+      hint: null
+      type: select_one
+      options:
+      - submitted_by_1
+      - submitted_by_2
+      - submitted_by_3
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      - status_3
+      required: false
+    - id: 19
+      name: status_1
+      label: status_1
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      - status_3
+      required: false
+    - id: 20
+      name: status_2
+      label: status_2
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      - status_3
+      required: false
+    - id: 21
+      name: equipment_serial_number
+      label: equipment_serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: equipment_description_2
+      label: equipment_description_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_type_4
+      label: maintenance_type_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false

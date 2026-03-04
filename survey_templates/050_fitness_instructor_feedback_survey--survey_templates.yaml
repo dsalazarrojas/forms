@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Instructor Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_date
+      label: Program Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_level
+      label: Program Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: instructor_rating
+      label: Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_experience
+      label: Instructor Experience
+      hint: 'Format: Number of years'
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - Bootcamp
+      - Private Session
+      - Group Session
+      required: false
+    - id: 12
+      name: instructor_satisfaction
+      label: Instructor Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 13
+      name: instructor_comments
+      label: Comments
+      hint: Comments about the instructor
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 15
+      name: instructor_phone
+      label: Phone Number
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: instructor_email
+      label: Email
+      hint: 'Format: jimmy@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: instructor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

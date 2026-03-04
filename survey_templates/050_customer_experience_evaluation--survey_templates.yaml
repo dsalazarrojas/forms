@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Experience Evaluation
+    pages:
+    - id: 1
+      name: form_1_name
+      label: Customer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_2_title
+      label: Customer Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_3_name
+      label: Rating 1 - 5
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: form_4_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: form_5_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6_name
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

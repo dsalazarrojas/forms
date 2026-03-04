@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: guess_the_value_challenge
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_guess
+      label: Teacher Guess
+      hint: Enter your guess
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_guess
+      label: Team Guess
+      hint: Enter your guess
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teacher_reasoning
+      label: Teacher Reasoning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_reasoning
+      label: Team Reasoning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_contact_email
+      label: Teacher Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: team_contact_email
+      label: Team Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: teacher_contact_phone
+      label: Teacher Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_contact_phone
+      label: Team Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_reason
+      label: Teacher Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_reason
+      label: Team Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_comments
+      label: Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teacher_consent
+      label: Teacher Consent
+      hint: null
+      type: select_one
+      options:
+      - I am a teacher.
+      - I am a team leader.
+      - Other
+      required: true
+    - id: 17
+      name: team_consent
+      label: Team Consent
+      hint: null
+      type: select_one
+      options:
+      - I am a team leader.
+      - I am a team member.
+      - Other
+      required: true
+    - id: 18
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

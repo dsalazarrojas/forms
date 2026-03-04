@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Satisfaction Survey Template
+    pages:
+    - id: 1
+      name: survey_title
+      label: How would you rate your overall satisfaction with our gym?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: question_1
+      label: How often do you visit our gym?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: question_2
+      label: On a scale of 1-10, how likely are you to recommend us to a friend or
+        family member?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: question_3
+      label: Which of the following best describes your experience with us?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: question_4
+      label: What can we improve on to make your experience even better?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: question_5
+      label: What would you like to see us improve on?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: question_6
+      label: How would you rate our customer service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: question_7
+      label: How would you rate the cleanliness of our gym?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: question_8
+      label: How often do you visit other facilities?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 10
+      name: question_9
+      label: How often do you visit other gyms?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 11
+      name: question_10
+      label: What would you like to see us do better on?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: How can we contact you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: question_13
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: question_14
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question_16
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: question_17
+      label: How long have you been a member?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: question_18
+      label: How often do you visit our events?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 19
+      name: question_19
+      label: How often do you invite friends or family members to join?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 20
+      name: question_20
+      label: How often do you refer friends or family members to us?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 21
+      name: question_21
+      label: How often do you share us on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 22
+      name: question_22
+      label: How would you rate your experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question_23
+      label: How likely are you to join another club or gym?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: question_24
+      label: What is the reason for this visit?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 25
+      name: question_25
+      label: Additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

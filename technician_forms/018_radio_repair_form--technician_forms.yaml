@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radio Repair Form
+    pages:
+    - id: 1
+      name: radio_repair_form
+      label: Radio Repair Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: radio_type
+      label: Radio Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''radio'', ''label'': ''Radio''}'
+      - '{''value'': ''tv'', ''label'': ''TV''}'
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: repair_method
+      label: Repair Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''cash'', ''label'': ''Cash''}'
+      - '{''value'': ''credit'', ''label'': ''Credit''}'
+      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technician_comment
+      label: Technician Comment
+      hint: null
+      type: text
+      options: []
+      required: false

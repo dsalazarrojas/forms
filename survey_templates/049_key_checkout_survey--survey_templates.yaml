@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Checkout Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: welcome_to_key_checkout_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - address
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_info
+      label: email_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

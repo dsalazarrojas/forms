@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Engagement Survey
+    pages:
+    - id: 1
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: engagement
+      label: Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Product Launch Consumer Behavior Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: product_page
+      label: Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: behavior_page
+      label: Behavior
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: launch_page
+      label: Launch
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: feedback_page
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments_page
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_page
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_page
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 11
+      name: other_page
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: open_ended_question_page
+      label: Open-ended Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: open_ended_answers_page
+      label: Open-ended Answers
+      hint: null
+      type: text
+      options: []
+      required: false

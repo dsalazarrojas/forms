@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Co Evaluation Feedback Survey
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Your Name
+      hint: Person providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project or Team Name
+      hint: What collaboration are you evaluating
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: collaborator_name
+      label: Collaborator Being Evaluated
+      hint: Person you are rating
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: collaboration_period
+      label: Collaboration Period
+      hint: Duration of working together
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: communication_rating
+      label: Communication Skills
+      hint: Rate collaboration communication
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: reliability_rating
+      label: Reliability and Dependability
+      hint: Rate their dependability
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: teamwork_rating
+      label: Teamwork and Cooperation
+      hint: Rate teamwork ability
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 10
+      name: problem_solving_rating
+      label: Problem-Solving Contribution
+      hint: Rate problem-solving skills
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: initiative_rating
+      label: Initiative and Proactivity
+      hint: Rate their initiative
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: quality_work_rating
+      label: Quality of Work
+      hint: Rate work quality
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 13
+      name: conflict_management
+      label: Conflict Resolution and Maturity
+      hint: How do they handle disagreements
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 14
+      name: strengths_list
+      label: Key Strengths as a Collaborator
+      hint: What are their main strengths
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could they improve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recommend_collaboration
+      label: Recommend for Future Collaboration
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Yes
+      - Maybe
+      - No
+      - Definitely Not
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Work Order Form
+    pages:
+    - id: 1
+      name: service_work_order_form_page_1
+      label: Service Work Order
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_type_options
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: technician_info
+      label: Technician Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_service
+      label: Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_service
+      label: Time Of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location_of_service
+      label: Location Of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: service_status_options
+      label: Service Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Installation Check Form
+    pages:
+    - id: 1
+      name: installation_check_form
+      label: check_equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''bad''}'
+      required: false
+    - id: 2
+      name: installation_location
+      label: installation_location
+      hint: Enter the location where the equipment is to be installed
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: installation_notes
+      label: installation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: check_systems
+      label: check_systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''system1''}'
+      - '{''value'': ''system2''}'
+      - '{''value'': ''system3''}'
+      required: false
+    - id: 5
+      name: check_services
+      label: check_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''service1''}'
+      - '{''value'': ''service2''}'
+      - '{''value'': ''service3''}'
+      required: false
+    - id: 6
+      name: system_requirements
+      label: system_requirements
+      hint: Enter the number of systems that need to be installed
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_requirements
+      label: service_requirements
+      hint: Enter the number of services that need to be installed
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: equipment_installed
+      label: equipment_installed
+      hint: Enter the number of pieces of equipment installed
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: system_installed
+      label: system_installed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''system1''}'
+      - '{''value'': ''system2''}'
+      - '{''value'': ''system3''}'
+      required: false
+    - id: 10
+      name: service_installed
+      label: service_installed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''service1''}'
+      - '{''value'': ''service2''}'
+      - '{''value'': ''service3''}'
+      required: false
+    - id: 11
+      name: date_installed
+      label: date_installed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_installed
+      label: time_installed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: check_date
+      label: check_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: check_time
+      label: check_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: installation_status
+      label: installation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 16
+      name: check_status
+      label: check_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 17
+      name: check_date_status
+      label: check_date_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 18
+      name: installation_check_notes
+      label: installation_check_notes
+      hint: Enter notes about the installation
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_installed_notes
+      label: equipment_notes
+      hint: Enter notes about the equipment installed
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Services Customer Satisfaction Survey
+    pages:
+    - id: 1
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Installation
+      - Repair
+      - Maintenance
+      required: true
+    - id: 6
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question
+      label: Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

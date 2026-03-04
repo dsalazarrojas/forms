@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair Repair Form
+    pages:
+    - id: 1
+      name: wheelchair_repair_form
+      label: wheelchair_repair_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: wheelchair_type
+      label: wheelchair_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Standard'', ''text'': ''Standard''}'
+      - '{''value'': ''Recliner'', ''text'': ''Recliner''}'
+      - '{''value'': ''Manual'', ''text'': ''Manual''}'
+      required: true
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: repair_type
+      label: repair_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Minor'', ''text'': ''Minor''}'
+      - '{''value'': ''Major'', ''text'': ''Major''}'
+      - '{''value'': ''Maintenance'', ''text'': ''Maintenance''}'
+      required: true
+    - id: 6
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress'', ''text'': ''In Progress''}'
+      - '{''value'': ''Complete'', ''text'': ''Complete''}'
+      - '{''value'': ''Pending'', ''text'': ''Pending''}'
+      - '{''value'': ''Cancel'', ''text'': ''Cancel''}'
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

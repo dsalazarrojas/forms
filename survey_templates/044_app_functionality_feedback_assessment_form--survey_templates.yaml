@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Functionality Feedback Assessment Form
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: user_name
+        label: User name
+        hint: Optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: user_id
+        label: User ID
+        hint: Account identifier
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: app_name
+        label: App being assessed
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: app_version
+        label: App version
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: user_level
+        label: User level
+        hint: null
+        type: select_one
+        options:
+          - Free user
+          - Paid subscriber
+          - Premium member
+          - Enterprise user
+          - Administrator
+        required: true
+      - id: 8
+        name: core_functionality_rating
+        label: Core functionality rating
+        hint: Does the app do what it is designed to do
+        type: select_one
+        options:
+          - Excellent - fully functional
+          - Good - mostly functional
+          - Fair - partially functional
+          - Poor - significant issues
+          - Not functional
+        required: true
+      - id: 9
+        name: feature_completeness
+        label: Feature completeness
+        hint: Are all advertised features available
+        type: select_one
+        options:
+          - All features present
+          - Most features present
+          - Some features missing
+          - Many features missing
+          - Significantly incomplete
+        required: true
+      - id: 10
+        name: responsiveness_rating
+        label: App responsiveness
+        hint: How quickly does the app respond to actions
+        type: select_one
+        options:
+          - Excellent - instant response
+          - Good - quick response
+          - Fair - some delays
+          - Poor - noticeable delays
+          - Very slow - frustrating
+        required: true
+      - id: 11
+        name: crash_frequency
+        label: App crash frequency
+        hint: null
+        type: select_one
+        options:
+          - Never crashes
+          - Rarely crashes
+          - Occasionally crashes
+          - Frequently crashes
+          - Constantly crashes
+        required: true
+      - id: 12
+        name: crash_details
+        label: If crashes occur, describe situations
+        hint: When and why it crashes
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: bugs_encountered
+        label: Bugs or errors encountered
+        hint: null
+        type: select_one
+        options:
+          - No bugs found
+          - Occasional minor bugs
+          - Occasional significant bugs
+          - Frequent bugs
+          - Numerous critical bugs
+        required: true
+      - id: 14
+        name: bug_description
+        label: Describe the bugs you encountered
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: data_accuracy
+        label: Data accuracy and integrity
+        hint: Is the data reliable and correct
+        type: select_one
+        options:
+          - Excellent - always accurate
+          - Good - mostly accurate
+          - Fair - some inaccuracies
+          - Poor - frequent errors
+          - Cannot rely on the data
+        required: true
+      - id: 16
+        name: sync_reliability
+        label: Synchronization between devices
+        hint: If applicable
+        type: select_one
+        options:
+          - Syncs perfectly
+          - Usually syncs
+          - Syncs inconsistently
+          - Rarely syncs correctly
+          - Does not sync
+          - N/A
+        required: false
+      - id: 17
+        name: offline_functionality
+        label: Offline functionality
+        hint: If applicable
+        type: select_one
+        options:
+          - Works well offline
+          - Mostly works offline
+          - Limited offline capability
+          - Requires internet connection
+          - N/A
+        required: false
+      - id: 18
+        name: integration_quality
+        label: Integration with other services
+        hint: If applicable
+        type: select_one
+        options:
+          - Integrations work flawlessly
+          - Integrations mostly work
+          - Some integration issues
+          - Multiple integration problems
+          - Integrations do not work
+          - N/A
+        required: false
+      - id: 19
+        name: functionality_satisfaction
+        label: Overall satisfaction with app functionality
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 20
+        name: likely_continue_use
+        label: Likely to continue using this app
+        hint: null
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Uncertain
+          - Unlikely
+          - Very unlikely
+        required: true

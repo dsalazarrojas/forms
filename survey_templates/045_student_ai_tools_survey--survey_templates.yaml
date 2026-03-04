@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student AI Tools Survey
+    pages:
+    - id: 1
+      name: student_ai_tools_survey_page_1
+      label: student_aitools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ai_tools_used
+      label: student_aitools_used
+      hint: null
+      type: select_one
+      options:
+      - google_app
+      - microsoft_office
+      - other
+      required: true
+    - id: 3
+      name: tool_satisfaction
+      label: student_aitool_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: future_interest
+      label: student_aitool_future_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - not sure
+      required: true
+    - id: 5
+      name: note
+      label: student_aitool_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ai_tools_survey_comments
+      label: student_aitoolscomments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_school
+      label: student_school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tool_rating
+      label: student_tool_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_aitool_other
+      label: student_aitool_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_aitool_other_comments
+      label: student_aitool_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_aitools_other_info
+      label: student_aitoolsotherinfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_interest
+      label: student_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_aitool_other_interest
+      label: student_aitool_other_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_aidiscovery
+      label: student_aidiscovery
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: student_aidiscovery_other
+      label: student_aidiscovery_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: student_aitool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - other
+      required: true
+    - id: 22
+      name: date_created
+      label: student_date_created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time
+      label: student_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: date_completed
+      label: student_date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: time_completed
+      label: student_time_completed
+      hint: null
+      type: time
+      options: []
+      required: false

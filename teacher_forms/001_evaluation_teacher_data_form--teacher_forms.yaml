@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evaluation Teacher Data Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_grade
+      label: School Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Activity Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_level
+      label: Physical activity level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 6
+      name: availability_monday
+      label: Available on Monday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: availability_tuesday
+      label: Available on Tuesday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: availability_wednesday
+      label: Available on Wednesday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: availability_thursday
+      label: Available on Thursday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: availability_friday
+      label: Available on Friday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: availability_saturday
+      label: Available on Saturday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: availability_sunday
+      label: Available on Sunday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: availability_other
+      label: Available on other days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: earliest_available_time
+      label: What time of the day do you prefer to be active?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time_of_day
+      label: Preferred time of the day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: earliest_available_time_of_week
+      label: What time of the week do you prefer to be active?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: preferred_time_of_week
+      label: Preferred time of the week
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: availability_notes
+      label: Availability notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: availability_comments
+      label: Availability comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Club Re Opening Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What services do you want to offer
+      hint: null
+      type: select_multiple
+      options:
+      - Gym
+      - Group Fitness Classes
+      - Personal Training
+      - Nutrition Counseling
+      - Spas
+      required: true
+    - id: 2
+      name: page_2
+      label: What type of membership do you offer
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Quarterly
+      - One-Time Pass
+      required: true
+    - id: 3
+      name: page_3
+      label: How long has your fitness club been closed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: page_4
+      label: What is the re opening date for your fitness club
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: page_5
+      label: How will you communicate the opening with your customers
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - News letter
+      - Phone call
+      - Email
+      - Other
+      - None
+      required: false
+    - id: 6
+      name: page_6
+      label: Will you have a grand opening event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: page_7
+      label: How do you plan to handle membership payments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: What is the membership fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: page_9
+      label: Is there a free trial period available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: page_10
+      label: How do you plan to handle customer feedback
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: page_11
+      label: Do you have a fitness director or manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: page_12
+      label: Is there a waiting list for membership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: page_13
+      label: Is there a waiting list duration
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 week
+      - 4 weeks
+      - 6 weeks
+      - 1 month
+      - 2 months
+      required: false
+    - id: 14
+      name: page_14
+      label: What is the waiting list duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: page_15
+      label: Will you have any staff on site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: page_16
+      label: How many people work at the club on weekdays
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: page_17
+      label: How many people work at the club on weekends
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: page_18
+      label: What time do they work on weekdays
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: page_19
+      label: What time do they work on weekends
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: page_20
+      label: Is your club open on weekdays
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: page_21
+      label: Is your club open on weekends
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: page_21
+      label: Is your club open on holidays
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: page_21
+      label: Is your club open during special events
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: page_25
+      label: Any other information
+      hint: null
+      type: text
+      options: []
+      required: false

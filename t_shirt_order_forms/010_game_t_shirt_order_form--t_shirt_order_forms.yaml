@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game T Shirt Order Form
+    pages:
+    - id: 1
+      name: t_shirt_size
+      label: t shirt size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 2
+      name: t_shirt_color
+      label: t shirt color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 3
+      name: t_shirt_quantity
+      label: t shirt quantity
+      hint: null
+      type: number
+      options: []
+      required: false

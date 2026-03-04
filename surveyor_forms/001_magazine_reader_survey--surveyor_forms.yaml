@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: magazine_reader_survey
+    pages:
+    - id: 1
+      name: magazine_reader_survey_page_1
+      label: what_is_your_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: magazine_reader_survey_page_2
+      label: are_you_a_member
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 3
+      name: magazine_reader_survey_page_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: magazine_reader_survey_page_4
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: magazine_reader_survey_page_5
+      label: what_is_your_occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: magazine_reader_survey_page_6
+      label: how_did_you_find_out_about_this_survey
+      hint: null
+      type: select_one
+      options:
+      - social_media
+      - email
+      - friend
+      - other
+      required: false
+    - id: 7
+      name: magazine_reader_survey_page_7
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: magazine_reader_survey_page_8
+      label: agree_with_the_following_statements
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 9
+      name: magazine_reader_survey_page_9
+      label: do_you_like_to_receive_emails
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 10
+      name: magazine_reader_survey_page_10
+      label: would_you_like_to_participate_in_an_online_discussion
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 11
+      name: magazine_reader_survey_page_11
+      label: would_you_like_to_meet_in_person
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 12
+      name: magazine_reader_survey_page_12
+      label: have_you_participated_in_an_online_discussion_in_the_past
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 13
+      name: magazine_reader_survey_page_13
+      label: what_was_the_most_interesting_thing_you_learned_from_the_previous_online_discussion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: magazine_reader_survey_page_14
+      label: would_you_like_to_share_with_us_your_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 15
+      name: magazine_reader_survey_page_15
+      label: what_would_you_like_us_to_cover_in_the_next_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: magazine_reader_survey_page_16
+      label: what_are_your_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: magazine_reader_survey_page_17
+      label: how_long_did_it_take_to_complete_this_survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: magazine_reader_survey_page_18
+      label: what_is_your_agreeable_to_be_in_contact_with
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 19
+      name: magazine_reader_survey_page_19
+      label: how_did_you_hear_about_us
+      hint: null
+      type: select_one
+      options:
+      - social_media
+      - email
+      - friend
+      - other
+      required: false
+    - id: 20
+      name: magazine_reader_survey_page_20
+      label: do_you_like_to_follow_us
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 21
+      name: magazine_reader_survey_page_21
+      label: do_you_have_a_website
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 22
+      name: magazine_reader_survey_page_22
+      label: do_you_have_social_media_accounts
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 23
+      name: magazine_reader_survey_page_23
+      label: how_oftean_do_you_check_your_email
+      hint: null
+      type: select_one
+      options:
+      - less_than_once_a_day
+      - less_than_once_a_week
+      - less_than_once_a_month
+      - more_than_once_a_month
+      - more_than_once_a_week
+      required: false
+    - id: 24
+      name: magazine_reader_survey_page_24
+      label: what_is_your_gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 25
+      name: magazine_reader_survey_page_25
+      label: what_is_your_income
+      hint: null
+      type: number
+      options: []
+      required: false

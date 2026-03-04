@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_repair_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_type
+      label: phone_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''iPhone''}'
+      - '{''label'': ''Samsung''}'
+      - '{''label'': ''Android''}'
+      required: false
+    - id: 4
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Done''}'
+      required: false
+    - id: 6
+      name: service_center
+      label: service_center
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: technician
+      label: technician
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

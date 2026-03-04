@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Billing Course Review Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: 'example: user@example.com'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - General Practice
+      - Surgery
+      - Cardiology
+      required: false
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: course_feedback
+      label: Course Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: text
+      options: []
+      required: false

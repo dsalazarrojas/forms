@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Logistics Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location_of_event
+      label: Location of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: team_performance
+      label: Team Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: time
+      options: []
+      required: false

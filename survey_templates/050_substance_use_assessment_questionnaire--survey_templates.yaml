@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: substance_use_assessment_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tobacco_use
+      label: Tobacco Use
+      hint: How often do you use tobacco?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Very Often
+      required: false
+    - id: 4
+      name: drug_use
+      label: Drug Use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Very Often
+      required: false
+    - id: 5
+      name: other_substance_use
+      label: Other Substance Use
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Tobacco
+      - Alcohol
+      - Drugs
+      required: false
+    - id: 6
+      name: mental_health_concerns
+      label: Mental Health Concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: substance_use_frequency
+      label: Substance Use Frequency
+      hint: How often do you use substances?
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: substance_use_frequency_past_month
+      label: Substance Use Frequency Past Month
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: substance_use_frequency_past_year
+      label: Substance Use Frequency Past Year
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Very Often
+      required: false
+    - id: 11
+      name: substance_use_frequency_last_year
+      label: Substance Use Frequency Last Year
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Very Often
+      required: false

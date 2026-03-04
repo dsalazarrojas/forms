@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Information Form
+    pages:
+    - id: 1
+      name: course_selection
+      label: Select A Course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: course_instructor
+      label: Course Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_location
+      label: Course Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_details
+      label: Course Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

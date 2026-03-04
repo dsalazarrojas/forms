@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earnings Improvement Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: income_goal
+      label: What is your income goal
+      hint: null
+      type: select_one
+      options:
+      - $30,000 - $40,000
+      - $40,000 - $50,000
+      - $50,000 - $60,000
+      - Other
+      required: false
+    - id: 5
+      name: income_source
+      label: Income source
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Investments
+      - Other
+      - Business
+      - Government assistance
+      required: false
+    - id: 6
+      name: income_frequency
+      label: How often do you make money
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Biweekly
+      - Daily
+      required: false
+    - id: 7
+      name: income_certainty
+      label: How certain are you about your income
+      hint: null
+      type: select_one
+      options:
+      - 0-20%
+      - 21-40%
+      - 41-60%
+      - 61-80%
+      - 81-100%
+      required: false
+    - id: 8
+      name: income_savings
+      label: Do you save for the future?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 9
+      name: income_debt
+      label: Do you have debt?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 10
+      name: credit_score
+      label: What is your credit score?
+      hint: null
+      type: select_one
+      options:
+      - 300-399
+      - 400-499
+      - 500-599
+      - 600-699
+      - 700-799
+      required: false
+    - id: 11
+      name: income_stability
+      label: How stable is your income?
+      hint: null
+      type: select_multiple
+      options:
+      - Very stable
+      - Somewhat stable
+      - Somewhat unstable
+      - Very unstable
+      required: false
+    - id: 12
+      name: income_security
+      label: Do you feel secure about your income?
+      hint: null
+      type: select_multiple
+      options:
+      - Very secure
+      - Somewhat secure
+      - Somewhat insecure
+      - Very insecure
+      required: false
+    - id: 13
+      name: income_certainty_2
+      label: How certain are you about your income?
+      hint: null
+      type: select_one
+      options:
+      - 0-20%
+      - 21-40%
+      - 41-60%
+      - 61-80%
+      - 81-100%
+      required: false
+    - id: 14
+      name: income_frequency_2
+      label: How often do you make money?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Biweekly
+      - Daily
+      required: false
+    - id: 15
+      name: education_level
+      label: What is your highest completed education level?
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some college
+      - Bachelor
+      - Master's
+      - Doctoral
+      required: false
+    - id: 16
+      name: career_field
+      label: What is your main career field?
+      hint: null
+      type: select_multiple
+      options:
+      - Arts
+      - Sciences
+      - Technology
+      - Business
+      required: false
+    - id: 17
+      name: work_exp
+      label: How many years of work experience do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: income_gross
+      label: What is your gross income?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: income_net
+      label: What is your net income?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: income_frequency_3
+      label: How often do you make money?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Biweekly
+      - Daily
+      required: false
+    - id: 21
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: income
+      label: What is your income?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: savings_goal
+      label: What is your savings goal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_funds
+      label: Do you have 3-6 months emergency funds?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 25
+      name: income_stress
+      label: Is income a stress factor in life?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false

@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Packaging Design Opinion Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up surveys if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or Older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 5
+        name: beverage_category
+        label: Beverage Category
+        hint: Which beverage category is this packaging for
+        type: select_one
+        options:
+          - Soft Drinks
+          - Energy Drinks
+          - Juice
+          - Tea
+          - Coffee
+          - Water
+          - Alcoholic Beverages
+          - Sports Drinks
+        required: true
+      - id: 6
+        name: design_version
+        label: Design Version Reviewed
+        hint: Which design version are you reviewing
+        type: select_one
+        options:
+          - Version A
+          - Version B
+          - Version C
+          - Version D
+          - Current Design
+        required: true
+      - id: 7
+        name: overall_appeal
+        label: Overall Visual Appeal
+        hint: Rate the overall visual appeal of the packaging
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: color_scheme
+        label: Color Scheme Rating
+        hint: Rate the color scheme
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: typography
+        label: Typography Rating
+        hint: Rate the text and font choices
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: logo_placement
+        label: Logo Placement Rating
+        hint: Rate the logo positioning and visibility
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: brand_recognition
+        label: Brand Recognition
+        hint: How well does this packaging represent the brand
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Neutral
+          - Not Very Well
+          - Not at All
+        required: true
+      - id: 12
+        name: shelf_appeal
+        label: Shelf Appeal
+        hint: Would this packaging stand out on a shelf
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 13
+        name: purchase_influence
+        label: Purchase Influence
+        hint: How likely would this packaging influence your purchase
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 14
+        name: readability
+        label: Information Readability
+        hint: How easy is it to read the product information
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 15
+        name: sustainability_impression
+        label: Sustainability Impression
+        hint: Does the packaging appear environmentally friendly
+        type: select_one
+        options:
+          - Very Eco-Friendly
+          - Somewhat Eco-Friendly
+          - Neutral
+          - Not Very Eco-Friendly
+          - Not Eco-Friendly
+        required: true
+      - id: 16
+        name: favorite_element
+        label: Favorite Design Element
+        hint: What do you like most about this packaging
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: least_favorite_element
+        label: Least Favorite Design Element
+        hint: What do you like least about this packaging
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What would make this packaging better
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: comparison_to_competitors
+        label: How Does This Compare to Competitors
+        hint: Is this better or worse than competing products
+        type: select_one
+        options:
+          - Much Better
+          - Somewhat Better
+          - About the Same
+          - Somewhat Worse
+          - Much Worse
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about this packaging design
+        type: text
+        options: []
+        required: false

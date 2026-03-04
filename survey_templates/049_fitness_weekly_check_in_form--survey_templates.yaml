@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Weekly Check In Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: user@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fitness_plan
+      label: Fitness Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fitness_level
+      label: Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: check_in_frequency
+      label: Check In Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false

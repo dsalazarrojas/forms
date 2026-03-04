@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production And Marketing Survey
+    pages:
+    - id: 1
+      name: production_and_marketing_survey
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: product_feedback
+      label: Product Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: marketing_budget
+      label: Marketing Budget
+      hint: Enter your marketing budget
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_pricing
+      label: Product Pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: marketing_channels
+      label: Marketing Channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_launch_date
+      label: Product Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: marketing_strategy_2
+      label: Marketing Strategy 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_satisfaction_2
+      label: Customer Satisfaction 2
+      hint: null
+      type: number
+      options: []
+      required: false

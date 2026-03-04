@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: informal_observation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teaching_skills
+      label: teaching_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: subject_matter
+      label: subject_matter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: class_environment
+      label: class_environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher_classroom_management
+      label: teacher_classroom_management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: professionalism
+      label: professionalism
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: overall_impact
+      label: overall_impact
+      hint: null
+      type: select_one
+      options:
+      - Highly Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Highly Negative
+      required: false
+    - id: 9
+      name: teacher_comment
+      label: teacher_comment
+      hint: null
+      type: note
+      options: []
+      required: false

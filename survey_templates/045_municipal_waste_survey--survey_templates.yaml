@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Waste Survey
+    pages:
+    - id: 1
+      name: household_waste_habits
+      label: Household Waste Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recycling_practices
+      label: recycling_practices
+      hint: null
+      type: select_one
+      options:
+      - Landfill
+      - Recycling Center
+      - Compost
+      required: false
+    - id: 3
+      name: waste_disposal_methods
+      label: waste_disposal_methods
+      hint: null
+      type: select_multiple
+      options:
+      - Landfill
+      - Recycling Center
+      - Private Disposal
+      required: false
+    - id: 4
+      name: recycling_frequency
+      label: how_ofter_do_you_recycle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: survey_comments
+      label: survey_comments
+      hint: Please provide any additional comments or feedback on the municipal waste
+        survey
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: household_id
+      label: household_id
+      hint: null
+      type: text
+      options: []
+      required: false

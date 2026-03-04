@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technology Needs Survey
+    pages:
+    - id: 1
+      name: student_survey
+      label: What is your student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: needs_description
+      label: Describe your technology needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: student email
+      hint: required
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: technology_1
+      label: Laptops
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: technology_2
+      label: Tablets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: technology_3
+      label: Smartphones
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

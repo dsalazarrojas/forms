@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ocean Plastic Awareness Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_1
+      label: How often do you go to the beach?
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Never
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 4
+      name: question_2
+      label: Have you ever picked up trash on the beach?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: question_3
+      label: Do you use reusable bags for shopping?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: question_4
+      label: Do you avoid buying products with single-use plastic?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: question_5
+      label: Do you carry a refillable water bottle?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: question_6
+      label: Do you participate in beach cleanups?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: question_7
+      label: Do you support organizations working to reduce plastic pollution?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: question_8
+      label: Do you think you'll change your behavior to reduce plastic pollution
+        in the next 6 months?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: question_9
+      label: Do you think you'll tell others about ocean plastic pollution?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

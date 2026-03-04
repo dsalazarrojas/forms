@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trauma Recovery Reflection Journal
+    pages:
+    - id: 1
+      name: trauma_recovery_reflection_journal_form
+      label: Trauma Recovery Reflection Journal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: daily_mood
+      label: daily_mood
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very Good
+      - 2 - Somewhat Good
+      - 3 - Not Good
+      - 4 - Very Bad
+      required: false
+    - id: 3
+      name: coping_progress
+      label: coping_progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: personal_reflections
+      label: personal_reflections
+      hint: Write about how you're feeling today
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trauma_score
+      label: trauma_score
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1
+      - 1-2
+      - 2-3
+      - 3-4
+      - 4-5
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

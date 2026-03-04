@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Outreach Program Success Poll
+    pages:
+    - id: 1
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Academic
+      - Administrative
+      - Support
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Team Member
+      - Program Lead
+      - Other
+      - Guest
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false

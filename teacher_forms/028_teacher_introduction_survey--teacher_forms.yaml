@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_introduction_survey
+    pages:
+    - id: 1
+      name: teacher_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: teacher_job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Counselor
+      - Admin
+      required: true
+    - id: 5
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: teacher_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: selected_files
+      label: Selected Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: selected_tools
+      label: Selected Tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: school_name_2
+      label: School Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: years_of_experience_2
+      label: Years of Experience 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: subject_area_2
+      label: Subject Area 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_name_3
+      label: School Name 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_of_experience_3
+      label: Years of Experience 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: subject_area_3
+      label: Subject Area 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_name_4
+      label: School Name 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: years_of_experience_4
+      label: Years of Experience 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: subject_area_4
+      label: Subject Area 4
+      hint: null
+      type: text
+      options: []
+      required: false

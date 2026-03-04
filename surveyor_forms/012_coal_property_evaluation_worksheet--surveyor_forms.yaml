@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coal Property Evaluation Worksheet
+    pages:
+    - id: 1
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: Official name of the coal property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_location
+      label: Property Location
+      hint: City, state, or GPS coordinates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Person conducting the evaluation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluator_credentials
+      label: Evaluator Credentials
+      hint: Professional designation or expertise
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_acreage
+      label: -- Acreage and Boundaries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_acres
+      label: Total Acreage
+      hint: Total property size in acres
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coal_bearing_acres
+      label: Coal-Bearing Acres
+      hint: Acres with coal deposits
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: property_boundaries
+      label: Property Boundaries Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 11
+      name: section_geology
+      label: -- Geological Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coal_seam_depth
+      label: Coal Seam Depth - feet
+      hint: Approximate depth to coal seams
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: seam_thickness
+      label: Average Seam Thickness - feet
+      hint: Thickness of exploitable coal seams
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: coal_grade
+      label: Coal Grade Quality
+      hint: Classification of coal quality
+      type: select_one
+      options:
+      - Lignite
+      - Sub-bituminous
+      - Bituminous
+      - Anthracite
+      - Mixed
+      required: true
+    - id: 15
+      name: sulfur_content
+      label: Sulfur Content - percent
+      hint: Estimated sulfur percentage
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: ash_content
+      label: Ash Content - percent
+      hint: Estimated ash percentage
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_reserves
+      label: -- Reserve Estimates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: estimated_reserves
+      label: Estimated Coal Reserves - million tons
+      hint: Total recoverable coal
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: reserve_confidence
+      label: Confidence Level in Reserves
+      hint: null
+      type: select_one
+      options:
+      - 1 - Low
+      - 2 - Moderate
+      - 3 - High
+      - 4 - Very High
+      required: true
+    - id: 20
+      name: section_mining_feasibility
+      label: -- Mining Feasibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: mining_method_suitable
+      label: Recommended Mining Method
+      hint: Surface, underground, or mixed
+      type: select_one
+      options:
+      - Surface Mining
+      - Underground Mining
+      - Mixed Method
+      - Not Suitable
+      required: true
+    - id: 22
+      name: accessibility
+      label: Property Accessibility Rating
+      hint: Ease of access for mining operations
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Excellent
+      required: true
+    - id: 23
+      name: environmental_considerations
+      label: Environmental Considerations
+      hint: Key environmental factors
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_economics
+      label: -- Economic Viability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: economic_feasibility
+      label: Economic Feasibility Rating
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not viable
+      - 2 - Marginally viable
+      - 3 - Viable
+      - 4 - Highly viable
+      required: true
+    - id: 26
+      name: evaluation_notes
+      label: Additional Evaluation Notes
+      hint: Comprehensive assessment summary
+      type: text
+      options: []
+      required: false

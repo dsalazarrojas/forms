@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: yes_or_no_survey_template
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: yes_or_no_questions
+      label: Yes or No Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: yes_or_no_question_example
+      label: Yes or No Question Example
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_example_1
+      label: Question Example 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: yes_or_no_question_example_1
+      label: Yes or No Question Example 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_example_2
+      label: Question Example 2
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 7
+      name: question_example_3
+      label: Question Example 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: save_form
+      label: Save Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

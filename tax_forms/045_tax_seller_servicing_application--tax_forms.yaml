@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Seller Servicing Application
+    pages:
+    - id: 1
+      name: tax_seller_servicing_application_form
+      label: tax_seller_servicing_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_history
+      label: tax_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_tax
+      label: insurance_tax
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: income_tax
+      label: income_tax
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: online_purchases
+      label: online_purchases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tax_documents
+      label: tax_documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: professional_history
+      label: professional_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tax_debt_concerns
+      label: tax_debt_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

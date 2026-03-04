@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: laboratory_experiment_feedback_questionnaire
+    pages:
+    - id: 1
+      name: experiment_details
+      label: Experiment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teaching_method
+      label: Teaching Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: learning_outcome
+      label: Learning Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: difficulty_level
+      label: Difficulty Level
+      hint: On a scale of 1-5, how difficult was this lab experiment?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: instructor_performance
+      label: Instructor Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: lab_experiment_date
+      label: Lab Experiment Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lab_experiment_time
+      label: Lab Experiment Time
+      hint: "12-hour clock format (e.g., 3:00 PM)"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: student_involvement
+      label: Student Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: teaching_materials
+      label: Teaching Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: lab_environment
+      label: Lab Environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: instructor_support
+      label: Instructor Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: lab_equipment
+      label: Lab Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: student_interest
+      label: Student Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: student_attention
+      label: Student Attention
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: teaching_style
+      label: Teaching Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: student_participation
+      label: Student Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: teaching_strategy
+      label: Teaching Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 21
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: organization
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 24
+      name: instructor_satisfaction
+      label: Instructor Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

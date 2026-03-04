@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Sculpture Agreement Form
+    pages:
+    - id: 1
+      name: section_header_parties
+      label: "--- Client & Artist Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client full name
+      hint: Primary contracting individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_contact_email
+      label: Client contact email
+      hint: For project communication and invoices
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_name
+      label: Artist or studio name
+      hint: Legal name for contract
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_title
+      label: Sculpture project title
+      hint: Short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: Project description and scope
+      hint: Materials, finish, and conceptual notes
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: materials_and_mediums
+      label: Materials and mediums planned
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Bronze
+        - Resin / Composite
+        - Stone / Marble
+        - Wood
+        - Mixed media
+        - Metal (steel / aluminum)
+      required: true
+    - id: 8
+      name: estimated_dimensions
+      label: Estimated dimensions (HxWxD or description)
+      hint: Use cm or inches and approximate values
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: total_fee
+      label: Agreed total fee (USD)
+      hint: Enter numeric amount (decimals allowed)
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: payment_schedule
+      label: Payment schedule
+      hint: "Example: 30% deposit, 40% mid, 30% on delivery"
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_completion_date
+      label: Estimated completion date
+      hint: Subject to material lead times
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: revisions_allowed
+      label: Number of revisions included
+      hint: Enter integer (e.g., 2)
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: delivery_terms
+      label: Delivery terms and responsibilities
+      hint: Shipping, installation, and insurance notes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cancellation_policy
+      label: Cancellation and refund terms
+      hint: Summarize cancellation conditions
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_acknowledgement
+      label: Client acknowledges and accepts terms
+      hint: Type full name to acknowledge (serves as signature)
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_signature_date
+      label: Client signature date
+      hint: Date of acknowledgement
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional project notes or attachments
+      hint: Mention any reference images or sketches
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Medical History Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: surgeries
+      label: Surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthy_habits
+      label: Healthy Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unhealthy_habits
+      label: Unhealthy Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Needs Assessment Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: demographic_info_date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: demographic_info_education
+      label: education level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high school''}'
+      - '{''value'': ''some college''}'
+      - '{''value'': ''university''}'
+      - '{''value'': ''graduate degree''}'
+      required: false
+    - id: 5
+      name: demographic_info_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: demographic_info_job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_needs_info
+      label: training needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_needs_info_category_1
+      label: category 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''communication''}'
+      - '{''value'': ''problem-solving''}'
+      - '{''value'': ''leadership''}'
+      required: false
+    - id: 9
+      name: training_needs_info_category_2
+      label: category 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''english''}'
+      - '{''value'': ''french''}'
+      - '{''value'': ''spanish''}'
+      required: false
+    - id: 10
+      name: training_needs_info_preferred_language
+      label: preferred language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''english''}'
+      - '{''value'': ''french''}'
+      - '{''value'': ''spanish''}'
+      required: false
+    - id: 11
+      name: training_needs_info_preferred_location
+      label: preferred location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''on-site''}'
+      - '{''value'': ''virtual''}'
+      required: false
+    - id: 12
+      name: training_needs_info_preferred_format
+      label: preferred format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: training_needs_info_what_type
+      label: what type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: training_needs_info_what_type_1
+      label: what type 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: training_needs_info_what_type_2
+      label: what type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

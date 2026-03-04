@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Conference Keynote Voting Form
+    pages:
+    - id: 1
+      name: keynote_speakers
+      label: Which keynote speakers do you want to hear from again?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sessions
+      label: Which sessions would you like to be included in future conferences?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback
+      label: What did you think of the conference?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rate the keynote speakers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: session_rating
+      label: Rate the sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: speaker_rating
+      label: Speaker rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_suggestion
+      label: Would you like to see more speakers from this session type?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: What is your overall satisfaction with the conference?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: will_attend
+      label: Will you attend this conference again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

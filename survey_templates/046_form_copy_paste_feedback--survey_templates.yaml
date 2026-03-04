@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form Copy Paste Feedback
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_device_browsers
+      label: Issue On
+      hint: null
+      type: select_multiple
+      options:
+      - Device
+      - Browser
+      required: true
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: issue_devices
+      label: Issue On Devices
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Tablet
+      - Mobile
+      - Desktop
+      required: true
+    - id: 5
+      name: issue_feature
+      label: Issue with Feature
+      hint: null
+      type: select_one
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_browsers
+      label: Issue On Browsers
+      hint: null
+      type: select_one
+      options:
+      - Browser 1
+      - Browser 2
+      - Browser 3
+      required: false
+    - id: 9
+      name: issue_copy
+      label: Issue with Copy
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: device_version
+      label: Device Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_other
+      label: Issue Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_contact
+      label: Support Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: issue_satisfaction
+      label: Issue with Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: feedback_email
+      label: Feedback Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: issue_time
+      label: Issue with Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: issue_other_details
+      label: Issue Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issue_copy_version
+      label: Issue with Copy Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: support_phone
+      label: Support Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issue_support
+      label: Issue with Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: issue_copy_paste
+      label: Issue with Copy and Paste
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: issue_device
+      label: Issue with Device
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: issue_feature_version
+      label: Issue with Feature Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_other_issue
+      label: Issue Other Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: support_url
+      label: Support URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false

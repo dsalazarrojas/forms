@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lens Knowledge Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: what_is_an_optical_lens
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: types_of_optical_lenses
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: question_3
+      label: confidence_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: real_life_applications
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: question_6
+      label: question_6
+      hint: null
+      type: time
+      options: []
+      required: false

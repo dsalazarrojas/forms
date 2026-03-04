@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Augmented Learning Perception Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll never share your email with others
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution_role
+      label: What is your role in education?
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Administrator
+      - Parent
+      - Other
+      required: true
+    - id: 5
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 6
+      name: date
+      label: Date of survey completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_experience
+      label: '--- Experience with AI in Learning ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ai_learning_experience
+      label: How much experience do you have with AI in educational settings?
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Limited experience
+      - Moderate experience
+      - Extensive experience
+      - Expert level
+      required: true
+    - id: 9
+      name: ai_tools_used
+      label: Which AI learning tools have you used? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - ChatGPT
+      - Khan Academy AI
+      - Duolingo
+      - Grammarly
+      - Wolfram Alpha
+      - Other
+      required: false
+    - id: 10
+      name: hours_per_week
+      label: Approximately how many hours per week do you engage with AI-assisted
+        learning?
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: section_header_perceptions
+      label: '--- Perceptions of AI in Learning ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: effectiveness_rating
+      label: How effective do you believe AI is in enhancing learning outcomes?
+      hint: 1 = Not effective at all, 10 = Extremely effective
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: satisfaction
+      label: How satisfied are you with your experience using AI in learning?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: concerns_select_multiple
+      label: What concerns do you have about AI in learning? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Academic integrity
+      - Over-dependence on technology
+      - Privacy issues
+      - Reduced human interaction
+      - Bias in AI systems
+      - Lack of regulation
+      - None
+      required: false
+    - id: 15
+      name: benefits_select_multiple
+      label: What benefits do you see in AI-assisted learning? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Personalized learning
+      - Immediate feedback
+      - Accessibility improvements
+      - Efficiency gains
+      - Enhanced engagement
+      - Better assessment tools
+      - Other
+      required: false
+    - id: 16
+      name: section_header_future
+      label: '--- Future Outlook ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: future_usage_likelihood
+      label: How likely are you to continue using AI tools in your learning journey?
+      hint: 1 = Very unlikely, 10 = Very likely
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: recommend_to_others
+      label: Would you recommend AI learning tools to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 19
+      name: experience_aspects
+      label: Which aspects apply to your experience with AI in learning? (Select all
+        that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Easy to use
+      - Time-saving
+      - Improved understanding
+      - Confusing at times
+      - Lacks human touch
+      - Well-designed interface
+      required: false
+    - id: 20
+      name: overall_rating
+      label: Overall rating of AI's impact on your learning (1-10)
+      hint: 1 = Negative impact, 10 = Positive impact
+      type: integer
+      options: []
+      required: true
+    - id: 21
+      name: section_header_feedback
+      label: '--- Additional Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: open_feedback
+      label: What would you improve or change about current AI learning tools?
+      hint: Please be specific
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Any other thoughts about AI in education
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Negligence Law Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: duty_of_care
+      label: Duty of Care
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 3
+      name: breach_of_duty
+      label: Breach of Duty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 4
+      name: causation
+      label: Causation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 5
+      name: harm_done
+      label: Harm Done
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 6
+      name: duty_of_care_who
+      label: Duty of Care Who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: duty_of_care_who_other
+      label: Duty of Care Who Else
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: duty_of_care_who_else_other
+      label: Duty of Care Who Else Else
+      hint: null
+      type: text
+      options: []
+      required: false

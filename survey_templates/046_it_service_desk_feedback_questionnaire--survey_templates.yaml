@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_service_desk_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Non-IT
+      required: false
+    - id: 3
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_details
+      label: Feedback Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_type
+      label: Support Type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      required: false
+    - id: 8
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Not Solved
+      - Solved
+      - Pending
+      required: false
+    - id: 9
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: support_agent
+      label: Support Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Network
+      - Security
+      - Other
+      required: false
+    - id: 16
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone Call
+      - Chat
+      - Email
+      - Other
+      required: false
+    - id: 17
+      name: resolution_details
+      label: Resolution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_contact_number
+      label: Follow Up Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_contact_email
+      label: Follow Up Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_contact_name
+      label: Follow Up Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_resolution_status
+      label: Follow Up Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Solved
+      - Not Solved
+      - Pending
+      required: false
+    - id: 26
+      name: follow_up_resolution_method
+      label: Follow Up Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone Call
+      - Chat
+      - Email
+      - Other
+      required: false
+    - id: 27
+      name: follow_up_resolution_details
+      label: Follow Up Resolution Details
+      hint: null
+      type: text
+      options: []
+      required: false

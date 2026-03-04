@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distance Learning Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_feedback
+      label: teacher feedback
+      hint: How do you feel about our virtual classes?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_feedback
+      label: student feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: best_part
+      label: best part
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggest_improvements
+      label: suggest improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: integration
+      label: integration
+      hint: Are you integrated our service with any other platforms or apps?
+      type: select_multiple
+      options:
+      - '{''label'': ''Google Classroom''}'
+      - '{''label'': ''Google Drive''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: grade_level
+      label: grade level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Elementary''}'
+      - '{''label'': ''High School''}'
+      - '{''label'': ''College''}'
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

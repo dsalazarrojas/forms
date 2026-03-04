@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: file_extension_knowledge_survey
+    pages:
+    - id: 1
+      name: surveyintroduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: filetypes
+      label: file_types
+      hint: null
+      type: select_one
+      options:
+      - ID3
+      - ID2
+      - ID1
+      required: false
+    - id: 3
+      name: fileextensions
+      label: file_extensions
+      hint: null
+      type: select_multiple
+      options:
+      - txt
+      - pdf
+      - docx
+      required: false
+    - id: 4
+      name: fileassociation
+      label: file_association
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 5
+      name: knowledgelevel
+      label: knowledge_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 6
+      name: filemanagement
+      label: file_management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: commonuse
+      label: common_use
+      hint: null
+      type: select_multiple
+      options:
+      - personal
+      - work
+      - school
+      required: false
+    - id: 8
+      name: fileconfidence
+      label: file_confidence
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 9
+      name: filemanagementskills
+      label: file_management_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: filemanagementconfidence
+      label: file_management_confidence
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false

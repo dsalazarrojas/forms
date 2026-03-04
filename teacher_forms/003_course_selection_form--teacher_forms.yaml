@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Selection Form
+    pages:
+    - id: 1
+      name: course_selection_form_course_selection_form_1
+      label: select_courses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_selection_form_course_selection_form_2
+      label: side_project
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_selection_form_course_selection_form_3
+      label: schedule_management
+      hint: null
+      type: text
+      options: []
+      required: false

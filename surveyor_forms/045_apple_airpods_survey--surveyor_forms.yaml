@@ -1,0 +1,403 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apple Airpods Survey
+    pages:
+    - id: 1
+      name: respondent_id
+      label: Respondent ID
+      hint: Optional identifier
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 to 64
+      - 65 or older
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: Your current occupation
+      type: select_one
+      options:
+      - Student
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Other
+      required: false
+    - id: 6
+      name: airpods_ownership
+      label: Do you own Apple AirPods
+      hint: Current ownership
+      type: select_one
+      options:
+      - Yes, current owner
+      - Owned in the past
+      - No, never owned
+      required: true
+    - id: 7
+      name: airpods_model
+      label: Which AirPods model do you own
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AirPods 1st generation
+      - AirPods 2nd generation
+      - AirPods 3rd generation
+      - AirPods Pro 1st generation
+      - AirPods Pro 2nd generation
+      - AirPods Max
+      - None
+      required: true
+    - id: 8
+      name: purchase_date
+      label: When did you purchase your AirPods
+      hint: Approximate date
+      type: select_one
+      options:
+      - Within last 6 months
+      - 6 months to 1 year ago
+      - 1 to 2 years ago
+      - 2 to 3 years ago
+      - More than 3 years ago
+      required: false
+    - id: 9
+      name: purchase_reason
+      label: Why did you purchase AirPods
+      hint: Main reason
+      type: select_one
+      options:
+      - Sound quality
+      - Convenience
+      - Apple ecosystem
+      - Design
+      - Brand loyalty
+      - Gift
+      - Replacement
+      - Recommendation
+      - Other
+      required: true
+    - id: 10
+      name: usage_frequency
+      label: How often do you use your AirPods
+      hint: Usage pattern
+      type: select_one
+      options:
+      - Multiple times daily
+      - Once daily
+      - Several times weekly
+      - Once weekly
+      - Rarely
+      - No longer use
+      required: true
+    - id: 11
+      name: primary_use
+      label: What do you primarily use AirPods for
+      hint: Main use case
+      type: select_multiple
+      options:
+      - Music listening
+      - Phone calls
+      - Video calls
+      - Podcasts
+      - Audiobooks
+      - Gaming
+      - Working out
+      - Commuting
+      - Other
+      required: true
+    - id: 12
+      name: sound_quality_rating
+      label: Sound Quality Rating
+      hint: Rate the audio quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 13
+      name: comfort_rating
+      label: Comfort Rating
+      hint: How comfortable are they
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 14
+      name: fit_security
+      label: How secure is the fit
+      hint: Do they stay in place
+      type: select_one
+      options:
+      - Very secure
+      - Secure
+      - Somewhat secure
+      - Loose
+      - Fall out easily
+      required: true
+    - id: 15
+      name: battery_life_rating
+      label: Battery Life Rating
+      hint: Rate battery performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: battery_hours
+      label: How many hours of battery do you get
+      hint: Approximate hours
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: noise_cancellation
+      label: How effective is noise cancellation
+      hint: If applicable
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      - Not applicable
+      required: true
+    - id: 18
+      name: transparency_mode
+      label: How useful is transparency mode
+      hint: If applicable
+      type: select_one
+      options:
+      - Very useful
+      - Useful
+      - Somewhat useful
+      - Not useful
+      - Not applicable
+      required: true
+    - id: 19
+      name: call_quality
+      label: Call Quality Rating
+      hint: Microphone performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 20
+      name: connectivity
+      label: Connectivity Rating
+      hint: Bluetooth connection
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 21
+      name: ease_of_use
+      label: Ease of Use
+      hint: How easy to use
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 22
+      name: build_quality
+      label: Build Quality Rating
+      hint: Durability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 23
+      name: case_rating
+      label: Charging Case Rating
+      hint: Quality of case
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 24
+      name: value_for_money
+      label: Value for Money
+      hint: Worth the price
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 25
+      name: compared_to_others
+      label: How do AirPods compare to other earbuds
+      hint: Comparison
+      type: select_one
+      options:
+      - Much better
+      - Better
+      - About the same
+      - Worse
+      - Much worse
+      - Have not used others
+      required: true
+    - id: 26
+      name: favorite_features
+      label: Favorite Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Seamless pairing
+      - Sound quality
+      - Comfort
+      - Battery life
+      - Noise cancellation
+      - Transparency mode
+      - Siri integration
+      - Find My feature
+      - Wireless charging
+      - None
+      required: true
+    - id: 27
+      name: least_favorite_features
+      label: Least Favorite Features
+      hint: What could be improved
+      type: select_multiple
+      options:
+      - Price
+      - Battery life
+      - Fit
+      - Sound quality
+      - Case size
+      - Touch controls
+      - Durability
+      - Nothing
+      - Other
+      required: true
+    - id: 28
+      name: issues_experienced
+      label: Issues Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Connectivity issues
+      - Battery degradation
+      - Fit problems
+      - Sound quality issues
+      - Case damage
+      - Charging issues
+      - One earbud stopped working
+      - Other
+      required: true
+    - id: 29
+      name: would_recommend
+      label: Would you recommend AirPods
+      hint: To friends or family
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 30
+      name: would_buy_again
+      label: Would you buy AirPods again
+      hint: Future purchase
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 31
+      name: next_purchase_intent
+      label: Do you plan to upgrade
+      hint: Future plans
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 32
+      name: suggested_improvements
+      label: What improvements would you suggest
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

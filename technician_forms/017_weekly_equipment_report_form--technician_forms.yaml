@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_equipment_report_form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Offline
+      - Maintenance
+      required: true
+    - id: 4
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: technician_id
+      label: Technician ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Hand Tool
+      - Power Tool
+      - Handheld Drill
+      required: true
+    - id: 8
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_updated
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_updated
+      label: Time Updated
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by_id
+      label: Created By ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_updated_by_id
+      label: Last Updated By ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: updated_by_id
+      label: Updated By ID
+      hint: null
+      type: number
+      options: []
+      required: false

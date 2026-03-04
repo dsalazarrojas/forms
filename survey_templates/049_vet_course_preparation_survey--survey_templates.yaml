@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: vet_course_preparation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Program A''}'
+      - '{''label'': ''Program B''}'
+      - '{''label'': ''Program C''}'
+      required: false
+    - id: 3
+      name: delivery_preferences
+      label: delivery_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Once''}'
+      - '{''label'': ''Twice''}'
+      - '{''label'': ''More than once''}'
+      required: false
+    - id: 5
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_duration
+      label: delivery_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      required: false
+    - id: 9
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Method 1''}'
+      - '{''label'': ''Method 2''}'
+      - '{''label'': ''Method 3''}'
+      required: false
+    - id: 10
+      name: program_length
+      label: program_length
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 12
+      name: learner_insights
+      label: learner_insights
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: program_comments
+      label: program_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: false

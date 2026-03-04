@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Cooperation Experience Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supplier_satisfaction
+      label: supplier_satisfaction
+      hint: How satisfied were you with the supplier?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_level
+      label: communication_level
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: collaboration
+      label: collaboration
+      hint: How would you rate the level of collaboration between your team and the
+        supplier?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vendor_contact_info
+      label: vendor_contact_info
+      hint: Who was your primary contact at the supplier?
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Video Calls
+      - In-Person Meetings
+      required: false
+    - id: 8
+      name: frequency_of_communication
+      label: frequency_of_communication
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 9
+      name: communication_effectiveness
+      label: communication_effectiveness
+      hint: How would you rate the effectiveness of the communication from the supplier?
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not at All Effective
+      required: false

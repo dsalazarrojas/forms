@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superhero Trivia Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Superhero Trivia Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions_page
+      label: Questions
+      hint: What do you know about superheroes?
+      type: select_multiple
+      options:
+      - Batman
+      - Spider-Man
+      - Superman
+      - Wonder Woman
+      required: false
+    - id: 3
+      name: submit_page
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: name_page
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: superhero_page
+      label: Superhero
+      hint: null
+      type: select_one
+      options:
+      - Batman
+      - Spider-Man
+      - Superman
+      - Wonder Woman
+      required: false
+    - id: 7
+      name: favorite_color_page
+      label: Favorite Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      required: false
+    - id: 8
+      name: favorite_superhero_page
+      label: Favorite Superhero
+      hint: null
+      type: select_one
+      options:
+      - Batman
+      - Spider-Man
+      - Superman
+      - Wonder Woman
+      required: false
+    - id: 9
+      name: age_page
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: superhero_type_page
+      label: Superhero Type
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Magical
+      - Superhuman
+      - Human
+      required: false

@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bootstrap Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - your email
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: survey_date
+        label: Date
+        hint: Today's date
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: website_usage_frequency
+        label: How often do you visit our website
+        hint: Your usage pattern
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Weekly
+          - Monthly
+          - Rarely
+          - First time
+        required: true
+      - id: 5
+        name: website_ease_of_use
+        label: Website Ease of Use
+        hint: How easy is it to navigate
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 6
+        name: website_design_appeal
+        label: Website Design Appeal
+        hint: How attractive is the design
+        type: select_one
+        options:
+          - Very appealing
+          - Appealing
+          - Neutral
+          - Not appealing
+          - Very unappealing
+        required: true
+      - id: 7
+        name: content_quality
+        label: Content Quality
+        hint: How good is the content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 8
+        name: information_found
+        label: Did you find the information you needed
+        hint: Was content helpful
+        type: select_one
+        options:
+          - Yes, easily
+          - Yes, with effort
+          - Partially
+          - No
+          - Did not search
+        required: true
+      - id: 9
+        name: page_loading_speed
+        label: Page Loading Speed
+        hint: How fast does the site load
+        type: select_one
+        options:
+          - Very fast
+          - Fast
+          - Average
+          - Slow
+          - Very slow
+        required: true
+      - id: 10
+        name: mobile_experience
+        label: Mobile Experience
+        hint: How well does it work on mobile
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 11
+        name: site_performance
+        label: Overall Site Performance
+        hint: Rate the overall performance
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 12
+        name: recommendation_likelihood
+        label: Likelihood to Recommend
+        hint: Would you recommend this site
+        type: select_one
+        options:
+          - Definitely recommend
+          - Probably recommend
+          - Not sure
+          - Probably not recommend
+          - Definitely not recommend
+        required: true
+      - id: 13
+        name: improvements_needed
+        label: What Improvements Are Needed
+        hint: What could be better
+        type: select_multiple
+        options:
+          - Better navigation
+          - Faster loading
+          - Better design
+          - More content
+          - Mobile optimization
+          - Search functionality
+          - Accessibility features
+          - Other
+        required: false
+      - id: 14
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: contact_permission
+        label: May we contact you for follow-up
+        hint: Can we reach out to you
+        type: select_one
+        options:
+          - Yes, contact me
+          - No, thank you
+        required: false

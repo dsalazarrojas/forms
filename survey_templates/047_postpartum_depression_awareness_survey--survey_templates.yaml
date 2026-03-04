@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postpartum Depression Awareness Survey
+    pages:
+    - id: 1
+      name: new_mother
+      label: New Mother
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: new_baby_age
+      label: New Baby Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: new_mother_age
+      label: New Mother Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: depression_symptoms
+      label: Depression Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Depressed mood
+      - Loss of interest
+      - Loss of appetite
+      - Difficulty sleeping
+      - Fatigue
+      - Loss of energy
+      - Anhedonia
+      - Loss of pleasure
+      - Pain
+      - Hypervigilance
+      - Nervousness
+      - Irritability
+      - Loss of concentration
+      - Thoughts of death
+      - Suicidal ideation
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: support_systems
+      label: Support Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Partner
+      - Parent
+      - Friend
+      - Other
+      required: false
+    - id: 7
+      name: postpartum_care_services
+      label: Postpartum Care Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feelings_about_postpartum_depression
+      label: Feelings About Postpartum Depression
+      hint: null
+      type: select_multiple
+      options:
+      - Understood
+      - Concerned
+      - Ignorant
+      - Dismissive
+      required: false
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,164 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Installation Feedback Form
+    pages:
+      - id: 1
+        name: installation_feedback_header
+        label: -- Installation Feedback --
+        hint: Your response helps us improve future public art projects
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visitor_name_optional
+        label: Name (Optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: installation_title
+        label: Name of the Installation
+        hint: null
+        type: select_one
+        options:
+          - Echoes of the Deep - Interactive Audio
+          - Light Mesh - Outdoor Sculpture
+          - Digital Rain - Projector Series
+          - The Living Wall - Bio-art
+        required: true
+      - id: 4
+        name: visit_date
+        label: Date of Your Visit
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: emotional_impact_header
+        label: -- Impact and Engagement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: visual_appeal_rating
+        label: How would you rate the visual appeal of the installation?
+        hint: null
+        type: select_one
+        options:
+          - Extremely Appealing
+          - Appealing
+          - Neutral
+          - Unappealing
+        required: true
+      - id: 7
+        name: message_clarity_rating
+        label: Was the intended message or concept clear to you?
+        hint: null
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Unclear
+          - I interpreted it in my own way
+        required: true
+      - id: 8
+        name: interaction_level_rating
+        label: If the work was interactive, how was the user experience?
+        hint: null
+        type: select_one
+        options:
+          - Seamless and Intuitive
+          - Enjoyable but needed guidance
+          - Technical issues encountered
+          - N/A (Not interactive)
+        required: true
+      - id: 9
+        name: atmosphere_contribution
+        label: How did the installation affect the atmosphere of the space?
+        hint: null
+        type: select_one
+        options:
+          - Enhanced the space significantly
+          - Added a positive element
+          - No significant impact
+          - Felt out of place
+        required: true
+      - id: 10
+        name: favorite_aspect
+        label: What was your favorite part of the installation?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: least_favorite_aspect
+        label: Was there anything that didn't work for you?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: logistical_feedback_header
+        label: -- Logistics and Environment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: lighting_quality_rating
+        label: How would you rate the lighting of the installation?
+        hint: null
+        type: select_one
+        options:
+          - Perfect
+          - Good
+          - Too Bright
+          - Too Dim
+        required: true
+      - id: 14
+        name: crowd_management_rating
+        label: Was the space around the installation easy to navigate?
+        hint: null
+        type: select_one
+        options:
+          - Yes - Easy
+          - A bit crowded
+          - Difficult to access
+        required: true
+      - id: 15
+        name: suggestions_for_future
+        label: Suggestions for future art installations in this space
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: contact_for_newsletter
+        label: Would you like to be notified about our next installation?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 17
+        name: email_for_updates
+        label: Your Email Address
+        hint: If you'd like updates
+        type: email
+        options: []
+        required: false

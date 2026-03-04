@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Degree Employee Evaluation Survey
+    pages:
+    - id: 1
+      name: section_header_employee_info
+      label: '--- Employee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside US
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: e.g., Marketing, Engineering, HR
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: Enter the current role or position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hire_date
+      label: Date of hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: years_employed
+      label: Years at organization
+      hint: Round down to whole years
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: section_header_rater_info
+      label: '--- Rater Relationship & Context ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rater_relationship
+      label: Your relationship to the employee
+      hint: Select the option that best describes your perspective
+      type: select_one
+      options:
+      - Self
+      - Peer
+      - Manager
+      - Direct report
+      - HR or other
+      - External stakeholder
+      required: true
+    - id: 11
+      name: rater_name
+      label: Rater name (optional)
+      hint: Leave blank for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rater_contact
+      label: Rater contact email (optional)
+      hint: Provide if follow-up is needed
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: communication_rating
+      label: Communication skills
+      hint: Consider clarity, responsiveness, and listening
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Not observed
+      required: true
+    - id: 14
+      name: leadership_rating
+      label: Leadership and influence
+      hint: (If applicable to role; choose "Not observed" otherwise)
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Not observed
+      required: false
+    - id: 15
+      name: teamwork_rating
+      label: Teamwork and collaboration
+      hint: Contribution to team goals and support for colleagues
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Not observed
+      required: true
+    - id: 16
+      name: problem_solving_rating
+      label: Problem solving and decision making
+      hint: Ability to identify issues and propose solutions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Not observed
+      required: true
+    - id: 17
+      name: reliability_rating
+      label: Reliability and accountability
+      hint: Completes tasks on time and meets commitments
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Not observed
+      required: true
+    - id: 18
+      name: adaptability_rating
+      label: Adaptability to change
+      hint: Responding well to shifting priorities or ambiguity
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Not observed
+      required: false
+    - id: 19
+      name: technical_competence_rating
+      label: Technical competence (role-specific)
+      hint: Select "Not applicable" if role is non-technical
+      type: select_one
+      options:
+      - Highly proficient
+      - Competent
+      - Developing
+      - Insufficient
+      - Not applicable
+      required: false
+    - id: 20
+      name: observed_behaviors
+      label: Observed behaviors (select all that apply)
+      hint: Check behaviors you have observed in the past 12 months
+      type: select_multiple
+      options:
+      - Meets deadlines consistently
+      - Supports and mentors colleagues
+      - Provides constructive feedback
+      - Leads initiatives and drives results
+      - Demonstrates attention to detail
+      - Resistant to feedback or change
+      - Requires close supervision
+      required: false
+    - id: 21
+      name: strengths
+      label: Strengths
+      hint: List up to three specific strengths (short phrases)
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for improvement
+      hint: Provide concrete suggestions for development
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_recommendation
+      label: Overall recommendation
+      hint: Consider promotion readiness, role fit, or performance plan
+      type: select_one
+      options:
+      - Recommend for promotion
+      - Ready for greater responsibility
+      - Maintain current role
+      - Recommend development plan
+      - Consider role realignment
+      required: true
+    - id: 24
+      name: overall_score
+      label: Overall performance score (1-10)
+      hint: 1 = Unsatisfactory, 10 = Outstanding
+      type: integer
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or examples
+      hint: Provide any final remarks or illustrative examples
+      type: text
+      options: []
+      required: false

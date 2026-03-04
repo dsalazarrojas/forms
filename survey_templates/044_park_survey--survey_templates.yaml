@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Park Survey
+    pages:
+    - id: 1
+      name: park_survey_1
+      label: park_survey_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: park_needs_1
+      label: park_needs_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: park_needs_2
+      label: park_needs_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: park_needs_3
+      label: park_needs_3_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: neighborhood_neighborhood
+      label: neighborhood_neighborhood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: location_neighborhood
+      label: location_neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: park_neighborhoods
+      label: park_neighborhoods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: community_neighborhood
+      label: community_neighborhood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: community_neighborhoods
+      label: community_neighborhoods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: neighborhoods
+      label: neighborhoods
+      hint: null
+      type: text
+      options: []
+      required: false

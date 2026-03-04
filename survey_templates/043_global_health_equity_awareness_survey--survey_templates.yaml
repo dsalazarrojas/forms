@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Health Equity Awareness Survey
+    pages:
+    - id: 1
+      name: global_health_equity_awareness_survey_page_1
+      label: Global Health Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: global_health_equity_awareness_survey_page_2
+      label: Country/Region of Focus
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - Africa
+      - Americas
+      - Asia
+      - Europe
+      - Global
+      required: true
+    - id: 3
+      name: global_health_equity_awareness_survey_page_3
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - Young Adult
+      - Adult
+      - Elderly
+      required: false
+    - id: 4
+      name: global_health_equity_awareness_survey_page_4
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: global_health_equity_awareness_survey_page_5
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: global_health_equity_awareness_survey_page_6
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: global_health_equity_awareness_survey_page_7
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: global_health_equity_awareness_survey_page_8
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: global_health_equity_awareness_survey_page_9
+      label: Global Health Equity Awareness Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Global Health Equity Awareness
+      - Global Health
+      - Health Equity
+      required: false
+    - id: 10
+      name: global_health_equity_awareness_survey_page_10
+      label: Survey Submission
+      hint: null
+      type: text
+      options: []
+      required: true

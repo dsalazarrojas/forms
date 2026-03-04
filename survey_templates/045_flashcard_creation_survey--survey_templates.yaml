@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flashcard Creation Survey
+    pages:
+    - id: 1
+      name: platform_used
+      label: Platforms used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: frequency_use
+      label: How often do you use flashcards?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Daily''}'
+      - '{''text'': ''Weekly''}'
+      - '{''text'': ''Monthly''}'
+      - '{''text'': ''Yearly''}'
+      required: false
+    - id: 3
+      name: content_type
+      label: Content Types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Images''}'
+      - '{''text'': ''Videos''}'
+      - '{''text'': ''Audio''}'
+      - '{''text'': ''Text''}'
+      - '{''text'': ''Mix''}'
+      required: false
+    - id: 4
+      name: frequency_create
+      label: How often do you create flashcards?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Daily''}'
+      - '{''text'': ''Weekly''}'
+      - '{''text'': ''Monthly''}'
+      - '{''text'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: desired_features
+      label: Desired Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: frequency_share
+      label: How often do you share flashcards?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Daily''}'
+      - '{''text'': ''Weekly''}'
+      - '{''text'': ''Monthly''}'
+      - '{''text'': ''Yearly''}'
+      required: false
+    - id: 7
+      name: frequency_learn
+      label: How often do you learn from flashcards?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Daily''}'
+      - '{''text'': ''Weekly''}'
+      - '{''text'': ''Monthly''}'
+      - '{''text'': ''Yearly''}'
+      required: false
+    - id: 8
+      name: content_type_other
+      label: Other
+      hint: Specify other content types
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: platform_other
+      label: Other
+      hint: Specify other platforms
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: platforms
+      label: Which platforms do you use for flashcards?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Anki''}'
+      - '{''text'': ''Quizlet''}'
+      - '{''text'': ''AnkiDroid''}'
+      - '{''text'': ''None''}'
+      required: false
+    - id: 11
+      name: content_types
+      label: What types of content do you use flashcards for?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Vocab''}'
+      - '{''text'': ''Grammar''}'
+      - '{''text'': ''Idioms''}'
+      - '{''text'': ''Formula''}'
+      - '{''text'': ''None''}'
+      required: false
+    - id: 12
+      name: content_other
+      label: Other
+      hint: Specify other types of content
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: platforms_anki
+      label: Anki
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: platforms_quizlet
+      label: Quizlet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: platforms_anki_droid
+      label: AnkiDroid
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: frequency_use_other
+      label: Other
+      hint: Specify how often do you use other platforms
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

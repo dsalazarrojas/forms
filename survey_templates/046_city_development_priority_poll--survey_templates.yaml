@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Development Priority Poll
+    pages:
+    - id: 1
+      name: section_header_instructions
+      label: -- City Development Priority Poll --
+      hint: Help us prioritize improvements for our city
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: neighborhood
+      label: Your Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resident_type
+      label: Resident Type
+      hint: null
+      type: select_one
+      options:
+      - Year-round resident
+      - Seasonal resident
+      - Business owner
+      - Property owner
+      - Frequent visitor
+      required: false
+    - id: 6
+      name: section_header_priorities
+      label: -- Development Priorities --
+      hint: Rate each priority from 1 (least important) to 5 (most important)
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: downtown_revitalization
+      label: Downtown Revitalization and Commerce
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: housing_development
+      label: Housing Development
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: transportation_infrastructure
+      label: Transportation Infrastructure
+      hint: Roads, bridges, public transit
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: park_recreation
+      label: Parks and Recreation Areas
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: waterfront_development
+      label: Waterfront or Riverfont Development
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: commercial_districts
+      label: Commercial Districts and Retail
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: cultural_venues
+      label: Cultural Venues and Arts Districts
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: technology_innovation
+      label: Technology and Innovation Centers
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: sustainability
+      label: Green Spaces and Sustainability
+      hint: Rank 1-5
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_header_focus
+      label: -- Development Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: development_pace
+      label: Preferred Pace of Development
+      hint: null
+      type: select_one
+      options:
+      - Accelerated growth
+      - Moderate growth
+      - Slow, careful growth
+      - No new development
+      - Mixed approach
+      required: true
+    - id: 18
+      name: growth_type
+      label: Preferred Type of Development
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Mixed-use
+      - Industrial
+      - Balanced growth
+      - No strong preference
+      required: false
+    - id: 19
+      name: section_header_concerns
+      label: -- Development Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: development_concerns
+      label: Primary Concerns About Development (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Traffic and congestion
+      - Environmental impact
+      - Loss of community character
+      - Affordability concerns
+      - Loss of green space
+      - Parking issues
+      - Impact on schools
+      - Gentrification
+      - Cultural displacement
+      required: false
+    - id: 21
+      name: section_header_investments
+      label: -- Investment Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: public_investment_priorities
+      label: Public Investment Priorities (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Education infrastructure
+      - Healthcare facilities
+      - Transportation systems
+      - Utilities modernization
+      - Public buildings and facilities
+      - Parks and green space
+      - Public safety
+      - Storm water management
+      required: false
+    - id: 23
+      name: section_header_constraints
+      label: -- Constraints and Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: environmental_standards
+      label: Importance of Environmental Standards
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: false
+    - id: 25
+      name: historic_preservation
+      label: Importance of Historic Preservation
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: false
+    - id: 26
+      name: community_involvement
+      label: Community Involvement in Planning
+      hint: null
+      type: select_one
+      options:
+      - Essential
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: false
+    - id: 27
+      name: section_header_additional
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: highest_priority
+      label: Your Single Highest Development Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_suggestions
+      label: Additional Suggestions or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: senior_sports_league_interest_survey
+    pages:
+    - id: 1
+      name: senior_sports_league_interest_survey_page_1
+      label: welcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interest_level
+      label: What is your interest level in the senior sports league?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: days_of_week_1
+      label: Which days of the week can you play on Monday?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: time_of_day_1
+      label: What time of day would you like to play?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: days_of_week_2
+      label: Which days of the week can you play on Tuesday?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_of_day_2
+      label: What time of day would you like to play?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

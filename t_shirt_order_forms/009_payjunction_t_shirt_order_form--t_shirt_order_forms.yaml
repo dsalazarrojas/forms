@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayJunction T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tshirt_design_choice
+      label: T-Shirt Design Choice
+      hint: null
+      type: select_one
+      options:
+      - Custom 1
+      - Custom 2
+      - Custom 3
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true

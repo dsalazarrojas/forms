@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Group Class Engagement Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: level
+      label: Level of difficulty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Easy''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Hard''}'
+      required: true
+    - id: 8
+      name: engagement
+      label: Engagement level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very engaged''}'
+      - '{''id'': 2, ''label'': ''Somewhat engaged''}'
+      - '{''id'': 3, ''label'': ''Not engaged''}'
+      required: true
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 17
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: last_update
+      label: Last Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: comments_count
+      label: Comments Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: score_count
+      label: Score Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true

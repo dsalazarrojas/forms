@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Discipleship Commitment Survey
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: false
+    - id: 6
+      name: section_header_faith_journey
+      label: -- Faith Journey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: faith_background
+      label: Your Faith Background
+      hint: null
+      type: select_one
+      options:
+      - Lifelong Christian
+      - Recent conversion
+      - Returning to faith
+      - Exploring faith
+      - Uncertain
+      required: true
+    - id: 8
+      name: years_faith_commitment
+      label: Years of Faith Commitment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: discipleship_experience
+      label: Discipleship Experience Level
+      hint: null
+      type: select_one
+      options:
+      - New to discipleship
+      - Some experience
+      - Growing in discipleship
+      - Experienced disciple
+      - Disciple-maker
+      required: true
+    - id: 10
+      name: section_header_engagement
+      label: -- Current Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: church_attendance
+      label: Church Attendance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every week
+      - 2-3 times per month
+      - Monthly
+      - A few times per year
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: group_participation
+      label: Bible Study or Small Group Participation
+      hint: null
+      type: select_one
+      options:
+      - Regularly attend
+      - Attend sometimes
+      - Have attended
+      - Never attended
+      - Would be interested
+      required: true
+    - id: 13
+      name: ministry_involvement
+      label: Ministry or Service Involvement
+      hint: null
+      type: select_one
+      options:
+      - Active volunteer
+      - Regular volunteer
+      - Occasional volunteer
+      - Not currently involved
+      - Interested in getting involved
+      required: true
+    - id: 14
+      name: section_header_spiritual_practices
+      label: -- Spiritual Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prayer_frequency
+      label: Daily Prayer Practice
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Never
+      required: true
+    - id: 16
+      name: scripture_study
+      label: Scripture Study or Bible Reading
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Never
+      required: true
+    - id: 17
+      name: spiritual_disciplines
+      label: Spiritual Disciplines Practiced (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Bible study
+      - Prayer
+      - Fasting
+      - Worship
+      - Journaling
+      - Meditation
+      - Confession
+      - Service
+      required: false
+    - id: 18
+      name: section_header_growth
+      label: -- Spiritual Growth --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: spiritual_growth_assessment
+      label: Assessment of Your Spiritual Growth
+      hint: null
+      type: select_one
+      options:
+      - Growing significantly
+      - Growing steadily
+      - Growing slowly
+      - Stagnant
+      - Declining
+      required: true
+    - id: 20
+      name: growth_areas
+      label: Areas of Spiritual Growth (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Faith and trust
+      - Love and compassion
+      - Holiness and righteousness
+      - Knowledge of Scripture
+      - Prayer life
+      - Witnessing and evangelism
+      - Service and justice
+      - Community and relationships
+      required: false
+    - id: 21
+      name: growth_challenges
+      label: Challenges to Spiritual Growth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_commitment
+      label: -- Discipleship Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: commitment_level
+      label: Level of Commitment to Discipleship
+      hint: null
+      type: select_one
+      options:
+      - Fully committed
+      - Mostly committed
+      - Somewhat committed
+      - Minimally committed
+      - Not committed
+      required: true
+    - id: 24
+      name: commitment_obstacles
+      label: Obstacles to Deeper Commitment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_mentoring
+      label: -- Mentoring and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: spiritual_mentor
+      label: Have a Spiritual Mentor or Discipler
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Would like one
+      required: true
+    - id: 27
+      name: mentoring_interest
+      label: Interest in Being a Disciple-Maker
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Maybe
+      - Not interested
+      required: false
+    - id: 28
+      name: section_header_goals
+      label: -- Discipleship Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: spiritual_goals
+      label: Spiritual Goals for Next Year
+      hint: null
+      type: text
+      options: []
+      required: false

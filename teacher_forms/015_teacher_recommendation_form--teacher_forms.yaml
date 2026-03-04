@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Recommendation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: teacher_signature
+      label: teacher_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_title
+      label: teacher_title
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Head''}'
+      - '{''value'': ''Assistant''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: teacher_years_of_service
+      label: teacher_years_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Less than 1 year''}'
+      - '{''value'': ''1-2 years''}'
+      - '{''value'': ''2-5 years''}'
+      - '{''value'': ''5-10 years''}'
+      - '{''value'': ''More than 10 years''}'
+      required: false
+    - id: 9
+      name: teacher_department
+      label: teacher_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: true
+    - id: 10
+      name: teacher_comment
+      label: teacher_comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: student_grade_point
+      label: student_grade_point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: student_birth_date
+      label: student_birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: student_gender
+      label: student_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      required: true
+    - id: 15
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: teacher_recommendation
+      label: teacher_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: teacher_signature_date
+      label: teacher_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: true
+    - id: 22
+      name: student_previous_school
+      label: student_previous_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_current_school
+      label: student_current_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: teacher_recommendation_date
+      label: teacher_recommendation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: teacher_recommendation_status
+      label: teacher_recommendation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Complete''}'
+      - '{''value'': ''Incomplete''}'
+      required: true

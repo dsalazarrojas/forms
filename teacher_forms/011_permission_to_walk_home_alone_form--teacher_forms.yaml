@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission To Walk Home Alone Form
+    pages:
+    - id: 1
+      name: school_id
+      label: schoolid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: activity_id
+      label: activityid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: studentid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_id
+      label: parentid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_id
+      label: timeid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_id
+      label: dateid
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_id_2
+      label: timeid2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_id
+      label: reasonid
+      hint: null
+      type: select_one
+      options:
+      - Home from school
+      - Home from after school activity
+      - Home from school and after school activity
+      required: true
+    - id: 9
+      name: additional_comments
+      label: addcomments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: parent_contact_info
+      label: parcontactinfo
+      hint: null
+      type: text
+      options: []
+      required: false

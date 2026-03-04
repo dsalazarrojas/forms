@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Training Case Study Recording Consent
+    pages:
+    - id: 1
+      name: teacher_training_case_study_recording_consent_form_template_name
+      label: Form Template Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recorded_session_date
+      label: Recorded Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: recorded_session_time
+      label: Recorded Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: recorded_session_duration
+      label: Recorded Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: consent_provided
+      label: Consent Provided
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

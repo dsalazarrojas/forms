@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary_Staff_Performance_Feedback_Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey_History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_1
+      label: What_is_your_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How_long_have_you_worked_here
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 4
+      name: question_3
+      label: How_satisfied_are_you_with_your_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: What_are_some_areas_where_you_did_not_feel_supported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: How_did_we_do_against_your_expectations
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 7
+      name: question_6
+      label: What_can_we_improve_on
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: Do_you_have_any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: Additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

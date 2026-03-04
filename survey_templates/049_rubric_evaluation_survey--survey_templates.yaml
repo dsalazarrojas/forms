@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: rubric_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rubric_title
+      label: rubric_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rubric_criterion_1
+      label: rubric_criterion_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: rubric_criterion_2
+      label: rubric_criterion_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rubric_criterion_3
+      label: rubric_criterion_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: rubric_criterion_4
+      label: rubric_criterion_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rubric_criterion_5
+      label: rubric_criterion_5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

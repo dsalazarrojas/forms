@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milk Donation Feedback Survey
+    pages:
+    - id: 1
+      name: donator_info
+      label: Donator information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-3
+      - 4-6
+      - 7-9
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Email
+      - Mail
+      - Other
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donator_id
+      label: Donator ID
+      hint: null
+      type: select_one
+      options:
+      - Donator A
+      - Donator B
+      - Donator C
+      - Donator D
+      - Donator E
+      - Donator F
+      required: false
+    - id: 9
+      name: donor_org
+      label: Donor Organization
+      hint: null
+      type: select_one
+      options:
+      - Donor Org A
+      - Donor Org B
+      - Donor Org C
+      - Donor Org D
+      - Donor Org E
+      required: true

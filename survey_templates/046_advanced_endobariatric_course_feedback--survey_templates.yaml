@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Endobariatric Course Feedback
+    pages:
+    - id: 1
+      name: section_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: professional_role
+      label: Professional Role
+      hint: select your primary role
+      type: select_one
+      options:
+      - Surgeon
+      - Gastroenterologist
+      - Nurse Practitioner
+      - Resident
+      - Fellow
+      - Other
+      required: true
+    - id: 4
+      name: course_date
+      label: Course Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_eval
+      label: -- Session Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quality_of_didactic_lectures
+      label: Quality of Didactic Lectures
+      hint: clarity and depth of presentation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: effectiveness_of_live_demonstrations
+      label: Effectiveness of Live Demonstrations
+      hint: observation of procedural techniques
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: value_of_hands_on_lab_sessions
+      label: Value of Hands-on Lab Sessions
+      hint: practical application of skills
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: section_obj
+      label: -- Educational Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: were_learning_objectives_met
+      label: Were Learning Objectives Met
+      hint: null
+      type: select_one
+      options:
+      - Yes - Completely
+      - Yes - Partially
+      - No
+      required: true
+    - id: 11
+      name: impact_on_clinical_practice
+      label: Impact on Clinical Practice
+      hint: how much will this change your approach?
+      type: select_one
+      options:
+      - Significant
+      - Moderate
+      - Slight
+      - None
+      required: true
+    - id: 12
+      name: most_valuable_technique_learned
+      label: Most Valuable Technique Learned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_log
+      label: -- Logistics and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_course_organization
+      label: Overall Course Organization
+      hint: venue, schedule, and support
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: suggestions_for_future_topics
+      label: Suggestions for Future Topics
+      hint: what else would you like to learn?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_feedback_for_organizers
+      label: Additional Feedback for Organizers
+      hint: null
+      type: text
+      options: []
+      required: false

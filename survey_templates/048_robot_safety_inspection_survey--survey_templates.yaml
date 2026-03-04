@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Safety Inspection Survey
+    pages:
+    - id: 1
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: robot_type
+      label: robot_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: safety_rating
+      label: safety_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: number
+      options: []
+      required: false

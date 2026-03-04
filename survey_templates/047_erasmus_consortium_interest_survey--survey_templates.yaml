@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Erasmus Consortium Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_organization
+      label: Partner Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      - '{''label'': ''Option 5''}'
+      required: false
+    - id: 7
+      name: partner_organization_interests
+      label: Partner Organization Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 6''}'
+      - '{''label'': ''Option 7''}'
+      required: false
+    - id: 8
+      name: partner_organization_readiness
+      label: Partner Organization Readiness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 8''}'
+      - '{''label'': ''Option 9''}'
+      required: false
+    - id: 9
+      name: partner_organization_status
+      label: Partner Organization Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 10''}'
+      - '{''label'': ''Option 11''}'
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

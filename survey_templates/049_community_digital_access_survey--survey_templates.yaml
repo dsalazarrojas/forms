@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Digital Access Survey
+    pages:
+    - id: 1
+      name: section_digital_access_survey_intro
+      label: -- Community Digital Access Survey --
+      hint: Your feedback helps us assess and improve digital access in our community!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_full_name_das
+      label: Full Name of Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email_das
+      label: Email Address
+      hint: For follow-up and survey results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone_das
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_address_das
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_digital_access_assessment_das
+      label: -- Digital Access and Device Availability --
+      hint: Assess your current digital access and device availability.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: internet_access_availability_das
+      label: Do you have reliable internet access at home
+      hint: null
+      type: select_one
+      options:
+      - Yes, reliable access
+      - Somewhat reliable access
+      - No, unreliable access
+      - No internet access at all
+      required: true
+    - id: 8
+      name: device_access_availability_das
+      label: What digital devices do you have access to at home
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Laptop/Desktop Computer
+      - Smartphone/Tablet
+      - Internet-Enabled Gaming Console
+      - Digital Home Assistant
+      - Other
+      required: true
+    - id: 9
+      name: primary_device_for_internet_das
+      label: Which device do you primarily use for internet access
+      hint: Select one
+      type: select_one
+      options:
+      - Laptop/Desktop Computer
+      - Smartphone/Tablet
+      - Internet-Enabled Gaming Console
+      - Other
+      required: true
+    - id: 10
+      name: section_digital_skills_feedback_das
+      label: -- Digital Skills and Training Feedback --
+      hint: Tell us about your digital skills and training needs.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: digital_skill_level_das
+      label: Rate your overall comfort and skill with digital technology
+      hint: 1 (Very Low) to 5 (Very High)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: digital_training_interest_das
+      label: Which digital training topics are you most interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Basic Computer/Internet Skills
+      - Online Safety and Privacy
+      - Digital Literacy and Navigation
+      - Coding/Programming Skills
+      - Digital Content Creation
+      - Specialized Software Training
+      required: true
+    - id: 13
+      name: digital_resource_availability_das
+      label: Do you have access to digital resources and support
+      hint: null
+      type: select_one
+      options:
+      - Yes, adequate resources
+      - Somewhat adequate resources
+      - No, inadequate resources
+      required: true
+    - id: 14
+      name: improvement_ideas_digital_access_das
+      label: What are your ideas for improving digital access in our community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_final_submission_das
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: resident_signature_digital_das
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date_final_das
+      label: Date of Survey Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: newsletter_opt_in_das
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 19
+      name: referral_source_das
+      label: How did you hear about this digital access survey
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 20
+      name: emergency_contact_full_name_das
+      label: Emergency Contact Person
+      hint: Someone not living with the resident
+      type: text
+      options: []
+      required: true

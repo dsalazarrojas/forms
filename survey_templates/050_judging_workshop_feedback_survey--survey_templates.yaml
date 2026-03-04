@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judging Workshop Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the feedback survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate the judging workshop
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: What comments do you have
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommendation
+      label: Any recommendations or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_idea
+      label: How did you like the judging idea
+      hint: null
+      type: number
+      options: []
+      required: false

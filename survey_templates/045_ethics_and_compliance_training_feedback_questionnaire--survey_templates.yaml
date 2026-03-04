@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethics and Compliance Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: page_1
+      label: Training Program
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1_training_participants
+      label: Training Participants
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 3
+      name: section_2_training_topics
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: page_2
+      label: Page 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: section_3_training_value
+      label: Training Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_4_training_effectiveness
+      label: Training Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 7
+      name: section_5_training_participants
+      label: Training Participants
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: section_6_undertaken
+      label: Undertaken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: section_7_time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: section_8_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

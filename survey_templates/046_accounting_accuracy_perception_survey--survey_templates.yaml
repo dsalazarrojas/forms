@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Accuracy Perception Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+        - Finance and Accounting
+        - Operations
+        - Sales
+        - Marketing
+        - Human Resources
+        - IT
+        - Executive Leadership
+        - Other
+      required: true
+    - id: 4
+      name: role_level
+      label: Role Level
+      hint: null
+      type: select_one
+      options:
+        - Entry level
+        - Mid-level
+        - Senior level
+        - Manager
+        - Director or VP
+        - Executive
+      required: true
+    - id: 5
+      name: years_with_company
+      label: Years with the Company
+      hint: null
+      type: select_one
+      options:
+        - Less than 1 year
+        - 1-3 years
+        - 3-5 years
+        - 5-10 years
+        - More than 10 years
+      required: true
+    - id: 6
+      name: section_accuracy_perception
+      label: -- Accuracy Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_accuracy
+      label: How Would You Rate the Overall Accuracy of Financial Records
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Adequate
+        - Below average
+        - Poor
+      required: true
+    - id: 8
+      name: trust_in_reports
+      label: How Much Do You Trust the Financial Reports You Receive
+      hint: null
+      type: select_one
+      options:
+        - Completely trust
+        - Mostly trust
+        - Somewhat trust
+        - Rarely trust
+        - Do not trust
+      required: true
+    - id: 9
+      name: errors_encountered
+      label: How Often Do You Encounter Errors in Accounting Records
+      hint: null
+      type: select_one
+      options:
+        - Never
+        - Rarely
+        - Occasionally
+        - Frequently
+        - Very frequently
+      required: true
+    - id: 10
+      name: error_types
+      label: Types of Errors Encountered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Data entry mistakes
+        - Incorrect classifications
+        - Missing transactions
+        - Duplicate entries
+        - Timing or cutoff errors
+        - Calculation errors
+        - None encountered
+      required: true
+    - id: 11
+      name: report_timeliness
+      label: Are Financial Reports Delivered on Time
+      hint: null
+      type: select_one
+      options:
+        - Always
+        - Usually
+        - Sometimes
+        - Rarely
+        - Never
+      required: true
+    - id: 12
+      name: section_process_feedback
+      label: -- Process Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: reconciliation_effectiveness
+      label: How Effective Are Current Reconciliation Processes
+      hint: null
+      type: select_one
+      options:
+        - Very effective
+        - Effective
+        - Somewhat effective
+        - Ineffective
+        - Very ineffective
+        - Not sure
+      required: true
+    - id: 14
+      name: communication_with_finance
+      label: How Well Does the Finance Team Communicate Issues or Changes
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Adequate
+        - Poor
+        - Very poor
+      required: true
+    - id: 15
+      name: improvement_priority
+      label: What Area Needs the Most Improvement
+      hint: null
+      type: select_one
+      options:
+        - Data entry accuracy
+        - Report formatting and clarity
+        - Timeliness of reporting
+        - Internal controls
+        - Software and automation
+        - Staff training
+        - Communication
+      required: true
+    - id: 16
+      name: suggestions
+      label: Suggestions for Improving Accounting Accuracy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

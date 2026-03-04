@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Brand Strategy Survey
+    pages:
+    - id: 1
+      name: event_brand_strategy_survey
+      label: event_brand_strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_category
+      label: event_category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: event_subcategory
+      label: event_subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: brand_performance
+      label: brand_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: perception_of_brand
+      label: perception_of_brand
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: future_planning
+      label: future_planning
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: event_promotion
+      label: event_promotion
+      hint: null
+      type: text
+      options: []
+      required: false

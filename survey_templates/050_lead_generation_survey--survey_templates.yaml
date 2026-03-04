@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Generation Survey
+    pages:
+    - id: 1
+      name: lead_generation_survey_form_questions_1
+      label: What is your departments lead generation process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_generation_survey_form_questions_2
+      label: How do you rate your departments lead generation practices?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lead_generation_survey_form_questions_3
+      label: What are some specific areas where lead generation practices are weak?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_generation_survey_form_questions_4
+      label: What role do you see as the biggest contributor to lead generation?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: lead_generation_survey_form_questions_5
+      label: What role do you see as the biggest contributor to lead generation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: lead_generation_survey_form_questions_6
+      label: What are some ways to improve lead generation practices?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_generation_survey_form_questions_7
+      label: What are some ways to improve lead generation practices?
+      hint: null
+      type: text
+      options: []
+      required: false

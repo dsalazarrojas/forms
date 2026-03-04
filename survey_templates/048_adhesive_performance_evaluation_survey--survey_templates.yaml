@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adhesive Performance Evaluation Survey
+    pages:
+    - id: 1
+      name: tester_info_header
+      label: -- Product Tester Information --
+      hint: Your feedback helps us improve adhesive formulations and performance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tester_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_role
+      label: Company and Job Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_product_header
+      label: -- Product and Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: adhesive_product_id
+      label: Adhesive Product Name / Batch ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: substrate_material
+      label: Substrate Material (What were you bonding?)
+      hint: null
+      type: select_one
+      options:
+      - Metal to Metal
+      - Plastic to Plastic
+      - Metal to Plastic
+      - Wood / Composites
+      - Glass / Ceramics
+      - Other
+      required: true
+    - id: 7
+      name: application_method
+      label: Application Method
+      hint: null
+      type: select_one
+      options:
+      - Manual Dispensing
+      - Automated / Robotic Spray
+      - Brush / Roller
+      - Film / Tape Application
+      required: true
+    - id: 8
+      name: performance_ratings_header
+      label: -- Performance Evaluation --
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rating_workability
+      label: Ease of Application / Workability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: rating_cure_time
+      label: Curing / Set Time Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rating_bond_strength
+      label: Initial Bond Strength
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: failure_mode_observed
+      label: Observed Failure Mode (if tested to failure)
+      hint: null
+      type: select_one
+      options:
+      - Cohesive Failure (Adhesive split)
+      - Adhesive Failure (Clean separation from substrate)
+      - Substrate Failure (Material broke before bond)
+      - No failure observed
+      required: false
+    - id: 13
+      name: environmental_testing
+      label: Was the bond exposed to environmental stress?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High Temperature
+      - High Humidity / Moisture
+      - Chemical / Solvent Exposure
+      - UV Light Exposure
+      - None
+      required: true
+    - id: 14
+      name: overall_recommendation
+      label: Would you recommend this formulation for this application?
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend with modifications
+      - Do not recommend
+      required: true
+    - id: 15
+      name: qualitative_feedback
+      label: Additional Observations or Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true

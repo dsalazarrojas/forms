@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Tax Organizer Form
+    pages:
+    - id: 1
+      name: rental_property_info
+      label: Rental Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: taxpayer_info
+      label: Taxpayer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: tax_base
+      label: Tax Base
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: tax_rate_type
+      label: Tax Rate Type
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: tax_exempt
+      label: Tax Exempt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: tax_deduction
+      label: Tax Deduction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tax_credit
+      label: Tax Credit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: rental_period
+      label: Rental Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: tax_filing_status
+      label: Tax Filing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Joint
+      required: false
+    - id: 12
+      name: tax_filing_type
+      label: Tax Filing Type
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Business
+      required: false
+    - id: 13
+      name: tax_notes
+      label: Tax Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

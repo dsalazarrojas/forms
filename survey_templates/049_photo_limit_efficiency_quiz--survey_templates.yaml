@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Limit Efficiency Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_limit
+      label: Photo Limit
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '20'
+      - '30'
+      - '40'
+      - '50'
+      required: true
+    - id: 5
+      name: storage_efficiency
+      label: Storage Efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 6
+      name: quality_of_photo
+      label: Quality of Photo
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 7
+      name: balance_point
+      label: Balance Point
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

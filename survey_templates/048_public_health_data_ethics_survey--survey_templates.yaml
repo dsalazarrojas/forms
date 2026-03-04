@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Data Ethics Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: public_health_data_ethics_survey_introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attitudes
+      label: attitudes_towards_data_sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: concerns
+      label: concerns_about_data_sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priorities
+      label: priorities_for_data_sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: demographic_info_question1
+      label: what_is_your_level_of_awareness_about_the_importance_of_data_privacy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: demographic_info_question2
+      label: have_you_participated_in_an_informed_consent_process
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 8
+      name: demographic_info_question3
+      label: do_you_agree_with_the_following_statement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''agree''}'
+      - '{''label'': ''disagree''}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 9
+      name: demographic_info_question4
+      label: how_would_you_like_to_becontacted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: demographic_info_question5
+      label: do_you_have_a_medical_history
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 12
+      name: demographic_info_question6
+      label: do_you_have_any_other_health_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 13
+      name: demographic_info_question7
+      label: do_you_talk_to_your_doctor_about_data_sharing
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 14
+      name: demographic_info_question8
+      label: do_you_agree_to_share_your_data
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 15
+      name: demographic_info_question9
+      label: do_you_have_a_preferred_method_of_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: demographic_info_question10
+      label: do_you_want_to_becontacted_by_email
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 17
+      name: demographic_info_question11
+      label: do_you_want_to_becontacted_by_phone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 18
+      name: demographic_info_question12
+      label: do_you_want_to_becontacted_by_post
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 19
+      name: demographic_info_question13
+      label: do_you_want_to_becontacted_by_sms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      required: false
+    - id: 20
+      name: contact_info2
+      label: how_would_you_like_to_becontacted
+      hint: null
+      type: text
+      options: []
+      required: false

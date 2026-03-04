@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submission Quality Peer Reviewer Feedback Form
+    pages:
+    - id: 1
+      name: reviewer_rating
+      label: Reviewer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_affiliation
+      label: Reviewer Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Under Review
+      - In Progress
+      - Accepted
+      - Rejected
+      required: true
+    - id: 6
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback_suggestions
+      label: Feedback Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Journal
+      - Workshop
+      - Other
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

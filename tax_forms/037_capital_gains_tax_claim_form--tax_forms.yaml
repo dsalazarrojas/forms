@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Gains Tax Claim Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Gains Tax Claim Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Report your capital gains and claim applicable tax deductions. Complete
+        this form accurately for proper tax assessment.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: taxpayer_info_header
+      label: -- Taxpayer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: taxpayer_id
+      label: Taxpayer ID or SSN
+      hint: Tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: filing_status
+      label: Filing Status
+      hint: Select one
+      type: select_one
+      options:
+      - Single
+      - Married filing jointly
+      - Married filing separately
+      - Head of household
+      - Qualifying widow(er)
+      required: true
+    - id: 10
+      name: tax_year
+      label: Tax Year
+      hint: Year of capital gains
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: asset_info_header
+      label: -- Asset Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: asset_type
+      label: Type of Asset Sold
+      hint: Select one
+      type: select_one
+      options:
+      - Real estate
+      - Stock
+      - Bond
+      - Mutual fund
+      - Cryptocurrency
+      - Business interest
+      - Collectible
+      - Other property
+      required: true
+    - id: 13
+      name: asset_description
+      label: Asset Description
+      hint: Describe the asset
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: acquisition_date
+      label: Acquisition Date
+      hint: When was it purchased
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: acquisition_cost
+      label: Acquisition Cost
+      hint: Original purchase price
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: sale_date
+      label: Sale Date
+      hint: When was it sold
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: sale_proceeds
+      label: Sale Proceeds
+      hint: Amount received from sale
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: holding_period
+      label: Holding Period
+      hint: Select one
+      type: select_one
+      options:
+      - Short-term (less than 1 year)
+      - Long-term (1 year or more)
+      required: true
+    - id: 19
+      name: capital_gain_loss_header
+      label: -- Capital Gain/Loss Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: adjusted_cost_basis
+      label: Adjusted Cost Basis
+      hint: Cost basis after adjustments
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: selling_costs
+      label: Selling Costs
+      hint: Commissions, fees, etc.
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: capital_gain_loss
+      label: Capital Gain or Loss
+      hint: Calculated automatically
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: expense_info_header
+      label: -- Deductible Expenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: improvement_costs
+      label: Capital Improvement Costs
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_deductible_expenses
+      label: Other Deductible Expenses
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: offset_loss_header
+      label: -- Loss Carryover --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: prior_year_loss
+      label: Prior Year Capital Loss Carryover
+      hint: If any
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: current_year_losses
+      label: Current Year Capital Losses
+      hint: Other losses from 2024
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: exclusion_header
+      label: -- Section 121 Exclusion (Primary Residence) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: primary_residence_sale
+      label: Is this the sale of a primary residence?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 31
+      name: ownership_test
+      label: Owned for 2 of last 5 years?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 32
+      name: use_test
+      label: Used as primary residence for 2 of last 5 years?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 33
+      name: exclusion_amount
+      label: Section 121 Exclusion Amount
+      hint: If qualified
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: installment_header
+      label: -- Installment Sale Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: installment_sale
+      label: Is this an installment sale?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 36
+      name: payments_received
+      label: Payments Received This Year
+      hint: If installment sale
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: confirmation
+      label: I confirm that all information is accurate and complete
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      required: true

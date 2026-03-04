@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Preference Quiz
+    pages:
+    - id: 1
+      name: plant_seller_type
+      label: What type of plant seller are you?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: plant_seller_location
+      label: Where do you usually purchase plants?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: plant_seller_ages
+      label: What age group best describes your target audience?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: target_age_group
+      label: What age group best describes your target audience?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: houseplant_category
+      label: What category of houseplants are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: houseplant_category_2
+      label: Which houseplant category is most important to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 7
+      name: plant_sensitivity
+      label: How sensitive are you about plants?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: recommended_plant_price
+      label: At what price would you likely purchase a plant?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: recommended_plant_price_2
+      label: How much would you pay for a houseplant?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: customer_service_level
+      label: How important is customer service to you?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 11
+      name: customer_service_level_2
+      label: Customer service level?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: plant_type
+      label: What type of plants do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: plant_type_2
+      label: What type of plants do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: time_to_ship
+      label: What is your desired time frame for shipping?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: time_to_ship_2
+      label: How quickly would you like plants to ship?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: plant_size
+      label: What size range of plants would you be interested in?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: customer_service
+      label: What is your desired level of customer support?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 18
+      name: customer_service_2
+      label: How important is customer support?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 19
+      name: shipping
+      label: What is your preferred shipping method?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: shipping_2
+      label: Shipping options?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: payment_options
+      label: What type of payment options would you be interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: plant_seller_ages_2
+      label: What age group best describes your target audience?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: houseplant_category_2
+      label: Which houseplant category is most important to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 24
+      name: shipping_cost
+      label: What is your estimated budget for shipping?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: plant_sensitivities
+      label: How sensitive are you about plants?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aging Self Assessment Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Enter your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Respondent Age
+      hint: Enter your current age
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: physical_health_header
+      label: -- Physical Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: general_health_rating
+      label: General Health Rating
+      hint: How would you rate your overall health?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: Do you have any chronic health conditions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: chronic_conditions_list
+      label: List Chronic Conditions
+      hint: If yes, please list your chronic health conditions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mobility_difficulty
+      label: Mobility Difficulty
+      hint: Do you experience difficulty with mobility or walking?
+      type: select_one
+      options:
+      - No difficulty
+      - Some difficulty
+      - Much difficulty
+      - Cannot do at all
+      required: true
+    - id: 9
+      name: vision_hearing_difficulty
+      label: Vision/Hearing Difficulty
+      hint: Do you experience difficulty with vision or hearing?
+      type: select_one
+      options:
+      - No difficulty
+      - Some difficulty
+      - Much difficulty
+      - Cannot do at all
+      required: true
+    - id: 10
+      name: daily_activities_header
+      label: -- Daily Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: bathing_difficulty
+      label: Bathing Difficulty
+      hint: Do you experience difficulty with bathing or showering?
+      type: select_one
+      options:
+      - No difficulty
+      - Some difficulty
+      - Much difficulty
+      - Cannot do at all
+      required: true
+    - id: 12
+      name: dressing_difficulty
+      label: Dressing Difficulty
+      hint: Do you experience difficulty with dressing?
+      type: select_one
+      options:
+      - No difficulty
+      - Some difficulty
+      - Much difficulty
+      - Cannot do at all
+      required: true
+    - id: 13
+      name: meal_preparation_difficulty
+      label: Meal Preparation Difficulty
+      hint: Do you experience difficulty with preparing meals?
+      type: select_one
+      options:
+      - No difficulty
+      - Some difficulty
+      - Much difficulty
+      - Cannot do at all
+      required: true
+    - id: 14
+      name: medication_management_difficulty
+      label: Medication Management Difficulty
+      hint: Do you experience difficulty managing your medications?
+      type: select_one
+      options:
+      - No difficulty
+      - Some difficulty
+      - Much difficulty
+      - Cannot do at all
+      required: true
+    - id: 15
+      name: mental_health_header
+      label: -- Mental Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: mood_rating
+      label: Mood Rating
+      hint: How would you rate your mood most days?
+      type: select_one
+      options:
+      - Very happy
+      - Happy
+      - Neutral
+      - Sad
+      - Very sad
+      required: true
+    - id: 17
+      name: anxiety_frequency
+      label: Anxiety Frequency
+      hint: How often do you feel anxious?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 18
+      name: memory_concerns
+      label: Memory Concerns
+      hint: Do you have concerns about your memory?
+      type: select_one
+      options:
+      - No concerns
+      - Minor concerns
+      - Moderate concerns
+      - Significant concerns
+      required: true
+    - id: 19
+      name: social_connections_header
+      label: -- Social Connections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: social_activity_frequency
+      label: Social Activity Frequency
+      hint: How often do you participate in social activities?
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: loneliness_frequency
+      label: Loneliness Frequency
+      hint: How often do you feel lonely?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 22
+      name: living_arrangement
+      label: Living Arrangement
+      hint: What is your current living arrangement?
+      type: select_one
+      options:
+      - Alone
+      - With spouse/partner
+      - With family
+      - In assisted living
+      - In nursing home
+      - Other
+      required: true
+    - id: 23
+      name: technology_use_header
+      label: -- Technology Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: technology_comfort_level
+      label: Technology Comfort Level
+      hint: How comfortable are you with using technology?
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 25
+      name: technology_assistance_needs
+      label: Technology Assistance Needs
+      hint: What type of technology assistance do you need?
+      type: select_multiple
+      options:
+      - Smartphone usage
+      - Computer skills
+      - Video calling
+      - Online shopping
+      - Telehealth
+      - Social media
+      - None
+      - Other
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about your aging experience
+      type: text
+      options: []
+      required: false

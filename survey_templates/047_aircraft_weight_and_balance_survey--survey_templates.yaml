@@ -1,0 +1,361 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Weight and Balance Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: aircraft_type
+      label: Aircraft Type
+      hint: Primary aircraft type
+      type: select_one
+      options:
+      - Single engine piston
+      - Multi-engine piston
+      - Turboprop
+      - Light jet
+      - Mid-size jet
+      - Heavy jet
+      - Helicopter
+      - Other
+      required: true
+    - id: 7
+      name: role_in_operations
+      label: Role in Operations
+      hint: Your primary role
+      type: select_one
+      options:
+      - Pilot
+      - Dispatcher
+      - Load planner
+      - Operations manager
+      - Maintenance
+      - Safety officer
+      - Other
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Experience
+      hint: In aviation
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: true
+    - id: 9
+      name: wb_software_used
+      label: Weight and Balance Software
+      hint: Systems you use
+      type: select_multiple
+      options:
+      - Manual calculations
+      - Excel spreadsheets
+      - Flight planning software
+      - Aircraft-specific system
+      - Electronic flight bag
+      - Other
+      required: true
+    - id: 10
+      name: wb_frequency
+      label: Frequency of W&B Calculations
+      hint: How often do you calculate
+      type: select_one
+      options:
+      - Every flight
+      - Daily
+      - Weekly
+      - As needed
+      - Rarely
+      required: true
+    - id: 11
+      name: calculation_method
+      label: Primary Calculation Method
+      hint: How do you calculate
+      type: select_one
+      options:
+      - Manual computation
+      - Software automated
+      - Load sheet template
+      - Flight computer
+      - Other
+      required: true
+    - id: 12
+      name: confidence_level
+      label: Confidence in W&B Knowledge
+      hint: How confident are you
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident
+      required: true
+    - id: 13
+      name: training_received
+      label: W&B Training Received
+      hint: Have you had formal training
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, basic
+      - On-the-job only
+      - No formal training
+      required: true
+    - id: 14
+      name: training_adequacy
+      label: Training Adequacy
+      hint: Was training sufficient
+      type: select_one
+      options:
+      - Very adequate
+      - Adequate
+      - Somewhat adequate
+      - Inadequate
+      - Very inadequate
+      required: false
+    - id: 15
+      name: common_challenges
+      label: Common Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Last-minute passenger changes
+      - Cargo weight uncertainty
+      - Fuel calculation errors
+      - Software issues
+      - Time pressure
+      - Complex aircraft
+      - Multiple stops
+      - None
+      required: true
+    - id: 16
+      name: error_frequency
+      label: Error Frequency
+      hint: How often do errors occur
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Frequently
+      required: true
+    - id: 17
+      name: error_types
+      label: Common Error Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data entry mistakes
+      - Calculation errors
+      - Wrong aircraft data
+      - Outdated weights
+      - Miscommunication
+      - Software glitches
+      - None
+      required: false
+    - id: 18
+      name: verification_process
+      label: Verification Process
+      hint: How are calculations verified
+      type: select_one
+      options:
+      - Double-check by same person
+      - Independent verification
+      - Software validation
+      - No verification
+      - Other
+      required: true
+    - id: 19
+      name: cg_concerns
+      label: CG Concerns
+      hint: How often is CG a concern
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 20
+      name: load_distribution_issues
+      label: Load Distribution Issues
+      hint: Frequency of issues
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: passenger_weight_method
+      label: Passenger Weight Method
+      hint: How are weights determined
+      type: select_one
+      options:
+      - Actual weights
+      - Standard weights
+      - Estimated
+      - Not considered
+      required: true
+    - id: 22
+      name: cargo_weighing
+      label: Cargo Weighing Practice
+      hint: How is cargo weighed
+      type: select_one
+      options:
+      - Always weighed
+      - Sometimes weighed
+      - Estimated
+      - Based on manifest
+      required: true
+    - id: 23
+      name: fuel_planning
+      label: Fuel Planning Integration
+      hint: How is fuel included
+      type: select_one
+      options:
+      - Fully integrated
+      - Separate calculation
+      - Estimated
+      - Not considered
+      required: true
+    - id: 24
+      name: documentation_quality
+      label: Documentation Quality
+      hint: Rate your W&B docs
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 25
+      name: technology_satisfaction
+      label: Technology Satisfaction
+      hint: Rate current tools
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 26
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Better software
+      - More training
+      - Clearer procedures
+      - Faster process
+      - Better communication
+      - Automation
+      - Standardization
+      required: true
+    - id: 27
+      name: safety_impact
+      label: Safety Impact Perception
+      hint: How important is W&B for safety
+      type: select_one
+      options:
+      - Critical
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: true
+    - id: 28
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: Is compliance maintained
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 29
+      name: additional_training_needed
+      label: Additional Training Needed
+      hint: Do you need more training
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - No, adequate
+      - No, overqualified
+      required: true
+    - id: 30
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: Your recommendations
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: survey_complete
+      label: Survey Complete
+      hint: Confirmation
+      type: select_one
+      options:
+      - Yes, complete
+      - No, incomplete
+      required: true

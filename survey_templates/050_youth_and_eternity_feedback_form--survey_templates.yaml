@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth And Eternity Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: how_were_you_feeling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: comments
+      label: any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name_email
+      label: name_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: name_phone
+      label: name_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age_date
+      label: age_date
+      hint: null
+      type: date
+      options: []
+      required: false

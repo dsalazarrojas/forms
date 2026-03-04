@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Faculty Performance Feedback Form
+    pages:
+    - id: 1
+      name: instructor_evaluation_form
+      label: Instructor Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: teaching_quality
+      label: Teaching Quality
+      hint: How would you rate the instructor's teaching quality?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_skills
+      label: Communication Skills
+      hint: How would you rate the instructor's communication skills?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_management
+      label: Time Management
+      hint: How would you rate the instructor's time management?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: course_materials
+      label: Course Materials
+      hint: How would you rate the quality of course materials provided?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_counseling
+      label: Student Counseling
+      hint: How would you rate the instructor's willingness to counsel students?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_facilitation
+      label: Student Facilitation
+      hint: How would you rate the instructor's ability to facilitate student learning?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: course_organization
+      label: Course Organization
+      hint: How would you rate the overall organization of the course?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_engagement
+      label: Student Engagement
+      hint: How would you rate student engagement with the course material?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: instructor_support
+      label: Instructor Support
+      hint: How would you rate the instructor's support for students?
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: course_relevance
+      label: Course Relevance
+      hint: How would you rate the relevance of course content?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: overall_experience
+      label: Overall Experience
+      hint: How would you rate your overall experience with this course?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything else you'd like to share about your experience?
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false

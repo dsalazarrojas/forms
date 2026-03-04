@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Observation Form
+    pages:
+    - id: 1
+      name: teacher_observation_form
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject
+      label: Subject
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - English
+      - Physical Education
+      - Other
+      required: false
+    - id: 3
+      name: teacher_id
+      label: Teacher
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: practice_area_observed
+      label: Practice Area Observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 8
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 9
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 10
+      name: observation_notes
+      label: Observation Notes
+      hint: Please describe your observations
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 12
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      required: false
+    - id: 18
+      name: teacher_rating_average
+      label: Teacher Rating Average
+      hint: null
+      type: select_multiple
+      options:
+      - 3-3.5
+      - 3.6-4
+      - Less than 3
+      required: false
+    - id: 19
+      name: teacher_rating_count
+      label: Teacher Rating Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_updated_by_id
+      label: Last Updated By ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: last_updated_by_user
+      label: Last Updated By User
+      hint: null
+      type: text
+      options: []
+      required: false

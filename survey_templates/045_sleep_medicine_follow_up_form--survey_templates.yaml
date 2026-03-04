@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Medicine Follow Up Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: sleep_difficulty
+      label: Sleep Difficulty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mild'', ''label'': ''Mild''}'
+      - '{''id'': 2, ''name'': ''Moderate'', ''label'': ''Moderate''}'
+      - '{''id'': 3, ''name'': ''Severe'', ''label'': ''Severe''}'
+      required: true
+    - id: 4
+      name: sleep_symptoms
+      label: Sleep Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sleep_diagnosis
+      label: Sleep Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_progress
+      label: Treatment Progress
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_effectiveness
+      label: Treatment Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Effective'', ''label'': ''Effective''}'
+      - '{''id'': 2, ''name'': ''Ineffective'', ''label'': ''Ineffective''}'
+      - '{''id'': 3, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

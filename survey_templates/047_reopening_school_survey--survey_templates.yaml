@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reopening School Survey
+    pages:
+    - id: 1
+      name: get_input_from_parents
+      label: Get parent input about whether to send their children to school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_administrators
+      label: Free survey for school administrators
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: works_on_any_device
+      label: Works on any device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: easy_to_customize_and_embed
+      label: Easy to customize and embed
+      hint: null
+      type: note
+      options: []
+      required: false

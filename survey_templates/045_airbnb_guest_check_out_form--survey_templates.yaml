@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Guest Check Out Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Name of the departing guest
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_out_date
+      label: Check out date
+      hint: Date of departure
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: condition_of_property
+      label: Condition of property at check out
+      hint: Any damages or issues to report
+      type: select_one
+      options:
+      - Good
+      - Minor issues
+      - Major issues
+      required: true
+    - id: 4
+      name: feedback_on_stay
+      label: Feedback on stay experience
+      hint: Short feedback for the host
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_charges
+      label: Additional charges reported
+      hint: Any fees for damages or extra cleaning
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommend_to_others
+      label: Would you recommend this property
+      hint: Guest likelihood to recommend
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 7
+      name: host_response_needed
+      label: Host response needed
+      hint: Does the host need to follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: final_comments
+      label: Final comments from guest
+      hint: Anything else to note before departure
+      type: text
+      options: []
+      required: false

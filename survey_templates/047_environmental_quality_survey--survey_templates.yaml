@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Quality Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_info
+      label: household info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_size
+      label: household size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: family_income
+      label: family income
+      hint: Enter the family income.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: family_income_frequency
+      label: how often do you report your family income
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: household_income_source
+      label: income source
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Self-Employed
+      - Investments
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: household_income_frequency_source
+      label: how often do you report your household income source
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: household_income_frequency_frequency
+      label: how often do you report your household income source frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: household_income_frequency_frequency_source
+      label: how often do you report your household income source frequency
+      hint: null
+      type: select_one
+      options:
+      - Every Day
+      - Every Week
+      - Every Month
+      required: false
+    - id: 10
+      name: household_practices
+      label: household practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: household_practices_frequency
+      label: how often do you perform your household practices
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      required: false
+    - id: 12
+      name: household_practices_source
+      label: household practices source
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Energy
+      - Waste
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: household_waste
+      label: household waste
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: environmental_conditions
+      label: environmental conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: environmental_conditions_awareness
+      label: environmental conditions awareness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: environmental_conditions_frequency
+      label: how often do you experience environmental conditions
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 17
+      name: household_water
+      label: household water
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: household_energy
+      label: household energy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: household_air_quality
+      label: household air quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: household_waste_disposal
+      label: household waste disposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: household_recycling
+      label: household recycling
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 22
+      name: household_reuse
+      label: household reuse
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      required: false
+    - id: 23
+      name: household_reuse_frequency
+      label: how often do you reuse
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 24
+      name: household_recycling_frequency
+      label: how often do you recycle
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      required: false
+    - id: 25
+      name: household_recycling_source
+      label: household recycling source
+      hint: null
+      type: select_multiple
+      options:
+      - Curbside
+      - Recycling bin
+      - Community center
+      - Other (please specify)
+      required: false

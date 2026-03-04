@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blank T Shirt Order Form Template
+    pages:
+    - id: 1
+      name: order_intro
+      label: T-Shirt Order Form
+      hint: Complete this form to order your custom t-shirts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: If ordering for a group or company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shirt_style
+      label: Shirt Style
+      hint: Choose the style
+      type: select_one
+      options:
+      - Crew Neck Short Sleeve
+      - V-Neck Short Sleeve
+      - Long Sleeve
+      - Polo Shirt
+      - Tank Top
+      - Hoodie
+      required: true
+    - id: 7
+      name: shirt_brand
+      label: Shirt Brand
+      hint: Preferred brand
+      type: select_one
+      options:
+      - Gildan
+      - Hanes
+      - Fruit of the Loom
+      - Bella Canvas
+      - Next Level
+      - No Preference
+      required: false
+    - id: 8
+      name: shirt_color
+      label: Shirt Color
+      hint: Primary color choice
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy
+      - Gray
+      - Red
+      - Royal Blue
+      - Forest Green
+      - Maroon
+      - Orange
+      - Yellow
+      required: true
+    - id: 9
+      name: size_small_qty
+      label: Small Quantity
+      hint: Number of small shirts
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: size_medium_qty
+      label: Medium Quantity
+      hint: Number of medium shirts
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: size_large_qty
+      label: Large Quantity
+      hint: Number of large shirts
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: size_xl_qty
+      label: X-Large Quantity
+      hint: Number of XL shirts
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: size_xxl_qty
+      label: XX-Large Quantity
+      hint: Number of XXL shirts
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: size_xxxl_qty
+      label: XXX-Large Quantity
+      hint: Number of XXXL shirts
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: printing_method
+      label: Printing Method
+      hint: How should design be applied
+      type: select_one
+      options:
+      - Screen Printing
+      - Heat Transfer
+      - Direct to Garment
+      - No Printing
+      required: true
+    - id: 16
+      name: design_uploaded
+      label: Design Upload
+      hint: Have you uploaded your design
+      type: select_one
+      options:
+      - Yes Uploaded
+      - Will Email Later
+      - Need Design Help
+      required: true
+    - id: 17
+      name: print_location
+      label: Print Location
+      hint: Where should design appear
+      type: select_multiple
+      options:
+      - Front Center
+      - Back Center
+      - Left Sleeve
+      - Right Sleeve
+      - Full Back
+      required: false
+    - id: 18
+      name: number_of_colors
+      label: Number of Colors in Design
+      hint: How many colors
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: delivery_date
+      label: Needed By Date
+      hint: When do you need the shirts
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: shipping_address
+      label: Shipping Address
+      hint: Where should we ship
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false

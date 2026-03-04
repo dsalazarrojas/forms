@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: weight loss survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: Please enter your age
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: sex
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - female
+      - male
+      required: true
+    - id: 4
+      name: height_in_cm
+      label: height in cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: weight_in_kg
+      label: weight in kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: waist_measurement_in_cm
+      label: waist measurement in cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: blood_pressure_systolic
+      label: blood pressure (systolic) in mmHg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: blood_pressure_diastolic
+      label: blood pressure (diastolic) in mmHg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: blood_pressure_heart_rate
+      label: blood pressure heart rate per minute
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: medication_list
+      label: medication list
+      hint: null
+      type: select_multiple
+      options:
+      - aspirin
+      - ibuprofen
+      - paracetamol
+      - vitamin
+      - citalopram
+      - diazepam
+      required: true
+    - id: 11
+      name: physical_activity
+      label: physical activity level
+      hint: null
+      type: select_one
+      options:
+      - none
+      - low
+      - moderate
+      - high
+      required: true
+    - id: 12
+      name: medical_condition
+      label: medical condition (e.g. diabetes)
+      hint: null
+      type: select_one
+      options:
+      - none
+      - diabetes
+      - hypertension
+      - hypothyroidism
+      - hypothyroidism type 2
+      - obesity
+      required: true
+    - id: 13
+      name: diet_type
+      label: what type of diet do you follow?
+      hint: null
+      type: select_one
+      options:
+      - vegetarian
+      - vegan
+      - pescatarian
+      - flexitarian
+      - paleo
+      - low-carb
+      - keto
+      - low-fat
+      - other
+      required: true
+    - id: 14
+      name: current_body_mass_index
+      label: body mass index (bmi)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: weight_loss_goal
+      label: what is your weight loss goal
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: weight_loss_plan
+      label: do you have a weight loss plan?
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - yes, with a plan
+      - yes, without a plan
+      required: true
+    - id: 17
+      name: weight_loss_start_date
+      label: when do you plan to start your weight loss journey?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: weight_loss_duration
+      label: how long have you been trying to lose weight?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: weight_loss_method
+      label: what method did you use to lose weight?
+      hint: null
+      type: select_multiple
+      options:
+      - low-fat diet
+      - high-protein diet
+      - intermittent fasting
+      - low-carb diet
+      - keto diet
+      - weight watchers
+      - other
+      required: true
+    - id: 20
+      name: motivation
+      label: why do you want to lose weight?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: weight_loss_progress
+      label: how much weight have you lost in the past year?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: weight_loss_progress_2
+      label: how much weight do you expect to lose in the next year?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: weight_loss_progress_3
+      label: how much weight do you expect to lose in the next 2 years?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: weight_loss_progress_4
+      label: how much weight do you expect to lose in the next 5 years?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: weight_loss_goal_2
+      label: what is your goal weight?
+      hint: null
+      type: number
+      options: []
+      required: true

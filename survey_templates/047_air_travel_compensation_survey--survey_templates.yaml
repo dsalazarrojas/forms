@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Travel Compensation Survey
+    pages:
+    - id: 1
+      name: flight_info_header
+      label: -- Flight Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: passenger_name
+      label: Passenger Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: airline
+      label: Airline
+      hint: Carrier name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: Flight Number
+      hint: e.g. AA123
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_date
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: disruption_details_header
+      label: -- Disruption Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: disruption_type
+      label: Type of Disruption
+      hint: What went wrong?
+      type: select_one
+      options:
+      - Flight Delay
+      - Flight Cancellation
+      - Denied Boarding (Overbooking)
+      - Lost / Damaged Baggage
+      - Missed Connection
+      required: true
+    - id: 8
+      name: delay_duration
+      label: Delay Duration (Hours)
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: compensation_offered
+      label: Compensation Offered
+      hint: What did the airline give you?
+      type: select_multiple
+      options:
+      - Cash / Check
+      - Travel Voucher / Credit
+      - Miles / Points
+      - Hotel Accommodation
+      - Meal Vouchers
+      - None
+      required: true
+    - id: 10
+      name: satisfaction_header
+      label: -- Experience Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: handling_satisfaction
+      label: Satisfaction with Handling
+      hint: How did staff treat you?
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 12
+      name: claim_ease
+      label: Ease of Claim Process
+      hint: Was it easy to get paid?
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Neutral
+      - Easy
+      - Very Easy
+      - Did not file a claim
+      required: true
+    - id: 13
+      name: fly_again
+      label: Would you fly with us again?
+      hint: Future intent
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 14
+      name: comments
+      label: Additional Comments
+      hint: Share your story
+      type: text
+      options: []
+      required: false

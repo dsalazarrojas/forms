@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_survey
+    pages:
+    - id: 1
+      name: gaming_survey_title
+      label: Gaming Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: platform_name
+      label: Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - MMORPG
+      - FPS
+      - MOBA
+      - RPG
+      required: false
+    - id: 5
+      name: game_genre
+      label: Game Genre
+      hint: null
+      type: select_multiple
+      options:
+      - action
+      - adventure
+      - arcade
+      - racing
+      - role-playing
+      - role-playing
+      required: false
+    - id: 6
+      name: player_level
+      label: Player Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: player_platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Mobile
+      - Console
+      - Web
+      required: false

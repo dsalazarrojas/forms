@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: innovation_center_field_trip_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_code
+      label: School Code
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_inspection_form
+    pages:
+    - id: 1
+      name: pool_location
+      label: Pool Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_one
+      options:
+      - Above ground
+      - Inground
+      - Solar
+      - Filled
+      - Other
+      required: false
+    - id: 3
+      name: pool_size
+      label: Pool Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pool_condition
+      label: Pool Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 6
+      name: safety_hazards
+      label: Safety Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 7
+      name: electrical_outlets
+      label: Electrical Outlets
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 8
+      name: electrical_hardware
+      label: Electrical Hardware
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 9
+      name: fencing
+      label: Fencing
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 10
+      name: deck_and_walking_paths
+      label: Deck and Walking Paths
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 11
+      name: pool_equipment
+      label: Pool Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 12
+      name: pool_drain_system
+      label: Pool Drain System
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 13
+      name: water_level
+      label: Water Level
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 14
+      name: pool_surrounding_area
+      label: Pool Surrounding Area
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 15
+      name: water_testing
+      label: Water Testing
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 16
+      name: pool_cleaning_schedule
+      label: Pool Cleaning Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false

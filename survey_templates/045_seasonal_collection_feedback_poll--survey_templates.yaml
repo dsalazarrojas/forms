@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Collection Feedback Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: How do you feel about our seasonal collection?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What do you think is the most appealing item in our collection?
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 3
+      name: question2
+      label: How likely are you to recommend our seasonal collection to a friend or
+        family member?
+      hint: null
+      type: select_one
+      options:
+      - Not at all likely
+      - Somewhat likely
+      - Very likely
+      - Extremely likely
+      required: false
+    - id: 4
+      name: question3
+      label: How would you rate our seasonal collection overall?
+      hint: null
+      type: select_one
+      options:
+      - 1/5
+      - 2/5
+      - 3/5
+      - 4/5
+      - 5/5
+      required: false
+    - id: 5
+      name: question4
+      label: Would you consider buying from us again?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Maybe
+      - 'Yes'
+      required: false
+    - id: 6
+      name: question5
+      label: What do you think we could improve on in our seasonal collection?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: Do you have any additional comments or suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographics
+      label: What type of product are you purchasing from us most frequently?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clothing
+      - Accessories
+      - Home Decor
+      - Furniture
+      - Other
+      required: false

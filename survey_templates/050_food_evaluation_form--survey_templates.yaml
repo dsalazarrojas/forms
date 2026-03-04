@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Evaluation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_quality
+      label: Food Quality
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: staff_welcoming
+      label: Staff Welcoming
+      hint: null
+      type: select_multiple
+      options:
+      - Very Welcoming
+      - Somewhat Welcoming
+      - Not Welcoming
+      required: false
+    - id: 6
+      name: food_price
+      label: Food Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - Very Clean
+      - Somewhat Clean
+      - Not Clean
+      required: false
+    - id: 8
+      name: food_quality_score
+      label: Food Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 10
+      name: recommendation
+      label: Would You Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breakup Recovery Reflection Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Your Name
+        hint: Optional, for your records
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: Optional, for follow-up resources
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: relationship_duration
+        label: How Long Was the Relationship
+        hint: Duration of your relationship
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6 months to 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 4
+        name: time_since_breakup
+        label: Time Since Breakup
+        hint: How long ago did it end
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-2 weeks
+          - 2-4 weeks
+          - 1-3 months
+          - 3-6 months
+          - 6+ months
+        required: true
+      - id: 5
+        name: current_emotional_state
+        label: Current Emotional State
+        hint: How are you feeling right now
+        type: select_multiple
+        options:
+          - Sad
+          - Angry
+          - Confused
+          - Relieved
+          - Anxious
+          - Hopeful
+          - Numb
+          - Accepting
+          - Lonely
+          - Empowered
+        required: true
+      - id: 6
+        name: emotional_intensity
+        label: Emotional Intensity
+        hint: Rate the intensity of your emotions
+        type: select_one
+        options:
+          - Very Intense
+          - Intense
+          - Moderate
+          - Mild
+          - Minimal
+        required: true
+      - id: 7
+        name: support_system
+        label: Support System
+        hint: Do you have people to talk to
+        type: select_one
+        options:
+          - Strong Support System
+          - Some Support
+          - Limited Support
+          - No Support
+        required: true
+      - id: 8
+        name: coping_mechanisms
+        label: Coping Mechanisms
+        hint: What helps you cope
+        type: select_multiple
+        options:
+          - Talking to Friends
+          - Exercise
+          - Journaling
+          - Therapy or Counseling
+          - Meditation
+          - Creative Activities
+          - Spending Time Alone
+          - Watching Movies or TV
+          - Reading
+          - Other
+        required: true
+      - id: 9
+        name: daily_functioning
+        label: Daily Functioning
+        hint: How well are you functioning daily
+        type: select_one
+        options:
+          - Very Well
+          - Mostly Well
+          - Getting By
+          - Struggling
+          - Very Poorly
+        required: true
+      - id: 10
+        name: sleep_patterns
+        label: Sleep Patterns
+        hint: How is your sleep
+        type: select_one
+        options:
+          - Sleeping Well
+          - Some Difficulty
+          - Insomnia
+          - Sleeping Too Much
+          - Irregular
+        required: true
+      - id: 11
+        name: appetite_changes
+        label: Appetite Changes
+        hint: Have your eating habits changed
+        type: select_one
+        options:
+          - No Change
+          - Eating Less
+          - Eating More
+          - Irregular Eating
+        required: true
+      - id: 12
+        name: lessons_learned
+        label: Lessons Learned
+        hint: What did you learn from this relationship
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: personal_growth
+        label: Areas for Personal Growth
+        hint: What do you want to work on
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: relationship_patterns
+        label: Relationship Patterns Noticed
+        hint: Any patterns you have observed
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: readiness_to_date
+        label: Readiness to Date Again
+        hint: How do you feel about dating
+        type: select_one
+        options:
+          - Not Ready at All
+          - Need More Time
+          - Thinking About It
+          - Somewhat Ready
+          - Ready to Start
+        required: true
+      - id: 16
+        name: goals_for_healing
+        label: Goals for Healing
+        hint: What are your healing goals
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: professional_help_interest
+        label: Interest in Professional Help
+        hint: Would you consider therapy
+        type: select_one
+        options:
+          - Already in Therapy
+          - Very Interested
+          - Somewhat Interested
+          - Not Interested
+        required: true
+      - id: 18
+        name: reflection_frequency
+        label: How Often Do You Reflect
+        hint: How often do you think about the relationship
+        type: select_one
+        options:
+          - Constantly
+          - Several Times Daily
+          - Once Daily
+          - Few Times Weekly
+          - Rarely
+        required: true
+      - id: 19
+        name: hope_for_future
+        label: Hope for Future Relationships
+        hint: How hopeful are you about future love
+        type: select_one
+        options:
+          - Very Hopeful
+          - Somewhat Hopeful
+          - Neutral
+          - Not Very Hopeful
+          - Not Hopeful at All
+        required: true
+      - id: 20
+        name: additional_thoughts
+        label: Additional Thoughts
+        hint: Anything else you want to share
+        type: text
+        options: []
+        required: false

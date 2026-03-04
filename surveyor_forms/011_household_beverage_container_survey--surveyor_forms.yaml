@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Beverage Container Survey
+    pages:
+    - id: 1
+      name: household_beverage_container_survey_page1
+      label: household_beverage_container_survey_page1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info_page
+      label: contact info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''contact_info_option_1'', ''value'': ''contact_info_option_1''}'
+      - '{''id'': 2, ''name'': ''contact_info_option_2'', ''value'': ''contact_info_option_2''}'
+      - '{''id'': 3, ''name'': ''contact_info_option_3'', ''value'': ''contact_info_option_3''}'
+      required: false
+    - id: 3
+      name: household_beverage_container_type_page
+      label: household_beverage_container_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''household_beverage_container_type_1'', ''value'':
+        ''household_beverage_container_type_1''}'
+      - '{''id'': 2, ''name'': ''household_beverage_container_type_2'', ''value'':
+        ''household_beverage_container_type_2''}'
+      - '{''id'': 3, ''name'': ''household_beverage_container_type_3'', ''value'':
+        ''household_beverage_container_type_3''}'
+      required: false
+    - id: 4
+      name: household_beverage_container_size_page
+      label: household_beverage_container_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: household_beverage_container_content_page
+      label: household_beverage_container_content
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''household_beverage_container_content_1'', ''value'':
+        ''household_beverage_container_content_1''}'
+      - '{''id'': 2, ''name'': ''household_beverage_container_content_2'', ''value'':
+        ''household_beverage_container_content_2''}'
+      - '{''id'': 3, ''name'': ''household_beverage_container_content_3'', ''value'':
+        ''household_beverage_container_content_3''}'
+      required: false
+    - id: 6
+      name: household_beverage_container_shape_page
+      label: household_beverage_container_shape
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''household_beverage_container_shape_1'', ''value'':
+        ''household_beverage_container_shape_1''}'
+      - '{''id'': 2, ''name'': ''household_beverage_container_shape_2'', ''value'':
+        ''household_beverage_container_shape_2''}'
+      - '{''id'': 3, ''name'': ''household_beverage_container_shape_3'', ''value'':
+        ''household_beverage_container_shape_3''}'
+      required: false
+    - id: 7
+      name: household_beverage_container_material_page
+      label: household_beverage_container_material
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''household_beverage_container_material_1'', ''value'':
+        ''household_beverage_container_material_1''}'
+      - '{''id'': 2, ''name'': ''household_beverage_container_material_2'', ''value'':
+        ''household_beverage_container_material_2''}'
+      - '{''id'': 3, ''name'': ''household_beverage_container_material_3'', ''value'':
+        ''household_beverage_container_material_3''}'
+      required: false
+    - id: 8
+      name: surveyor_comments_page
+      label: surveyor_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: surveyor_signature_page
+      label: surveyor signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: household_beverage_container_surveyor_name
+      label: household_beverage_container_surveyor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: household_beverage_container_surveyor_phone
+      label: household_beverage_container_surveyor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: household_beverage_container_surveyor_email
+      label: household_beverage_container_surveyor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: surveyor_survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false

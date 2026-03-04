@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Impact Assessment Form
+    pages:
+    - id: 1
+      name: delivery_impact_assessment
+      label: delivery_impact_assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: environmental_impact
+      label: environmental_impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: community_impact
+      label: community_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_reporting
+      label: incident_reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: service_area
+      label: service_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

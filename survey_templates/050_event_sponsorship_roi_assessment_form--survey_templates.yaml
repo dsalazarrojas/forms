@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship ROI Assessment Form
+    pages:
+    - id: 1
+      name: event_sponsorship_assessment
+      label: What's the main sponsorship outcome?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_sponsorship_outcome
+      label: main_sponsorship_outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: roi_category
+      label: ROI Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sponsor_return_on_investment
+      label: Sponsor Return On Investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_sponsorship_roi
+      label: Event Sponsorship ROI
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_feedback
+      label: Sponsor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substitute Teacher Reporting Form
+    pages:
+    - id: 1
+      name: substitute_teacher_id
+      label: Substitute Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lesson_planned
+      label: lesson_planned
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: notes_lesson
+      label: Notes about Lesson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes_students
+      label: Notes about Students
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_names
+      label: Student Names
+      hint: Enter student names, comma separated
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_count
+      label: Number of Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_behaviors
+      label: Behaviors
+      hint: null
+      type: select_one
+      options:
+      - On task
+      - Off task
+      - On task but not following directions
+      - Off task and following directions
+      required: false
+    - id: 8
+      name: student_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false

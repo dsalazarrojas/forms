@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Childhood Care And Development (ECCD) Checklist
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_in_months
+      label: Age in Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: physical_development
+      label: Physical Development
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: cognitive_development
+      label: Cognitive Development
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: social_emotional_development
+      label: Social-Emotional Development
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: language_development
+      label: Language Development
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: sleep
+      label: Sleep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_attention
+      label: Medical Attention
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: developmental_delays
+      label: Developmental Delays
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: developmental_domain
+      label: Developmental Domain
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_and_update
+      label: Review And Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: true

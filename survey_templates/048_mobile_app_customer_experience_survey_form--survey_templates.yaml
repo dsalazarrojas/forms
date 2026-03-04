@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Customer Experience Survey Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_encountered
+      label: Issue Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: how_often_use_app
+      label: How Often Do You Use App
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: last_used_app_features
+      label: Last Used App Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: how_often_check_notificaitons
+      label: How Often Check Notifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: last_checked_notificaiton
+      label: Last Checked Notification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_checked_notificaitons_time
+      label: Last Checked Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: last_checked_notificaiton_date
+      label: Last Checked Notification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: last_logged_in
+      label: Last Logged In
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: last_logged_in_date
+      label: Last Logged In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: how_often_log_out
+      label: How Often Log Out
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: last_logged_out
+      label: Last Logged Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: app_rating
+      label: App Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 20
+      name: app_features
+      label: App Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: how_often_use_app_in_features
+      label: How Often Use App in Features
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: last_used_in_features
+      label: Last Used in Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: app_performance
+      label: App Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: app_performance_features
+      label: App Performance Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

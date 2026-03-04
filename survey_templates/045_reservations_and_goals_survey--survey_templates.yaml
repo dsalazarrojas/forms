@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reservations And Goals Survey
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_required
+      label: Service Required
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

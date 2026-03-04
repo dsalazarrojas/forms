@@ -1,0 +1,251 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Student Survey
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: grade_level
+        label: Your Grade Level
+        hint: Select your grade
+        type: select_one
+        options:
+          - Grade 1
+          - Grade 2
+          - Grade 3
+          - Grade 4
+          - Grade 5
+          - Grade 6
+          - Grade 7
+          - Grade 8
+          - Grade 9
+          - Grade 10
+          - Grade 11
+          - Grade 12
+        required: true
+      - id: 3
+        name: teacher_name
+        label: Teacher Name
+        hint: Your teacher name this year
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: feeling_about_school
+        label: How Do You Feel About School
+        hint: Select how you feel
+        type: select_one
+        options:
+          - Very Excited
+          - Excited
+          - Neutral
+          - Nervous
+          - Very Nervous
+        required: true
+      - id: 5
+        name: favorite_subject
+        label: Favorite Subject
+        hint: What is your favorite subject
+        type: select_one
+        options:
+          - Math
+          - Reading or Language Arts
+          - Science
+          - Social Studies
+          - Art
+          - Music
+          - Physical Education
+          - Technology
+          - Other
+        required: true
+      - id: 6
+        name: challenging_subject
+        label: Most Challenging Subject
+        hint: What subject is hardest for you
+        type: select_one
+        options:
+          - Math
+          - Reading or Language Arts
+          - Science
+          - Social Studies
+          - Art
+          - Music
+          - Physical Education
+          - Technology
+          - None
+        required: true
+      - id: 7
+        name: learning_style
+        label: How Do You Learn Best
+        hint: Select your learning style
+        type: select_one
+        options:
+          - Reading and writing
+          - Listening to lectures
+          - Hands-on activities
+          - Working in groups
+          - Working alone
+          - Watching videos or demonstrations
+        required: true
+      - id: 8
+        name: homework_habits
+        label: Homework Habits
+        hint: How do you handle homework
+        type: select_one
+        options:
+          - Complete right away
+          - Complete later same day
+          - Need reminders
+          - Often forget
+          - Need help from adults
+        required: true
+      - id: 9
+        name: reading_enjoyment
+        label: Do You Enjoy Reading
+        hint: How much do you like reading
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - It is okay
+          - Do not like it
+          - Hate it
+        required: true
+      - id: 10
+        name: books_per_year
+        label: Books Read for Fun Last Year
+        hint: Approximately how many books
+        type: select_one
+        options:
+          - 0 books
+          - 1 to 5 books
+          - 6 to 10 books
+          - 11 to 20 books
+          - More than 20 books
+        required: true
+      - id: 11
+        name: friend_group
+        label: Friend Group Size
+        hint: How many close friends do you have
+        type: select_one
+        options:
+          - No close friends
+          - 1 to 2 friends
+          - 3 to 5 friends
+          - 6 to 10 friends
+          - More than 10 friends
+        required: true
+      - id: 12
+        name: get_along_with_classmates
+        label: Get Along with Classmates
+        hint: How well do you get along
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Okay
+          - Not Well
+          - Not Well At All
+        required: true
+      - id: 13
+        name: extracurricular_interest
+        label: Extracurricular Activities Interest
+        hint: What activities interest you
+        type: select_multiple
+        options:
+          - Sports teams
+          - Music or band
+          - Art club
+          - Drama or theater
+          - Science club
+          - Student government
+          - Debate team
+          - None
+        required: true
+      - id: 14
+        name: bullying_experience
+        label: Have You Been Bullied
+        hint: Have you experienced bullying
+        type: select_one
+        options:
+          - Yes, recently
+          - Yes, in the past
+          - No, never
+          - Prefer not to answer
+        required: true
+      - id: 15
+        name: feel_safe_at_school
+        label: Feel Safe at School
+        hint: Do you feel safe
+        type: select_one
+        options:
+          - Always
+          - Most of the time
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 16
+        name: teacher_support
+        label: Teachers Are Supportive
+        hint: Do teachers help you when needed
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 17
+        name: school_goals
+        label: Your Goals This Year
+        hint: What do you want to achieve
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: worry_about_school
+        label: What Worries You About School
+        hint: Select any concerns
+        type: select_multiple
+        options:
+          - Grades
+          - Making friends
+          - Bullying
+          - Hard work
+          - Tests
+          - Nothing worries me
+          - Other
+        required: true
+      - id: 19
+        name: favorite_school_activity
+        label: Favorite School Activity
+        hint: What do you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: something_teacher_should_know
+        label: Something Teacher Should Know
+        hint: Any important information about you
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Survey
+    pages:
+    - id: 1
+      name: participant_info_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_age_bracket
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 12
+      - 12-18
+      - 19-25
+      - 26-40
+      - 41-60
+      - Over 60
+      required: true
+    - id: 3
+      name: participant_gender_identity
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: participant_nationality_field
+      label: Nationality
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consumption_habits_section
+      label: -- Consumption Habits --
+      hint: How you enjoy your sweets
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: candy_consumption_freq
+      label: How often do you eat candy
+      hint: Choose the most accurate frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: candy_time_of_day
+      label: What time of day do you usually eat candy
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Any Time
+      required: true
+    - id: 8
+      name: candy_eating_reason
+      label: Main reason for eating candy
+      hint: What triggers your craving
+      type: select_one
+      options:
+      - Snack
+      - Reward
+      - Stress
+      - Social Event
+      - Habit
+      - Other
+      required: true
+    - id: 9
+      name: favorite_candies_section
+      label: -- Favorite Candies --
+      hint: Your top choices
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: top_candy_types_list
+      label: Top 3 favorite types of candy
+      hint: Select up to 3 preferences
+      type: select_multiple
+      options:
+      - Chocolate
+      - Gummy
+      - Hard Candy
+      - Taffy
+      - Licorice
+      - Mints
+      - Sour
+      - Other
+      required: true
+    - id: 11
+      name: favorite_candy_brand_name
+      label: Favorite candy brand
+      hint: Tell us your number one choice
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sugar_free_importance_rating
+      label: Importance of sugar-free options
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 13
+      name: purchasing_behavior_section
+      label: -- Purchasing Behavior --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: candy_purchase_location
+      label: Where do you usually buy candy
+      hint: null
+      type: select_one
+      options:
+      - Supermarket
+      - Convenience Store
+      - Online
+      - Specialty Shop
+      - Vending Machine
+      required: true
+    - id: 15
+      name: monthly_candy_spend
+      label: Average monthly spend on candy
+      hint: Amount in local currency
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: packaging_influence_rating
+      label: Influence of packaging on your choice
+      hint: Does the wrapper matter to you
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 17
+      name: awareness_trends_section
+      label: -- Awareness and Trends --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: tried_new_brands_recently
+      label: Have you tried any new candy brands in the last 30 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: international_candy_interest
+      label: Interest in exotic or international candy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: dream_candy_flavor
+      label: Any specific flavor you would love to see in a candy
+      hint: Share your creative ideas
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: candy_survey_date_val
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true

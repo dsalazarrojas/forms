@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_sizing_template
+    pages:
+    - id: 1
+      name: market_sizing_template_page_1
+      label: Market_Sizing_Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: market_growth_rate
+      label: market_growth_rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: market_segment
+      label: market_segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: market_segment_options
+      label: select_market_segment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: market_potential
+      label: market_potential
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: market_entry_cost
+      label: market_entry_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: market_entry_barriers
+      label: market_entry_barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: market_entry_barriers_details
+      label: market_entry_barriers_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_strategy
+      label: marketing_strategy
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: market_sizing
+      label: market_sizing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: revenue_potential
+      label: revenue_potential
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_revenue
+      label: total_revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: growth_rate
+      label: growth_rate
+      hint: null
+      type: number
+      options: []
+      required: false

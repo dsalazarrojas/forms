@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_management_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: header_question
+      label: How do you rate your overall experience with our document management
+        process?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Neutral
+      - Very Poor
+      required: false
+    - id: 3
+      name: rating_scale
+      label: How would you rate the ease of use of our document management process?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comment_section
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_section
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_section
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_section
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_section
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

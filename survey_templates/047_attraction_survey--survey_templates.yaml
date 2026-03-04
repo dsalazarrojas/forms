@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attraction Survey
+    pages:
+    - id: 1
+      name: candidate_information
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Your professional profile
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_location
+      label: Current Location
+      hint: City and state/country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: willingness_to_relocate
+      label: Willing to Relocate?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Open to Offers
+      required: true
+    - id: 9
+      name: employment_background
+      label: -- Employment Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_position
+      label: Current Position
+      hint: Job title and company
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_experience
+      label: Years of Professional Experience
+      hint: Total years in industry
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: industry_experience
+      label: Industries You Have Worked In
+      hint: Previous industries or sectors
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_skills
+      label: Key Skills and Expertise
+      hint: Top 5-10 skills
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_preferences
+      label: -- Job Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: job_titles_interested
+      label: Job Titles Interested In
+      hint: Roles you would consider
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: ideal_company_type
+      label: Ideal Company Type
+      hint: Large, startup, nonprofit, etc.
+      type: select_one
+      options:
+      - Fortune 500
+      - Mid-Size Company
+      - Startup
+      - Non-Profit
+      - Government
+      - No Preference
+      required: true
+    - id: 17
+      name: salary_expectation
+      label: Salary Expectation Range
+      hint: Expected annual salary range
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_arrangement
+      label: Preferred Work Arrangement
+      hint: Remote, hybrid, or in-office
+      type: select_one
+      options:
+      - Fully Remote
+      - Hybrid
+      - In-Office
+      - No Preference
+      required: true
+    - id: 19
+      name: motivation_assessment
+      label: -- Motivation Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: career_goals
+      label: What Are Your Career Goals?
+      hint: Where do you want to be?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_change_motivation
+      label: Why Are You Open to New Opportunities?
+      hint: Describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: culture_values
+      label: Company Culture and Values
+      hint: What matters to you in a company?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: availability
+      label: Availability to Start
+      hint: When could you start?
+      type: select_one
+      options:
+      - Immediately
+      - 2 Weeks
+      - 1 Month
+      - 2 Months
+      - Flexible
+      required: true
+    - id: 24
+      name: notice_period
+      label: Notice Period Required
+      hint: How much notice do you need?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

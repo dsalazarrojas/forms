@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geodetic Mark Recovery Report
+    pages:
+    - id: 1
+      name: control_point_status
+      label: Control Point Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Replaced
+      - Unknown
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: Enter control point location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recovery_date
+      label: Recovery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_comments
+      label: Photo Comments
+      hint: Enter photo comments
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_photo
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_additional_photos
+      label: Upload Additional Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: status_update_notes
+      label: Status Update Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surveyor_name
+      label: Surveyor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_id
+      label: Project ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: geodetic_control_point_number
+      label: Geodetic Control Point Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: geodetic_survey_point_type
+      label: Geodetic Survey Point Type
+      hint: null
+      type: select_one
+      options:
+      - Horizontal Control Point
+      - Vertical Control Point
+      - Monumentation Point
+      - Trilaterization Point
+      required: true
+    - id: 15
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: control_point_elevations
+      label: Control Point Elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

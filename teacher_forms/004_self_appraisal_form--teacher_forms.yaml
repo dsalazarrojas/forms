@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Appraisal Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: student_info
+      hint: null
+      type: select_multiple
+      options:
+      - Student Name
+      - Student ID
+      - Student Email
+      required: false
+    - id: 3
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: areas_for_growth
+      label: areas_for_growth
+      hint: null
+      type: select_one
+      options:
+      - Communication
+      - Leadership
+      - Problem Solving
+      - Teamwork
+      - Adaptability
+      required: false
+    - id: 5
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - HR
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - HR
+      required: false
+    - id: 11
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: self_appraisal_form_version
+      label: self_appraisal_form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prophets_evaluation_frequency
+      label: evaluation_frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Bi-Annually
+      - Semi-Annually
+      required: false
+    - id: 16
+      name: evaluation_status
+      label: evaluation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 17
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: self_evaluation_rating
+      label: self_evaluation_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: self_improvement_plan
+      label: self_improvement_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: signed_by_signature
+      label: signed_by_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_signature
+      label: submitted_by_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false

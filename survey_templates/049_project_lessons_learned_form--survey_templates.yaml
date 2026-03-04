@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Lessons Learned Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating_outcomes
+      label: Rating Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motorcycle User Experience Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: motorcycle_brand
+      label: Motorcycle Brand
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: model_year
+      label: Model Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: riding_hours
+      label: Riding Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 6
+      name: satisfaction_questions
+      label: Satisfaction Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

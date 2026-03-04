@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Feedback Questionnaire
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Your feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: page_2
+      label: More feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_3
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_1
+      label: What did you like best about the course?
+      hint: null
+      type: select_one
+      options:
+      - Instructor
+      - Materials
+      - Support team
+      - Learning pace
+      - Other
+      required: false
+    - id: 10
+      name: question_2
+      label: What did you like least about the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Instructor
+      - Materials
+      - Support team
+      - Learning pace
+      - Other
+      required: false
+    - id: 11
+      name: question_3
+      label: Would you recommend this course?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

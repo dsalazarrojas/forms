@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Route Efficiency Rider Inquiry Form
+    pages:
+    - id: 1
+      name: route_efficiency
+      label: Rider Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Route Delay
+      - Route Efficiency
+      - Rider Satisfaction
+      required: false
+    - id: 2
+      name: route_efficiency_1
+      label: Route Delay
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: route_efficiency_2
+      label: Route Efficiency
+      hint: null
+      type: select_one
+      options:
+      - Very Efficient
+      - Somewhat Efficient
+      - Somewhat Inefficient
+      - Very Inefficient
+      required: true
+    - id: 4
+      name: route_efficiency_3
+      label: Rider Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 5
+      name: route_efficiency_4
+      label: Rider Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: Enter the name of the contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_location
+      label: Contact Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

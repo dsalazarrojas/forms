@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Text Evaluation Survey
+    pages:
+    - id: 1
+      name: text_evaluation_intro
+      label: Academic Text Evaluation Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Full name of the person evaluating the text
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email
+      label: Evaluator Email
+      hint: Professional email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_institution
+      label: Evaluator Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: text_title
+      label: Text Title
+      hint: Title of the academic text being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: text_authors
+      label: Text Authors
+      hint: Names of the authors of the text
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_purpose
+      label: Evaluation Purpose
+      hint: What is the purpose of this evaluation?
+      type: select_one
+      options:
+      - Peer review for publication
+      - Course textbook evaluation
+      - Research proposal review
+      - Grant application review
+      - Curriculum assessment
+      - Other
+      required: true
+    - id: 8
+      name: content_relevance_rating
+      label: Content Relevance Rating
+      hint: How relevant is the content to the stated topic? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: argument_quality_rating
+      label: Argument Quality Rating
+      hint: How strong and logical are the arguments presented? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: evidence_support_rating
+      label: Evidence Support Rating
+      hint: How well does the text support claims with evidence? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: writing_clarity_rating
+      label: Writing Clarity Rating
+      hint: How clear and accessible is the writing? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: originality_rating
+      label: Originality Rating
+      hint: How original or innovative is the content? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: methodology_rating
+      label: Methodology Rating
+      hint: How sound and appropriate is the methodology? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: conclusion_validity_rating
+      label: Conclusion Validity Rating
+      hint: How valid and well-supported are the conclusions? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: major_strengths
+      label: Major Strengths
+      hint: What are the major strengths of this text?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement in this text?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendation_decision
+      label: Recommendation Decision
+      hint: What is your overall recommendation for this text?
+      type: select_one
+      options:
+      - Accept without revision
+      - Accept with minor revisions
+      - Revise and resubmit
+      - Reject
+      - Not sure
+      required: true

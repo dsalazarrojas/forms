@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: labour_market_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How do you know the respondent?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_area
+      label: Survey Area
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Rural''}'
+      - '{''value'': ''Urban''}'
+      - '{''value'': ''Suburban''}'
+      required: false
+    - id: 3
+      name: employment_status
+      label: What is your employment status?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Unemployed''}'
+      - '{''value'': ''Self-employed''}'
+      - '{''value'': ''Student''}'
+      - '{''value'': ''Retiree''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: education_level
+      label: What is your highest level of education completed?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High School''}'
+      - '{''value'': ''Vocational/Trade Certificate''}'
+      - '{''value'': ''College Diploma''}'
+      - '{''value'': ''University Degree''}'
+      - '{''value'': "Master''s Degree"}'
+      - '{''value'': ''Doctoral Degree''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: employment_type
+      label: What type of work do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Part-time''}'
+      - '{''value'': ''Freelance/Contract''}'
+      - '{''value'': ''Self-employed''}'
+      - '{''value'': ''Retiree''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: work_experience
+      label: How many years do you have of work experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: income_range
+      label: What is your annual income range?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Less than 20k''}'
+      - '{''value'': ''20-49k''}'
+      - '{''value'': ''50-79k''}'
+      - '{''value'': ''80k and above''}'
+      required: false
+    - id: 8
+      name: occupation
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills_training
+      label: Have you received any skills training or certification in the last 5
+        years?
+      hint: null
+      type: text
+      options: []
+      required: false

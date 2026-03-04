@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_attitudes_survey
+    pages:
+    - id: 1
+      name: reading_attitudes_survey
+      label: reading_attitudes_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_habits
+      label: reading_habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reading_habits_frequency
+      label: reading_habits_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reading_frequency_days
+      label: reading_frequency_days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reading_frequency_minutes
+      label: reading_frequency_minutes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

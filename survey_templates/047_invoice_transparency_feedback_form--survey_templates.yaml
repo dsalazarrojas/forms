@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Transparency Feedback Form
+    pages:
+    - id: 1
+      name: page_1
+      label: page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: invoice_number
+      label: invoice_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: payment_frequency
+      label: payment_frequency
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

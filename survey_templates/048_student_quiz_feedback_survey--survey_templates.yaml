@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Quiz Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your role in the class?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Student''}'
+      - '{''id'': 2, ''label'': ''Teacher''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 2
+      name: questions
+      label: Which question was most difficult for you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Too easy''}'
+      - '{''id'': 2, ''label'': ''Just right''}'
+      - '{''id'': 3, ''label'': ''Too hard''}'
+      - '{''id'': 4, ''label'': "I don''t know"}'
+      required: false
+    - id: 3
+      name: comments
+      label: Do you have any comments about the quiz?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: How can we contact you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: How can we contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Other suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: When did you attend this quiz?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: What time did you start the quiz?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: quiz_name
+      label: What is the name of the quiz?
+      hint: null
+      type: text
+      options: []
+      required: false

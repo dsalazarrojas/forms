@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Awareness Training Evaluation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_hours
+      label: Hours of Training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_effectiveness
+      label: Program Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: recommendation
+      label: Recommend to Others
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 13
+      name: training_area
+      label: Training Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

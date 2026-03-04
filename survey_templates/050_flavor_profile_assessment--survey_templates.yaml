@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: flavor_profile_assessment
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: flavor_preferences
+      label: What flavor do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: restaurant_info
+      label: Restaurant Info
+      hint: null
+      type: note
+      options: []
+      required: false

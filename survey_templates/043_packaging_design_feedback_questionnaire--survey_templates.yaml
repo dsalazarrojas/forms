@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: packaging_design_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: packaging_type
+      label: packaging_type
+      hint: null
+      type: select_one
+      options:
+      - packaging_type_a
+      - packaging_type_b
+      - packaging_type_c
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media
+      label: social_media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media_url
+      label: social_media_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission
+      label: submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - follow_up_yes
+      - follow_up_no
+      required: false

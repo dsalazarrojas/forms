@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Role Rotation Feedback Survey
+    pages:
+    - id: 1
+      name: role_rotation_experience
+      label: Role Rotation Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Dissatisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 5, ''label'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: role_rotation_goals
+      label: Role Rotation Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Effective''}'
+      - '{''id'': 2, ''label'': ''Ineffective''}'
+      required: false
+    - id: 5
+      name: role_rotation_process
+      label: Role Rotation Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_and_resources
+      label: Training and Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Adequate''}'
+      - '{''id'': 2, ''label'': ''Inadequate''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

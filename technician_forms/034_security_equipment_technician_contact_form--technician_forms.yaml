@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Equipment Technician Contact Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: service_requests
+      label: service_requests
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technician_schedule
+      label: technician_schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: issue_time
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: issue_location
+      label: issue_location
+      hint: null
+      type: text
+      options: []
+      required: false

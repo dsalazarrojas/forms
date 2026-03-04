@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Program Satisfaction Report
+    pages:
+    - id: 1
+      name: fitness_program_satisfaction_report
+      label: Fitness Program Satisfaction Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fitness_program
+      label: Which Fitness Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Gym Class''}'
+      - '{''value'': ''Trainers''}'
+      required: true
+    - id: 3
+      name: fitness_level
+      label: Current Fitness Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: true
+    - id: 4
+      name: feedback_on_instructors
+      label: Feedback on Trainers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Scale 0-5
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fitness_goals
+      label: What are your fitness goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: frequency_of_classes
+      label: Frequency of Classes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: frequency_of_workouts
+      label: Frequency of Workouts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: how_did_you_hear
+      label: How did you hear about our gym
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false

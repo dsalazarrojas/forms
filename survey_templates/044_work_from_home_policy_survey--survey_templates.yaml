@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_from_home_policy_survey
+    pages:
+    - id: 1
+      name: work_from_home_frequency
+      label: How often do you work from home
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 2
+      name: reported_location
+      label: Where do you work from
+      hint: null
+      type: select_one
+      options:
+      - reported_location_1
+      - Other
+      required: false
+    - id: 3
+      name: work_from_home_satisfaction
+      label: How satisfied are you with your current work from home policy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_from_home_comments
+      label: Any comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_from_home_satisfaction_2
+      label: Satisfaction with work from home policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_from_home_frequency_2
+      label: Frequency of work from home
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_from_home_frequency_3
+      label: Work from home frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: work_from_home_location
+      label: Where do you work from
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_from_home_satisfaction_3
+      label: Satisfaction with work from home
+      hint: null
+      type: text
+      options: []
+      required: false

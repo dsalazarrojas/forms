@@ -1,0 +1,179 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access To Affordable Care Perception Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Participant Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: zip_code
+      label: Your Zip Code
+      hint: 5-digit postal code
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Your Age Group
+      hint: select your range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-44
+      - 45-64
+      - 65+
+      required: true
+    - id: 4
+      name: insurance_status
+      label: What is your current health insurance status?
+      hint: primary coverage
+      type: select_one
+      options:
+      - Private Insurance
+      - Medicare or Medicaid
+      - Uninsured
+      - Other
+      required: true
+    - id: 5
+      name: section_affordability
+      label: -- Affordability Perceptions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: affordability_rating
+      label: How would you rate the affordability of healthcare in your community?
+      hint: overall perception
+      type: select_one
+      options:
+      - Very Affordable
+      - Affordable
+      - Neutral
+      - Unaffordable
+      - Very Unaffordable
+      required: true
+    - id: 7
+      name: cost_as_barrier
+      label: In the past year - have you skipped medical care due to cost?
+      hint: financial impact on health
+      type: select_one
+      options:
+      - Yes - Multiple times
+      - Yes - Once
+      - "No"
+      required: true
+    - id: 8
+      name: financial_barriers
+      label: Which of these costs are most difficult for you?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Co-pays
+      - Prescription Drugs
+      - Monthly Premiums
+      - Deductibles
+      - Emergency Care
+      required: true
+    - id: 9
+      name: section_access
+      label: -- Access to Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_time
+      label: How long does it typically take to travel to your primary doctor?
+      hint: travel burden
+      type: select_one
+      options:
+      - Less than 15 mins
+      - 15-30 mins
+      - 30-60 mins
+      - Over 1 hour
+      required: true
+    - id: 11
+      name: wait_time_for_appt
+      label: How easy is it to get an appointment when you are sick?
+      hint: availability of services
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 12
+      name: section_barriers
+      label: -- Community Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: community_barriers
+      label: What are the biggest barriers to care in your area?
+      hint: select key issues
+      type: select_multiple
+      options:
+      - Lack of Transportation
+      - Language Barriers
+      - Limited Clinic Hours
+      - No Specialists Nearby
+      - High Costs
+      required: true
+    - id: 14
+      name: section_improvement
+      label: -- Improvement and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: needed_services
+      label: What healthcare services are missing in your community?
+      hint: e.g. mental health, dental, urgent care
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suggestions_for_access
+      label: How can local organizations improve access to affordable care?
+      hint: your ideas for change
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_final
+      label: -- Final Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_interest
+      label: Would you like to receive information about local low-cost clinics?
+      hint: optional resource
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true

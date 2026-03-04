@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethanol Effects Assessment
+    pages:
+    - id: 1
+      name: user_response
+      label: User Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frequency_used
+      label: Frequency Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: frequency_used_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: never
+      label: Never
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: less_than_once_a_week
+      label: Less than once a week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: about_once_a_week
+      label: About once a week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: almost_every_day
+      label: Almost every day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: how_much_used
+      label: How much used?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: units_used
+      label: Units used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: amount_moderately_used
+      label: Amount moderately used
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: amount_frequently_used
+      label: Amount frequently used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: amount_very_frequently_used
+      label: Amount very frequently used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: other_chemicals
+      label: Other chemicals
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Imaging Equipment Repair Technician Training Registration
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Provider 1''}'
+      - '{''value'': ''Provider 2''}'
+      - '{''value'': ''Provider 3''}'
+      required: false
+    - id: 5
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: course_hours
+      label: Course Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: course_hours_hint
+      label: Course Hours Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''In Progress''}'
+      required: false

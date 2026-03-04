@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Purchase Behavior Survey
+    pages:
+    - id: 1
+      name: buying_frequency
+      label: How often do you buy nail polish?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shopping_channels
+      label: Which online store do you usually buy nail polish from?
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon
+      - eBay
+      - Google Express
+      - Sephora
+      - Ulta
+      required: false
+    - id: 3
+      name: preferred_brand
+      label: Which nail polish brand do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - OPI
+      - Essie
+      - Sally Hansen
+      - Sally Hansen
+      - LVMH
+      - Deborah Lippmann
+      required: false
+    - id: 4
+      name: color_choice
+      label: What color is your favorite nail polish color?
+      hint: null
+      type: select_one
+      options:
+      - red
+      - pink
+      - coral
+      - purple
+      - blue
+      - yellow
+      required: false
+    - id: 5
+      name: price_range
+      label: What is your budget for a bottle of nail polish?
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '100'
+      required: false
+    - id: 6
+      name: brand_loyalty
+      label: How loyal are you to your favorite nail polish brand?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nail_polish_type
+      label: What type of nail polish do you usually buy?
+      hint: null
+      type: select_one
+      options:
+      - gel
+      - cream
+      - mousse
+      - dipping
+      - brush
+      - sponge
+      required: false
+    - id: 8
+      name: nail_polish_reason
+      label: What motivates you to buy nail polish?
+      hint: null
+      type: select_multiple
+      options:
+      - want to look good
+      - want to feel good
+      - want to feel confident
+      - want to express myself
+      - other
+      required: false
+    - id: 9
+      name: nail_polish_purchased
+      label: How many bottles of nail polish have you purchased in the last 30 days?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: nail_polish_shopped
+      label: How many bottles of nail polish have you shopped for in the last 30 days?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Exploration Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Solar Exploration Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Educator
+      - Researcher
+      - Community Leader
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_many_years
+      label: How many years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: years_exploring
+      label: Years exploring
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: why_exploring
+      label: Why exploring
+      hint: null
+      type: select_multiple
+      options:
+      - Personal interest
+      - Professional development
+      - Research
+      - Other
+      required: false
+    - id: 9
+      name: solar_interests
+      label: Solar interests
+      hint: null
+      type: select_multiple
+      options:
+      - Space
+      - Environment
+      - Energy
+      - Science
+      required: false
+    - id: 10
+      name: solar_expertise
+      label: Solar expertise
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 11
+      name: survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

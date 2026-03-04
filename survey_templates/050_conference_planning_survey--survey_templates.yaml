@@ -1,0 +1,282 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Planning Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Conference Planning Survey
+        hint: Help us plan a better conference
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: organization
+        label: Organization
+        hint: Company name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: job_role
+        label: Job Role
+        hint: Your position
+        type: select_one
+        options:
+          - Executive
+          - Manager
+          - Individual Contributor
+          - Academic
+          - Student
+          - Consultant
+          - Other
+        required: true
+      - id: 6
+        name: industry
+        label: Industry
+        hint: Your sector
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Education
+          - Government
+          - Nonprofit
+          - Manufacturing
+          - Other
+        required: true
+      - id: 7
+        name: conference_preferences
+        label: Conference Preferences
+        hint: What you prefer
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: preferred_format
+        label: Preferred Conference Format
+        hint: How to attend
+        type: select_one
+        options:
+          - In Person Only
+          - Virtual Only
+          - Hybrid Both Options
+        required: true
+      - id: 9
+        name: preferred_duration
+        label: Preferred Duration
+        hint: How long
+        type: select_one
+        options:
+          - 1 Day
+          - 2 Days
+          - 3 Days
+          - 4 to 5 Days
+          - Week Long
+        required: true
+      - id: 10
+        name: preferred_time_of_year
+        label: Preferred Time of Year
+        hint: When to hold
+        type: select_one
+        options:
+          - Spring March to May
+          - Summer June to August
+          - Fall September to November
+          - Winter December to February
+        required: false
+      - id: 11
+        name: preferred_day_of_week
+        label: Preferred Days
+        hint: Which days
+        type: select_multiple
+        options:
+          - Weekdays Only
+          - Include Weekend
+          - Friday and Saturday
+          - Saturday and Sunday
+        required: false
+      - id: 12
+        name: content_preferences
+        label: Content Preferences
+        hint: What to include
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: session_types
+        label: Preferred Session Types
+        hint: Select all
+        type: select_multiple
+        options:
+          - Keynote Speeches
+          - Panel Discussions
+          - Breakout Sessions
+          - Hands-on Workshops
+          - Networking Sessions
+          - Poster Presentations
+          - Lightning Talks
+          - Roundtable Discussions
+        required: true
+      - id: 14
+        name: topic_areas
+        label: Topic Areas of Interest
+        hint: What to cover
+        type: select_multiple
+        options:
+          - Industry Trends
+          - Best Practices
+          - Case Studies
+          - Research Findings
+          - Technology Updates
+          - Leadership Skills
+          - Professional Development
+          - Innovation
+        required: true
+      - id: 15
+        name: networking_preferences
+        label: Networking Preferences
+        hint: How to connect
+        type: select_multiple
+        options:
+          - Structured Networking Sessions
+          - Informal Mixers
+          - Speed Networking
+          - Roundtable Discussions
+          - Online Networking Platform
+          - Social Events
+        required: false
+      - id: 16
+        name: venue_preferences
+        label: Venue Preferences
+        hint: Location type
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: venue_type
+        label: Preferred Venue Type
+        hint: Where to hold
+        type: select_one
+        options:
+          - Convention Center
+          - Hotel Conference Facility
+          - University Campus
+          - Corporate Headquarters
+          - Unique or Unusual Venue
+        required: false
+      - id: 18
+        name: location_preference
+        label: Location Preference
+        hint: Geographic area
+        type: select_one
+        options:
+          - Downtown Urban
+          - Suburban
+          - Resort Destination
+          - Airport Area
+          - No Preference
+        required: false
+      - id: 19
+        name: pricing_preferences
+        label: Pricing Preferences
+        hint: Cost considerations
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: price_range
+        label: Acceptable Price Range
+        hint: What you would pay
+        type: select_one
+        options:
+          - Budget under 200 dollars
+          - Moderate 200 to 500 dollars
+          - Premium 500 to 1000 dollars
+          - Luxury over 1000 dollars
+        required: true
+      - id: 21
+        name: what_includes
+        label: What Should Be Included
+        hint: In registration fee
+        type: select_multiple
+        options:
+          - All Meals
+          - Coffee Breaks
+          - Welcome Reception
+          - Closing Dinner
+          - Conference Materials
+          - Recording Access
+          - Workshop Access
+        required: false
+      - id: 22
+        name: past_experience
+        label: Past Conference Experience
+        hint: Your history
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: conferences_attended
+        label: Conferences Attended Per Year
+        hint: How many
+        type: select_one
+        options:
+          - 1 to 2
+          - 3 to 5
+          - 6 to 10
+          - More than 10
+        required: false
+      - id: 24
+        name: what_matters_most
+        label: What Matters Most
+        hint: Top priority
+        type: select_one
+        options:
+          - Content Quality
+          - Networking Opportunities
+          - Speaker Quality
+          - Venue and Amenities
+          - Cost Value
+          - Location
+        required: true
+      - id: 25
+        name: biggest_challenges
+        label: Biggest Challenges
+        hint: What prevents attendance
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_suggestions
+        label: Additional Suggestions
+        hint: Any other ideas
+        type: text
+        options: []
+        required: false

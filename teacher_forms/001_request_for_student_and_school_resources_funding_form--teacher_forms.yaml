@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Student And School Resources Funding Form
+    pages:
+    - id: 1
+      name: school_enrollment
+      label: School Enrollment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: financial_situation
+      label: Financial Situation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_resources
+      label: Student Resources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: teacher_resources
+      label: Teacher Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: enrollment_funding
+      label: Enrollment Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: financial_funding
+      label: Financial Funding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_funding_sources
+      label: Other Funding Sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_resources
+      label: School Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: total_resources_needed
+      label: Total Resources Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: school_budget
+      label: School Budget
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: school_funding
+      label: School Funding
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: teacher_funding
+      label: Teacher Funding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: student_funding
+      label: Student Funding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: school_grants
+      label: School Grants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: school_loans
+      label: School Loans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: school_donations
+      label: School Donations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: school_investments
+      label: School Investments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: total_funding_sources
+      label: Total Funding Sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

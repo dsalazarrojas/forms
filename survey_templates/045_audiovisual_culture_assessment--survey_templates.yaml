@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audiovisual Culture Assessment
+    pages:
+      - id: 1
+        name: section_demographics
+        label: -- About You --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: What is your age group?
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - 18 - 24
+          - 25 - 34
+          - 35 - 44
+          - 45 - 54
+          - 55+
+        required: true
+      - id: 3
+        name: education_level
+        label: Highest level of education completed
+        hint: null
+        type: select_one
+        options:
+          - Secondary School
+          - Bachelor Degree
+          - Master Degree
+          - PhD or higher
+        required: true
+      - id: 4
+        name: section_consumption
+        label: -- Viewing Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: consumption_frequency
+        label: How often do you watch movies or TV series?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - 3-4 times a week
+          - Once a week
+          - Rarely
+        required: true
+      - id: 6
+        name: preferred_platform
+        label: Primary platform for viewing content
+        hint: null
+        type: select_one
+        options:
+          - Streaming (Netflix, Disney+, etc.)
+          - Cinema/Theater
+          - Physical Media (Blu-ray/DVD)
+          - Broadcast TV
+        required: true
+      - id: 7
+        name: section_quality
+        label: -- Perception of Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: audio_importance
+        label: Importance of Audio Quality (Sound/Score)
+        hint: 1 is Not Important, 5 is Essential
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 9
+        name: video_importance
+        label: Importance of Video Quality (Resolution/Color)
+        hint: 1 is Not Important, 5 is Essential
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 10
+        name: section_culture
+        label: -- Cultural Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: favorite_genres
+        label: Which genres do you find culturally most significant?
+        hint: Select your top 3
+        type: select_multiple
+        options:
+          - Documentary
+          - Drama/Social Realism
+          - Science Fiction/Fantasy
+          - Animation
+          - Horror
+          - Independent Film
+        required: true
+      - id: 12
+        name: film_festival_interest
+        label: Do you regularly attend or follow Film Festivals?
+        hint: e.g., Sundance, Cannes, local festivals
+        type: select_one
+        options:
+          - Yes
+          - Occasionally
+          - No
+        required: true
+      - id: 13
+        name: future_tech_interest
+        label: Interest in Virtual Reality (VR) as a narrative medium
+        hint: null
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Neutral
+          - Not Interested
+        required: true
+      - id: 14
+        name: cinema_purpose
+        label: What is the primary purpose of cinema in your opinion?
+        hint: null
+        type: select_one
+        options:
+          - Entertainment and Escapism
+          - Education and Information
+          - Social and Political Change
+          - Pure Artistic Expression
+        required: true
+      - id: 15
+        name: additional_comments
+        label: Any further thoughts on audiovisual culture?
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: senior_high_school_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: extracurricular
+      label: Extracurricular
+      hint: null
+      type: select_multiple
+      options:
+      - High School Sports
+      - Clubs
+      - Community Service
+      - Student Government
+      - Student Newspaper
+      - Student Council
+      - School Band
+      - School Choir
+      - School Orchestra
+      - School Play
+      - Student Government
+      - Debate Team
+      - Robotics
+      - School Yearbook
+      - School Newspaper
+      required: true
+    - id: 7
+      name: school_choice
+      label: School Choice
+      hint: null
+      type: select_one
+      options:
+      - School of Choice 1
+      - School of Choice 2
+      - School of Choice 3
+      required: true
+    - id: 8
+      name: personal_statements
+      label: Personal Statements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      - File 4
+      required: true

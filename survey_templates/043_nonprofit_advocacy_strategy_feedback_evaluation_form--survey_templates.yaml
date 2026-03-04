@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Advocacy Strategy Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: nonprofit_advocacy_strategy_feedback_evaluation_form
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nonprofit_advocacy_strategy
+      label: What is your role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Executive Director''}'
+      - '{''id'': 2, ''value'': ''Program Director''}'
+      - '{''id'': 3, ''value'': ''Community Coordinator''}'
+      required: false
+    - id: 3
+      name: nonprofit_advocacy_strategy_program
+      label: What program does your organization focus on?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Community Development''}'
+      - '{''id'': 2, ''value'': ''Advocacy''}'
+      - '{''id'': 3, ''value'': ''Education''}'
+      required: false
+    - id: 4
+      name: nonprofit_advocacy_strategy_objectives
+      label: What are the main objectives of your organization's advocacy strategy?
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nonprofit_advocacy_strategy_implementation
+      label: How does your organization implement its advocacy strategy?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''In-person meetings''}'
+      - '{''id'': 2, ''value'': ''Email campaigns''}'
+      - '{''id'': 3, ''value'': ''Social media''}'
+      required: false
+    - id: 6
+      name: nonprofit_advocacy_strategy_outcomes
+      label: What are the expected outcomes of your organization's advocacy strategy?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Increased public awareness''}'
+      - '{''id'': 2, ''value'': ''Policy changes''}'
+      - '{''id'': 3, ''value'': ''Community engagement''}'
+      required: false
+    - id: 7
+      name: nonprofit_advocacy_strategy_evaluation
+      label: Evaluation of the advocacy strategy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Effective''}'
+      - '{''id'': 2, ''value'': ''Ineffective''}'
+      - '{''id'': 3, ''value'': ''Not sure''}'
+      required: false
+    - id: 8
+      name: nonprofit_advocacy_strategy_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

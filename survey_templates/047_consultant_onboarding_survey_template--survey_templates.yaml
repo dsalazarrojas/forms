@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Onboarding Survey Template
+    pages:
+    - id: 1
+      name: section_onboarding_ident
+      label: -- Onboarding Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_full_name_ident
+      label: Consultant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: onboarding_start_date_ident
+      label: Onboarding Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assigned_mentor_sponsor
+      label: Assigned Mentor or Sponsor (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: onboarding_manager_ident
+      label: Lead Onboarding Manager (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_onboarding_experience
+      label: -- Onboarding Experience Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_onboarding_rating
+      label: Rate your overall onboarding experience (1-10)
+      hint: 1 - Poor, 10 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: orientation_clarity_rating
+      label: Clarity of Initial Orientation and Objectives
+      hint: 1 - Vague, 5 - Very Clear
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tool_access_preparedness
+      label: How well were the tools and access prepared for your arrival?
+      hint: 1 - Not Ready, 5 - Fully Ready
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: training_relevance_rating
+      label: Relevance and Quality of Initial Training
+      hint: 1 - Not Relevant, 5 - Highly Relevant
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_integration_culture
+      label: -- Team Integration and Culture --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: team_welcome_perception
+      label: I feel welcomed and supported by my new team
+      hint: 1 - Strongly Disagree, 5 - Strongly Agree
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: culture_alignment_rating
+      label: Perception of Cultural Alignment with the Firm
+      hint: 1 - Poor Fit, 5 - Excellent Fit
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: mentorship_effectiveness_rating
+      label: Effectiveness of Mentorship/Sponsorship Support
+      hint: 1 - Ineffective, 5 - Highly Effective
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_future_productivity
+      label: -- Future Productivity and Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: role_readiness_perception
+      label: How prepared do you feel to start your primary assignments?
+      hint: 1 - Not Prepared, 5 - Fully Prepared
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: primary_onboarding_challenge
+      label: What was the biggest challenge you faced during onboarding?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_support_needed
+      label: What additional support or training do you feel you need?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_final_comments
+      label: -- Final Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: onboarding_improvement_suggestion
+      label: One suggestion to improve our onboarding process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_date
+      label: Date of Survey Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: authorized_representative_signature_label
+      label: Authorized Representative (Name)
+      hint: null
+      type: text
+      options: []
+      required: false

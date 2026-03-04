@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Tech Evaluation Form
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitted
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Weekly
+      - Weekly
+      required: false
+    - id: 9
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      required: false
+    - id: 10
+      name: evaluation_form_id
+      label: Evaluation Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name_2
+      label: Manager Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_form_category
+      label: Evaluation Form Category
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Car Communication Feedback Form
+    pages:
+    - id: 1
+      name: form_questions_1
+      label: Communication Clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: form_questions_2
+      label: Comfort Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: form_questions_3
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 4
+      name: form_questions_4
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Direct''}'
+      - '{''value'': ''Indirect''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 5
+      name: form_questions_5
+      label: Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_questions_6
+      label: Frequency
+      hint: null
+      type: time
+      options: []
+      required: false

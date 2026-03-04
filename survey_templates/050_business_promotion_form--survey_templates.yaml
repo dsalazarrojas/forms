@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Promotion Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: When did you visit?
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Residential Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visited_store_location
+      label: Store Location Visited
+      hint: Which store?
+      type: select_one
+      options:
+      - Downtown Mall
+      - Shopping Center
+      - Main Street Location
+      - Online
+      - Other
+      required: true
+    - id: 7
+      name: first_time_visitor
+      label: Is This Your First Visit?
+      hint: Have you been here before?
+      type: select_one
+      options:
+      - Yes, First Visit
+      - No, Regular Customer
+      - No, Occasional Visitor
+      required: true
+    - id: 8
+      name: visit_frequency
+      label: How Often Do You Visit?
+      hint: Frequency of visits
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Several times per year
+      - First Time
+      required: false
+    - id: 9
+      name: how_did_you_find_us
+      label: How Did You Find Out About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Web Search
+      - Advertisement
+      - Passing By
+      - Email Marketing
+      - Other
+      required: true
+    - id: 10
+      name: store_location_rating
+      label: Store Location Rating
+      hint: Rate the location (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: store_appearance_rating
+      label: Store Appearance Rating
+      hint: How nice is the store? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: product_variety
+      label: Product Variety
+      hint: Is selection good? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: product_quality_rating
+      label: Product Quality Rating
+      hint: Rate quality (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pricing_rating
+      label: Pricing Rating
+      hint: Are prices fair? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: staff_courtesy_rating
+      label: Staff Courtesy Rating
+      hint: Was staff helpful? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: what_to_buy_today
+      label: What Would You Like to Buy?
+      hint: Products interested in
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: products_purchased
+      label: Products Purchased Today
+      hint: What did you buy?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: interested_in_promotions
+      label: Interested in Future Promotions?
+      hint: Want to hear about sales?
+      type: select_one
+      options:
+      - Yes, Email Me
+      - Yes, Text Me
+      - Yes, Both
+      - No Thanks
+      required: false
+    - id: 19
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your experience (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: How can we improve?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: would_recommend
+      label: Would You Recommend to Others?
+      hint: Would you tell friends?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback?
+      type: text
+      options: []
+      required: false

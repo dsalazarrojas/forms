@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Evaluation Survey
+    pages:
+    - id: 1
+      name: meeting_evaluation_survey
+      label: Meeting Evaluation Survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: meeting_attendee_count
+      label: Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: meeting_topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 7
+      name: meeting_next_meeting_topic
+      label: Next Meeting Topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: meeting_next_meeting_attendee_count
+      label: Next Meeting Attendee Count
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: meeting_next_meeting_notes
+      label: Next Meeting Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: meeting_next_meeting_outcome
+      label: Next Meeting Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: meeting_next_meeting_next_meeting_topic
+      label: Next Meeting Next Meeting Topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: meeting_next_meeting_next_meeting_attendee_count
+      label: Next Meeting Next Meeting Attendee Count
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: meeting_next_meeting_next_meeting_notes
+      label: Next Meeting Next Meeting Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: meeting_next_meeting_next_meeting_outcome
+      label: Next Meeting Next Meeting Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

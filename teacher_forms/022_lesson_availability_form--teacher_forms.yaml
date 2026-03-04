@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lesson Availability Form
+    pages:
+    - id: 1
+      name: lesson_availability_form_class
+      label: Lesson Availability Form Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lesson_availability_group_lesson
+      label: lesson availability group lessons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lesson_availability_schedule
+      label: schedule
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: lesson_availability_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: lesson_availability_date
+      label: lesson availability date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lesson_availability_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lesson_availability_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: lesson_availability_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lesson_availability_email_confirmed
+      label: email confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 10
+      name: lesson_availability_phone_confirmed
+      label: phone confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 11
+      name: lesson_availability_additional_notes
+      label: additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: lesson_availability_lesson_availability
+      label: lesson availability
+      hint: null
+      type: text
+      options: []
+      required: false

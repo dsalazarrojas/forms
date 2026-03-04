@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battle Arena Selection Survey
+    pages:
+    - id: 1
+      name: player_intro_header
+      label: -- Player Experience Survey --
+      hint: Help us choose the best arenas for the upcoming tournament season.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_handle
+      label: In-Game Name or Handle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: platform_used
+      label: Primary Gaming Platform
+      hint: null
+      type: select_one
+      options:
+      - PC
+      - PlayStation
+      - Xbox
+      - Nintendo Switch
+      - Mobile
+      required: true
+    - id: 4
+      name: arena_rating_header
+      label: -- Arena Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: favorite_arena_map
+      label: What is your favorite current arena/map?
+      hint: null
+      type: select_one
+      options:
+      - Cyber City Ruins
+      - Frozen Wasteland
+      - Volcanic Crater
+      - Orbital Research Station
+      - Ancient Temple Depths
+      required: true
+    - id: 6
+      name: arena_balance_rating
+      label: How would you rate the competitive balance of these arenas?
+      hint: 1 - Very Unbalanced, 5 - Perfectly Balanced
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: visual_aesthetics_rating
+      label: Rate the visual design and graphics of the new maps
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: spawn_point_satisfaction
+      label: Are you satisfied with the current spawn point locations?
+      hint: null
+      type: select_one
+      options:
+      - Yes, they are fair
+      - No, too much spawn camping
+      - Neutral
+      required: true
+    - id: 9
+      name: preferred_arena_size
+      label: Preferred Arena Size for 5v5 Play
+      hint: null
+      type: select_one
+      options:
+      - Small (Fast-paced, high action)
+      - Medium (Balanced strategy)
+      - Large (Long-range, tactical)
+      required: true
+    - id: 10
+      name: features_feedback_header
+      label: -- Feature Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: desired_new_hazard
+      label: Which new environmental hazard would you like to see?
+      hint: null
+      type: select_one
+      options:
+      - Sandstorms (Reduced visibility)
+      - Rising Water (Restricted movement)
+      - Low Gravity Zones
+      - Destructible Cover
+      required: true
+    - id: 12
+      name: most_frustrating_feature
+      label: What is the most frustrating feature of current arenas?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_gaming_comments
+      label: Any other feedback for our level designers?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_completion_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

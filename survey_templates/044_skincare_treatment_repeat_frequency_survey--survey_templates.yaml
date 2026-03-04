@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Treatment Repeat Frequency Survey
+    pages:
+    - id: 1
+      name: treatment_frequency_1
+      label: How often do you usually get treatments?
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - Once a week
+      - Every 2 weeks
+      - Every 3 weeks
+      - Every 4 weeks
+      required: false
+    - id: 2
+      name: treatment_satisfaction_1
+      label: How satisfied are you with your treatments?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Satisfied
+      required: false
+    - id: 3
+      name: visit_frequency_1
+      label: What is your preferred visit frequency?
+      hint: null
+      type: select_one
+      options:
+      - Once a Month
+      - Every 2 Months
+      - Every 3 Months
+      required: false
+    - id: 4
+      name: appointment_1
+      label: How long would you like to have between appointments?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments_1
+      label: Do you have any comments or suggestions for our service?
+      hint: null
+      type: text
+      options: []
+      required: false

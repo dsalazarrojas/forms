@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Platform Feedback Inquiry Form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Bug
+      - Feature
+      - Feedback
+      required: true
+    - id: 3
+      name: question_one
+      label: Please describe your inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_two
+      label: What would you like to see improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: What type of feedback do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Bug
+      - Feature
+      - Feedback
+      required: true
+    - id: 9
+      name: question_three
+      label: How often do you visit our website?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Few times a week
+      - Rarely
+      required: true
+    - id: 10
+      name: question_four
+      label: Do you have any other comments or questions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

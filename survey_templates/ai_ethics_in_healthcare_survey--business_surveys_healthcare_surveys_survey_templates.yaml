@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Ethics In Healthcare Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_role
+      label: Your role in healthcare
+      hint: null
+      type: select_one
+      options:
+      - Clinician
+      - Researcher
+      - Patient
+      - Administrator
+      - Policy maker
+      - Technology developer
+      required: true
+    - id: 3
+      name: years_experience
+      label: Years of experience in healthcare
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 4
+      name: section_header_ai_experience
+      label: '--- AI Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ai_healthcare_use
+      label: Have you used AI tools in healthcare settings?
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, but interested
+      - No, and not interested
+      required: true
+    - id: 6
+      name: ai_benefits
+      label: Benefits of AI in healthcare (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Improved diagnostics
+      - Faster treatment
+      - Reduced costs
+      - Better patient outcomes
+      - Administrative efficiency
+      - Enhanced research capabilities
+      required: true
+    - id: 7
+      name: ai_risks
+      label: Risks of AI in healthcare (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Privacy concerns
+      - Algorithm bias
+      - Job displacement
+      - Reduced human oversight
+      - Over-reliance on technology
+      - Misdiagnosis risk
+      required: true
+    - id: 8
+      name: trust_level
+      label: How much do you trust AI systems in healthcare?
+      hint: 1 = No trust, 5 = Complete trust
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: section_header_ethics
+      label: '--- Ethical Considerations ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: algorithm_transparency
+      label: How important is algorithm transparency in healthcare AI?
+      hint: 1 = Not important, 5 = Very important
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: patient_consent
+      label: Should patients always consent to AI-assisted diagnosis?
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Sometimes
+      - Only for certain procedures
+      - No, not necessary
+      required: true
+    - id: 12
+      name: bias_detection
+      label: Who should be responsible for detecting bias in healthcare AI?
+      hint: null
+      type: select_one
+      options:
+      - Developers
+      - Healthcare institutions
+      - Government regulators
+      - Medical professionals
+      - Shared responsibility
+      required: true
+    - id: 13
+      name: data_privacy_rating
+      label: Rate importance of patient data privacy in AI systems
+      hint: 1 = Low importance, 5 = High importance
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: section_header_future
+      label: '--- Future Perspectives ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ai_adoption_rate
+      label: How quickly should AI be adopted in healthcare?
+      hint: null
+      type: select_one
+      options:
+      - Rapidly
+      - Gradually
+      - Slowly
+      - Not at all
+      - Uncertain
+      required: true
+    - id: 16
+      name: regulatory_priority
+      label: Top priority for AI regulation in healthcare
+      hint: null
+      type: select_one
+      options:
+      - Safety standards
+      - Bias prevention
+      - Data protection
+      - Clinical validation
+      - Professional oversight
+      required: true
+    - id: 17
+      name: ethical_framework
+      label: Is a global ethical framework for healthcare AI needed?
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: concerns_text
+      label: Additional concerns about AI ethics in healthcare
+      hint: Please elaborate on any specific concerns
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations_text
+      label: Recommendations for improving AI ethics in healthcare
+      hint: Share your suggestions for best practices
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_info
+      label: Contact information for follow-up (optional)
+      hint: Email or phone for research purposes
+      type: text
+      options: []
+      required: false

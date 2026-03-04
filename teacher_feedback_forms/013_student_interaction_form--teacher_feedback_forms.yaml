@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interaction Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Student Interaction Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher
+      label: Teacher
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 6
+      name: student
+      label: Student
+      hint: null
+      type: select_one
+      options:
+      - student1
+      - student2
+      - student3
+      required: false
+    - id: 7
+      name: interaction_type
+      label: Interaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - Academic
+      - Social
+      - Other
+      required: false
+    - id: 8
+      name: interaction_notes
+      label: Interaction Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

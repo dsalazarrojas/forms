@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Experience Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What did you learn?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page_2
+      label: How do you feel about the experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: How did you get to know this?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: page_4
+      label: How do you think you could improve the experience?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

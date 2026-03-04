@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Check Out Form
+    pages:
+    - id: 1
+      name: checkout_id
+      label: Checkout ID
+      hint: Unique checkout identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: checkout_date
+      label: Checkout Date
+      hint: Date of equipment checkout
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: technician_name
+      label: Technician Name
+      hint: Name of technician processing checkout
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: Name of employee checking out equipment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Select employee department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Sales
+      - Marketing
+      - Operations
+      - Information Technology
+      - Customer Service
+      - Research and Development
+      - Executive
+      - Other
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_type
+      label: Equipment Type
+      hint: Type of equipment being checked out
+      type: select_one
+      options:
+      - Laptop Computer
+      - Desktop Computer
+      - Tablet
+      - Monitor
+      - Keyboard and Mouse
+      - Docking Station
+      - Projector
+      - Printer
+      - Network Equipment
+      - Other
+      required: true
+    - id: 10
+      name: equipment_brand
+      label: Equipment Brand
+      hint: Brand or manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: equipment_model
+      label: Equipment Model
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: serial_number
+      label: Serial Number
+      hint: Equipment serial number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: asset_tag
+      label: Asset Tag Number
+      hint: Company asset tag
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: equipment_condition
+      label: Equipment Condition
+      hint: Current condition of equipment
+      type: select_one
+      options:
+      - Excellent - Like New
+      - Good - Minor Wear
+      - Fair - Noticeable Wear
+      - Poor - Significant Wear
+      required: true
+    - id: 15
+      name: accessories_included
+      label: Accessories Included
+      hint: Select all accessories included
+      type: select_multiple
+      options:
+      - Power Adapter
+      - Charging Cable
+      - Carrying Case
+      - Mouse
+      - Keyboard
+      - USB Hub
+      - Ethernet Cable
+      - HDMI Cable
+      - Documentation
+      - None
+      required: true
+    - id: 16
+      name: software_installed
+      label: Software Installed
+      hint: List key software installed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: checkout_reason
+      label: Checkout Reason
+      hint: Why is equipment being checked out
+      type: select_one
+      options:
+      - New Employee Setup
+      - Replacement Equipment
+      - Temporary Project
+      - Travel or Remote Work
+      - Training or Testing
+      - Presentation or Event
+      - Other
+      required: true
+    - id: 18
+      name: expected_return_date
+      label: Expected Return Date
+      hint: When will equipment be returned
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: checkout_duration
+      label: Checkout Duration
+      hint: How long will equipment be needed
+      type: select_one
+      options:
+      - Less than 1 Week
+      - 1 to 2 Weeks
+      - 2 to 4 Weeks
+      - 1 to 3 Months
+      - 3 to 6 Months
+      - Indefinite
+      required: true
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved this checkout
+      type: select_one
+      options:
+      - Yes, Approved
+      - Pending Approval
+      - Not Required
+      required: true
+    - id: 21
+      name: manager_name
+      label: Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_acknowledged
+      label: Terms and Conditions Acknowledged
+      hint: I agree to take care of equipment and return on time
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not Acknowledge
+      required: true
+    - id: 23
+      name: liability_statement
+      label: Liability Statement
+      hint: I understand I am responsible for equipment
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 24
+      name: employee_signature
+      label: Employee Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: technician_signature
+      label: Technician Signature
+      hint: Technician types full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: checkout_status
+      label: Checkout Status
+      hint: Current status
+      type: select_one
+      options:
+      - Checked Out
+      - Returned
+      - Overdue
+      - Lost or Damaged
+      required: true

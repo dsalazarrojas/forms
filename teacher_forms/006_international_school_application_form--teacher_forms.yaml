@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_school_application_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_email
+      label: Guardian email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_address
+      label: Student address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_phone
+      label: Student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_phone
+      label: Guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_country
+      label: Student country
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - Andorra
+      - Angola
+      - Antigua and Barbuda
+      - Argentina
+      - Armenia
+      - Armenia
+      - Aruba
+      - Australia
+      - Austria
+      - Azerbaijan
+      required: true
+    - id: 10
+      name: guardian_country
+      label: Guardian country
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - Andorra
+      - Angola
+      - Antigua and Barbuda
+      - Argentina
+      - Armenia
+      - Armenia
+      - Aruba
+      - Australia
+      - Austria
+      - Azerbaijan
+      required: false
+    - id: 11
+      name: preferred_language
+      label: Preferred language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - German
+      - Japanese
+      - Mandarin
+      - Russian
+      - Spanish
+      - Swedish
+      - Vietnamese
+      required: false
+    - id: 12
+      name: student_notes
+      label: Student notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: guardian_notes
+      label: Guardian notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: teacher_recommendation
+      label: Teacher recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_name
+      label: Teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teacher_email
+      label: Teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: teacher_phone
+      label: Teacher phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: teacher_school
+      label: Teacher school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_country
+      label: Teacher country
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - Andorra
+      - Angola
+      - Antigua and Barbuda
+      - Argentina
+      - Armenia
+      - Armenia
+      - Aruba
+      - Australia
+      - Austria
+      - Azerbaijan
+      required: false
+    - id: 20
+      name: student_additional_information
+      label: Additional information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_language_proficiency
+      label: Language proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - Afghan
+      - Albanian
+      - Algerian
+      - Arabic
+      - Armenian
+      - Chinese
+      - English
+      - French
+      - German
+      - Japanese
+      - Mandarin
+      - Russian
+      - Spanish
+      required: false
+    - id: 22
+      name: guardian_additional_information
+      label: Guardian information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_family_background
+      label: Family background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: guardian_family_background
+      label: Guardian family background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_review_questionnaire
+    pages:
+    - id: 1
+      name: product_review_questionnaire
+      label: product_review_questionnaire
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rating_comment
+      label: rating_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_rating
+      label: product_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: purchase_method
+      label: purchase_method
+      hint: null
+      type: select_one
+      options:
+      - product_bought
+      - service_bought
+      - other
+      required: true
+    - id: 9
+      name: purchased_from
+      label: purchased_from
+      hint: null
+      type: select_multiple
+      options:
+      - physical_store
+      - online_store
+      - other
+      required: true
+    - id: 10
+      name: rating_reason
+      label: rating_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: rating_satisfied
+      label: rating_satisfied
+      hint: null
+      type: select_one
+      options:
+      - satisfied
+      - not_satisfied
+      required: true
+    - id: 12
+      name: review_comment
+      label: review_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_recommendation
+      label: product_recommendation
+      hint: null
+      type: select_one
+      options:
+      - recommended
+      - not_recommended
+      required: true
+    - id: 14
+      name: review_id
+      label: review_id
+      hint: null
+      type: number
+      options: []
+      required: false

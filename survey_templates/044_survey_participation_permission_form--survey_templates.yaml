@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Participation Permission Form
+    pages:
+    - id: 1
+      name: survey_participation_permission_form_1
+      label: survey_participation_permission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_participant_agreement
+      label: survey_participant_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alternatives Evaluation Quiz
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project/Decision Name
+      hint: What are you evaluating?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_purpose
+      label: Purpose of Evaluation
+      hint: Why are you evaluating?
+      type: select_one
+      options:
+      - Vendor selection
+      - Software selection
+      - Equipment purchase
+      - Service provider selection
+      - Process improvement
+      - Strategic planning
+      - Budget allocation
+      - Other
+      required: true
+    - id: 7
+      name: number_of_alternatives
+      label: Number of Alternatives
+      hint: How many options?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: alternative_1_name
+      label: Alternative 1 Name
+      hint: First option name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: alternative_1_cost
+      label: Alternative 1 Cost
+      hint: Estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: alternative_1_score
+      label: Alternative 1 Overall Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: alternative_2_name
+      label: Alternative 2 Name
+      hint: Second option name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alternative_2_cost
+      label: Alternative 2 Cost
+      hint: Estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: alternative_2_score
+      label: Alternative 2 Overall Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: alternative_3_name
+      label: Alternative 3 Name
+      hint: Third option name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: alternative_3_cost
+      label: Alternative 3 Cost
+      hint: Estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: alternative_3_score
+      label: Alternative 3 Overall Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: What factors matter?
+      type: select_multiple
+      options:
+      - Cost
+      - Quality
+      - Timeline
+      - Features/functionality
+      - Vendor reputation
+      - Support/maintenance
+      - Scalability
+      - Ease of use
+      - Security
+      - Compliance
+      required: true
+    - id: 18
+      name: cost_importance
+      label: Cost Importance
+      hint: Rate importance 1-5
+      type: select_one
+      options:
+      - 1 - Not important
+      - 2 - Slightly important
+      - 3 - Moderately important
+      - 4 - Very important
+      - 5 - Critical
+      required: true
+    - id: 19
+      name: quality_importance
+      label: Quality Importance
+      hint: Rate importance 1-5
+      type: select_one
+      options:
+      - 1 - Not important
+      - 2 - Slightly important
+      - 3 - Moderately important
+      - 4 - Very important
+      - 5 - Critical
+      required: true
+    - id: 20
+      name: timeline_importance
+      label: Timeline Importance
+      hint: Rate importance 1-5
+      type: select_one
+      options:
+      - 1 - Not important
+      - 2 - Slightly important
+      - 3 - Moderately important
+      - 4 - Very important
+      - 5 - Critical
+      required: true
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: Available budget
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,001-$100,000
+      - $100,001-$500,000
+      - Over $500,000
+      required: true
+    - id: 22
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When needed?
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - Flexible
+      required: true
+    - id: 23
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: Who is involved?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: decision_maker
+      label: Final Decision Maker
+      hint: Who decides?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How risk-averse?
+      type: select_one
+      options:
+      - Very risk-averse
+      - Somewhat risk-averse
+      - Neutral
+      - Somewhat risk-tolerant
+      - Very risk-tolerant
+      required: true
+    - id: 26
+      name: must_have_features
+      label: Must-Have Features
+      hint: Required features
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: nice_to_have_features
+      label: Nice-to-Have Features
+      hint: Desired but not required
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: deal_breakers
+      label: Deal Breakers
+      hint: What would disqualify?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: alternative_1_pros
+      label: Alternative 1 Pros
+      hint: Advantages
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: alternative_1_cons
+      label: Alternative 1 Cons
+      hint: Disadvantages
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: alternative_2_pros
+      label: Alternative 2 Pros
+      hint: Advantages
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: alternative_2_cons
+      label: Alternative 2 Cons
+      hint: Disadvantages
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: preferred_alternative
+      label: Preferred Alternative
+      hint: Which do you recommend?
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: recommendation_rationale
+      label: Recommendation Rationale
+      hint: Why this choice?
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident in recommendation?
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      required: true
+    - id: 36
+      name: additional_analysis_needed
+      label: Additional Analysis Needed
+      hint: Is more research needed?
+      type: select_one
+      options:
+      - No, ready to decide
+      - Yes, minor research
+      - Yes, significant research
+      required: true
+    - id: 37
+      name: next_steps
+      label: Recommended Next Steps
+      hint: What to do next?
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other notes
+      type: text
+      options: []
+      required: false

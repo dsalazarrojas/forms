@@ -1,0 +1,304 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closing Check Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Closing Check Survey
+      hint: Complete this survey at the end of each shift or business day
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Restaurant
+      - Office
+      - Warehouse
+      - Healthcare
+      - Hospitality
+      - Other
+      required: true
+    - id: 5
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Weekend
+      required: true
+    - id: 7
+      name: shift_start
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: shift_end
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: manager_on_duty
+      label: Manager on Duty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: closing_duties_complete
+      label: Are All Closing Duties Complete
+      hint: null
+      type: select_one
+      options:
+      - Yes All Complete
+      - Mostly Complete
+      - Partially Complete
+      - Not Complete
+      required: true
+    - id: 11
+      name: area_cleaned
+      label: Work Area Cleaned
+      hint: null
+      type: select_one
+      options:
+      - Yes Thoroughly
+      - Yes Adequately
+      - Partially
+      - false
+      required: true
+    - id: 12
+      name: equipment_secured
+      label: Equipment Secured and Stored
+      hint: null
+      type: select_one
+      options:
+      - Yes All Equipment
+      - Yes Most Equipment
+      - Partially
+      - false
+      - Not Applicable
+      required: true
+    - id: 13
+      name: cash_drawer_balanced
+      label: Cash Drawer Balanced
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes Balanced
+      - Yes With Variance
+      - false
+      - Not Applicable
+      required: false
+    - id: 14
+      name: cash_variance
+      label: Cash Variance Amount
+      hint: If any
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: registers_closed
+      label: Registers Closed Properly
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 16
+      name: inventory_secured
+      label: Inventory Secured
+      hint: null
+      type: select_one
+      options:
+      - Yes All Secured
+      - Yes Mostly Secured
+      - Partially
+      - false
+      required: true
+    - id: 17
+      name: perishables_stored
+      label: Perishables Properly Stored
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 18
+      name: waste_disposed
+      label: Trash and Waste Disposed
+      hint: null
+      type: select_one
+      options:
+      - Yes All Areas
+      - Yes Main Areas
+      - Partially
+      - false
+      required: true
+    - id: 19
+      name: lights_adjusted
+      label: Lights Adjusted per Protocol
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 20
+      name: thermostat_adjusted
+      label: Thermostat Adjusted per Protocol
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 21
+      name: doors_locked
+      label: All Doors Locked
+      hint: null
+      type: select_one
+      options:
+      - Yes All
+      - Yes Most
+      - Partially
+      - false
+      required: true
+    - id: 22
+      name: windows_secured
+      label: All Windows Secured
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 23
+      name: alarm_activated
+      label: Security Alarm Activated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 24
+      name: safety_hazards
+      label: Any Safety Hazards Identified
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: safety_hazard_details
+      label: Safety Hazard Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: maintenance_issues
+      label: Any Maintenance Issues
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: maintenance_details
+      label: Maintenance Issue Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: incidents_occurred
+      label: Any Incidents During Shift
+      hint: Accidents injuries disturbances
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: incident_details
+      label: Incident Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: opening_notes
+      label: Notes for Opening Shift
+      hint: Important information for next shift
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to report
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: employee_signature
+      label: Employee Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: manager_verification
+      label: Manager Verification
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Needs Attention
+      - Not Yet Reviewed
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crystal Form Submission
+    pages:
+    - id: 1
+      name: form_submission_date
+      label: form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Feedback'', ''label'': ''Feedback''}'
+      - '{''id'': 2, ''name'': ''Application'', ''label'': ''Application''}'
+      - '{''id'': 3, ''name'': ''Event'', ''label'': ''Event''}'
+      required: false
+    - id: 6
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_submission_time
+      label: form_submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: application_id
+      label: application_id
+      hint: null
+      type: number
+      options: []
+      required: false

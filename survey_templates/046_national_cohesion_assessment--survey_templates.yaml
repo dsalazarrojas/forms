@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Cohesion Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: region
+      label: What region do you belong to?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: institution
+      label: Which of the following institutions do you trust?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: institution_5
+      label: Which of the following institutions do you trust?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: belonging
+      label: How much do you feel a sense of belonging to your region?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trust
+      label: How much do you trust in your institutions?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: unity
+      label: How much do you feel a sense of unity with your region?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mentor Observation Form
+    pages:
+    - id: 1
+      name: new_teacher
+      label: New Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''new_teacher_1''}'
+      - '{''value'': ''new_teacher_2''}'
+      required: false
+    - id: 2
+      name: date_of_first_observation
+      label: Date of First Observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: frequency_of_observation
+      label: Frequency of Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation_duration
+      label: Duration of Observation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''communication''}'
+      - '{''value'': ''lesson_plan''}'
+      - '{''value'': ''classroom_management''}'
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Get Arcsine (asin) Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asin_value
+      label: Asin Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher Forms
+      - Other
+      required: false

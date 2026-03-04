@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Coach Evaluation Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: How well does the coach communicate with team members, parents and other
+        staff?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: leadership_skills
+      label: leadership_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_morale
+      label: team_morale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sportsmanship
+      label: sportsmanship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coach_development
+      label: Coach Development
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: coach_coaching
+      label: Coach Coaching
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - neutral
+      - bad
+      - very_bad
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything else you'd like to add?
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false

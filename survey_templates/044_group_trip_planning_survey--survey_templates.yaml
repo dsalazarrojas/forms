@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Trip Planning Survey
+    pages:
+    - id: 1
+      name: trip_name
+      label: Trip Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_attendee
+      label: Participant Attendee
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

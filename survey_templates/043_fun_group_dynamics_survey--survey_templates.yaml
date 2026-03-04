@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fun Group Dynamics Survey
+    pages:
+    - id: 1
+      name: group_dynamics
+      label: Team Collaboration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small Team''}'
+      - '{''id'': 2, ''label'': ''Medium Team''}'
+      - '{''id'': 3, ''label'': ''Large Team''}'
+      required: false
+    - id: 3
+      name: feedback_style
+      label: Feedback Style
+      hint: Think of a team that gives constructive, specific feedback, but also acknowledges
+        and appreciates each other's feelings and emotions.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_culture
+      label: Team Culture
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Direct and Clear''}'
+      - '{''id'': 2, ''label'': ''Indirect and Clear''}'
+      - '{''id'': 3, ''label'': ''Direct and Vague''}'
+      - '{''id'': 4, ''label'': ''Indirect and Vague''}'
+      required: false
+    - id: 6
+      name: collaboration_frequency
+      label: How Often Do You Collaborate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Almost Never''}'
+      - '{''id'': 2, ''label'': ''Rarely''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Often''}'
+      - '{''id'': 5, ''label'': ''Almost Always''}'
+      required: false
+    - id: 7
+      name: fun_moments
+      label: Fun Moments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Celebrating Successes''}'
+      - '{''id'': 2, ''label'': ''Playing Games''}'
+      - '{''id'': 3, ''label'': ''Team Lunches''}'
+      - '{''id'': 4, ''label'': ''Team Challenges''}'
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggestions
+      hint: What do you think would improve team collaboration and morale?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_leadership
+      label: Team Leadership
+      hint: Think of a team leader or manager who has positively impacted your team
+        experience.
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Always''}'
+      - '{''id'': 2, ''label'': ''Often''}'
+      - '{''id'': 3, ''label'': ''Sometimes''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      - '{''id'': 5, ''label'': ''Never''}'
+      required: false

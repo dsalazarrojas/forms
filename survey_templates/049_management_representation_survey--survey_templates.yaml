@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Representation Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What Is Your Management Style
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_question_1
+      label: How often would you like to receive feedback on your performance?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 3
+      name: intro_question_2
+      label: What time of day do you usually work best?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 4
+      name: intro_question_3
+      label: How many hours do you usually work per week?
+      hint: Please enter an integer
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: intro_question_4
+      label: What time of week do you usually work best?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: intro_question_5
+      label: How many days in a row do you usually work?
+      hint: Please enter an integer
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: intro_question_6
+      label: How many breaks do you take during the day?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1-2''}'
+      - '{''id'': 2, ''label'': ''3-5''}'
+      - '{''id'': 3, ''label'': ''6-10''}'
+      required: false
+    - id: 8
+      name: intro_question_7
+      label: What time do you take breaks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 9
+      name: intro_question_8
+      label: How long do you work?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 1 hour''}'
+      - '{''id'': 2, ''label'': ''1-2 hours''}'
+      - '{''id'': 3, ''label'': ''3-4 hours''}'
+      required: false
+    - id: 10
+      name: intro_question_9
+      label: How long have you been working?
+      hint: Please enter an integer
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: intro_question_10
+      label: Do you usually work at home?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: intro_question_11
+      label: Do you usually work on weekends?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 13
+      name: intro_question_12
+      label: Do you usually work on holidays?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 14
+      name: intro_question_13
+      label: Do you usually work more than 8 hours per day?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 15
+      name: intro_question_14
+      label: Do you usually work more than 6 days per week?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 16
+      name: intro_question_15
+      label: Do you usually work while traveling?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 17
+      name: intro_question_16
+      label: Do you usually take a break during work hours?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 18
+      name: intro_question_17
+      label: Do you usually take a break for more than 1 hour?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 19
+      name: intro_question_18
+      label: Do you usually take a lunch break?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 20
+      name: intro_question_19
+      label: Do you usually take a dinner break?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 21
+      name: intro_question_20
+      label: Do you usually leave your desk?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 22
+      name: intro_question_21
+      label: Do you usually work from home?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 23
+      name: intro_question_22
+      label: Do you usually work on weekends?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 24
+      name: intro_question_23
+      label: Do you usually work more than 2 days in a row?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 25
+      name: intro_question_24
+      label: Do you usually work more than 1 hour without a break?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

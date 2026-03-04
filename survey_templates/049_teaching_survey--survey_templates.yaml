@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: How often do you teach this course?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_2
+      label: What is your level of expertise in this subject?
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 7
+      name: question_3
+      label: How would you rate your experience in this subject?
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 8
+      name: question_4
+      label: What do you like about this subject?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_5
+      label: What do you dislike about this subject?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_6
+      label: Do you think this subject is relevant to your work?
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 11
+      name: question_7
+      label: Do you think this subject requires more resources?
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false

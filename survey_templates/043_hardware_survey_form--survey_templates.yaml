@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: hardware_survey_form
+    pages:
+    - id: 1
+      name: survey_form
+      label: Hardware Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hardware_type
+      label: Hardware Type
+      hint: null
+      type: select_one
+      options:
+      - CPU
+      - Motherboard
+      - Monitor
+      - Keyboard
+      - Mouse
+      required: false
+    - id: 3
+      name: hardware_model
+      label: Hardware Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: processor_speed
+      label: Processor Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ram_capacity
+      label: Ram Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: installed_software
+      label: Installed Software
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tools
+      label: Assigned Tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hardware_purchase_date
+      label: Hardware Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: hardware_purchase_cost
+      label: Hardware Purchase Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hardware_purchase_currency
+      label: Hardware Purchase Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 13
+      name: hardware_purchase_location
+      label: Hardware Purchase Location
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Japan
+      - China
+      - Canada
+      required: false
+    - id: 14
+      name: hardware_survey_form_comments
+      label: Hardware Survey Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hardware_form_comments
+      label: Hardware Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hardware_type_2
+      label: Additional Hardware Types
+      hint: null
+      type: select_multiple
+      options:
+      - GPU
+      - Power Supply
+      - Storage Device
+      - Network Card
+      required: false
+    - id: 18
+      name: hardware_model_2
+      label: Additional Hardware Models
+      hint: null
+      type: select_multiple
+      options:
+      - Dell
+      - HP
+      - Lenovo
+      - Apple
+      required: false
+    - id: 19
+      name: hardware_purchase_date_2
+      label: Additional Hardware Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: hardware_survey_form_comments_2
+      label: Additional Hardware Survey Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hardware_form_comments_2
+      label: Additional Hardware Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hardware_purchase_cost_2
+      label: Additional Hardware Purchase Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: hardware_purchase_currency_2
+      label: Additional Hardware Purchase Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 24
+      name: hardware_purchase_location_2
+      label: Additional Hardware Purchase Location
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Japan
+      - China
+      - Canada
+      required: false
+    - id: 25
+      name: assigned_tool_2
+      label: Additional Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

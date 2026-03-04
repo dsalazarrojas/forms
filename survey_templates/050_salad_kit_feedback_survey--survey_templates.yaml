@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Kit Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: price_value
+      label: Price Value
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fair''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 5
+      name: quality_of_ingredients
+      label: Quality of Ingredients
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_with_product
+      label: Satisfaction with Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 7
+      name: would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: how_did_you_find_us
+      label: How Did You Find Us
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Social Media''}'
+      - '{''id'': 2, ''label'': ''Online Search''}'
+      - '{''id'': 3, ''label'': ''Referral''}'
+      - '{''id'': 4, ''label'': ''Store''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Spending Survey
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: What is your age group?
+      hint: Select the range that best applies
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 3
+      name: household_income
+      label: Annual Household Income
+      hint: Total before taxes
+      type: select_one
+      options:
+      - Less than $25k
+      - $25k-$50k
+      - $50k-$75k
+      - $75k-$100k
+      - $100k-$150k
+      - More than $150k
+      required: true
+    - id: 4
+      name: spending_habits_header
+      label: -- Monthly Spending Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: monthly_grocery_spend
+      label: Average Monthly Grocery Spending
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dining_frequency
+      label: How often do you dine out per week?
+      hint: Includes takeout and delivery
+      type: select_one
+      options:
+      - Never
+      - 1-2 times
+      - 3-4 times
+      - 5 or more times
+      required: true
+    - id: 7
+      name: entertainment_spend
+      label: Monthly Entertainment Budget
+      hint: Movies, concerts, subscriptions, etc.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shopping_categories
+      label: Categories you spend the most on
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Home Improvement
+      - Health and Beauty
+      - Books and Hobbies
+      required: true
+    - id: 9
+      name: online_vs_instore
+      label: Where do you do most of your shopping?
+      hint: Choose the primary method
+      type: select_one
+      options:
+      - Exclusively Online
+      - Mostly Online
+      - Equal Mix
+      - Mostly In-Store
+      - Exclusively In-Store
+      required: true
+    - id: 10
+      name: recent_major_purchase
+      label: Have you made a purchase over $500 in the last 3 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: purchase_influence
+      label: Primary factor influencing your purchases
+      hint: null
+      type: select_one
+      options:
+      - Price
+      - Brand Reputation
+      - Quality
+      - Recommendations
+      - Advertising
+      required: true
+    - id: 12
+      name: saving_habits
+      label: Percentage of monthly income saved
+      hint: approximate percentage
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: feedback_comments
+      label: Any additional comments on your spending habits
+      hint: null
+      type: text
+      options: []
+      required: false

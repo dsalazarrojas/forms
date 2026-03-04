@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: mentee_evaluation_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Mentee Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - mentoring
+      - project
+      - other
+      required: false
+    - id: 3
+      name: program_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: progress_status
+      label: progress_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - On Track
+      - Behind
+      required: false
+    - id: 6
+      name: progress_comments
+      label: progress_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Mentor
+      - Mentee
+      - Administrator
+      required: false
+    - id: 12
+      name: form_submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_last_updated
+      label: last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_last_updated_by
+      label: last_updated_by
+      hint: null
+      type: select_one
+      options:
+      - System
+      - Mentor
+      - Administrator
+      required: false

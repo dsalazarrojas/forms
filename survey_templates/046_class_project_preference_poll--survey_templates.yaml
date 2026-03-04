@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Project Preference Poll
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: School email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: class_name
+        label: Class Name
+        hint: Which class is this for
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_type_preference
+        label: What Type of Project Do You Prefer
+        hint: Select your preference
+        type: select_one
+        options:
+          - Research paper
+          - Group presentation
+          - Creative project
+          - Case study analysis
+          - Build or prototype
+          - Community service project
+          - Multimedia project
+          - Debate or discussion
+        required: true
+      - id: 5
+        name: topic_interest
+        label: Which Topic Interests You Most
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Current events and society
+          - Science and technology
+          - History and culture
+          - Arts and literature
+          - Business and economics
+          - Health and wellness
+          - Environment and sustainability
+          - Open to any topic
+        required: true
+      - id: 6
+        name: specific_topic
+        label: Do You Have a Specific Topic in Mind
+        hint: Describe your idea
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: group_size
+        label: What Group Size Do You Prefer
+        hint: For the project
+        type: select_one
+        options:
+          - Individual project
+          - Pair (2 students)
+          - Small group (3-4 students)
+          - Medium group (5-6 students)
+          - Large group (7+ students)
+        required: true
+      - id: 8
+        name: partner_preference
+        label: Do You Have Partner Preferences
+        hint: Who you want to work with
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: project_duration
+        label: What Project Duration Do You Prefer
+        hint: Length of project
+        type: select_one
+        options:
+          - 1 week
+          - 2 weeks
+          - 3-4 weeks
+          - Full semester
+          - No preference
+        required: true
+      - id: 10
+        name: presentation_format
+        label: How Would You Prefer to Present
+        hint: Final presentation style
+        type: select_one
+        options:
+          - In-person presentation
+          - Video presentation
+          - Written report only
+          - Poster or display
+          - Digital portfolio
+          - Live demonstration
+        required: true
+      - id: 11
+        name: resource_needs
+        label: What Resources Will You Need
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Library research access
+          - Computer lab access
+          - Art supplies
+          - Recording equipment
+          - Software access
+          - Meeting space
+          - Budget for materials
+          - No special resources
+        required: false
+      - id: 12
+        name: timeline_preference
+        label: When Would You Prefer to Work
+        hint: Project timeline
+        type: select_multiple
+        options:
+          - During class time
+          - After school
+          - Evenings
+          - Weekends
+          - Flexible schedule
+        required: false
+      - id: 13
+        name: skill_showcase
+        label: What Skills Would You Like to Showcase
+        hint: Your strengths
+        type: select_multiple
+        options:
+          - Writing
+          - Public speaking
+          - Research
+          - Design
+          - Technology
+          - Leadership
+          - Creativity
+          - Analysis
+        required: false
+      - id: 14
+        name: learning_goals
+        label: What Do You Hope to Learn
+        hint: From this project
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: concerns
+        label: Do You Have Any Concerns
+        hint: About the project
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: excitement_level
+        label: How Excited Are You About This Project
+        hint: Your enthusiasm level
+        type: select_one
+        options:
+          - Very excited
+          - Excited
+          - Neutral
+          - Not very excited
+          - Not excited at all
+        required: true
+      - id: 17
+        name: additional_comments
+        label: Additional Comments or Ideas
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

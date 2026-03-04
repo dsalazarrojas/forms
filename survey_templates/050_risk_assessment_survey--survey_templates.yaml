@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Survey
+    pages:
+    - id: 1
+      name: workplace_hazards
+      label: Workplace Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment_questions
+      label: Risk Assessment Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluate_risks
+      label: Evaluate Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Chemical
+      - Biological
+      required: false
+    - id: 6
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: risk_probability
+      label: Risk Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_consequence
+      label: Risk Consequence
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Instructors Mini Evaluation Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Section 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1_question_1
+      label: What did you think of the instructor's communication style?
+      hint: Please describe your thoughts.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_1_question_2
+      label: What was your experience with the instructor's organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_2
+      label: Section 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: section_2_question_1
+      label: How clear were the course objectives?
+      hint: Rate the clarity of the course objectives.
+      type: select_one
+      options:
+      - Clear
+      - Somewhat clear
+      - Somewhat unclear
+      - Very unclear
+      required: false
+    - id: 6
+      name: section_3
+      label: Section 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: section_3_question_1
+      label: How would you rate the overall quality of the course content?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: section_4
+      label: Section 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: section_4_question_1
+      label: Was the course relevant to your needs?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      - Not relevant
+      required: false
+    - id: 10
+      name: section_5
+      label: Section 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: section_5_question_1
+      label: Would you recommend this course to a colleague?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: section_5_question_2
+      label: Would you recommend this course to a friend or peer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

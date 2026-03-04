@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Delivery Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: delivery_areas
+      label: Delivery Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: service_rating
+      label: Overall Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_picked_up
+      label: Were your order picked up on time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: delivery_person_nickname
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_area_rating
+      label: How would you rate the delivery area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: service_quality
+      label: How would you rate the service quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: How long did you wait
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: delivery_date
+      label: Date of Delivery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: delivery_area
+      label: Delivery Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 15
+      name: customer_satisfaction_comments
+      label: Customer Satisfaction Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_area
+      label: Contact Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: delivery_person_email
+      label: Delivery Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: delivery_person_phone
+      label: Delivery Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_date_time
+      label: Delivery Date & Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: delivery_time_rating
+      label: Delivery Time Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: delivery_quality
+      label: Delivery Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

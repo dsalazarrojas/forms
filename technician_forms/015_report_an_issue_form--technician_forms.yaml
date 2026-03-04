@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report An Issue Form
+    pages:
+    - id: 1
+      name: report_an_issue_form
+      label: Report An Issue Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Report Description
+      hint: Provide a detailed description of the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - Problem
+      - Error
+      - Concern
+      required: false
+    - id: 4
+      name: issue_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Head Office
+      - Server Room
+      - Other
+      required: false
+    - id: 5
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_image
+      label: Image or Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_attach
+      label: Attach File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: issue_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - Technician
+      - Customer
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Technician
+      - Customer
+      required: false
+    - id: 15
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: issue_number
+      label: Issue Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issue_number2
+      label: Issue Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: report_date
+      label: Report Date
+      hint: null
+      type: select_one
+      options:
+      - Last 30
+      - Last 7
+      - Last 1
+      required: false
+    - id: 22
+      name: submitter_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - Technician
+      - Customer
+      required: false
+    - id: 24
+      name: reportee
+      label: Reportee
+      hint: null
+      type: select_one
+      options:
+      - Technician
+      - Customer
+      required: false
+    - id: 25
+      name: issue_type2
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - Problem
+      - Error
+      - Concern
+      required: false

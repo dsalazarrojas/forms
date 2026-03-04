@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: phd-student-survey
+    pages:
+    - id: 1
+      name: background_info
+      label: background-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_interests
+      label: research-interests
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: time-of-day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

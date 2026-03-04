@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Reminder Method Poll
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_frequency
+      label: How often do you have appointments?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Occasionally
+      required: true
+    - id: 6
+      name: reminder_preferences
+      label: -- Reminder Method Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_reminder_method
+      label: Which reminder method do you prefer?
+      hint: Select your top choice
+      type: select_one
+      options:
+      - Email
+      - SMS text message
+      - Phone call
+      - App notification
+      - Calendar invite
+      - No reminder
+      required: true
+    - id: 8
+      name: second_preference
+      label: What is your second choice?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS text message
+      - Phone call
+      - App notification
+      - Calendar invite
+      - No preference
+      required: false
+    - id: 9
+      name: reminder_timing
+      label: When would you prefer to be reminded?
+      hint: null
+      type: select_one
+      options:
+      - 24 hours before
+      - 12 hours before
+      - 2 days before
+      - Week before
+      - Day of appointment
+      - Multiple times
+      required: true
+    - id: 10
+      name: language_preference
+      label: Language Preference
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Other
+      required: false
+    - id: 11
+      name: accessibility_features
+      label: -- Accessibility and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_needs
+      label: Do you have accessibility needs?
+      hint: null
+      type: select_one
+      options:
+      - Yes - visual impairment
+      - Yes - hearing impairment
+      - Yes - other needs
+      - No special needs
+      required: false
+    - id: 13
+      name: preferred_accommodation
+      label: Preferred accommodation for reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reminder_content
+      label: -- Reminder Content Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: content_preference
+      label: What information should the reminder include?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Appointment date and time
+      - Provider name
+      - Location and directions
+      - Preparation instructions
+      - Insurance information
+      - Cancellation instructions
+      required: false
+    - id: 16
+      name: confirmation_request
+      label: Would you like reminders to request appointment confirmation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - No preference
+      required: false
+    - id: 17
+      name: improvement_suggestions
+      label: How can we improve appointment reminders?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Virtual Learning Parent Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback_1
+      label: What is one thing you wish you had done differently in the remote learning
+        environment?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_2
+      label: What was the most helpful resource or support provided to you during
+        remote learning?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_3
+      label: What support do you feel you need to be successful in this remote learning
+        environment?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rating_1
+      label: How would you rate the overall quality of support provided to you in
+        remote learning?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Excellent''}'
+      required: true
+    - id: 8
+      name: rating_2
+      label: How would you rate the effectiveness of the remote learning platform?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Excellent''}'
+      required: true
+    - id: 9
+      name: communication_1
+      label: What method of communication is your preferred method of contact from
+        your school?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone Call''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Text message''}'
+      - '{''label'': ''Video call''}'
+      required: true
+    - id: 10
+      name: communication_2
+      label: Are you able to receive emails sent from your school?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 11
+      name: comments
+      label: Do you have any other comments or feedback you would like to share?
+      hint: null
+      type: text
+      options: []
+      required: true

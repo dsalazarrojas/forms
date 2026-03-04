@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sonar Finding Report Form
+    pages:
+    - id: 1
+      name: sonar_finding_report_form_page1
+      label: Marine Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sonar_finding_report_form_page2
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sonar_finding_report_form_page2
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: sonar_finding_report_form_page1
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sonar_finding_report_form_page1
+      label: Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sonar_finding_report_form_page1
+      label: Sonar
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sonar_finding_report_form_page2
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sonar_finding_report_form_page1
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

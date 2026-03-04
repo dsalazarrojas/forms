@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Conference Registration Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: conference_day
+      label: Conference Day
+      hint: null
+      type: select_one
+      options:
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 7
+      name: conference_time
+      label: Conference Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: parent_conference_date
+      label: Conference Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: parent_conference_time
+      label: Conference Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: teacher_conference_date
+      label: Teacher Conference Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: teacher_conference_time
+      label: Teacher Conference Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: conference_location
+      label: Conference Location
+      hint: null
+      type: text
+      options: []
+      required: false

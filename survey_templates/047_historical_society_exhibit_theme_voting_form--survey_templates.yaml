@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: historical_society_exhibit_theme_voting_form
+    pages:
+    - id: 1
+      name: survey_theme
+      label: Historical Society Exhibit Theme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_exhibit_date
+      label: Exhibit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: opening_time
+      label: Opening Time
+      hint: "12:00 PM or 1:00 PM"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: closing_time
+      label: Closing Time
+      hint: "12:00 PM or 1:00 PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: exhibit_length
+      label: Exhibit Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: theme_preferences
+      label: Theme Preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

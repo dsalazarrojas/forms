@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: streaming_service_engagement_report_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_streaming_time
+      label: Content Streaming Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: content_consumption_frequency
+      label: Content Consumption Frequency
+      hint: How often do you consume content from this service?
+      type: select_multiple
+      options:
+      - Daily
+      - Several Times a Week
+      - Rarely
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stream_quality
+      label: Stream Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: stream_availability
+      label: Stream Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Always Available
+      - Sometimes Available
+      - Rarely Available
+      required: true
+    - id: 9
+      name: content_relevance
+      label: Content Relevance
+      hint: null
+      type: select_one
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: false
+    - id: 10
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: content_selection
+      label: Content Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Recommended
+      - Not Recommended
+      - No Opinion
+      required: false

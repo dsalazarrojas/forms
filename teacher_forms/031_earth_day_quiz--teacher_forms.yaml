@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earth Day Quiz
+    pages:
+    - id: 1
+      name: earth_day_quiz_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: earth_day_quiz_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: earth_day_quiz_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: earth_day_quiz_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: earth_day_quiz_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: earth_day_quiz_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: earth_day_quiz_select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: earth_day_quiz_select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 9
+      name: earth_day_quiz_decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false

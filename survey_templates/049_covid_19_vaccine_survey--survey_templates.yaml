@@ -1,0 +1,273 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up surveys
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - 18-29
+          - 30-39
+          - 40-49
+          - 50-59
+          - 60-69
+          - 70+
+          - Prefer not to answer
+        required: true
+      - id: 4
+        name: vaccination_section
+        label: "-- COVID-19 Vaccination Attitude Survey --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: vaccine_importance
+        label: How important is the COVID-19 vaccine to you
+        hint: null
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Neutral
+          - Not very important
+          - Not important at all
+        required: true
+      - id: 6
+        name: willingness_vaccinate
+        label: Are you willing to get vaccinated
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, probably
+          - Unsure
+          - Probably not
+          - Definitely not
+          - Already vaccinated
+        required: true
+      - id: 7
+        name: vaccine_effectiveness
+        label: How effective do you think the vaccine is
+        hint: null
+        type: select_one
+        options:
+          - Very effective
+          - Somewhat effective
+          - Neutral
+          - Not very effective
+          - Not effective
+          - Unsure
+        required: true
+      - id: 8
+        name: vaccine_safety
+        label: How safe do you think the vaccine is
+        hint: null
+        type: select_one
+        options:
+          - Very safe
+          - Somewhat safe
+          - Neutral
+          - Somewhat unsafe
+          - Very unsafe
+          - Unsure
+        required: true
+      - id: 9
+        name: side_effects_concern
+        label: How concerned are you about side effects
+        hint: null
+        type: select_one
+        options:
+          - Very concerned
+          - Somewhat concerned
+          - Neutral
+          - Not very concerned
+          - Not concerned at all
+          - Unsure
+        required: true
+      - id: 10
+        name: trust_section
+        label: "-- Trust and Information --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: trust_government
+        label: How much do you trust government vaccine recommendations
+        hint: null
+        type: select_one
+        options:
+          - Completely trust
+          - Mostly trust
+          - Neutral
+          - Somewhat distrust
+          - Completely distrust
+        required: true
+      - id: 12
+        name: trust_healthcare
+        label: How much do you trust healthcare providers
+        hint: null
+        type: select_one
+        options:
+          - Completely trust
+          - Mostly trust
+          - Neutral
+          - Somewhat distrust
+          - Completely distrust
+        required: true
+      - id: 13
+        name: information_sources
+        label: Information Sources You Trust Most
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Healthcare providers
+          - Government agencies
+          - CDC
+          - News media
+          - Social media
+          - Friends and family
+          - Online research
+          - Health organizations
+          - Other
+        required: true
+      - id: 14
+        name: concerns_section
+        label: "-- Concerns and Questions --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: main_concern
+        label: What is your main concern about the vaccine
+        hint: null
+        type: select_one
+        options:
+          - Safety
+          - Side effects
+          - Effectiveness
+          - Allergic reactions
+          - Personal freedom
+          - Religious beliefs
+          - Development speed
+          - Cost
+          - Long-term effects
+          - Ingredients
+          - Other
+          - No concerns
+        required: true
+      - id: 16
+        name: information_needed
+        label: What information would help you decide
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Safety data
+          - Efficacy information
+          - Side effects list
+          - Long-term effects data
+          - Expert opinions
+          - Real-world examples
+          - FAQ
+          - Personal testimonials
+          - Other
+        required: false
+      - id: 17
+        name: barriers_section
+        label: "-- Barriers to Vaccination --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: access_barriers
+        label: Barriers to Getting Vaccinated
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Cost
+          - Lack of access
+          - Work schedule
+          - Transportation
+          - Language barriers
+          - Medical contraindications
+          - Pregnancy
+          - Health conditions
+          - Personal choice
+          - Other
+        required: false
+      - id: 19
+        name: support_section
+        label: "-- Support and Encouragement --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: who_influences_decision
+        label: Who influences your vaccination decision most
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Healthcare provider
+          - Family members
+          - Friends
+          - Employer
+          - Government
+          - Religious leaders
+          - Media
+          - Personal research
+          - Self decision
+          - Other
+        required: false
+      - id: 21
+        name: what_would_help
+        label: What would help you feel more confident about the vaccine
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: comments_section
+        label: "-- Additional Comments --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Any Additional Comments or Feedback
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Environmental Quality Survey
+    pages:
+    - id: 1
+      name: street_name
+      label: Street Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address_line1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_line2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: neighborhood_name
+      label: Neighborhood Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_count
+      label: Number of Photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: photo_quality
+      label: Quality of Photos
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 7
+      name: photo_description
+      label: Describe Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: environmental_condition
+      label: Environmental Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Air Quality
+      - Noise
+      - Odor
+      - Litter
+      - Pests
+      required: false
+    - id: 9
+      name: noise_level
+      label: Noise Level
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '9'
+      - '8'
+      - '7'
+      - '6'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 10
+      name: odor_level
+      label: Odor Level
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '9'
+      - '8'
+      - '7'
+      - '6'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 11
+      name: trash_count
+      label: Trash Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trash_description
+      label: Describe Trash
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pest_count
+      label: Pests Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pest_description
+      label: Describe Pests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photo_taken
+      label: Taken Photo
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Rarely
+      - Sometimes
+      - Never
+      required: false
+    - id: 16
+      name: photo_taken_at
+      label: Taken At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: photo_taken_on
+      label: Taken On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: neighborhood_rating
+      label: Neighborhood Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 19
+      name: rating_reason
+      label: Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo_taken_time
+      label: Taken Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photo_taken_date
+      label: Taken Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: neighborhood_rating_reason
+      label: Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: neighborhood_rating
+      label: Neighborhood Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 25
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: last_trip_date
+      label: Last Business Trip Date
+      hint: When was your most recent trip
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trip_frequency
+      label: Travel Frequency
+      hint: How often do you travel
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Rarely
+      required: true
+    - id: 7
+      name: trip_destinations
+      label: Typical Trip Destinations
+      hint: Where do you usually travel
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flight_experience
+      label: Flight Booking Experience
+      hint: How easy is booking flights
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Adequate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 9
+      name: travel_policy_clarity
+      label: Travel Policy Clarity
+      hint: Is the travel policy clear
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 10
+      name: expense_reimbursement
+      label: Expense Reimbursement Process
+      hint: How smooth is reimbursement
+      type: select_one
+      options:
+      - Very Smooth
+      - Smooth
+      - Adequate
+      - Problematic
+      - Very Problematic
+      required: true
+    - id: 11
+      name: travel_support
+      label: Travel Support Quality
+      hint: Quality of support from company
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: accommodations_quality
+      label: Hotel Accommodations Quality
+      hint: Quality of hotels provided
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: travel_safety
+      label: Travel Safety Measures
+      hint: Do you feel safe while traveling
+      type: select_one
+      options:
+      - Very Safe
+      - Safe
+      - Adequate
+      - Concerned
+      - Very Concerned
+      required: true
+    - id: 14
+      name: travel_time_impact
+      label: Impact on Work-life Balance
+      hint: How does travel affect balance
+      type: select_one
+      options:
+      - Significant Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Significantly Negative
+      required: true
+    - id: 15
+      name: travel_stress_level
+      label: Travel Stress Level
+      hint: How stressful is business travel
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 16
+      name: overall_satisfaction
+      label: Overall Travel Experience
+      hint: Satisfaction with travel experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 17
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can travel experience improve
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_support
+      label: Additional Support Needed
+      hint: What would help with travel
+      type: text
+      options: []
+      required: false

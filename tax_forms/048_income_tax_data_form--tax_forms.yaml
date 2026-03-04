@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: income_tax_data_form
+    pages:
+    - id: 1
+      name: taxpayer_name
+      label: Taxpayer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Head of Household
+      required: false
+    - id: 4
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - Wages
+      - Self-Employment Income
+      - Interest
+      - Dividends
+      - Capital Gains
+      required: false
+    - id: 5
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: file_date
+      label: File Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: file_time
+      label: File Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: taxpayer_address
+      label: Taxpayer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: taxpayer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: taxpayer_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: taxpayer_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: taxpayer_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: taxpayer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: taxpayer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

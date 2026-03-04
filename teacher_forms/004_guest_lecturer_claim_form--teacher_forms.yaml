@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Lecturer Claim Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_claim
+      label: Total claim
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_details
+      label: Claim details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_upload
+      label: File upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Academia
+      - Business
+      - Sports
+      required: false
+    - id: 9
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claimant
+      label: claimant
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 13
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,301 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Oil Change Record Form
+    pages:
+    - id: 1
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: owner_name
+      label: Owner Name
+      hint: Vehicle owner
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_information
+      label: Service Information
+      hint: Oil change details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_date
+      label: Service Date
+      hint: Date of oil change
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_time
+      label: Service Time
+      hint: Time of service
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: oil_type
+      label: Oil Type
+      hint: Type of oil used
+      type: select_one
+      options:
+      - Conventional
+      - Synthetic Blend
+      - Full Synthetic
+      - High Mileage
+      - Diesel Oil
+      required: true
+    - id: 13
+      name: oil_viscosity
+      label: Oil Viscosity
+      hint: Oil weight/grade
+      type: select_one
+      options:
+      - 0W-20
+      - 5W-20
+      - 5W-30
+      - 10W-30
+      - 10W-40
+      - 20W-50
+      - Other
+      required: true
+    - id: 14
+      name: oil_quantity
+      label: Oil Quantity
+      hint: Quarts of oil used
+      type: select_one
+      options:
+      - 4 quarts
+      - 5 quarts
+      - 6 quarts
+      - 7 quarts
+      - 8 quarts
+      - Other
+      required: true
+    - id: 15
+      name: oil_brand
+      label: Oil Brand
+      hint: Brand of oil
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: filter_changed
+      label: Oil Filter Changed
+      hint: Was filter replaced?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: filter_type
+      label: Filter Type
+      hint: Type of filter
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: filter_brand
+      label: Filter Brand
+      hint: Brand of filter
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: drain_plug_gasket
+      label: Drain Plug Gasket
+      hint: Was gasket replaced?
+      type: select_one
+      options:
+      - Yes - replaced
+      - No - reusable
+      - Not applicable
+      required: false
+    - id: 20
+      name: technician_information
+      label: Technician Information
+      hint: Service technician details
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: technician_name
+      label: Technician Name
+      hint: Name of technician
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: technician_id
+      label: Technician ID
+      hint: Employee ID
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: service_location
+      label: Service Location
+      hint: Shop or location
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_services
+      label: Additional Services
+      hint: Any other services performed?
+      type: select_multiple
+      options:
+      - None
+      - Fluid top-up
+      - Tire rotation
+      - Tire pressure check
+      - Battery check
+      - Brake inspection
+      - Air filter replacement
+      - Cabin filter replacement
+      - Multi-point inspection
+      required: true
+    - id: 25
+      name: fluids_checked
+      label: Fluids Checked
+      hint: Which fluids were checked?
+      type: select_multiple
+      options:
+      - Coolant
+      - Brake Fluid
+      - Transmission Fluid
+      - Power Steering Fluid
+      - Windshield Washer Fluid
+      - Differential Fluid
+      required: false
+    - id: 26
+      name: fluid_conditions
+      label: Fluid Conditions
+      hint: Notes on fluid conditions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: vehicle_condition
+      label: Vehicle Condition Notes
+      hint: Any observations
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: leaks_detected
+      label: Leaks Detected
+      hint: Any oil leaks found?
+      type: select_one
+      options:
+      - No leaks
+      - Minor seepage
+      - Visible leak
+      - Major leak
+      required: true
+    - id: 29
+      name: leak_location
+      label: Leak Location
+      hint: Where is the leak?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: recommendations
+      label: Recommendations
+      hint: Suggested future services
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: next_service_mileage
+      label: Next Service Mileage
+      hint: Recommended mileage for next change
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: next_service_date
+      label: Next Service Date
+      hint: Recommended date
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: service_cost
+      label: Service Cost
+      hint: Total cost
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: warranty_info
+      label: Warranty Information
+      hint: Warranty on service
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: customer_signature
+      label: Customer Signature Confirmation
+      hint: Customer approval
+      type: select_one
+      options:
+      - Service approved by customer
+      - Not applicable
+      required: false
+    - id: 36
+      name: record_date
+      label: Record Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

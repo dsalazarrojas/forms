@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year's Eve Post Event Survey
+    pages:
+    - id: 1
+      name: new_years_eve_post_event_survey
+      label: How was the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_attended
+      label: Did you attend the event?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: event_start_time
+      label: What time did the event start?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_end_time
+      label: What time did the event end?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall rating of the event
+      hint: On a scale from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: music_rating
+      label: Music rating
+      hint: On a scale from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: food_beverage_rating
+      label: Food and beverage rating
+      hint: On a scale from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: suggest_improvement
+      label: What can we improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestions
+      label: What suggestions do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_frequency
+      label: How often do you attend this type of event?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: event_type
+      label: What type of event is this?
+      hint: null
+      type: select_one
+      options:
+      - Music festival
+      - Concert
+      - Party
+      - Conference
+      - Other
+      required: false
+    - id: 15
+      name: attend_alone
+      label: Did you attend alone?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - With group
+      - Family
+      - Other
+      required: false
+    - id: 16
+      name: recommend
+      label: Would you recommend this event?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

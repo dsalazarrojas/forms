@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_number
+      label: teacher_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: subject_area
+      label: subject_area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: school
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: profile_picture
+      label: profile_picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cv
+      label: cv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: teacher_profile
+      label: teacher_profile
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: teacher_profile2
+      label: teacher_profile2
+      hint: null
+      type: text
+      options: []
+      required: true

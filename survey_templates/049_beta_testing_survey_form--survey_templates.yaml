@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beta Testing Survey Form
+    pages:
+    - id: 1
+      name: tester_info_header
+      label: -- Beta Tester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tester_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tester_email_addr
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_feedback_header
+      label: -- Product Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating_score
+      label: How would you rate the product overall
+      hint: Scale of 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 6
+      name: important_feature_desc
+      label: What is the most important feature to you
+      hint: Describe what adds the most value
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: least_important_feature_desc
+      label: What is the least important feature to you
+      hint: What could be removed without impact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: usability_header
+      label: -- Usability and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: usability_rating_score
+      label: How easy is it to use the product
+      hint: Overall user experience
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: expectations_met_status
+      label: Did the product meet your expectations
+      hint: null
+      type: select_one
+      options:
+      - Yes - definitely
+      - Partially
+      - No - not at all
+      required: true
+    - id: 11
+      name: difficulty_description
+      label: Describe any difficulties you had while using the product
+      hint: Challenges or friction points
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: market_fit_header
+      label: -- Value and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: price_willingness_val
+      label: How much would you be willing to pay for this product
+      hint: Suggested price in USD
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: recommendation_intent_status
+      label: Would you recommend this product to others
+      hint: null
+      type: select_one
+      options:
+      - Yes - absolutely
+      - Maybe - with improvements
+      - false
+      required: true
+    - id: 15
+      name: product_improvement_suggestion
+      label: What should we change to make the product better
+      hint: Your top recommendation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: future_use_header
+      label: -- Future Use and Launch --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: release_adoption_likelihood
+      label: How likely are you to use the product once officially released
+      hint: Scale of 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 18
+      name: final_tester_feedback
+      label: Any other feedback
+      hint: Final comments or thoughts
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_completion_date_stamp
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true

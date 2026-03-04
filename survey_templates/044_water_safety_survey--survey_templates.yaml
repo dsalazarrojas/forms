@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Safety Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: participant_location
+      label: participant_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pool''}'
+      - '{''id'': 2, ''name'': ''beach''}'
+      - '{''id'': 3, ''name'': ''river''}'
+      required: true
+    - id: 4
+      name: participant_rescuer
+      label: Participant Rescuer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_rescuer_phone
+      label: Participant Rescuer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_rescuer_email
+      label: Participant Rescuer
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_safety_concern
+      label: safety_concern
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''drowning''}'
+      - '{''id'': 2, ''name'': ''entrapment''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: true
+    - id: 8
+      name: participant_safety_concern_other
+      label: other_safety_concern
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rescuer_location
+      label: rescuer_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pool''}'
+      - '{''id'': 2, ''name'': ''beach''}'
+      - '{''id'': 3, ''name'': ''river''}'
+      required: true
+    - id: 10
+      name: rescuer_phone
+      label: rescuer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rescuer_email
+      label: rescuer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: participant_rescued
+      label: participant_rescued
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''rescued''}'
+      - '{''id'': 2, ''name'': ''not_rescued''}'
+      required: true
+    - id: 13
+      name: participant_rescued_at
+      label: participant_rescued_at
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: rescuer_rescued_at
+      label: rescuer_rescued_at
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: participant_safety_knowledge
+      label: participant_safety_knowledge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: participant_watercraft_knowledge
+      label: participant_watercraft_knowledge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: participant_watercraft_location
+      label: participant_watercraft_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: participant_watercraft_type
+      label: participant_watercraft_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: participant_vessel_type
+      label: participant_vessel_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: participant_vessel_type_other
+      label: other_vessel_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: participant_watercraft_size
+      label: participant_watercraft_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: participant_vessel_length
+      label: participant_vessel_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: participant_vessel_length_units
+      label: participant_vessel_length_units
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''feet''}'
+      - '{''id'': 2, ''name'': ''meters''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: true
+    - id: 24
+      name: participant_vessel_length_units_other
+      label: other_vessel_length_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_rescue_method
+      label: participant_rescue_method
+      hint: null
+      type: text
+      options: []
+      required: true

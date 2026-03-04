@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_writing_workshop_survey_form
+    pages:
+    - id: 1
+      name: welcome_message
+      label: Welcome Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_experience
+      label: What was your experience at the workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_content
+      label: What did you find most helpful about the workshop content?
+      hint: null
+      type: select_one
+      options:
+      - Workshop exercises
+      - Workshop materials
+      - Presentations
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions or recommendations for future workshops?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: How would you rate your overall experience at the workshop?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_workshop
+      label: Date of Workshop
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_workshop
+      label: Time of Workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Would you like to receive follow up messages about future workshops?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

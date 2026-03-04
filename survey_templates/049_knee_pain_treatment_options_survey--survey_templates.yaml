@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: knee_pain_treatment_options_survey
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: patient_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: treatment_options
+      label: treatment_options
+      hint: null
+      type: select_one
+      options:
+      - Knee Pain Injections
+      - Steroid Shots
+      - Other
+      required: false
+    - id: 3
+      name: pain_level
+      label: pain_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: treatment_effectiveness
+      label: treatment_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: treatment_outcome
+      label: treatment_outcome
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: patient_satisfaction
+      label: patient_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Dizziness
+      - Itching
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,258 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Strategy Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Your Email
+        hint: Email address
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 5
+        name: gender
+        label: Gender
+        hint: Your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to self-describe
+          - Prefer not to say
+        required: true
+      - id: 6
+        name: occupation
+        label: Occupation
+        hint: Your current occupation
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: industry
+        label: Industry
+        hint: What industry do you work in?
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Education
+          - Retail
+          - Marketing
+          - Media
+          - Manufacturing
+          - Other
+        required: true
+      - id: 8
+        name: content_consumption_frequency
+        label: Content Consumption Frequency
+        hint: How often do you consume online content?
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times weekly
+          - Once weekly
+          - Rarely
+        required: true
+      - id: 9
+        name: preferred_content_types
+        label: Preferred Content Types
+        hint: What types of content do you prefer?
+        type: select_multiple
+        options:
+          - Blog Articles
+          - Videos
+          - Infographics
+          - Podcasts
+          - Social Media Posts
+          - E-books
+          - Webinars
+          - Case Studies
+        required: true
+      - id: 10
+        name: content_length_preference
+        label: Content Length Preference
+        hint: What length do you prefer?
+        type: select_one
+        options:
+          - Short (under 500 words)
+          - Medium (500-1500 words)
+          - Long (1500+ words)
+          - Depends on topic
+        required: true
+      - id: 11
+        name: content_topics_interest
+        label: Content Topics of Interest
+        hint: What topics interest you most?
+        type: select_multiple
+        options:
+          - Industry News
+          - How-To Guides
+          - Product Reviews
+          - Case Studies
+          - Thought Leadership
+          - Trends and Insights
+          - Company Updates
+          - Educational Content
+        required: true
+      - id: 12
+        name: content_discovery_method
+        label: Content Discovery Method
+        hint: How do you usually find content?
+        type: select_one
+        options:
+          - Search Engines
+          - Social Media
+          - Email Newsletters
+          - Recommendations
+          - Direct Website Visits
+          - RSS Feeds
+        required: true
+      - id: 13
+        name: social_media_platforms
+        label: Social Media Platforms Used
+        hint: Which platforms do you use?
+        type: select_multiple
+        options:
+          - Facebook
+          - Instagram
+          - LinkedIn
+          - Twitter
+          - YouTube
+          - TikTok
+          - Pinterest
+          - Reddit
+        required: true
+      - id: 14
+        name: content_engagement_level
+        label: Content Engagement Level
+        hint: How often do you engage with content?
+        type: select_one
+        options:
+          - Always engage (like, comment, share)
+          - Sometimes engage
+          - Rarely engage
+          - Never engage, just consume
+        required: true
+      - id: 15
+        name: brand_content_perception
+        label: Brand Content Perception
+        hint: How do you view brand content?
+        type: select_one
+        options:
+          - Very valuable
+          - Somewhat valuable
+          - Neutral
+          - Mostly promotional
+          - Not valuable
+        required: true
+      - id: 16
+        name: content_quality_factors
+        label: Content Quality Factors
+        hint: What makes content high quality?
+        type: select_multiple
+        options:
+          - Accurate Information
+          - Well-Written
+          - Visually Appealing
+          - Actionable Insights
+          - Original Ideas
+          - Easy to Understand
+          - Entertaining
+          - Timely
+        required: true
+      - id: 17
+        name: content_sharing_behavior
+        label: Content Sharing Behavior
+        hint: How often do you share content?
+        type: select_one
+        options:
+          - Frequently
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 18
+        name: content_format_device
+        label: Content Format Device
+        hint: What device do you primarily use?
+        type: select_one
+        options:
+          - Desktop/Laptop
+          - Mobile Phone
+          - Tablet
+          - Multiple devices equally
+        required: true
+      - id: 19
+        name: email_subscription_willingness
+        label: Email Subscription Willingness
+        hint: Would you subscribe to email content?
+        type: select_one
+        options:
+          - Yes, regularly subscribe
+          - Yes, but selectively
+          - Maybe
+          - No, prefer other channels
+        required: true
+      - id: 20
+        name: content_pain_points
+        label: Content Pain Points
+        hint: What frustrates you about online content?
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: content_expectations
+        label: Content Expectations
+        hint: What do you expect from brand content?
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other thoughts about content
+        type: text
+        options: []
+        required: false

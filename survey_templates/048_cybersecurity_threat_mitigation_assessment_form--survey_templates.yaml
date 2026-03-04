@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: cybersecurity_threat_mitigation_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Cybersecurity Threat Mitigation Assessment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Information
+      hint: Enter Company Information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_areas
+      label: Risk Areas
+      hint: Select risk areas for assessment
+      type: select_multiple
+      options:
+      - Cyber-Physical Systems
+      - Data Loss
+      - Intellectual Property
+      required: true
+    - id: 4
+      name: risk_scores
+      label: Risk Scores
+      hint: Assign risk scores
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: threat_vectors
+      label: Threat Vectors
+      hint: Select threat vectors
+      type: select_one
+      options:
+      - Phishing
+      - Malware
+      - Ransomware
+      required: false
+    - id: 6
+      name: vulnerability_scores
+      label: Vulnerability Scores
+      hint: Assess vulnerability scores
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: security_controls
+      label: Security Controls
+      hint: Select security controls
+      type: select_multiple
+      options:
+      - Firewalls
+      - Encryption
+      - Authentication
+      required: false
+    - id: 8
+      name: mitigation_strategies
+      label: Mitigation Strategies
+      hint: Choose mitigation strategies
+      type: select_multiple
+      options:
+      - Education and Training
+      - Patching and Updates
+      - Incident Response
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false

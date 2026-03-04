@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art History Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Who painted the Mona Lisa
+      hint: Single best answer
+      type: select_one
+      options:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      - Rembrandt
+      required: true
+    - id: 4
+      name: question_2
+      label: What art movement is Picasso associated with
+      hint: Single best answer
+      type: select_one
+      options:
+      - Cubism
+      - Impressionism
+      - Baroque
+      - Surrealism
+      required: true
+    - id: 5
+      name: question_3
+      label: Which decade is considered modern art
+      hint: Single best answer
+      type: select_one
+      options:
+      - 1890s
+      - 1920s
+      - 1950s
+      - 1970s
+      required: true
+    - id: 6
+      name: question_4
+      label: Name a famous Dutch Golden Age painter
+      hint: Open response
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_5
+      label: What medium is fresco
+      hint: Single best answer
+      type: select_one
+      options:
+      - Wall painting on wet plaster
+      - Oil on canvas
+      - Watercolor
+      - Etching
+      required: true
+    - id: 8
+      name: score
+      label: Score
+      hint: For teacher use to record score
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: Teacher feedback and comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completed_date
+      label: Completed date
+      hint: Date quiz was completed
+      type: date
+      options: []
+      required: false

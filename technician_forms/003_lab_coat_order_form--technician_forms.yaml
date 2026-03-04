@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Coat Order Form
+    pages:
+    - id: 1
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - lab_coat
+      - other
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - large
+      - medium
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fabric
+      label: Fabric
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: thread_count
+      label: Thread Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sleeve_style
+      label: Sleeve Style
+      hint: null
+      type: select_one
+      options:
+      - button
+      - snap
+      - velcro
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_preparer_agreement_form_experto
+    pages:
+    - id: 1
+      name: taxpayer_name
+      label: Taxpayer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preparer_name
+      label: Preparer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preparer_taxpayer_agreement
+      label: Preparer Taxpayer Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''Preparer Agreement'': ''1 - Yes''}'
+      - '{''Preparer Agreement'': ''2 - No''}'
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: taxpayer_signature
+      label: Taxpayer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: preparer_signature
+      label: Preparer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: preparer_firm
+      label: Preparer Firm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: taxpayer_address
+      label: Taxpayer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preparer_agreement_version
+      label: Version
+      hint: null
+      type: select_one
+      options:
+      - '{''Version'': 1}'
+      - '{''Version'': 2}'
+      required: false
+    - id: 16
+      name: taxpayer_agreement_version
+      label: Taxpayer Agreement Version
+      hint: null
+      type: select_one
+      options:
+      - '{''Version'': 1}'
+      - '{''Version'': 2}'
+      required: false
+    - id: 17
+      name: preparer_issuer
+      label: Preparer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: taxpayer_issuer
+      label: Taxpayer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

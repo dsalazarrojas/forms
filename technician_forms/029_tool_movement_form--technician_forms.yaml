@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Movement Form
+    pages:
+    - id: 1
+      name: tool_movement_form
+      label: Tool Movement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select the tool being moved
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: from_location
+      label: From Location
+      hint: Starting location
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: to_location
+      label: To Location
+      hint: Ending location
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: movement_type
+      label: Movement Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: movement_date
+      label: Movement Date
+      hint: Date of movement
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: movement_time
+      label: Movement Time
+      hint: Time of movement
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Additional comments about the movement
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool_issued_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: location_owners
+      label: Location Owners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: location_types
+      label: Location Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: tool_condition
+      label: Tool Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

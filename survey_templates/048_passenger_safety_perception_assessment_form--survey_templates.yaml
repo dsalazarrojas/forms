@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Safety Perception Assessment Form
+    pages:
+    - id: 1
+      name: safety_concern
+      label: Has the driver been involved in any incidents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: incident_location
+      label: If yes what was the location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: incident_type
+      label: What type of incident occurred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: incident_date
+      label: Date of incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: driver_name
+      label: Name of driver
+      hint: Enter driver name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: passenger_name
+      label: Name of passenger
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: safety_rating
+      label: Safety rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: general_safety_feeling
+      label: How do you feel about your overall safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: safety_improvement
+      label: Are there any areas for improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: driver_performance
+      label: How do you rate the driver's performance
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: driver_attitude
+      label: How would you rate the driver's attitude
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 13
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

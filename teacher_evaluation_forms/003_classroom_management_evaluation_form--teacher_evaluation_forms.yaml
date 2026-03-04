@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Management Evaluation Form
+    pages:
+      - id: 1
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Name of the person conducting the evaluation
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: teacher_name
+        label: Teacher Name
+        hint: Name of the teacher being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: classroom_id
+        label: Classroom ID or Room Number
+        hint: Location of the classroom
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of observation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: grade_level_observed
+        label: Grade Level Observed
+        hint: Grade level of the class
+        type: select_one
+        options:
+          - Kindergarten
+          - Elementary (1-5)
+          - Middle School (6-8)
+          - High School (9-12)
+        required: true
+      - id: 6
+        name: subject_area
+        label: Subject Area
+        hint: Subject being taught during observation
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: classroom_environment_rating
+        label: Classroom Environment Rating
+        hint: Rate the overall classroom atmosphere
+        type: select_one
+        options:
+          - Excellent - Very positive and productive
+          - Good - Mostly positive with minor issues
+          - Fair - Some disruptions present
+          - Poor - Significant management issues
+        required: true
+      - id: 8
+        name: student_engagement_level
+        label: Student Engagement Level
+        hint: How engaged are students during instruction
+        type: select_one
+        options:
+          - Highly Engaged - All students participating
+          - Mostly Engaged - Most students participating
+          - Moderately Engaged - About half participating
+          - Low Engagement - Few students participating
+        required: true
+      - id: 9
+        name: behavior_management_effectiveness
+        label: Behavior Management Effectiveness
+        hint: How well does the teacher manage student behavior
+        type: select_one
+        options:
+          - Very Effective - Clear expectations and consistent follow-through
+          - Effective - Generally good management
+          - Somewhat Effective - Inconsistent at times
+          - Ineffective - Poor behavior management
+        required: true
+      - id: 10
+        name: transition_management
+        label: Transition Management
+        hint: How smoothly does the class transition between activities
+        type: select_one
+        options:
+          - Very Smooth - Minimal downtime
+          - Smooth - Brief transitions
+          - Somewhat Rough - Noticeable delays
+          - Rough - Chaotic transitions
+        required: true
+      - id: 11
+        name: instructional_time_usage
+        label: Instructional Time Usage
+        hint: How effectively is class time used for instruction
+        type: select_one
+        options:
+          - Excellent - Maximum instructional time
+          - Good - Most time used effectively
+          - Fair - Some time lost to disruptions
+          - Poor - Significant time wasted
+        required: true
+      - id: 12
+        name: student_teacher_interactions
+        label: Student-Teacher Interactions
+        hint: Quality of interactions between teacher and students
+        type: select_one
+        options:
+          - Very Positive - Respectful and supportive
+          - Positive - Generally respectful
+          - Neutral - Minimal interaction
+          - Negative - Tense or hostile interactions
+        required: true
+      - id: 13
+        name: classroom_rules_clarity
+        label: Classroom Rules Clarity
+        hint: Are classroom rules clearly posted and understood
+        type: select_one
+        options:
+          - Yes - Clearly posted and consistently enforced
+          - Mostly - Rules exist but enforcement varies
+          - Somewhat - Rules mentioned but not visible
+          - No - Rules unclear or not enforced
+        required: true
+      - id: 14
+        name: strengths_observed
+        label: Strengths Observed
+        hint: List the teacher's classroom management strengths
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: Suggest areas where improvement is needed
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations or recommendations
+        type: text
+        options: []
+        required: false

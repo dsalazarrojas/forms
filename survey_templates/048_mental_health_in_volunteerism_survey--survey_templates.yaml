@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental-health-in-volunteerism-survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer Leader
+      - Program Coordinator
+      - Other
+      required: false
+    - id: 3
+      name: mental_health_effect
+      label: How has volunteering affected your mental health?
+      hint: null
+      type: select_one
+      options:
+      - Much worse, significantly
+      - Somewhat worse
+      - A little worse
+      - No change
+      - A little better
+      - Somewhat better
+      - Much better
+      - Don't know/Prefer not to say
+      required: false
+    - id: 4
+      name: emotional_stress
+      label: Emotional stress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: burnout
+      label: Burnout
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: burnout_frequency
+      label: How often do you experience burnout?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: burnout_symptoms
+      label: Symptoms of burnout
+      hint: null
+      type: select_multiple
+      options:
+      - Fatigue
+      - Anxiety
+      - Depression
+      - Irritability
+      - Loss of motivation
+      - Loss of interest in activities
+      - Difficulty sleeping
+      - Other
+      required: false
+    - id: 8
+      name: self_care
+      label: Self-care activities
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Mindfulness
+      - Journaling
+      - Other
+      required: false
+    - id: 9
+      name: support_seeking
+      label: Do you seek support for mental health concerns?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: seeking_support
+      label: How do you seek support for mental health concerns?
+      hint: null
+      type: select_multiple
+      options:
+      - Self-help resources (e.g. books, online forums)
+      - Friends and family
+      - Mental health professionals
+      - Colleagues
+      - Other
+      required: false
+    - id: 11
+      name: feedback
+      label: What can we do to help you in the future?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mental_health_involvement
+      label: What do you think about mental health involvement in volunteerism?
+      hint: null
+      type: text
+      options: []
+      required: false

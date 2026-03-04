@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Shopping Preferences Survey
+    pages:
+    - id: 1
+      name: section_preferences
+      label: -- Shopping Preferences --
+      hint: Understand customer preferences for apparel shopping
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender_preference
+      label: Gender preference for apparel
+      hint: Helps segment product recommendations
+      type: select_one
+      options:
+        - Womens
+        - Mens
+        - Unisex
+        - No preference
+      required: false
+    - id: 3
+      name: price_sensitivity
+      label: Price sensitivity
+      hint: Typical spending on apparel per purchase
+      type: select_one
+      options:
+        - Budget under 25
+        - Mid 25 to 75
+        - Premium over 75
+      required: false
+    - id: 4
+      name: preferred_channel
+      label: Preferred shopping channel
+      hint: Online in store or mobile app
+      type: select_one
+      options:
+        - Online
+        - In store
+        - Mobile app
+        - Catalog
+      required: true
+    - id: 5
+      name: size_consistency
+      label: Size consistency experiences
+      hint: Do sizes match expectations across brands
+      type: select_one
+      options:
+        - Consistent
+        - Variable
+        - Unreliable
+      required: false
+    - id: 6
+      name: favorite_styles
+      label: Favorite styles or brands
+      hint: Provide examples or brand names
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shopping_frequency
+      label: How often do you shop for apparel
+      hint: Typical frequency of purchases
+      type: select_one
+      options:
+        - Weekly
+        - Monthly
+        - A few times a year
+        - Rarely
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any preferences or unmet needs
+      type: text
+      options: []
+      required: false

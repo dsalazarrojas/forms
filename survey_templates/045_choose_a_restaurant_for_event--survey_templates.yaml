@@ -1,0 +1,383 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choose A Restaurant For Event
+    pages:
+    - id: 1
+      name: event_information
+      label: Event Information
+      hint: Details about your event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Business meeting
+      - Team lunch
+      - Team dinner
+      - Celebration
+      - Birthday
+      - Anniversary
+      - Holiday party
+      - Networking
+      - Casual gathering
+      - Other
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: Expected attendees
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: organizer_information
+      label: Organizer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organizer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organizer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: organizer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organization
+      label: Organization or Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cuisine_preferences
+      label: Cuisine Preferences
+      hint: Food preferences
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_cuisines
+      label: Preferred Cuisine Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Chinese
+      - Japanese
+      - Thai
+      - Indian
+      - Mediterranean
+      - French
+      - Steakhouse
+      - Seafood
+      - Vegetarian
+      - Other
+      required: true
+    - id: 14
+      name: cuisine_to_avoid
+      label: Cuisines to Avoid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: price_range
+      label: Price Range Per Person
+      hint: null
+      type: select_one
+      options:
+      - Under $15
+      - $15-$30
+      - $31-$50
+      - $51-$75
+      - $76-$100
+      - Over $100
+      - No preference
+      required: true
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Special needs
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions in Group
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergies
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 18
+      name: dietary_details
+      label: Please Specify Dietary Restrictions
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location_preferences
+      label: Location Preferences
+      hint: Where to meet
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_area
+      label: Preferred Area or Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: distance_radius
+      label: Maximum Distance from Center
+      hint: null
+      type: select_one
+      options:
+      - Within 5 miles
+      - Within 10 miles
+      - Within 15 miles
+      - Within 20 miles
+      - No limit
+      required: false
+    - id: 22
+      name: parking_needed
+      label: Is Parking Important
+      hint: null
+      type: select_one
+      options:
+      - Yes, essential
+      - Yes, preferred
+      - Not important
+      - No, using other transport
+      required: true
+    - id: 23
+      name: accessibility_needed
+      label: Is Wheelchair Accessibility Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 24
+      name: atmosphere_preferences
+      label: Atmosphere Preferences
+      hint: Ambiance
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: preferred_atmosphere
+      label: Preferred Atmosphere
+      hint: null
+      type: select_one
+      options:
+      - Casual
+      - Upscale casual
+      - Fine dining
+      - Trendy
+      - Traditional
+      - Quiet
+      - Lively
+      - No preference
+      required: true
+    - id: 26
+      name: noise_level
+      label: Preferred Noise Level
+      hint: null
+      type: select_one
+      options:
+      - Quiet
+      - Moderate
+      - Lively
+      - No preference
+      required: true
+    - id: 27
+      name: private_room
+      label: Is a Private Room Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, required
+      - Yes, preferred
+      - No, not needed
+      required: true
+    - id: 28
+      name: restaurant_suggestions
+      label: Restaurant Suggestions
+      hint: Your ideas
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: have_suggestions
+      label: Do you have restaurant suggestions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: suggested_restaurants
+      label: List Suggested Restaurants
+      hint: Names and locations
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: restaurants_to_avoid
+      label: Restaurants to Avoid
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: budget_information
+      label: Budget Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Company paid
+      - Split evenly
+      - Individual checks
+      - Host pays
+      - Not sure
+      required: true
+    - id: 34
+      name: budget_limit
+      label: Total Budget Limit
+      hint: If any
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: alcohol_preferences
+      label: Alcohol Preferences
+      hint: Drinks
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: alcohol_service
+      label: Alcohol Service Preference
+      hint: null
+      type: select_one
+      options:
+      - Full bar desired
+      - Beer and wine only
+      - No alcohol needed
+      - Bring your own
+      required: true
+    - id: 37
+      name: additional_requests
+      label: Additional Requests
+      hint: Special needs
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: special_occasions
+      label: Special Occasions to Acknowledge
+      hint: Birthdays, etc.
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: av_needs
+      label: AV or Presentation Needs
+      hint: Projector, screen, etc.
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: decision_timeline
+      label: When do you need to make a decision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: organizer_signature
+      label: Organizer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

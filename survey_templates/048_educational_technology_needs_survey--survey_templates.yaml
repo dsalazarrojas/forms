@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Technology Needs Survey
+    pages:
+    - id: 1
+      name: survey_type
+      label: Select Educational Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 2
+      name: school_id
+      label: school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: technology_needs
+      label: Technology Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: classroom_needs
+      label: Classroom Needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_needs
+      label: Teacher Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: other_needs
+      label: Other Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: false

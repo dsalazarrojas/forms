@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yearbook Survey
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_number
+      label: Student Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_grade
+      label: Grade
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 10
+      name: student_subjects
+      label: Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - English
+      - Science
+      - History
+      - Music
+      - Physical Education
+      - Health
+      - Language Arts
+      required: false
+    - id: 11
+      name: student_clubs
+      label: Clubs and Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Debate Team
+      - Drama Club
+      - School Sports
+      - Robotics Club
+      - Student Council
+      - School Newspaper
+      - Chess Club
+      - Student Council
+      required: false
+    - id: 12
+      name: student_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false

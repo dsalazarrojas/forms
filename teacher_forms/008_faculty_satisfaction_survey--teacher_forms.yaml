@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Satisfaction Survey
+    pages:
+    - id: 1
+      name: class_interesting
+      label: How interesting is your class
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: class_difficulty
+      label: What is the difficulty level of this class?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 3
+      name: class_satisfaction
+      label: How satisfied do you feel about the class?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 4
+      name: teaching_style
+      label: What is the teaching style of your instructor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_materials
+      label: Have you used the class materials?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 6
+      name: communication
+      label: How well does your instructor communicate with you?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: course_content
+      label: How interesting is the course content?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Do you have any feedback or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: How would you like to be contacted?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: How would you like to be contacted?
+      hint: null
+      type: text
+      options: []
+      required: false

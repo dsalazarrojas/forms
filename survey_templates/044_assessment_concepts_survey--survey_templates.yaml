@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Concepts Survey
+    pages:
+    - id: 1
+      name: respondent_role_survey
+      label: Your Current Professional Role
+      hint: null
+      type: select_one
+      options:
+      - Classroom Teacher
+      - School Administrator
+      - Corporate Trainer
+      - Curriculum Developer
+      - Research Academic
+      required: true
+    - id: 2
+      name: formative_fam_rating
+      label: Familiarity with Formative Assessment Concepts
+      hint: 1 - unaware, 5 - expert
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: summative_fam_rating
+      label: Familiarity with Summative Assessment Concepts
+      hint: 1 - unaware, 5 - expert
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: preferred_assessment_method_survey
+      label: Which assessment method do you find most effective
+      hint: null
+      type: select_one
+      options:
+      - Objective Tests - MCQ, True/False
+      - Essay and Written Response
+      - Performance-based Tasks
+      - Portfolio Assessment
+      - Peer and Self-assessment
+      required: true
+    - id: 5
+      name: rubric_effectiveness_rating
+      label: Effectiveness of using rubrics for grading consistency
+      hint: 1 - not effective, 5 - highly effective
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: feedback_frequency_pref
+      label: How often should students receive formal assessment feedback
+      hint: null
+      type: select_one
+      options:
+      - After every lesson
+      - Weekly
+      - Mid-term and Final only
+      - End of unit/module
+      required: true
+    - id: 7
+      name: standardized_testing_impact
+      label: Perceived impact of standardized testing on student learning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_tools_suggestions
+      label: Suggestions for innovative assessment tools or platforms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_usage_improvement
+      label: How do you use assessment data to modify your instruction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: survey_completion_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

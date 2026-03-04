@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Repair Warranty Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: repair_type
+      label: Repair Type
+      hint: null
+      type: select_one
+      options:
+      - Service
+      - Maintenance
+      - Technical Support
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: technician
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: warranty_request
+      label: Warranty Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

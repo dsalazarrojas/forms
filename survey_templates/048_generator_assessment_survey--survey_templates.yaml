@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generator Assessment Survey
+    pages:
+    - id: 1
+      name: generator_survey
+      label: Generator Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: generator_performance
+      label: Generator Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: efficiency_rating
+      label: Efficiency Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Another Option
+      required: false
+    - id: 10
+      name: generator_efficiency
+      label: Generator Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: performance_metric
+      label: Performance Metric
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false

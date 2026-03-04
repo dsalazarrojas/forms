@@ -1,0 +1,272 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleft Condition Awareness Quiz
+    pages:
+      - id: 1
+        name: section_header_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Email Address
+        hint: For sharing quiz results
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: participant_age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-25
+          - 26-35
+          - 36-50
+          - 51-65
+          - 65+
+        required: false
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_intro
+        label: -- Cleft Condition Awareness Quiz --
+        hint: Test your knowledge about cleft conditions
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: question_1
+        label: Question 1 - What is a cleft?
+        hint: null
+        type: select_one
+        options:
+          - A birth defect affecting the lip or palate
+          - A type of genetic disease
+          - A dental condition
+          - A muscle weakness
+        required: true
+      - id: 8
+        name: question_2
+        label: Question 2 - How common are cleft conditions?
+        hint: null
+        type: select_one
+        options:
+          - 1 in 500 births
+          - 1 in 700 births
+          - 1 in 1000 births
+          - 1 in 1500 births
+        required: true
+      - id: 9
+        name: question_3
+        label: Question 3 - What types of clefts exist?
+        hint: null
+        type: select_multiple
+        options:
+          - Cleft Lip
+          - Cleft Palate
+          - Cleft Lip and Palate
+          - Submucous Cleft
+        required: true
+      - id: 10
+        name: question_4
+        label: Question 4 - What causes cleft conditions?
+        hint: null
+        type: select_multiple
+        options:
+          - Genetic factors
+          - Environmental factors
+          - Nutritional deficiencies
+          - Maternal infections
+          - Prenatal medications
+        required: true
+      - id: 11
+        name: question_5
+        label: Question 5 - Can cleft conditions be detected prenatally?
+        hint: null
+        type: select_one
+        options:
+          - Yes, through ultrasound
+          - Yes, through blood tests only
+          - No, not possible
+          - Only in some cases
+        required: true
+      - id: 12
+        name: question_6
+        label: Question 6 - At what age is cleft repair typically performed?
+        hint: null
+        type: select_one
+        options:
+          - At birth
+          - 3-6 months old
+          - 1-2 years old
+          - 5+ years old
+        required: true
+      - id: 13
+        name: question_7
+        label: Question 7 - What are the main impacts of cleft conditions?
+        hint: null
+        type: select_multiple
+        options:
+          - Feeding difficulties
+          - Speech problems
+          - Dental issues
+          - Hearing problems
+          - Social and psychological effects
+        required: true
+      - id: 14
+        name: question_8
+        label: Question 8 - How many surgeries might a cleft patient need?
+        hint: null
+        type: select_one
+        options:
+          - 1-2 surgeries
+          - 3-5 surgeries
+          - 5-10 surgeries
+          - 10+ surgeries
+        required: true
+      - id: 15
+        name: question_9
+        label: Question 9 - What is the primary goal of cleft repair?
+        hint: null
+        type: select_one
+        options:
+          - Cosmetic appearance only
+          - Function and appearance restoration
+          - Speech improvement only
+          - Feeding improvement only
+        required: true
+      - id: 16
+        name: question_10
+        label: Question 10 - Can people with cleft conditions have normal speech?
+        hint: null
+        type: select_one
+        options:
+          - Yes, with proper treatment
+          - No, never
+          - Only in mild cases
+          - Depends on the type of cleft
+        required: true
+      - id: 17
+        name: question_11
+        label: Question 11 - What is the role of speech therapy?
+        hint: null
+        type: select_multiple
+        options:
+          - Help with articulation
+          - Address velopharyngeal insufficiency
+          - Improve voice quality
+          - Psychological support
+        required: true
+      - id: 18
+        name: question_12
+        label: Question 12 - Are there psychological effects of cleft conditions?
+        hint: null
+        type: select_one
+        options:
+          - Yes, significant impact possible
+          - Minimal psychological impact
+          - No psychological impact
+          - Depends on the person
+        required: true
+      - id: 19
+        name: question_13
+        label: Question 13 - What is orthodontic treatment for cleft?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: question_14
+        label: Question 14 - Can adults with untreated cleft get help?
+        hint: null
+        type: select_one
+        options:
+          - Yes, treatment is possible at any age
+          - No, too late for adults
+          - Only limited options for adults
+          - Only cosmetic options available
+        required: true
+      - id: 21
+        name: question_15
+        label: Question 15 - What organizations provide support for cleft conditions?
+        hint: null
+        type: select_multiple
+        options:
+          - American Cleft Palate-Craniofacial Association
+          - Smile Train
+          - Operation Smile
+          - Local cleft teams and hospitals
+        required: true
+      - id: 22
+        name: section_header_feedback
+        label: -- Quiz Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: knowledge_level
+        label: How would you rate your knowledge of cleft conditions before this quiz?
+        hint: null
+        type: select_one
+        options:
+          - No knowledge
+          - Limited knowledge
+          - Moderate knowledge
+          - Extensive knowledge
+        required: true
+      - id: 24
+        name: interest_learning_more
+        label: Are you interested in learning more about cleft conditions?
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Not interested
+        required: false
+      - id: 25
+        name: personal_connection
+        label: Do you have a personal connection to cleft conditions?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Prefer not to say
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments or Questions
+        hint: Any feedback about the quiz or topic?
+        type: text
+        options: []
+        required: false

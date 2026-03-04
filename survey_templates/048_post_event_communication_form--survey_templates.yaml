@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_event_communication_form
+    pages:
+    - id: 1
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - Q1
+      - Q2
+      - Q3
+      required: false
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

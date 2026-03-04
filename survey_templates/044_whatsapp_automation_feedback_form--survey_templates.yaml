@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: whatsapp_automation_feedback_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: features_benefits
+      label: featuresbenefits
+      hint: null
+      type: select_multiple
+      options:
+      - Automated Messages
+      - Sent Messages
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_one
+      options:
+      - Feature Request
+      - Feature Suggestion
+      - Bug Report
+      - Other
+      required: false
+    - id: 4
+      name: ratings
+      label: ratings
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: open_ended
+      label: open_ended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ratings2
+      label: ratings2
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: open_ended2
+      label: open_ended2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

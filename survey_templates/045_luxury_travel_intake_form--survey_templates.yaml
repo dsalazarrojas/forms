@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Travel Intake Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_preferences
+      label: Travel Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''Luxury Hotel'', ''Budget Hotel'', ''Hostel'']}'
+      - Other
+      required: false
+    - id: 3
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Agency 1'', ''Agency 2'', ''Agency 3'']}'
+      - Other
+      required: false
+    - id: 10
+      name: travel_agency_comment
+      label: Agency Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_comment
+      label: Client Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_agency_notes
+      label: Agency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_agency_id
+      label: Agency ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Luxury'', ''Budget'', ''Adventure'']}'
+      - Other
+      required: false
+    - id: 24
+      name: travel_length
+      label: Travel Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: travel_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''USD'', ''EUR'', ''JPY'']}'
+      - Other
+      required: false
+    - id: 26
+      name: travel_currency_rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech Recording Feedback Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate the recording?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: What are some suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false

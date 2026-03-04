@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_payment_feedback_form
+    pages:
+    - id: 1
+      name: payment_experience
+      label: How was your payment experience?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: card_type
+      label: What type of credit card did you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Diners
+      required: false
+    - id: 3
+      name: amount_paid
+      label: What was the amount you paid with your credit card?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transaction_success
+      label: Was the transaction successful?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Which payment method was used?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      - Phone
+      required: false
+    - id: 6
+      name: time_of_day
+      label: What time of day was the transaction made?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_of_transaction
+      label: Date of the transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Do you want to provide your contact details?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email address
+      hint: Enter your email address if you wish to be contacted about this feedback
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: Enter your phone number if you wish to be contacted about this feedback
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: rating_comment
+      label: Rating comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_sent
+      label: Have you been contacted via email?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: time_contacted
+      label: Time contacted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: contact_method
+      label: Method of contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 18
+      name: feedback_type
+      label: What type of feedback is this?
+      hint: null
+      type: select_one
+      options:
+      - General feedback
+      - Transaction-specific feedback
+      required: false
+    - id: 19
+      name: email_sent_method
+      label: How were you contacted via email?
+      hint: null
+      type: select_one
+      options:
+      - Automated email
+      - Human email
+      required: false
+    - id: 20
+      name: phone_number
+      label: Phone number
+      hint: Enter your phone number if you wish to be contacted about this feedback
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contacted_by
+      label: Contacted by
+      hint: null
+      type: select_one
+      options:
+      - Automated system
+      - Human representative
+      required: false
+    - id: 22
+      name: contact_details_email
+      label: Email address
+      hint: Enter your email address if you wish to be contacted about this feedback
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_details_phone
+      label: Phone number
+      hint: Enter your phone number if you wish to be contacted about this feedback
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_details_other
+      label: Other contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Study Opportunities Survey
+    pages:
+    - id: 1
+      name: country
+      label: what_country
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Canada
+      - France
+      - Germany
+      - Japan
+      - New Zealand
+      - Sweden
+      - United Kingdom
+      - United States
+      - Other
+      required: false
+    - id: 2
+      name: study_type
+      label: type_of_study
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Other
+      - Postgraduate
+      required: false
+    - id: 3
+      name: language
+      label: what_language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Mandarin
+      - Spanish
+      - French
+      - German
+      - Japanese
+      - Korean
+      - Arabic
+      - Other
+      required: false
+    - id: 4
+      name: reason_for_studying_abroad
+      label: why_study_abroad
+      hint: null
+      type: select_multiple
+      options:
+      - Cultural Experience
+      - Personal Growth
+      - Career Advancement
+      - Networking
+      - Financial Gain
+      - Language Skills
+      - Academic Experience
+      - Other
+      - Personal Interest
+      - Family Obligation
+      - Financial Support
+      required: false
+    - id: 5
+      name: preferred_location
+      label: preferred_location
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Canada
+      - China
+      - France
+      - Germany
+      - Japan
+      - New Zealand
+      - South Korea
+      - Sweden
+      - United Kingdom
+      - United States
+      - Other
+      required: false
+    - id: 6
+      name: study_duration
+      label: study_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: your_email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: your_phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: university
+      label: name_of_university
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program
+      label: name_of_program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: semester
+      label: semester
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - Other
+      required: false
+    - id: 13
+      name: note
+      label: any_other_info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Submission Feedback Form
+    pages:
+    - id: 1
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review
+      label: Product Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommend
+      label: Would you recommend this product?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submission_channel
+      label: Submission Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Website''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Email''}'
+      required: true
+    - id: 9
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Public Network''}'
+      - '{''id'': 2, ''label'': ''Private Network''}'
+      required: true

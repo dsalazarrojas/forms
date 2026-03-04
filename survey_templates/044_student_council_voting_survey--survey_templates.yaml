@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Council Voting Survey
+    pages:
+    - id: 1
+      name: student_survey_form
+      label: What is your grade level?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: student_survey_form
+      label: What is your student status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: candidate_survey_form
+      label: Which candidate would you like to vote for?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: survey_survey_form
+      label: Do you support this candidate?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: survey_survey_form
+      label: Why do you support this candidate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_survey_form
+      label: Do you support this other candidate?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: survey_survey_form
+      label: What is the reason you do not support this candidate?
+      hint: null
+      type: text
+      options: []
+      required: false

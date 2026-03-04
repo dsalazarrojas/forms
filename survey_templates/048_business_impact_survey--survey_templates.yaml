@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Impact Survey
+    pages:
+    - id: 1
+      name: respondent_section
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: Your position or involvement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_size
+      label: Business Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 7
+      name: industry_sector
+      label: Industry Sector
+      hint: What industry?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operations_location
+      label: Primary Operations Location
+      hint: Geographic area
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: disruption_section
+      label: -- Disruption Impacts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: operational_impact
+      label: Impact on Operations
+      hint: How have operations been affected?
+      type: select_one
+      options:
+      - Severe disruption
+      - Significant impact
+      - Moderate impact
+      - Minor impact
+      - No impact
+      required: true
+    - id: 11
+      name: financial_impact
+      label: Financial Impact
+      hint: How has it affected finances?
+      type: select_one
+      options:
+      - Severe loss
+      - Significant loss
+      - Moderate loss
+      - Minor loss
+      - Positive impact
+      required: true
+    - id: 12
+      name: revenue_change
+      label: Revenue Change Percentage
+      hint: Percentage change in revenue
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_impact
+      label: Impact on Employees
+      hint: How have employees been affected?
+      type: select_one
+      options:
+      - Many lost jobs
+      - Some job losses
+      - Reduced hours
+      - Remote work transition
+      - No impact
+      required: true
+    - id: 14
+      name: supply_chain_section
+      label: -- Supply Chain Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supply_disruption
+      label: Supply Chain Disruption
+      hint: Severity of supply chain impact
+      type: select_one
+      options:
+      - Complete shutdown
+      - Severe constraints
+      - Moderate constraints
+      - Minor constraints
+      - No disruption
+      required: true
+    - id: 16
+      name: supplier_challenges
+      label: Key Supplier Challenges
+      hint: What challenges exist?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_impact_section
+      label: -- Customer Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: customer_demand
+      label: Customer Demand Changes
+      hint: How has demand changed?
+      type: select_one
+      options:
+      - Severe decline
+      - Moderate decline
+      - Slight decline
+      - Stable
+      - Increased demand
+      required: true
+    - id: 19
+      name: customer_satisfaction
+      label: Customer Satisfaction Impact
+      hint: How has satisfaction changed?
+      type: select_one
+      options:
+      - Significantly decreased
+      - Decreased
+      - Unchanged
+      - Improved
+      - Significantly improved
+      required: false
+    - id: 20
+      name: recovery_section
+      label: -- Recovery and Resilience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recovery_timeline
+      label: Expected Recovery Timeline
+      hint: When will you recover?
+      type: select_one
+      options:
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      - Uncertain
+      required: false
+    - id: 22
+      name: resilience_measures
+      label: Resilience Measures Taken
+      hint: What steps have you taken?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: future_concerns
+      label: Future Concerns or Vulnerabilities
+      hint: What worries you most?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: support_needed
+      label: Support Needed
+      hint: What assistance would help?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information?
+      type: text
+      options: []
+      required: false

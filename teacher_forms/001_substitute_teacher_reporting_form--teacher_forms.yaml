@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substitute Teacher Reporting Form
+    pages:
+    - id: 1
+      name: substitute_lesson_notes
+      label: Lesson Notes
+      hint: Please provide any notes about the lesson.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_behaviors
+      label: Student Behaviors
+      hint: Please note any challenging student behaviors.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: substitute_teacher_name
+      label: Substitute Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: substitute_email
+      label: Substitute Email
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: substitute_phone
+      label: Substitute Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lesson_plan
+      label: Lesson Plan
+      hint: Please attach a lesson plan.
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Absent
+      - Late
+      required: true

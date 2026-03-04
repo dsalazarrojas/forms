@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Launch Feedback Questionnaire
+    pages:
+    - id: 1
+      name: new_product_launch
+      label: How was your experience with our new product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_improvement
+      label: Which area of our product do you think needs improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Product Design
+      - User Interface
+      - Functionality
+      - Performance
+      - Features
+      - Other
+      required: false
+    - id: 3
+      name: overall_satisfaction
+      label: How satisfied were you with our new product
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_usability
+      label: How easy was it to use our new product
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Neutral
+      - Somewhat Difficult
+      - Very Difficult
+      required: true
+    - id: 5
+      name: product_feature
+      label: What new features would you like to see in our product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_launch
+      label: What triggered your purchase of our new product
+      hint: null
+      type: select_multiple
+      options:
+      - Word of mouth
+      - Online advertisement
+      - Social media
+      - Friend or family member
+      - Other
+      - None of the above
+      required: false
+    - id: 7
+      name: product_price
+      label: How much would you pay for our new product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: product_launch_date
+      label: When did you launch our new product
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: product_purchase_channel
+      label: Where did you purchase our new product
+      hint: null
+      type: select_multiple
+      options:
+      - Online store
+      - Physical store
+      - Online market
+      - Other
+      - None of the above
+      required: true
+    - id: 10
+      name: product_return
+      label: Would you return to our store for another product
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 11
+      name: product_suggestion
+      label: Do you have any suggestions for our new product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_rating
+      label: How would you rate our new product
+      hint: null
+      type: number
+      options: []
+      required: false

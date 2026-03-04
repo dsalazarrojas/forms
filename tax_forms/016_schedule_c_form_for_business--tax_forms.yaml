@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule C Form For Business
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_fiscal_year
+      label: Fiscal Year
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 2020}'
+      - '{''label'': 2021}'
+      - '{''label'': 2022}'
+      - '{''label'': 2023}'
+      required: true
+    - id: 10
+      name: form_gross_income
+      label: Gross Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_net_profit
+      label: Net Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_business_assets
+      label: Business Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_business_liabilities
+      label: Business Liabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_business_equity
+      label: Business Equity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_net_profit_loss
+      label: Net Profit/Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 2020}'
+      - '{''label'': 2021}'
+      - '{''label'': 2022}'
+      - '{''label'': 2023}'
+      required: true
+    - id: 17
+      name: form_schedule_c_form
+      label: Schedule C Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: form_schedule_e
+      label: Schedule E
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: form_schedule_f
+      label: Schedule F
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: form_schedule_se
+      label: Schedule SE
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: form_schedule_k
+      label: Schedule K
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: form_partnership_interest
+      label: Partnership Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_partner_percentage
+      label: Partner Percentage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save Draft''}'
+      required: true

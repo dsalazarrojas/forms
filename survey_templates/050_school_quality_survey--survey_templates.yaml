@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Quality Survey
+    pages:
+    - id: 1
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_title
+      label: Teacher Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_quality
+      label: School Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_size
+      label: School Size
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: school_comments
+      label: School Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Platform User Feedback Information Form
+    pages:
+    - id: 1
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: platform_name
+      label: Platform name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: Feedback comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: frequency_of_use
+      label: Frequency of use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      required: false
+    - id: 9
+      name: frequency_of_use_comments
+      label: Frequency of use comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: platform_features
+      label: Platform features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''User profiles''}'
+      - '{''id'': 2, ''label'': ''Messaging''}'
+      - '{''id'': 3, ''label'': ''Customization options''}'
+      - '{''id'': 4, ''label'': ''Search''}'
+      - '{''id'': 5, ''label'': ''Notifications''}'
+      required: false
+    - id: 11
+      name: overall_rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: overall_rating_comments
+      label: Overall rating comments
+      hint: null
+      type: text
+      options: []
+      required: false

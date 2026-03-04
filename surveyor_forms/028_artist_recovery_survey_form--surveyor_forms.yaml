@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Recovery Survey Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: art_medium
+      label: Primary Art Medium or Discipline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_practicing
+      label: Years Practicing Your Art
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recovery_focus
+      label: Area of Recovery or Challenge
+      hint: null
+      type: select_one
+      options:
+      - Mental Health
+      - Financial Stability
+      - Creative Block
+      - Addiction Recovery
+      - Physical Health
+      - Relationship Issues
+      - Other
+      required: true
+    - id: 6
+      name: problem_duration
+      label: Duration of Current Challenge - Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: problem_description
+      label: Description of the Challenge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact_on_art
+      label: Impact on Artistic Practice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sources_of_challenge
+      label: Sources or Root Causes
+      hint: What contributed to this situation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_received
+      label: Support or Resources Already Accessed
+      hint: Therapy, groups, mentors
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recovery_stage
+      label: Current Recovery Stage
+      hint: null
+      type: select_one
+      options:
+      - Just Beginning
+      - Early Stage
+      - Mid-Stage
+      - Advanced
+      - Maintenance
+      required: false
+    - id: 12
+      name: recovery_barriers
+      label: Main Barriers to Recovery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: support_needs
+      label: Types of Support or Resources Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Professional Counseling
+      - Peer Support Groups
+      - Financial Assistance
+      - Mentorship
+      - Educational Resources
+      - Community Connection
+      required: false
+    - id: 14
+      name: recovery_goals
+      label: Personal Recovery Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: strengths_assets
+      label: Strengths and Assets to Build On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: willing_to_share
+      label: Willing to Share Experience with Others
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 17
+      name: follow_up_contact
+      label: Willing to be Contacted for Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Awareness Survey
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- About You --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_id
+        label: Respondent ID (Optional)
+        hint: For tracking purposes
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Optional demographic
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Other
+        required: false
+      - id: 5
+        name: section_header_awareness
+        label: -- Brand Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: brand_awareness
+        label: Are You Aware of Our Brand
+        hint: Have you heard of us
+        type: select_one
+        options:
+          - Very aware
+          - Somewhat aware
+          - Slightly aware
+          - Not aware
+          - Not sure
+        required: true
+      - id: 7
+        name: where_heard
+        label: Where Have You Heard About Our Brand
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Television
+          - Radio
+          - Print media
+          - Internet search
+          - Social media
+          - Word of mouth
+          - Advertisements
+          - In-store experience
+          - Other
+        required: false
+      - id: 8
+        name: section_header_knowledge
+        label: -- Brand Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: brand_products
+        label: What Products or Services Do We Offer
+        hint: What you know about our offerings
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: brand_uniqueness
+        label: What Makes Our Brand Unique
+        hint: Distinctive features or value
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: brand_values
+        label: What Values Does Our Brand Represent
+        hint: Our mission and principles
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_header_perception
+        label: -- Brand Perception --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: brand_impression
+        label: What Is Your Overall Impression of Our Brand
+        hint: General feeling about brand
+        type: select_one
+        options:
+          - Very positive
+          - Positive
+          - Neutral
+          - Negative
+          - Very negative
+        required: true
+      - id: 14
+        name: brand_purchase_likelihood
+        label: Likelihood of Purchasing From Us
+        hint: Would you buy from us
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 15
+        name: section_header_influence
+        label: -- Brand Influence --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: brand_impact
+        label: How Does Our Brand Impact Your Decisions
+        hint: Influence on choices
+        type: select_one
+        options:
+          - Major impact
+          - Significant impact
+          - Moderate impact
+          - Slight impact
+          - No impact
+        required: true
+      - id: 17
+        name: brand_recommendation
+        label: Would You Recommend Us to Others
+        hint: Likelihood of recommendation
+        type: select_one
+        options:
+          - Definitely
+          - Probably
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 18
+        name: section_header_competitors
+        label: -- Competitive Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: competitor_awareness
+        label: How Aware Are You of Competing Brands
+        hint: Knowledge of alternatives
+        type: select_one
+        options:
+          - Very aware
+          - Somewhat aware
+          - Slightly aware
+          - Not aware
+          - Unsure
+        required: false
+      - id: 20
+        name: section_header_feedback
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: comments
+        label: Any Additional Comments or Suggestions
+        hint: Your feedback about our brand
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Observation Form
+    pages:
+    - id: 1
+      name: interaction
+      label: Parent Child Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: parent
+      label: Parent Involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: child
+      label: Child Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: teacher
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

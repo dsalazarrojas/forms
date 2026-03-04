@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Scheme Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_of_scheme
+      label: awareness_of_scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''option_1''}'
+      - '{''option'': ''option_2''}'
+      - '{''option'': ''option_3''}'
+      required: false
+    - id: 3
+      name: participation_in_scheme
+      label: participation_in_scheme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_with_scheme
+      label: satisfaction_with_scheme
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: barriers_to_access_scheme
+      label: barriers_to_access_scheme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''option_1''}'
+      - '{''option'': ''option_2''}'
+      required: true
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false

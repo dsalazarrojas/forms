@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hoodie Size Survey
+    pages:
+    - id: 1
+      name: size_survey
+      label: size_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: color
+      label: hood_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: size
+      label: hoodie_size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: shirt_size
+      label: shirt_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: shirt_size
+      label: favorite_hoodie_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: hoodie_size
+      label: hoodie_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

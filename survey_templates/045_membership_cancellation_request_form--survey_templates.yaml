@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Cancellation Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: confirm_cancellation
+      label: Confirm Cancellation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To In Person School Information And Commitment Form
+    pages:
+    - id: 1
+      name: school_information
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: students_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_permission
+      label: parent_permission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 6
+      name: student_permission
+      label: student_permission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: teacher_permission
+      label: teacher_permission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: school_start_date
+      label: school_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: school_end_date
+      label: school_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false

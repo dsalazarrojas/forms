@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Request Form Template
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 3
+      name: color
+      label: Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Black
+      required: false
+    - id: 4
+      name: requestor_details
+      label: Requestor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dropbox Tax Submission Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: submission_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: submission_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Received
+      - Rejected
+      - In Progress
+      required: false
+    - id: 4
+      name: document_count
+      label: Document Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_type
+      label: Tax Type
+      hint: null
+      type: select_one
+      options:
+      - Income Tax
+      - Sales Tax
+      - Estate Tax
+      required: false
+    - id: 7
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

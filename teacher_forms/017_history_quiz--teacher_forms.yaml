@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: History Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_period
+      label: time period
+      hint: null
+      type: select_one
+      options:
+      - Ancient
+      - Medieval
+      - Modern
+      - Ancient, Medieval
+      - Medieval, Modern
+      - Modern, Ancient
+      required: false
+    - id: 3
+      name: historical_figure
+      label: historical figure
+      hint: null
+      type: select_multiple
+      options:
+      - George Washington
+      - Abraham Lincoln
+      - Napoleon
+      - Alexander the Great
+      - Cleopatra
+      - Other
+      required: false
+    - id: 4
+      name: event_description
+      label: description
+      hint: null
+      type: select_one
+      options:
+      - The American Revolution
+      - The French Revolution
+      - The Civil War
+      - The Battle of Gettysburg
+      - The Battle of Iwo Jima
+      required: false
+    - id: 5
+      name: correct_answer
+      label: correct
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: reason_answer
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: correct_answer_date
+      label: correct answer date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: correct_answer_time
+      label: correct answer time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: correct_answer_email
+      label: correct answer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: correct_answer_phone
+      label: correct answer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comments
+      label: teacher comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Flight Meal Options Voting Form
+    pages:
+    - id: 1
+      name: flight_meal_preferences
+      label: Flight Meal Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Chicken''}'
+      - '{''id'': 2, ''name'': ''Beef''}'
+      - '{''id'': 3, ''name'': ''Fish''}'
+      - '{''id'': 4, ''name'': ''Salad''}'
+      required: true
+    - id: 2
+      name: flight_meal_feedback
+      label: Flight Meal Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: passenger_email
+      label: Passenger E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: meal_purchased
+      label: Meal Purchased
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 7
+      name: meal_type
+      label: Meal Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hot Food''}'
+      - '{''id'': 2, ''name'': ''Cold Food''}'
+      - '{''id'': 3, ''name'': ''No Preference''}'
+      required: true
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''On Time''}'
+      - '{''id'': 2, ''name'': ''Delayed''}'
+      - '{''id'': 3, ''name'': ''Cancelled''}'
+      required: false
+    - id: 10
+      name: flight_departure_time
+      label: Flight Departure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: flight_arrival_time
+      label: Flight Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Bad''}'
+      - '{''id'': 3, ''name'': ''Neutral''}'
+      required: false
+    - id: 13
+      name: meal_preferences_2
+      label: Meal Preferences 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Breakfast''}'
+      - '{''id'': 2, ''name'': ''Lunch''}'
+      - '{''id'': 3, ''name'': ''Dinner''}'
+      - '{''id'': 4, ''name'': ''Snack''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 14
+      name: meal_preferences_3
+      label: Meal Preferences 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Breakfast''}'
+      - '{''id'': 2, ''name'': ''Lunch''}'
+      - '{''id'': 3, ''name'': ''Dinner''}'
+      - '{''id'': 4, ''name'': ''Snack''}'
+      required: false
+    - id: 15
+      name: flight_meal_service
+      label: Flight Meal Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Self-Service''}'
+      - '{''id'': 2, ''name'': ''Onboard''}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: true
+    - id: 16
+      name: meal_frequency
+      label: Meal Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Once''}'
+      - '{''id'': 2, ''name'': ''Multiple Times''}'
+      required: false
+    - id: 17
+      name: meal_type_2
+      label: Meal Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Hot Food''}'
+      - '{''id'': 2, ''name'': ''Cold Food''}'
+      - '{''id'': 3, ''name'': ''No Preference''}'
+      required: false
+    - id: 18
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Meat''}'
+      - '{''id'': 2, ''name'': ''Fruits''}'
+      - '{''id'': 3, ''name'': ''No Preference''}'
+      required: false
+    - id: 19
+      name: drink_type
+      label: Drink Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Coffee''}'
+      - '{''id'': 2, ''name'': ''Tea''}'
+      - '{''id'': 3, ''name'': ''Juice''}'
+      - '{''id'': 4, ''name'': ''No Preference''}'
+      required: false
+    - id: 20
+      name: food_type_2
+      label: Food Type 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hot Food''}'
+      - '{''id'': 2, ''name'': ''Cold Food''}'
+      - '{''id'': 3, ''name'': ''No Preference''}'
+      required: false
+    - id: 21
+      name: flight_meal_preferences_3
+      label: Flight Meal Preferences 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Breakfast''}'
+      - '{''id'': 2, ''name'': ''Lunch''}'
+      - '{''id'': 3, ''name'': ''Dinner''}'
+      - '{''id'': 4, ''name'': ''Snack''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 22
+      name: flight_status_2
+      label: Flight Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''On Time''}'
+      - '{''id'': 2, ''name'': ''Delayed''}'
+      - '{''id'': 3, ''name'': ''Cancelled''}'
+      required: false
+    - id: 23
+      name: flight_meal_preferences_4
+      label: Flight Meal Preferences 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Breakfast''}'
+      - '{''id'': 2, ''name'': ''Lunch''}'
+      - '{''id'': 3, ''name'': ''Dinner''}'
+      - '{''id'': 4, ''name'': ''Snack''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 24
+      name: passenger_phone
+      label: Passenger Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: flight_meal_preferences_5
+      label: Flight Meal Preferences 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Breakfast''}'
+      - '{''id'': 2, ''name'': ''Lunch''}'
+      - '{''id'': 3, ''name'': ''Dinner''}'
+      - '{''id'': 4, ''name'': ''Snack''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false

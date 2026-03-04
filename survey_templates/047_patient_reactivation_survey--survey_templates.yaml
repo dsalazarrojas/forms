@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Reactivation Survey
+    pages:
+    - id: 1
+      name: patient_reactivation_survey
+      label: Patient Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: retention_issues
+      label: Retention Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 3
+      name: re_engagement_outreach
+      label: Re-Engagement Outreach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: clinic_feedback
+      label: Clinic Feedback
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: number
+      options: []
+      required: false

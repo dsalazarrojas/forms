@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Service Quality Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: Legal Service Quality Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: Feedback Question 1
+      hint: How do you rate the quality of our legal services?
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: Feedback Question 2
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: feedback_question_3
+      label: Feedback Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_4
+      label: Feedback Question 4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback_question_5
+      label: Feedback Question 5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

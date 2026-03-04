@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Visitor Information Form
+    pages:
+    - id: 1
+      name: section_visitor
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: visit_type
+      label: Type of Visitor
+      hint: null
+      type: select_one
+      options:
+      - First-time visitor
+      - Regular visitor
+      - Member
+      - Professional in arts
+      - Other
+      required: false
+    - id: 9
+      name: section_experience
+      label: -- Exhibition Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: visit_duration
+      label: How Long Did You Spend in Exhibition
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - More than 2 hours
+      required: true
+    - id: 11
+      name: favorite_pieces
+      label: Your Favorite Pieces or Artists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_impression
+      label: Overall Impression of Exhibition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: section_engagement
+      label: -- Engagement and Learning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: learned_something
+      label: Did You Learn Something New
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - false
+      required: false
+    - id: 15
+      name: educational_value
+      label: Educational Value of Exhibition
+      hint: null
+      type: select_one
+      options:
+      - Very educational
+      - Somewhat educational
+      - Neutral
+      - Not educational
+      required: false
+    - id: 16
+      name: section_feedback
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: improvement_suggestions
+      label: Suggestions for Future Exhibitions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_loyalty
+      label: -- Loyalty and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: return_interest
+      label: Interest in Returning for Future Exhibitions
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Maybe
+      - Not interested
+      required: true
+    - id: 21
+      name: newsletter_subscription
+      label: Subscribe to Newsletter or Updates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: social_sharing
+      label: May We Tag You on Social Media
+      hint: If you share about this exhibition
+      type: select_one
+      options:
+      - true
+      - false
+      - Ask first
+      required: false

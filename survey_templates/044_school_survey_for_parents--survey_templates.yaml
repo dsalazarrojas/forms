@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Survey For Parents
+    pages:
+    - id: 1
+      name: school_survey_for_parents_first_page
+      label: school_survey_for_parents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: select_one
+      options:
+      - Parent is very involved
+      - Parent is somewhat involved
+      - Parent is not involved
+      required: true
+    - id: 3
+      name: communication_method
+      label: how_do_parents_communicate_with_your_school
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - In-person
+      required: true
+    - id: 4
+      name: frequency_of_meetings
+      label: how_frequently_do_parents_meet_with_your_teacher
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: parent_volunteering
+      label: do_parents_volunteer_in_your_child_s_classroom
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: parent_volunteering_frequency
+      label: if_yes_how_frequently
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parent_attendance
+      label: how_often_do_parents_attend_parent_teacher_meetings
+      hint: null
+      type: select_multiple
+      options:
+      - Regularly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 8
+      name: parent_notes
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_website
+      label: School Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_feedback
+      label: what_do_you_think
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_preventive_maintenance_form
+    pages:
+    - id: 1
+      name: hvac_preventive_maintenance_form
+      label: HVAC Preventive Maintenance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technician_id
+      label: Technician Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_performed_by
+      label: Maintenance Performed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''routine'', ''label'': ''Routine''}'
+      - '{''value'': ''emergency'', ''label'': ''Emergency''}'
+      required: false
+    - id: 8
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''completed'', ''label'': ''Completed''}'
+      - '{''value'': ''not completed'', ''label'': ''Not Completed''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjim'', ''label'': ''chatjim''}'
+      - '{''value'': ''chatjim'', ''label'': ''chatjim''}'
+      required: false
+    - id: 13
+      name: assigned_technician_2
+      label: Assigned Technician 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_technician_3
+      label: Assigned Technician 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assigned_technician_4
+      label: Assigned Technician 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Based Psychometric Assessment Questionnaire
+    pages:
+    - id: 1
+      name: section_assessment_intro
+      label: -- Psychometric Assessment --
+      hint: Please answer honestly based on your typical behavior in a workplace setting
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Assessment ID or Employee Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_social_interaction
+      label: -- Social and Team Interaction --
+      hint: Select the response that best describes your behavior
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: conflict_resolution_style
+      label: When faced with a conflict in a team, I usually
+      hint: null
+      type: select_one
+      options:
+      - Seek a compromise immediately
+      - Stand my ground to ensure the right outcome
+      - Listen to all sides before forming an opinion
+      - Avoid the conflict if possible
+      required: true
+    - id: 5
+      name: networking_comfort_level
+      label: I feel energized when meeting new people and networking
+      hint: 1 strongly disagree, 5 strongly agree
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: team_vs_individual_preference
+      label: I prefer to work on complex tasks
+      hint: null
+      type: select_one
+      options:
+      - Entirely independently
+      - Primarily independently with occasional check-ins
+      - Collaboratively with a small team
+      - Within a large, structured group
+      required: true
+    - id: 7
+      name: section_decision_making
+      label: -- Decision Making and Problem Solving --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: data_vs_intuition
+      label: My decisions are primarily driven by
+      hint: null
+      type: select_one
+      options:
+      - Objective data and logic
+      - Past experience and patterns
+      - Intuition and gut feeling
+      - Consensus and group input
+      required: true
+    - id: 9
+      name: risk_tolerance_rating
+      label: How would you rate your professional risk tolerance?
+      hint: 1 very cautious, 5 very risk-taking
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: response_to_ambiguity
+      label: I am comfortable making decisions with incomplete information
+      hint: 1 strongly disagree, 5 strongly agree
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_organization_structure
+      label: -- Organization and Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: planning_detail_level
+      label: How detailed are your project plans usually?
+      hint: null
+      type: select_one
+      options:
+      - Extremely detailed (every step mapped)
+      - Moderately detailed (key milestones only)
+      - High-level (flexible approach)
+      - Minimal (I prefer to adapt as I go)
+      required: true
+    - id: 13
+      name: deadline_adherence_perception
+      label: Meeting a deadline is more important than perfect quality
+      hint: 1 strongly disagree, 5 strongly agree
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_summary_attestation
+      label: -- Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assessment_honesty_statement
+      label: I have answered these questions to the best of my self-knowledge
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 16
+      name: completion_timestamp
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

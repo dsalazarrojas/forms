@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fill In The Blank Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: quiz
+      hint: null
+      type: select_one
+      options:
+      - 'question 1: answer 1'
+      - 'question 1: answer 2'
+      - 'question 1: answer 3'
+      - 'question 2: answer 4'
+      - 'question 2: answer 5'
+      required: false
+    - id: 3
+      name: page_3
+      label: results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

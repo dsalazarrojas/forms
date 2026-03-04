@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Agent Chat Interaction Form
+    pages:
+    - id: 1
+      name: section_header_respondent_info
+      label: '--- Respondent Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to follow up if you consent
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization (optional)
+      hint: Company or team name, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: usage_frequency
+      label: How often do you use AI chat agents?
+      hint: Select the option that best matches your typical usage
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time
+      required: true
+    - id: 6
+      name: section_header_interaction
+      label: '--- Interaction Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interaction_date
+      label: Date of this interaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: interaction_time
+      label: Time of interaction
+      hint: Local time (optional)
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: interaction_goal
+      label: What did you want to accomplish in this chat?
+      hint: E.g., troubleshoot an error, summarize content, write code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: satisfaction
+      label: How satisfied are you with the AI chat interaction?
+      hint: Choose the option that best reflects your experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: best_aspects
+      label: Best aspects of the interaction (select all that apply)
+      hint: Select every feature you found valuable
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast responses
+      - Helpful suggestions
+      - Accurate information
+      - Clear explanations
+      - Friendly tone
+      required: false
+    - id: 13
+      name: areas_to_improve
+      label: Areas to improve (select all that apply)
+      hint: Select aspects that need work
+      type: select_multiple
+      options:
+      - Relevance of responses
+      - Response speed
+      - Accuracy of facts
+      - Clarity of explanation
+      - Handling complex requests
+      - Tone and style
+      required: false
+    - id: 14
+      name: would_recommend
+      label: Would you recommend this AI chat to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 15
+      name: follow_up_consent
+      label: May we contact you to follow up about your feedback?
+      hint: We will only use your email for follow-up if you agree
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact me
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional comments or examples (please be specific)
+      hint: Describe issues, copy exact messages, or suggest improvements
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Clubs Survey
+    pages:
+    - id: 1
+      name: purpose
+      label: What is the purpose of your club?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activities
+      label: What activities do your club members participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - Meetings
+      - Events
+      - Meetings
+      - Events
+      required: false
+    - id: 3
+      name: club_condition
+      label: What is the current condition of your club?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 4
+      name: number_of_members
+      label: How many members are in your club?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: advisor_name
+      label: Who is the advisor or sponsor of your club?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: advisor_email
+      label: What is the advisor's email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: advisor_phone
+      label: What is the advisor's phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: club_meeting_time
+      label: How often do your club members meet?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 9
+      name: meeting_location
+      label: Where do your club members meet?
+      hint: null
+      type: select_multiple
+      options:
+      - Cafeteria
+      - Library
+      - Classroom
+      - Other
+      required: false
+    - id: 10
+      name: student_club_name
+      label: What is the name of your club?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_club_email
+      label: What is the email address for your club?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_club_phone
+      label: What is the phone number for your club?
+      hint: null
+      type: text
+      options: []
+      required: false

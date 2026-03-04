@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Escape Room Template
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: puzzle_designer
+      label: Puzzle Designer
+      hint: null
+      type: select_multiple
+      options:
+      - Mr. Johnson
+      - Ms. Smith
+      - Mr. and Mrs. Johnson
+      required: false
+    - id: 3
+      name: puzzle_name
+      label: Puzzle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: puzzle_description
+      label: Puzzle Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: puzzle_theme
+      label: Puzzle Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: puzzle_type
+      label: Puzzle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Room Escape
+      - Puzzle Game
+      - Puzzle Adventure
+      required: false
+    - id: 7
+      name: puzzle_difficulty
+      label: Puzzle Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 8
+      name: game_length
+      label: Game Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: player_goal
+      label: Player Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_goal_objective
+      label: Player Objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: puzzle_goal
+      label: Puzzle Goal
+      hint: null
+      type: select_multiple
+      options:
+      - Find the key
+      - Escape the room
+      - Unlock the door
+      required: false
+    - id: 12
+      name: room_description
+      label: Room Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: room_background
+      label: Room Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: room_theme
+      label: Room Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: puzzle_solutions
+      label: Puzzle Solutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: puzzle_solutions_count
+      label: Puzzle Solutions Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: player_score
+      label: Player Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: player_score_type
+      label: Player Score Type
+      hint: null
+      type: select_multiple
+      options:
+      - Time
+      - Points
+      - Stars
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telepsychology Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: survey_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: telepsychology_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category_template
+      - category_template
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page_2
+      label: results
+      hint: null
+      type: note
+      options: []
+      required: false

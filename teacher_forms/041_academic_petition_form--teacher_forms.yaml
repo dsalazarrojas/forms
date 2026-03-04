@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Petition Form
+    pages:
+    - id: 1
+      name: petition_header
+      label: -- Academic Petition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_name
+      label: Petitioner name
+      hint: Full name of student or staff filing petition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: For confirmation and follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: petition_subject
+      label: Petition subject
+      hint: Short title summarizing the petition
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: petition_details
+      label: Detailed petition description
+      hint: Provide reasons and supporting facts
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requested_outcome
+      label: Requested outcome
+      hint: What resolution are you seeking
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents
+      hint: List or describe attachments provided
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department_contact
+      label: Department contact for petition
+      hint: Name of department contact if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature confirmation
+      hint: Type full name to confirm submission
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_submitted
+      label: Date submitted
+      hint: Date the petition was filed
+      type: date
+      options: []
+      required: true

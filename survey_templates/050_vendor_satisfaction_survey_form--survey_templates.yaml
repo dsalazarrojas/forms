@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: vendor_survey_form
+      label: survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_2
+      label: overall_rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_contact
+      label: vendor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: survey_sent_on
+      label: survey_sent_on
+      hint: null
+      type: date
+      options: []
+      required: false

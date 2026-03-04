@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: livestock_feed_supplier_quality_survey
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - Livestock Feed
+      - Every 2 weeks
+      - Every 4 weeks
+      - Every 8 weeks
+      - Every 12 weeks
+      required: false
+    - id: 7
+      name: product_info
+      label: Product Information
+      hint: null
+      type: select_multiple
+      options:
+      - Type
+      - Weight
+      - Ingredients
+      - Price
+      - Quality
+      - Shelf Life
+      - Packaging
+      required: false
+    - id: 8
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_rating
+      label: Supplier Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: last_delivery_date
+      label: Last Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_delivery_date
+      label: Next Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: supplier_comment
+      label: Supplier Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: simple_instructor_evaluation_form_template
+    pages:
+    - id: 1
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_instructor_rating
+      label: course_instructor_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: course_materials
+      label: course_materials
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfactory'', ''label'': ''Very Satisfactory''}'
+      - '{''value'': ''satisfactory'', ''label'': ''Satisfactory''}'
+      - '{''value'': ''unsatisfactory'', ''label'': ''Unsatisfactory''}'
+      required: true
+    - id: 5
+      name: course_clarity
+      label: course_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''clear'', ''label'': ''Clear''}'
+      - '{''value'': ''not_clear'', ''label'': ''Not clear''}'
+      - '{''value'': ''unclear'', ''label'': ''Unclear''}'
+      required: true
+    - id: 6
+      name: course_helpfulness
+      label: course_helpfulness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: course_instructor_supportiveness
+      label: course_instructor_supportiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_supportive'', ''label'': ''Very Supportive''}'
+      - '{''value'': ''somewhat_supportive'', ''label'': ''Somewhat Supportive''}'
+      - '{''value'': ''not_supportive'', ''label'': ''Not Supportive''}'
+      required: true
+    - id: 8
+      name: course_instructor_clarity
+      label: course_instructor_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''clear'', ''label'': ''Clear''}'
+      - '{''value'': ''unclear'', ''label'': ''Unclear''}'
+      - '{''value'': ''very_unclear'', ''label'': ''Very Unclear''}'
+      required: true
+    - id: 9
+      name: course_instructor_helpfulness
+      label: course_instructor_helpfulness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''helpful'', ''label'': ''Helpful''}'
+      - '{''value'': ''not_helpful'', ''label'': ''Not helpful''}'
+      required: true
+    - id: 10
+      name: course_instructor_will
+      label: course_instructor_will
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_willing'', ''label'': ''Very Willing''}'
+      - '{''value'': ''somewhat_willing'', ''label'': ''Somewhat Willing''}'
+      - '{''value'': ''not_willing'', ''label'': ''Not Willing''}'
+      required: true
+    - id: 11
+      name: course_instructor_joy
+      label: course_instructor_joy
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_joyful'', ''label'': ''Very Joyful''}'
+      - '{''value'': ''somewhat_joyful'', ''label'': ''Somewhat Joyful''}'
+      - '{''value'': ''not_joyful'', ''label'': ''Not Joyful''}'
+      required: true
+    - id: 12
+      name: course_instructor_satisfaction
+      label: course_instructor_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: course_instructor_effectiveness
+      label: course_instructor_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_effective'', ''label'': ''Very Effective''}'
+      - '{''value'': ''somewhat_effective'', ''label'': ''Somewhat Effective''}'
+      - '{''value'': ''not_effective'', ''label'': ''Not Effective''}'
+      required: true
+    - id: 14
+      name: course_instructor_punctuality
+      label: course_instructor_punctuality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''punctual'', ''label'': ''Punctual''}'
+      - '{''value'': ''not_punctual'', ''label'': ''Not Punctual''}'
+      - '{''value'': ''very_punctual'', ''label'': ''Very Punctual''}'
+      required: true
+    - id: 15
+      name: course_instructor_willingness
+      label: course_instructor_willingness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''willing'', ''label'': ''Willing''}'
+      - '{''value'': ''not_willing'', ''label'': ''Not Willing''}'
+      - '{''value'': ''very_willing'', ''label'': ''Very Willing''}'
+      required: true
+    - id: 16
+      name: course_instructor_joyfulness
+      label: course_instructor_joyfulness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''joyfull'', ''label'': ''Joyfull''}'
+      - '{''value'': ''not_joyful'', ''label'': ''Not Joyful''}'
+      - '{''value'': ''very_joyful'', ''label'': ''Very Joyful''}'
+      required: true
+    - id: 17
+      name: course_instructor_satisfaction
+      label: course_instructor_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfying'', ''label'': ''Very Satisfying''}'
+      - '{''value'': ''somewhat_satisfying'', ''label'': ''Somewhat Satisfying''}'
+      - '{''value'': ''not_satisfying'', ''label'': ''Not Satisfying''}'
+      required: true
+    - id: 18
+      name: course_instructor_joy
+      label: course_instructor_joy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''joyful'', ''label'': ''Joyful''}'
+      - '{''value'': ''not_joyful'', ''label'': ''Not Joyful''}'
+      - '{''value'': ''very_joyful'', ''label'': ''Very Joyful''}'
+      required: true
+    - id: 19
+      name: course_instructor_punctuality
+      label: course_instructor_punctuality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''punctual'', ''label'': ''Punctual''}'
+      - '{''value'': ''not_punctual'', ''label'': ''Not Punctual''}'
+      - '{''value'': ''very_punctual'', ''label'': ''Very Punctual''}'
+      required: true
+    - id: 20
+      name: course_instructor_willingness
+      label: course_instructor_willingness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''willful'', ''label'': ''Willful''}'
+      - '{''value'': ''not_willful'', ''label'': ''Not Willful''}'
+      - '{''value'': ''very_willful'', ''label'': ''Very Willful''}'
+      required: true
+    - id: 21
+      name: course_instructor_punctuality
+      label: course_instructor_punctuality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''punctual'', ''label'': ''Punctual''}'
+      - '{''value'': ''not_punctual'', ''label'': ''Not Punctual''}'
+      - '{''value'': ''very_punctual'', ''label'': ''Very Punctual''}'
+      required: true
+    - id: 22
+      name: course_instructor_willingness
+      label: course_instructor_willingness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''willful'', ''label'': ''Willful''}'
+      - '{''value'': ''not_willful'', ''label'': ''Not Willful''}'
+      - '{''value'': ''very_willful'', ''label'': ''Very Willful''}'
+      required: true
+    - id: 23
+      name: course_instructor_punctuality
+      label: course_instructor_punctuality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''punctual'', ''label'': ''Punctual''}'
+      - '{''value'': ''not_punctual'', ''label'': ''Not Punctual''}'
+      - '{''value'': ''very_punctual'', ''label'': ''Very Punctual''}'
+      required: true
+    - id: 24
+      name: course_instructor_willingness
+      label: course_instructor_willingness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''willful'', ''label'': ''Willful''}'
+      - '{''value'': ''not_willful'', ''label'': ''Not Willful''}'
+      - '{''value'': ''very_willful'', ''label'': ''Very Willful''}'
+      required: true

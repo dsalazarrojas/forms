@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Coffee Blend Quality Survey
+    pages:
+    - id: 1
+      name: tasting_info_header
+      label: -- Coffee Tasting Details --
+      hint: Help us perfect our blends
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location_branch
+      label: Cafe Branch Location
+      hint: null
+      type: select_one
+      options:
+      - Main Street
+      - Riverside
+      - Downtown Hub
+      - East Side
+      - University Plaza
+      required: true
+    - id: 4
+      name: blend_name
+      label: Coffee Blend Sampled
+      hint: if known
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drink_type
+      label: Type of Coffee Drink
+      hint: null
+      type: select_one
+      options:
+      - Espresso
+      - Long Black / Americano
+      - Flat White
+      - Latte
+      - Cappuccino
+      - Pour Over / Filter
+      required: true
+    - id: 6
+      name: flavor_profile_header
+      label: -- Flavor and Sensory Profile --
+      hint: Rate your experience
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: aroma_rating
+      label: Aroma Intensity and Quality
+      hint: 1 is Weak, 5 is Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: acidity_level
+      label: Perceived Acidity Level
+      hint: null
+      type: select_one
+      options:
+      - Bright/High
+      - Balanced
+      - Low/Mellow
+      required: true
+    - id: 9
+      name: body_mouthfeel
+      label: Body and Mouthfeel
+      hint: null
+      type: select_one
+      options:
+      - Heavy/Creamy
+      - Medium/Silky
+      - Light/Tea-like
+      required: true
+    - id: 10
+      name: bitterness_balance
+      label: Bitterness Balance
+      hint: null
+      type: select_one
+      options:
+      - Too Bitter
+      - Well Balanced
+      - Very Smooth
+      required: true
+    - id: 11
+      name: overall_flavor_rating
+      label: Overall Flavor Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: temperature_header
+      label: -- Serving and Presentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: serving_temperature
+      label: Was the coffee served at the correct temperature
+      hint: null
+      type: select_one
+      options:
+      - Perfect
+      - Too Hot
+      - Too Cold
+      required: true
+    - id: 14
+      name: latte_art_presentation
+      label: Presentation and Visual Appeal
+      hint: null
+      type: select_one
+      options:
+      - Beautifully Presented
+      - Standard
+      - Needs Improvement
+      required: false
+    - id: 15
+      name: comparison_header
+      label: -- Value and Comparison --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: value_for_money
+      label: Value for Money Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: reorder_likelihood
+      label: Would you order this specific blend again
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not for me
+      required: true
+    - id: 18
+      name: flavor_notes_comments
+      label: Specific Flavor Notes or Suggestions
+      hint: e.g. hints of chocolate, fruity, nutty
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: loyalty_member
+      label: Are you a member of our Rewards Program
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

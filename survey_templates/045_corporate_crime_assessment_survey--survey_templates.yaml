@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Crime Assessment Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: crime_type
+      label: What type of crime do you assess?
+      hint: null
+      type: select_one
+      options:
+      - Corporate Crime
+      - Financial Crime
+      - Cyber Crime
+      required: false
+    - id: 3
+      name: crime_frequency
+      label: How often do you perform crime assessments?
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 4
+      name: risk_level
+      label: What is the risk level of your organization?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: awareness
+      label: How would you rate your organization's crime awareness?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: prevention
+      label: How would you rate your organization's crime prevention measures?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment
+      label: How would you rate your organization's risk assessment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reporting
+      label: How would you rate your organization's reporting?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_handling
+      label: How would you rate your organization's incident handling?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: investigation
+      label: How would you rate your organization's investigation process?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: review
+      label: How often do you review and update crime procedures?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training
+      label: What type of training do you provide for your employees?
+      hint: null
+      type: select_multiple
+      options:
+      - Awareness training
+      - Prevention training
+      - Investigation training
+      required: false
+    - id: 13
+      name: resources
+      label: What resources do you have for crime assessment?
+      hint: null
+      type: select_multiple
+      options:
+      - Budget
+      - Staff
+      - Training materials
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact
+      label: Your contact information
+      hint: Enter your email and phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: subscription_service_experience_questionnaire
+    pages:
+    - id: 1
+      name: subscription_service_overview
+      label: Subscription Service Overview
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''No''}'
+      - '{''id'': 2, ''value'': ''Yes''}'
+      required: false
+    - id: 3
+      name: subscription_service_purchased
+      label: Subscription Service Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: subscription_service_purchased_date
+      label: Subscription Service Purchased Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_relationship
+      label: Customer Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_interaction
+      label: Customer Service Interaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Email''}'
+      - '{''id'': 2, ''value'': ''Phone''}'
+      - '{''id'': 3, ''value'': ''Live Chat''}'
+      - '{''id'': 4, ''value'': ''Social Media''}'
+      required: false
+    - id: 8
+      name: frequency_of_communication
+      label: Frequency of Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction_with_service
+      label: Satisfaction with Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very Good''}'
+      - '{''id'': 2, ''value'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor''}'
+      required: false
+    - id: 12
+      name: rating_reason
+      label: Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_preferences
+      label: Product Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 16
+      name: product_preferences_2
+      label: Product Preferences 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 17
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 18
+      name: service_preferences_2
+      label: Service Preferences 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 19
+      name: subscription_preferences
+      label: Subscription Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 20
+      name: subscription_preferences_2
+      label: Subscription Preferences 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 21
+      name: billing_preferences
+      label: Billing Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 22
+      name: billing_preferences_2
+      label: Billing Preferences 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 23
+      name: product_preferences_3
+      label: Product Preferences 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 24
+      name: product_preferences_3_2
+      label: Product Preferences 3 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 25
+      name: service_preferences_3
+      label: Service Preferences 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 26
+      name: service_preferences_4
+      label: Service Preferences 4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false

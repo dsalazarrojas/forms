@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Service Evaluation Form
+    pages:
+    - id: 1
+      name: telecom_service_evaluation
+      label: telecom_service_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_telecom_services
+      label: rate_telecom_services
+      hint: How would you rate the quality of our telecom services?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: value_for_money
+      label: value_for_money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feature_preferences
+      label: feature_preferences
+      hint: What features do you like most about our telecom services?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feature_preferences_options
+      label: feature_preferences_options
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: customer_service
+      label: customer_service
+      hint: How would you rate our customer service?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_value
+      label: overall_value
+      hint: How would you rate the overall value of our telecom services?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: Do you have any additional comments about our telecom services?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

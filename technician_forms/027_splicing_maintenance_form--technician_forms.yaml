@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Splicing Maintenance Form
+    pages:
+    - id: 1
+      name: splicing_maintenance_form
+      label: splicing_maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: splicing_equipment_id
+      label: splicing_equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: splicing_location
+      label: splicing_location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Cheating Survey
+    pages:
+    - id: 1
+      name: teacher_id
+      label: Teacher Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: class_id
+      label: Class Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question1
+      label: Do you think cheating is a serious problem in your school?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 7
+      name: question2
+      label: What type of cheating do you think is most prevalent in your school?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Cheating on tests and quizzes
+      - Cheating on homework
+      - Cheating on classwork
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: question3
+      label: Have you seen cheating in your class?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: class_size
+      label: Class size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_count
+      label: Student count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: teacher_support
+      label: Teacher support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: class_duration
+      label: Class duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: school_support
+      label: School support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: student_attendance
+      label: Student attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: question4
+      label: How often do you think students cheat in class?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
+      required: false
+    - id: 16
+      name: question5
+      label: How do you handle cheating in class?
+      hint: null
+      type: select_one
+      options:
+      - Verbal warning
+      - Written warning
+      - Detention
+      - Other
+      required: false
+    - id: 17
+      name: teacher_id_2
+      label: Teacher Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: question6
+      label: What do you do when you catch a student cheating?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garage Door Opener Installation Survey
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: door_type
+      label: Door Type
+      hint: null
+      type: select_one
+      options:
+      - Openers
+      - Accessories
+      - Other
+      required: false
+    - id: 3
+      name: preferred_install_time
+      label: Preferred Install Time
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: feature_preferences
+      label: Feature Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Automatic Open/Close
+      - Key Remote
+      - Keyless Access
+      - Keyless Code
+      - Wi-Fi
+      - Smart Home Integration
+      required: false
+    - id: 5
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_company
+      label: Service Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

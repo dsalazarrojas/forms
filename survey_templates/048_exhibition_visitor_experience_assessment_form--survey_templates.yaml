@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_visitor_experience_assessment_form
+    pages:
+    - id: 1
+      name: exhibition_visitor_experience_assessment
+      label: exhibition_visitor_experience_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: exhibition_stand
+      label: exhibition_stand
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: event_attendant
+      label: event_attendant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Sure''}'
+      - '{''label'': ''Prefer not to say''}'
+      required: false
+    - id: 5
+      name: exhibition_stand_rating
+      label: exhibition_stand_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: catering
+      label: catering
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not at all Likely''}'
+      required: false
+    - id: 8
+      name: event_attendance
+      label: event_attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exhibition_visitor_experience_5_points
+      label: exhibition_visitor_experience_5_points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: exhibition_visitor_experience_5_points_2
+      label: exhibition_visitor_experience_5_points_2
+      hint: null
+      type: number
+      options: []
+      required: false

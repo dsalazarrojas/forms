@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performing Ensembles Equipment Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instrument_choices
+      label: Instruments and Equipment
+      hint: Select all instruments and equipment that your school or organization
+        owns.
+      type: select_multiple
+      options:
+      - Instrument
+      - Equipment
+      - Instrument and Equipment
+      - Other
+      required: false
+    - id: 3
+      name: instrument_name
+      label: Name of Instrument and Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instrument_brand
+      label: Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instrument_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Acoustic
+      - Electric
+      - Bass
+      - Other
+      required: false
+    - id: 6
+      name: instrument_serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: instrument_condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: instrument_purchased_date
+      label: Purchased Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: instrument_last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: instrument_maintenance_freq
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Bi-annual
+      - Rarely
+      required: false
+    - id: 11
+      name: instrument_last_maintenance_cost
+      label: Last Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: instrument_next_maintenance_cost
+      label: Next Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: instrument_need_replacement_date
+      label: Need Replacement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: instrument_need_replacement_cost
+      label: Need Replacement Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instrument_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: instrument_purchased_from
+      label: Purchased From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instrument_last_maintenance_by
+      label: Last Maintained By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: instrument_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_instruments
+      label: Additional Instruments and Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Additional Instrument
+      - Additional Equipment
+      - Other
+      required: false
+    - id: 25
+      name: additional_choices
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

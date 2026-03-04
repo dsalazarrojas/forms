@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trailer Inspection Form
+    pages:
+    - id: 1
+      name: trailer_type
+      label: trailer_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: license_plate_number
+      label: license_plate_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vin_number
+      label: vin_number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_equipment
+      label: vehicle_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: brake_system
+      label: brake_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: steering_system
+      label: steering_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: suspension_system
+      label: suspension_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: tire_condition
+      label: tire_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: tire_type
+      label: tire_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: wheel_condition
+      label: wheel_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: brake_light
+      label: brake_light
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: turn_signal
+      label: turn_signal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: hazard_lights
+      label: hazard_lights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: tail_light
+      label: tail_light
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: license_plate_condition
+      label: license_plate_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: vehicle_condition_checklist
+      label: vehicle_condition_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_notes
+      label: vehicle_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: inspection_checklist
+      label: inspection_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: technician_signature
+      label: technician_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

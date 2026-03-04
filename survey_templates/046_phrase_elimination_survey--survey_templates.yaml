@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: phrase_elimination_survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Phrase Elimination Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_description
+      label: survey_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phrases_to_retire
+      label: Phrases to Retire
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reason_for_retirement
+      label: Reason for Retirement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: suggested_alternative
+      label: Suggested Alternative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email_input
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

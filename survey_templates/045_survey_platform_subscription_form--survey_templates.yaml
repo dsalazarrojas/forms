@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Platform Subscription Form
+    pages:
+    - id: 1
+      name: survey_platform_subscription_form_1
+      label: survey_platform_subscription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

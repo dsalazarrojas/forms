@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Tax Return Information Form
+    pages:
+    - id: 1
+      name: tax_return_info
+      label: Tax Return Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_return_type
+      label: Tax Return Type
+      hint: null
+      type: select_one
+      options:
+      - W-2
+      - '1095'
+      required: false
+    - id: 3
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: deductions
+      label: Deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expenses
+      label: Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_number
+      label: Tax Return Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_return_version
+      label: Tax Return Version
+      hint: null
+      type: select_one
+      options:
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 13
+      name: tax_return_year
+      label: Tax Return Year
+      hint: null
+      type: select_multiple
+      options:
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 14
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_return_status
+      label: Tax Return Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tax_return_filing_date
+      label: Tax Return Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_return_filing
+      label: Time Return Filing
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Accountant
+      - Financial Advisor
+      - IRS
+      required: false
+    - id: 21
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - Financial Expert
+      - Individual
+      required: false
+    - id: 22
+      name: financial_institution_name
+      label: Financial Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: financial_institution_address
+      label: Financial Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: financial_institution_phone
+      label: Financial Institution Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financial_institution_email
+      label: Financial Institution Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: prompt_generation_survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is the topic of your prompt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intro_question
+      label: What is the main question you are trying to answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: intro_description
+      label: Describe your prompt in a few words
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: topic_category
+      label: What category does your topic fall under
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Science''}'
+      - '{''option'': ''History''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 5
+      name: topic_subcategory
+      label: What is your subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_audience
+      label: Who is your target audience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Student''}'
+      - '{''option'': ''Teacher''}'
+      - '{''option'': ''Parent''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 7
+      name: target_age_group
+      label: What is the target age group of your audience
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''6-12''}'
+      - '{''option'': ''13-18''}'
+      - '{''option'': ''19-24''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 8
+      name: prompt_type
+      label: What kind of prompt is this
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Question''}'
+      - '{''option'': ''Answer''}'
+      - '{''option'': ''Both''}'
+      required: false
+    - id: 9
+      name: prompt_frequency
+      label: How often do you use this prompt
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Daily''}'
+      - '{''option'': ''Weekly''}'
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 10
+      name: additional_info
+      label: Do you have any additional information about your prompt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted
+      label: Thank you for taking the time to fill out this form
+      hint: null
+      type: note
+      options: []
+      required: false

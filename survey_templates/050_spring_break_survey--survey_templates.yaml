@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Break Survey
+    pages:
+    - id: 1
+      name: spring_break_survey_1
+      label: spring_break_survey_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': None, ''value'': ''Enjoy the weather'', ''label'': ''Enjoy
+        the weather''}'
+      - '{''options'': None, ''value'': ''Visit family and friends'', ''label'': ''Visit
+        family and friends''}'
+      - '{''options'': None, ''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: travel_method
+      label: travel_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': None, ''value'': ''By car'', ''label'': ''By car''}'
+      - '{''options'': None, ''value'': ''By train'', ''label'': ''By train''}'
+      - '{''options'': None, ''value'': ''By plane'', ''label'': ''By plane''}'
+      required: false
+    - id: 4
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_people
+      label: number_of_people
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: pandemic_risk
+      label: pandemic_risk
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

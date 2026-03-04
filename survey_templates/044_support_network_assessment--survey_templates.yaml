@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Network Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: support_system
+      label: support_system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: network_size
+      label: network_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: network_type
+      label: network_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Primary''}'
+      - '{''label'': ''Secondary''}'
+      - '{''label'': ''Tertiary''}'
+      required: false
+    - id: 5
+      name: relationship_type
+      label: relationship_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: relationship_depth
+      label: relationship_depth
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Shallow''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Deep''}'
+      required: false
+    - id: 7
+      name: primary_contact
+      label: primary_contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Brother''}'
+      - '{''label'': ''Sister''}'
+      - '{''label'': ''Partner''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: secondary_contact
+      label: secondary_contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Brother''}'
+      - '{''label'': ''Sister''}'
+      - '{''label'': ''Partner''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: support_level
+      label: support_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Emotional''}'
+      - '{''label'': ''Financial''}'
+      - '{''label'': ''Practical''}'
+      required: false
+    - id: 10
+      name: support_source
+      label: support_source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Community''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: support_level_other
+      label: support_level_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rare''}'
+      - '{''label'': ''Occasional''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Frequently''}'
+      required: false
+    - id: 13
+      name: support_type
+      label: support_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Emotional''}'
+      - '{''label'': ''Financial''}'
+      - '{''label'': ''Practical''}'
+      required: false
+    - id: 14
+      name: support_type_other
+      label: support_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: need_level
+      label: need_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 16
+      name: support_system_other
+      label: support_system_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: network_size_other
+      label: network_size_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: support_source_other
+      label: support_source_other
+      hint: null
+      type: text
+      options: []
+      required: false

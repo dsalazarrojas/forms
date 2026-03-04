@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Market Shopping Budget Planner
+    pages:
+    - id: 1
+      name: holiday_market_shopping_budget_planner
+      label: Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shopper_details
+      label: Shopper Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shopper_details_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shopper_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: shopper_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shopping_list
+      label: Shopping List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shopping_list_item
+      label: Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shopping_list_item_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shopping_list_item_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shopping_list_item_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shopping_list_items
+      label: Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 12
+      name: shopping_list_subtotals
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shopping_list_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: post_event_feedback
+      label: Post-Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: post_event_feedback_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 16
+      name: post_event_feedback_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: post_event_feedback_recommended
+      label: Recommended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

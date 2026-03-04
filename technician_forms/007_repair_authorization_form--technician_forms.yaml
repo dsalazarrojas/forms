@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Authorization Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_equipment_type
+      label: Customer Equipment Type
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_equipment_description
+      label: Customer Equipment Description
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: technician_name
+      label: Technician Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_order_number
+      label: Work Order Number
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_condition
+      label: Equipment Condition
+      hint: 'null'
+      type: select_one
+      options:
+      - Normal
+      - Used
+      - Refurbished
+      - Damaged
+      - New
+      - Other
+      required: true
+    - id: 9
+      name: work_location
+      label: Work Location
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false

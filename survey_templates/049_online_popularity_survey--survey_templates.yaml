@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Popularity Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other
+      required: true
+    - id: 4
+      name: form_category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_url_path
+      label: URL Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_comments_id
+      label: Comments ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_comments_count
+      label: Comments Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_comments_url
+      label: Comments URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Draft
+      required: true
+    - id: 15
+      name: form_status_id
+      label: Status ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_status_count
+      label: Status Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_created_by_id
+      label: Created By ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_updated_by_id
+      label: Updated By ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_deleted_by_id
+      label: Deleted By ID
+      hint: null
+      type: text
+      options: []
+      required: false

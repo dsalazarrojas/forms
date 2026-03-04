@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form 1040 SE Self Employment Tax Form
+    pages:
+    - id: 1
+      name: tax_return
+      label: Tax Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_employment_income
+      label: Self Employment Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: net_earnings_from_self_employment
+      label: Net Earnings from Self Employment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: net_earnings_from_services
+      label: Net Earnings from Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: net_earnings_from_rentals
+      label: Net Earnings from Rents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: net_earnings_from_other_business_activities
+      label: Net Earnings from Other Business Activities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: self_employment_tax
+      label: Self Employment Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quarterly_payment
+      label: Quarterly Payment
+      hint: Quarterly payment amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Form 1099-M
+      - Form 1099-MISC
+      - Form W-2
+      - Form 1099-G
+      - Form 1099-INT
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      - Pending
+      required: false
+    - id: 12
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_frequency
+      label: Submission Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 15
+      name: tax_return_status
+      label: Tax Return Status
+      hint: null
+      type: select_one
+      options:
+      - Submitted
+      - Not Submitted
+      - Pending
+      required: false
+    - id: 16
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Reviewed
+      - Not Reviewed
+      - Pending
+      required: false

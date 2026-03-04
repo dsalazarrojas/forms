@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Who Am I Quiz
+    pages:
+    - id: 1
+      name: question_1
+      label: who_am_i
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: answer
+      label: what_is_your_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: how_old_are_you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age_hint
+      label: age
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: what_is_your_teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_age
+      label: how_old_are_you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gender
+      label: what_is_your_gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

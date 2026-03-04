@@ -1,0 +1,276 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Bake Off Voting
+    pages:
+      - id: 1
+        name: voting_information
+        label: Voting Information
+        hint: Cast your vote for the bake off competition
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: vote_date
+        label: Vote Date
+        hint: Date of voting
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: vote_id
+        label: Vote ID
+        hint: Unique vote reference number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: voter_information
+        label: Voter Information
+        hint: Your details as a voter
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: voter_name
+        label: Voter Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: voter_email
+        label: Voter Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 7
+        name: voter_type
+        label: Voter Type
+        hint: What is your relationship to the event
+        type: select_one
+        options:
+          - Community Member
+          - Event Attendee
+          - Judge
+          - Organizer
+          - Guest
+        required: true
+      - id: 8
+        name: event_information
+        label: Event Information
+        hint: Details about the bake off event
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: event_name
+        label: Event Name
+        hint: Name of the bake off event
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: event_location
+        label: Event Location
+        hint: Where is the event being held
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: event_date
+        label: Event Date
+        hint: When is the event
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: category_votes
+        label: Category Votes
+        hint: Vote for your favorites in each category
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: best_overall_baked_good
+        label: Best Overall Baked Good
+        hint: Vote for the best overall entry
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Entry 6
+          - Entry 7
+          - Entry 8
+        required: true
+      - id: 14
+        name: best_bread
+        label: Best Bread
+        hint: Vote for the best bread entry
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Not Applicable
+        required: false
+      - id: 15
+        name: best_dessert
+        label: Best Dessert
+        hint: Vote for the best dessert entry
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Not Applicable
+        required: false
+      - id: 16
+        name: best_cookies
+        label: Best Cookies
+        hint: Vote for the best cookie entry
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Not Applicable
+        required: false
+      - id: 17
+        name: best_cake
+        label: Best Cake
+        hint: Vote for the best cake entry
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Not Applicable
+        required: false
+      - id: 18
+        name: best_pastry
+        label: Best Pastry
+        hint: Vote for the best pastry entry
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Not Applicable
+        required: false
+      - id: 19
+        name: peoples_choice
+        label: Peoples Choice
+        hint: Vote for your personal favorite
+        type: select_one
+        options:
+          - Entry 1
+          - Entry 2
+          - Entry 3
+          - Entry 4
+          - Entry 5
+          - Entry 6
+          - Entry 7
+          - Entry 8
+        required: true
+      - id: 20
+        name: judging_criteria
+        label: Judging Criteria
+        hint: Rate the overall quality you observed
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: taste_rating
+        label: Taste Rating
+        hint: How would you rate the overall taste
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: presentation_rating
+        label: Presentation Rating
+        hint: How would you rate the overall presentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 23
+        name: creativity_rating
+        label: Creativity Rating
+        hint: How would you rate the overall creativity
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 24
+        name: favorite_baker
+        label: Favorite Baker
+        hint: Who is your favorite baker
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: event_feedback
+        label: Event Feedback
+        hint: Any feedback about the bake off event
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: would_attend_again
+        label: Would Attend Again
+        hint: Would you attend this event again
+        type: select_one
+        options:
+          - "Yes - Definitely"
+          - "Yes - Probably"
+          - "Maybe"
+          - "No - Probably Not"
+          - "No - Definitely Not"
+        required: true
+      - id: 27
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

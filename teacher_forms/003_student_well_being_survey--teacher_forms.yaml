@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Well Being Survey
+    pages:
+    - id: 1
+      name: student_survey
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_location
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: family_income
+      label: What is your family income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: family_education
+      label: What is the highest level of education of a parent or guardian
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 5
+      name: family_employment
+      label: Is your family employed
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: student_employment
+      label: Are you employed
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: school_climate
+      label: What is the school climate
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: school_environment
+      label: What is the school environment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: well_being
+      label: What are the well-being levels?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_support
+      label: What kind of support do you have in your school?
+      hint: null
+      type: text
+      options: []
+      required: false

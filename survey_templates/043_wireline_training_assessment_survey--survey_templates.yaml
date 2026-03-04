@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wireline Training Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confidence_level
+      label: What is your confidence level?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 3
+      name: training_location
+      label: What is your training location?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Houston''}'
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Atlanta''}'
+      - '{''value'': ''Chicago''}'
+      required: false
+    - id: 4
+      name: confidence_level_2
+      label: How confident are you in your training?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: confidence_level_3
+      label: Confidence Level 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 6
+      name: training_location_2
+      label: Training Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Houston''}'
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Atlanta''}'
+      - '{''value'': ''Chicago''}'
+      required: false
+    - id: 7
+      name: confidence_level_4
+      label: Confidence Level 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: confidence_level_5
+      label: Confidence Level 5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location_1
+      label: Location 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Houston''}'
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Atlanta''}'
+      - '{''value'': ''Chicago''}'
+      required: false
+    - id: 14
+      name: location_2
+      label: Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Houston''}'
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Atlanta''}'
+      - '{''value'': ''Chicago''}'
+      required: false
+    - id: 15
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false

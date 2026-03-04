@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Face Mask Requirement Survey
+    pages:
+    - id: 1
+      name: face_mask_requirement_survey_first_page
+      label: face_mask_requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: face_mask_requirement_2
+      label: face_mask_requirement_survey_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: face_mask_requirement_3
+      label: face_mask_requirement_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: face_mask_requirement_4
+      label: face_mask_requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: face_mask_requirement_5
+      label: face_mask_requirement_3
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Report Form
+    pages:
+    - id: 1
+      name: service_report_form_page_1
+      label: Service Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_report_form_page_2
+      label: Technician Details
+      hint: null
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: false
+    - id: 3
+      name: service_report_form_page_2_technician
+      label: Technician
+      hint: null
+      type: select_multiple
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: false
+    - id: 4
+      name: service_report_form_page_3
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: system_description
+      label: System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - AC
+      - Furnace
+      - Boiler
+      required: false
+    - id: 7
+      name: system_size
+      label: System Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: system_age
+      label: System Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: system_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Building A
+      - Building B
+      - Office
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

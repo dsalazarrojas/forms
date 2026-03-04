@@ -1,0 +1,278 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coding Style Feedback Form
+    pages:
+    - id: 1
+      name: section_reviewer_info
+      label: -- Reviewer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: experience_level
+      label: Coding Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Mid-level
+      - Senior
+      - Lead
+      - Architect
+      required: true
+    - id: 5
+      name: section_code_review
+      label: -- Code Being Reviewed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: developer_name
+      label: Developer Name
+      hint: Name of person who wrote the code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: code_file_name
+      label: Code File or Module Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: programming_language
+      label: Programming Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_naming
+      label: -- Naming Conventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: variable_naming
+      label: Variable Naming Consistency
+      hint: Rate adherence to naming standards
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 12
+      name: function_naming
+      label: Function Naming Clarity
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 13
+      name: class_naming
+      label: Class and Module Naming
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: false
+    - id: 14
+      name: section_formatting
+      label: -- Code Formatting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: indentation
+      label: Indentation and Spacing
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 16
+      name: line_length
+      label: Line Length Compliance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 17
+      name: bracket_style
+      label: Bracket Style Consistency
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 18
+      name: section_comments
+      label: -- Comments and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comment_quality
+      label: Comment Quality and Clarity
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 20
+      name: docstring_completeness
+      label: Docstring and Documentation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 21
+      name: section_complexity
+      label: -- Code Complexity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: function_complexity
+      label: Function Complexity Assessment
+      hint: Are functions appropriately sized?
+      type: select_one
+      options:
+      - Well-designed
+      - Acceptable
+      - Moderately complex
+      - Too complex
+      - Needs refactoring
+      required: true
+    - id: 23
+      name: duplication
+      label: Code Duplication
+      hint: Amount of repeated code
+      type: select_one
+      options:
+      - None or minimal
+      - Some duplication
+      - Moderate duplication
+      - Significant duplication
+      required: true
+    - id: 24
+      name: section_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: strengths
+      label: Code Strengths
+      hint: What did the developer do well?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Specific recommendations for better style
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: positive_feedback
+      label: Positive Feedback or Encouragement
+      hint: Motivational comments
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: overall_rating
+      label: Overall Code Style Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true

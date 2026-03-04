@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Site Guide Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Virtual Site Guide Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_experience
+      label: Virtual tour experience
+      hint: null
+      type: select_one
+      options:
+      - Virtual Site Guide
+      - Not very good
+      - Not sure
+      required: true
+    - id: 3
+      name: usability_rating
+      label: Usability rating
+      hint: On a scale of 0-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: improvement_suggestion
+      label: Improvement suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_comment
+      label: Rating and comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

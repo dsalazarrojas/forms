@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Based Recycling Practices Survey
+    pages:
+    - id: 1
+      name: survey_introduction
+      label: Survey Introduction
+      hint: Help us improve recycling in our community
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Your full name - optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: household_information
+      label: Household Information
+      hint: Information about your household
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: household_size
+      label: Household Size
+      hint: How many people live in your household
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: housing_type
+      label: Housing Type
+      hint: What type of housing do you live in
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Duplex
+      - Mobile Home
+      - Other
+      required: true
+    - id: 10
+      name: recycling_habits
+      label: Recycling Habits
+      hint: Questions about your recycling practices
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recycling_frequency
+      label: Recycling Frequency
+      hint: How often do you recycle
+      type: select_one
+      options:
+      - Always
+      - Most of the Time
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: materials_recycled
+      label: Materials Recycled
+      hint: What materials do you recycle
+      type: select_multiple
+      options:
+      - Paper
+      - Cardboard
+      - Plastic Bottles
+      - Glass
+      - Aluminum Cans
+      - Steel Cans
+      - Electronics
+      - Batteries
+      - Yard Waste
+      - Compost
+      - None
+      required: true
+    - id: 13
+      name: recycling_service
+      label: Recycling Service
+      hint: Do you have curbside recycling service
+      type: select_one
+      options:
+      - Yes - Weekly
+      - Yes - Bi-Weekly
+      - Yes - Monthly
+      - No - Drop-Off Only
+      - No Service
+      required: true
+    - id: 14
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: How satisfied are you with current recycling services
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 15
+      name: recycling_barriers
+      label: Recycling Barriers
+      hint: What barriers prevent you from recycling more
+      type: select_multiple
+      options:
+      - Lack of Information
+      - Inconvenient Collection
+      - Limited Space
+      - Confusion About What to Recycle
+      - Lack of Time
+      - No Service Available
+      - Cost
+      - None - I Recycle Everything
+      required: true
+    - id: 16
+      name: contamination_awareness
+      label: Contamination Awareness
+      hint: Are you aware of recycling contamination issues
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Heard of It
+      - Not Aware
+      required: true
+    - id: 17
+      name: education_needs
+      label: Education Needs
+      hint: What recycling education would be helpful
+      type: select_multiple
+      options:
+      - What Can Be Recycled
+      - How to Prepare Recyclables
+      - Collection Schedule
+      - Drop-Off Locations
+      - Composting Guide
+      - Hazardous Waste Disposal
+      - None Needed
+      required: true
+    - id: 18
+      name: program_interest
+      label: Program Interest
+      hint: Which additional programs interest you
+      type: select_multiple
+      options:
+      - Curbside Composting
+      - Electronics Recycling
+      - Hazardous Waste Collection
+      - Yard Waste Program
+      - Recycling Education Workshops
+      - Community Compost Site
+      - None
+      required: true
+    - id: 19
+      name: waste_reduction
+      label: Waste Reduction
+      hint: What do you do to reduce waste
+      type: select_multiple
+      options:
+      - Reuse Bags
+      - Buy in Bulk
+      - Compost
+      - Repair Items
+      - Buy Secondhand
+      - Avoid Single-Use Items
+      - Nothing Currently
+      required: true
+    - id: 20
+      name: community_involvement
+      label: Community Involvement
+      hint: Would you participate in community recycling programs
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Yes - Somewhat Interested
+      - Maybe
+      - 'No'
+      required: true
+    - id: 21
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you volunteer for recycling initiatives
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: suggestions
+      label: Suggestions
+      hint: What suggestions do you have for improving recycling
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about recycling in our community
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_date
+      label: Survey Date
+      hint: Date you completed this survey
+      type: date
+      options: []
+      required: true

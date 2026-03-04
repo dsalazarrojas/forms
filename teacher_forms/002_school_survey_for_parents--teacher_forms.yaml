@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Survey For Parents
+    pages:
+    - id: 1
+      name: in_person_teaching
+      label: In Person Teaching
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: false
+    - id: 2
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: select_one
+      options:
+      - Very Involved
+      - Slightly Involved
+      - Not Involved
+      required: false
+    - id: 3
+      name: online_teaching
+      label: Online Teaching
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: teaching_hours
+      label: Teaching Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parent_involvement_frequency
+      label: Parent Involvement Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 6
+      name: teaching_days
+      label: Number of Teaching Days
+      hint: Please enter a number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parent_talks_with_teachers
+      label: Does Parent Talk with Teacher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Rarely
+      required: false
+    - id: 8
+      name: parent_participation
+      label: Parent Participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: teacher_parent_relationships
+      label: Teacher Parent Relationship
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Neutral
+      - Negative
+      required: false
+    - id: 11
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Neutral
+      - Negative
+      required: false
+    - id: 12
+      name: parent_awareness
+      label: Parent Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: false
+    - id: 13
+      name: teaching_tools
+      label: Teaching Tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: teaching_materials
+      label: Teaching Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Supplemental
+      required: false
+    - id: 15
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - In Person
+      - Other
+      required: false
+    - id: 16
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Neutral
+      - Negative
+      required: false

@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Client Feedback Survey
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Your full name optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: coach_name
+        label: Coach Name
+        hint: Name of your coach
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: session_date
+        label: Session Date
+        hint: Date of the session
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: session_number
+        label: Session Number
+        hint: Which session was this
+        type: select_one
+        options:
+          - Session 1
+          - Session 2
+          - Session 3
+          - Session 4
+          - Session 5
+          - Session 6 or More
+        required: false
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Session Satisfaction
+        hint: Rate your satisfaction
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: session_helpfulness
+        label: How Helpful Was This Session
+        hint: Rate the value
+        type: select_one
+        options:
+          - Extremely Helpful
+          - Very Helpful
+          - Somewhat Helpful
+          - Not Very Helpful
+          - Not Helpful
+        required: true
+      - id: 8
+        name: coach_listening
+        label: Coach Listening Skills
+        hint: How well did coach listen
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: coach_understanding
+        label: Coach Understanding of Your Issues
+        hint: How well did coach understand
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: coach_questions
+        label: Quality of Coach Questions
+        hint: How effective were the questions
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: coach_feedback
+        label: Quality of Coach Feedback
+        hint: How useful was the feedback
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: session_pace
+        label: Session Pace
+        hint: Was it too fast or slow
+        type: select_one
+        options:
+          - Too Fast
+          - Just Right
+          - Too Slow
+        required: false
+      - id: 13
+        name: session_focus
+        label: Session Focus
+        hint: Did you stay on track
+        type: select_one
+        options:
+          - Very Focused
+          - Mostly Focused
+          - Somewhat Focused
+          - Not Focused
+        required: true
+      - id: 14
+        name: comfort_level
+        label: Your Comfort Level
+        hint: How comfortable did you feel
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 15
+        name: insights_gained
+        label: Insights or Breakthroughs Gained
+        hint: What did you learn
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: actions_identified
+        label: Actions or Next Steps Identified
+        hint: What will you do
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: goals_progress
+        label: Progress Toward Your Goals
+        hint: Did you move forward
+        type: select_one
+        options:
+          - Significant Progress
+          - Moderate Progress
+          - Some Progress
+          - Little Progress
+          - No Progress
+        required: true
+      - id: 18
+        name: confidence_after_session
+        label: Confidence Level After Session
+        hint: How confident do you feel
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Neutral
+          - Less Confident
+          - Not Confident
+        required: true
+      - id: 19
+        name: motivation_after_session
+        label: Motivation Level After Session
+        hint: How motivated do you feel
+        type: select_one
+        options:
+          - Very Motivated
+          - Motivated
+          - Neutral
+          - Less Motivated
+          - Not Motivated
+        required: true
+      - id: 20
+        name: what_worked_well
+        label: What Worked Well
+        hint: What did the coach do well
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: what_could_improve
+        label: What Could Be Improved
+        hint: Suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: topic_for_next_session
+        label: Topics for Next Session
+        hint: What should you discuss next
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: would_recommend_coach
+        label: Would You Recommend This Coach
+        hint: Would you refer others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: continue_with_coach
+        label: Will You Continue With This Coach
+        hint: Will you have more sessions
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 25
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

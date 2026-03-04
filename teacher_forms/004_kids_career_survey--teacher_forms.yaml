@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: kids_career_survey
+    pages:
+    - id: 1
+      name: teacher_survey
+      label: Teacher Survey
+      hint: null
+      type: select_one
+      options:
+      - Aerospace Engineering
+      - Astronautics
+      - Biology
+      - Chemistry
+      - Computer Science
+      - Earth Science
+      - Engineering
+      - Environmental Science
+      - Geology
+      - Materials Science
+      - Mathematics
+      - Physics
+      required: false
+    - id: 2
+      name: parent_survey
+      label: Parent Survey
+      hint: null
+      type: select_one
+      options:
+      - Aerospace Engineering
+      - Astronautics
+      - Biology
+      - Chemistry
+      - Computer Science
+      - Earth Science
+      - Engineering
+      - Environmental Science
+      - Geology
+      - Materials Science
+      - Mathematics
+      - Physics
+      required: false
+    - id: 3
+      name: other
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

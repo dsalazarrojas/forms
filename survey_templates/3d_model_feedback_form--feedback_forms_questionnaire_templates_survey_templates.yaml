@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Model Feedback Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Model Feedback — Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization / Studio
+      hint: Company or studio name, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project or model name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: model_purpose
+      label: Primary purpose of the model
+      hint: null
+      type: select_one
+      options:
+      - Visualization
+      - Prototyping
+      - Production asset
+      - VR/AR experience
+      - 3D printing
+      required: true
+    - id: 8
+      name: file_format
+      label: Submitted file format
+      hint: Choose the primary submitted format
+      type: select_one
+      options:
+      - OBJ
+      - FBX
+      - STL
+      - GLB/GLTF
+      - Other
+      required: true
+    - id: 9
+      name: polygon_count
+      label: Approximate polygon/triangle count
+      hint: Enter an approximate number (whole number)
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: model_size_mb
+      label: File size (MB)
+      hint: Provide the compressed file size in megabytes
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: viewing_platform
+      label: Platforms tested on
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Desktop
+      - Mobile
+      - Web viewer
+      - VR headset
+      - AR app
+      required: true
+    - id: 12
+      name: realism_rating
+      label: Realism rating (1-10)
+      hint: 1 = not realistic, 10 = highly realistic
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: performance_rating
+      label: Performance rating (1-10)
+      hint: 1 = very slow, 10 = excellent performance
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: usability_rating
+      label: Ease of use / integration (1-10)
+      hint: 1 = difficult, 10 = seamless
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: best_aspects
+      label: Best aspects of the model (select all)
+      hint: Select strengths you noticed
+      type: select_multiple
+      options:
+      - Visual fidelity
+      - Texturing / materials
+      - Optimization
+      - Animation / rigging
+      - Accuracy to reference
+      - Ease of integration
+      required: false
+    - id: 16
+      name: areas_to_improve
+      label: Areas to improve
+      hint: What changes would most improve this model?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: encountered_issues
+      label: Issues encountered (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Geometry artifacts
+      - Missing textures
+      - Scale mismatch
+      - Rigging / animation bugs
+      - UV / texture seams
+      - Performance drops
+      required: false
+    - id: 18
+      name: would_recommend
+      label: Would you recommend this asset?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Provide any other feedback, use cases, or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Date of feedback
+      hint: null
+      type: date
+      options: []
+      required: true

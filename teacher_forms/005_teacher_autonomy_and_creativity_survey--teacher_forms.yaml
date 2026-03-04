@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Autonomy And Creativity Survey
+    pages:
+    - id: 1
+      name: school_administration
+      label: School Administration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decision_making
+      label: Decision Making
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: teaching_style
+      label: Teaching Style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Traditional''}'
+      - '{''label'': ''Collaborative''}'
+      - '{''label'': ''Inclusive''}'
+      - '{''label'': ''Flexible''}'
+      - '{''label'': ''Autonomous''}'
+      required: false
+    - id: 4
+      name: innovation
+      label: Innovation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: support
+      label: Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 7
+      name: autonomy
+      label: Autonomy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: creativity
+      label: Creativity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Social Media Feedback
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - YouTube
+      - TikTok
+      required: false
+    - id: 6
+      name: post_type
+      label: Post Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Photo
+      - Story
+      - Post
+      - Live
+      - Reel
+      - Story
+      required: false
+    - id: 7
+      name: post_link
+      label: Post Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: post_link_url
+      label: Post Link URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: post_comments
+      label: Post Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: recommended
+      label: Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: why_recommend
+      label: Why Recommended
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: not_recommended
+      label: Not Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: why_not_recommended
+      label: Why Not Recommended
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Entertainment
+      - Sports
+      - Politics
+      - Finance
+      - Health
+      - Technology
+      - Education
+      - Travel
+      required: false
+    - id: 18
+      name: category_other
+      label: Category Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: category_other_description
+      label: Category Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

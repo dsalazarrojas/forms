@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: socioeconomic_status_survey
+    pages:
+    - id: 1
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School Diploma
+      - Postgraduate Degree
+      - Other
+      required: true
+    - id: 3
+      name: household_type
+      label: household_type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Parent
+      - Single Couple
+      - Multi-parent
+      - Couple
+      - Other
+      required: true
+    - id: 4
+      name: family_size
+      label: family_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 6
+      name: household_language
+      label: household_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Arabic
+      - Other
+      required: true
+    - id: 7
+      name: household_age
+      label: household_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: household_occupation
+      label: household_occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Blue Collar
+      - White Collar
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 9
+      name: household_location
+      label: household_location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Suburbs
+      - Rural
+      - Other
+      required: true
+    - id: 10
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: true

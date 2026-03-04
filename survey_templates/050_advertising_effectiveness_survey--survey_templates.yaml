@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Effectiveness Survey
+    pages:
+    - id: 1
+      name: participant_demographics_section
+      label: -- Participant Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: Age Range
+      hint: What is your age range
+      type: select_one
+      options: ["Under 18", "18-24", "25-34", "35-44", "45-54", "55-64", "65 or over"]
+      required: true
+    - id: 3
+      name: gender_identity
+      label: Gender Identity
+      hint: How do you identify your gender
+      type: select_one
+      options: ["Male", "Female", "Non-binary", "Other", "Prefer not to say"]
+      required: true
+    - id: 4
+      name: household_income
+      label: Household Income
+      hint: What is your approximate household income range
+      type: select_one
+      options: ["Under $25,000", "$25,000-$49,999", "$50,000-$74,999", "$75,000-$99,999", "$100,000-$149,999", "$150,000+"]
+      required: true
+    - id: 5
+      name: advertising_exposure_section
+      label: -- Advertising Exposure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ad_platforms_used
+      label: Ad Platforms Used
+      hint: Which platforms do you most frequently encounter advertisements
+      type: select_multiple
+      options: ["Television", "Social Media", "Online Videos", "Radio", "Print Media", "Billboards", "Email", "Mobile Apps"]
+      required: true
+    - id: 7
+      name: daily_ad_exposure
+      label: Daily Ad Exposure
+      hint: Approximately how many advertisements do you see per day
+      type: select_one
+      options: ["Less than 10", "10-25", "26-50", "51-100", "More than 100"]
+      required: true
+    - id: 8
+      name: ad_attention_level
+      label: Ad Attention Level
+      hint: How often do you pay attention to advertisements
+      type: select_one
+      options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+      required: true
+    - id: 9
+      name: ad_effectiveness_perception_section
+      label: -- Ad Effectiveness Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ad_relevance_to_you
+      label: Ad Relevance To You
+      hint: How relevant do you find advertisements to your interests
+      type: select_one
+      options: ["Very relevant", "Somewhat relevant", "Neutral", "Somewhat irrelevant", "Very irrelevant"]
+      required: true
+    - id: 11
+      name: ad_creativity_rating
+      label: Ad Creativity Rating
+      hint: How would you rate the creativity of most advertisements
+      type: select_one
+      options: ["Very creative", "Creative", "Average", "Not very creative", "Not creative at all"]
+      required: true
+    - id: 12
+      name: trust_in_advertisements
+      label: Trust In Advertisements
+      hint: How much do you trust the information in advertisements
+      type: select_one
+      options: ["Completely trust", "Mostly trust", "Partially trust", "Slightly trust", "Do not trust"]
+      required: true
+    - id: 13
+      name: ad_influence_on_behavior_section
+      label: -- Ad Influence on Behavior --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ad_influence_on_purchase_decisions
+      label: Ad Influence On Purchase Decisions
+      hint: How much do advertisements influence your purchase decisions
+      type: select_one
+      options: ["Greatly influence", "Moderately influence", "Slightly influence", "Do not influence", "Actively turn me away"]
+      required: true
+    - id: 15
+      name: ad_triggering_purchase_behavior
+      label: Ad Triggering Purchase Behavior
+      hint: Have advertisements ever prompted you to buy something immediately
+      type: select_one
+      options: ["Yes, often", "Yes, sometimes", "Rarely", "Never"]
+      required: true
+    - id: 16
+      name: brand_recall_from_ads
+      label: Brand Recall From Ads
+      hint: How well can you recall brands from advertisements you've seen
+      type: select_one
+      options: ["Excellent recall", "Good recall", "Average recall", "Poor recall", "Cannot recall"]
+      required: true
+    - id: 17
+      name: ad_preferences_section
+      label: -- Ad Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_ad_format
+      label: Preferred Ad Format
+      hint: Which format of advertisement do you prefer
+      type: select_one
+      options: ["Video", "Static Image", "Text-based", "Interactive", "Audio", "No preference"]
+      required: true
+    - id: 19
+      name: acceptable_ad_frequency
+      label: Acceptable Ad Frequency
+      hint: How many ads would you consider acceptable to see per hour
+      type: select_one
+      options: ["1-2", "3-5", "6-10", "More than 10", "No ads preferred"]
+      required: true
+    - id: 20
+      name: suggestions_for_improvement
+      label: Suggestions For Improvement
+      hint: What could advertisers do to improve their effectiveness
+      type: text
+      options: []
+      required: false

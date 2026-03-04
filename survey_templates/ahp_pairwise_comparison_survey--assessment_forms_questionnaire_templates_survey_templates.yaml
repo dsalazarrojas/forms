@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AHP Pairwise Comparison Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Survey Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter your professional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: decision_context
+      label: Decision context
+      hint: Briefly describe the decision problem you're evaluating
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_criteria
+      label: '--- Criteria Evaluation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: criteria_count
+      label: Number of criteria being evaluated
+      hint: How many criteria are you comparing?
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: primary_criterion
+      label: Which criterion is most important in your decision?
+      hint: Select the most significant factor
+      type: select_one
+      options:
+      - Cost
+      - Quality
+      - Time
+      - Risk
+      - Sustainability
+      - Other
+      required: true
+    - id: 9
+      name: criteria_importance_scale
+      label: On a scale of 1-9, how strongly do you favor the most important criterion
+        over the least important?
+      hint: 1 = equal importance, 9 = extreme importance
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: section_header_comparison
+      label: '--- Pairwise Comparisons ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comparison_method
+      label: Which method did you use for pairwise comparisons?
+      hint: null
+      type: select_one
+      options:
+      - Direct numerical assignment
+      - Verbal judgment scale
+      - Graphical slider
+      - Other
+      required: true
+    - id: 12
+      name: consistency_ratio
+      label: What was your calculated consistency ratio?
+      hint: Enter as a decimal (e.g., 0.05)
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: confidence_level
+      label: How confident are you in your judgments?
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Not very confident
+      - Not confident at all
+      required: true
+    - id: 14
+      name: decision_factors
+      label: Which factors influenced your pairwise comparisons? (select all that
+        apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Past experience
+      - Expert opinion
+      - Data analysis
+      - Intuition
+      - Stakeholder input
+      - Industry standards
+      required: true
+    - id: 15
+      name: section_header_outcomes
+      label: '--- Outcomes and Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: satisfaction
+      label: How satisfied are you with AHP Pairwise Comparison Survey?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: experience_aspects
+      label: Which aspects applied to your experience with AHP Pairwise Comparison
+        Survey? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 19
+      name: time_spent
+      label: Approximately how much time did you spend completing the pairwise comparisons?
+      hint: In minutes
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: recommendation_likelihood
+      label: How likely are you to recommend this method to others?
+      hint: 0 = not at all likely, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 21
+      name: open_feedback
+      label: What would you improve or change about AHP Pairwise Comparison Survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: null
+      type: text
+      options: []
+      required: false

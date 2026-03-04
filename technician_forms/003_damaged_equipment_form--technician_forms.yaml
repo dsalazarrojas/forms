@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: damaged_equipment_form
+    pages:
+    - id: 1
+      name: damaged_equipment_form_1
+      label: Damaged Equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: damage_date
+      label: Damage Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: damage_time
+      label: Damage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: image_uploads
+      label: Image Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: images
+      label: Images
+      hint: null
+      type: note
+      options: []
+      required: false

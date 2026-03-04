@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fast Food Survey
+    pages:
+    - id: 1
+      name: fast_food_establishment
+      label: Fast Food Establishment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fast_food_establishment_type
+      label: Fast Food Type
+      hint: null
+      type: select_one
+      options:
+      - Burger King
+      - McDonald's
+      - Taco Bell
+      - Wendy's
+      - Other
+      required: false
+    - id: 4
+      name: fast_food_establishment_size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Big
+      - Medium
+      - Small
+      - Large
+      required: false
+    - id: 5
+      name: number_of_locations
+      label: Number of Locations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media_links
+      label: Social Media Links
+      hint: null
+      type: text
+      options: []
+      required: false

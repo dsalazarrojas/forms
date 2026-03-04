@@ -1,0 +1,367 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apple Survey
+    pages:
+    - id: 1
+      name: respondent_id
+      label: Respondent ID
+      hint: Optional identifier
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+        - Under 18
+        - 18 to 24
+        - 25 to 34
+        - 35 to 44
+        - 45 to 54
+        - 55 to 64
+        - 65 or older
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+        - Male
+        - Female
+        - Non-binary
+        - Prefer to self-describe
+        - Prefer not to say
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: Country or region
+      type: select_one
+      options:
+        - United States
+        - Canada
+        - United Kingdom
+        - European Union
+        - Australia
+        - Asia Pacific
+        - Latin America
+        - Other
+      required: true
+    - id: 6
+      name: apple_customer
+      label: Are you an Apple customer
+      hint: Do you own Apple products
+      type: select_one
+      options:
+        - Yes, multiple products
+        - Yes, one product
+        - No, but interested
+        - No, not interested
+      required: true
+    - id: 7
+      name: apple_products_owned
+      label: Apple Products You Own
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - iPhone
+        - iPad
+        - Mac
+        - MacBook
+        - Apple Watch
+        - AirPods
+        - Apple TV
+        - HomePod
+        - iPod
+        - None
+      required: true
+    - id: 8
+      name: primary_device
+      label: Primary Apple Device
+      hint: Most used device
+      type: select_one
+      options:
+        - iPhone
+        - iPad
+        - Mac
+        - MacBook
+        - Apple Watch
+        - Other
+        - None
+      required: true
+    - id: 9
+      name: years_as_customer
+      label: How long have you been an Apple customer
+      hint: Duration
+      type: select_one
+      options:
+        - Less than 1 year
+        - 1 to 3 years
+        - 3 to 5 years
+        - 5 to 10 years
+        - More than 10 years
+      required: true
+    - id: 10
+      name: satisfaction_overall
+      label: Overall Satisfaction with Apple
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 11
+      name: product_quality
+      label: Product Quality Rating
+      hint: Rate the quality
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 12
+      name: product_innovation
+      label: Innovation Rating
+      hint: How innovative are products
+      type: select_one
+      options:
+        - Very innovative
+        - Innovative
+        - Somewhat innovative
+        - Not very innovative
+        - Not innovative
+      required: true
+    - id: 13
+      name: value_for_money
+      label: Value for Money
+      hint: Worth the price
+      type: select_one
+      options:
+        - Excellent value
+        - Good value
+        - Fair value
+        - Poor value
+        - Very poor value
+      required: true
+    - id: 14
+      name: customer_service
+      label: Customer Service Rating
+      hint: Rate support experience
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+        - Have not used
+      required: true
+    - id: 15
+      name: apple_store_experience
+      label: Apple Store Experience
+      hint: In-store experience
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+        - Have not visited
+      required: true
+    - id: 16
+      name: ecosystem_satisfaction
+      label: Apple Ecosystem Satisfaction
+      hint: How well products work together
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+        - Not applicable
+      required: true
+    - id: 17
+      name: ease_of_use
+      label: Ease of Use
+      hint: How easy are products
+      type: select_one
+      options:
+        - Very easy
+        - Easy
+        - Neutral
+        - Difficult
+        - Very difficult
+      required: true
+    - id: 18
+      name: design_aesthetics
+      label: Design and Aesthetics
+      hint: Rate the design
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 19
+      name: battery_life
+      label: Battery Life Satisfaction
+      hint: Rate battery performance
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+        - Not applicable
+      required: true
+    - id: 20
+      name: software_experience
+      label: Software Experience
+      hint: iOS, macOS, etc.
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 21
+      name: privacy_security
+      label: Privacy and Security
+      hint: Rate Apple privacy efforts
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 22
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend Apple
+      hint: To friends or family
+      type: select_one
+      options:
+        - Very likely
+        - Likely
+        - Neutral
+        - Unlikely
+        - Very unlikely
+      required: true
+    - id: 23
+      name: future_purchase_intent
+      label: Future Purchase Intent
+      hint: Plan to buy Apple products
+      type: select_one
+      options:
+        - Definitely will buy
+        - Probably will buy
+        - Undecided
+        - Probably will not buy
+        - Definitely will not buy
+      required: true
+    - id: 24
+      name: next_purchase
+      label: Next Apple Product to Purchase
+      hint: If planning to buy
+      type: select_one
+      options:
+        - iPhone
+        - iPad
+        - Mac
+        - MacBook
+        - Apple Watch
+        - AirPods
+        - Apple TV
+        - Other
+        - None planned
+      required: false
+    - id: 25
+      name: switch_from_android
+      label: Did you switch from Android
+      hint: Previous platform
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Never used Android
+      required: true
+    - id: 26
+      name: reason_for_choosing_apple
+      label: Why did you choose Apple
+      hint: Main reason
+      type: select_multiple
+      options:
+        - Product quality
+        - Ecosystem integration
+        - Design
+        - Brand reputation
+        - Privacy features
+        - Customer service
+        - Resale value
+        - Peer recommendation
+        - Other
+      required: true
+    - id: 27
+      name: favorite_feature
+      label: Favorite Apple Feature
+      hint: What do you love most
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be better
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: pricing_feedback
+      label: Pricing Feedback
+      hint: Your thoughts on pricing
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

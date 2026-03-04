@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_design_style_evaluation
+    pages:
+    - id: 1
+      name: vehicle_design_preferences
+      label: Design Style Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_design_impression
+      label: Overall Design Impression
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: features_importance
+      label: Features Importance
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: design_style
+      label: Design Style
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: overall_feeling
+      label: Overall Feeling
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: restoration_project_voting_form
+    pages:
+    - id: 1
+      name: restoration_project_name
+      label: restoration_project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: restoration_project_voting
+      label: how_will_you_vote
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: restoration_project_description
+      label: restoration_project_description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: restoration_project_voting_how
+      label: voting_how
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: restoration_project_voting_what
+      label: voting_what
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: restoration_project_voting_why
+      label: voting_why
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: restoration_project_voting_when
+      label: voting_when
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: restoration_project_voting_time
+      label: voting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: restoration_project_voting_note
+      label: voting_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: restoration_project_voting_who
+      label: voting_who
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 14
+      name: restoration_project_voting_whatelse
+      label: voting_whatelse
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

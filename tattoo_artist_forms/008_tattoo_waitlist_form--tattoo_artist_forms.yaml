@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Waitlist Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: form_time
+      label: form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: form_client_name
+      label: form_client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_phone
+      label: form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_email
+      label: form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: form_tattoo_style
+      label: form_tattoo_style
+      hint: null
+      type: select_one
+      options:
+      - style_1
+      - style_2
+      required: true
+    - id: 8
+      name: form_tattoo_size
+      label: form_tattoo_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_tattoo_color
+      label: form_tattoo_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_client_phone
+      label: form_client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_client_email
+      label: form_client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: form_message
+      label: form_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      required: true
+    - id: 14
+      name: form_waitlist
+      label: form_waitlist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_note
+      label: form_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_signature
+      label: form_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_awaiting
+      label: form_awaiting
+      hint: null
+      type: select_multiple
+      options:
+      - await_1
+      - await_2
+      - await_3
+      required: true
+    - id: 18
+      name: form_next_available
+      label: form_next_available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_tattoo_artist
+      label: form_tattoo_artist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_date_booked
+      label: form_date_booked
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: form_time_booked
+      label: form_time_booked
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: form_number_in_waitlist
+      label: form_number_in_waitlist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: form_position_in_waitlist
+      label: form_position_in_waitlist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: form_message_to_client
+      label: form_message_to_client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_signature_to_client
+      label: form_signature_to_client
+      hint: null
+      type: text
+      options: []
+      required: true

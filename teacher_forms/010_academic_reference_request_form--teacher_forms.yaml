@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reference Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Reference Request Form --
+      hint: Students, use this form to formally request an academic reference from
+        a teacher, professor, or advisor.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_of_study
+      label: Program of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expected_graduation
+      label: Expected graduation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reference_provider_name
+      label: Name of the teacher or professor you are requesting a reference from
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reference_provider_email
+      label: Reference providers email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: reference_provider_department
+      label: Reference providers department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relationship_type
+      label: How do you know this reference provider
+      hint: null
+      type: select_one
+      options:
+      - Current instructor
+      - Former instructor
+      - Academic advisor
+      - Research supervisor
+      - Thesis or dissertation advisor
+      - Other
+      required: true
+    - id: 13
+      name: reference_purpose
+      label: Purpose of the reference
+      hint: null
+      type: select_one
+      options:
+      - Graduate school application
+      - Job or internship application
+      - Scholarship or fellowship
+      - Transfer application
+      - Professional certification
+      - Other
+      required: true
+    - id: 14
+      name: target_institution_or_employer
+      label: Name of the institution or employer the reference will be sent to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_deadline
+      label: Deadline for the reference submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submission_method
+      label: How should the reference be submitted
+      hint: null
+      type: select_one
+      options:
+      - Email directly to recipient
+      - Upload to an online portal
+      - Sealed letter to student
+      - Mail to institution
+      required: true
+    - id: 17
+      name: key_strengths
+      label: Key strengths or accomplishments you would like highlighted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_information
+      label: Any additional information for the reference provider
+      hint: null
+      type: text
+      options: []
+      required: false

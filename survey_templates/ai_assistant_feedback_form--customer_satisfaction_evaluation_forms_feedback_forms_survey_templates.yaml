@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Assistant Feedback Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Welcome to Our Feedback Survey ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to follow up if needed
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: usage_frequency
+      label: How often do you use our AI Assistant?"
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time
+      required: true
+    - id: 5
+      name: satisfaction_level
+      label: How satisfied are you with our AI Assistant?"
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: primary_use_case
+      label: What do you primarily use our AI Assistant for?"
+      hint: Select your main use case
+      type: select_one
+      options:
+      - Customer support
+      - Content creation
+      - Data analysis
+      - Learning/research
+      - Automation
+      - Other
+      required: true
+    - id: 8
+      name: best_aspects
+      label: Best aspects of our AI Assistant (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast responses
+      - Accurate information
+      - Helpful suggestions
+      - Natural conversation
+      - Reliable availability
+      - Good integration
+      required: false
+    - id: 9
+      name: areas_to_improve
+      label: What would you improve about our AI Assistant?"
+      hint: Be specific about features or experiences
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accuracy_rating
+      label: How would you rate the accuracy of responses?"
+      hint: null
+      type: select_one
+      options:
+      - Very accurate
+      - Mostly accurate
+      - Somewhat accurate
+      - Often inaccurate
+      - Very inaccurate
+      required: true
+    - id: 11
+      name: response_speed
+      label: How satisfied are you with response speed?"
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: would_recommend
+      label: Would you recommend our AI Assistant to others?"
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 13
+      name: privacy_concerns
+      label: Do you have any privacy concerns about using our AI Assistant?"
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor concerns
+      - Moderate concerns
+      - Major concerns
+      required: false
+    - id: 14
+      name: feature_requests
+      label: What additional features would you like to see?"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_support_experience
+      label: Have you contacted customer support regarding the AI Assistant?"
+      hint: null
+      type: select_one
+      options:
+      - Yes, and it was helpful
+      - Yes, but it wasn't helpful
+      - No, but I might in the future
+      - No, and I don't need to
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments or suggestions"
+      hint: Any other feedback you'd like to share
+      type: text
+      options: []
+      required: false

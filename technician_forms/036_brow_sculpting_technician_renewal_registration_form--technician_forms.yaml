@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Sculpting Technician Renewal Registration Form
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician name
+      hint: Full name for renewal
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_number
+      label: License number
+      hint: Registration or license ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renewal_date
+      label: Renewal date
+      hint: Date of renewal submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: training_completed
+      label: Training completed
+      hint: Recent training or courses completed
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: continuing_education_hours
+      label: Continuing education hours
+      hint: Hours completed since last renewal
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employer_name
+      label: Employer name
+      hint: Current salon or employer
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certification_documents
+      label: Certification documents
+      hint: List documents attached with application
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: Email for renewal confirmation
+      type: email
+      options: []
+      required: true

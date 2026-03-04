@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_status_report_template
+    pages:
+    - id: 1
+      name: weekly_status
+      label: Weekly status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: week_start
+      label: Week start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: week_end
+      label: Week end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_data
+      label: Form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weekly_status
+      label: Weekly status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Conference Attendee Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session1
+      label: session1
+      hint: null
+      type: select_multiple
+      options:
+      - Speaker1
+      - Speaker2
+      - Speaker3
+      required: false
+    - id: 4
+      name: speaker_rating
+      label: Speaker Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: Write your feedback about the session
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_one
+      options:
+      - Suggestion1
+      - Suggestion2
+      - Suggestion3
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

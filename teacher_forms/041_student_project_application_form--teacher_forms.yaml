@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Project Application Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expected_start_date
+      label: expected start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expected_end_date
+      label: expected end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: project status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - In Development
+      - Finished
+      required: false
+    - id: 6
+      name: project_status_notes
+      label: project status notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 8
+      name: tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 9
+      name: project_sup_report_to
+      label: project supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: project_sup_email
+      label: supervisor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: project_sup_phone
+      label: supervisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_grade
+      label: student grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_major
+      label: student major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_supervisor
+      label: student supervisor
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: supervisor_approval
+      label: supervisor approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_signature
+      label: supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_signature
+      label: student signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_supervisors
+      label: student supervisors
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 22
+      name: student_supervisor_signature
+      label: student supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_sup_report_date
+      label: project report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: project_sup_report
+      label: project report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_sup_comment
+      label: supervisor comment
+      hint: null
+      type: text
+      options: []
+      required: false

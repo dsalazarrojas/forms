@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hardware Request
+    pages:
+    - id: 1
+      name: form_title
+      label: New Hardware Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: Enter a detailed description
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: damaged_parts
+      label: damaged_parts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Headset''}'
+      - '{''value'': 2, ''label'': ''Microphone''}'
+      - '{''value'': 3, ''label'': ''Monitor''}'
+      - '{''value'': 4, ''label'': ''Keyboard''}'
+      - '{''value'': 5, ''label'': ''Mouse''}'
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: replacement_cost
+      label: replacement_cost
+      hint: Enter the cost
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_order
+      label: purchase_order
+      hint: null
+      type: date
+      options: []
+      required: false

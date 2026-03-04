@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: family_legacy_role_selection_survey_page_1
+      label: family_legacy_role_selection_survey_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: family_member_interests
+      label: what_are_you_most_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: family_council_skills
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: family_legacyle_preservation_roles
+      label: legacy_preservation_roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferred_legacy
+      label: preferred_legacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: legacy_growth_goals
+      label: legacy_growth_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

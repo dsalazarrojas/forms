@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunday School Evaluation Form
+    pages:
+    - id: 1
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: Subject Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_staff_name
+      label: Other Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: select_one
+      label: Which of the following?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 12
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false

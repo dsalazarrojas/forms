@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debt Management Checklist
+    pages:
+    - id: 1
+      name: debt_assessment
+      label: Assess debt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: debt_frequency
+      label: Assess how often
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: debt_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: debt_type
+      label: Debt type
+      hint: What type of debt?
+      type: select_one
+      options:
+      - Credit card
+      - Personal loan
+      - Student loan
+      - Mortgage
+      - Auto loan
+      - Other
+      required: false
+    - id: 5
+      name: debt_priority
+      label: Priority
+      hint: How urgent is this debt?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: debt_frequency_urgent
+      label: How often pay urgent debts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: debt_frequency_non_urgent
+      label: How often pay non-urgent debts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: debt_payment_method
+      label: Debt payment method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: debt_payment_frequency
+      label: Payoff period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: debt_payment_status
+      label: Payment status
+      hint: Payment status?
+      type: select_one
+      options:
+      - Paid
+      - Not paid
+      - Partially paid
+      required: false
+    - id: 11
+      name: debt_repayment_plan
+      label: Repayment plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: debt_counseling
+      label: Debt counseling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: debt_management_tools
+      label: Debt management tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: debt_reduction_methods
+      label: Debt reduction methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: debt_reduction_effectiveness
+      label: Debt reduction effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: debt_reduction_satisfaction
+      label: Debt reduction satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 17
+      name: debt_management_goals
+      label: Debt management goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: debt_management_obstacles
+      label: Debt management obstacles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: debt_management_strategies
+      label: Debt management strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 20
+      name: debt_management_tools_used
+      label: Debt management tools used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: debt_repayment_status
+      label: Repayment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: debt_reduction_methods_used
+      label: Debt reduction methods used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: debt_reduction_methods_satisfied
+      label: Debt reduction methods satisfied
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: debt_management_outcomes
+      label: Debt management outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: debt_management_next_steps
+      label: Debt management next steps
+      hint: null
+      type: text
+      options: []
+      required: false

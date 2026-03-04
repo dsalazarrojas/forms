@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: palliative_care_education_workshop_evaluation_form
+    pages:
+    - id: 1
+      name: workshop_experience
+      label: How Was The Workshop
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: topic_knowledge
+      label: What Did You Learn
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: presentation_quality
+      label: How Well Was The Presentation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: content_relevance
+      label: Relevance To Work
+      hint: null
+      type: select_one
+      options:
+      - Palliative Care
+      - Other
+      required: false
+    - id: 5
+      name: presenter_knowledge
+      label: Presenter's Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Palliative Care
+      - Other
+      required: false
+    - id: 6
+      name: workshop_satisfaction
+      label: How Satisfied Are You
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: future_workshops
+      label: Would You Attend Again
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

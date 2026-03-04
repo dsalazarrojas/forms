@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yes Or No Survey Template
+    pages:
+    - id: 1
+      name: yes_or_no_survey_template_survey_questions
+      label: Yes or no questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: yes_or_no_survey_template_survey_type
+      label: Survey Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: yes_or_no_survey_template_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: yes_or_no_survey_template_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: yes_or_no_survey_template_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: yes_or_no_survey_template_created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false

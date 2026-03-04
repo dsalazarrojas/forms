@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Model Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_general
+      label: '--- General Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Full name
+      hint: Enter your full name as the evaluator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email
+      label: Email address
+      hint: Contact information for follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Date of evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project name
+      hint: Name of the project this 3D model belongs to
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: model_name
+      label: 3D Model name
+      hint: Specific name or identifier of the model being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: model_version
+      label: Model version
+      hint: Version number or iteration of the model
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_quality
+      label: '--- Quality Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: geometry_accuracy
+      label: Geometry accuracy rating
+      hint: How accurately does the model represent the intended shape?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 10
+      name: topology_quality
+      label: Topology quality
+      hint: Quality of mesh structure and edge flow
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 11
+      name: polygon_count
+      label: Polygon count efficiency
+      hint: Is the polygon density appropriate for intended use?
+      type: select_one
+      options:
+      - Over-optimized
+      - Just right
+      - Too dense
+      - Too sparse
+      - Unknown
+      required: true
+    - id: 12
+      name: texture_resolution
+      label: Texture resolution appropriateness
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Too low
+      required: true
+    - id: 13
+      name: uv_mapping_quality
+      label: UV mapping quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 14
+      name: section_header_performance
+      label: '--- Performance Metrics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: render_time_seconds
+      label: Average render time (seconds)
+      hint: Time taken to render a typical frame
+      type: decimal
+      options: []
+      required: false
+    - id: 16
+      name: poly_count_triangles
+      label: Polygon count (triangles)
+      hint: Total number of triangles in the model
+      type: integer
+      options: []
+      required: false
+    - id: 17
+      name: texture_size_mb
+      label: Total texture size (MB)
+      hint: Combined size of all textures
+      type: decimal
+      options: []
+      required: false
+    - id: 18
+      name: target_platform
+      label: Target platform
+      hint: Platform where the model will be primarily used
+      type: select_multiple
+      options:
+      - Desktop gaming
+      - Mobile device
+      - Web application
+      - VR/AR
+      - Film/animation
+      - Print
+      required: true
+    - id: 19
+      name: section_header_recommendations
+      label: '--- Recommendations ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 21
+      name: recommended_action
+      label: Recommended action
+      hint: What should be done with this model?
+      type: select_one
+      options:
+      - Approve as-is
+      - Approve with minor revisions
+      - Revise and resubmit
+      - Reject
+      - Send for technical review
+      required: true
+    - id: 22
+      name: revision_priority
+      label: Revision priority level
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - High
+      - Medium
+      - Low
+      - Not urgent
+      required: false
+    - id: 23
+      name: detailed_feedback
+      label: Detailed feedback
+      hint: Describe specific issues or positive aspects
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suggested_improvements
+      label: Suggested improvements
+      hint: Specific recommendations for enhancing the model
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluator_signature
+      label: Additional comments or notes
+      hint: Any other observations or remarks
+      type: text
+      options: []
+      required: false

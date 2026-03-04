@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-community-moderator-voting-form
+    pages:
+    - id: 1
+      name: moderator_role
+      label: Moderator Role
+      hint: Select a role for the moderator selection
+      type: select_one
+      options:
+      - Chairperson
+      - Treasurer
+      - Secretary
+      - Event Coordinator
+      - Social Media Manager
+      - Technical Lead
+      required: false
+    - id: 2
+      name: voting_duration
+      label: Voting Duration
+      hint: How long would you like the voting duration to be
+      type: select_multiple
+      options:
+      - minimalist
+      - short
+      - medium
+      - long
+      - extra-long
+      required: false
+    - id: 3
+      name: voting_duration_duration
+      label: Duration (weeks)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: voting_duration_unit
+      label: Voting Duration Unit
+      hint: null
+      type: select_one
+      options:
+      - week
+      - month
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: moderator_selection
+      label: Select Prophets or Moderators
+      hint: null
+      type: select_one
+      options:
+      - Moderators
+      - Prophets
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_energy_audit_feedback_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: property_energy_audit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: audit_comments
+      label: audit_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: energy_consumption
+      label: energy_consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: energy_consumption_2
+      label: energy_consumption_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_consumption_3
+      label: energy_consumption_3
+      hint: null
+      type: number
+      options: []
+      required: false

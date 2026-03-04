@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mid Semester Course Evaluation Form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What is your current level of engagement with the course
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: question2
+      label: How do you rate the quality of instruction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: question3
+      label: What do you like most about the course
+      hint: null
+      type: select_multiple
+      options:
+      - Lectures
+      - Discussions
+      - Readings
+      - Assignments
+      - Other
+      required: true
+    - id: 5
+      name: question4
+      label: Are there any topics that you feel are missing or could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: Would you like to be able to attend more lectures?
+      hint: null
+      type: text
+      options: []
+      required: false

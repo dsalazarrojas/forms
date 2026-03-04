@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Travel Declaration Form
+    pages:
+    - id: 1
+      name: travel_history
+      label: Student Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_one
+      options:
+      - Country
+      - State
+      required: false
+    - id: 4
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - International
+      - Domestic
+      - Out of Country
+      - Within Country
+      required: false
+    - id: 7
+      name: travel_method
+      label: Travel Method
+      hint: null
+      type: select_multiple
+      options:
+      - Airplane
+      - Car
+      - Train
+      - Bus
+      - Boat
+      required: false
+    - id: 8
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Path To Purchase Survey
+    pages:
+    - id: 1
+      name: general_questions
+      label: General Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: path_to_purchase
+      label: Path To Purchase
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: purchase_history
+      label: Purchase History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: path_to_purchases
+      label: Path to Purchases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

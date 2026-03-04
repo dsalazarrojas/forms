@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Analysis Survey
+    pages:
+    - id: 1
+      name: title
+      label: Movie
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate the Movie
+      hint: Scale 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: notes
+      label: Written Reflections
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Adventure
+      - Comedy
+      - Documentary
+      - Drama
+      - Horror
+      - Romance
+      - Thriller
+      required: false

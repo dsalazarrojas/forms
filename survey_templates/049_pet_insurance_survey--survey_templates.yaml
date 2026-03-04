@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Survey
+    pages:
+    - id: 1
+      name: pet_insurance_survey
+      label: what_is_your_insurance_status
+      hint: null
+      type: select_one
+      options:
+      - Not Insured
+      - Insured
+      - Not Applicable
+      required: false
+    - id: 2
+      name: pet_type
+      label: what_type_of_pet_do_you_have
+      hint: null
+      type: select_multiple
+      options:
+      - cat
+      - dog
+      - other
+      required: false
+    - id: 3
+      name: pet_age
+      label: what_is_your_pets_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_health_condition
+      label: what_is_your_pets_health_condition
+      hint: null
+      type: select_one
+      options:
+      - No Health Issues
+      - Minor Issues
+      - Severe Issues
+      required: false
+    - id: 5
+      name: pet_value
+      label: what_is_your_pets_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: how_would_you_like_to_contact_us
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - chat
+      required: false
+    - id: 7
+      name: contact_number
+      label: what_is_your_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: what_is_your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: what_is_your_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: what_is_your_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: do_you_have_any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pet_insurance_provider
+      label: which_insurance_provider_do_you_use
+      hint: null
+      type: select_multiple
+      options:
+      - Trupanion
+      - Petplan
+      - Petco
+      - Other
+      required: false
+    - id: 13
+      name: policy_number
+      label: do_you_have_a_policy_number
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 14
+      name: policy_provider
+      label: which_insurance_provider_do_you_have_a_policy_with
+      hint: null
+      type: select_multiple
+      options:
+      - Trupanion
+      - Petplan
+      - Petco
+      - Other
+      required: false
+    - id: 15
+      name: policy_start_date
+      label: what_is_your_policy_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: policy_end_date
+      label: what_is_your_policy_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: policy_effective_date
+      label: what_is_your_policy_effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: policy_deductible
+      label: what_is_your_policy_deductible
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: policy_deductible_max
+      label: what_is_your_policy_deductible_max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: policy_deductible_min
+      label: what_is_your_policy_deductible_min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: policy_coverage
+      label: what_is_your_policy_coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: policy_renewal
+      label: how_would_you_like_to_renew_your_policy
+      hint: null
+      type: select_multiple
+      options:
+      - Automatic
+      - Manual
+      required: false
+    - id: 23
+      name: policy_notes
+      label: do_you_have_any_other_comments_about_your_policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_status
+      label: what_is_your_policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: policy_notes
+      label: do_you_have_any_other_comments_about_your_policy
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Transparency Expectation Poll
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: donor_expectations
+      label: What do donors expect?
+      hint: What do donors expect from transparency from their donations?
+      type: select_one
+      options:
+      - Donor Expectations
+      - Financial Expectations
+      - Impact Expectations
+      - Relationship Expectations
+      - Other
+      required: true
+    - id: 3
+      name: financial_expectations
+      label: Financial Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Transparency of Finances
+      - Financial Reporting
+      - Budgeting and Spending
+      - Audits and Accountability
+      - Other
+      required: true
+    - id: 4
+      name: impact_expectations
+      label: Impact Expectations
+      hint: null
+      type: select_one
+      options:
+      - Measurable Impact
+      - Tangible Outputs
+      - Intangible Outputs
+      - Results Reporting
+      - Other
+      required: true
+    - id: 5
+      name: relationship_expectations
+      label: Relationship Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Communication
+      - Timely Updates
+      - Responsive Feedback
+      - Personalized Engagement
+      - Other
+      required: true
+    - id: 6
+      name: other_expectations
+      label: Other Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Other (please specify)
+      - Specify other expectations
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: followup
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Selection Survey
+    pages:
+    - id: 1
+      name: first_question
+      label: Menu Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_2
+      label: What's your favorite menu item?
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 3
+      name: question_3
+      label: What time of day do you typically eat?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: question_4
+      label: Rate your experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_5
+      label: How many times have you been to this restaurant?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: question_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Do you have any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: When do you usually eat?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question_10
+      label: How often do you eat here?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

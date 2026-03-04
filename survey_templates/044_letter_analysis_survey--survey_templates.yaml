@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Letter Analysis Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Letter Analysis Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clarity
+      label: How clear was the letter?
+      hint: Please provide feedback on the clarity of the letter
+      type: select_one
+      options:
+      - '{1: ''Clear''}'
+      - '{2: ''Unclear''}'
+      - '{3: ''Needs improvement''}'
+      required: false
+    - id: 3
+      name: tone
+      label: Tone of the letter
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Friendly''}'
+      - '{2: ''Firm''}'
+      - '{3: ''Polite''}'
+      - '{4: ''Unprofessional''}'
+      required: false
+    - id: 4
+      name: effectiveness
+      label: How effective was the letter?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Effective''}'
+      - '{2: ''Not effective''}'
+      - '{3: ''Needs improvement''}'
+      required: false
+    - id: 5
+      name: suggestions
+      label: What suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_impression
+      label: What was your overall impression of the letter?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_feedback
+      label: What are your thoughts on how this letter could be improved for our team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

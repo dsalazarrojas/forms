@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home School Survey
+    pages:
+    - id: 1
+      name: home_school_survey
+      label: Home School Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: survey_date
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: false

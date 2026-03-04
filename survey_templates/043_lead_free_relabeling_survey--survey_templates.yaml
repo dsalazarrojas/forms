@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Free Relabeling Survey
+    pages:
+    - id: 1
+      name: lead_free_relabeling_survey
+      label: welcome_to_the_lead_free_relabeling_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_experience
+      label: what_product_have_you_used
+      hint: null
+      type: select_one
+      options:
+      - product1
+      - product2
+      - product3
+      required: false
+    - id: 4
+      name: relabeling_process
+      label: what_relabeling_process_did_you_use
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: customer_satisfaction
+      label: how_satisfied_are_you_with_your_experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: feedback
+      label: do_you_have_any_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_suggestions
+      label: do_you_have_any_improvement_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

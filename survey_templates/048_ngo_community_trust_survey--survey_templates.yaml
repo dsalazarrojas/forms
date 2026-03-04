@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Community Trust Survey
+    pages:
+    - id: 1
+      name: service_provided
+      label: What services do you offer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: frequency_of_service
+      label: How often do you use our services?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trust_level
+      label: How much do you trust us?
+      hint: Please provide feedback on our trust level
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: improvement_suggestions
+      label: What can we do to improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: feedback_on_services
+      label: What are your thoughts on our services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_response
+      label: Do you have an email address to contact you?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Do you have a phone number we can contact you with?
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_time_response
+      label: When were you contacted by our team?
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_response
+      label: What time did you last contact us?
+      hint: "HH:MM:SS AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_contact
+      label: What date did you last contact us?
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_last_contact
+      label: What time did you last contact us?
+      hint: "HH:MM:SS AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: How did you contact us?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Online
+      required: false
+    - id: 13
+      name: last_contact_details
+      label: Please provide more details about your last contact with us
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: email_response2
+      label: Do you have an email address to contact you?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone_number2
+      label: Do you have a phone number we can contact you with?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_method2
+      label: How did you contact us this time?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Online
+      required: false
+    - id: 17
+      name: last_contact_details2
+      label: Please provide more details about your last contact with us
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: contact_us
+      label: Do you have any suggestions on how we can improve our service?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: follow_up
+      label: Would you like to be contacted for follow-up questions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: follow_up_contact_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: contact_us_for_follow_up
+      label: Would you like to be contacted by phone or email?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: next_steps
+      label: What are your next steps with our organization?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: next_steps_details
+      label: Please provide more details about your next steps with us
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_details
+      label: Additional contact details for follow up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: survey_completion
+      label: Thank you for taking the time to complete this survey
+      hint: null
+      type: note
+      options: []
+      required: false

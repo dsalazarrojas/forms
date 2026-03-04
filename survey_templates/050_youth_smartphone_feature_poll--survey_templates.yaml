@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Youth Smartphone Feature Poll
+    pages:
+    - id: 1
+      name: poll_questions
+      label: what_is_your_age_group
+      hint: null
+      type: select_one
+      options:
+      - 13-15
+      - 16-18
+      - 19-24
+      - 25-29
+      - 30+
+      required: true
+    - id: 2
+      name: poll_question1
+      label: what_is_your_current_smartphone
+      hint: null
+      type: select_one
+      options:
+      - apple
+      - samsung
+      - other
+      - none
+      required: true
+    - id: 3
+      name: poll_question2
+      label: what_is_your_main_reason_for_buying_a_smartphone
+      hint: null
+      type: select_one
+      options:
+      - social_media
+      - entertainment
+      - productivity
+      - camera
+      - gaming
+      - other
+      - music
+      - messaging
+      required: false
+    - id: 4
+      name: poll_question3
+      label: what_is_your_smartphone_feature_priority
+      hint: null
+      type: select_multiple
+      options:
+      - camera
+      - battery
+      - storage
+      - performance
+      - price
+      - durability
+      - display
+      - other
+      required: false
+    - id: 5
+      name: poll_question4
+      label: do_you_agree_with_the_following
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: poll_question5
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit_form
+      label: click_to_submit
+      hint: null
+      type: text
+      options: []
+      required: false

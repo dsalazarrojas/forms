@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Publishing Barriers Survey
+    pages:
+      - id: 1
+        name: section_profile
+        label: -- Respondent Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: role
+        label: Role in publishing
+        hint: Select role
+        type: select_one
+        options:
+          - Author
+          - Editor
+          - Reviewer
+          - Librarian
+          - Publisher
+        required: true
+      - id: 3
+        name: experience_level
+        label: Experience level
+        hint: Years working in publishing or research
+        type: select_one
+        options:
+          - Less than 2 years
+          - 2 to 5 years
+          - 6 to 10 years
+          - More than 10 years
+        required: false
+      - id: 4
+        name: key_barriers
+        label: Key barriers to publishing
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Access to funding
+          - High publication fees
+          - Peer review delays
+          - Lack of mentorship
+          - Language barriers
+        required: false
+      - id: 5
+        name: open_access_attitudes
+        label: Attitude toward open access publishing
+        hint: Rate your position on open access
+        type: select_one
+        options:
+          - Strongly support
+          - Support
+          - Neutral
+          - Oppose
+        required: false
+      - id: 6
+        name: institutional_support
+        label: Institutional support available
+        hint: Availability of resources for publishing
+        type: select_one
+        options:
+          - Extensive
+          - Moderate
+          - Limited
+          - None
+        required: false
+      - id: 7
+        name: mitigation_strategies
+        label: Strategies to mitigate barriers
+        hint: What would help overcome barriers
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: training_needs
+        label: Training needs to support publishing
+        hint: Areas where training would help
+        type: select_multiple
+        options:
+          - Writing and editing
+          - Grant writing
+          - Navigating peer review
+          - Open access publishing
+        required: false
+      - id: 9
+        name: suggestions_for_publishers
+        label: Suggestions for publishers and editors
+        hint: Ideas to reduce barriers
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other insights on publishing barriers
+        type: text
+        options: []
+        required: false

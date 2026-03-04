@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Upgrade Feedback Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: What is the main reason you're taking the System Upgrade Feedback Questionnaire?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_experience
+      label: What was your experience with the system before the upgrade?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_features
+      label: What features did you use for the first time after the upgrade?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with the new features?
+      hint: null
+      type: select_one
+      options:
+      - New features are great!
+      - Neutral
+      - Not satisfied
+      required: false
+    - id: 5
+      name: improvements
+      label: What could be improved in the new features?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: What is your company name?
+      hint: null
+      type: text
+      options: []
+      required: false

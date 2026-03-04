@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surat History And Culture Survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: Survey Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: community_feedback
+      label: Community Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: heritage_and_cultural_engagement
+      label: Heritage And Cultural Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: research_education_programming
+      label: Research, Education, And Local Programming Decisions
+      hint: null
+      type: text
+      options: []
+      required: false

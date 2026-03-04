@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dealership Maintenance Service Feedback Poll
+    pages:
+    - id: 1
+      name: dealership_maintenance_service_feedback_poll_form
+      label: Feedback Poll
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: dealership_maintenance_service_feedback_poll_service_visit_id
+      label: Service Visit ID
+      hint: null
+      type: select_one
+      options:
+      - Service Visit 1
+      - Service Visit 2
+      - Service Visit 3
+      required: true
+    - id: 3
+      name: dealership_maintenance_service_feedback_poll_service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Brake Service
+      - Other
+      required: true
+    - id: 4
+      name: dealership_maintenance_service_feedback_poll_technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dealership_maintenance_service_feedback_poll_service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: dealership_maintenance_service_feedback_poll_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 7
+      name: dealership_maintenance_service_feedback_poll_would_use_again
+      label: Would Use Again
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: dealership_maintenance_service_feedback_poll_would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: dealership_maintenance_service_feedback_poll_improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dealership_maintenance_service_feedback_poll_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

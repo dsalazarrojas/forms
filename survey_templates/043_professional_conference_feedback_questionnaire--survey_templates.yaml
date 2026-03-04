@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_conference_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sessions
+      label: Sessions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: speakers
+      label: Speakers
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option3
+      required: false
+    - id: 5
+      name: networking
+      label: Networking
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: catering
+      label: Catering
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

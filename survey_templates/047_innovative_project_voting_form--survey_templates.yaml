@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovative Project Voting Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 4
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: project_rating
+      label: Project Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_score
+      label: Project Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_time
+      label: Project Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: project_email
+      label: Project Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_phone
+      label: Project Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_comments
+      label: Project Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: project_disagree
+      label: Disagree
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: project_undecided
+      label: Undecided
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: project_other_comments
+      label: Other Comments
+      hint: null
+      type: note
+      options: []
+      required: false

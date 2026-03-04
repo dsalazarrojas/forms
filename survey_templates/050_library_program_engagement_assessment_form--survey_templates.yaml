@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Program Engagement Assessment Form
+    pages:
+    - id: 1
+      name: event_participation
+      label: Event Participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: attendance_frequency
+      label: Attendance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recommendation_level
+      label: Recommended to Others
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: event_length
+      label: Event Length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: staff_attention
+      label: Staff Attention
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

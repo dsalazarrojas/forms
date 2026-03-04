@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiotherapy Virtual Assistant Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_satisfaction
+      label: What did you think about your experience with our radiotherapy virtual
+        assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feature_usefulness
+      label: How useful do you think the virtual assistant was in helping you with
+        your task?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feature_improvement
+      label: What features would you like to see improved or added to the virtual
+        assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: What was your overall experience with the virtual assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feature_selection_1
+      label: How did you hear about the virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Online search''}'
+      - '{''option2'': ''Social media''}'
+      - '{''option3'': ''Word of mouth''}'
+      - '{''option4'': ''Healthcare professional''}'
+      - '{''option5'': ''Other''}'
+      required: false
+    - id: 10
+      name: feature_selection_2
+      label: What do you think about the virtual assistant's interface?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''User-friendly''}'
+      - '{''option2'': ''Intuitive''}'
+      - '{''option3'': ''Confusing''}'
+      - '{''option4'': ''Other''}'
+      required: false
+    - id: 11
+      name: feature_selection_3
+      label: How would you rate the virtual assistant's response time?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Immediate''}'
+      - '{''option2'': ''Quick''}'
+      - '{''option3'': ''Slow''}'
+      - '{''option4'': ''Varies''}'
+      required: false
+    - id: 12
+      name: feature_selection_4
+      label: How would you rate the virtual assistant's accuracy?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Very accurate''}'
+      - '{''option2'': ''Somewhat accurate''}'
+      - '{''option3'': ''Not accurate''}'
+      - '{''option4'': ''No answer''}'
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

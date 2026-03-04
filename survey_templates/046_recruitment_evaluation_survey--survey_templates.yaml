@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_process
+      label: How would you rate the overall evaluation process?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_criteria
+      label: What criteria do you think are used to evaluate candidates?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: evaluation_process_improvements
+      label: How can the evaluation process be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: How would you rate communication with the recruitment team?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_improvements
+      label: What could the recruitment team have done to improve communication?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_process_improvements
+      label: How can the evaluation process be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: How do you rate your overall satisfaction with the process?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction_improvements
+      label: How could we improve to increase overall satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false

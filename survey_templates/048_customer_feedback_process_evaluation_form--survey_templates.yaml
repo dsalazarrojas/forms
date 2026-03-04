@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_feedback_process_evaluation_form
+    pages:
+    - id: 1
+      name: first_page
+      label: Customer Feedback Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating scale (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_insights
+      label: customer_insights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: services_improvement
+      label: services_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_experience
+      label: customer_experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

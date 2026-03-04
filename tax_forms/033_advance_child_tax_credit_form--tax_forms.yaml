@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Child Tax Credit Form
+    pages:
+    - id: 1
+      name: section_taxpayer
+      label: -- Taxpayer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_full_name
+      label: Parent Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number_last_4
+      label: Social Security Number - Last 4
+      hint: for verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_child
+      label: -- Child or Dependent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: school_currently_attending
+      label: School Currently Attending
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: Current grade level
+      type: select_one
+      options:
+      - Pre-K
+      - Elementary
+      - Middle School
+      - High School
+      - Higher Education
+      required: true
+    - id: 11
+      name: section_claim
+      label: -- Claim Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: annual_tuition_expenses
+      label: Annual Tuition Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: other_educational_costs
+      label: Other Educational Costs
+      hint: Books, supplies, transportation
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: previously_claimed_this_year
+      label: Previously Claimed This Year
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_dec
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accuracy_confirmation
+      label: Accuracy Confirmation
+      hint: I understand that providing false information is a legal offense
+      type: select_one
+      options:
+      - I certify this information is correct
+      - I do not certify
+      required: true
+    - id: 17
+      name: parent_legal_signature
+      label: Parent Legal Signature
+      hint: Type your full legal name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: orange_challenge_evaluation_survey
+    pages:
+    - id: 1
+      name: participant_feedback
+      label: Participant feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: suggestions_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_improvement_2
+      label: more_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_suggestion
+      label: event_suggestion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: date_last_attended
+      label: date_last_attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_last_attended
+      label: time_last_attended
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_rating
+      label: satisfaction_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: suggestions_for_events
+      label: suggestions_for_events
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: suggestions_for_wellness
+      label: suggestions_for_wellness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_attended
+      label: event_attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: event_frequency
+      label: event_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 25
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

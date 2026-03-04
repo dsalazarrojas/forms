@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_preparation_checklist_form
+    pages:
+    - id: 1
+      name: survey_preparation_checklist_form_title
+      label: Survey Preparation Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_preparation_checklist_form_survey_template
+      label: survey_template
+      hint: null
+      type: select_one
+      options:
+      - template_name_a
+      - template_name_b
+      - template_name_c
+      required: false
+    - id: 3
+      name: survey_preparation_checklist_form_survey_objective
+      label: survey_objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_preparation_checklist_form_survey_questions
+      label: survey_questions
+      hint: null
+      type: select_multiple
+      options:
+      - question_1
+      - question_2
+      - question_3
+      required: false
+    - id: 5
+      name: survey_preparation_checklist_form_survey_scale
+      label: survey_scale
+      hint: null
+      type: select_one
+      options:
+      - scale_a
+      - scale_b
+      - scale_c
+      required: false
+    - id: 6
+      name: survey_preparation_checklist_form_survey_language
+      label: survey_language
+      hint: null
+      type: select_one
+      options:
+      - language_a
+      - language_b
+      - language_c
+      required: false
+    - id: 7
+      name: survey_preparation_checklist_form_survey_length
+      label: survey_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_preparation_checklist_form_survey_notes
+      label: survey_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: survey_preparation_checklist_form_survey_email
+      label: survey_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: survey_preparation_checklist_form_survey_phone
+      label: survey_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: robotics_and_diversity_impact_survey
+    pages:
+    - id: 1
+      name: demographics
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''male''}'
+      - '{''label'': ''female''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 3
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Black or African American''}'
+      - '{''label'': ''Hispanic or Latino''}'
+      - '{''label'': ''Asian''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: highest_edu
+      label: highest_edu
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than High School''}'
+      - '{''label'': ''High School''}'
+      - '{''label'': ''Some College''}'
+      - '{''label'': "Bachelor''s Degree"}'
+      - '{''label'': "Master''s Degree"}'
+      - '{''label'': ''Doctoral Degree''}'
+      required: false
+    - id: 6
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''10-20 years''}'
+      - '{''label'': ''More than 20 years''}'
+      required: false
+    - id: 7
+      name: diversity_focus_area
+      label: diversity_focus_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Hiring and recruitment''}'
+      - '{''label'': ''Training and development''}'
+      - '{''label'': ''Inclusivity in robotics''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: diversity_focus_area_other
+      label: diversity_focus_area_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: diversity_focus_area_other_description
+      label: diversity_focus_area_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: robotics_participation
+      label: robotics_participation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School''}'
+      - '{''label'': ''College/University''}'
+      - '{''label'': ''Community''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''None''}'
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adjunct Teaching Preference Form
+    pages:
+    - id: 1
+      name: instructor_information
+      label: Instructor information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor name
+      hint: Full professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For scheduling and assignments
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: preferred_courses
+      label: Preferred courses to teach
+      hint: List course titles or codes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_locations
+      label: Preferred campus or online
+      hint: On campus or remote preferences
+      type: select_one
+      options:
+      - Main campus
+      - Satellite campus
+      - Online
+      required: false
+    - id: 6
+      name: semester_availability
+      label: Semester availability
+      hint: Which terms you are available
+      type: select_multiple
+      options:
+      - Fall
+      - Spring
+      - Summer
+      required: true
+    - id: 7
+      name: max_course_load
+      label: Maximum course load
+      hint: Number of courses you can teach per term
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: teaching_format
+      label: Teaching format preference
+      hint: In person hybrid or online
+      type: select_one
+      options:
+      - In person
+      - Hybrid
+      - Online
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other preferences or constraints
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature name
+      hint: Typed name for confirmation
+      type: text
+      options: []
+      required: true

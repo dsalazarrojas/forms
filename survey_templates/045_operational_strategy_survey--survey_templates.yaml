@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: operational-strategy-survey
+    pages:
+    - id: 1
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 2
+      name: operational_strategy_score
+      label: Operational Strategy Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: business_models_impacts
+      label: Business Models' Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - High or Medium or Low
+      - Other
+      required: false
+    - id: 4
+      name: communication_technologies
+      label: Communication Technologies
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: decision_making_procedures
+      label: Decision Making Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Formal or Informal or Flexible
+      - Other
+      required: false
+    - id: 6
+      name: operational_capacity
+      label: Operational Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: business_continuity
+      label: Business Continuity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: operational_planning
+      label: Operational Planning
+      hint: null
+      type: select_multiple
+      options:
+      - Formal or Informal or Flexible
+      - Other
+      required: false
+    - id: 9
+      name: operational_strategy_score_2
+      label: Operational Strategy Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback_sources
+      label: Feedback Sources
+      hint: null
+      type: select_one
+      options:
+      - Stakeholders
+      - Employees
+      - Customers
+      required: false
+    - id: 11
+      name: feedback_mechanisms
+      label: Feedback Mechanisms
+      hint: null
+      type: select_multiple
+      options:
+      - Stakeholders or Employees or Customers
+      - Other
+      required: false

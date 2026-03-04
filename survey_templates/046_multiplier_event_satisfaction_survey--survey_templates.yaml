@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiplier Event Satisfaction Survey
+    pages:
+    - id: 1
+      name: event_satisfaction
+      label: What was your experience with the online event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizers
+      label: How would you rate the event organizers?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: How can we best contact you for follow-up?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_event
+      label: Time of event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: multiplier_event_name
+      label: Multiplier Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: multiplier_event_location
+      label: Location of the event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_participation_type
+      label: Type of event participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: event_participation_level
+      label: Level of event participation
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: event_attendance
+      label: Attendance at event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_satisfaction
+      label: Satisfaction with event
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 14
+      name: event_suggestions
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

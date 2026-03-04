@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: preschool summer camp enrollment form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - cash
+      - check
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: select_multiple
+      options:
+      - allergies
+      - medical conditions
+      - special needs
+      required: false
+    - id: 13
+      name: medical_release
+      label: Medical Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - mother
+      - father
+      - guardian
+      - other
+      required: true
+    - id: 15
+      name: emergency_contact_permission
+      label: Emergency Contact Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

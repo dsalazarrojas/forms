@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biscuit Awards Nomination Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Biscuit Awards Nomination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Nominate an outstanding individual or achievement
+      hint: Help us celebrate excellence in the biscuit industry
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_nominator
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: nominator_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: nominator_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_organization
+      label: Organization
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_title
+      label: Your Title or Position
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_category
+      label: -- Award Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: award_category
+      label: Award Category
+      hint: Which category are you nominating for
+      type: select_one
+      options:
+      - Best Biscuit Innovation
+      - Best Biscuit Product
+      - Best Biscuit Flavors
+      - Best Biscuit Production
+      - Best Customer Service
+      - Sustainability Excellence
+      - Leadership Award
+      - Emerging Business
+      - Lifetime Achievement
+      - Community Impact
+      required: true
+    - id: 11
+      name: section_nominee
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: nominee_name
+      label: Nominee Name
+      hint: Full name of nominee
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: nominee_organization
+      label: Nominee Organization
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: nominee_title
+      label: Nominee Title or Position
+      hint: Their role
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nominee_email
+      label: Nominee Email
+      hint: Contact email if available
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: nominee_phone
+      label: Nominee Phone
+      hint: Contact phone if available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_justification
+      label: -- Nomination Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: why_deserving
+      label: Why They Deserve This Award
+      hint: Explain their achievements and impact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: achievements_list
+      label: Key Achievements
+      hint: List specific accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: innovation_description
+      label: Innovation or Leadership Demonstrated
+      hint: Describe their contributions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: impact_on_industry
+      label: Impact on the Biscuit Industry
+      hint: How have they influenced the industry
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: uniqueness
+      label: What Makes Them Unique
+      hint: Special qualities or characteristics
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_evidence
+      label: -- Supporting Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: years_in_industry
+      label: Years in the Biscuit Industry
+      hint: How long have they been involved
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: recognition_received
+      label: Previous Recognition or Awards
+      hint: Any other awards or honors
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: awards_scale
+      label: Scale of Achievement
+      hint: Rate the scope of their impact
+      type: select_one
+      options:
+      - Local Impact
+      - Regional Impact
+      - National Impact
+      - International Impact
+      required: true
+    - id: 27
+      name: market_growth
+      label: Business or Program Growth
+      hint: Describe growth they've achieved
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_support
+      label: -- Supporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: reference_contact1
+      label: Reference Contact 1
+      hint: Someone who can verify nomination
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: reference_contact1_info
+      label: Reference 1 Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: reference_contact2
+      label: Reference Contact 2
+      hint: Another person who can verify
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: supporting_documentation
+      label: Supporting Documentation Link
+      hint: URL to articles, awards, etc.
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: accuracy_confirmation
+      label: I confirm this nomination is accurate
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I Confirm Accuracy
+      - I Do Not Confirm
+      required: true
+    - id: 35
+      name: conflict_of_interest
+      label: Conflict of Interest Statement
+      hint: Any personal or business relationship
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: consent_to_contact
+      label: We may contact nominee to confirm
+      hint: Permission to reach out
+      type: select_one
+      options:
+      - Yes, You May Contact
+      - No, Do Not Contact
+      required: true

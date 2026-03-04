@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Agent Evaluation Survey
+    pages:
+    - id: 1
+      name: first_call_experience
+      label: First Call Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_one
+      options:
+      - Agent is very friendly and approachable
+      - Agent is very friendly and approachable but sometimes seems distant
+      - Agent is somewhat friendly and approachable
+      - Agent is not friendly and not approachable
+      required: true
+    - id: 3
+      name: problem_resolution
+      label: Problem Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Very Effective
+      required: true
+    - id: 4
+      name: tone
+      label: Tone
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Very Poor
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Very Poor
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - QA Team
+      - Voice Agent
+      - Customer
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: other_user
+      label: Other User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_user_title
+      label: Other User Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_user_company
+      label: Other User Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_user_phone
+      label: Other User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_user_email
+      label: Other User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: other_user_comments
+      label: Other User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_title
+      label: Customer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_location
+      label: Customer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_department
+      label: Customer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true

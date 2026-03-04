@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Country Search And Filter
+    pages:
+    - id: 1
+      name: country_search_and_filter_page
+      label: Country Search And Filter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_field
+      label: Search
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: search_filter_field
+      label: Filter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_one_field
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: select_multiple_field
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

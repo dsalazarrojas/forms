@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Issue Form
+    pages:
+    - id: 1
+      name: issue_title
+      label: Issue Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_first_observed
+      label: Date First Observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_first_observed
+      label: Time First Observed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_first_observed
+      label: Location First Observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_second_observed
+      label: Date Second Observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_second_observed
+      label: Time Second Observed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location_second_observed
+      label: Location Second Observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: steps_taken
+      label: Steps Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 11
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

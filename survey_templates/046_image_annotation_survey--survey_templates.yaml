@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_annotation_survey
+    pages:
+    - id: 1
+      name: upload_image
+      label: Upload Image
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: annotation_details
+      label: Annotation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree to the terms and conditions'', ''value'': ''agree''}'
+      - '{''label'': ''I do not agree to the terms and conditions'', ''value'': ''disagree''}'
+      required: false
+    - id: 4
+      name: upload_url
+      label: Upload URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: annotation_type
+      label: Annotation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Classification'', ''value'': ''classification''}'
+      - '{''label'': ''Identification'', ''value'': ''identification''}'
+      - '{''label'': ''Object Detection'', ''value'': ''object_detection''}'
+      - '{''label'': ''Segmentation'', ''value'': ''segmentation''}'
+      required: true
+    - id: 6
+      name: upload_url_label
+      label: Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: annotation_status
+      label: Annotation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started'', ''value'': ''not_started''}'
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: true

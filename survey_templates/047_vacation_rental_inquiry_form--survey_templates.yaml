@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Rental Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_name
+      label: Inquiry Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: 10 digits please
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_in_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: check_out_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: Select all that apply.reported
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Triple
+      - Quad
+      - King
+      - Queen
+      required: true
+    - id: 11
+      name: guests
+      label: Guests
+      hint: Number of guests in party
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: true
+    - id: 12
+      name: inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentor Evaluation Form
+    pages:
+    - id: 1
+      name: form_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: mentor_name
+      label: mentor-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mentor_title
+      label: mentor-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_form_type
+      label: evaluation-form-type
+      hint: null
+      type: select_one
+      options:
+      - Mentoring
+      - Coaching
+      - Training
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: evaluation-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mentee_name
+      label: mentee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mentee_title
+      label: mentee-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mentee_level
+      label: mentee-level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Peer
+      required: false
+    - id: 9
+      name: evaluation_period
+      label: evaluation-period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 10
+      name: evaluation_frequency
+      label: evaluation-frequencies
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Twice
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      required: false
+    - id: 11
+      name: evaluation_comment
+      label: evaluation-comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: rating_average
+      label: rating-average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_mentee
+      label: rating-mentee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_comments
+      label: evaluation-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submission_date_2
+      label: submission-date-2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_to
+      label: submitted-to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_time
+      label: submission-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: mentor_evaluation
+      label: mentor_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mentee_evaluation
+      label: mentee_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: evaluation_by
+      label: evaluation-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_of
+      label: evaluation-of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_form_version
+      label: evaluation-form-version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_form_number
+      label: evaluation-form-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission_time
+      label: form-submission-time
+      hint: null
+      type: time
+      options: []
+      required: false

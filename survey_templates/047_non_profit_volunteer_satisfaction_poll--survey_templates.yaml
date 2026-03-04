@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Profit Volunteer Satisfaction Poll
+    pages:
+    - id: 1
+      name: volunteer_satisfaction
+      label: Volunteer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_engagement
+      label: How engaged do you feel with our nonprofit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_education
+      label: Education or Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: volunteer_suggestions
+      label: Any suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_education_value
+      label: Education or Training Value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: volunteer_satisfaction_important
+      label: What matters most for your satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: volunteer_satisfaction_scale
+      label: How satisfied are you with our program
+      hint: null
+      type: number
+      options: []
+      required: false

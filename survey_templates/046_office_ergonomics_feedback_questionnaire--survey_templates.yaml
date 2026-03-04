@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Ergonomics Feedback Questionnaire
+    pages:
+    - id: 1
+      name: office_ergonomics_feedback_questionnaire
+      label: office_ergonomics_feedback_questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: comfort_level
+      label: how_comfortable_are_you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workplace_ergonomics
+      label: what_do_you_think_is_best_implemented
+      hint: null
+      type: select_multiple
+      options:
+      - Ergo Chair
+      - Ergo Desk
+      - Adjustable Desk
+      - Footrest
+      - Standing Desk
+      - Other
+      required: false
+    - id: 4
+      name: workplace_ergonomics_issues
+      label: are_there_any_ergonomic_issues_in_your_workspace
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      - Not Sure
+      required: false
+    - id: 5
+      name: ergonomic_improvements
+      label: what_improvements_do_you_suggest_for_your_workspace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Marketing Manager
+      - Software Engineer
+      - Operations Director
+      - Other
+      required: false
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Software Development
+      - Operations
+      - Other
+      required: false
+    - id: 13
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: completed_at
+      label: completed_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: completed_on
+      label: completed_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ergo_score
+      label: ergo_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: ergonomic_score_comment
+      label: ergonomic_score_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

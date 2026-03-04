@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Guardian Attestation
+    pages:
+    - id: 1
+      name: parent_attestation
+      label: Has Covid 19?
+      hint: null
+      type: select_multiple
+      options:
+      - Covid 19 symptoms
+      - No Covid 19 symptoms
+      required: false
+    - id: 2
+      name: covid_symptoms
+      label: Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_relationship
+      label: Relationship To Student
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Guardian
+      - Other
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

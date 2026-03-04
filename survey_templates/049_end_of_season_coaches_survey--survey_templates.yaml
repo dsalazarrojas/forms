@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_season_coaches_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_performance
+      label: team_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: true
+    - id: 3
+      name: coaching_performance
+      label: coaching_performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: true
+    - id: 4
+      name: player_attendance
+      label: player_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: coaching_attitude
+      label: coaching_attitude
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''positive''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''negative''}'
+      required: true
+    - id: 6
+      name: sportsmanship
+      label: sportsmanship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 8
+      name: team_environment
+      label: team_environment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: true
+    - id: 9
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: coaches_satisfaction
+      label: coaches_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''satisfied''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''dissatisfied''}'
+      - '{''value'': ''very_dissatisfied''}'
+      required: false

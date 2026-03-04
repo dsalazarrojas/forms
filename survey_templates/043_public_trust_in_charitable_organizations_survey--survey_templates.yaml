@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_trust_in_charitable_organizations_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trust_drivers
+      label: trust_drivers
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_low'', ''label'': ''Very Low''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''very_high'', ''label'': ''Very High''}'
+      required: false
+    - id: 3
+      name: confidence
+      label: confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: charitable_organizations
+      label: charitable_organizations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''nonprofit'', ''label'': ''Nonprofit''}'
+      - '{''value'': ''government'', ''label'': ''Government''}'
+      - '{''value'': ''hybrid'', ''label'': ''Hybrid''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

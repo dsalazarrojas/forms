@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Feedback Form
+    pages:
+    - id: 1
+      name: parent_feedback
+      label: parent_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_climate
+      label: feedback_on_climate
+      hint: null
+      type: select_multiple
+      options:
+      - Climate is too hot
+      - Climate is too cold
+      - Climate is just right
+      required: false
+    - id: 4
+      name: feedback_on_facilities
+      label: feedback_on_facilities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback_on_services
+      label: feedback_on_services
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: teacher_performance
+      label: teacher_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_performance
+      label: student_performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_on_safety
+      label: feedback_on_safety
+      hint: null
+      type: select_multiple
+      options:
+      - Always Safe
+      - Mostly Safe
+      - Sometimes Safe
+      - Never Safe
+      required: false
+    - id: 13
+      name: suggestions
+      label: suggestions
+      hint: Do you have any suggestions?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Inspection Form
+    pages:
+    - id: 1
+      name: tool_inspection_form
+      label: tool_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tool_name
+      label: tool_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Electric
+      - Hydraulic
+      - Pneumatic
+      - Mechanical
+      required: true
+    - id: 4
+      name: tool_condition
+      label: tool_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      - Needs Replacement
+      required: true
+    - id: 5
+      name: assigned_technician
+      label: assigned_technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: signature_technician
+      label: signature_technician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: tool_serial_number
+      label: tool_serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tool_mfg_date
+      label: tool_mfg_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tool_mfg_number
+      label: tool_mfg_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tool_model
+      label: tool_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tool_color
+      label: tool_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tool_weight
+      label: tool_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tool_height
+      label: tool_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tool_length
+      label: tool_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_wide
+      label: tool_wide
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: tool_depth
+      label: tool_depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tool_diameter
+      label: tool_diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tool_material
+      label: tool_material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tool_weight_limit
+      label: tool_weight_limit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tool_height_limit
+      label: tool_height_limit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tool_color_limit
+      label: tool_color_limit
+      hint: null
+      type: text
+      options: []
+      required: false

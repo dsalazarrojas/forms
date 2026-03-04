@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Language Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Afrikaans
+      - English
+      - isiXhosa
+      - isiZulu
+      required: true
+    - id: 3
+      name: additional_languages
+      label: Additional Languages
+      hint: null
+      type: select_multiple
+      options:
+      - Afrikaans
+      - English
+      - isiXhosa
+      - isiZulu
+      - Sesotho
+      - isiNdebele
+      - Setswana
+      required: false
+    - id: 4
+      name: language_group
+      label: Language Group
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Afrikaans
+      - isiXhosa
+      - isiZulu
+      - isiNdebele
+      - Sesotho
+      - Setswana
+      required: true
+    - id: 5
+      name: language_spoken_at_home
+      label: Language Spoken at Home
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Afrikaans
+      - isiXhosa
+      - isiZulu
+      - Sesotho
+      - isiNdebele
+      - Setswana
+      required: true
+    - id: 6
+      name: language_spoken_outside
+      label: Language Spoken Outside Home
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Afrikaans
+      - isiXhosa
+      - isiZulu
+      - Sesotho
+      - isiNdebele
+      - Setswana
+      required: true
+    - id: 7
+      name: language_first_spoken
+      label: Language First Spoken
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Afrikaans
+      - isiXhosa
+      - isiZulu
+      - Sesotho
+      - isiNdebele
+      - Setswana
+      required: true
+    - id: 8
+      name: language_preferred
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Afrikaans
+      - isiXhosa
+      - isiZulu
+      - Sesotho
+      - isiNdebele
+      - Setswana
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_survey
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_survey
+      label: Time of Survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_of_year
+      label: Time of Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      required: true
+    - id: 17
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Afrikaans
+      - isiXhosa
+      - isiZulu
+      - isiNdebele
+      - Setswana
+      required: false
+    - id: 21
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: student_number
+      label: Student Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: student_class
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 24
+      name: school_code
+      label: School Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

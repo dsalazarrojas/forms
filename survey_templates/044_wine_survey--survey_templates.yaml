@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the wine survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wine_preferences
+      label: What type of wine do you enjoy?
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - White
+      - Rosé
+      - Sparkling
+      - Dessert
+      required: false
+    - id: 3
+      name: wine_consumption_frequency
+      label: How often do you drink wine?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: favorite_wine_type
+      label: What is your favorite type of wine?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - White
+      - Rosé
+      - Sparkling
+      - Dessert
+      required: true
+    - id: 5
+      name: price_range
+      label: What price range do you usually pay for a bottle of wine?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: wine_consumption_preferences
+      label: Which of the following wines do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - Chardonnay
+      - Merlot
+      - Pinot
+      - Sauvignon Blanc
+      - Cabernet
+      required: true
+    - id: 7
+      name: wine_consumption_preferences_other
+      label: Is there a wine not listed above that you prefer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wine_purchase_location
+      label: Where do you usually purchase wine?
+      hint: null
+      type: select_multiple
+      options:
+      - Winery
+      - Liquor store
+      - Online store
+      - Grocery store
+      - Restaurant
+      required: false
+    - id: 9
+      name: wine_tasting_frequency
+      label: How often do you participate in wine tastings?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: wine_club_membership
+      label: Are you a member of a wine club?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: wine_club_frequency
+      label: How often do you attend wine club events?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 12
+      name: winery_visits
+      label: How often do you visit a winery?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 13
+      name: wine_consumption_purpose
+      label: Why do you drink wine?
+      hint: null
+      type: select_multiple
+      options:
+      - Social
+      - Special occasions
+      - Relaxation
+      - Food pairing
+      - Other
+      required: false
+    - id: 14
+      name: wine_purchase_amount
+      label: What is your average monthly wine purchase amount?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: wine_frequency
+      label: How often do you drink wine?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: wine_taste_preferences
+      label: Do you prefer a strong or weak wine taste?
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Weak
+      required: true
+    - id: 17
+      name: wine_color_preferences
+      label: Which wine color do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - White
+      - Rosé
+      - Sparkling
+      - All
+      required: false
+    - id: 18
+      name: food_pairing_wine
+      label: Which types of food pair well with wine?
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Pasta
+      - Salad
+      - Cheese plate
+      - Dessert
+      required: false
+    - id: 19
+      name: wine_consumption_time
+      label: What time of day do you usually drink wine?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 20
+      name: wine_quality
+      label: What do you think of wine quality?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Terrible
+      required: false
+    - id: 21
+      name: wine_price
+      label: What do you usually pay for a bottle of wine?
+      hint: null
+      type: select_one
+      options:
+      - Less than $10
+      - $10-$20
+      - $20-$30
+      - $30-$40
+      - More than $40
+      required: true
+    - id: 22
+      name: wine_taste
+      label: How do you usually drink wine?
+      hint: null
+      type: select_one
+      options:
+      - Slowly
+      - Quickly
+      required: false
+    - id: 23
+      name: wine_purchase_reason
+      label: Why do you purchase wine?
+      hint: null
+      type: select_multiple
+      options:
+      - Gift
+      - Self-consumption
+      - Business
+      - Special occasion
+      - Other
+      required: false
+    - id: 24
+      name: favorite_wine_taste
+      label: What is your favorite type of wine taste?
+      hint: null
+      type: select_one
+      options:
+      - Acidity
+      - Fruity
+      - Earthy
+      - Spicy
+      - Floral
+      required: false
+    - id: 25
+      name: comments
+      label: Any additional comments about wine?
+      hint: null
+      type: text
+      options: []
+      required: false

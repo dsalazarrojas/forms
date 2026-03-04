@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: School System Survey
+    pages:
+    - id: 1
+      name: school_system_survey
+      label: school-system-survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: form_id
+      label: form-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: output-file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category2
+      label: category2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: category3
+      label: category3
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false

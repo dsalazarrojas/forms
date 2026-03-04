@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: customer_support_satisfaction_questionnaire
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_support_satisfaction_questionnaire_questions
+      label: what_were_you_contacted_for
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''technical_issue''}'
+      - '{''value'': ''billing_issue''}'
+      - '{''value'': ''general_question''}'
+      required: true
+    - id: 3
+      name: customer_support_satisfaction_questionnaire_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_support_satisfaction_questionnaire_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_support_satisfaction_questionnaire_satisfied
+      label: satisfied
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: customer_support_satisfaction_questionnaire_improve
+      label: improve_areas
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''communication''}'
+      - '{''value'': ''response_time''}'
+      - '{''value'': ''knowledge''}'
+      - '{''value'': ''overall_experience''}'
+      required: true
+    - id: 7
+      name: customer_support_satisfaction_questionnaire_contact
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''phone''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''chat''}'
+      required: true
+    - id: 8
+      name: customer_support_satisfaction_questionnaire_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_support_satisfaction_questionnaire_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: customer_support_satisfaction_questionnaire_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

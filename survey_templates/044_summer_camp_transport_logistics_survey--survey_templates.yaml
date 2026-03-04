@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Transport Logistics Survey
+    pages:
+    - id: 1
+      name: transportation_needs
+      label: Transportation Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_pick_up_location
+      label: Preferred Pick Up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pick_up_time
+      label: Pick Up Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transportation_arrangements
+      label: Transportation Arrangements
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Drive
+      - Other
+      required: false
+    - id: 6
+      name: transportation_contact_information
+      label: Transportation Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drop_off_location
+      label: Drop Off Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: drop_off_time
+      label: Drop Off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
